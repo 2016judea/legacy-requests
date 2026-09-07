@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+data/cache/pdf/*.pdf
+data/cache/pdf/*.txt
+data/cache/pdf/*.pages
+data/cache/json/
+data/ingest.log
+.vercel/
+.env
