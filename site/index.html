@@ -38,7 +38,17 @@ a{color:var(--accent)}
 .empty{padding:40px 16px;text-align:center;color:var(--muted)}
 footer{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);font-size:13px}
 @media (max-width:900px){
+  header{padding-top:18px}
+  .lede{font-size:14px;margin-bottom:12px}
+  .controls{gap:6px}
+  select{flex:1 1 40%;min-width:0;padding:8px 10px;font-size:14px}
+  label.tog{flex:1 1 100%;justify-content:center;padding:8px}
+  .chips{flex-wrap:nowrap;overflow-x:auto;margin:8px -16px 0;padding:0 16px 6px;scrollbar-width:none}
+  .chips::-webkit-scrollbar{display:none}
+  .chip{white-space:nowrap}
+  .count{margin-top:8px}
   table,thead,tbody,tr,td{display:block}
+  td.e{display:none}
   thead{display:none}
   tr{padding:12px 14px;border-bottom:1px solid var(--line)}
   td{padding:2px 0;border:0}
@@ -51,14 +61,14 @@ footer{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fon
 <body>
 <header>
 <h1>The Google of obsolete infrastructure parts</h1>
-<p class="lede"><b>55 equipment purchases</b> that <b>2 public agencies</b> could buy from only one supplier, 2024–2024. 31 manufacturers, 52 with a price. Every row quotes the agency's own reason and links to the source document.</p>
+<p class="lede"><b>55 equipment purchases</b> that <b>2 public agencies</b> could buy from only one supplier, 2024. 31 manufacturers, 52 with a price. Every row quotes the agency's own reason and links to the source document.</p>
 <div class="controls">
   <input id="q" type="search" placeholder="Search manufacturer, model, part, vendor, agency…" autocomplete="off" autofocus>
   <select id="mfr"><option value="">All manufacturers</option></select>
   <select id="agency"><option value="">All agencies</option><option>City of Milwaukee</option><option>Orange County Sanitation District</option></select>
   <label class="tog"><input type="checkbox" id="obs"> Obsolete / discontinued only</label>
 </div>
-<div class="chips" id="chips"><button class="chip" data-c="pump" aria-pressed="false">pump</button><button class="chip" data-c="instrumentation/calibration" aria-pressed="false">instrumentation/calibration</button><button class="chip" data-c="other equipment" aria-pressed="false">other equipment</button><button class="chip" data-c="SCADA/controls/software" aria-pressed="false">SCADA/controls/software</button><button class="chip" data-c="vehicle/fleet" aria-pressed="false">vehicle/fleet</button><button class="chip" data-c="treatment process (membrane/centrifuge/UV/chemical feed)" aria-pressed="false">treatment process (membrane/centrifuge/UV/chemical feed)</button><button class="chip" data-c="generator" aria-pressed="false">generator</button><button class="chip" data-c="service/maintenance contract" aria-pressed="false">service/maintenance contract</button><button class="chip" data-c="pipe/fitting" aria-pressed="false">pipe/fitting</button><button class="chip" data-c="electrical/switchgear/transformer" aria-pressed="false">electrical/switchgear/transformer</button><button class="chip" data-c="HVAC" aria-pressed="false">HVAC</button><button class="chip" data-c="motor/drive" aria-pressed="false">motor/drive</button></div>
+<div class="chips" id="chips"><button class="chip" data-c="pump" aria-pressed="false">pump</button><button class="chip" data-c="instrumentation/calibration" aria-pressed="false">instrumentation</button><button class="chip" data-c="other equipment" aria-pressed="false">other equipment</button><button class="chip" data-c="SCADA/controls/software" aria-pressed="false">SCADA/software</button><button class="chip" data-c="vehicle/fleet" aria-pressed="false">vehicles</button><button class="chip" data-c="treatment process (membrane/centrifuge/UV/chemical feed)" aria-pressed="false">treatment process</button><button class="chip" data-c="generator" aria-pressed="false">generator</button><button class="chip" data-c="service/maintenance contract" aria-pressed="false">service contract</button><button class="chip" data-c="pipe/fitting" aria-pressed="false">pipe/fitting</button><button class="chip" data-c="electrical/switchgear/transformer" aria-pressed="false">electrical</button><button class="chip" data-c="HVAC" aria-pressed="false">HVAC</button><button class="chip" data-c="motor/drive" aria-pressed="false">motors/drives</button></div>
 </header>
 <main>
 <div class="count" id="count"></div>
@@ -88,8 +98,8 @@ function filtered(){
 }
 function row(r){
   const mm=r.manufacturer||r.model?`<span class="mm">${esc(r.manufacturer||'—')}${r.is_obsolete?'<span class="ob">OBSOLETE</span>':''}<small>${esc(r.model||'')}</small></span>`:`<span class="mm" style="color:var(--muted)">not stated${r.is_obsolete?'<span class="ob">OBSOLETE</span>':''}</span>`;
-  const vendor=r.sole_source_vendor&&r.sole_source_vendor!==r.manufacturer?`<small style="color:var(--muted)">via ${esc(r.sole_source_vendor)}</small>`:'';
-  return `<tr><td>${mm}</td><td data-l="Part">${esc(r.part)}${r.quantity?` <small style="color:var(--muted)">× ${esc(r.quantity)}</small>`:''}<br>${vendor}</td><td data-l="Agency">${esc(r.agency)}, ${esc(r.state)}</td><td class="num" data-l="Price">${money(r.price_usd)}</td><td data-l="Lead time">${esc(r.lead_time||'')}</td><td><div class="reason">“${esc(r.reason)}”</div></td><td data-l="Date">${esc(r.date)}</td><td class="src"><a href="${esc(r.source_url)}" target="_blank" rel="noopener">source PDF</a></td></tr>`;
+  const vendor=r.sole_source_vendor&&(r.sole_source_vendor||'').toLowerCase()!==(r.manufacturer||'').toLowerCase()?`<small style="color:var(--muted)">via ${esc(r.sole_source_vendor)}</small>`:'';
+  return `<tr><td>${mm}</td><td data-l="Part">${esc(r.part)}${r.quantity?` <small style="color:var(--muted)">× ${esc(r.quantity)}</small>`:''}<br>${vendor}</td><td data-l="Agency">${esc(r.agency)}, ${esc(r.state)}</td><td class="num${r.price_usd==null?' e':''}" data-l="Price">${money(r.price_usd)}</td><td class="${r.lead_time?'':'e'}" data-l="Lead time">${esc(r.lead_time||'')}</td><td><div class="reason">“${esc(r.reason)}”</div></td><td data-l="Date">${esc(r.date)}</td><td class="src"><a href="${esc(r.source_url)}" target="_blank" rel="noopener">source PDF</a></td></tr>`;
 }
 function draw(reset){
   if(reset)page=1;

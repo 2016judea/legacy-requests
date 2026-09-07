@@ -22,6 +22,19 @@ def load():
     return [{k: r.get(k) for k in FIELDS} for r in recs]
 
 
+def span(dates):
+    if not dates:
+        return ""
+    a, b = dates[0][:4], dates[-1][:4]
+    return a if a == b else f"{a}–{b}"
+
+
+SHORT = {"treatment process (membrane/centrifuge/UV/chemical feed)": "treatment process",
+         "electrical/switchgear/transformer": "electrical", "instrumentation/calibration": "instrumentation",
+         "SCADA/controls/software": "SCADA/software", "service/maintenance contract": "service contract",
+         "vehicle/fleet": "vehicles", "communications/radio": "radio", "motor/drive": "motors/drives"}
+
+
 def render(recs: list[dict]) -> str:
     agencies = sorted({r["agency"] for r in recs})
     classes = [c for c, _ in Counter(r["equipment_class"] for r in recs).most_common()]
@@ -69,7 +82,17 @@ a{{color:var(--accent)}}
 .empty{{padding:40px 16px;text-align:center;color:var(--muted)}}
 footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);font-size:13px}}
 @media (max-width:900px){{
+  header{{padding-top:18px}}
+  .lede{{font-size:14px;margin-bottom:12px}}
+  .controls{{gap:6px}}
+  select{{flex:1 1 40%;min-width:0;padding:8px 10px;font-size:14px}}
+  label.tog{{flex:1 1 100%;justify-content:center;padding:8px}}
+  .chips{{flex-wrap:nowrap;overflow-x:auto;margin:8px -16px 0;padding:0 16px 6px;scrollbar-width:none}}
+  .chips::-webkit-scrollbar{{display:none}}
+  .chip{{white-space:nowrap}}
+  .count{{margin-top:8px}}
   table,thead,tbody,tr,td{{display:block}}
+  td.e{{display:none}}
   thead{{display:none}}
   tr{{padding:12px 14px;border-bottom:1px solid var(--line)}}
   td{{padding:2px 0;border:0}}
@@ -82,14 +105,14 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
 <body>
 <header>
 <h1>{TITLE}</h1>
-<p class="lede"><b>{len(recs):,} equipment purchases</b> that <b>{len(agencies)} public agencies</b> could buy from only one supplier, {dates[0][:4] if dates else ''}–{dates[-1][:4] if dates else ''}. {n_mfr} manufacturers, {n_price:,} with a price. Every row quotes the agency's own reason and links to the source document.</p>
+<p class="lede"><b>{len(recs):,} equipment purchases</b> that <b>{len(agencies)} public agencies</b> could buy from only one supplier, {span(dates)}. {n_mfr} manufacturers, {n_price:,} with a price. Every row quotes the agency's own reason and links to the source document.</p>
 <div class="controls">
   <input id="q" type="search" placeholder="Search manufacturer, model, part, vendor, agency…" autocomplete="off" autofocus>
   <select id="mfr"><option value="">All manufacturers</option></select>
   <select id="agency"><option value="">All agencies</option>{''.join(f'<option>{a}</option>' for a in agencies)}</select>
   <label class="tog"><input type="checkbox" id="obs"> Obsolete / discontinued only</label>
 </div>
-<div class="chips" id="chips">{''.join(f'<button class="chip" data-c="{c}" aria-pressed="false">{c}</button>' for c in classes)}</div>
+<div class="chips" id="chips">{''.join(f'<button class="chip" data-c="{c}" aria-pressed="false">{SHORT.get(c, c)}</button>' for c in classes)}</div>
 </header>
 <main>
 <div class="count" id="count"></div>
@@ -119,8 +142,8 @@ function filtered(){{
 }}
 function row(r){{
   const mm=r.manufacturer||r.model?`<span class="mm">${{esc(r.manufacturer||'—')}}${{r.is_obsolete?'<span class="ob">OBSOLETE</span>':''}}<small>${{esc(r.model||'')}}</small></span>`:`<span class="mm" style="color:var(--muted)">not stated${{r.is_obsolete?'<span class="ob">OBSOLETE</span>':''}}</span>`;
-  const vendor=r.sole_source_vendor&&r.sole_source_vendor!==r.manufacturer?`<small style="color:var(--muted)">via ${{esc(r.sole_source_vendor)}}</small>`:'';
-  return `<tr><td>${{mm}}</td><td data-l="Part">${{esc(r.part)}}${{r.quantity?` <small style="color:var(--muted)">× ${{esc(r.quantity)}}</small>`:''}}<br>${{vendor}}</td><td data-l="Agency">${{esc(r.agency)}}, ${{esc(r.state)}}</td><td class="num" data-l="Price">${{money(r.price_usd)}}</td><td data-l="Lead time">${{esc(r.lead_time||'')}}</td><td><div class="reason">“${{esc(r.reason)}}”</div></td><td data-l="Date">${{esc(r.date)}}</td><td class="src"><a href="${{esc(r.source_url)}}" target="_blank" rel="noopener">source PDF</a></td></tr>`;
+  const vendor=r.sole_source_vendor&&(r.sole_source_vendor||'').toLowerCase()!==(r.manufacturer||'').toLowerCase()?`<small style="color:var(--muted)">via ${{esc(r.sole_source_vendor)}}</small>`:'';
+  return `<tr><td>${{mm}}</td><td data-l="Part">${{esc(r.part)}}${{r.quantity?` <small style="color:var(--muted)">× ${{esc(r.quantity)}}</small>`:''}}<br>${{vendor}}</td><td data-l="Agency">${{esc(r.agency)}}, ${{esc(r.state)}}</td><td class="num${{r.price_usd==null?' e':''}}" data-l="Price">${{money(r.price_usd)}}</td><td class="${{r.lead_time?'':'e'}}" data-l="Lead time">${{esc(r.lead_time||'')}}</td><td><div class="reason">“${{esc(r.reason)}}”</div></td><td data-l="Date">${{esc(r.date)}}</td><td class="src"><a href="${{esc(r.source_url)}}" target="_blank" rel="noopener">source PDF</a></td></tr>`;
 }}
 function draw(reset){{
   if(reset)page=1;
