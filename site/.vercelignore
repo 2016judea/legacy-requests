@@ -1,0 +1,5 @@
+# Local credentials and CLI state never belong in an upload.
+.env
+.env.*
+.vercel
+.gitignore

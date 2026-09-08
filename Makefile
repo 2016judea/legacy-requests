@@ -13,7 +13,7 @@ extract:     ## Claude turns each matter into records -> data/records.db + recor
 site:        ## regenerate site/index.html from data/records.jsonl
 	$(PY) scripts/build_site.py
 
-deploy: site ## push site/ to Vercel production
-	cd site && npx vercel deploy --prod --yes
+deploy: site ## push site/ to Vercel production (REST API; the CLI returns BLOCKED here)
+	$(PY) scripts/deploy.py
 
 all: ingest extract site
