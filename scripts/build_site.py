@@ -17,9 +17,16 @@ FIELDS = ["id", "manufacturer", "model", "part", "quantity", "price_usd", "lead_
           "equipment_class", "installed_location", "is_obsolete", "agency", "state", "date", "source_url", "legistar_url", "title"]
 
 
+PLACEHOLDER_PRICE = 100  # Columbus files "$1.00" as a not-to-exceed placeholder on universal term contracts
+
+
 def load():
     recs = [json.loads(l) for l in (ROOT / "data" / "records.jsonl").read_text().splitlines() if l.strip()]
-    return [{k: r.get(k) for k in FIELDS} for r in recs]
+    out = [{k: r.get(k) for k in FIELDS} for r in recs]
+    for r in out:
+        if r["price_usd"] is not None and r["price_usd"] < PLACEHOLDER_PRICE:
+            r["price_usd"] = None
+    return out
 
 
 def span(dates):
@@ -46,6 +53,7 @@ def render(recs: list[dict]) -> str:
     n_hw = sum(1 for r in recs if r["equipment_class"] in HARDWARE)
     n_soft = len(recs) - n_hw
     classes = [c for c, _ in Counter(r["equipment_class"] for r in recs).most_common()]
+    classes = [c for c in classes if c not in SOFT] + [c for c in classes if c in SOFT]
     n_mfr = len({(r["manufacturer"] or "").lower() for r in recs if r["manufacturer"]})
     n_price = sum(1 for r in recs if r["price_usd"])
     dates = sorted(r["date"] for r in recs if r["date"])
@@ -97,7 +105,7 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
   .lede{{font-size:14px;margin-bottom:12px}}
   .controls{{gap:6px}}
   select{{flex:1 1 40%;min-width:0;padding:8px 10px;font-size:14px}}
-  label.tog{{flex:1 1 100%;justify-content:center;padding:8px}}
+  label.tog{{flex:1 1 45%;justify-content:center;padding:8px;font-size:13px;white-space:normal;text-align:center}}
   .chips{{flex-wrap:nowrap;overflow-x:auto;margin:8px -16px 0;padding:0 16px 6px;scrollbar-width:none}}
   .chips::-webkit-scrollbar{{display:none}}
   .chip{{white-space:nowrap}}
@@ -116,7 +124,7 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
 <body>
 <header>
 <h1>{TITLE}</h1>
-<p class="lede"><b>{n_hw:,} pieces of equipment</b> that <b>{len(agencies)} public agencies</b> could buy from only one supplier, {span(dates)}, plus {n_soft:,} software and service contracts behind the toggle. {n_mfr} manufacturers, {n_price:,} rows with a price. Every row quotes the agency's own reason and links to the source document.</p>
+<p class="lede"><b>{n_hw:,} pieces of equipment</b> that <b>{len(agencies)} public agencies</b> could buy from only one supplier, {span(dates)}. Each row quotes the agency's own reason and links to the source document.</p>
 <div class="controls">
   <input id="q" type="search" placeholder="Search manufacturer, model, part, vendor, agency…" autocomplete="off" autofocus>
   <select id="mfr"><option value="">All manufacturers</option></select>
@@ -143,7 +151,7 @@ const q=$('#q'),mfr=$('#mfr'),ag=$('#agency'),obs=$('#obs'),soft=$('#soft'),rows
 const SOFT=new Set({json.dumps(SOFT)});
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}}[c]));
 const money=v=>v==null?'':'$'+Math.round(v).toLocaleString();
-let cls=new Set(),sortK='date',sortD=-1,page=1;const PAGE=100;
+let cls=new Set(),sortK='price_usd',sortD=-1,page=1;const PAGE=100;
 // manufacturers, most frequent first
 const mc={{}};R.forEach(r=>{{if(r.manufacturer)mc[r.manufacturer]=(mc[r.manufacturer]||0)+1}});
 Object.entries(mc).sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0])).forEach(([m,n])=>{{const o=document.createElement('option');o.value=m;o.textContent=`${{m}} (${{n}})`;mfr.append(o)}});
