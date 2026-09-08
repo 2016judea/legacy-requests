@@ -35,8 +35,16 @@ SHORT = {"treatment process (membrane/centrifuge/UV/chemical feed)": "treatment 
          "vehicle/fleet": "vehicles", "communications/radio": "radio", "motor/drive": "motors/drives"}
 
 
+HARDWARE = ["pump", "valve", "motor/drive", "electrical/switchgear/transformer", "generator", "HVAC", "pipe/fitting",
+            "treatment process (membrane/centrifuge/UV/chemical feed)", "instrumentation/calibration", "communications/radio",
+            "vehicle/fleet", "other equipment"]
+SOFT = ["SCADA/controls/software", "service/maintenance contract"]
+
+
 def render(recs: list[dict]) -> str:
     agencies = sorted({r["agency"] for r in recs})
+    n_hw = sum(1 for r in recs if r["equipment_class"] in HARDWARE)
+    n_soft = len(recs) - n_hw
     classes = [c for c, _ in Counter(r["equipment_class"] for r in recs).most_common()]
     n_mfr = len({(r["manufacturer"] or "").lower() for r in recs if r["manufacturer"]})
     n_price = sum(1 for r in recs if r["price_usd"])
@@ -108,12 +116,13 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
 <body>
 <header>
 <h1>{TITLE}</h1>
-<p class="lede"><b>{len(recs):,} equipment purchases</b> that <b>{len(agencies)} public agencies</b> could buy from only one supplier, {span(dates)}. {n_mfr} manufacturers, {n_price:,} with a price. Every row quotes the agency's own reason and links to the source document.</p>
+<p class="lede"><b>{n_hw:,} pieces of equipment</b> that <b>{len(agencies)} public agencies</b> could buy from only one supplier, {span(dates)}, plus {n_soft:,} software and service contracts behind the toggle. {n_mfr} manufacturers, {n_price:,} rows with a price. Every row quotes the agency's own reason and links to the source document.</p>
 <div class="controls">
   <input id="q" type="search" placeholder="Search manufacturer, model, part, vendor, agency…" autocomplete="off" autofocus>
   <select id="mfr"><option value="">All manufacturers</option></select>
   <select id="agency"><option value="">All agencies</option>{''.join(f'<option>{a}</option>' for a in agencies)}</select>
   <label class="tog"><input type="checkbox" id="obs"> Obsolete / discontinued only</label>
+  <label class="tog"><input type="checkbox" id="soft"> Include software &amp; service contracts</label>
 </div>
 <div class="chips" id="chips">{''.join(f'<button class="chip" data-c="{c}" aria-pressed="false">{SHORT.get(c, c)}</button>' for c in classes)}</div>
 </header>
@@ -130,7 +139,8 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
 <script>
 const R=JSON.parse(document.getElementById('data').textContent);
 const $=s=>document.querySelector(s);
-const q=$('#q'),mfr=$('#mfr'),ag=$('#agency'),obs=$('#obs'),rows=$('#rows'),count=$('#count'),more=$('#more');
+const q=$('#q'),mfr=$('#mfr'),ag=$('#agency'),obs=$('#obs'),soft=$('#soft'),rows=$('#rows'),count=$('#count'),more=$('#more');
+const SOFT=new Set({json.dumps(SOFT)});
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}}[c]));
 const money=v=>v==null?'':'$'+Math.round(v).toLocaleString();
 let cls=new Set(),sortK='date',sortD=-1,page=1;const PAGE=100;
@@ -140,7 +150,7 @@ Object.entries(mc).sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0])).forEach(([m,
 R.forEach(r=>r._h=[r.manufacturer,r.model,r.part,r.sole_source_vendor,r.agency,r.state,r.reason,r.installed_location,r.equipment_class].join(' ').toLowerCase());
 function filtered(){{
   const terms=q.value.toLowerCase().split(/\\s+/).filter(Boolean);
-  return R.filter(r=>(!mfr.value||r.manufacturer===mfr.value)&&(!ag.value||r.agency===ag.value)&&(!obs.checked||r.is_obsolete)&&(!cls.size||cls.has(r.equipment_class))&&terms.every(t=>r._h.includes(t)))
+  return R.filter(r=>(!mfr.value||r.manufacturer===mfr.value)&&(!ag.value||r.agency===ag.value)&&(!obs.checked||r.is_obsolete)&&(cls.size?cls.has(r.equipment_class):(soft.checked||!SOFT.has(r.equipment_class)))&&terms.every(t=>r._h.includes(t)))
     .sort((a,b)=>{{const x=a[sortK],y=b[sortK];if(x==null&&y==null)return 0;if(x==null)return 1;if(y==null)return -1;return (x>y?1:x<y?-1:0)*sortD}});
 }}
 function row(r){{
@@ -159,7 +169,7 @@ function draw(reset){{
   obs.checked?u.searchParams.set('obs','1'):u.searchParams.delete('obs');cls.size?u.searchParams.set('class',[...cls].join('|')):u.searchParams.delete('class');
   history.replaceState(null,'',u);
 }}
-[q,mfr,ag,obs].forEach(el=>el.addEventListener('input',()=>draw(true)));
+[q,mfr,ag,obs,soft].forEach(el=>el.addEventListener('input',()=>draw(true)));
 document.querySelectorAll('.chip').forEach(b=>b.addEventListener('click',()=>{{const c=b.dataset.c;cls.has(c)?cls.delete(c):cls.add(c);b.setAttribute('aria-pressed',cls.has(c));draw(true)}}));
 document.querySelectorAll('th[data-k]').forEach(th=>th.addEventListener('click',()=>{{const k=th.dataset.k;if(sortK===k)sortD=-sortD;else{{sortK=k;sortD=k==='price_usd'||k==='date'?-1:1}}draw(true)}}));
 more.addEventListener('click',()=>{{page++;draw(false)}});

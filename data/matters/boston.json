@@ -1,0 +1,49 @@
+{
+ "client": "boston",
+ "since": "2024-01-01",
+ "matters": [
+  {
+   "matter_id": 9165,
+   "file": "2024-0282",
+   "title": "On the message and order, referred on February 7, 2024, Docket #0282, authorizing the City of Boston to accept and expend the amount of Ninety-Two Thousand Seven Hundred Thirty-Five Dollars and Fifty Cents ($92,735.50) in the form of a grant, for the Federal FY23 Emergency Management Performance Grant, awarded by the Federal Emergency Management Agency, passed through the Massachusetts Emergency Management Agency, to be administered by the Office of Emergency Management (OEM). The grant will fund the enhancement of operational capacity at the Boston Emergency Operations Center (EOC) and promote the professional development of OEM staff, the committee submitted a report recommending that the order ought to pass.\nThe report was accepted; the order was passed; yeas 11, not present 2 (Breadon, Mejia).",
+   "intro_date": "2024-02-05",
+   "type": "Committee Reports",
+   "body": "Committee on Public Safety and Criminal Justice",
+   "status": "Passed",
+   "keyword": "OEM",
+   "legistar_url": "https://boston.legistar.com/LegislationDetail.aspx?ID=9165&GUID=1828F9A3-AA59-4782-9DD8-D5AF52F39BB7",
+   "text": "..Title\nMessage and order authorizing the City of Boston to accept and expend the amount of Ninety-Two Thousand Seven Hundred Thirty-Five Dollars and Fifty Cents ($92,735.50) in the form of a grant, for the Federal FY23 Emergency Management Performance Grant, awarded by the Federal Emergency Management Agency, passed through the Massachusetts Emergency Management Agency, to be administered by the Office of Emergency Management (OEM). The grant will fund the enhancement of operational capacity at the Boston Emergency Operations Center (EOC) and promote the professional development of OEM staff. \n",
+   "attachments": [
+    {
+     "name": "FFY23 Emergency Management Performamce Grant $92,735.50",
+     "url": "https://boston.legistar1.com/boston/attachments/bc7bdbaa-6daa-4b8e-8335-f668a44f580c.pdf",
+     "path": "data/cache/pdf/c5cb626f8ef148c3367719802c711dbf243b47ca.pdf"
+    },
+    {
+     "name": "Committee Report Dockets #0282-0283 0344.docx",
+     "url": "https://boston.legistar1.com/boston/attachments/c591e289-56f8-4bf5-beb1-a30a14546223.pdf",
+     "path": "data/cache/pdf/f199778204dbfbd5fbd869b18b96422a02ad32c9.pdf"
+    }
+   ]
+  },
+  {
+   "matter_id": 37765,
+   "file": "2024-0515",
+   "title": "Resolution recognizing the Sun Poem as a powerful tool to ignite change.",
+   "intro_date": "2024-03-07",
+   "type": "Council Legislative Resolution",
+   "body": "City Council",
+   "status": "Passed",
+   "keyword": "OEM",
+   "legistar_url": "https://boston.legistar.com/LegislationDetail.aspx?ID=37765&GUID=2AE5DFF2-7B55-4188-A2BF-9884C9A1CE9D",
+   "text": "..title\nResolution recognizing the Sun Poem as a powerful tool to ignite change.",
+   "attachments": [
+    {
+     "name": "Resolution recognizing the Sun Poem as a powerful tool to ignite change",
+     "url": "https://boston.legistar1.com/boston/attachments/3c8eef67-1c51-42b4-9dc6-61f23bbf143d.pdf",
+     "path": "data/cache/pdf/0ffbc37ef0946bd3ceafecc1a8d02faeac4ca051.pdf"
+    }
+   ]
+  }
+ ]
+}

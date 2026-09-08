@@ -1,0 +1,50 @@
+{
+ "client": "lacounty",
+ "since": "2024-01-01",
+ "matters": [
+  {
+   "matter_id": 112854,
+   "file": "25-4350",
+   "title": "Los Angeles County Sheriff Department (LASD) report and updates.  \n\u00b7\tUpdate on the pre-portioned meal roll out and meal equipment.\n\u00b7\tDiscontinued pilot program at Men\u2019s Central Jail (MCJ) discipline row. \n\u00b7\tIn Custody Deaths\n\u00b7\tImmigration Customs Enforcement (ICE) Facility Lock Ups\n\u00b7\tDepartment IT resource restrictions\n\u00b7\tViewing of Movies by Inmates and Department Personnel\n\u00b7\tUniform Daily Activity Log\u2019s (UDALs) pertaining to the July 24, 2025 MCJ 8100 Inspection",
+   "intro_date": "2025-07-31",
+   "type": "ComAdministrative",
+   "body": "Sybil Brand Commission for Institutional Inspections",
+   "status": "Filed",
+   "keyword": "discontinued",
+   "legistar_url": "https://lacounty.legistar.com/LegislationDetail.aspx?ID=112854&GUID=14CDB061-2F73-486A-A6E0-3DB8EABFC0C8",
+   "text": "..Title\nLos Angeles County Sheriff Department (LASD) report and updates.  \n* Update on the pre-portioned meal roll out and meal equipment.\n* Discontinued pilot program at Men's Central Jail (MCJ) discipline row. \n* In Custody Deaths\n* Immigration Customs Enforcement (ICE) Facility Lock Ups\n* Department IT resource restrictions\n* Viewing of Movies by Inmates and Department Personnel\n* Uniform Daily Activity Log's (UDALs) pertaining to the July 24, 2025 MCJ 8100 Inspection\n",
+   "attachments": [
+    {
+     "name": "060825-061825 LASD Facility Lockdowns",
+     "url": "https://lacounty.legistar1.com/lacounty/attachments/205805.pdf",
+     "path": "data/cache/pdf/c329347c9065ce0f5f1dc892b4d8ea61f5e03edc.pdf"
+    },
+    {
+     "name": "Custody Division Manual Lockdown",
+     "url": "https://lacounty.legistar1.com/lacounty/attachments/205808.pdf",
+     "path": "data/cache/pdf/3b436dd228effefc59f2216ce7bede1075b4f318.pdf"
+    },
+    {
+     "name": "Manual_of_Policy_and_Procedures_3-07_210.05_-_Permissible_Use",
+     "url": "https://lacounty.legistar1.com/lacounty/attachments/205809.pdf",
+     "path": "data/cache/pdf/f4322c80446bcacc1af041231192da6b3b2aa25e.pdf"
+    },
+    {
+     "name": "Custody_Division_Manual_3-17_000.00_Viewing_of_Movies_by_Inmates_and_Department_Personnel",
+     "url": "https://lacounty.legistar1.com/lacounty/attachments/205810.pdf",
+     "path": "data/cache/pdf/780355c896ea250b6093370692033cfcaf69c7d0.pdf"
+    },
+    {
+     "name": "UDAL MCJ 8100 072425",
+     "url": "https://lacounty.legistar1.com/lacounty/attachments/205811.pdf",
+     "path": "data/cache/pdf/11bf1e855637054ab24714c84529cd5c39b1b5ff.pdf"
+    },
+    {
+     "name": "PUBLIC COMMENT/CORRESPONDENCE",
+     "url": "https://file.lacounty.gov/SDSInter/bos/commissionpublications/internal/1187743_PUBLICCOMMENT_CORRESPONDENCE.pdf",
+     "path": "data/cache/pdf/390b1adb7772df759f5a2851b71736c0511e926f.pdf"
+    }
+   ]
+  }
+ ]
+}

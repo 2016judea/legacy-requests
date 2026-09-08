@@ -124,11 +124,21 @@ def extract_matter(client, model: str, slug: str, matter: dict) -> dict:
     if cache.exists():
         return json.loads(cache.read_text())
     blocks, info = build_content(matter)
-    resp = client.messages.create(
-        model=model, max_tokens=16000, system=SYSTEM,
-        messages=[{"role": "user", "content": blocks}],
-        output_config={"format": {"type": "json_schema", "schema": RECORD_SCHEMA}},
-    )
+    try:
+        resp = client.messages.create(
+            model=model, max_tokens=16000, system=SYSTEM,
+            messages=[{"role": "user", "content": blocks}],
+            output_config={"format": {"type": "json_schema", "schema": RECORD_SCHEMA}},
+        )
+    except anthropic.RequestTooLargeError:
+        # Too many scanned PDFs as base64 documents (Broward, 2026-09-07). Retry on the text layer alone.
+        info["pdfs_scanned_dropped"] = info.pop("pdfs_scanned", 0)
+        blocks = [b for b in blocks if b["type"] == "text"]
+        resp = client.messages.create(
+            model=model, max_tokens=16000, system=SYSTEM,
+            messages=[{"role": "user", "content": blocks}],
+            output_config={"format": {"type": "json_schema", "schema": RECORD_SCHEMA}},
+        )
     text = next((b.text for b in resp.content if b.type == "text"), "{}")
     try:
         data = json.loads(text)

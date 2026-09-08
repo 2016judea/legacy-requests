@@ -1,4 +1,5 @@
 PY=.venv/bin/python
+.PHONY: ingest extract site deploy all
 
 .venv:
 	uv venv .venv && VIRTUAL_ENV= uv pip install --python .venv/bin/python -r requirements.txt
