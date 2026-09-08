@@ -10,6 +10,7 @@ Usage: scripts/extract.py [--model M] [--limit N] [client ...]
 """
 import argparse
 import base64
+from concurrent.futures import ThreadPoolExecutor
 import json
 import os
 import re
@@ -152,6 +153,22 @@ def qualifies(matter: dict) -> bool:
     return False
 
 
+COMPETITIVE_RE = re.compile(
+    r"\b(informal bid|formal bid|specification no|request for (proposals?|bids?|quotes?)|rfp|rfq|ifb|sourcewell|naspo|buyboard"
+    r"|omnia|cooperative (contract|purchas\w*)|piggyback|lowest responsi\w*|competitive(ly)? (bid|procure)\w*)\b", re.I)
+SOLE_RE = re.compile(
+    r"sole[- ]source|single[- ]source|proprietary|\bOEM\b|original equipment|obsolete|no longer|discontinued"
+    r"|only (authorized|approved|known|available|qualified)|limited vendors|no other (vendor|supplier|source)|exclusive", re.I)
+
+
+def is_sole_source(r: dict) -> bool:
+    """OCSD's monthly 'approved purchases AND additions to the sole source list' mixes competitively bid
+    items (Informal Bid, Specification No., Sourcewell/NASPO cooperative contracts) into the same table.
+    A row whose stated reason is a bid or a cooperative contract, with no sole-source language, is not ours."""
+    reason = r.get("reason") or ""
+    return not (COMPETITIVE_RE.search(reason) and not SOLE_RE.search(reason))
+
+
 def dedupe(records: list[dict]) -> list[dict]:
     """The same purchase is often filed twice (committee, then board). Keep the first."""
     seen, out = set(), []
@@ -185,6 +202,7 @@ def main():
     ap.add_argument("--model", default=DEFAULT_MODEL)
     ap.add_argument("--limit", type=int, default=0, help="max matters per client (0 = all)")
     ap.add_argument("--dry", action="store_true", help="only report what would be sent")
+    ap.add_argument("--workers", type=int, default=6, help="parallel model calls (each result is cached, so a crash loses nothing)")
     ap.add_argument("clients", nargs="*")
     a = ap.parse_args()
     load_env()
@@ -198,10 +216,13 @@ def main():
         if a.limit:
             matters = matters[: a.limit]
         n_rec = 0
-        for m in matters:
-            if a.dry:
-                _, info = build_content(m); print(slug, m["matter_id"], info); continue
-            out = extract_matter(client, a.model, slug, m)
+        if a.dry:
+            for m in matters:
+                _, info = build_content(m); print(slug, m["matter_id"], info)
+            continue
+        with ThreadPoolExecutor(max_workers=a.workers) as pool:
+            outs = list(pool.map(lambda m: extract_matter(client, a.model, slug, m), matters))
+        for m, out in zip(matters, outs):
             tok_in += out["usage"]["in"]; tok_out += out["usage"]["out"]
             src = m["attachments"][0]["url"] if m["attachments"] else m["legistar_url"]
             for i, r in enumerate(out["records"]):
@@ -214,8 +235,11 @@ def main():
     if not a.dry:
         before = len(all_records)
         all_records = dedupe(all_records)
+        n_dup = before - len(all_records)
+        all_records = [r for r in all_records if is_sole_source(r)]
         write_store(all_records)
-        print(f"TOTAL {len(all_records)} records ({before - len(all_records)} duplicates dropped); tokens in={tok_in:,} out={tok_out:,}")
+        print(f"TOTAL {len(all_records)} records ({n_dup} duplicates, {before - n_dup - len(all_records)} competitively bid rows dropped); "
+              f"tokens in={tok_in:,} out={tok_out:,}")
 
 
 if __name__ == "__main__":
