@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Labworks",
+   "model": "LABWORKS LIMS",
+   "part": "Software maintenance and support (LABWORKS Assist Support Plan Renewal) for Laboratory Information Management System (LIMS)",
+   "quantity": "1.00 Annual",
+   "price_usd": 66963.0,
+   "lead_time": null,
+   "sole_source_vendor": "Labworks, LLC",
+   "reason": "we are the developer and sole distributor of LABWORKS software. We do not have any distributors or resellers due to the complex nature of our product.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5692,
+  "out": 219
+ },
+ "model": "claude-sonnet-5"
+}

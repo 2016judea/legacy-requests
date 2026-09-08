@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": "Duke's Root Control, Inc.",
+   "model": "Vaporooter\u00ae (SANAFOAM VAPOROOTER II)",
+   "part": "Annual purchase of Vaporooter\u00ae herbicide for sewer mainline root control, Citywide",
+   "quantity": null,
+   "price_usd": 180000,
+   "lead_time": null,
+   "sole_source_vendor": "Affect Industries, Inc.",
+   "reason": "efforts to locate all possible suppliers of Vaporooter\u00ae were unsuccessful as Duke's Root Control, Inc., (Duke's) is the EPA registrant for and sole manufacturer of Vaporooter\u00ae",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Citywide sanitary sewer mainlines",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Duke's Root Control, Inc.",
+   "model": "V-F-SAN-VAPOC-01X05G",
+   "part": "Vaporooter 5-Gal (18.9L) Box",
+   "quantity": "48",
+   "price_usd": 22221.12,
+   "lead_time": null,
+   "sole_source_vendor": "Affect Industries, Inc.",
+   "reason": "At this time, There are no other suppliers for Vaporooter\u2122.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Citywide sanitary sewer mainlines",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 3,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 30796,
+  "out": 508
+ },
+ "model": "claude-sonnet-5"
+}

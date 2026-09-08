@@ -1,0 +1,67 @@
+{
+ "records": [
+  {
+   "manufacturer": "Comprise Technologies, Inc.",
+   "model": null,
+   "part": "Vendor Service Contract for Parking E-Payment Services (kiosk rental and e-payment platform)",
+   "quantity": null,
+   "price_usd": 542000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Comprise Technologies, Inc.",
+   "reason": "the system is proprietary to Comprise, continuation of services with the current provider is necessary to maintain system functionality, compatibility, and operational continuity",
+   "equipment_class": "other equipment",
+   "installed_location": "Department of Public Works-Transportation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fusus, Inc.",
+   "model": "FususONE / FususCORE",
+   "part": "FususONE Software Subscription that detects and connects to building cameras; FususCORE appliance provides live streaming video feeds",
+   "quantity": null,
+   "price_usd": 518498.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fusus, Inc. d/b/a Fusus",
+   "reason": "FususONE is a proprietary software available only from Fusus, Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Vendor Service Contract for Laredo Connect Licenses (real estate records subscription service)",
+   "quantity": null,
+   "price_usd": 265200.0,
+   "lead_time": null,
+   "sole_source_vendor": "County of Milwaukee",
+   "reason": "County of Milwaukee services are proprietary; therefore, for this reason and in accordance with City Charter 16-05-4a, Finance and Personnel Committee approval is waived",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cepheid",
+   "model": "GeneXpert",
+   "part": "Vendor Service Contract for Maintenance of GeneXpert System",
+   "quantity": null,
+   "price_usd": 70237.4,
+   "lead_time": null,
+   "sole_source_vendor": "Cepheid",
+   "reason": "GeneXpert analyzer is proprietary to Cepheid and not able to be performed or purchased by any other vendor.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Milwaukee Health Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18053,
+  "out": 2354
+ },
+ "model": "claude-sonnet-5"
+}

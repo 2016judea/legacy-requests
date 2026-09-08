@@ -1,0 +1,106 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Purchase and installation of the Video Wall, Council Chambers main screen, and two kiosks for City Hall",
+   "quantity": null,
+   "price_usd": 737279,
+   "lead_time": null,
+   "sole_source_vendor": "Solutions by Design, Inc.",
+   "reason": "Solutions by Design, Inc. is the only provider of such utility services in the City of Fresno, making the company a sole source for the necessary work",
+   "equipment_class": "other equipment",
+   "installed_location": "City Hall",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Planar",
+   "model": "Clarity Matrix",
+   "part": "2 - 3x3 Panel LCD Clarity Matrix Display Video Walls",
+   "quantity": "2",
+   "price_usd": 330956,
+   "lead_time": null,
+   "sole_source_vendor": "Solutions by Design, Inc.",
+   "reason": "Solutions by Design, Inc. is the only provider of such utility services in the City of Fresno, making the company a sole source for the necessary work",
+   "equipment_class": "other equipment",
+   "installed_location": "City Hall 3rd Floor Exhibit",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "8 - 55\u201d Touch Displays for four freestanding kiosk towers",
+   "quantity": "8",
+   "price_usd": 20000,
+   "lead_time": null,
+   "sole_source_vendor": "Solutions by Design, Inc.",
+   "reason": "Solutions by Design, Inc. is the only provider of such utility services in the City of Fresno, making the company a sole source for the necessary work",
+   "equipment_class": "other equipment",
+   "installed_location": "City Hall 3rd Floor Exhibit",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Directional Speakers for video wall",
+   "quantity": "6 Units",
+   "price_usd": 7375,
+   "lead_time": null,
+   "sole_source_vendor": "Solutions by Design, Inc.",
+   "reason": "Solutions by Design, Inc. is the only provider of such utility services in the City of Fresno, making the company a sole source for the necessary work",
+   "equipment_class": "other equipment",
+   "installed_location": "City Hall 3rd Floor Exhibit",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": null,
+   "part": "Back-end Management System (Server, Graphics Cards, Cabling, Tower Cases, Drives, Dell Servers)",
+   "quantity": null,
+   "price_usd": 31049,
+   "lead_time": null,
+   "sole_source_vendor": "Solutions by Design, Inc.",
+   "reason": "Solutions by Design, Inc. is the only provider of such utility services in the City of Fresno, making the company a sole source for the necessary work",
+   "equipment_class": "other equipment",
+   "installed_location": "City Hall 3rd Floor Exhibit",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement of the Council Chambers main screen",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Solutions by Design, Inc.",
+   "reason": "AUTHORIZING AN EXCEPTION TO THE FORMAL BIDDING PROCEDURES AND AWARD A SOLE SOURCE AGREEMENT WITH SOLUTIONS BY DESIGN, INC... FOR THE VIDEO WALL DISPLAY AT CITY HALL AND REPLACEMENT OF THE COUNCIL CHAMBERS SCREEN",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chambers, City Hall",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Hosting and Maintenance Services (Platinum Support Package) for City Hall video wall/kiosk systems",
+   "quantity": null,
+   "price_usd": 5000,
+   "lead_time": null,
+   "sole_source_vendor": "Solutions by Design, Inc.",
+   "reason": "Contractor will be the exclusive provider to Client of certain ongoing web-based application hosting, IT maintenance, and help desk services related to the City Hall Display",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City Hall",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 40100,
+  "out": 4191
+ },
+ "model": "claude-sonnet-5"
+}

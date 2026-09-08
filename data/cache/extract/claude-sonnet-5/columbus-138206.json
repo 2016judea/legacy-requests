@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": "OraSure Technologies, Inc.",
+   "model": "OraQuick\u00ae HCV Rapid Antibody Test PH, PMA P080027, P/N 1001-0713, 1001-0714, 1001-0715",
+   "part": "HCV Rapid Antibody Test and Controls",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Orasure Technologies, Inc.",
+   "reason": "OraSure Technologies, Inc. is the only licensed manufacturer and distributor of the OraQuick\u00ae HCV Rapid Antibody Test PH",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Columbus Public Health Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "OraSure Technologies, Inc.",
+   "model": "OraQuick ADVANCE\u00ae Rapid HIV-1/2 Antibody Test PH, PMA BP010047, P/N 1001-0712, 1001-0711, 1001-0710",
+   "part": "Rapid HIV-1/2 Antibody Test and Controls",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Orasure Technologies, Inc.",
+   "reason": "OraSure Technologies, Inc. is the only licensed manufacturer and distributor of the OraQuick ADVANCE\u00ae Rapid HIV-1/2 Antibody Test PH",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Columbus Public Health Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Orasure Technologies, Inc.",
+   "model": null,
+   "part": "HIV Rapid Testing Supplies (Universal Term Contract option to purchase)",
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Orasure Technologies, Inc.",
+   "reason": "Orasure Technologies, Inc. is the sole source for these supplies as they are the only licensed manufacturer and sole distributor of the products.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Columbus Public Health Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5233,
+  "out": 877
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM Automotive Parts and Accessories for light duty vehicles",
+   "quantity": null,
+   "price_usd": 400000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Franks Truck Center Inc",
+   "reason": "the City wishes to utilize State Contracts #T2760 OEM Automotive Parts and Accessories for Light Duty Vehicles, Master Blanket PO #25-FLEET-92268, awarded to Franks Truck Center Inc.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Department of Water and Sewer Utilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4272,
+  "out": 671
+ },
+ "model": "claude-sonnet-5"
+}

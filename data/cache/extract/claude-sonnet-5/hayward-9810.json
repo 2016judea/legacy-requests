@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hydro International",
+   "model": null,
+   "part": "Multi-tray vortex tank grit removal system",
+   "quantity": null,
+   "price_usd": 2117202,
+   "lead_time": null,
+   "sole_source_vendor": "Hydro International",
+   "reason": "requesting authorization to specify, with no equal, grit removal equipment to be provided by Hydro International",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Resource Recovery Facility (WRRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hydro International",
+   "model": "OpTeaCup",
+   "part": "Grit classifier",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hydro International",
+   "reason": "requesting authorization to specify, with no equal, grit removal equipment to be provided by Hydro International",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Resource Recovery Facility (WRRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hydro International",
+   "model": "Grit Snail",
+   "part": "Grit dewatering system",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hydro International",
+   "reason": "requesting authorization to specify, with no equal, grit removal equipment to be provided by Hydro International",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Resource Recovery Facility (WRRF)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2330,
+  "out": 951
+ },
+ "model": "claude-sonnet-5"
+}

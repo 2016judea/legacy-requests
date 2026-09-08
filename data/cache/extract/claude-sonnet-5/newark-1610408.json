@@ -1,0 +1,106 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM and Non-OEM Maintenance & Repair Services for Light/Medium Duty Vehicles",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Tra-Par Transmissions",
+   "reason": "( X ) State Vendor",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM and Non-OEM Maintenance & Repair Services for Light/Medium Duty Vehicles",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Air Brake & Equipment",
+   "reason": "( X ) State Vendor",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM and Non-OEM Maintenance & Repair Services for Light/Medium Duty Vehicles",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "A Lembo Car & Truck Collision Inc",
+   "reason": "( X ) State Vendor",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM and Non-OEM Maintenance & Repair Services for Light/Medium Duty Vehicles",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "On-Site Fleet Service Inc",
+   "reason": "( X ) State Vendor",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM and Non-OEM Maintenance & Repair Services for Light/Medium Duty Vehicles",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "BJ & M Auto Inc.",
+   "reason": "( X ) State Vendor",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM and Non-OEM Maintenance & Repair Services for Light/Medium Duty Vehicles",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Hose & Hydraulics",
+   "reason": "( X ) State Vendor",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM and Non-OEM Maintenance & Repair Services for Light/Medium Duty Vehicles",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Route 23 Automall LLC",
+   "reason": "( X ) State Vendor",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11297,
+  "out": 2788
+ },
+ "model": "claude-sonnet-5"
+}

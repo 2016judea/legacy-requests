@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": "GeoNexus Technologies L.L.C.",
+   "model": "GeoWorx Sync",
+   "part": "12 Months Software Support and Maintenance, GeoWorx Sync for Oracle WAM (supports synchronizing up to 1,725,000 records)",
+   "quantity": "1",
+   "price_usd": 33556.71,
+   "lead_time": null,
+   "sole_source_vendor": "GeoNexus Technologies L.L.C.",
+   "reason": "No other company provides maintenance and support for the Geonexus product.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Utilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GeoNexus Technologies L.L.C.",
+   "model": "GeoWorx Sync - Tier Upgrade",
+   "part": "Additional Sync Records - Increasing from 1,675,000 to 1,725,000 Records ($2,000 per 25K Records)",
+   "quantity": "2",
+   "price_usd": 4000.0,
+   "lead_time": null,
+   "sole_source_vendor": "GeoNexus Technologies L.L.C.",
+   "reason": "No other company provides maintenance and support for the Geonexus product.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Utilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5068,
+  "out": 439
+ },
+ "model": "claude-sonnet-5"
+}

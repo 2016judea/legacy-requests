@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Carus",
+   "model": "AQUA MAG\u00ae 9500 Blended Phosphate",
+   "part": "Proprietary corrosion control chemical blend (corrosion inhibitor) for drinking water system",
+   "quantity": "40,000 gallons annual",
+   "price_usd": 483000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Condy Holdings LLC d/b/a Carus LLC",
+   "reason": "This contract is for the corrosion control chemicals used in the drinking water system to maintain compliance with the federally mandated Lead and Copper Rule.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Pinellas County Utilities water system",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5604,
+  "out": 261
+ },
+ "model": "claude-sonnet-5"
+}

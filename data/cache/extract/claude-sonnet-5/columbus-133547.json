@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "GEA Westfalia Separator",
+   "model": "Westfalia Separator Centrifuges",
+   "part": "OEM Parts and Services for centrifuges (motors, primary-/secondary-gears, bowl shells, conveyor scrolls)",
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US, Inc.",
+   "reason": "GEA Mechanical Equipment US, Inc. is the sole source for these parts and services as they are the only distributor and authorized service provider for their own products.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "City's wastewater plants",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3758,
+  "out": 261
+ },
+ "model": "claude-sonnet-5"
+}

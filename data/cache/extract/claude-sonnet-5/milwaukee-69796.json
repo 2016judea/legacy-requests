@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "11 cameras for photographic documentation",
+   "quantity": "11",
+   "price_usd": 3300,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the DCD is projected to achieve cost reductions in equipment procurement by utilizing 11 cameras, each valued at $300, culminating in a total expenditure of $3,300",
+   "equipment_class": "other equipment",
+   "installed_location": "Department of City Development (DCD)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11939,
+  "out": 1004
+ },
+ "model": "claude-sonnet-5"
+}

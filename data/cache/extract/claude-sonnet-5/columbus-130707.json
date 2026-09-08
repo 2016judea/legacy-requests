@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Genetec",
+   "model": null,
+   "part": "Software, equipment, technical support and maintenance services for camera security systems",
+   "quantity": null,
+   "price_usd": 75000.0,
+   "lead_time": null,
+   "sole_source_vendor": "K.N.S. Services, Inc.",
+   "reason": "due to the proprietary nature of the security software and compatibility of existing security and camera equipment, it is in the best interest of the City enter into contract with K.N.S.",
+   "equipment_class": "other equipment",
+   "installed_location": "Facilities Management Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3075,
+  "out": 196
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "iPACS 5/GovOnline 5",
+   "part": "Annual software maintenance, support and professional services for iPACS 5/GovOnline 5 system",
+   "quantity": null,
+   "price_usd": 51000.0,
+   "lead_time": null,
+   "sole_source_vendor": "enfoTech & Consulting, Inc.",
+   "reason": "it has been determined that enfoTech & Consulting, Inc. is the sole owner & provider of iPACS and GovOnline Titles",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus Water & Power",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "iPACS 5 and GovOnline 5",
+   "part": "System maintenance and support services (issue tracking, help desk, software updates, secured VPN support) for 12/11/2025 to 12/10/2026",
+   "quantity": null,
+   "price_usd": 36000.0,
+   "lead_time": "12/11/2025 to 12/10/2026",
+   "sole_source_vendor": "enfoTech & Consulting, Inc.",
+   "reason": "enfoTech owns the iPACS and GovOnline Titles and is the only entity that is authorized to license the software systems and to provide technical services.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus Water & Power",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "iPACS 5",
+   "part": "Technical services for iPACS system unique to DPU's requirements (reports, system modifications, enhancements, training, documentation)",
+   "quantity": null,
+   "price_usd": 15000.0,
+   "lead_time": null,
+   "sole_source_vendor": "enfoTech & Consulting, Inc.",
+   "reason": "enfoTech owns the iPACS product Title and is the only entity who is authorized to license the software and provide technical services.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Utilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 6,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8318,
+  "out": 897
+ },
+ "model": "claude-sonnet-5"
+}

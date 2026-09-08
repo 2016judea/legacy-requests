@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": "ADS Environmental Services",
+   "model": "PRISM",
+   "part": "PRISM cloud-based data management software annual license for up to 25 users and 200 live devices",
+   "quantity": "1 annual license (200 devices, 25 users)",
+   "price_usd": 49000.0,
+   "lead_time": null,
+   "sole_source_vendor": "ADS LLC dba ADS Environmental Services",
+   "reason": "PRISM is the only data warehouse platform capable of performing the critical tasks specific to ADS flow meters and rain gauges.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Sewerage and Drainage",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Previous desktop flow monitoring data management software program (predecessor to PRISM)",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "an obsolete desktop program that no longer receives vendor support",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Sewerage and Drainage",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6339,
+  "out": 397
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Agilent Technologies, Inc.",
+   "model": null,
+   "part": "Gas Chromatograph Mass Selective Detector System (Replacement) for Forensic Services Toxicology Unit",
+   "quantity": "1",
+   "price_usd": 125000,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "The new equipment will replace a ten-year-old system that is nearing its end of life.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mesa Police Department Forensic Services Toxicology Unit",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1987,
+  "out": 215
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Genetec",
+   "model": null,
+   "part": "Camera system replacement - remove existing cameras and cabling; install new cameras, cabling, and related appurtenances; commissioning services",
+   "quantity": null,
+   "price_usd": 410000.0,
+   "lead_time": null,
+   "sole_source_vendor": "K.N.S. Services, Inc.",
+   "reason": "Due to the proprietary nature of the security software and the need to maintain compatibility with the Genetec system, it is in the best interest of the City to enter into a contract with K.N.S. Services Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": "Hap Cremean Water Plant",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5442,
+  "out": 233
+ },
+ "model": "claude-sonnet-5"
+}

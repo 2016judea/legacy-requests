@@ -1,0 +1,106 @@
+{
+ "records": [
+  {
+   "manufacturer": "System Innovators \u2013 A Division of N. Harris Computer Corporation",
+   "model": "iNovah",
+   "part": "Proprietary Software Support and Maintenance Agreement for the iNovah cashiering software",
+   "quantity": null,
+   "price_usd": 862891.95,
+   "lead_time": null,
+   "sole_source_vendor": "System Innovators \u2013 A Division of N. Harris Computer Corporation",
+   "reason": "iNovah cashiering software is used to process and account for all payments tendered within the Office of the City Treasurer.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City Treasurer Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trane",
+   "model": "Water Cooled Centrifugal Chiller #3",
+   "part": "Rebuild/Upgrade of Trane Water Cooled Centrifugal Chiller #3",
+   "quantity": "1",
+   "price_usd": 272912.15,
+   "lead_time": null,
+   "sole_source_vendor": "Trane U.S., Inc.",
+   "reason": "The City would not receive the warranty, factory certified labor and new factory serial number if another company rebuilt the chiller without Trane's assistance.",
+   "equipment_class": "HVAC",
+   "installed_location": "City Hall Complex",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Priority Dispatch Corp.",
+   "model": "ProQA",
+   "part": "ProQA Licenses, Training, Annual Maintenance, Service and Support",
+   "quantity": null,
+   "price_usd": 234396.5,
+   "lead_time": null,
+   "sole_source_vendor": "Medical Priority Consultants, Inc. dba Priority Dispatch Corp.",
+   "reason": "ProQA is proprietary software of Priority Dispatch Corp. and has a contract already in place for the Milwaukee Fire Department and for use by the DEC for annual maintenance support of the software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Emergency Communications",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FirstWatch Solutions, Inc.",
+   "model": "FirstWatch Dashboard System",
+   "part": "FirstWatch Dashboard System Software Annual Support and Maintenance",
+   "quantity": null,
+   "price_usd": 221294.0,
+   "lead_time": null,
+   "sole_source_vendor": "FirstWatch Solutions, Inc. d/b/a FirstWatch",
+   "reason": "Software support and maintenance for the FirstWatch Dashboard System are proprietary and must be provided by FirstWatch Solutions, Inc. d/b/a FirstWatch.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Milwaukee Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CentralSquare Technologies, LLC",
+   "model": "Records Management System (RMS) / CentralSquare Unify Hub",
+   "part": "Annual Maintenance for Records Management System (RMS), including upgrade to CentralSquare Unify Hub",
+   "quantity": null,
+   "price_usd": 219060.0,
+   "lead_time": null,
+   "sole_source_vendor": "CentralSquare Technologies, LLC",
+   "reason": "The RMS is proprietary to CentralSquare Technologies, LLC; therefore, no other vendors have the authority to maintain the software applicable to the RMS System.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Milwaukee Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": "F550 and above / Sterling",
+   "part": "Engine Repair, Service and Ford/Sterling OEM Parts",
+   "quantity": null,
+   "price_usd": 250000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Truck and Auto Group, Inc.",
+   "reason": "Badger Truck is the only authorized heavy-duty Ford and Sterling truck repair and parts dealer in southeastern Wisconsin able to accommodate MFD ambulances (F550 and above) for engine repair, services and OEM parts.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Milwaukee Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Pierce Manufacturing, Inc.",
+   "model": "Engine #7 (custom build)",
+   "part": "Repair Body Damages to MFD Engine #7",
+   "quantity": "1",
+   "price_usd": 166262.0,
+   "lead_time": null,
+   "sole_source_vendor": "Reliant Fire Apparatus, Inc.",
+   "reason": "The vehicle is a custom build from Pierce Manufacturing, Inc. Reliant Fire Apparatus, Inc. is the only local authorized dealer for original Pierce parts and repair services in the area.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Milwaukee Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18537,
+  "out": 4141
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "GeoNexus Technologies, L.L.C.",
+   "model": "GeoWorx Sync",
+   "part": "Software support and maintenance for GeoWorx Sync (integration between ESRI GIS mapping and Oracle WAM work order management)",
+   "quantity": null,
+   "price_usd": 32902.56,
+   "lead_time": null,
+   "sole_source_vendor": "GeoNexus Technologies, L.L.C.",
+   "reason": "No other company provides maintenance and support for the Geonexus product.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Utilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6024,
+  "out": 218
+ },
+ "model": "claude-sonnet-5"
+}

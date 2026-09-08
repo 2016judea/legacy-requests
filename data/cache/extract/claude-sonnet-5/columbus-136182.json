@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Intrado",
+   "model": "VIPER",
+   "part": "Year 3 of 5 Year maintenance agreement for the City's 911 system (911Viper system)",
+   "quantity": null,
+   "price_usd": 324842.53,
+   "lead_time": null,
+   "sole_source_vendor": "Intrado Life & Safety, Inc",
+   "reason": "Intrado Life & Safety, Inc (formally Intrado Life & Safety Solutions Corporation) is the only vendor who can maintain this system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus wireless PSAP, Columbus backup PSAP",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5755,
+  "out": 228
+ },
+ "model": "claude-sonnet-5"
+}

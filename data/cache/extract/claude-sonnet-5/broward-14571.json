@@ -1,0 +1,67 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hach",
+   "model": null,
+   "part": "Hach brand analytical instruments installed and in use at all Water Treatment Plants and at the North Regional Wastewater Treatment Plant",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hach Company",
+   "reason": "Hach brand products are proprietary, patented and are not interchangeable with any other brands.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "all Water Treatment Plants and North Regional Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hach",
+   "model": null,
+   "part": "Hach brand bench scale meters used for State regulatory testing in support of water and wastewater permits",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hach Company",
+   "reason": "Hach brand instruments and chemicals are certified by the State of Florida for use in the County's water and wastewater treatment plants and laboratory.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Water and Wastewater Services Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hach",
+   "model": null,
+   "part": "Hach Brand Products - Consumable Parts, Pre-prepared Chemicals, and Test Kits (Contract No. OPN2123100Q1)",
+   "quantity": null,
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": "Hach Company",
+   "reason": "WWOD is requesting approval of sole source because Hach is the manufacturer and sole distributor for all Hach Analytical Instruments, Consumable Parts, Pre-prepared Chemicals, and Test Kits.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hach",
+   "model": null,
+   "part": "Hach Preventative Maintenance & Repair Services for analytical instruments (Contract No. OPN2126578Q1)",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hach Company",
+   "reason": "we do not recognize or authorize any other service organization to perform repair or recalibration of these analyzers.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18906,
+  "out": 5733
+ },
+ "model": "claude-sonnet-5"
+}

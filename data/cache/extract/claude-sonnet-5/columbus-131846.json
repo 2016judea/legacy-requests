@@ -1,0 +1,93 @@
+{
+ "records": [
+  {
+   "manufacturer": "Governmentjobs.com, Inc (NeoGov)",
+   "model": "Insight",
+   "part": "Application hosting/applicant and test management software system",
+   "quantity": null,
+   "price_usd": 60712.89,
+   "lead_time": null,
+   "sole_source_vendor": "Governmentjobs.com, Inc (also known as NeoGov)",
+   "reason": "it has been determined Governmentjobs.com, Inc (also known as NeoGov) is the sole distributor of the application hosting services",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Biddle",
+   "model": "Biddle Software (OPAC & Test Genius)",
+   "part": "Pre-employment testing software integrated with Insight",
+   "quantity": null,
+   "price_usd": 29500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Governmentjobs.com, Inc (also known as NeoGov)",
+   "reason": "it has been determined Governmentjobs.com, Inc (also known as NeoGov) is the sole distributor of the application hosting services",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Governmentjobs.com, Inc (NeoGov)",
+   "model": "Candidate Text Messaging",
+   "part": "Candidate text messaging software service",
+   "quantity": null,
+   "price_usd": 5539.2,
+   "lead_time": null,
+   "sole_source_vendor": "Governmentjobs.com, Inc (also known as NeoGov)",
+   "reason": "it has been determined Governmentjobs.com, Inc (also known as NeoGov) is the sole distributor of the application hosting services",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "eSkill",
+   "model": "eSkill Pre-Employment Integration",
+   "part": "Pre-employment skills testing integration software",
+   "quantity": null,
+   "price_usd": 1190.47,
+   "lead_time": null,
+   "sole_source_vendor": "Governmentjobs.com, Inc (also known as NeoGov)",
+   "reason": "it has been determined Governmentjobs.com, Inc (also known as NeoGov) is the sole distributor of the application hosting services",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Governmentjobs.com, Inc (NeoGov)",
+   "model": "Attract (City-Wide)",
+   "part": "Candidate Relationship Management Software subscription",
+   "quantity": null,
+   "price_usd": 84504.0,
+   "lead_time": null,
+   "sole_source_vendor": "Governmentjobs.com, Inc (also known as NeoGov)",
+   "reason": "it has been determined Governmentjobs.com, Inc (also known as NeoGov) is the sole distributor of the application hosting services",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Governmentjobs.com, Inc (NeoGov)",
+   "model": "Attract (City-Wide)",
+   "part": "Candidate Relationship Management Software setup (one-time)",
+   "quantity": null,
+   "price_usd": 15125.0,
+   "lead_time": null,
+   "sole_source_vendor": "Governmentjobs.com, Inc (also known as NeoGov)",
+   "reason": "it has been determined Governmentjobs.com, Inc (also known as NeoGov) is the sole distributor of the application hosting services",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7101,
+  "out": 1623
+ },
+ "model": "claude-sonnet-5"
+}

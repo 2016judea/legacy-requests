@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Response Vehicle",
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the Executive Director of the Office of Emergency Management or his duly authorized representatives, is hereby authorized to purchase or acquire the following capital equipment:",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Small platform bomb robot",
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the Executive Director of the Office of Emergency Management or his duly authorized representatives, is hereby authorized to purchase or acquire the following capital equipment:",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Crime-light Auto tool",
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the Executive Director of the Office of Emergency Management or his duly authorized representatives, is hereby authorized to purchase or acquire the following capital equipment:",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 49301,
+  "out": 1233
+ },
+ "model": "claude-sonnet-5"
+}

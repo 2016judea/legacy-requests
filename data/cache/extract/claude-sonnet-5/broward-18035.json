@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Self-service baggage carts (minimum inventory maintained at Airport)",
+   "quantity": "650 (minimum)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Smarte Carte, Inc.",
+   "reason": "issued a Request for Information to designate sole source to ascertain whether there were any other entities authorized to operate a self-service baggage cart concession",
+   "equipment_class": "other equipment",
+   "installed_location": "Fort Lauderdale-Hollywood International Airport (terminals, parking garages, Rental Car Center)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Cart Management Units (CMUs) - new units and refurbished units for dispensing carts",
+   "quantity": null,
+   "price_usd": 900000,
+   "lead_time": null,
+   "sole_source_vendor": "Smarte Carte, Inc.",
+   "reason": "Smarte Carte will spend approximately $900,000 to replace all existing equipment at no cost to the County.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fort Lauderdale-Hollywood International Airport (Federal Inspection Station, domestic departure curbs, domestic arrivals, parking garages, RCC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 51992,
+  "out": 2724
+ },
+ "model": "claude-sonnet-5"
+}

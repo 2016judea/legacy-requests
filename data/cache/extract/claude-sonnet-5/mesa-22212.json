@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Qiagen",
+   "model": "QIsymphony",
+   "part": "Reagents, extraction kits, amplification kits, and supplies for DNA extraction",
+   "quantity": null,
+   "price_usd": 250000,
+   "lead_time": null,
+   "sole_source_vendor": "Qiagen, Inc.",
+   "reason": "Qiagen reagents, extraction kits, amplification kits, and supplies are required.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Forensic Services Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1973,
+  "out": 185
+ },
+ "model": "claude-sonnet-5"
+}

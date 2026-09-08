@@ -1,0 +1,93 @@
+{
+ "records": [
+  {
+   "manufacturer": "ADS",
+   "model": "PRISM",
+   "part": "PRISM cloud-based data management software annual license for up to 25 users and 200 live devices",
+   "quantity": "1 annual license (up to 25 users, 200 live devices)",
+   "price_usd": 49000.0,
+   "lead_time": null,
+   "sole_source_vendor": "ADS Environmental Services LLC",
+   "reason": "PRISM software is the only data warehouse platform capable of performing the critical tasks specific to ADS flow meters and rain gauges",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Water Reclamation (DOSD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ADS",
+   "model": "Triton+",
+   "part": "Flow monitoring sensors/system used with PRISM",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ADS Environmental Services LLC",
+   "reason": "only ADS manufactured sensors, batteries, circuit boards, flow monitoring upgrade parts and upgrade kits can be used in conjunction with existing systems or to upgrade to newer systems",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Water Reclamation (DOSD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ADS",
+   "model": "ECHO",
+   "part": "Flow/level monitoring sensor system used with PRISM",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ADS Environmental Services LLC",
+   "reason": "only ADS manufactured sensors, batteries, circuit boards, flow monitoring upgrade parts and upgrade kits can be used in conjunction with existing systems or to upgrade to newer systems",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Water Reclamation (DOSD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ADS",
+   "model": "Rain Alert III",
+   "part": "Rain gauges used with PRISM (roughly 30 rain gauges)",
+   "quantity": "~30 rain gauges",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ADS Environmental Services LLC",
+   "reason": "only ADS manufactured sensors, batteries, circuit boards, flow monitoring upgrade parts and upgrade kits can be used in conjunction with existing systems or to upgrade to newer systems",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Water Reclamation (DOSD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ADS",
+   "model": null,
+   "part": "FlowSIGHT sewer inspection service",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ADS Environmental Services LLC",
+   "reason": "ADS LLC d/b/a ADS Environmental Services (\"ADS\") is the sole manufacturer of the ADS Triton+ System and affiliated sensors, ADS ECHO System, ADS Rain Alert III rain gauges, and ADS FlowSIGHT sewer inspection service",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Water Reclamation (DOSD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Obsolete desktop flow monitoring software program supporting ~150 flow meters and 30 rain gauges",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "supports roughly 150 flow meters and 30 rain gauges through an obsolete desktop program that no longer receives vendor support",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Water Reclamation (DOSD)",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9458,
+  "out": 1293
+ },
+ "model": "claude-sonnet-5"
+}

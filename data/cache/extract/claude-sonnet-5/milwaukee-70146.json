@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "SwimSmart Technology LLC",
+   "model": null,
+   "part": "Solar-Powered Beach Safety Signs / two (2) solar-powered rescue stations",
+   "quantity": "2",
+   "price_usd": 71987.0,
+   "lead_time": null,
+   "sole_source_vendor": "SwimSmart Technology LLC",
+   "reason": "SwimSmart successfully installed a beach safety sign in 2024 and The Milwaukee Health Department seeks to exchange that sign with two (2) solar-powered rescue stations.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8527,
+  "out": 222
+ },
+ "model": "claude-sonnet-5"
+}

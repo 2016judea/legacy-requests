@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": "Indumar",
+   "model": "BoreShield ARO II",
+   "part": "Stop it BoreShield ARO II coating applied to exposed pipe joints to protect the pipe from moisture and corrosion",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "B&W Distributors",
+   "reason": "recommend awarding the contract to the sole source vendor, B&W Distributors (a Mesa business) at $268,000",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Gantzel Road High-Pressure Gas Line Project",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VIS-COTAQ",
+   "model": "ViscoWrap",
+   "part": "Overcoat wrap applied when performing directional boring to protect the BoreShield coating from mechanical damage",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "B&W Distributors",
+   "reason": "recommend awarding the contract to the sole source vendor, B&W Distributors (a Mesa business) at $268,000",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Gantzel Road High-Pressure Gas Line Project",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2029,
+  "out": 694
+ },
+ "model": "claude-sonnet-5"
+}

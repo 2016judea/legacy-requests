@@ -1,0 +1,67 @@
+{
+ "records": [
+  {
+   "manufacturer": "Beam Global",
+   "model": "EV ARC 2020 / ARC-BASE",
+   "part": "EV ARC Base Model solar EV charging system with 4.3kW solar array and 20kWh expandable battery storage",
+   "quantity": "7.00",
+   "price_usd": 465108.0,
+   "lead_time": null,
+   "sole_source_vendor": "Beam Global",
+   "reason": "Beam Global is the sole manufacturer and exclusive provider of the EV ARC charging system.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Municipal Service Center (MSC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "AssetWorks",
+   "model": "Energy Platinum 40amp Single Port Wall Mount Networked Charger",
+   "part": "AssetWorks Energy Platinum 40amp Single Port Wall Mount Networked Charger with J-1772 plug, Level 2 charge rate up to 5.76 kW",
+   "quantity": "14.00",
+   "price_usd": 39788.0,
+   "lead_time": null,
+   "sole_source_vendor": "Beam Global",
+   "reason": "Beam Global is the sole manufacturer and exclusive provider of the EV ARC charging system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Municipal Service Center (MSC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "AssetWorks",
+   "model": "AssetWorks CMS RFID Access Control Key Fob (10pk, green)",
+   "part": "AssetWorks CMS RFID Access Control Key Fobs enabling access to networked charger, 10-pack",
+   "quantity": "2.00",
+   "price_usd": 196.0,
+   "lead_time": null,
+   "sole_source_vendor": "Beam Global",
+   "reason": "Beam Global is the sole manufacturer and exclusive provider of the EV ARC charging system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Municipal Service Center (MSC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Beam Global",
+   "model": "BOOST40",
+   "part": "Battery Boost 40 upgrade to 40 kWh battery storage for EV ARC 2020 unit",
+   "quantity": "7.00",
+   "price_usd": 68750.92,
+   "lead_time": null,
+   "sole_source_vendor": "Beam Global",
+   "reason": "Beam Global is the sole manufacturer and exclusive provider of the EV ARC charging system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Municipal Service Center (MSC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 24593,
+  "out": 931
+ },
+ "model": "claude-sonnet-5"
+}

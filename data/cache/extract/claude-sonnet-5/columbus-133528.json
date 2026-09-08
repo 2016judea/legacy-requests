@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Genetec",
+   "model": "Genetec Advantage",
+   "part": "Genetec Advantage software renewal (5 year) - maintenance package including software upgrades, premium support, and system monitoring for Neighborhood Safety Camera network",
+   "quantity": "1",
+   "price_usd": 68359.62,
+   "lead_time": null,
+   "sole_source_vendor": "K.N.S. Services, Inc.",
+   "reason": "They are the only Genetec Unified Elite integrator in the Central Ohio area.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Neighborhood Safety Camera program",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4994,
+  "out": 221
+ },
+ "model": "claude-sonnet-5"
+}

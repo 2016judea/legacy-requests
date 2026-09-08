@@ -1,0 +1,67 @@
+{
+ "records": [
+  {
+   "manufacturer": "Playworld Equipment",
+   "model": null,
+   "part": "all Playworld Equipment items (playground equipment)",
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Michigan Playgrounds LLC. (DBA Midstates Recreation)",
+   "reason": "Michigan Playgrounds LLC, DBA Midstates Recreation. is the sole local authorized distributor / service provider for Playworld Equipment., manufacturers\u2019 playground equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "City parks and recreation centers",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BCI Burke Co. LLC",
+   "model": null,
+   "part": "all BCI Burke Co. LLC items (playground equipment)",
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Snider Recreation, Inc.",
+   "reason": "Snider Recreation Inc. is the sole local authorized distributor / service provider for BCI Burke Company LLC, manufacturers\u2019 playground equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "City parks and recreation centers",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gametime",
+   "model": null,
+   "part": "all Gametime items (playground equipment)",
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "DWA Recreation Inc.",
+   "reason": "DWA Recreation Inc. is the sole local authorized distributor / service provider for Gametime, manufacturers\u2019 playground equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "City parks and recreation centers",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Landscape Structures Inc.",
+   "model": null,
+   "part": "all Landscape Structure items (playground equipment)",
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Penchura LLC.",
+   "reason": "Penchura LLC. is the sole local authorized distributor / service provider for Landscape Structures Inc., manufacturers\u2019 playground equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "City parks and recreation centers",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5682,
+  "out": 786
+ },
+ "model": "claude-sonnet-5"
+}

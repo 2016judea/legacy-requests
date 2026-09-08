@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Detroit",
+   "model": null,
+   "part": "Fire apparatus engine repairs and replacement services",
+   "quantity": null,
+   "price_usd": 900000,
+   "lead_time": null,
+   "sole_source_vendor": "W.W. Williams Company LLC",
+   "reason": "MFMD uses this contract for their fire apparatus engine repairs and replacement services with W.W. Williams Company LLC, the only OEM repair contractor who can work on Detroit engines.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2345,
+  "out": 196
+ },
+ "model": "claude-sonnet-5"
+}

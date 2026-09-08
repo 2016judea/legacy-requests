@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Ford OEM Parts for repair and maintenance of City vehicles",
+   "quantity": "All Items",
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Ricart Properties, Inc.",
+   "reason": "recommending award to the overall lowest, responsive, responsible and best bidder",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Division of Fleet Management",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8318,
+  "out": 770
+ },
+ "model": "claude-sonnet-5"
+}

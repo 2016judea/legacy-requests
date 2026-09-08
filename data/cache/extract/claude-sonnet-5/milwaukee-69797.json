@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stryker",
+   "model": "Lucas",
+   "part": "Vendor Service Contract for Maintaining Lucas Chest Compression Devices",
+   "quantity": "18",
+   "price_usd": 123768.0,
+   "lead_time": null,
+   "sole_source_vendor": "Howmedica Osteonics Corp. dba Stryker Sales, LLC",
+   "reason": "Stryker is the only purveyor of Lucas devices including the automatic chest compression devices, and are the only authorized maintainer of this equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Milwaukee Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3685,
+  "out": 222
+ },
+ "model": "claude-sonnet-5"
+}

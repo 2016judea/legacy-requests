@@ -1,0 +1,158 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axon",
+   "model": "Axon Flex",
+   "part": "Upgrades to Axon Flex OBC (on-body camera) systems",
+   "quantity": "720",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc.",
+   "reason": "The Mesa Police Department and Procurement Services recommend awarding the contract to the sole source vendor, Axon Enterprises, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": "Mesa Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon",
+   "model": "TASER",
+   "part": "CEW (Taser) devices",
+   "quantity": "900",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc.",
+   "reason": "The Mesa Police Department and Procurement Services recommend awarding the contract to the sole source vendor, Axon Enterprises, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": "Mesa Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon",
+   "model": null,
+   "part": "OBC supplies, equipment, and services",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc.",
+   "reason": "The Mesa Police Department and Procurement Services recommend awarding the contract to the sole source vendor, Axon Enterprises, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": "Mesa Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon",
+   "model": "TASER",
+   "part": "CEW device training and duty cartridges",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc.",
+   "reason": "The Mesa Police Department and Procurement Services recommend awarding the contract to the sole source vendor, Axon Enterprises, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": "Mesa Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon",
+   "model": "Evidence.com",
+   "part": "Third-party digital evidence storage",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc.",
+   "reason": "The Mesa Police Department and Procurement Services recommend awarding the contract to the sole source vendor, Axon Enterprises, Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Mesa Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon",
+   "model": null,
+   "part": "Interview room recording systems",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc.",
+   "reason": "The Mesa Police Department and Procurement Services recommend awarding the contract to the sole source vendor, Axon Enterprises, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": "Mesa Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon",
+   "model": null,
+   "part": "Technical account managers (support services)",
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc.",
+   "reason": "Provides three technical account managers for the next two years",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Mesa Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon",
+   "model": "Taser X",
+   "part": "New Body-worn cameras (BWCs)",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon",
+   "reason": "New Body-worn cameras (BWCs) - Taser X",
+   "equipment_class": "other equipment",
+   "installed_location": "Mesa Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon",
+   "model": "Respond+",
+   "part": "Live stream video capability to RTCC",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon",
+   "reason": "Ability to live stream video to RTCC via Axon Respond+",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Mesa Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon",
+   "model": "TASER 10",
+   "part": "TASER 10 conducted electrical weapon",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon",
+   "reason": "With a maximum range of 45 feet, TASER 10 creates more time and space to de-escalate and resolve conflicts.",
+   "equipment_class": "other equipment",
+   "installed_location": "Mesa Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon",
+   "model": "TASER 7",
+   "part": "CEW system currently deployed",
+   "quantity": "809",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "CEW: 809 Taser 7 system",
+   "equipment_class": "other equipment",
+   "installed_location": "Mesa Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 16961,
+  "out": 1836
+ },
+ "model": "claude-sonnet-5"
+}

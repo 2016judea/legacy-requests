@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Original Equipment Manufacturer (OEM) Auto and Light-Duty Parts required to repair and service the City's fleet of Ford vehicles",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Don Sanderson Ford, Inc. dba Sanderson Ford",
+   "reason": "the lowest, responsive and responsible bidders",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nissan",
+   "model": null,
+   "part": "Original Equipment Manufacturer (OEM) Auto and Light-Duty Parts required to repair and service the City's fleet of Nissan vehicles",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Reigi Auto of Mesa, LLC dba Courtesy Nissan of Mesa",
+   "reason": "the lowest, responsive and responsible bidders",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2287,
+  "out": 1004
+ },
+ "model": "claude-sonnet-5"
+}

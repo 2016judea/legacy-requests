@@ -1,0 +1,93 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bobcat",
+   "model": null,
+   "part": "OEM parts and diagnosis, maintenance, and repair services for Bobcat construction/heavy equipment (Group 1)",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Smith Bros. Contracting Equipment, Inc. dba Bobcat of Broward",
+   "reason": "Vendors must be an authorized dealer/seller or manufacturer of the products being offered at time of solicitation and throughout the contract term.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Broward County Fleet Services Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Caterpillar",
+   "model": null,
+   "part": "OEM parts and diagnosis, maintenance, and repair services for Caterpillar construction/heavy equipment (Group 3)",
+   "quantity": null,
+   "price_usd": 8866500,
+   "lead_time": null,
+   "sole_source_vendor": "Kelly Tractor Co.",
+   "reason": "Vendors must be an authorized dealer/seller or manufacturer of the products being offered at time of solicitation and throughout the contract term.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Broward County Fleet Services Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gradall",
+   "model": null,
+   "part": "OEM parts and diagnosis, maintenance, and repair services for Gradall construction/heavy equipment (Group 6)",
+   "quantity": null,
+   "price_usd": 1619750,
+   "lead_time": null,
+   "sole_source_vendor": "Great Southern Equipment, LLC",
+   "reason": "Vendors must be an authorized dealer/seller or manufacturer of the products being offered at time of solicitation and throughout the contract term.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Broward County Fleet Services Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "John Deere",
+   "model": null,
+   "part": "OEM parts and diagnosis, maintenance, and repair services for John Deere construction/heavy equipment (Group 9)",
+   "quantity": null,
+   "price_usd": 9220000,
+   "lead_time": null,
+   "sole_source_vendor": "EFE, Inc. dba Everglades Equipment Group",
+   "reason": "Vendors must be an authorized dealer/seller or manufacturer of the products being offered at time of solicitation and throughout the contract term.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Broward County Fleet Services Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Komatsu",
+   "model": null,
+   "part": "OEM parts and diagnosis, maintenance, and repair services for Komatsu construction/heavy equipment (Group 10)",
+   "quantity": null,
+   "price_usd": 1083000,
+   "lead_time": null,
+   "sole_source_vendor": "Linder Industrial Machinery Company",
+   "reason": "Vendors must be an authorized dealer/seller or manufacturer of the products being offered at time of solicitation and throughout the contract term.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Broward County Fleet Services Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Volvo",
+   "model": null,
+   "part": "OEM parts and diagnosis, maintenance, and repair services for Volvo construction/heavy equipment (Group 13)",
+   "quantity": null,
+   "price_usd": 730000,
+   "lead_time": null,
+   "sole_source_vendor": "Alta Construction Equipment Florida, LLC",
+   "reason": "Vendors must be an authorized dealer/seller or manufacturer of the products being offered at time of solicitation and throughout the contract term.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Broward County Fleet Services Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_skipped": 0,
+  "pdfs_scanned_dropped": 1
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 37685,
+  "out": 3875
+ },
+ "model": "claude-sonnet-5"
+}

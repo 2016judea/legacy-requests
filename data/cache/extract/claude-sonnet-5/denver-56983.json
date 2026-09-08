@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Twist Aero LLC",
+   "model": null,
+   "part": "Twist OEM Passenger Bridge Components (parts and components) for Denver International Airport",
+   "quantity": null,
+   "price_usd": 800000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Twist Aero LLC",
+   "reason": "Purchase pursuant to SOLE SOURCE \u2013 Bidding Exception Justification \u2013 DRMC Sec. 20-64 (a)(1)",
+   "equipment_class": "other equipment",
+   "installed_location": "Denver International Airport",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 17203,
+  "out": 209
+ },
+ "model": "claude-sonnet-5"
+}

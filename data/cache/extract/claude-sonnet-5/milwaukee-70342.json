@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Metalcraft Marine",
+   "model": null,
+   "part": "Service Contract for Fire Boat Refurbishment",
+   "quantity": null,
+   "price_usd": 948200.0,
+   "lead_time": null,
+   "sole_source_vendor": "Metalcraft Marine Inc.",
+   "reason": "Metalcraft, being the original shipwrights, is the only authorized contractor to perform these refurbishments.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7035,
+  "out": 790
+ },
+ "model": "claude-sonnet-5"
+}

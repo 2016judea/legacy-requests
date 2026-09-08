@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Genetec",
+   "model": null,
+   "part": "Surveillance system installation, replacement, and upgrades (cameras, wiring, digital storage, and other components)",
+   "quantity": "50+ surveillance systems, 500+ cameras",
+   "price_usd": 200000.0,
+   "lead_time": null,
+   "sole_source_vendor": "K.N.S. Services, Inc.",
+   "reason": "The amount of infrastructure development, security clearance access, and continued excellent support provided by this company leaves it as the only clear choice to continue logistical support for our systems.",
+   "equipment_class": "other equipment",
+   "installed_location": "Citywide parks and facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4368,
+  "out": 229
+ },
+ "model": "claude-sonnet-5"
+}

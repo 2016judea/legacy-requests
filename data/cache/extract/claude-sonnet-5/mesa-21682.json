@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM Heavy Duty Parts and Repair Services for heavy-duty trucks",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Rush Truck Centers of Arizona",
+   "reason": "This request will allow use of the City of Phoenix\u2019s cooperative contracts which establish heavy-duty truck service labor rates and associated pricing required to complete OEM repairs and purchase OEM parts.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM Heavy Duty Parts and Repair Services for heavy-duty trucks",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "RWC International Ltd",
+   "reason": "This request will allow use of the City of Phoenix\u2019s cooperative contracts which establish heavy-duty truck service labor rates and associated pricing required to complete OEM repairs and purchase OEM parts.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cummins",
+   "model": null,
+   "part": "OEM Heavy Duty Parts and Repair Services for heavy-duty trucks",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Cummins, Inc. dba Cummins Sales & Service",
+   "reason": "This request will allow use of the City of Phoenix\u2019s cooperative contracts which establish heavy-duty truck service labor rates and associated pricing required to complete OEM repairs and purchase OEM parts.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2152,
+  "out": 1234
+ },
+ "model": "claude-sonnet-5"
+}

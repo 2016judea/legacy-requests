@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tungsten",
+   "model": "TotalAgility",
+   "part": "Enterprise document scanning platform subscription and installation services (replacement of existing platform)",
+   "quantity": null,
+   "price_usd": 150000.0,
+   "lead_time": null,
+   "sole_source_vendor": "enChoice",
+   "reason": "The existing platform will reach end of life in December 2026, after which it will no longer receive vendor support, security updates, or product enhancements.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Citywide",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Tungsten",
+   "model": "TotalAgility",
+   "part": "Subscription renewal for Years 2-3",
+   "quantity": null,
+   "price_usd": 100000.0,
+   "lead_time": null,
+   "sole_source_vendor": "enChoice",
+   "reason": "The existing platform will reach end of life in December 2026, after which it will no longer receive vendor support, security updates, or product enhancements.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Citywide",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2096,
+  "out": 359
+ },
+ "model": "claude-sonnet-5"
+}

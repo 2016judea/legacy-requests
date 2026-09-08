@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Labrie Enviroquip Group",
+   "model": null,
+   "part": "Refuse Truck Parts (Labrie, Leach and Wittke OEM parts) used to repair and maintain City refuse vehicles",
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Best Equipment Co., Inc.",
+   "reason": "Best Equipment is the sole distributor authorized to sell, service, and support Labrie Enviroquip products per Sourcewell Contract # 110223-LEG within the State of Ohio.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3763,
+  "out": 235
+ },
+ "model": "claude-sonnet-5"
+}

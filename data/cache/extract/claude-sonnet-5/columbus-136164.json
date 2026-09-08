@@ -1,0 +1,106 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": "Astro 25 P-25 Digital System",
+   "part": "Maintenance and support of the City's 800MHz radio P-25 digital system infrastructure",
+   "quantity": null,
+   "price_usd": 1188092.14,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Columbus 800MHz tower sites",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "LSV01S01109A",
+   "part": "ASTRO SYSTEM ADVANCED PLUS PACKAGE",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "SVC02SVC0201A",
+   "part": "ASTRO SUA II UO IMPLEMENTATION SERVICES",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "SVC02SVC0343A",
+   "part": "RELEASE IMPACT TRAINING",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "SVC02SVC0344A",
+   "part": "RELEASE IMPLEMENTATION TRAINING",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "SVC02SVC0433A",
+   "part": "ASTRO SUA II FIELD IMPLEMENTATION SVC",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "SVC04SVC0169A",
+   "part": "SYSTEM UPGRADE AGREEMENT II",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14176,
+  "out": 1250
+ },
+ "model": "claude-sonnet-5"
+}

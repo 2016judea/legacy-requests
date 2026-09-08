@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Andritz Separation, Inc.",
+   "model": "D7LLC60CHEP2",
+   "part": "Andritz Decanter Centrifuges Maintenance and Repair Services (open-end contract)",
+   "quantity": "2 centrifuges (CFG#1 Serial 133222286 / CFG#2 Serial 133222287)",
+   "price_usd": 1237340,
+   "lead_time": null,
+   "sole_source_vendor": "Andritz Separation, Inc.",
+   "reason": "We are the sole source for all replacement parts, accessories and service.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "North Regional Wastewater Treatment Plant (NRWWTP)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18416,
+  "out": 1129
+ },
+ "model": "claude-sonnet-5"
+}

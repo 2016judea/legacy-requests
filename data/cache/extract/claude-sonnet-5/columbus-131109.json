@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Idemia Identity & Security USA, LLC (formerly Morpho Trak, Inc.)",
+   "model": null,
+   "part": "Maintenance and services for upgrade and technical support of the Automated Fingerprint Identification System (AFIS)",
+   "quantity": null,
+   "price_usd": 1003761.0,
+   "lead_time": null,
+   "sole_source_vendor": "Idemia Identity & Security USA, LLC",
+   "reason": "awarded pursuant to the sole source provisions of Chapter 329 of Columbus City Code due to the proprietary nature of AFIS technology, and the prohibitive cost of conversion to a different system",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4199,
+  "out": 260
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": "CGI Technologies and Solutions, Inc.",
+   "model": "Pragma CAD",
+   "part": "Pragma CAD software maintenance and support services",
+   "quantity": null,
+   "price_usd": 70282.0,
+   "lead_time": null,
+   "sole_source_vendor": "CGI Technologies and Solutions, Inc.",
+   "reason": "CGI Technologies and Solutions Inc., are the sole provider of the Pragma CAD source code and the Banner interface. No other party is authorized to install, modify, maintain or support this proprietary code.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus Water & Power",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CGI Technologies and Solutions, Inc.",
+   "model": "OpenGrid",
+   "part": "OpenGrid source code, executable code and the Banner Interface maintenance/support",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CGI Technologies and Solutions, Inc.",
+   "reason": "CGI as owner and manufacturer of the OpenGrid software is the sole provider for services and maintenance performed in relation to OpenGrid and the Banner Interface software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus Water & Power",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "HERE",
+   "part": "HERE licenses",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CGI Technologies and Solutions, Inc.",
+   "reason": "to enter into contract with CGI Technologies and Solutions, Inc. for Pragma CAD software maintenance and support services as well as the HERE licenses",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus Water & Power",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8941,
+  "out": 1204
+ },
+ "model": "claude-sonnet-5"
+}

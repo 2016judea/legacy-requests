@@ -1,0 +1,80 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Elevator maintenance, repairs and testing services",
+   "quantity": "2",
+   "price_usd": 1224852.09,
+   "lead_time": null,
+   "sole_source_vendor": "Minnesota Elevator, Inc. dba MEI Total Elevator Solutions",
+   "reason": "MEI will provide MPD with less downtime, reliability and lower costs for services.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Police Administration Building",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "System Innovators - A Division of N. Harris Computer Corporation",
+   "model": "iNovah",
+   "part": "Proprietary Software Support and Maintenance Agreement for iNovah cashiering software",
+   "quantity": null,
+   "price_usd": 928191.95,
+   "lead_time": null,
+   "sole_source_vendor": "System Innovators - A Division of N. Harris Computer Corporation",
+   "reason": "iNovah cashiering software is used to process and account for all payments tendered within the Office of the City Treasurer.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City Treasurer Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Caterpillar",
+   "model": null,
+   "part": "Generator Maintenance covering warranty and annual/monthly maintenance services for backup power generators",
+   "quantity": null,
+   "price_usd": 329212.0,
+   "lead_time": null,
+   "sole_source_vendor": "JFTCO, Inc. a/k/a John Fabick Tractor Company, Fabick Cat, Fabick Power Systems, Inc., Fabick Rents",
+   "reason": "Fabick Cat is the only local factory authorized dealer of Caterpillar equipment, engines, and parts within the designated service territories of Northern Michigan, Wisconsin, Eastern Missouri, and Southern Illinois.",
+   "equipment_class": "generator",
+   "installed_location": "Milwaukee Water Works service area",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CentralSquare Technologies, LLC",
+   "model": "Records Management System (RMS)",
+   "part": "Annual Maintenance for Records Management System (RMS)",
+   "quantity": null,
+   "price_usd": 259060.0,
+   "lead_time": null,
+   "sole_source_vendor": "CentralSquare Technologies, LLC",
+   "reason": "The RMS is proprietary to CentralSquare Technologies, LLC; therefore, no other vendors have the authority to maintain the software applicable to the RMS System.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Milwaukee Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CentralSquare Technologies, LLC",
+   "model": "CentralSquare Unify Hub",
+   "part": "Upgrade to CentralSquare Unify Hub for CAD system data integration",
+   "quantity": null,
+   "price_usd": 34060.0,
+   "lead_time": null,
+   "sole_source_vendor": "CentralSquare Technologies, LLC",
+   "reason": "The CentralSquare Unify Hub allows for intelligent data sharing between Computer Aided Dispatch (CAD) systems, reducing the need for phone calls and radio communications.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Milwaukee Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18243,
+  "out": 5420
+ },
+ "model": "claude-sonnet-5"
+}

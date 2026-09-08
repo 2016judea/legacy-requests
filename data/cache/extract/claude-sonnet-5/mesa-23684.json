@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Wavetronix",
+   "model": "Smart Multi Approach",
+   "part": "Vehicle detection systems for Intelligent Transportation Systems (stop-bar detection at signalized intersections)",
+   "quantity": null,
+   "price_usd": 500000,
+   "lead_time": null,
+   "sole_source_vendor": "Summit Traffic Solutions",
+   "reason": "Wavetronix is a new system with modern technologies. Transportation originally purchased Wavetronix as a demonstration, and the ITS group is pleased with its performance in monitoring traffic at signalized intersections.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Citywide - 515 signalized intersections",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2226,
+  "out": 247
+ },
+ "model": "claude-sonnet-5"
+}

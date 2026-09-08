@@ -1,0 +1,119 @@
+{
+ "records": [
+  {
+   "manufacturer": "VirTra",
+   "model": null,
+   "part": "Virtra force option training simulator equipment and associated computer software used for first responder de-escalation and crisis response training",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "VirTra, Inc.",
+   "reason": "The equipment as well as the computer software can only be purchased and serviced through Virtra, Inc. There are no authorized sales or service dealers, and all requests must go directly through Virtra.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fresno Police Department Regional Training Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VirTra",
+   "model": "V-180",
+   "part": "Service Plan - V-180 Annual (telephone support, remote assistance, screens, cameras, truss system, cabling, computers, projectors, accessories, software upgrades, security patches, annual service and maintenance visit) - period 06/23/2024-06/21/2025",
+   "quantity": "1.00",
+   "price_usd": 17752.8,
+   "lead_time": null,
+   "sole_source_vendor": "VirTra, Inc.",
+   "reason": "There are no authorized sales or service dealers, and all requests must go directly through Virtra.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno Police Department Regional Training Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VirTra",
+   "model": "V-180",
+   "part": "Service Plan - V-180 Annual (telephone support, remote assistance, screens, cameras, truss system, cabling, computers, projectors, accessories, software upgrades, security patches, annual service and maintenance visit) - period 06/23/2025-06/21/2026",
+   "quantity": "1.00",
+   "price_usd": 17752.8,
+   "lead_time": null,
+   "sole_source_vendor": "VirTra, Inc.",
+   "reason": "There are no authorized sales or service dealers, and all requests must go directly through Virtra.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno Police Department Regional Training Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VirTra",
+   "model": "V-180-V-300",
+   "part": "Service Plan V-180-V-300 Platinum Year 4 (telephone support, remote assistance, screens, cameras, truss system, cabling, computers, projectors, accessories, software upgrades, security patches, annual service and maintenance visit)",
+   "quantity": "1.00",
+   "price_usd": 26629.2,
+   "lead_time": null,
+   "sole_source_vendor": "VirTra, Inc.",
+   "reason": "There are no authorized sales or service dealers, and all requests must go directly through Virtra.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno Police Department Regional Training Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VirTra",
+   "model": "V-ATCC-5",
+   "part": "VirTra Advanced Trainer Certification Course (ATCC), 40-hour trainer certification training on the video simulation training program",
+   "quantity": "2.00",
+   "price_usd": 3000.0,
+   "lead_time": null,
+   "sole_source_vendor": "VirTra, Inc.",
+   "reason": "There are no authorized sales or service dealers, and all requests must go directly through Virtra.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "VirTra Global HQ in Chandler, AZ",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Performa, Inc.",
+   "model": "Performa Platform",
+   "part": "Software application and subscription providing mobile app-based Crisis Response Training (Performa Platform)",
+   "quantity": null,
+   "price_usd": 160000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Performa, Inc.",
+   "reason": "The Performa Platform is proprietary and is not offered through any other vendors.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Performa Labs, Inc.",
+   "model": "CA_MH_25/26",
+   "part": "Mental Health Decision Making Course (POST ID 1487-20908) app-based training seat licenses",
+   "quantity": "215",
+   "price_usd": 38700.0,
+   "lead_time": null,
+   "sole_source_vendor": "Performa Labs, Inc.",
+   "reason": "The Performa Platform is proprietary and is not offered through any other vendors.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Performa Labs, Inc.",
+   "model": "CA_MH_25/26",
+   "part": "Mental Health Decision Making Course (POST ID 1487-20908) app-based training seat licenses (Year 2 additional seats)",
+   "quantity": "635",
+   "price_usd": 114300.0,
+   "lead_time": null,
+   "sole_source_vendor": "Performa Labs, Inc.",
+   "reason": "The Performa Platform is proprietary and is not offered through any other vendors.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 3,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 71031,
+  "out": 3761
+ },
+ "model": "claude-sonnet-5"
+}

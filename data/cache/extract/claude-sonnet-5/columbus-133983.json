@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "NextGen",
+   "model": "NextGen EHR/PM",
+   "part": "hosting and ongoing support of an electronic medical record system",
+   "quantity": null,
+   "price_usd": 401605.0,
+   "lead_time": null,
+   "sole_source_vendor": "NextGen Healthcare Inc.",
+   "reason": "it has been determined that NextGen is the sole provider of direct hosted NextGen systems and is the sole owner of NextGen software",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus Public Health Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 13497,
+  "out": 198
+ },
+ "model": "claude-sonnet-5"
+}

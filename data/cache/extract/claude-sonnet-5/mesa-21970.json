@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Services and support for the City's photo safety enforcement program (contract extension and dollar limit increase)",
+   "quantity": null,
+   "price_usd": 350000,
+   "lead_time": null,
+   "sole_source_vendor": "American Traffic Solutions, Inc. dba Verra Mobility",
+   "reason": "Since 2006, American Traffic Solutions, Inc./Vera Mobility  has provided services and support for the City\u2019s photo safety program.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2056,
+  "out": 529
+ },
+ "model": "claude-sonnet-5"
+}

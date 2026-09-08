@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "DeZurik",
+   "model": null,
+   "part": "Valves, plugs, sleeves and other parts used to repair and replace damaged parts on water lines throughout the Wastewater treatment plants",
+   "quantity": "all items",
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Rawdon Myers Inc.",
+   "reason": "Rawdon Myers Inc. is the sole source for these parts, and they are the only local distributor for this specific manufacturer.",
+   "equipment_class": "valve",
+   "installed_location": "Wastewater treatment plants",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4683,
+  "out": 210
+ },
+ "model": "claude-sonnet-5"
+}

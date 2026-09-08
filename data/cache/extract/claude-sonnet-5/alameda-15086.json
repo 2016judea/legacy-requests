@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": "Puck",
+   "model": "TTR-15P",
+   "part": "TTR-15P Hose Reel Turntable Trailers (Hose Cart)",
+   "quantity": "2",
+   "price_usd": 387335.0,
+   "lead_time": null,
+   "sole_source_vendor": "Puck Enterprises",
+   "reason": "Puck LLC is the sole manufacturer and distributor of the TTR-15P Hose Reel Turntable Trailer. No other known vendor produces equipment with comparable design features, operational specifications, or compatibility with AFD's existing hose systems.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station 5 / Alameda Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Puck",
+   "model": "61-00213-11",
+   "part": "TTR-15P Hose Cart (61-00213-11)",
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Puck LLC",
+   "reason": "This is to confirm that Puck LLC of Manning, Iowa is the sole source supplier for Puck Fire products in the State of California.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Puck",
+   "model": "61-00332-11",
+   "part": "TTR-15P Hose Cart",
+   "quantity": "2.00EA",
+   "price_usd": 338000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Puck LLC",
+   "reason": "This is to confirm that Puck LLC of Manning, Iowa is the sole source supplier for Puck Fire products in the State of California.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 16788,
+  "out": 610
+ },
+ "model": "claude-sonnet-5"
+}

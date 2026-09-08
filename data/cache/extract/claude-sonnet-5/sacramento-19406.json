@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cummins",
+   "model": null,
+   "part": "Original Equipment Manufacturer (OEM) Heavy Duty Truck Parts and Repair Services",
+   "quantity": null,
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": "Dobbs Heavy Duty Holdings LLC, dba Dobbs Truck Group, Inc.",
+   "reason": "Cummins engines are widely used in heavy-duty vehicles, including dump trucks, fire engines, and refuse trucks making these services essential to daily operations.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3337,
+  "out": 233
+ },
+ "model": "claude-sonnet-5"
+}

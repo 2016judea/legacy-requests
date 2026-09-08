@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "surveillance system installation, replacement, and upgrades (cameras, wiring, digital storage, and other components)",
+   "quantity": "more than 50 unique surveillance systems comprised of over 500 cameras",
+   "price_usd": 200000.0,
+   "lead_time": null,
+   "sole_source_vendor": "K.N.S. Services, Inc.",
+   "reason": "The amount of infrastructure development, security clearance access, and continued excellent support provided by this company leaves it as the only clear choice to continue logistical support for our systems.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Genetec",
+   "model": null,
+   "part": "surveillance software platform providing remote viewing, access management, and organizational integration",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "K.N.S. Services, Inc.",
+   "reason": "The City of Columbus selected the Genetec software platform years ago for all departments to utilize for their surveillance systems with the vision of aggregating these services city wide.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5072,
+  "out": 1287
+ },
+ "model": "claude-sonnet-5"
+}

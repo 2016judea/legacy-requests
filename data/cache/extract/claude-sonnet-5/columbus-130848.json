@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "International Navistar",
+   "model": null,
+   "part": "International Navistar OEM Parts and Services used to repair City commercial vehicles",
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Rush Truck Centers of Ohio, Inc.",
+   "reason": "Rush Truck Centers of Ohio, Inc. is the sole source for these parts and services as they are the only local distributor and authorized service provider for this specific manufacturer.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Division of Fleet Management",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3600,
+  "out": 216
+ },
+ "model": "claude-sonnet-5"
+}

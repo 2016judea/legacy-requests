@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": "Avaya",
+   "model": null,
+   "part": "Avaya Equipment and Service Assistance for City and Public Safety telephone systems (Aura Communications Manager Voice System)",
+   "quantity": null,
+   "price_usd": 1305483.16,
+   "lead_time": null,
+   "sole_source_vendor": "ConvergeOne, Inc.",
+   "reason": "Avaya branded equipment and the associated service assistance is proprietary, and it must be purchased and serviced through a licensed secondary partner \u2013 ConvergeOne, Inc.",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Milwaukee - City and Police telephone systems",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies Corporation",
+   "model": null,
+   "part": "Preventative maintenance/service plan coverage for four (4) pieces of laboratory equipment used for virus/communicable disease testing",
+   "quantity": "four (4) pieces of lab equipment",
+   "price_usd": 58232.17,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies Corporation",
+   "reason": "The original contract was put in place with Life Technologies Corporation in 2020 for service plan coverage for four (4) pieces of lab equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Milwaukee Health Department (MHD) Lab",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 16446,
+  "out": 3961
+ },
+ "model": "claude-sonnet-5"
+}

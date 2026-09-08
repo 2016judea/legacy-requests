@@ -1,0 +1,145 @@
+{
+ "records": [
+  {
+   "manufacturer": "Badger Meter",
+   "model": null,
+   "part": "Water meters, parts, automated metering components, software, and hardware (AMI system) - Requirements Contract",
+   "quantity": null,
+   "price_usd": 5235863.45,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter Incorporated",
+   "reason": "The AMI relies exclusively on Badger's proprietary endpoints, transmitters, and Beacon Advanced Metering Analytics software for customer billing, consumption data analysis, customer leak detection, and the customer water usage app EyeOnWater.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "E-Series Ultrasonic Meters",
+   "part": "E-Series\u00ae Ultrasonic Meters",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "This letter will confirm that Badger Meter is the sole source provider of E-Series\u00ae Ultrasonic Meters, Recordall\u00ae Disc Meters, Recordall Compound Series/Combo Meters, Recordall Turbo Series Meters, HR-E\u00ae LCD Encoders and ORION\u00ae Endpoints for the City of Fresno.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Fresno",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "Recordall Disc Meters",
+   "part": "Recordall\u00ae Disc Meters",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "This letter will confirm that Badger Meter is the sole source provider of E-Series\u00ae Ultrasonic Meters, Recordall\u00ae Disc Meters, Recordall Compound Series/Combo Meters, Recordall Turbo Series Meters, HR-E\u00ae LCD Encoders and ORION\u00ae Endpoints for the City of Fresno.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Fresno",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "Recordall Compound Series/Combo Meters",
+   "part": "Recordall Compound Series/Combo Meters",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "This letter will confirm that Badger Meter is the sole source provider of E-Series\u00ae Ultrasonic Meters, Recordall\u00ae Disc Meters, Recordall Compound Series/Combo Meters, Recordall Turbo Series Meters, HR-E\u00ae LCD Encoders and ORION\u00ae Endpoints for the City of Fresno.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Fresno",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "Recordall Turbo Series Meters",
+   "part": "Recordall Turbo Series Meters",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "This letter will confirm that Badger Meter is the sole source provider of E-Series\u00ae Ultrasonic Meters, Recordall\u00ae Disc Meters, Recordall Compound Series/Combo Meters, Recordall Turbo Series Meters, HR-E\u00ae LCD Encoders and ORION\u00ae Endpoints for the City of Fresno.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Fresno",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "HR-E LCD Encoders",
+   "part": "HR-E\u00ae LCD Encoders",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "This letter will confirm that Badger Meter is the sole source provider of E-Series\u00ae Ultrasonic Meters, Recordall\u00ae Disc Meters, Recordall Compound Series/Combo Meters, Recordall Turbo Series Meters, HR-E\u00ae LCD Encoders and ORION\u00ae Endpoints for the City of Fresno.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Fresno",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "ORION Endpoints",
+   "part": "ORION\u00ae Endpoints",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "This letter will confirm that Badger Meter is the sole source provider of E-Series\u00ae Ultrasonic Meters, Recordall\u00ae Disc Meters, Recordall Compound Series/Combo Meters, Recordall Turbo Series Meters, HR-E\u00ae LCD Encoders and ORION\u00ae Endpoints for the City of Fresno.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Fresno",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "Beacon Advanced Metering Analytics",
+   "part": "Beacon Advanced Metering Analytics software for billing, consumption data analysis, leak detection, and EyeOnWater app",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter Incorporated",
+   "reason": "The AMI relies exclusively on Badger's proprietary endpoints, transmitters, and Beacon Advanced Metering Analytics software for customer billing, consumption data analysis, customer leak detection, and the customer water usage app EyeOnWater.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": null,
+   "part": "Supporting gateways and network infrastructure for AMI system",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter Incorporated",
+   "reason": "Supporting gateways and network infrastructure are also Badger-specific.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "Domestic Quotation No. 3857973",
+   "part": "On-site training services (meter/endpoint installation, software functionality, related operational topics)",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter Incorporated",
+   "reason": "Contractor shall provide on-site training services as set forth in Badger Meter Domestic Quotation No. 3857973, including the line item described as \"ON-SITE TRAINING, CUSTOM, FIRST DAY,\" at the unit price stated therein.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 25330,
+  "out": 2460
+ },
+ "model": "claude-sonnet-5"
+}

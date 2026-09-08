@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "360Water",
+   "model": "360Water Training Software",
+   "part": "Software Support and Maintenance of the 360Water Program (online training website)",
+   "quantity": null,
+   "price_usd": 30000.0,
+   "lead_time": null,
+   "sole_source_vendor": "360Water, Inc.",
+   "reason": "360water, Inc., is the sole source of complete maintenance and support services for the DPU Training website",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Utilities (Columbus Water & Power)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10148,
+  "out": 193
+ },
+ "model": "claude-sonnet-5"
+}

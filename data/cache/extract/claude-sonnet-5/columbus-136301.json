@@ -1,0 +1,93 @@
+{
+ "records": [
+  {
+   "manufacturer": "Granicus",
+   "model": "Legistar",
+   "part": "Legistar electronic records/legislation management system service agreement",
+   "quantity": "1",
+   "price_usd": 42111.36,
+   "lead_time": null,
+   "sole_source_vendor": "Granicus, Inc.",
+   "reason": "Legistar software proprietary and Granicus is the sole supplier.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus City Council / City Clerk's office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Granicus",
+   "model": "Granicus Operations Cloud - Governance (Legislative)",
+   "part": "Setup, Configuration, and Training for Operations Cloud Governance (Legislative)",
+   "quantity": "1 Each",
+   "price_usd": 38550.75,
+   "lead_time": null,
+   "sole_source_vendor": "Granicus, Inc.",
+   "reason": "Given that Granicus is the only authorized distributor and servicer of the Legistar platform, this contract is entered into under the sole source procurement provisions of Chapter 329 of Columbus City Codes.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus City Council / City Clerk's office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Granicus",
+   "model": "Granicus Operations Cloud - Governance (Legislative)",
+   "part": "New annual subscription for Granicus Operations Cloud service",
+   "quantity": "1 Each",
+   "price_usd": 59822.5,
+   "lead_time": null,
+   "sole_source_vendor": "Granicus, Inc.",
+   "reason": "Sole distributor authorized for this territory.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus City Council / City Clerk's office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Granicus",
+   "model": "Legistar - Setup & Config (existing client)",
+   "part": "Legistar setup and configuration service for existing client",
+   "quantity": "1 Each",
+   "price_usd": 0,
+   "lead_time": null,
+   "sole_source_vendor": "Granicus, Inc.",
+   "reason": "Legistar software proprietary and Granicus is the sole supplier.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus City Council / City Clerk's office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Granicus",
+   "model": "Legistar - Training (existing client)",
+   "part": "Legistar training service for existing client",
+   "quantity": "1 Each",
+   "price_usd": 0,
+   "lead_time": null,
+   "sole_source_vendor": "Granicus, Inc.",
+   "reason": "Legistar software proprietary and Granicus is the sole supplier.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus City Council / City Clerk's office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Granicus",
+   "model": "Open Platform Suite",
+   "part": "Renewing subscription for Open Platform Suite (MediaManager, archive upload/posting/index)",
+   "quantity": "1 Each",
+   "price_usd": 0,
+   "lead_time": null,
+   "sole_source_vendor": "Granicus, Inc.",
+   "reason": "Legistar software proprietary and Granicus is the sole supplier.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus City Council / City Clerk's office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 21857,
+  "out": 1173
+ },
+ "model": "claude-sonnet-5"
+}

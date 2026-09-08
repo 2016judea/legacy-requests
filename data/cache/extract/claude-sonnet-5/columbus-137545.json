@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement parts for 300-gallon, 96-gallon and 64-gallon refuse containers",
+   "quantity": null,
+   "price_usd": 41000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Best Equipment Co. Inc.",
+   "reason": "It has been difficult to source the needed parts.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5127,
+  "out": 159
+ },
+ "model": "claude-sonnet-5"
+}

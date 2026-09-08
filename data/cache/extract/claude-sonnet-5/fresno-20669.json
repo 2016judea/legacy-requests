@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Airbus Helicopters, Inc.",
+   "model": "C632A0201054 (MODULE, MAIN, MGB) for EC120 helicopter",
+   "part": "Overhauled main rotor gearbox main module (exchange) for Airbus EC120 helicopter N524MW",
+   "quantity": "1",
+   "price_usd": 181485.37,
+   "lead_time": null,
+   "sole_source_vendor": "Airbus Helicopters, Inc.",
+   "reason": "Airbus Helicopters, Inc. is the only manufacturer of the EC120",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fresno Police Department Air Support Unit \"Skywatch\" facility",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8063,
+  "out": 1063
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "StepMobile",
+   "model": null,
+   "part": "New mediation case management system integrating with existing OCSS system",
+   "quantity": null,
+   "price_usd": 116000,
+   "lead_time": null,
+   "sole_source_vendor": "StepMobile LLC",
+   "reason": "StepMobile is the sole provider of any changes to the OCSS system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Franklin County Municipal Court",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2812,
+  "out": 165
+ },
+ "model": "claude-sonnet-5"
+}

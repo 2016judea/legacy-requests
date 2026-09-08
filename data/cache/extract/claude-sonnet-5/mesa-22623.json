@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM auto and light-duty truck parts for fleet of sedans, light-duty trucks, and vans",
+   "quantity": null,
+   "price_usd": 900000,
+   "lead_time": null,
+   "sole_source_vendor": "Autonation Chrysler Jeep Dodge dba Autonation SSC, Courtesy Auto of Mesa, LLC, Parts Authority, LLC, Parts Mart, Inc., Rodeo QCC, Inc. dba Rodeo Chrysler Dodge Jeep Ram, Courtesy Chevrolet, and Tex Chevrolet, Inc. dba Earnhardt Chevrolet",
+   "reason": "This contract facilitates the procurement of Original Equipment Manufacturer (OEM) auto and light-duty truck parts to support Mesa\\u2019s fleet of sedans, light-duty trucks, and vans not covered under existing OEM contracts.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2483,
+  "out": 368
+ },
+ "model": "claude-sonnet-5"
+}

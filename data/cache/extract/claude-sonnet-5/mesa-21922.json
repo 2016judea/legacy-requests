@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Aerodome",
+   "model": null,
+   "part": "Drone as First Responder Technology (Unmanned Aerial Systems) for traffic collision investigation, patrol, and tactical operations",
+   "quantity": null,
+   "price_usd": 340000,
+   "lead_time": null,
+   "sole_source_vendor": "Aerodome, Inc.",
+   "reason": "The Police Department has evaluated various options and has found that Aerodome has the technology that is needed to improve response times to emergency calls for service",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2041,
+  "out": 199
+ },
+ "model": "claude-sonnet-5"
+}

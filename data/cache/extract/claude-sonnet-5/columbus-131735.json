@@ -1,0 +1,80 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Sole source construction contract with The Ohio Edison Company to extend electrical transmission service (138 kV line) to the Fourth Water Plant site",
+   "quantity": null,
+   "price_usd": 4168373.33,
+   "lead_time": "26 months",
+   "sole_source_vendor": "The Ohio Edison Company",
+   "reason": "Ohio Edison Company is the sole provider of electrical service in the area where the Fourth Water Plant will be built",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Fourth Water Plant, 8415 Dublin Road, Delaware, Ohio 43065",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "OE-T-5895",
+   "part": "Install one 138 kV load-break air switch with SCADA control on the new tap and build approximately 3.3 miles of new 138 kV line to the POI with the Customer",
+   "quantity": "1 switch; 3.3 miles of line",
+   "price_usd": 9175857.0,
+   "lead_time": "26 months",
+   "sole_source_vendor": "Ohio Edison",
+   "reason": "Ohio Edison is the electric utility that serves the FWP site and surrounding area",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Fourth Water Plant, 8415 Dublin Road, Delaware, Ohio 43065",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "OE-T-5897",
+   "part": "Build last span to POI with Customer",
+   "quantity": null,
+   "price_usd": 56685.0,
+   "lead_time": "26 months",
+   "sole_source_vendor": "Ohio Edison",
+   "reason": "Ohio Edison is the electric utility that serves the FWP site and surrounding area",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Fourth Water Plant, 8415 Dublin Road, Delaware, Ohio 43065",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "OE-S-6528",
+   "part": "Integrate Customer protection and controls to the FE transmission system",
+   "quantity": null,
+   "price_usd": 49539.14,
+   "lead_time": "26 months",
+   "sole_source_vendor": "Ohio Edison",
+   "reason": "Ohio Edison is the electric utility that serves the FWP site and surrounding area",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Fourth Water Plant, 8415 Dublin Road, Delaware, Ohio 43065",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "138 kV revenue metering equipment installed at the Customer substation within the local zone of protection",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ohio Edison",
+   "reason": "Due to the rules of the FE Operating Company retail tariffs, the cost of metering for a new Customer is the responsibility of the Operating Company",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Fourth Water Plant, 8415 Dublin Road, Delaware, Ohio 43065",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 20504,
+  "out": 2854
+ },
+ "model": "claude-sonnet-5"
+}

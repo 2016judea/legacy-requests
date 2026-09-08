@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Jacobsen",
+   "model": null,
+   "part": "Jacobsen OEM mower parts used to repair and maintain all Jacobsen mowers throughout the City",
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Baker Vehicle Systems, Inc.",
+   "reason": "Baker Vehicle Systems, Inc. is the sole source for these parts and services as they are the only local distributor and authorized service provider for this specific manufacturer.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "City parks and golf courses",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4549,
+  "out": 220
+ },
+ "model": "claude-sonnet-5"
+}

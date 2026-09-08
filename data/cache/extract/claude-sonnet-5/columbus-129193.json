@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Genetec Inc.",
+   "model": "Genetec Advantage",
+   "part": "Security camera software maintenance and support (five-year contract, annual renewal)",
+   "quantity": null,
+   "price_usd": 76092.9,
+   "lead_time": null,
+   "sole_source_vendor": "KNS Services, Inc.",
+   "reason": "Genetec Inc. requires their warranty services to be performed by the dealer of record, KNS Services, Inc. to prevent multiple vendors from getting into the Genetec System and making changes",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Recreation and Parks facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3840,
+  "out": 224
+ },
+ "model": "claude-sonnet-5"
+}

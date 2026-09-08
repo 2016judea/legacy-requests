@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tom Synnott Associates, Inc. (tsaADVET)",
+   "model": "Falcon/DMS",
+   "part": "Annual Software and Support Maintenance for Falcon/DMS Document Management, Custom Electronic Form, Falcon/Indexer, Falcon/SVP, Falcon/Deliver, Falcon/Enterprise, Falcon/DMS Sentry PDF Publisher Module, Falcon/DMS Integration with Oracle WAM, and Falcon/API Developer Toolkit",
+   "quantity": null,
+   "price_usd": 49125.0,
+   "lead_time": null,
+   "sole_source_vendor": "Tom Synnott Associates, Inc., also known as tsaADVET",
+   "reason": "Tom Synnott Associates, Inc., also known as tsaADVET, is the sole developer of the software and will provide all licenses and support.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Utilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4360,
+  "out": 345
+ },
+ "model": "claude-sonnet-5"
+}

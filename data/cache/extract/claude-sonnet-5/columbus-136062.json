@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Harley-Davidson",
+   "model": null,
+   "part": "Harley-Davidson OEM Parts used to repair City motorcycles",
+   "quantity": "All Items",
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Centennial LLC dba Farrow East Harley Davidson",
+   "reason": "One (1) bid was received.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4311,
+  "out": 775
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": "GfG",
+   "model": null,
+   "part": "Multi-gas monitors for detecting hazardous atmospheres in confined spaces, sewer lines and vaults",
+   "quantity": null,
+   "price_usd": 1100000,
+   "lead_time": null,
+   "sole_source_vendor": "AZ Wastewater Industries, Inc.",
+   "reason": "One vendor submitted a bid deemed to be responsive to posted specifications and responsible to provide the required goods and services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GfG",
+   "model": null,
+   "part": "Repair and replacement parts, accessories, and services for multi-gas monitors",
+   "quantity": null,
+   "price_usd": 1100000,
+   "lead_time": null,
+   "sole_source_vendor": "AZ Wastewater Industries, Inc.",
+   "reason": "One vendor submitted a bid deemed to be responsive to posted specifications and responsible to provide the required goods and services.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2214,
+  "out": 796
+ },
+ "model": "claude-sonnet-5"
+}

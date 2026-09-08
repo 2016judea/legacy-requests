@@ -5,6 +5,7 @@ The page is static: every record is embedded as JSON and searched in the
 browser. This file is the only source of the HTML — never hand-edit the output.
 """
 import json
+import re
 from collections import Counter
 from datetime import date
 from pathlib import Path
@@ -19,6 +20,51 @@ FIELDS = ["id", "manufacturer", "model", "part", "quantity", "price_usd", "lead_
 
 PLACEHOLDER_PRICE = 100  # Columbus files "$1.00" as a not-to-exceed placeholder on universal term contracts
 
+# This site is about PHYSICAL obsolete infrastructure — a board, a drive, an
+# impeller. `equipment_class` cannot express that on its own, because the model
+# emits one bucket, "SCADA/controls/software", holding both halves: "BOARD FLIR
+# VIP3D.1s Video Detection Processor" and "MODULE PIM CARD SDLC INTERFACE" sit
+# in it beside "Self-checkout kiosk software module subscription".
+#
+# Splitting on class alone was wrong in both directions — it hid 22 real
+# hardware rows behind the software toggle, and let ~270 non-physical rows into
+# the default view. So we read the part text instead. Derived at build time, so
+# it costs no model calls and changing the rule is a rebuild, not a re-extract.
+SOFTWARE_WORDS = re.compile(
+    r"\b(software|licen[cs]e|licensing|subscription|saas|cloud|hosting|hosted|records management"
+    r"|professional services|maintenance and support|implementation services|training|portal|website"
+    r"|web app|mobile app|data migration|annual support|user seats?|kiosk|signage|patron)\b", re.I)
+
+# Unambiguously a physical object.
+STRONG_HARDWARE = re.compile(
+    r"\b(board|rack|chassis|encoder|decoder|impeller|bearing|gearbox|rotor|stator|shaft|coupling|bushing"
+    r"|vfd|plc|rtu|hmi|switchgear|transformer|breaker|contactor|starter|motor|pump|valve|blower|compressor"
+    r"|generator|transmitter|probe|centrifuge|clarifier|aerator|membrane|power supply|antenna|nozzle|gasket)\b", re.I)
+
+# Physical only in company — "module" and "card" appear in both worlds, so one
+# on its own proves nothing and two together do.
+WEAK_HARDWARE = re.compile(
+    r"\b(module|card|panel|drive|unit|assembly|housing|controller|processor|cpu|actuator|relay|sensor"
+    r"|analyzer|meter|screen|mixer|gate|pipe|fitting|seal|camera|detector|radio|terminal|cabinet)\b", re.I)
+
+PHYSICAL_CLASSES = {"pump", "valve", "motor/drive", "electrical/switchgear/transformer", "generator", "HVAC",
+                    "pipe/fitting", "treatment process (membrane/centrifuge/UV/chemical feed)",
+                    "instrumentation/calibration"}
+
+
+def is_physical(r: dict) -> bool:
+    """True when this record is a thing that can wear out and need a part."""
+    text = " ".join(str(r.get(k) or "") for k in ("part", "manufacturer", "model"))
+    if SOFTWARE_WORDS.search(text):
+        return False
+    if r.get("equipment_class") == "service/maintenance contract":
+        return False
+    if r.get("equipment_class") in PHYSICAL_CLASSES:
+        return True
+    if STRONG_HARDWARE.search(text):
+        return True
+    return len(set(m.lower() for m in WEAK_HARDWARE.findall(text))) >= 2
+
 
 def load():
     recs = [json.loads(l) for l in (ROOT / "data" / "records.jsonl").read_text().splitlines() if l.strip()]
@@ -26,6 +72,7 @@ def load():
     for r in out:
         if r["price_usd"] is not None and r["price_usd"] < PLACEHOLDER_PRICE:
             r["price_usd"] = None
+        r["is_physical"] = is_physical(r)
     return out
 
 
@@ -50,7 +97,7 @@ SOFT = ["SCADA/controls/software", "service/maintenance contract"]
 
 def render(recs: list[dict]) -> str:
     agencies = sorted({r["agency"] for r in recs})
-    n_hw = sum(1 for r in recs if r["equipment_class"] in HARDWARE)
+    n_hw = sum(1 for r in recs if r["is_physical"])
     n_soft = len(recs) - n_hw
     classes = [c for c, _ in Counter(r["equipment_class"] for r in recs).most_common()]
     classes = [c for c in classes if c not in SOFT] + [c for c in classes if c in SOFT]
@@ -124,13 +171,13 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
 <body>
 <header>
 <h1>{TITLE}</h1>
-<p class="lede"><b>{n_hw:,} pieces of equipment</b> that <b>{len(agencies)} public agencies</b> could buy from only one supplier, {span(dates)}. Each row quotes the agency's own reason and links to the source document.</p>
+<p class="lede"><b>{n_hw:,} pieces of physical equipment</b> that <b>{len(agencies)} public agencies</b> could buy from only one supplier, {span(dates)}. Each row quotes the agency's own reason and links to the source document.</p>
 <div class="controls">
   <input id="q" type="search" placeholder="Search manufacturer, model, part, vendor, agency…" autocomplete="off" autofocus>
   <select id="mfr"><option value="">All manufacturers</option></select>
   <select id="agency"><option value="">All agencies</option>{''.join(f'<option>{a}</option>' for a in agencies)}</select>
   <label class="tog"><input type="checkbox" id="obs"> Obsolete / discontinued only</label>
-  <label class="tog"><input type="checkbox" id="soft"> Include software &amp; service contracts</label>
+  <label class="tog"><input type="checkbox" id="soft"> Include software, licences &amp; service contracts</label>
 </div>
 <div class="chips" id="chips">{''.join(f'<button class="chip" data-c="{c}" aria-pressed="false">{SHORT.get(c, c)}</button>' for c in classes)}</div>
 </header>
@@ -158,7 +205,7 @@ Object.entries(mc).sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0])).forEach(([m,
 R.forEach(r=>r._h=[r.manufacturer,r.model,r.part,r.sole_source_vendor,r.agency,r.state,r.reason,r.installed_location,r.equipment_class].join(' ').toLowerCase());
 function filtered(){{
   const terms=q.value.toLowerCase().split(/\\s+/).filter(Boolean);
-  return R.filter(r=>(!mfr.value||r.manufacturer===mfr.value)&&(!ag.value||r.agency===ag.value)&&(!obs.checked||r.is_obsolete)&&(cls.size?cls.has(r.equipment_class):(soft.checked||!SOFT.has(r.equipment_class)))&&terms.every(t=>r._h.includes(t)))
+  return R.filter(r=>(!mfr.value||r.manufacturer===mfr.value)&&(!ag.value||r.agency===ag.value)&&(!obs.checked||r.is_obsolete)&&(cls.size?cls.has(r.equipment_class):(soft.checked||r.is_physical))&&terms.every(t=>r._h.includes(t)))
     .sort((a,b)=>{{const x=a[sortK],y=b[sortK];if(x==null&&y==null)return 0;if(x==null)return 1;if(y==null)return -1;return (x>y?1:x<y?-1:0)*sortD}});
 }}
 function row(r){{

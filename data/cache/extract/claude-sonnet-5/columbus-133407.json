@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": "Evoqua",
+   "model": null,
+   "part": "Envirex Parts for clarifiers, skimming concentrators and basin collectors",
+   "quantity": "All items",
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies, LLC",
+   "reason": "Evoqua is the proprietary manufacturer of various clarifiers, skimming concentrators and basin collectors that are used at the City's water and wastewater plants. Evoqua Water Technologies, LLC. is the sole source for these parts as they are the only distributor for their own products.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Department of Public Utilities water and wastewater plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua",
+   "model": null,
+   "part": "Chain and Scraper equipment components (inspection, replacement, and retrofit)",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies, LLC",
+   "reason": "Evoqua Water Technologies, LLC is the original O&M Manufacturer of this equipment and is the only source for the inspection, replacement, and retrofit services for this equipment.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Southerly WWTP, Columbus, OH",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3859,
+  "out": 638
+ },
+ "model": "claude-sonnet-5"
+}

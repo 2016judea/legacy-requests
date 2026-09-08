@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Service Contract for Fire Boat Refurbishment",
+   "quantity": "1",
+   "price_usd": 985007.81,
+   "lead_time": null,
+   "sole_source_vendor": "Metalcraft Marine US, Inc.",
+   "reason": "MFD contracted with Metalcraft March 19, 2025 to refurbish their fireboat.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Milwaukee Fire Department fireboat",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "RayMarine",
+   "model": null,
+   "part": "upgrade the electronics system from Garmin to RayMarine",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Metalcraft Marine US, Inc.",
+   "reason": "an opportunity arose to upgrade the electronics system from Garmin to RayMarine and add a FLIR M364C camera with a sixteen (16) inch screen",
+   "equipment_class": "other equipment",
+   "installed_location": "Milwaukee Fire Department fireboat",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FLIR",
+   "model": "M364C",
+   "part": "add a FLIR M364C camera with a sixteen (16) inch screen",
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Metalcraft Marine US, Inc.",
+   "reason": "an opportunity arose to upgrade the electronics system from Garmin to RayMarine and add a FLIR M364C camera with a sixteen (16) inch screen",
+   "equipment_class": "other equipment",
+   "installed_location": "Milwaukee Fire Department fireboat",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10064,
+  "out": 2002
+ },
+ "model": "claude-sonnet-5"
+}

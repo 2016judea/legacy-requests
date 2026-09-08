@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hansen Banner, LLC",
+   "model": "Hansen CIS-B (formerly \"Banner CIS\")",
+   "part": "Continued professional services (project management, technical services, troubleshooting, customizations, software development) for Hansen CIS billing system",
+   "quantity": null,
+   "price_usd": 150000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hansen Banner, LLC",
+   "reason": "Hansen Banner, LLC is the sole source vendor for the Hansen CIS-B (formerly \"Banner CIS\") Software and the sole provider of services for services performed in relation to the Hansen CIS-B Software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Utilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3879,
+  "out": 270
+ },
+ "model": "claude-sonnet-5"
+}

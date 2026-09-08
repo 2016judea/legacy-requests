@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": "System Upgrade Agreement II (SUA II)",
+   "part": "Motorola System Upgrade Agreement II providing annual software upgrades, network core hardware upgrades, and technical support services for the TRWC radio network",
+   "quantity": null,
+   "price_usd": 607000,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "(Sole Source)",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "TOPAZ Regional Wireless Cooperative (TRWC) Public Safety voice two-way radio network",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Upgrade to TRWC Fire Hazard Zone (VHF) core equipment supporting the public safety radio system",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "(Sole Source)",
+   "equipment_class": "communications/radio",
+   "installed_location": "TRWC Fire Hazard Zone (VHF) core",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Replacement of comparators for the analog simulcast VHF radio system",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "replacement of comparators, which are at the end of life.",
+   "equipment_class": "communications/radio",
+   "installed_location": "TRWC VHF radio system",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2733,
+  "out": 1436
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,80 @@
+{
+ "records": [
+  {
+   "manufacturer": "ATEC",
+   "model": "Model 08-60-36",
+   "part": "ATEC Water Filtration System (eight 36-inch diameter vessels and associated components) for manganese removal",
+   "quantity": "8 vessels",
+   "price_usd": 206772.13,
+   "lead_time": "17 weeks",
+   "sole_source_vendor": "ATEC Water Systems, LLC",
+   "reason": "ATEC Water Systems, LLC, is the sole manufacturer and exclusive provider of this proprietary filtration system. No other vendor offers a comparable product with the same design specifications and performance characteristics.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Pump Station 345-1, 185 South Burgan Avenue",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bermad",
+   "model": "IR-4x4-350-P",
+   "part": "Main operating valve on each filter tank (automatic multi-port diaphragm type)",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Main operating valves shall be Bermad IR-4x4-350-P. Substitutions will not be allowed.",
+   "equipment_class": "valve",
+   "installed_location": "Pump Station 345-1",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Alex-Tronic F-12",
+   "part": "Factory-mounted and wired cycle controller for automatic backwash control",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The controller to be used is an Alex-Tronic F-12, or similar, which requires a 120 VAC connection which provides a local panel indication of backwash status and alarm.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Pump Station 345-1",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Pyrolox",
+   "model": "AS-741M / Pyrolox Advantage",
+   "part": "Manganese dioxide filter media (pyrolusite) for iron and manganese adsorption filtration",
+   "quantity": "197.82 cubic ft per vessel (8 vessels)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Alternative media will not be accepted unless the equipment supplier demonstrates with a __-day pilot test that the media will meet the treatment requirements.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Pump Station 345-1",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Design services for the Well 345-1 Treatment System (engineering for bidding, construction, and startup phases)",
+   "quantity": null,
+   "price_usd": 3600.0,
+   "lead_time": null,
+   "sole_source_vendor": "Michael K. Nunley & Associates, Inc.",
+   "reason": "To continue engineering support during the bidding phase, construction, and commissioning of the Well 345-1 Treatment System, DPU is also requesting approval for a Second Amendment to the existing Consultant Services Agreement",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Pump Station 345-1",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 8,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 56474,
+  "out": 1099
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Automated Side Loader Refuse Trucks (Replacements)",
+   "quantity": "Three",
+   "price_usd": 1807000,
+   "lead_time": "two years",
+   "sole_source_vendor": "Rush Truck Centers of Arizona dba Rush Truck Center - Phoenix",
+   "reason": "Three current automated side loaders in the Solid Waste fleet have met the established replacement criteria and are requested to be replaced.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2037,
+  "out": 197
+ },
+ "model": "claude-sonnet-5"
+}

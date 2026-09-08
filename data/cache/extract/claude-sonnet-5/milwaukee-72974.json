@@ -1,0 +1,67 @@
+{
+ "records": [
+  {
+   "manufacturer": "Flock",
+   "model": null,
+   "part": "License plate reader cameras and related licenses (renewal for MPD's City-funded cameras)",
+   "quantity": "31 cameras (license renewal); 6 + 3 cameras added in prior amendments",
+   "price_usd": 182900.0,
+   "lead_time": null,
+   "sole_source_vendor": "Flock Group, Inc. dba Flock Safety",
+   "reason": "Flock cameras are the only license plate reader cameras that also connect with Axon's proprietary software that catalogs and stores MPD body-camera footage",
+   "equipment_class": "other equipment",
+   "installed_location": "Milwaukee Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Text-to-911 functionality (licenses, initial configuration, and ongoing licensing)",
+   "quantity": null,
+   "price_usd": 91230.41,
+   "lead_time": null,
+   "sole_source_vendor": "Intrado Life & Safety, Inc",
+   "reason": "Intrado is AT&T's preferred vendor for this implementation with no other vendors able to do this work.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Secondary Internet Access service (IP addresses and network connectivity, proprietary software)",
+   "quantity": null,
+   "price_usd": 89100.0,
+   "lead_time": null,
+   "sole_source_vendor": "Level 3 Communications, LLC, An Affiliate of CenturyLink Communications, LLC DBA Lumen Technologies Group",
+   "reason": "Lumen provides IP addresses and network connectivity that cannot be provided through any other entity.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GoTo Technologies USA, Inc.",
+   "model": "GoToMeeting Plus, GoToWebinar Service Plus, GoToAssist Remote Support Software",
+   "part": "Remote meeting/webinar and IT remote support software licenses",
+   "quantity": null,
+   "price_usd": 64992.0,
+   "lead_time": null,
+   "sole_source_vendor": "GoTo Technologies USA, Inc.",
+   "reason": "DOA-ITMD waived the competitive bidding process and executed a Sale Source Vendor Service Contract with GoToTechnologies USA, Inc. for proprietary services",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 22816,
+  "out": 2476
+ },
+ "model": "claude-sonnet-5"
+}

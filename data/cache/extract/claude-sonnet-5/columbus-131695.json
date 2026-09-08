@@ -1,0 +1,119 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tritech Software Systems, a CentralSquare company",
+   "model": "Enterprise Asset Mgmt / Lucity",
+   "part": "Maintenance and support of the City's work and asset management system",
+   "quantity": "1 year contract",
+   "price_usd": 51113.45,
+   "lead_time": null,
+   "sole_source_vendor": "Tritech Software Systems, a CentralSquare company",
+   "reason": "The City's work and asset management system is a proprietary system from Tritech Software Systems, a CentralSquare company, and as such, Tritech Software Systems is the sole provider of maintenance and support.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "API",
+   "part": "Software module - API",
+   "quantity": "1",
+   "price_usd": 1188.65,
+   "lead_time": null,
+   "sole_source_vendor": "CentralSquare Technologies, LLC",
+   "reason": "This product must be purchased directly by institutions from CentralSquare at the address listed above. There are no agents or dealers authorized to resell this product.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "AssetManagement",
+   "part": "Software module - AssetManagement",
+   "quantity": "1",
+   "price_usd": 17830.46,
+   "lead_time": null,
+   "sole_source_vendor": "CentralSquare Technologies, LLC",
+   "reason": "This product must be purchased directly by institutions from CentralSquare at the address listed above. There are no agents or dealers authorized to resell this product.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Custom",
+   "part": "Software module - Custom",
+   "quantity": "1",
+   "price_usd": 3565.98,
+   "lead_time": null,
+   "sole_source_vendor": "CentralSquare Technologies, LLC",
+   "reason": "This product must be purchased directly by institutions from CentralSquare at the address listed above. There are no agents or dealers authorized to resell this product.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "GISDesktop",
+   "part": "Software module - GISDesktop",
+   "quantity": "1",
+   "price_usd": 2377.31,
+   "lead_time": null,
+   "sole_source_vendor": "CentralSquare Technologies, LLC",
+   "reason": "This product must be purchased directly by institutions from CentralSquare at the address listed above. There are no agents or dealers authorized to resell this product.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "GISWeb",
+   "part": "Software module - GISWeb",
+   "quantity": "1",
+   "price_usd": 2377.31,
+   "lead_time": null,
+   "sole_source_vendor": "CentralSquare Technologies, LLC",
+   "reason": "This product must be purchased directly by institutions from CentralSquare at the address listed above. There are no agents or dealers authorized to resell this product.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "MobileManagement",
+   "part": "Software module - MobileManagement",
+   "quantity": "1",
+   "price_usd": 2377.31,
+   "lead_time": null,
+   "sole_source_vendor": "CentralSquare Technologies, LLC",
+   "reason": "This product must be purchased directly by institutions from CentralSquare at the address listed above. There are no agents or dealers authorized to resell this product.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "WorkManagement",
+   "part": "Software module - WorkManagement",
+   "quantity": "1",
+   "price_usd": 21396.43,
+   "lead_time": null,
+   "sole_source_vendor": "CentralSquare Technologies, LLC",
+   "reason": "This product must be purchased directly by institutions from CentralSquare at the address listed above. There are no agents or dealers authorized to resell this product.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4442,
+  "out": 1413
+ },
+ "model": "claude-sonnet-5"
+}

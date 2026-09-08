@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "CourtView Justice Solutions, Inc.",
+   "model": "CourtView",
+   "part": "Customizing add-on integration for FedEx service (Commercial Carrier software) for Municipal Court Case Management System",
+   "quantity": null,
+   "price_usd": 23865.0,
+   "lead_time": null,
+   "sole_source_vendor": "CourtView Justice Solutions, Inc.",
+   "reason": "CourtView Justice Solutions, Inc. is the sole source supplier of CourtView software, maintenance and support services. The case management system is proprietary in nature",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Franklin County Municipal Court Clerk's Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 15723,
+  "out": 253
+ },
+ "model": "claude-sonnet-5"
+}

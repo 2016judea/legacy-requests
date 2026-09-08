@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tom Synnott Associates, Inc.",
+   "model": "Falcon Enterprise, Falcon DMS",
+   "part": "Software licenses, support, and maintenance of the Falcon Enterprise, Falcon DMS software (contract modification)",
+   "quantity": null,
+   "price_usd": 13200.0,
+   "lead_time": null,
+   "sole_source_vendor": "Tom Synnott Associates, Inc.",
+   "reason": "The vendor is the sole developer of the software and provides all licenses, support, maintenance, and modifications required to keep the system up to date.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Water, Division of Power, and Division of Water Reclamation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tom Synnott Associates, Inc.",
+   "model": "Falcon/DMS, Falcon/SVP, Falcon/Enterprise, Falcon/Indexer, Falcon/Deliver, Falcon/PDF Publisher, Falcon/FCS, Falcon/Workflow, Falcon/Transmittal, Falcon/API",
+   "part": "Falcon/DMS system and family of products including any related customization of core code",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "tsaADVET",
+   "reason": "the Falcon/DMS system and its family of products...and any related customization of core code is available from tsaADVET and solely from tsaADVET",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tom Synnott Associates, Inc.",
+   "model": "epermits.dll",
+   "part": "Enhancements to the COC Sewer and Water Permit eForms per Statement of Work, including updated epermits.dll and config files",
+   "quantity": "1",
+   "price_usd": 13200.0,
+   "lead_time": "4 weeks ARO",
+   "sole_source_vendor": "Tom Synnott Associates, Inc.",
+   "reason": "Company is the developer and maintenance provider of the Falcon/DMS patended software",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7049,
+  "out": 757
+ },
+ "model": "claude-sonnet-5"
+}

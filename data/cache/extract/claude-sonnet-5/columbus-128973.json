@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": "Microsoft",
+   "model": "Dynamics 365 Finance and Supply Chain (D365)",
+   "part": "Operational support and maintenance including defect analysis/resolution, technical support, server maintenance, deployable packages, yearly release support, monthly proactive quality updates, testing and remediation",
+   "quantity": null,
+   "price_usd": 712800.0,
+   "lead_time": null,
+   "sole_source_vendor": "OnActuate Consulting Inc.",
+   "reason": "OnActuate, our Microsoft partner of record, is sole source as it owns intellectual property rights for Point of Sale and multiple Vendor Collaboration extensions critical to continued operation of the City\u2019s D365 Financial System.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Columbus",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Microsoft",
+   "model": "Point of Sale (POS)",
+   "part": "Operational support and maintenance including defect analysis/resolution, technical support, testing and remediation",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "OnActuate Consulting Inc.",
+   "reason": "OnActuate, our Microsoft partner of record, is sole source as it owns intellectual property rights for Point of Sale and multiple Vendor Collaboration extensions critical to continued operation of the City\u2019s D365 Financial System.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Columbus",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2866,
+  "out": 511
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,80 @@
+{
+ "records": [
+  {
+   "manufacturer": "Soft Computer Consultants, Inc.",
+   "model": "Laboratory Information System (LIS)",
+   "part": "Vendor Service Contract for Computer Hardware and Software Maintenance of Laboratory Information System (LIS)",
+   "quantity": null,
+   "price_usd": 95000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Soft Computer Consultants, Inc.",
+   "reason": "The LIS uses proprietary software that was developed and maintained by Soft Computer Consultants (SCC).",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Milwaukee Health Department Lab / Keenan Health Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bentley Systems, Incorporated",
+   "model": "MicroStation, LEAP Bridge Precast, ProjectWise, InRoads",
+   "part": "Vendor Service Contract for the Purchase, Upgrade, Support, and Maintenance of Bentley Products and Select Program Benefits (CAD Design System)",
+   "quantity": null,
+   "price_usd": 193695.5,
+   "lead_time": null,
+   "sole_source_vendor": "Bentley Systems, Incorporated",
+   "reason": "The software is proprietary and can only be purchased, upgraded, supported, and maintained by the manufacturer, Bentley Systems, Incorporated.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Citywide - ITMD, DPW, DNS, MMSD, Port of Milwaukee",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "NICE Systems",
+   "model": "NICE (9-1-1) Recording System / Elite Platform",
+   "part": "Vendor Service Contract for NICE (9-1-1) Recording System Maintenance",
+   "quantity": null,
+   "price_usd": 132483.0,
+   "lead_time": null,
+   "sole_source_vendor": "Word Systems, LLC dba WSI Technologies",
+   "reason": "This software is used to analyze the processing and dispatching of 911 calls and is proprietary to NICE Systems (the manufacturer).",
+   "equipment_class": "communications/radio",
+   "installed_location": "Milwaukee Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Maintenance and Support of Integrated Security System (control system, servers, control equipment, microphones, cameras, control panels, intercom controllers, network video recorders, and speakers)",
+   "quantity": null,
+   "price_usd": 43247.0,
+   "lead_time": null,
+   "sole_source_vendor": "Paul and Tracey Tikalsky dba PAT Sales Company, LLC",
+   "reason": "The Contractor has engineered the control system, related servers, control equipment, microphones, cameras, control panels, intercom controllers, network video recorders, and speakers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Police Administration Building, including the jail system",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "ClimateView",
+   "part": "Vendor Service Contract for ClimateView Monitoring Tool",
+   "quantity": null,
+   "price_usd": 20000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Keramida Environmental, Inc. dba Keramida, Inc.",
+   "reason": "Keramida, Inc. is the only trained and certified ClimateView partner in the United States.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Municipal operations across Milwaukee",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 26194,
+  "out": 4141
+ },
+ "model": "claude-sonnet-5"
+}

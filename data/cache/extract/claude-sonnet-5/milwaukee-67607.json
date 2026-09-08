@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": "QuickBase, Inc.",
+   "model": null,
+   "part": "Vendor Service Contract for Quick Base Platform Software",
+   "quantity": null,
+   "price_usd": 143686.0,
+   "lead_time": null,
+   "sole_source_vendor": "QuickBase, Inc.",
+   "reason": "The Quick Base Platform Software is proprietary to QuickBase, Inc.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Milwaukee Health Department (MHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Center for Internet Security, Inc.",
+   "model": null,
+   "part": "Vendor Service Contract for Endpoint Security Services",
+   "quantity": null,
+   "price_usd": 79310.0,
+   "lead_time": null,
+   "sole_source_vendor": "Center for Internet Security, Inc.",
+   "reason": "This is the only provider for this service which is provided solely for government agencies.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DOA-ITMD's servers",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8423,
+  "out": 1236
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "vehicle alignment and Ford OEM repair services",
+   "quantity": null,
+   "price_usd": 370000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Ricart Properties, Inc.",
+   "reason": "Ricart Properties, Inc. was deemed to be the lowest, responsible and best bidder",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9398,
+  "out": 801
+ },
+ "model": "claude-sonnet-5"
+}

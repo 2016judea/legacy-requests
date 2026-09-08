@@ -1,0 +1,119 @@
+{
+ "records": [
+  {
+   "manufacturer": "Allen-Bradley",
+   "model": "PF755TL 800 HP ND Type 1",
+   "part": "Variable Frequency Drives (VFDs) for raw sewage pumps",
+   "quantity": "4",
+   "price_usd": 1191850.0,
+   "lead_time": "25 Weeks",
+   "sole_source_vendor": "Rexel USA, Inc.",
+   "reason": "It was found at that time that Rexel is the sole provider of the Allen-Bradley PF755TL 800 HP ND Type 1 Variable Frequency Drive.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Fresno-Clovis Regional Wastewater Reclamation Facility (RWRF)",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Allen-Bradley",
+   "model": "PF755T-Roll-Out Cart",
+   "part": "VFD Service Tool",
+   "quantity": "1",
+   "price_usd": 5500.0,
+   "lead_time": "25 Weeks",
+   "sole_source_vendor": "Rexel USA, Inc.",
+   "reason": "Rexel is the sole provider of the Allen-Bradley PF755TL 800 HP ND Type 1 Variable Frequency Drive.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Fresno-Clovis Regional Wastewater Reclamation Facility (RWRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allen-Bradley",
+   "model": "PF755TL 800 HP ND Type 1",
+   "part": "1 Year Warranty - Parts & Labor",
+   "quantity": "1",
+   "price_usd": 22800.0,
+   "lead_time": null,
+   "sole_source_vendor": "Rexel USA, Inc.",
+   "reason": "Rexel is the sole provider of the Allen-Bradley PF755TL 800 HP ND Type 1 Variable Frequency Drive.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Fresno-Clovis Regional Wastewater Reclamation Facility (RWRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allen-Bradley",
+   "model": "PF755TL 800 HP ND Type 1",
+   "part": "Seismic Anchoring (Calculations only)",
+   "quantity": "1",
+   "price_usd": 2700.0,
+   "lead_time": null,
+   "sole_source_vendor": "Rexel USA, Inc.",
+   "reason": "Rexel is the sole provider of the Allen-Bradley PF755TL 800 HP ND Type 1 Variable Frequency Drive.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Fresno-Clovis Regional Wastewater Reclamation Facility (RWRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allen-Bradley",
+   "model": "PF755TL 800 HP ND Type 1",
+   "part": "Calculated Harmonic Analysis (Harm1)",
+   "quantity": "1",
+   "price_usd": 1000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Rexel USA, Inc.",
+   "reason": "Rexel is the sole provider of the Allen-Bradley PF755TL 800 HP ND Type 1 Variable Frequency Drive.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Fresno-Clovis Regional Wastewater Reclamation Facility (RWRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allen-Bradley",
+   "model": "PF755TL 800 HP ND Type 1",
+   "part": "Start Up (4 days x 8 hours)",
+   "quantity": "1",
+   "price_usd": 12000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Rexel USA, Inc.",
+   "reason": "Rexel is the sole provider of the Allen-Bradley PF755TL 800 HP ND Type 1 Variable Frequency Drive.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Fresno-Clovis Regional Wastewater Reclamation Facility (RWRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allen-Bradley",
+   "model": "PF755TL 800 HP ND Type 1",
+   "part": "Training (2 days x 8 hours) on VFD operations and maintenance",
+   "quantity": "1",
+   "price_usd": 6000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Rexel USA, Inc.",
+   "reason": "Rexel is the sole provider of the Allen-Bradley PF755TL 800 HP ND Type 1 Variable Frequency Drive.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Fresno-Clovis Regional Wastewater Reclamation Facility (RWRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Miscellaneous Charge - Tariff on VFD equipment",
+   "quantity": "1",
+   "price_usd": 290000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Rexel USA, Inc.",
+   "reason": "Due to the prevailing global trade conditions, including applicable taxes, tariffs, excise duties, and import fees on internationally sourced products, a contingency allowance of fifteen percent has been incorporated",
+   "equipment_class": "motor/drive",
+   "installed_location": "Fresno-Clovis Regional Wastewater Reclamation Facility (RWRF)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 27836,
+  "out": 1790
+ },
+ "model": "claude-sonnet-5"
+}

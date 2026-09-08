@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Indigov",
+   "model": null,
+   "part": "Software licensing services (constituent communication management software subscription)",
+   "quantity": "Up to 20 Regular Users and 5 Light Users",
+   "price_usd": 63168.0,
+   "lead_time": null,
+   "sole_source_vendor": "Indigov Corporation",
+   "reason": "Indigov is the sole proprietor and manufacturer of Indigov software products. Thus Indigov software maintenance and support can only be provided by Indigov.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Office of the Mayor",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4522,
+  "out": 210
+ },
+ "model": "claude-sonnet-5"
+}

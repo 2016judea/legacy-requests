@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": "AVEVA",
+   "model": "AVEVA Flex - F23269-3M00A-VA / Customer FIRST Premium Support",
+   "part": "AVEVA Flex Subscription Renewal - 3 Year Annual Software Subscription (Customer FIRST Premium Support)",
+   "quantity": "3-year term (Year 1-3)",
+   "price_usd": 60535.0,
+   "lead_time": null,
+   "sole_source_vendor": "InSource Software Solutions, Inc.",
+   "reason": "AVEVA hereby confirms that InSource Software Solutions, Inc is an authorized distributor of AVEVA within the territory of ... California",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Stockton, Treatment Plant 11373 N Lower Sacramento Road, Lodi, CA 95242 (Delta Water Treatment Plant)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "AVEVA",
+   "model": "AVEVA CF# 44379, Flex# F23269-3M191-JF / Customer FIRST Premium Support",
+   "part": "AVEVA Flex Subscription Renewal - 3 Year Annual Software Subscription (Customer FIRST Premium Support)",
+   "quantity": "3-year term (Year 1-3)",
+   "price_usd": 118645.0,
+   "lead_time": null,
+   "sole_source_vendor": "InSource Software Solutions, Inc.",
+   "reason": "InSource Software Solutions, Inc. is the sole authorized AVEVA distributor for California and is authorized to sell AVEVA software licenses, renew AVEVA Customer First support contracts, and provide authorized technical training.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Stockton MUD, Municipal Utilities Department, 2500 Navy Drive, Stockton, CA 95206 (Regional Wastewater Control Facility)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Wonderware (AVEVA)",
+   "model": null,
+   "part": "Annual software maintenance for Wonderware/AVEVA SCADA software controlling and monitoring Delta Water Treatment Plant, Regional Wastewater Control Facility, water distribution sites, and storm/sewer pump stations",
+   "quantity": null,
+   "price_usd": 180000.0,
+   "lead_time": null,
+   "sole_source_vendor": "InSource Software Solutions Inc.",
+   "reason": "Insource Software Solutions Inc. is the authorized vendor for Wonderware software maintenance in California. Since Wonderware is the software implemented at MUD, support and updates must be obtained through Insource Software Solutions Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Delta Water Treatment Plant, Regional Wastewater Control Facility, water distribution sites (wells, tanks), storm and sewer pump stations - MUD",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 43375,
+  "out": 2157
+ },
+ "model": "claude-sonnet-5"
+}

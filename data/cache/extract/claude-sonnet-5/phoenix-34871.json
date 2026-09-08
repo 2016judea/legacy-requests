@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Flow meters, level meters, and associated replacement parts",
+   "quantity": null,
+   "price_usd": 450000,
+   "lead_time": null,
+   "sole_source_vendor": "Western Environmental Equipment Co. and Instrumentation and Controls LLC",
+   "reason": "provide a variety of new flow meters, level meters, and associated parts from specific manufacturers that are integral to the City's water distribution and wastewater collection systems",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2138,
+  "out": 198
+ },
+ "model": "claude-sonnet-5"
+}

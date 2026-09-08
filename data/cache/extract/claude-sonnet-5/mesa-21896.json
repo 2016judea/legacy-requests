@@ -1,0 +1,80 @@
+{
+ "records": [
+  {
+   "manufacturer": "Freightliner",
+   "model": null,
+   "part": "OEM Heavy Duty Parts and Repair Services",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Velocity Truck Centers dba Freightliner of Arizona, LLC",
+   "reason": "it is in the best interest of the City to add these vendors to the contract",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM Heavy Duty Parts and Repair Services",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sonsray Machinery, LLC",
+   "reason": "it is in the best interest of the City to add these vendors to the contract",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM Heavy Duty Parts and Repair Services",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Balar Holding, Corp.",
+   "reason": "it is in the best interest of the City to add these vendors to the contract",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "JCB",
+   "model": null,
+   "part": "OEM Heavy Duty Parts and Repair Services",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Southwest JCB, Inc.",
+   "reason": "it is in the best interest of the City to add these vendors to the contract",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM Heavy Duty Parts and Repair Services",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Simpson Norton Corporation",
+   "reason": "it is in the best interest of the City to add these vendors to the contract",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2360,
+  "out": 1613
+ },
+ "model": "claude-sonnet-5"
+}

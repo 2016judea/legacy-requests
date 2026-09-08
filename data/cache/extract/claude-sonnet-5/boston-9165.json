@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "LIDAR speed devices to determine the speed of drivers",
+   "quantity": "two",
+   "price_usd": 4680,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the remaining $4,680 will be used to purchase two LIDAR speed devices to determine the speed of drivers",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "box trucks acquired to help deliver resources during the pandemic",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "to acquire critical box trucks and other resources to help deliver resources during the pandemic",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6262,
+  "out": 712
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": "NextGen Healthcare Inc.",
+   "model": "NextGen EHR/PM software",
+   "part": "Hosting and ongoing support of electronic medical records system - additional funds for rate increases",
+   "quantity": null,
+   "price_usd": 56588.39,
+   "lead_time": null,
+   "sole_source_vendor": "NextGen Healthcare Inc.",
+   "reason": "NextGen Healthcare Inc. services are a sole source and as such can not be bid out.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus Public Health Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "NextGen Healthcare Inc.",
+   "model": "NextGen EHR/PM software",
+   "part": "Hosting and ongoing support of an electronic medical record system",
+   "quantity": null,
+   "price_usd": 401605.0,
+   "lead_time": null,
+   "sole_source_vendor": "NextGen Healthcare Inc.",
+   "reason": "it has been determined that NextGen Healthcare Inc. is the sole provider of direct hosted NextGen systems and is the sole owner of NextGen software",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus Public Health Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "NextGen Healthcare, Inc.",
+   "model": "NextGen\u00ae EHR/PM software solutions",
+   "part": "Direct hosted NextGen EHR/PM software solutions (hosting via AWS)",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "NextGen Healthcare, Inc.",
+   "reason": "NextGen Healthcare, Inc. ... is the sole authorized provider of direct hosted NextGen\u00ae EHR/PM software solutions.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus Public Health",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8999,
+  "out": 632
+ },
+ "model": "claude-sonnet-5"
+}

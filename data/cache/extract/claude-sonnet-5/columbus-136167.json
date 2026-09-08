@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": "Intergraph",
+   "model": null,
+   "part": "Premium Maintenance Services and software licenses for the Computer Aided Dispatching System (CAD)",
+   "quantity": null,
+   "price_usd": 838809.12,
+   "lead_time": null,
+   "sole_source_vendor": "Intergraph Corporation",
+   "reason": "Intergraph Corporation is the only known company that can provide maintenance services 24 hours a day, seven days a week for this system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Safety dispatch center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Intergraph",
+   "model": null,
+   "part": "Maintenance, support, and licensing for Fire's Emergency Alerting System",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Intergraph Corporation",
+   "reason": "Intergraph Corporation is the only known company that can provide maintenance, support, & licensing for Fire's Emergency Alerting System",
+   "equipment_class": "communications/radio",
+   "installed_location": "Department of Public Safety",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 116539,
+  "out": 1381
+ },
+ "model": "claude-sonnet-5"
+}

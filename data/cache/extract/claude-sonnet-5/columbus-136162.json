@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Verint",
+   "model": "v15.2 PS Platform / Verint 7000 Series",
+   "part": "Annual preventative maintenance and support (Premier Plus w/TMS) for Police and Fire Audio Digital Communications Recording System, including hardware replacement, software upgrades, and technical support",
+   "quantity": null,
+   "price_usd": 117149.5,
+   "lead_time": null,
+   "sole_source_vendor": "Sound Communications, Inc.",
+   "reason": "Sound Communications, Inc. is the proprietary software licensing and maintenance contractor for the City's current Audio Digital Communications Recording Systems",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Police and Fire Communications System / Primary Communication Center / Arlingate",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7155,
+  "out": 1390
+ },
+ "model": "claude-sonnet-5"
+}

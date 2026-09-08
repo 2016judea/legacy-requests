@@ -1,0 +1,93 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Endpoint Security Services (MS-ISAC Membership) for Endpoint Cyber-Security Services contract",
+   "quantity": null,
+   "price_usd": 17500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Center for Internet Security, Inc.",
+   "reason": "ITMD would like to purchase MS-ISAC Membership which is the multi-state information sharing and analysis center and has been providing critical cybersecurity services and resources to the U.S. State, Local, Tribal, and Territorial (SLTT) Governments for over two decades.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "UPS Batteries & Maintenance Services for Liebert Equipment",
+   "quantity": null,
+   "price_usd": 193678.66,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "UPS Batteries & Maintenance Services for Liebert Equipment",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Police",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "MPD Card Access Maintenance",
+   "quantity": null,
+   "price_usd": 110000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Toepfer Security Corporation",
+   "reason": "MPD Card Access Maintenance",
+   "equipment_class": "other equipment",
+   "installed_location": "Police",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "ProQA",
+   "part": "ProQA Licenses, Training, Annual Maintenance, Service and Support",
+   "quantity": null,
+   "price_usd": 310828.28,
+   "lead_time": null,
+   "sole_source_vendor": "Medical Priority Consultants, Inc. dba Priority Dispatch Corp.",
+   "reason": "ProQA Licenses, Training, Annual Maintenance, Service and Support",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Emergency Communications",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trane",
+   "model": null,
+   "part": "Rebuild/Upgrade of Trane Water Cooled Centrifugal Chiller #1 and Chiller #2",
+   "quantity": "2",
+   "price_usd": 597518.0,
+   "lead_time": null,
+   "sole_source_vendor": "Trane U.S., Inc.",
+   "reason": "Rebuild/Upgrade of Trane Water Cooled Centrifugal Chiller #1 and Chiller #2",
+   "equipment_class": "HVAC",
+   "installed_location": "DPW-Infrastructure",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Johnson Controls",
+   "model": null,
+   "part": "HVAC Maintenance",
+   "quantity": null,
+   "price_usd": 1000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Johnson Controls, Inc.",
+   "reason": "HVAC Maintenance",
+   "equipment_class": "HVAC",
+   "installed_location": "DPW-Infrastructure",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 1
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 13754,
+  "out": 6149
+ },
+ "model": "claude-sonnet-5"
+}

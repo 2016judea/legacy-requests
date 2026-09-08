@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rockwell Automation",
+   "model": "Allen Bradley",
+   "part": "Inverter drives, servo motors, and computer interface used to maintain and monitor waste water treatment equipment",
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "McNaughton-McKay Electric Company of Ohio, Inc.",
+   "reason": "McNaughton-McKay Electric Company of Ohio, Inc. is the sole source for these parts and services as they are the only local distributor and authorized service provider for this specific manufacturer.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "waste water treatment plants",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3144,
+  "out": 247
+ },
+ "model": "claude-sonnet-5"
+}

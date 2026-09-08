@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Bus Parts and Supplies for BCT Rolling Stock: New, OEM, Rebuilt, Aftermarket",
+   "quantity": null,
+   "price_usd": 4000000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The threshold increase is needed to ensure necessary parts are available to keep buses operational until a new contract is in place.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Broward County Transit (BCT) bus fleet",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5490,
+  "out": 2434
+ },
+ "model": "claude-sonnet-5"
+}

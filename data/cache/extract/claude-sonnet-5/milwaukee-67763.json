@@ -1,0 +1,67 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bentley Systems, Incorporated",
+   "model": null,
+   "part": "Purchase, Upgrade, Support, and Maintenance of Bentley Products including MicroStation, LEAP Bridge Precast, ProjectWise, and InRoads Software Subscriptions",
+   "quantity": null,
+   "price_usd": 176542.48,
+   "lead_time": null,
+   "sole_source_vendor": "Bentley Systems, Incorporated",
+   "reason": "The software is proprietary and can only be purchased, upgraded, supported, and maintained by the manufacturer, Bentley Systems, Incorporated.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Abbott Laboratories, Inc.",
+   "model": "Architect i1000",
+   "part": "Abbott Architect i1000 Instrument, Reagents, and Services for HIV Type 1 and 2 Combo Testing",
+   "quantity": null,
+   "price_usd": 664114.0,
+   "lead_time": null,
+   "sole_source_vendor": "Abbott Laboratories, Inc.",
+   "reason": "the MHD Lab has been utilizing the Abbott Architect i1000 Instrument to provide sexually transmitted infection (STI) testing",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Milwaukee Health Department Keenan Health Center Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Exacq Vision",
+   "model": null,
+   "part": "MPD Card Access Maintenance including CCTV systems using the Exacq Vision video management system",
+   "quantity": null,
+   "price_usd": 493550.0,
+   "lead_time": null,
+   "sole_source_vendor": "Toepfer Security Corporation",
+   "reason": "Toepfer controls, monitors, and gathers information on video surveillance, card access records, security schedules, building infrastructure data, and automated controls for the majority of the City's buildings.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Reach-All",
+   "model": "UB-50",
+   "part": "Ten (10)-year factory service rebuild of Reach-All UB-50 under-bridge inspection aerial lift mounted on City equipment #42103, a 1991 Ford LT9000",
+   "quantity": "1",
+   "price_usd": 406800.0,
+   "lead_time": "four (4) to five (5) months",
+   "sole_source_vendor": "Aspen Aerials, Inc.",
+   "reason": "Aspen Aerials, Inc. is the sole service provider for all Aspen Aerials bridge inspection units.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 21378,
+  "out": 3991
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rhythm Engineering, LLC",
+   "model": "In|Sync",
+   "part": "24/7/365 Tech Support, software updates and repair or replacement of proprietary hardware for adaptive traffic signal system",
+   "quantity": null,
+   "price_usd": 187000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Rhythm Engineering, LLC",
+   "reason": "Repair and Replacement of Proprietary Hardware",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3833,
+  "out": 551
+ },
+ "model": "claude-sonnet-5"
+}

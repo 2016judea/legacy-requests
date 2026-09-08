@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": "Jenbacher",
+   "model": "JMS 420 B825",
+   "part": "Long Term Service Agreement (10-year) for two biogas cogeneration engines - routine maintenance, repair, parts, field services, remote monitoring",
+   "quantity": "2 engines",
+   "price_usd": 522400.0,
+   "lead_time": null,
+   "sole_source_vendor": "Northeast-Western Energy Systems USA LLC",
+   "reason": "Northeast-Western Energy Systems USA LLC is currently is the sole provider of Jenbacher parts, factory authorized maintenance and service in the northeastern United States",
+   "equipment_class": "generator",
+   "installed_location": "Jackson Pike Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Jenbacher",
+   "model": null,
+   "part": "Jenbacher spare parts supply",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northeast-Western Energy Systems USA LLC",
+   "reason": "Northeast Western Energy Systems USA is the Sole Source for authentic Jenbacher spare parts.",
+   "equipment_class": "generator",
+   "installed_location": "Jackson Pike Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Jenbacher",
+   "model": null,
+   "part": "Major overhaul service at 60,000 OPH for engine generator sets",
+   "quantity": "2 engines",
+   "price_usd": 458000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Northeast-Western Energy Systems USA LLC",
+   "reason": "NES-WES currently remains the sole factory authorized-approved provider in the northeast, and specifically Ohio, for Jenbacher gas engine-generator sets, Jenbacher parts, warranty, and factory authorized maintenance and repair Services.",
+   "equipment_class": "generator",
+   "installed_location": "Jackson Pike Wastewater Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7948,
+  "out": 694
+ },
+ "model": "claude-sonnet-5"
+}

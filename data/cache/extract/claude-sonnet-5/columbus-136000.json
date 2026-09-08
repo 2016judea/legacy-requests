@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "John Deere",
+   "model": null,
+   "part": "OEM Mower Parts",
+   "quantity": "All Items",
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Ag-Pro Ohio, LLC",
+   "reason": "The Purchasing Office is recommending award to the overall lowest, responsive, responsible and best bidder",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3579,
+  "out": 161
+ },
+ "model": "claude-sonnet-5"
+}

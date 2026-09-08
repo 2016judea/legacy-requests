@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Versalift",
+   "model": null,
+   "part": "Versalift OEM Parts and Services used to repair and maintain City bucket trucks and aerial lifts",
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Utility Truck & Equipment, Inc.",
+   "reason": "Utility Truck & Equipment Company, Inc. is the sole source for these parts and services as they are the only local distributor and authorized service provider for this specific manufacturer.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5232,
+  "out": 212
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hansen Banner, LLC",
+   "model": "Hansen CIS-B (formerly \"Banner CIS\")",
+   "part": "Annual software maintenance and support for Columbus Utility Billing System (CUBS) - Banner CIS Maintenance",
+   "quantity": "1.00",
+   "price_usd": 607990.75,
+   "lead_time": null,
+   "sole_source_vendor": "Hansen Banner, LLC",
+   "reason": "Hansen Banner, LLC is the sole source vendor for the Hansen CIS-B (formerly \"Banner CIS\") Software and the sole provider of services for services performed in relation to the Hansen CIS-B Software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Columbus Water and Power (CWP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Microfocus",
+   "model": null,
+   "part": "Microfocus - Annual Maintenance",
+   "quantity": "1.00",
+   "price_usd": 17353.18,
+   "lead_time": null,
+   "sole_source_vendor": "Hansen Banner, LLC",
+   "reason": "Hansen Banner, LLC is the sole source vendor for the Hansen CIS-B (formerly \"Banner CIS\") Software and the sole provider of services for services performed in relation to the Hansen CIS-B Software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Columbus Water and Power (CWP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "TCP+ & MV90 Interface",
+   "part": "TCP+ & MV90 Interface Annual Maintenance",
+   "quantity": "1.00",
+   "price_usd": 147153.03,
+   "lead_time": null,
+   "sole_source_vendor": "Hansen Banner, LLC",
+   "reason": "Hansen Banner, LLC is the sole source vendor for the Hansen CIS-B (formerly \"Banner CIS\") Software and the sole provider of services for services performed in relation to the Hansen CIS-B Software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Columbus Water and Power (CWP)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10342,
+  "out": 732
+ },
+ "model": "claude-sonnet-5"
+}

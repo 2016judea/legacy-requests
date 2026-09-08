@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "ADS",
+   "model": null,
+   "part": "Flow Monitoring Parts & Service (equipment, parts, software and services to monitor flow of storm water)",
+   "quantity": null,
+   "price_usd": 175000.0,
+   "lead_time": null,
+   "sole_source_vendor": "ADS, LLC",
+   "reason": "ADS LLC is the sole source for the flow monitoring equipment and software, that is used by the City of Columbus.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Columbus sewage system",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3074,
+  "out": 196
+ },
+ "model": "claude-sonnet-5"
+}

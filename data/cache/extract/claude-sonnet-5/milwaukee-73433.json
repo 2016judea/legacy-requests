@@ -1,0 +1,80 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Elevator Maintenance, Repairs and Testing Services",
+   "quantity": null,
+   "price_usd": 1724852.09,
+   "lead_time": null,
+   "sole_source_vendor": "Minnesota Elevator, Inc. dba MEI Total Elevator Solutions",
+   "reason": "MEI will provide MPD with less downtime, reliability and lower costs for services.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Police Administration Building",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HAAS Alert",
+   "model": "HA-7 Digital Alerting Transporter / R2R Indicator Double Unit Two LED Kit",
+   "part": "Hardware and accessories for Digital Alert Service Software and Hardware Systems",
+   "quantity": "160 units",
+   "price_usd": 48000.0,
+   "lead_time": null,
+   "sole_source_vendor": "HAAS, Inc. dba HAAS Alert",
+   "reason": "HAAS Alert is the only commercially available service provider that allows for an interoperable, intra and inter agency emergency response, road work, vehicle collision prevention solution",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HAAS Alert",
+   "model": "Safety Cloud Service via HAAS Alert Transporter",
+   "part": "Safety Cloud digital alert service subscription",
+   "quantity": "80 units",
+   "price_usd": 23920.0,
+   "lead_time": null,
+   "sole_source_vendor": "HAAS, Inc. dba HAAS Alert",
+   "reason": "HAAS Alert is the only commercially available service provider that allows for an interoperable, intra and inter agency emergency response, road work, vehicle collision prevention solution",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HAAS Alert",
+   "model": "Responder-to-Responder Service (R2RS)",
+   "part": "Responder-to-Responder digital alert service subscription",
+   "quantity": "80 units",
+   "price_usd": 15920.0,
+   "lead_time": null,
+   "sole_source_vendor": "HAAS, Inc. dba HAAS Alert",
+   "reason": "HAAS Alert is the only commercially available service provider that allows for an interoperable, intra and inter agency emergency response, road work, vehicle collision prevention solution",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems, Inc.",
+   "model": "PrimeAlert / CADVoice System",
+   "part": "Maintenance services for PrimeAlert / CADVoice dispatch alerting system",
+   "quantity": null,
+   "price_usd": 189624.0,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems, Inc.",
+   "reason": "Locution Systems, Inc. is the sole authorized provider for Locution\\u2019s dedicated automated voice announcement system in the United States and has not authorized any other parties to provide maintenance and support for their products.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12610,
+  "out": 3401
+ },
+ "model": "claude-sonnet-5"
+}

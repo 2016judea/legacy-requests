@@ -1,0 +1,14 @@
+{
+ "records": [],
+ "info": {
+  "pdfs_text": 5,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "max_tokens",
+ "usage": {
+  "in": 60867,
+  "out": 16000
+ },
+ "model": "claude-sonnet-5"
+}

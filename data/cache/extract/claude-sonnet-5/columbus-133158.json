@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Vehicle alignments and Ford OEM repairs contract modification",
+   "quantity": null,
+   "price_usd": 50000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Ricart Properties, Inc.",
+   "reason": "it is necessary to modify the contract for vehicle alignment and Ford OEM repair services for City of Columbus vehicles",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9608,
+  "out": 279
+ },
+ "model": "claude-sonnet-5"
+}

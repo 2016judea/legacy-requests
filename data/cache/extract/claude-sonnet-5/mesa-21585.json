@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Filter Media for Four Tertiary Filters (Replacement)",
+   "quantity": "4",
+   "price_usd": 131000,
+   "lead_time": null,
+   "sole_source_vendor": "Aqua-Aerobics Systems, Inc.",
+   "reason": "have reached the end of their operational life. Plant staff has determined that the normal backwash cycle is no longer sufficient",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Greenfield Water Reclamation Plant",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2001,
+  "out": 209
+ },
+ "model": "claude-sonnet-5"
+}

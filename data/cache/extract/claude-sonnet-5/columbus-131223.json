@@ -1,0 +1,119 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": "Astro 25 / P-25 Digital System",
+   "part": "Maintenance and support of the City's 800MHz radio P-25 digital system infrastructure",
+   "quantity": null,
+   "price_usd": 1089710.61,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Columbus 800 MHz tower sites",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "ASTRO SUA II",
+   "part": "ASTRO SUA II UO Implementation Services",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Release Implementation Training",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Release Impact Training",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "ASTRO",
+   "part": "Active-Eye Managed Detection and Response for ASTRO",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "System Upgrade Agreement II",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "ASTRO SUA II",
+   "part": "ASTRO SUA II Field Implementation Service",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "ASTRO System Advanced Plus Package",
+   "part": "ASTRO System Advanced Plus Package maintenance",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 13534,
+  "out": 1342
+ },
+ "model": "claude-sonnet-5"
+}

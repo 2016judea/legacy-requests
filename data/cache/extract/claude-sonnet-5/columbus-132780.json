@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Schneider Electric",
+   "model": "Responder",
+   "part": "Custom integration between Responder (Power Outage Management System) and the City's new IVR platform Talkdesk",
+   "quantity": null,
+   "price_usd": 153600.0,
+   "lead_time": null,
+   "sole_source_vendor": "Schneider Electric Smart Grid Solutions LLC",
+   "reason": "Schneider Electric Smart Grid Solutions LLC, is the sole provider and sole owner of the Responder software solution",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4051,
+  "out": 208
+ },
+ "model": "claude-sonnet-5"
+}

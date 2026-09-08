@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Environmental Systems Research Institute, Inc. (Esri)",
+   "model": "Enterprise License Agreement Annual Payment (Material# 102786)",
+   "part": "Enterprise license agreement for software licensing, maintenance, and support for the city's geographic information systems (GIS)",
+   "quantity": "1",
+   "price_usd": 525000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute, Inc.",
+   "reason": "Esri, as owner and manufacturer, is the sole source provider of all U.S. domestic Enterprise Agreements.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Columbus",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6588,
+  "out": 257
+ },
+ "model": "claude-sonnet-5"
+}

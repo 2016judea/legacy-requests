@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rave Wireless",
+   "model": null,
+   "part": "Support and maintenance of proprietary hardware and software for Citizens' Emergency Alert System (Rave Alert for Public Safety platform)",
+   "quantity": null,
+   "price_usd": 96000,
+   "lead_time": null,
+   "sole_source_vendor": "Rave Wireless, Inc.",
+   "reason": "Rave Wireless has represented that it has the exclusive right to provide these goods or services for maintenance and support of proprietary computer hardware and software",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Newark",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12754,
+  "out": 218
+ },
+ "model": "claude-sonnet-5"
+}

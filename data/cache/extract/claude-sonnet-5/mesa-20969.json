@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola Solutions Inc.",
+   "model": null,
+   "part": "Radio equipment, parts, network, and services for vehicle tech packages",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "recommend increasing the dollar limit using the State of Arizona and Maricopa County cooperative contracts with Motorola Solutions Inc.; Durham Communications Inc.; and JVCKenwood USA Corporation",
+   "equipment_class": "communications/radio",
+   "installed_location": "Mesa Fire and Medical Department (Citywide)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "JVCKenwood USA Corporation",
+   "model": null,
+   "part": "Kenwood radio equipment, parts, network, and services for vehicle tech packages",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "JVCKenwood USA Corporation",
+   "reason": "recommend increasing the dollar limit using the State of Arizona and Maricopa County cooperative contracts with Motorola Solutions Inc.; Durham Communications Inc.; and JVCKenwood USA Corporation",
+   "equipment_class": "communications/radio",
+   "installed_location": "Mesa Fire and Medical Department (Citywide)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Radio network services supporting fleet vehicles",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Durham Communications Inc.",
+   "reason": "recommend increasing the dollar limit using the State of Arizona and Maricopa County cooperative contracts with Motorola Solutions Inc.; Durham Communications Inc.; and JVCKenwood USA Corporation",
+   "equipment_class": "communications/radio",
+   "installed_location": "Mesa Fire and Medical Department (Citywide)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2269,
+  "out": 1981
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "The Screen Machine",
+   "model": "612T",
+   "part": "Trommel screen plant to sort litter, organic material, and stone from street sweeping operations",
+   "quantity": "1",
+   "price_usd": 225000,
+   "lead_time": null,
+   "sole_source_vendor": "Ohio Machinery Co.",
+   "reason": "Ohio Machinery Co. is the sole Ohio dealer for this specialized equipment that aids in litter reduction and recycling initiatives.",
+   "equipment_class": "other equipment",
+   "installed_location": "DOIM 25th Avenue Facility, Columbus",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 30554,
+  "out": 220
+ },
+ "model": "claude-sonnet-5"
+}

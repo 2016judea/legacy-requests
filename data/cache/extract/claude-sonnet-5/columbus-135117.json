@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Touchstone IQ LLC",
+   "model": null,
+   "part": "Software licensing, maintenance, and technical services (benchmarking data communications tool, transparency map, and utility data auto-upload portal)",
+   "quantity": null,
+   "price_usd": 155740.0,
+   "lead_time": null,
+   "sole_source_vendor": "Touchstone IQ LLC",
+   "reason": "Touchstone IQ LLC is the sole proprietor and manufacturer of Touchstone IQ software products. Thus, Touchstone IQ software licenses and support can only be provided by Touchstone IQ",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Building and Zoning Services",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4755,
+  "out": 257
+ },
+ "model": "claude-sonnet-5"
+}

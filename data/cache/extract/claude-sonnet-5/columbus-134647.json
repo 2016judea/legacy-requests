@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Horton",
+   "model": null,
+   "part": "Horton OEM Parts and Services used to repair City ambulances",
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Atlantic Emergency Solutions, Inc.",
+   "reason": "Atlantic Emergency Solutions, Inc. is the sole source for these parts and services as they are the only local distributor and authorized service provider for this specific manufacturer.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Division of Fleet Management",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5286,
+  "out": 207
+ },
+ "model": "claude-sonnet-5"
+}

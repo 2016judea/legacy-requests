@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": "Micro Focus",
+   "model": null,
+   "part": "Microfocus - Annual Maintenance for CUBS system",
+   "quantity": "1.00",
+   "price_usd": 16954.74,
+   "lead_time": null,
+   "sole_source_vendor": "Hansen Banner, LLC",
+   "reason": "it has been determined that Hansen Banner, LLC is the sole distributor of the software products associated with the CUBS system, and does not utilize distributors or resellers for any services associated with its software products",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Utilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hansen Banner, LLC",
+   "model": "Banner CIS (Hansen CIS-B)",
+   "part": "Banner CIS Maintenance - Annual Maintenance for CUBS system",
+   "quantity": "1.00",
+   "price_usd": 486392.6,
+   "lead_time": null,
+   "sole_source_vendor": "Hansen Banner, LLC",
+   "reason": "Hansen Banner, LLC is the sole source vendor for the Hansen CIS-B (formerly \"Banner CIS\") Software and the sole provider of services for services performed in relation to the Hansen CIS-B Software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Utilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "MV90",
+   "part": "TCP+ & MV90 Interface; Annual Maintenance",
+   "quantity": "1.00",
+   "price_usd": 123520.25,
+   "lead_time": null,
+   "sole_source_vendor": "Hansen Banner, LLC",
+   "reason": "it has been determined that Hansen Banner, LLC is the sole distributor of the software products associated with the CUBS system, and does not utilize distributors or resellers for any services associated with its software products",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Utilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4406,
+  "out": 782
+ },
+ "model": "claude-sonnet-5"
+}

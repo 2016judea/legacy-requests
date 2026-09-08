@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Self-Contained Breathing Apparatus (SCBA) Replacement Parts",
+   "quantity": "Items 1 and 2 (Catalogs)",
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Atlantic Emergency Solutions Inc.",
+   "reason": "selected the overall lowest, responsive, responsible and best bidder",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3297,
+  "out": 711
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,67 @@
+{
+ "records": [
+  {
+   "manufacturer": "Intergraph Corporation",
+   "model": "Hexagon (I/CAD)",
+   "part": "services needed to allow the records management system to interface with our computer aided dispatch (CAD) system",
+   "quantity": null,
+   "price_usd": 14990.45,
+   "lead_time": null,
+   "sole_source_vendor": "Intergraph Corporation",
+   "reason": "Intergraph Corporation is the only known company that can provide maintenance, support, and licensing for the Hexagon product.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus Division of Fire",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hexagon Safety, Infrastructure & Geospatial Division",
+   "model": "Intergraph I/CAD",
+   "part": "Custom Interface services provided in conjunction with Hexagon's software",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hexagon Safety, Infrastructure & Geospatial division",
+   "reason": "we are the only vendor able to sell and maintain these custom interface services in conjunction with Hexagon's software. No vendor may offer substitute services for the products currently in use, as Hexagon owns the intellectual property and source code",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Columbus",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ImageTrend, LLC",
+   "model": "Elite/Elite Rescue",
+   "part": "comprehensive records management system (RMS) for EMS/Fire incident reporting and fire inspection reporting",
+   "quantity": null,
+   "price_usd": 225000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "After evaluation, in compliance with the Revised Code of the State of Ohio, the Charter of the City of Columbus, Columbus City Code Section 329.28 and Title 39, the selection committee recommends entering into contract with ImageTrend, LLC for the records management system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus Division of Fire",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ImageTrend, LLC",
+   "model": "Elite/Elite Rescue",
+   "part": "Total Year 1 software licensing, setup, implementation and modules for RMS",
+   "quantity": "1",
+   "price_usd": 624730.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the selection committee recommends entering into contract with ImageTrend, LLC for the records management system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus Division of Fire",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 64045,
+  "out": 4001
+ },
+ "model": "claude-sonnet-5"
+}

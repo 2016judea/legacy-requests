@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Caterpillar",
+   "model": null,
+   "part": "Caterpillar OEM Parts used to repair City construction equipment",
+   "quantity": "All Items",
+   "price_usd": 60000,
+   "lead_time": null,
+   "sole_source_vendor": "Ohio Machinery Co.",
+   "reason": "One bid was received.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Division of Fleet Management",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3024,
+  "out": 725
+ },
+ "model": "claude-sonnet-5"
+}

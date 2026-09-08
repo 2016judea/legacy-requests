@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "OEM Parts & Repairs contract for Ford fleet vehicles (maintenance, warranty repair, parts)",
+   "quantity": null,
+   "price_usd": 4800000,
+   "lead_time": null,
+   "sole_source_vendor": "Suburban Motors dba Future Ford of Sacramento",
+   "reason": "To maintain warranties and ensure safety and reliability, the City uses authorized service centers and Original Equipment Manufacturer (OEM) parts.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6221,
+  "out": 216
+ },
+ "model": "claude-sonnet-5"
+}

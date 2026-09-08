@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Vehicle alignments and Ford OEM repairs for City of Columbus Fleet vehicles",
+   "quantity": null,
+   "price_usd": 260000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Ricart Properties, Inc.",
+   "reason": "Ricart Properties Inc was found to be the lowest, responsible and best bidder.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City of Columbus Fleet Management Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4066,
+  "out": 272
+ },
+ "model": "claude-sonnet-5"
+}

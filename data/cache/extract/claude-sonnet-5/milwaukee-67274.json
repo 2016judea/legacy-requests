@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens",
+   "model": null,
+   "part": "Fire Alarm System Testing and Related Professional Services (test, replace, repair, maintain, inspect, service fire alarm system and components)",
+   "quantity": null,
+   "price_usd": 1000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "Siemens Industry, Inc. has serviced this proprietary system since it was installed and is the only provider that can support the software.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "various City of Milwaukee locations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "OnSolve",
+   "model": "One Call Now",
+   "part": "Vendor Service Contract for One Call Now notification software system",
+   "quantity": null,
+   "price_usd": 115267.36,
+   "lead_time": null,
+   "sole_source_vendor": "OnSolve, LLC",
+   "reason": "OnSolve, LLC is the sole source for the One Call Now system, as it is a proprietary software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "OnSolve",
+   "model": "Code Red Professional Flex Bundle",
+   "part": "Code Red Professional Flex Bundle Services for public mass notification for emergency and routine public alerts",
+   "quantity": null,
+   "price_usd": 75889.99,
+   "lead_time": null,
+   "sole_source_vendor": "OnSolve, LLC",
+   "reason": "OnSolve, LLC is the sole source for the One Call Now system, as it is a proprietary software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8425,
+  "out": 1733
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Vendor Service Contract for Engine Repair and Service",
+   "quantity": null,
+   "price_usd": 50000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Interstate Power Systems, Inc. dba Interstate PowerSystems",
+   "reason": "There are limited vendors that can provide engine repair services to MFD's custom fire apparatuses. MFD's fleet of spare engines is continuing to diminish with front line engines needing repairs. The vendor is local and can provide the necessary repairs to these engines that are critical to providing emergency services to the City of Milwaukee.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Milwaukee Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Vendor Service Contract for Platinum Annual Maintenance Plan",
+   "quantity": null,
+   "price_usd": 15040.0,
+   "lead_time": null,
+   "sole_source_vendor": "Medical Priority Consultants, Inc. dba Priority Dispatch Corp.",
+   "reason": "The City purchased the premier Emergency Medical Dispatcher (EMD) software package from Priority Dispatch in 2009. It is proprietary software and a vital part of MFD's Computer Aided Dispatch (CAD) system. It guides dispatchers through the process of collecting vital information from the caller, obtaining the patient's status, choosing an appropriate dispatch level, and instructing the caller with medically approved protocols until the dispatched units arrive at the scene. This amendment will allow Priority Dispatch to continue providing support maintenance during the conversion to a new CAD system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Milwaukee Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7929,
+  "out": 406
+ },
+ "model": "claude-haiku-4-5"
+}

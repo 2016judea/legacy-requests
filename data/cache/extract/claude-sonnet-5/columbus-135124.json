@@ -1,0 +1,106 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tritech Software Systems",
+   "model": "API",
+   "part": "Maintenance and support of API module for CentralSquare (Lucity) Work and Asset Management System",
+   "quantity": "1",
+   "price_usd": 1218.37,
+   "lead_time": null,
+   "sole_source_vendor": "Tritech Software Systems, a CentralSquare company",
+   "reason": "is designed, engineered, serviced, and distributed exclusively by CentralSquare for use by CentralSquare customers.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tritech Software Systems",
+   "model": "AssetManagement",
+   "part": "Maintenance and support of AssetManagement module for CentralSquare (Lucity) Work and Asset Management System",
+   "quantity": "1",
+   "price_usd": 18276.22,
+   "lead_time": null,
+   "sole_source_vendor": "Tritech Software Systems, a CentralSquare company",
+   "reason": "is designed, engineered, serviced, and distributed exclusively by CentralSquare for use by CentralSquare customers.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tritech Software Systems",
+   "model": "Custom",
+   "part": "Maintenance and support of Custom module for CentralSquare (Lucity) Work and Asset Management System",
+   "quantity": "1",
+   "price_usd": 3655.13,
+   "lead_time": null,
+   "sole_source_vendor": "Tritech Software Systems, a CentralSquare company",
+   "reason": "is designed, engineered, serviced, and distributed exclusively by CentralSquare for use by CentralSquare customers.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tritech Software Systems",
+   "model": "GISDesktop",
+   "part": "Maintenance and support of GISDesktop module for CentralSquare (Lucity) Work and Asset Management System",
+   "quantity": "1",
+   "price_usd": 2436.74,
+   "lead_time": null,
+   "sole_source_vendor": "Tritech Software Systems, a CentralSquare company",
+   "reason": "is designed, engineered, serviced, and distributed exclusively by CentralSquare for use by CentralSquare customers.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tritech Software Systems",
+   "model": "GISWeb",
+   "part": "Maintenance and support of GISWeb module for CentralSquare (Lucity) Work and Asset Management System",
+   "quantity": "1",
+   "price_usd": 2436.74,
+   "lead_time": null,
+   "sole_source_vendor": "Tritech Software Systems, a CentralSquare company",
+   "reason": "is designed, engineered, serviced, and distributed exclusively by CentralSquare for use by CentralSquare customers.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tritech Software Systems",
+   "model": "MobileManagement",
+   "part": "Maintenance and support of MobileManagement module for CentralSquare (Lucity) Work and Asset Management System",
+   "quantity": "1",
+   "price_usd": 2436.74,
+   "lead_time": null,
+   "sole_source_vendor": "Tritech Software Systems, a CentralSquare company",
+   "reason": "is designed, engineered, serviced, and distributed exclusively by CentralSquare for use by CentralSquare customers.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tritech Software Systems",
+   "model": "WorkManagement",
+   "part": "Maintenance and support of WorkManagement module for CentralSquare (Lucity) Work and Asset Management System",
+   "quantity": "1",
+   "price_usd": 21931.34,
+   "lead_time": null,
+   "sole_source_vendor": "Tritech Software Systems, a CentralSquare company",
+   "reason": "is designed, engineered, serviced, and distributed exclusively by CentralSquare for use by CentralSquare customers.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12283,
+  "out": 2890
+ },
+ "model": "claude-sonnet-5"
+}

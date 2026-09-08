@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Off-site hydrogen fuel for fuel cell electric buses (FCEBs), sold on a per kilogram basis plus annual service fee",
+   "quantity": "Guaranteed Production: Year 1 10,000-15,000 kg; Year 2 17,000 kg; Year 3 up to 19,000 kg",
+   "price_usd": 3500000,
+   "lead_time": null,
+   "sole_source_vendor": "H2B2 USA LLC",
+   "reason": "the only supplier within refueling distance and provides the greatest cost and quality benefit",
+   "equipment_class": "other equipment",
+   "installed_location": "Fresno Area Express (FAX), SoHyCal Production Facility, 24205 Whitesbridge Ave., Kerman, CA",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "New Flyer of America Inc.",
+   "model": "40' hydrogen fuel cell electric bus (FCEB)",
+   "part": "Fuel cell electric buses purchased by Fresno Area Express requiring hydrogen fuel to operate",
+   "quantity": "two (2)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Fresno Area Express (FAX) has purchased two (2) fuel cell electric buses (FCEB) from New Flyer of America Inc.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fresno Area Express (FAX)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 26667,
+  "out": 516
+ },
+ "model": "claude-sonnet-5"
+}

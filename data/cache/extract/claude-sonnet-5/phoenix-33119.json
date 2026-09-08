@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hog Technologies",
+   "model": null,
+   "part": "Replacement parts for waterblasting/obliteration vehicle",
+   "quantity": null,
+   "price_usd": 355000,
+   "lead_time": null,
+   "sole_source_vendor": "FSC Highlander, LLC dba Hog Technologies",
+   "reason": "This requirements contract will allow the Signing and Striping Section to procure replacement parts to keep the vehicle operational and functioning.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2167,
+  "out": 675
+ },
+ "model": "claude-sonnet-5"
+}

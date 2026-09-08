@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Solar-Powered Portable Traffic Signal Trailers",
+   "quantity": null,
+   "price_usd": 315000,
+   "lead_time": null,
+   "sole_source_vendor": "OMJC Signal",
+   "reason": "The Transportation Department and Procurement Services recommend awarding the contract to the sole source vendor, OMJC Signal",
+   "equipment_class": "other equipment",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2005,
+  "out": 168
+ },
+ "model": "claude-sonnet-5"
+}

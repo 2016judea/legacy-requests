@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Patterson",
+   "model": "F42",
+   "part": "Replacement rotating assembly (Complete Rotor Assembly) including Chesterton mechanical seal",
+   "quantity": "1",
+   "price_usd": 420000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Sabatka, Davis & Associates, Inc.",
+   "reason": "Sabatka's local representative for Patterson Pumps in the Ohio territory",
+   "equipment_class": "pump",
+   "installed_location": "Southerly Water Reclamation Plant (SWRP)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8118,
+  "out": 200
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,158 @@
+{
+ "records": [
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": "QCL/AUTO",
+   "part": "Crime-lite AUTO Kit 120V Charger (Non SP) - all-in-one forensic evidence imaging system for CSI and laboratory use",
+   "quantity": "2",
+   "price_usd": 35764.95,
+   "lead_time": "6-8 weeks",
+   "sole_source_vendor": "Foster & Freeman USA Inc.",
+   "reason": "I am pleased to confirm that the Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": "QCL/AUTO/ACC/1",
+   "part": "Crime-lite AUTO Rechargeable 2Ah Battery",
+   "quantity": "2.0",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": "QCL/AUTO/ACC/2",
+   "part": "Crime-lite AUTO Rechargeable 4Ah Battery",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": "QCL/AUTO/ACC/4",
+   "part": "Crime-lite AUTO Carry Case with machined foam cut-outs for unit, batteries and accessories",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": "QCL/AUTO/ACC/5 (257-187-00)",
+   "part": "Crime-lite AUTO Shoulder/Neck Strap, adjustable",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": "QCL/AUTO/ACC/6",
+   "part": "Crime-lite AUTO High Speed Micro SD Card Reader",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": "QCL/AUTO/ACC/7",
+   "part": "Crime-lite AUTO High Speed USB Stick, high capacity with rapid read/write performance",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": "QCL/AUTO/ACC/8",
+   "part": "Crime-lite AUTO Mains Adaptor to operate the unit via AC mains power",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": "QCL/AUTO/ACC/3120V",
+   "part": "Crime-lite AUTO Battery Charger for rapid charging of Li-Ion batteries",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": "DCS/RULE (ASSY DWG 035-106-AS-01)",
+   "part": "L-Shape Forensic Scale Rule",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": null,
+   "part": "Product Verification Library (PVL) 1 Year Subscription for Crime-lite AUTO evidence dataset access",
+   "quantity": "1 year",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Division of Police Crime Lab",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 3,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 15888,
+  "out": 5769
+ },
+ "model": "claude-sonnet-5"
+}

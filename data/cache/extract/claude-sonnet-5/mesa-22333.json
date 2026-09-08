@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "SCBA and Helmet Washing Machines for decontamination of SCBA full face respirator, bottle, harness, and helmet",
+   "quantity": "Three",
+   "price_usd": 119955,
+   "lead_time": null,
+   "sole_source_vendor": "Rescue Intellitech",
+   "reason": "MFMD and Procurement Services recommend awarding the contract to the sole source vendor, Rescue Intellitech at $119,955, based on estimated requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "Mesa Fire and Medical Department (MFMD)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2021,
+  "out": 221
+ },
+ "model": "claude-sonnet-5"
+}

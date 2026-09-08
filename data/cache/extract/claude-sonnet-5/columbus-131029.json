@@ -1,0 +1,158 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bomag",
+   "model": null,
+   "part": "Bomag parts and services for City vehicles",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Southeastern Equipment Co., Inc.",
+   "reason": "Southeastern Equipment is the sole authorized dealer for the BOMAG new product equipment categories listed below for the state of Ohio.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Division of Fleet Management",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Case",
+   "model": null,
+   "part": "Case CE parts and services for City vehicles",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Southeastern Equipment Co., Inc.",
+   "reason": "Southeastern Equipment Co, Inc.is the sole authorized Case CE dealership for Sales, Service and Parts with a branch located at 6430 Shier Rings Rd, Dublin, OH for City of Columbus in the State of Ohio.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Division of Fleet Management",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Eager Beaver",
+   "model": null,
+   "part": "Eager Beaver parts and services for City vehicles",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Southeastern Equipment Co., Inc.",
+   "reason": "Southeastern Equipment Co., Inc. is the sole source for these Bomag, Case, Eager Beaver, Etnyre, Gradall, KM, Kobelco, Mauldin, Schwarze, Superior Broom and Vacall parts and services as they are the only local distributor and authorized service provider for this specific manufacturers.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Division of Fleet Management",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Etnyre",
+   "model": null,
+   "part": "Etnyre parts and services for City vehicles",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Southeastern Equipment Co., Inc.",
+   "reason": "Southeastern Equipment Co., Inc. is the sole source for these Bomag, Case, Eager Beaver, Etnyre, Gradall, KM, Kobelco, Mauldin, Schwarze, Superior Broom and Vacall parts and services as they are the only local distributor and authorized service provider for this specific manufacturers.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Division of Fleet Management",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gradall",
+   "model": null,
+   "part": "Gradall Excavator parts and services for City vehicles",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Southeastern Equipment Co., Inc.",
+   "reason": "As the sole source provider of Gradall Industries, LLC, Southeastern Equipment Company is responsible for all machine and parts sales and service.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Division of Fleet Management",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "KM",
+   "model": null,
+   "part": "KM parts and services for City vehicles",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Southeastern Equipment Co., Inc.",
+   "reason": "Southeastern Equipment Co., Inc. is the sole source for these Bomag, Case, Eager Beaver, Etnyre, Gradall, KM, Kobelco, Mauldin, Schwarze, Superior Broom and Vacall parts and services as they are the only local distributor and authorized service provider for this specific manufacturers.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Division of Fleet Management",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kobelco",
+   "model": "Excavators",
+   "part": "Kobelco Excavator machine repair service and proprietary parts",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Southeastern Equipment Co., Inc.",
+   "reason": "Southeastern Equipment Company is the contracted supplier in the State of Ohio for equipment, machine repair service and proprietary parts for the following product line, \u2022 Kobelco Excavators",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Division of Fleet Management",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Mauldin",
+   "model": "Paving Products",
+   "part": "Mauldin Paving Products parts and services for City vehicles",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Southeastern Equipment Co., Inc.",
+   "reason": "Calder Brothers Corporation manufacturer of MAULDIN Paving Products appoints Southeastern Equipment Company Inc. to act as Calder Brothers Corporation the exclusive distributorship of the MAULDIN Paving Products line for the state of Ohio.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Division of Fleet Management",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Schwarze",
+   "model": null,
+   "part": "Schwarze Industries parts, service and warranty work for City vehicles",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Southeastern Equipment Co., Inc.",
+   "reason": "Southeastern Equipment Co, with various locations in Ohio is an authorized dealer for sales, service, warranty work and OEM parts for Schwarze Industries, Inc. in their APR (AREA OF PRIMARY RESPONSIBILITY), which includes the entire state of Ohio.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Division of Fleet Management",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Superior Broom",
+   "model": null,
+   "part": "Superior Broom equipment, parts & service for City vehicles",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Southeastern Equipment Co., Inc.",
+   "reason": "Southeastern Equipment has sole source responsibility for parts, service and equipment for their given territories. Columbus, Ohio falls under Southeastern Equipment as the sole source supplier for Superior Broom equipment, parts & service",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Division of Fleet Management",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vacall",
+   "model": "Sewer Cleaner",
+   "part": "Vacall Sewer Cleaner machine and parts sales and service",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Southeastern Equipment Co., Inc.",
+   "reason": "As a sole source provider of Vacall Sewer Cleaner products, Southeastern Equipment is responsible for all machine and parts sales, as well as service.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Division of Fleet Management",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5633,
+  "out": 3944
+ },
+ "model": "claude-sonnet-5"
+}

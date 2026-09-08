@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "GovernmentJobs.com, Inc. (D/B/A NEOGOV)",
+   "model": "PowerDMS",
+   "part": "Multiple user licenses to renew access to a document management system for CALEA compliance",
+   "quantity": null,
+   "price_usd": 53074.61,
+   "lead_time": null,
+   "sole_source_vendor": "PowerDMS Inc.",
+   "reason": "PowerDMS is the only software license that is approved and sanctioned by CALEA.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Police",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 15690,
+  "out": 211
+ },
+ "model": "claude-sonnet-5"
+}

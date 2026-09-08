@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement subcomponents/parts and installation for Front Loader Box Refuse Truck damaged in a collision",
+   "quantity": "1",
+   "price_usd": 61433.62,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Equipment Sales & Services Holdings LLC",
+   "reason": "Environmental Equipment Sales & Services Holdings LLC: Universal Term Contract Purchase Agreement, PA007493, Ordinance 2278-2024, for Front Loader Box Refuse Truck.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Division of Refuse Collection",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4038,
+  "out": 387
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "H.D. Industries, Inc.",
+   "model": "Pro-Patch",
+   "part": "Pro-Patch OEM Parts used to repair City pothole patching equipment",
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "H.D. Industries, Inc.",
+   "reason": "H.D. Industries, Inc. is the sole source for these parts as they are the only local distributor for this specific manufacturer.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6014,
+  "out": 201
+ },
+ "model": "claude-sonnet-5"
+}

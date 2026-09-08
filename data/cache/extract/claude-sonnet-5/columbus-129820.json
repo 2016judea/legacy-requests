@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "John Deere",
+   "model": null,
+   "part": "Heavy Duty Equipment Parts for construction and agricultural equipment",
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Murphy Tractor and Equipment Co.",
+   "reason": "Murphy Tractor and Equipment Co., Inc. is the sole source for these parts and they are the only local distributor for this specific manufacturer.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4743,
+  "out": 195
+ },
+ "model": "claude-sonnet-5"
+}

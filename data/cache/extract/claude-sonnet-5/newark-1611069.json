@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Microsoft",
+   "model": null,
+   "part": "Support and Maintenance of proprietary computer hardware and software (Microsoft Office Suite, Windows environment, servers, system licensing)",
+   "quantity": null,
+   "price_usd": 750000.0,
+   "lead_time": null,
+   "sole_source_vendor": "GovConnection, Inc.",
+   "reason": "Microsoft, has represented that they have the exclusive right to make and sell these services which the Business Administrator and the Office of Information Technology certifies is essential and necessary for the conduct of its affairs",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City of Newark",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12440,
+  "out": 231
+ },
+ "model": "claude-sonnet-5"
+}

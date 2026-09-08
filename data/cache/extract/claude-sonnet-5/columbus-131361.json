@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": "CGI Technologies and Solutions, Inc.",
+   "model": "OpenGrid Workforce and Field (PragmaCAD)",
+   "part": "Pragma CAD software maintenance and support services (source code and Banner interface)",
+   "quantity": "1 contract, 1-year term",
+   "price_usd": 53746,
+   "lead_time": null,
+   "sole_source_vendor": "CGI Technologies and Solutions, Inc.",
+   "reason": "CGI, as owner and manufacturer of the OpenGrid Workforce and Field (PragmaCAD) software is the sole provider for services and maintenance performed in relation to OpenGrid Workforce and Field (PragmaCAD) software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Utilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "HERE",
+   "part": "HERE Cloud Usage Fees / licenses associated with Pragma CAD system",
+   "quantity": "1 contract, 1-year term",
+   "price_usd": 13544,
+   "lead_time": null,
+   "sole_source_vendor": "CGI Technologies and Solutions, Inc.",
+   "reason": "No other party is authorized to install, modify, maintain or support this proprietary code.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Utilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4547,
+  "out": 1250
+ },
+ "model": "claude-sonnet-5"
+}

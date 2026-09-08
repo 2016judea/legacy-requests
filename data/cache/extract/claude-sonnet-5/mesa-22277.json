@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "APG-Neuros",
+   "model": null,
+   "part": "Aeration blower parts, equipment and maintenance, and repair services",
+   "quantity": null,
+   "price_usd": 150000,
+   "lead_time": null,
+   "sole_source_vendor": "APGN, Inc.",
+   "reason": "recommend awarding the contract to the single, responsive, and sole source vendor, APGN, Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Southeast Water Reclamation Plant (SEWRP)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2191,
+  "out": 207
+ },
+ "model": "claude-sonnet-5"
+}

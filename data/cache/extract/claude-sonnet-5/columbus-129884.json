@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Frontier Security",
+   "model": null,
+   "part": "Access control products including badge readers, reader control modules, serial boards, reader distribution panels, matrix subsystem gateways, door controllers, building controller items and all associated connections",
+   "quantity": null,
+   "price_usd": 160000.0,
+   "lead_time": null,
+   "sole_source_vendor": "SGI Matrix, LLC",
+   "reason": "due to the nature of the security software and compatibility of existing security equipment, it is in the best interest of the City enter into contract with SGI Matrix in accordance with the sole source procurement provisions of Columbus City Code",
+   "equipment_class": "other equipment",
+   "installed_location": "various city facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3252,
+  "out": 243
+ },
+ "model": "claude-sonnet-5"
+}

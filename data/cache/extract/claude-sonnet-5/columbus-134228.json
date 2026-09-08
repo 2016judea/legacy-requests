@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Genetec",
+   "model": null,
+   "part": "Software, equipment, technical support and maintenance services for camera security systems",
+   "quantity": null,
+   "price_usd": 75000.0,
+   "lead_time": null,
+   "sole_source_vendor": "K.N.S. Services, Inc.",
+   "reason": "K.N.S. is the only Unified Elite Genetec Partner in Ohio and as such K.N.S. maintains the Genetec system licensing and programming.",
+   "equipment_class": "other equipment",
+   "installed_location": "Facilities Management Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4186,
+  "out": 197
+ },
+ "model": "claude-sonnet-5"
+}

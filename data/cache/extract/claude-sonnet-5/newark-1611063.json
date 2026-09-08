@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Data Works Plus, Inc.",
+   "model": "PHOTOMANAGER",
+   "part": "Maintenance services and upgrades of the PHOTOMANAGER Network System, Custom Interface Software, HIDTA, Enforsys and Livescan Software Programs",
+   "quantity": null,
+   "price_usd": 61018.79,
+   "lead_time": null,
+   "sole_source_vendor": "Clearview Data Systems, Inc.",
+   "reason": "they have the exclusive right to make and sell these services, which the Director of the Department of Public Safety certifies is essential and necessary for the conduct of its affairs",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10600,
+  "out": 246
+ },
+ "model": "claude-sonnet-5"
+}

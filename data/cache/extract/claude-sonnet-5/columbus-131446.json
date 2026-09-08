@@ -1,0 +1,132 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": "PremierOne Records",
+   "part": "Software maintenance and support services for PremierOne Records computerized crime data reporting system",
+   "quantity": null,
+   "price_usd": 328358.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "The above referenced PremierOne Records solution contains proprietary software developed and owned by Motorola. To provide complete PremierOne Essential Support Services for this solution, another vendor would need access to Motorola's proprietary software source code.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Police",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "PremierOne RecordsTM Module",
+   "part": "PremierOne RecordsTM Module (includes Narcotic Module and Internal Affairs Module)",
+   "quantity": "1",
+   "price_usd": 10162.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Columbus Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "PremierOne RecordsTM Server License",
+   "part": "PremierOne RecordsTM Server License",
+   "quantity": "1",
+   "price_usd": 18430.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Columbus Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "PremierOne RecordsTM Client License",
+   "part": "PremierOne RecordsTM Client License (concurrent)",
+   "quantity": "250",
+   "price_usd": 142065.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Columbus Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "PremierOne RecordsTM Mobile Client License",
+   "part": "PremierOne RecordsTM Mobile Client License (concurrent)",
+   "quantity": "250",
+   "price_usd": 142065.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Columbus Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "Property & Evidence Module",
+   "part": "Property & Evidence Module",
+   "quantity": "1",
+   "price_usd": 7677.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Columbus Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "Matrix Crime Interface-Project #OHP15I37A",
+   "part": "Matrix Crime Interface",
+   "quantity": "1",
+   "price_usd": 2653.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Columbus Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "OH-1 (Ohio DPS Crash Data) Interface",
+   "part": "OH-1 (Ohio DPS Crash Data) Interface",
+   "quantity": "1",
+   "price_usd": 2653.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Columbus Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "CopLogic Interface",
+   "part": "CopLogic Interface",
+   "quantity": "1",
+   "price_usd": 2653.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Columbus Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 29875,
+  "out": 1854
+ },
+ "model": "claude-sonnet-5"
+}

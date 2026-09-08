@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Intergraph Corporation (Hexagon)",
+   "model": "I/CAD",
+   "part": "Premier Maintenance and Support services and software licenses for the Computer Aided Dispatching System (CAD)",
+   "quantity": null,
+   "price_usd": 636045.48,
+   "lead_time": null,
+   "sole_source_vendor": "Intergraph Corporation",
+   "reason": "Intergraph Corporation is the only known company that can provide maintenance services 24 hours a day, seven days a week for this system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Safety dispatch center (Police and Fire)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 85739,
+  "out": 236
+ },
+ "model": "claude-sonnet-5"
+}

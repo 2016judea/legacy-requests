@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "NextGen Healthcare, Inc.",
+   "model": null,
+   "part": "Hosting, support, upgrades, maintenance of proprietary software and electronic medical records system (NextGen management system)",
+   "quantity": null,
+   "price_usd": 450000.0,
+   "lead_time": null,
+   "sole_source_vendor": "NextGen Healthcare, Inc.",
+   "reason": "NextGen Healthcare, Inc., owns the rights to electronic medical records system and is engaged in the business of providing proprietary software, pursuant to N.J.S.A. 40A:11-5(1)(dd)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Health and Community Wellness / Mary Eliza Mahoney Health Centers",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10748,
+  "out": 277
+ },
+ "model": "claude-sonnet-5"
+}

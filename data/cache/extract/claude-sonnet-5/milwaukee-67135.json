@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Vendor Service Contract for Engine Repair and Service (custom fire apparatus engines)",
+   "quantity": null,
+   "price_usd": 292846.21,
+   "lead_time": null,
+   "sole_source_vendor": "Interstate Power Systems, Inc. dba Interstate PowerSystems",
+   "reason": "There are limited vendors that can provide engine repair services to MFD's custom fire apparatuses.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Milwaukee Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Priority Dispatch",
+   "model": "Platinum Annual Maintenance Plan",
+   "part": "Emergency Medical Dispatcher (EMD) software support/maintenance for MFD's Computer Aided Dispatch (CAD) system",
+   "quantity": null,
+   "price_usd": 52565.0,
+   "lead_time": null,
+   "sole_source_vendor": "Medical Priority Consultants, Inc. dba Priority Dispatch Corp.",
+   "reason": "It is proprietary software and a vital part of MFD's Computer Aided Dispatch (CAD) system.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Milwaukee Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8481,
+  "out": 1179
+ },
+ "model": "claude-sonnet-5"
+}

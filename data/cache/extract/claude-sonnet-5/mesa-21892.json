@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Dresser/Roots",
+   "model": "10C",
+   "part": "Rotary Gas Meters for Advanced Metering Infrastructure (AMI) Project",
+   "quantity": null,
+   "price_usd": 2000000,
+   "lead_time": null,
+   "sole_source_vendor": "NGS Cayman Holdings, L.P. dba Natural Gas Solutions North America, LLC",
+   "reason": "recommend awarding the contract to the single responsive and responsible bidder, NGS Cayman Holdings, L.P. dba  Natural Gas Solutions North America, LLC",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Citywide gas system",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2145,
+  "out": 660
+ },
+ "model": "claude-sonnet-5"
+}

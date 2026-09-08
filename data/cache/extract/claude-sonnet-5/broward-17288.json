@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": "Runway Safe Inc.",
+   "model": null,
+   "part": "Inspections, testing, repairs, and replacement of the Engineered Material Arresting System (EMAS)",
+   "quantity": null,
+   "price_usd": 2991124,
+   "lead_time": null,
+   "sole_source_vendor": "Boland's LLC",
+   "reason": "Runway Safe Inc. is the only FAA approved United States manufacturer for the EMAS products.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fort Lauderdale-Hollywood International Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Runway Safe Inc.",
+   "model": "EMASMAX\u00ae",
+   "part": "FAA certified Engineered Material Arresting System",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the Runway Safe Group, through their acquisition of the EMAS Max product from Safran, parent company of Zodiac Aerospace is the only enterprise that has demonstrated and validated a design method and manufacturing process meeting the Advisory Circular requirements satisfactory to the FAA.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fort Lauderdale-Hollywood International Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Runway Safe Inc.",
+   "model": "greenEMAS\u00ae",
+   "part": "FAA certified Engineered Material Arresting System",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the Runway Safe Group, through their acquisition of the EMAS Max product from Safran, parent company of Zodiac Aerospace is the only enterprise that has demonstrated and validated a design method and manufacturing process meeting the Advisory Circular requirements satisfactory to the FAA.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fort Lauderdale-Hollywood International Airport",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 52545,
+  "out": 669
+ },
+ "model": "claude-sonnet-5"
+}

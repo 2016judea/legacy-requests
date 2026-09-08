@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Heavy duty Original OEM cab and chassis parts for various pieces of rolling stock equipment",
+   "quantity": null,
+   "price_usd": 1500000,
+   "lead_time": null,
+   "sole_source_vendor": "Cummins, Inc.; Freightliner of Arizona, LLC; RWC International dba RWC Group; Rush Truck Centers of Arizona, Inc.",
+   "reason": "recommend awarding the contract to the lowest, responsive, and responsible bidders",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2180,
+  "out": 1057
+ },
+ "model": "claude-sonnet-5"
+}

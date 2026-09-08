@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": "Avaya",
+   "model": null,
+   "part": "Vendor Service Contract for Avaya Equipment and Service Assistance (telephone system equipment, upgrades and maintenance)",
+   "quantity": null,
+   "price_usd": 221500.0,
+   "lead_time": null,
+   "sole_source_vendor": "ConvergeOne, Inc.",
+   "reason": "Avaya branded equipment and the associated service assistance is proprietary, and it must be purchased and serviced through a licensed secondary partner \u2013 ConvergeOne Inc.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Argent Basic Support",
+   "part": "Argent Software - network scheduling and monitoring tool for data center applications, databases, compliance, security, web, and virtualization solutions",
+   "quantity": null,
+   "price_usd": 84640.0,
+   "lead_time": null,
+   "sole_source_vendor": "ArgSoft Group, LLC",
+   "reason": "ArgSoft's Argent Basic Support products and services are proprietary and are only available from one source",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Detroit / Allison",
+   "model": null,
+   "part": "Engine and Transmission Repair, Service, and OEM Parts for Detroit engines and Allison transmissions",
+   "quantity": null,
+   "price_usd": 100000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Interstate Power Systems, Inc. dba Interstate Power Systems",
+   "reason": "Interstate Power Systems is the only local vendor that is an authorized dealer and provider for Detroit engines and Allison transmissions.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Milwaukee Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 19962,
+  "out": 3593
+ },
+ "model": "claude-sonnet-5"
+}

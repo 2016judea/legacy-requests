@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Genetec",
+   "model": null,
+   "part": "Camera system upgrade - remove existing cameras and cabling; install new cameras, cabling, and related appurtenances; commissioning services",
+   "quantity": null,
+   "price_usd": 169000.0,
+   "lead_time": null,
+   "sole_source_vendor": "KNS Services, Inc.",
+   "reason": "KNS is the only Genetec Unified Elite integrator in the Central Ohio area.",
+   "equipment_class": "other equipment",
+   "installed_location": "Parsons Avenue Water Plant (PAWP)",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5274,
+  "out": 204
+ },
+ "model": "claude-sonnet-5"
+}

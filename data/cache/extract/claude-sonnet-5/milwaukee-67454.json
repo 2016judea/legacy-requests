@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "iNovah",
+   "part": "Proprietary Software Support and Maintenance Agreement for the iNovah Software in Use Within the City Treasurer Office",
+   "quantity": null,
+   "price_usd": 530091.95,
+   "lead_time": null,
+   "sole_source_vendor": "System Innovators - A Division of N. Harris Computer Corporation",
+   "reason": "The current iNovah cashier software is seven (7) years old and is desperately in need of updating.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City Treasurer Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8509,
+  "out": 213
+ },
+ "model": "claude-sonnet-5"
+}

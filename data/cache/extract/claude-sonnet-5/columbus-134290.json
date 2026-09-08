@@ -1,0 +1,80 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM Truck Parts used to repair City medium and heavy-duty vehicles",
+   "quantity": "Items 1-2",
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Rush Truck Centers of Ohio, Inc.",
+   "reason": "recommending award to the overall lowest, responsive, responsible and best bidders",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM Truck Parts used to repair City medium and heavy-duty vehicles",
+   "quantity": "Items 3-4",
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Ohio Machinery Co.",
+   "reason": "recommending award to the overall lowest, responsive, responsible and best bidders",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM Truck Parts used to repair City medium and heavy-duty vehicles",
+   "quantity": "Item 5",
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Truck Country of Indiana, Inc.",
+   "reason": "recommending award to the overall lowest, responsive, responsible and best bidders",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM Truck Parts used to repair City medium and heavy-duty vehicles",
+   "quantity": "Item 6",
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fyda Freightliner Columbus, Inc.",
+   "reason": "recommending award to the overall lowest, responsive, responsible and best bidders",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM Truck Parts used to repair City medium and heavy-duty vehicles",
+   "quantity": "Items 7-10",
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Municipal Equipment Ohio, LLC",
+   "reason": "recommending award to the overall lowest, responsive, responsible and best bidders",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 5,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11221,
+  "out": 1392
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Magic Software Enterprises, Inc.",
+   "model": null,
+   "part": "Service Contract for Magic Software Licenses and Maintenance",
+   "quantity": null,
+   "price_usd": 55271.75,
+   "lead_time": null,
+   "sole_source_vendor": "Magic Software Enterprises, Inc.",
+   "reason": "Magic Software was originally installed in 1995 and is only available without additional upcharges or embedded in other software via Magic Software Enterprises, Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Municipal Court",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5225,
+  "out": 209
+ },
+ "model": "claude-sonnet-5"
+}

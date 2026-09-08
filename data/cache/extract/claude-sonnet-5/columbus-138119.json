@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Genetec",
+   "model": null,
+   "part": "software, equipment, technical support and maintenance services for security systems (Genetec security surveillance system)",
+   "quantity": null,
+   "price_usd": 75000.0,
+   "lead_time": null,
+   "sole_source_vendor": "K.N.S. Services, Inc.",
+   "reason": "K.N.S. Services is the only Unified Elite Genetec Partner in Ohio and as such K.N.S. Services maintains the Genetec system licensing and programming.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Facilities Management Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4824,
+  "out": 215
+ },
+ "model": "claude-sonnet-5"
+}

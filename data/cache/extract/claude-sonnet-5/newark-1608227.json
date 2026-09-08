@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Greenway Health, LLC",
+   "model": "Greenway Health management system",
+   "part": "Hosting, support, upgrades, maintenance of proprietary electronic medical records management software",
+   "quantity": null,
+   "price_usd": 596000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Greenway Health, LLC",
+   "reason": "Greenway Health, LLC owns the rights to an electronic medical records system and is engaged in the business of providing proprietary software",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Health and Community Wellness / Mary Eliza Mahoney Health Centers",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12736,
+  "out": 237
+ },
+ "model": "claude-sonnet-5"
+}

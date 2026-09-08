@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pierce",
+   "model": null,
+   "part": "Sole Brand Pierce Brand Mechanical Parts And Components",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Conrad Fire Equipment, Inc.",
+   "reason": "Sole Brand Pierce Brand Mechanical Parts And Components",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "various appliance nozzles related to an awarded FEMA Grant",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Conrad Fire Equipment, Inc.",
+   "reason": "to purchase specialized fire services and supplies and to purchase various appliance nozzles related to an awarded FEMA Grant",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14203,
+  "out": 889
+ },
+ "model": "claude-sonnet-5"
+}

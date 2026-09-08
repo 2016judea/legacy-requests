@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": "Korn Ferry",
+   "model": "Korn Ferry Leadership Architect (KFLA)",
+   "part": "Sole source standardization of Korn Ferry suite of products, tools and IP, including KFLA competency framework SaaS",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Korn Ferry (US) Inc.",
+   "reason": "Standardization allows the County to maintain subscription and ensures continued use of Korn Ferry's intellectual property used in the development of job-related competencies, job classification descriptions, recruitment, performance management, and learning and development processes",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Korn Ferry",
+   "model": "Profile Manager with Content Library",
+   "part": "Technology Products Agreement providing Korn Ferry Leadership Architect (KFLA) competency framework and access to KFLA tools and intellectual property, including Digital Profile Manager",
+   "quantity": "up to 10,000 County employees",
+   "price_usd": 751250,
+   "lead_time": null,
+   "sole_source_vendor": "Korn Ferry (US) Inc.",
+   "reason": "thus, making it more cost-effective than recreating these functions in another platform",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 15804,
+  "out": 483
+ },
+ "model": "claude-sonnet-5"
+}

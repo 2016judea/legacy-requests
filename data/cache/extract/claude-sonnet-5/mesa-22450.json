@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Bore shields and wraps for 12-inch gas pipe installation",
+   "quantity": null,
+   "price_usd": 345000,
+   "lead_time": null,
+   "sole_source_vendor": "B&W Distributors",
+   "reason": "The Energy Resources Department and Procurement Services recommend awarding the contract to the sole source vendor, B&W Distributors (a Mesa business) at $345,000, based on estimated requirements.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Arizona Farms High-Pressure Gas Line Project (Magma system)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1891,
+  "out": 219
+ },
+ "model": "claude-sonnet-5"
+}

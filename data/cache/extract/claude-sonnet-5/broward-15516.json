@@ -1,0 +1,106 @@
+{
+ "records": [
+  {
+   "manufacturer": "Brooks Instrument",
+   "model": null,
+   "part": "Labor, In-shop Chemical Feed System Repaired by Factory Authorized Technician",
+   "quantity": "120 / hour",
+   "price_usd": 49200.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cross Company",
+   "reason": "The parts are not interchangeable with any other manufacturers equipment and can only be serviced by Factory Authorized Technicians.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Brooks Instrument",
+   "model": null,
+   "part": "Labor, On-site chemical feed system inspection, calibration and repair by factory technician",
+   "quantity": "80 / hour",
+   "price_usd": 62800.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cross Company",
+   "reason": "The parts are not interchangeable with any other manufacturers equipment and can only be serviced by Factory Authorized Technicians.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Brooks Instrument",
+   "model": null,
+   "part": "Mass Flow Controller",
+   "quantity": "2 / each",
+   "price_usd": 12462.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cross Company",
+   "reason": "This system is a proprietary design on which alternate manufacturer's ammonia gas systems are not compatible with the Brooks Instrument set point controllers",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Brooks Instrument",
+   "model": null,
+   "part": "Mass Flow Secondary Electronic Controller",
+   "quantity": "1 / each",
+   "price_usd": 3644.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cross Company",
+   "reason": "This system is a proprietary design on which alternate manufacturer's ammonia gas systems are not compatible with the Brooks Instrument set point controllers",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Brooks Instrument",
+   "model": null,
+   "part": "Glass Flowmeter",
+   "quantity": "2 / each",
+   "price_usd": 4190.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cross Company",
+   "reason": "This system is a proprietary design on which alternate manufacturer's ammonia gas systems are not compatible with the Brooks Instrument set point controllers",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Brooks Instrument",
+   "model": null,
+   "part": "Equipment Calibration",
+   "quantity": "2 / each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Cross Company",
+   "reason": "This system is a proprietary design on which alternate manufacturer's ammonia gas systems are not compatible with the Brooks Instrument set point controllers",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Brooks Instrument",
+   "model": null,
+   "part": "Brooks Instrument Ammonia Gas Feed Systems (ammoniators), equipment, parts, components, associated piping, system support and repair services",
+   "quantity": null,
+   "price_usd": 688980.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cross Company",
+   "reason": "Cross Company/ Process Solutions Group is our exclusive authorized representative/distributor for the territory of Alabama, Florida, Georgia, Maryland, North Carolina, South Carolina, Tennessee, Virginia, & Washington, DC.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Broward County Water Treatment Plants",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 21206,
+  "out": 3945
+ },
+ "model": "claude-sonnet-5"
+}

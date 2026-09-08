@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cultivate Geospatial Solutions LLC",
+   "model": "PAWS 2.0",
+   "part": "Maintenance and enhancement of the PAWS 2.0 software used to generate roadway construction plans",
+   "quantity": null,
+   "price_usd": 290000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cultivate Geospatial Solutions LLC",
+   "reason": "it has been determined that Cultivate Geospatial Solutions LLC is the sole proprietor and developer of this specialized PAWS 2.0 system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Design and Construction",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3629,
+  "out": 235
+ },
+ "model": "claude-sonnet-5"
+}

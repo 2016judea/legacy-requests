@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": "Skydio",
+   "model": null,
+   "part": "Two (2) Drones as First Responder (DFR) units with Axon Air software and service support for 12 months",
+   "quantity": "2",
+   "price_usd": 234470.77,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc.",
+   "reason": "Axon Enterprises Inc., is the sole provider of equipment and operating system, manufactured by Skydio UAS Solutions, with exclusive Axon Air subscription services",
+   "equipment_class": "other equipment",
+   "installed_location": "Northeast and Northwest District stations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Skydio",
+   "model": null,
+   "part": "Third DFR unit with Axon Air software and service support for a total period of four (4) years",
+   "quantity": "1",
+   "price_usd": 149588.62,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Services, Inc.",
+   "reason": "Axon Enterprises Inc., is the sole provider of equipment and operating system, manufactured by Skydio UAS Solutions, with exclusive Axon Air subscription services",
+   "equipment_class": "other equipment",
+   "installed_location": "police annex building",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 72442,
+  "out": 1685
+ },
+ "model": "claude-sonnet-5"
+}

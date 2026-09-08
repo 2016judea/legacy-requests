@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": "Versaterm Public Safety US, Inc.",
+   "model": "LIMS-plus",
+   "part": "support, maintenance, and hosting of the Crime Lab Information Management System",
+   "quantity": null,
+   "price_usd": 87805.58,
+   "lead_time": null,
+   "sole_source_vendor": "Versaterm Public Safety US Inc.",
+   "reason": "The City's management system is a proprietary system from Versaterm Public Safety US, Inc., and as such, the city must purchase annual maintenance services from Versaterm Public Safety US, Inc.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Division of Police",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Versaterm Public Safety US, Inc.",
+   "model": "LIMS-plus v3",
+   "part": "LIMS-plus v3 Annual Subscription (price per seat) - additional subscriptions",
+   "quantity": "9.00",
+   "price_usd": 18200.7,
+   "lead_time": null,
+   "sole_source_vendor": "Versaterm Public Safety US Inc.",
+   "reason": "Versaterm is the sole supplier of its products and services.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Columbus Division of Police (OH)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 5,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 21366,
+  "out": 1032
+ },
+ "model": "claude-sonnet-5"
+}

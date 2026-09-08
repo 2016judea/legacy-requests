@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": "Microsoft",
+   "model": null,
+   "part": "Vendor Service Contract for Microsoft Unified Support Services",
+   "quantity": null,
+   "price_usd": 682874.7,
+   "lead_time": null,
+   "sole_source_vendor": "Microsoft Corporation",
+   "reason": "Microsoft's software products are proprietary to Microsoft, therefore, such services cannot be provided by any other vendor.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VertiGIS North America, Ltd.",
+   "model": "GeoCortex Essentials",
+   "part": "Vendor Service Contract for GeoCortex Licensing, Maintenance, Training and Support",
+   "quantity": null,
+   "price_usd": 9550.0,
+   "lead_time": null,
+   "sole_source_vendor": "VertiGIS North America, Ltd.",
+   "reason": "VertiGIS North America, Ltd. is the sole developer and distributor of GeoCortex Essentials Software. GeoCortex Essentials Software is proprietary and is not available through other software resellers or vendors.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18106,
+  "out": 1417
+ },
+ "model": "claude-sonnet-5"
+}

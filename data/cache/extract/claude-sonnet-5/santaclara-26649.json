@@ -1,0 +1,119 @@
+{
+ "records": [
+  {
+   "manufacturer": "Byron Jackson",
+   "model": "14M",
+   "part": "Refurbished 200 HP submersible motor, 460 volt, type M, NSF-61",
+   "quantity": "1",
+   "price_usd": 121815.0,
+   "lead_time": "16 Weeks",
+   "sole_source_vendor": "Pump Repair Services Company",
+   "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Byron Jackson/Flowserve",
+   "model": "13 ETMH/13 MOH",
+   "part": "4 stage submersible bowl assembly, 416 SS shaft, C903 tin bronze impellers, 4\" discharge, NSF-61, with non-witness performance test",
+   "quantity": "1",
+   "price_usd": 45711.0,
+   "lead_time": "16 Weeks",
+   "sole_source_vendor": "Pump Repair Services Company",
+   "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
+   "equipment_class": "pump",
+   "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "1/0",
+   "part": "Motor flat cable factory spliced onto 370' of 350 MCM power cable, including breakout seal boot on submersed end, NSF-61",
+   "quantity": "1",
+   "price_usd": 60715.0,
+   "lead_time": "16 Weeks",
+   "sole_source_vendor": "Pump Repair Services Company",
+   "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "350 feet of 10\" .279 uncoated NSF-61 wall column pipe",
+   "quantity": "350 feet",
+   "price_usd": 29700.0,
+   "lead_time": "12 Weeks",
+   "sole_source_vendor": "Pump Repair Services Company",
+   "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "10\" column pipe check valve",
+   "quantity": "1",
+   "price_usd": 4175.0,
+   "lead_time": null,
+   "sole_source_vendor": "Pump Repair Services Company",
+   "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
+   "equipment_class": "valve",
+   "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "3\" Power cable liquid tight SS connector",
+   "quantity": "1",
+   "price_usd": 375.0,
+   "lead_time": null,
+   "sole_source_vendor": "Pump Repair Services Company",
+   "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Lot of SS buckles and bandit for cable/pipe assembly",
+   "quantity": "1 lot",
+   "price_usd": 600.0,
+   "lead_time": null,
+   "sole_source_vendor": "Pump Repair Services Company",
+   "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
+   "equipment_class": "other equipment",
+   "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Non-mercury mechanical seal replacing existing mercury mechanical seal on motor",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Pump Repair Services Company",
+   "reason": "The new pump will include a modern non-mercury mechanical seal, improving system reliability, reducing maintenance complexity, and eliminating the potential for mercury releases",
+   "equipment_class": "pump",
+   "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9161,
+  "out": 3490
+ },
+ "model": "claude-sonnet-5"
+}

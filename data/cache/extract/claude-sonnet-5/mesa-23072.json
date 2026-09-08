@@ -1,0 +1,80 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hach",
+   "model": null,
+   "part": "OEM Hach instruments",
+   "quantity": null,
+   "price_usd": 580000,
+   "lead_time": null,
+   "sole_source_vendor": "Hach",
+   "reason": "This contract is for OEM Hach instruments, replacement parts, and certified repair services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hach",
+   "model": null,
+   "part": "Replacement parts for Hach instruments",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hach",
+   "reason": "This contract is for OEM Hach instruments, replacement parts, and certified repair services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hach",
+   "model": null,
+   "part": "Certified repair services",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hach",
+   "reason": "This contract is for OEM Hach instruments, replacement parts, and certified repair services.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hach",
+   "model": null,
+   "part": "OEM maintenance kits to clean and calibrate equipment",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hach",
+   "reason": "Operators rely on OEM maintenance kits to clean and calibrate equipment, ensuring consistent and accurate performance.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hach",
+   "model": null,
+   "part": "Diagnostic tools and replacement parts to maintain or restore functionality",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hach",
+   "reason": "Technicians use diagnostic tools and replacement parts to maintain or restore functionality.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2147,
+  "out": 784
+ },
+ "model": "claude-sonnet-5"
+}

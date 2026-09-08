@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": "Astro 25 / P-25 Digital System",
+   "part": "Maintenance and support of the City's 800MHz radio P-25 digital system infrastructure",
+   "quantity": null,
+   "price_usd": 1142396.04,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Columbus 800MHz tower sites",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "ASTRO SUA II",
+   "part": "ASTRO SUA II UO Implementation Services / Release Implementation Training / System Upgrade Agreement II / Field Implementation Service",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "The ongoing maintenance and support of the existing system requires proprietary software and infrastructure owned by Motorola Solutions Inc.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Columbus Public Safety/Comm Div",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "ASTRO System Advanced Plus Package",
+   "part": "ASTRO System Advanced Plus Package maintenance/support service",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Columbus Public Safety/Comm Div",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14749,
+  "out": 622
+ },
+ "model": "claude-sonnet-5"
+}

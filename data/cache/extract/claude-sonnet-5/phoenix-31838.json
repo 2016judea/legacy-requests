@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": "ADB Safegate",
+   "model": null,
+   "part": "Airfield lighting products and replacement parts (Group 1 OEM parts)",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ADB Safegate, LLC",
+   "reason": "Bids were requested in two separate IFBs (IFBs 24-0416, 25-0611), for three Original Equipment Manufacturer (OEM) groups of airfield lighting products.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Phoenix Sky Harbor International Airport, Deer Valley Airport, and Goodyear Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Monroe Integro",
+   "model": null,
+   "part": "Airfield lighting products and replacement parts (Group 3 OEM parts)",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Monroe Integro, LLC",
+   "reason": "Bids were requested in two separate IFBs (IFBs 24-0416, 25-0611), for three Original Equipment Manufacturer (OEM) groups of airfield lighting products.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Phoenix Sky Harbor International Airport, Deer Valley Airport, and Goodyear Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Eaton Crouse-Hinds",
+   "model": null,
+   "part": "Airfield lighting products and replacement parts (Group 2 OEM parts)",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "No offers were received for Group 2, however, staff identified a Citywide contract as the purchasing solution for Group 2.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Phoenix Sky Harbor International Airport, Deer Valley Airport, and Goodyear Airport",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2550,
+  "out": 1480
+ },
+ "model": "claude-sonnet-5"
+}

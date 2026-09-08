@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Enforsys",
+   "model": null,
+   "part": "Maintenance services and upgrades of the Records Management System and Computer Aided Dispatch System (proprietary software)",
+   "quantity": null,
+   "price_usd": 250000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Enforsys Police Systems, Inc.",
+   "reason": "they have the exclusive right to make and sell these services",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Newark Police Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12605,
+  "out": 190
+ },
+ "model": "claude-sonnet-5"
+}

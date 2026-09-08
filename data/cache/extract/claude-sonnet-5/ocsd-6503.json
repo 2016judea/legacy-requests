@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "FARO",
+   "model": "Vantage S6 Max",
+   "part": "3D laser measurement device / tracker for equipment condition monitoring, alignment, inspections",
+   "quantity": "1",
+   "price_usd": 199433,
+   "lead_time": null,
+   "sole_source_vendor": "FARO Technologies. Inc.",
+   "reason": "The FARO tracker provides a unique capability, its exclusive scanning method covers large volumes with unmatched accuracy",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4486,
+  "out": 194
+ },
+ "model": "claude-sonnet-5"
+}

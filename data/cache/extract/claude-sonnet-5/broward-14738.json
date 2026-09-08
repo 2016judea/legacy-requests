@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "EPR Systems USA Inc.",
+   "model": "ESO",
+   "part": "ESO Fire Records Management Software licenses, maintenance, and support",
+   "quantity": null,
+   "price_usd": 504000,
+   "lead_time": null,
+   "sole_source_vendor": "EPR Systems USA Inc.",
+   "reason": "EPR Systems USA Inc., as the software developer, is the only company that offers ESO software licenses, maintenance, and support.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Broward County Office of Regional Communications and Technology",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7934,
+  "out": 208
+ },
+ "model": "claude-sonnet-5"
+}

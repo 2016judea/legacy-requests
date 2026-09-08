@@ -1,0 +1,80 @@
+{
+ "records": [
+  {
+   "manufacturer": "Schwarze",
+   "model": null,
+   "part": "OEM parts and services for street sweeper",
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Municipal Maintenance Equipment, Inc. (MME)",
+   "reason": "A single vendor-MME-is the authorized parts and service provider for all these manufacturers",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VacCon",
+   "model": null,
+   "part": "OEM parts and services for sewer cleaning units",
+   "quantity": "12",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Municipal Maintenance Equipment, Inc. (MME)",
+   "reason": "MME is the only local authorized dealer supporting all four manufacturers.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tiger",
+   "model": null,
+   "part": "OEM parts and services for mower",
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Municipal Maintenance Equipment, Inc. (MME)",
+   "reason": "A single vendor-MME-is the authorized parts and service provider for all these manufacturers",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Pipehunter",
+   "model": null,
+   "part": "OEM parts and services for sewer jetters",
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Municipal Maintenance Equipment, Inc. (MME)",
+   "reason": "MME is the only local authorized dealer supporting all four manufacturers.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VacCon",
+   "model": null,
+   "part": "Rental VacCon sewer cleaning equipment",
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Municipal Maintenance Equipment, Inc. (MME)",
+   "reason": "MME is the only local authorized vendor that provides rental VacCon equipment.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4951,
+  "out": 939
+ },
+ "model": "claude-sonnet-5"
+}

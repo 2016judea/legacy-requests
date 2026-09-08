@@ -1,0 +1,28 @@
+{
+ "records": [
+  {
+   "manufacturer": "Environmental Dynamics International",
+   "model": null,
+   "part": "Fine Bubble Air Header Diffuser System repairs in Aeration Basin #3 (cracked piping throughout)",
+   "quantity": null,
+   "price_usd": 180000,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Dynamics International (EDI)",
+   "reason": "the Fine Bubble Air Header Diffuser System in Aeration Basin #3 has cracked piping throughout, causing the system to experience failures",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Greenfield Water Reclamation Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2059,
+  "out": 245
+ },
+ "model": "claude-sonnet-5"
+}

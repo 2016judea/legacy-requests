@@ -1,0 +1,41 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vac-Con",
+   "model": null,
+   "part": "Sewer Maintenance Equipment Parts and Services (Vac-Con) used to repair sewer maintenance equipment on City vehicles",
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Best Equipment Company, Inc.",
+   "reason": "is the sole authorized Vac\u2010Con dealer for sales, parts, and service in the states of Indiana, Kentucky, Michigan, and Ohio.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Envirosight, LLC",
+   "model": "Rovver, Rovver X, Supervision, Quickview airHD, Quickview 360, CleverScan, JetScan, Verisight Pro, Verisight Ultra, CutterX, and Spirello",
+   "part": "Video Pipeline Inspection Systems parts and services used to repair sewer maintenance equipment on City vehicles",
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Best Equipment Company, Inc.",
+   "reason": "is the sole source for all families of video pipeline inspection equipment, accessories and software provided by Envirosight, LLC for the states of Indiana, Ohio and Kentucky",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4395,
+  "out": 539
+ },
+ "model": "claude-sonnet-5"
+}
