@@ -71,6 +71,9 @@ table{{width:100%;border-collapse:collapse;background:var(--card);border:1px sol
 th{{text-align:left;font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);padding:10px 12px;border-bottom:1px solid var(--line);background:#f3f1ec;cursor:pointer;user-select:none;white-space:nowrap}}
 th.num,td.num{{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}}
 td{{padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}}
+td.ag{{min-width:190px}}
+td.dt{{white-space:nowrap}}
+td.pt{{min-width:220px}}
 tr:last-child td{{border-bottom:0}}
 .mm{{font-weight:600}}
 .mm small{{display:block;font-weight:400;color:var(--muted)}}
@@ -143,7 +146,7 @@ function filtered(){{
 function row(r){{
   const mm=r.manufacturer||r.model?`<span class="mm">${{esc(r.manufacturer||'—')}}${{r.is_obsolete?'<span class="ob">OBSOLETE</span>':''}}<small>${{esc(r.model||'')}}</small></span>`:`<span class="mm" style="color:var(--muted)">not stated${{r.is_obsolete?'<span class="ob">OBSOLETE</span>':''}}</span>`;
   const vendor=r.sole_source_vendor&&(r.sole_source_vendor||'').toLowerCase()!==(r.manufacturer||'').toLowerCase()?`<small style="color:var(--muted)">via ${{esc(r.sole_source_vendor)}}</small>`:'';
-  return `<tr><td>${{mm}}</td><td data-l="Part">${{esc(r.part)}}${{r.quantity?` <small style="color:var(--muted)">× ${{esc(r.quantity)}}</small>`:''}}<br>${{vendor}}</td><td data-l="Agency">${{esc(r.agency)}}, ${{esc(r.state)}}</td><td class="num${{r.price_usd==null?' e':''}}" data-l="Price">${{money(r.price_usd)}}</td><td class="${{r.lead_time?'':'e'}}" data-l="Lead time">${{esc(r.lead_time||'')}}</td><td><div class="reason">“${{esc(r.reason)}}”</div></td><td data-l="Date">${{esc(r.date)}}</td><td class="src"><a href="${{esc(r.source_url)}}" target="_blank" rel="noopener">source PDF</a></td></tr>`;
+  return `<tr><td>${{mm}}</td><td class="pt" data-l="Part">${{esc(r.part)}}${{r.quantity?` <small style="color:var(--muted)">× ${{esc(r.quantity)}}</small>`:''}}<br>${{vendor}}</td><td class="ag" data-l="Agency">${{esc(r.agency)}}, ${{esc(r.state)}}</td><td class="num${{r.price_usd==null?' e':''}}" data-l="Price">${{money(r.price_usd)}}</td><td class="${{r.lead_time?'':'e'}}" data-l="Lead time">${{esc(r.lead_time||'')}}</td><td><div class="reason">“${{esc(r.reason)}}”</div></td><td class="dt" data-l="Date">${{esc(r.date)}}</td><td class="src"><a href="${{esc(r.source_url)}}" target="_blank" rel="noopener">source PDF</a></td></tr>`;
 }}
 function draw(reset){{
   if(reset)page=1;
