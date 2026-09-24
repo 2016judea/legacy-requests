@@ -7,3 +7,4 @@ data/cache/json/
 data/ingest.log
 .vercel/
 .env
+data/cache/supply/*/sitemaps/
