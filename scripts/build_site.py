@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / "site"
 TITLE = "The Google of obsolete infrastructure parts"
 
-FIELDS = ["id", "manufacturer", "model", "part", "quantity", "price_usd", "lead_time", "sole_source_vendor", "reason",
+FIELDS = ["part_numbers", "id", "manufacturer", "model", "part", "quantity", "price_usd", "lead_time", "sole_source_vendor", "reason",
           "equipment_class", "installed_location", "is_obsolete", "agency", "state", "date", "source_url", "legistar_url", "title"]
 
 
@@ -202,7 +202,7 @@ let cls=new Set(),sortK='price_usd',sortD=-1,page=1;const PAGE=100;
 // manufacturers, most frequent first
 const mc={{}};R.forEach(r=>{{if(r.manufacturer)mc[r.manufacturer]=(mc[r.manufacturer]||0)+1}});
 Object.entries(mc).sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0])).forEach(([m,n])=>{{const o=document.createElement('option');o.value=m;o.textContent=`${{m}} (${{n}})`;mfr.append(o)}});
-R.forEach(r=>r._h=[r.manufacturer,r.model,r.part,r.sole_source_vendor,r.agency,r.state,r.reason,r.installed_location,r.equipment_class].join(' ').toLowerCase());
+R.forEach(r=>r._h=[r.manufacturer,r.model,(r.part_numbers||[]).join(' '),r.part,r.sole_source_vendor,r.agency,r.state,r.reason,r.installed_location,r.equipment_class].join(' ').toLowerCase());
 function filtered(){{
   const terms=q.value.toLowerCase().split(/\\s+/).filter(Boolean);
   return R.filter(r=>(!mfr.value||r.manufacturer===mfr.value)&&(!ag.value||r.agency===ag.value)&&(!obs.checked||r.is_obsolete)&&(cls.size?cls.has(r.equipment_class):(soft.checked||r.is_physical))&&terms.every(t=>r._h.includes(t)))
@@ -243,7 +243,10 @@ def main():
     SITE.mkdir(exist_ok=True)
     (SITE / "index.html").write_text(render(recs))
     (SITE / "records.json").write_text(json.dumps(recs, indent=0))
+    core = {"pump", "valve", "motor/drive", "electrical/switchgear/transformer", "generator"}
     print(f"site/index.html: {len(recs)} records, {len({r['agency'] for r in recs})} agencies, "
+          f"{sum(r['is_physical'] for r in recs)} physical, "
+          f"{sum(r['equipment_class'] in core for r in recs)} pump/valve/motor/electrical/generator, "
           f"{(SITE / 'index.html').stat().st_size // 1024} KB")
 
 

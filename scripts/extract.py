@@ -62,6 +62,7 @@ RECORD_SCHEMA = {
                     "manufacturer": {"type": ["string", "null"], "description": "OEM / brand of the equipment, e.g. 'Flygt', 'Siemens', 'Patterson'. Null if not stated."},
                     "model": {"type": ["string", "null"], "description": "Model, series or part number as printed, e.g. 'MAA 12X10', 'CENTRiCAL'. Null if not stated."},
                     "part": {"type": "string", "description": "What was bought or maintained, in the document's own words, under 120 characters."},
+                    "part_numbers": {"type": "array", "items": {"type": "string"}, "description": "Every manufacturer catalog, model or part number printed for this item, copied character for character, e.g. '20G11ND011AA0NNNNN'. Empty list if none is printed."},
                     "quantity": {"type": ["string", "null"]},
                     "price_usd": {"type": ["number", "null"], "description": "Dollar amount stated for this item. Null if none."},
                     "lead_time": {"type": ["string", "null"], "description": "Stated lead time, verbatim, e.g. '25 weeks'."},
@@ -71,7 +72,7 @@ RECORD_SCHEMA = {
                     "installed_location": {"type": ["string", "null"], "description": "Plant, facility or site named for this item, if any."},
                     "is_obsolete": {"type": "boolean", "description": "True only if the document says the equipment or part is obsolete, discontinued, no longer manufactured, or end-of-life."},
                 },
-                "required": ["manufacturer", "model", "part", "quantity", "price_usd", "lead_time", "sole_source_vendor", "reason", "equipment_class", "installed_location", "is_obsolete"],
+                "required": ["manufacturer", "model", "part", "part_numbers", "quantity", "price_usd", "lead_time", "sole_source_vendor", "reason", "equipment_class", "installed_location", "is_obsolete"],
                 "additionalProperties": False,
             },
         }
@@ -86,6 +87,7 @@ Rules:
 - One record per distinct piece of equipment, part, or equipment-maintenance item that the document says was bought, approved, waived from bidding, or added to a sole-source list.
 - Only physical equipment, parts, and the software/maintenance/service contracts that keep specific named equipment running. SKIP professional services (legal, actuarial, consulting, staffing, training, advertising, insurance, real estate, grants, general construction contracts with no named equipment).
 - Copy names, model numbers and prices exactly as printed. Never invent a manufacturer, model or price; use null when the document does not state it. If a line names only a vendor (e.g. a distributor), put it in sole_source_vendor and set manufacturer to the OEM only if the document names one.
+- `part_numbers`: copy EVERY manufacturer catalog / model / part number printed for the item exactly as written (every character, dashes and spaces included), e.g. "20G11ND011AA0NNNNN", "1756-L83E". `model` holds the series name ("PowerFlex 755"); `part_numbers` holds the full orderable numbers. Never construct or complete one. Empty list if none is printed.
 - `reason` must be a verbatim quote from the document, not a paraphrase.
 - If the document contains no qualifying equipment, return {"records": []}.
 """
@@ -229,12 +231,12 @@ def write_store(records: list[dict]):
     db = ROOT / "data" / "records.db"
     db.unlink(missing_ok=True)
     con = sqlite3.connect(db)
-    cols = ["id", "agency", "state", "client", "date", "matter_id", "matter_file", "title", "manufacturer", "model", "part",
+    cols = ["id", "agency", "state", "client", "date", "matter_id", "matter_file", "title", "manufacturer", "model", "part_numbers", "part",
             "quantity", "price_usd", "lead_time", "sole_source_vendor", "reason", "equipment_class", "installed_location",
             "is_obsolete", "source_url", "legistar_url", "platform", "extract_model"]
     con.execute(f"CREATE TABLE records ({', '.join(cols)})")
     con.executemany(f"INSERT INTO records VALUES ({','.join('?' * len(cols))})",
-                    [tuple(r.get(c) for c in cols) for r in records])
+                    [tuple(json.dumps(r.get(c) or []) if c == "part_numbers" else r.get(c) for c in cols) for r in records])
     con.commit(); con.close()
     with open(ROOT / "data" / "records.jsonl", "w") as f:
         for r in records:

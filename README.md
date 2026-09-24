@@ -45,7 +45,7 @@ static page anyone can search.
 
 ## Record fields
 
-agency, state, date, manufacturer, model, part, quantity, price_usd,
+agency, state, date, manufacturer, model, part_numbers (every catalog/part number printed, verbatim; empty on rows extracted before 2026-09-24), part, quantity, price_usd,
 lead_time, sole_source_vendor, reason (verbatim quote), equipment_class,
 installed_location, is_obsolete, source_url, legistar_url.
 
