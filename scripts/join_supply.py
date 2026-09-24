@@ -52,10 +52,14 @@ REQUIRED = {"source", "title", "url", "seen_at"}
 MFR_STOP = {"inc", "llc", "co", "corp", "corporation", "company", "ltd", "the", "of", "and", "systems", "system",
             "technologies", "technology", "industries", "international", "group", "usa", "america", "north",
             "americas", "motor", "products", "solutions", "services", "manufacturing", "mfg", "electric",
-            "electronics", "controls", "control", "equipment", "water", "enterprises", "division", "global"}
+            "electronics", "controls", "control", "equipment", "water", "enterprises", "division", "global",
+            # 2026-09-24: "Shimadzu Scientific Instruments" matched a Nor-Lake Scientific fridge on "scientific"
+            "scientific", "instruments", "instrument", "laboratories", "laboratory", "medical", "industrial",
+            "automation", "engineering", "energy", "power", "precision", "process", "research", "supply"}
 ALIASES = [{"allen", "bradley", "allenbradley", "rockwell"}, {"flir", "teledyne"}, {"xylem", "flygt"},
            {"gorman", "gormanrupp"}, {"roots", "dresser"}]
 # A part token this common is a word, not a part number.
+UNIT = re.compile(r"\d+(?:\.\d+)?(?:V|VAC|VDC|KV|HZ|HP|KW|KVA|W|A|AMP|MM|CM|IN|FT|PSI|GPM|LB|LBS|RPM|MHZ|GHZ|GB|TB|PH)")
 PART_STOP = {"series", "model", "type", "unit", "kit", "used", "new"}
 MODEL_SPLIT = re.compile(r"[\s,;/()\[\]#&+|]+")
 # A record that bought "OEM parts for Ford F-350" names the machine the parts
@@ -72,6 +76,8 @@ def is_part_token(t: str) -> bool:
     if t.lower() in PART_STOP or not re.search(r"\d", t):
         return False
     if re.fullmatch(r"(19|20)\d\d", t):  # a year
+        return False
+    if UNIT.fullmatch(t):  # "115V", "60HZ", "25HP": a rating, not a part — it matched a fridge to a GC on 2026-09-24
         return False
     return len(t) >= 4 and (bool(re.search(r"[A-Z]", t)) or len(t) >= 6)
 

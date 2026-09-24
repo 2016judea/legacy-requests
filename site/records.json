@@ -55981,7 +55981,26 @@
 "source_url": "https://SRM.MAGIC.MS.GOV:443/SAP/EBP/DOCSERVER/NOTICE%20OF%20PROPOSED%20SOLE%20SOURCE%20PURCHASE.PDF?PHIOGET&KPID=02000600000A1FD19981CAC25CF9F23B&KPCLASS=BBP_P_DOC&SAP-CLIENT=100",
 "legistar_url": "https://www.ms.gov/dfa/contract_bid_search/Bid/Details/45657",
 "title": "Sole source notice for a refurbished Beckman LS6500 Liquid Scintillation Counter.",
-"supply": [],
+"supply": [
+{
+"source": "publicsurplus",
+"title": "Beckman Coulter LS 6500 Multi-Purpose Scintillation Counter - CC3 -CF",
+"price": 27.0,
+"currency": "USD",
+"url": "https://www.publicsurplus.com/sms/auction/view?auc=4090122",
+"seen_at": "2026-09-24",
+"location": "FL"
+},
+{
+"source": "publicsurplus",
+"title": "Beckman Coulter LS 6500 Multi-Purpose Scintillation Counter - CC2 -CF",
+"price": 27.0,
+"currency": "USD",
+"url": "https://www.publicsurplus.com/sms/auction/view?auc=4090134",
+"seen_at": "2026-09-24",
+"location": "FL"
+}
+],
 "is_physical": true
 },
 {

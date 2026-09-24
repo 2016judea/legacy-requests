@@ -125,7 +125,8 @@ def render(recs: list[dict]) -> str:
     n_sup = sum(1 for r in recs if r["supply"] and r["is_physical"])
     n_list = len({l["url"] for r in recs for l in r["supply"]})
     sources = sorted({l["source"] for r in recs for l in r["supply"]})
-    sup_names = " and ".join(SOURCE_NAMES.get(x, x) for x in sources)
+    names = [SOURCE_NAMES.get(x, x) for x in sources]
+    sup_names = ", ".join(names[:-1]) + (" and " if len(names) > 1 else "") + (names[-1] if names else "")
     sup_lede = (f' <b>{n_sup:,} can be bought right now</b>: {n_list:,} matching listing{"s" if n_list != 1 else ""} on {sup_names}.'
                 if n_sup else "")
     return f"""<!doctype html>

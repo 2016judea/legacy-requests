@@ -38,6 +38,10 @@ CASES = [
      L("Allen-Bradley PowerFlex 755 20G11 drive"), True, "family name + number joined"),
     ({"id": "p", "manufacturer": "Allen Bradley", "model": "Powerflex 755"},
      L("Allen Bradley PowerFlex 40 drive"), False, "a different family member"),
+    ({"id": "s", "manufacturer": "Shimadzu Scientific Instruments, Inc.", "model": "GC-2010AF, 115V"},
+     L("Nor-Lake Scientific Premier Laboratory Refrigerator 115V"), False, "shared generic word + a voltage"),
+    ({"id": "s", "manufacturer": "Shimadzu Scientific Instruments, Inc.", "model": "GC-2010AF, 115V"},
+     L("Shimadzu GC-2010AF gas chromatograph"), True, "the same instrument"),
 ]
 
 
