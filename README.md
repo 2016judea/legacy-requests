@@ -35,6 +35,11 @@ static page anyone can search.
   `scripts/join_supply.py` reads every file and matches listings to records
   on manufacturer AND an exact part number; a false "who has one" is worse
   than a miss, so the rule is strict (see its docstring).
+- Any agenda platform can feed extraction: write `data/matters/<slug>.json` in the
+  shape documented at the top of `scripts/extract.py` (agency, state and
+  platform may sit in the file itself; attachments may be cached files or inline
+  text). `scripts/extract.py --cached-only` rebuilds the store from cached model
+  responses without spending anything.
 - `scripts/build_site.py` writes the page. Search runs in the browser over the
   embedded JSON; no framework, no build step.
 

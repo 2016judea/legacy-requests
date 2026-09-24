@@ -6,7 +6,26 @@ attachment (scanned PDFs with no text layer are sent as documents so the
 model reads the image). Output is validated against RECORD_SCHEMA. Every
 model response is cached under data/cache/extract/<model>/ and never re-run.
 
-Usage: scripts/extract.py [--model M] [--limit N] [client ...]
+Usage: scripts/extract.py [--model M] [--limit N] [--cached-only] [slug ...]
+
+INPUT CONTRACT (platform-agnostic; Legistar, Granicus, BoardDocs, CivicClerk, PrimeGov,
+state portals all write the same shape). One file per source: data/matters/<slug>.json
+
+    {"platform": "granicus",                 # optional; default "legistar"
+     "agency": "City of X", "state": "TX",   # optional if <slug> is in clients.json
+     "matters": [{
+        "matter_id": "123",                  # unique within the file (str or int)
+        "title": "...", "intro_date": "2025-03-04",   # YYYY-MM-DD
+        "file": "25-0123",                   # optional agency file number
+        "url": "https://...",                # the matter / agenda-item page (legistar_url also accepted)
+        "text": "...",                       # item text, may be ""
+        "attachments": [                     # each is EITHER a cached file OR inline text
+            {"name": "Staff report", "url": "https://...pdf", "path": "data/cache/pdf/<sha1>.pdf"},
+            {"name": "Agenda item", "url": "https://...", "text": "plain text scraped from HTML"}]}]}
+
+Make <slug> platform-unique (e.g. "granicus-austin"): the model cache key is <slug>-<matter_id>.
+--cached-only never calls the model; it rebuilds records.jsonl from whatever is already cached,
+so any agent can rebuild the full store without spending on another agent's matters.
 """
 import argparse
 import base64
@@ -94,14 +113,33 @@ def pdf_text(path: Path) -> tuple[str, int]:
     return text, n
 
 
+def attachment_text(a: dict) -> str:
+    """Inline text, or the text layer of a cached PDF, or a cached plain-text/HTML file."""
+    if a.get("text"):
+        return a["text"]
+    p = ROOT / a["path"] if a.get("path") else None
+    if not p or not p.exists() or p.stat().st_size == 0:
+        return ""
+    if p.suffix.lower() == ".pdf":
+        return pdf_text(p)[0]
+    return p.read_text(errors="replace")
+
+
 def build_content(matter: dict) -> tuple[list, dict]:
     """Return the content blocks for one matter and a summary of what went in."""
-    parts = [f"AGENCY MATTER {matter['file']} — {matter['title']}\nIntroduced {matter['intro_date']}\n\n{matter['text']}"]
+    parts = [f"AGENCY MATTER {matter.get('file') or matter['matter_id']} — {matter.get('title') or ''}\n"
+             f"Introduced {matter.get('intro_date') or ''}\n\n{matter.get('text') or ''}"]
     blocks = []
     info = {"pdfs_text": 0, "pdfs_scanned": 0, "pdfs_skipped": 0}
-    for a in matter["attachments"]:
-        p = ROOT / a["path"]
-        if not p.exists() or p.stat().st_size == 0:
+    for a in matter.get("attachments", []):
+        if a.get("text") or (a.get("path") and not a["path"].lower().endswith(".pdf")):
+            t = attachment_text(a)
+            if t.strip():
+                parts.append(f"\n\n===== ATTACHMENT: {a.get('name')} ({a.get('url')}) =====\n{t}")
+                info["pdfs_text"] += 1
+            continue
+        p = ROOT / a["path"] if a.get("path") else None
+        if not p or not p.exists() or p.stat().st_size == 0:
             continue
         text, n = pdf_text(p)
         if n and len(text.strip()) / n >= 200:
@@ -156,11 +194,7 @@ def qualifies(matter: dict) -> bool:
     hay = (matter.get("title") or "") + "\n" + (matter.get("text") or "")
     if KEYWORD_RE.search(hay):
         return True
-    for a in matter["attachments"]:
-        p = ROOT / a["path"]
-        if p.exists() and p.stat().st_size and KEYWORD_RE.search(pdf_text(p)[0]):
-            return True
-    return False
+    return any(KEYWORD_RE.search(attachment_text(a)) for a in matter.get("attachments", []))
 
 
 COMPETITIVE_RE = re.compile(
@@ -197,7 +231,7 @@ def write_store(records: list[dict]):
     con = sqlite3.connect(db)
     cols = ["id", "agency", "state", "client", "date", "matter_id", "matter_file", "title", "manufacturer", "model", "part",
             "quantity", "price_usd", "lead_time", "sole_source_vendor", "reason", "equipment_class", "installed_location",
-            "is_obsolete", "source_url", "legistar_url", "extract_model"]
+            "is_obsolete", "source_url", "legistar_url", "platform", "extract_model"]
     con.execute(f"CREATE TABLE records ({', '.join(cols)})")
     con.executemany(f"INSERT INTO records VALUES ({','.join('?' * len(cols))})",
                     [tuple(r.get(c) for c in cols) for r in records])
@@ -213,15 +247,17 @@ def main():
     ap.add_argument("--limit", type=int, default=0, help="max matters per client (0 = all)")
     ap.add_argument("--dry", action="store_true", help="only report what would be sent")
     ap.add_argument("--workers", type=int, default=6, help="parallel model calls (each result is cached, so a crash loses nothing)")
+    ap.add_argument("--cached-only", action="store_true", help="never call the model; build the store from cached responses only")
     ap.add_argument("clients", nargs="*")
     a = ap.parse_args()
     load_env()
     client = anthropic.Anthropic()
     slugs = a.clients or [p.stem for p in sorted((ROOT / "data" / "matters").glob("*.json"))]
-    all_records, tok_in, tok_out = [], 0, 0
+    all_records, tok_in, tok_out, new_in, new_out, n_new, n_uncached = [], 0, 0, 0, 0, 0, 0
     for slug in slugs:
         d = json.loads((ROOT / "data" / "matters" / f"{slug}.json").read_text())
-        meta = CLIENTS.get(slug, {"agency": slug, "state": ""})
+        meta = {"agency": slug, "state": "", "platform": "legistar", **CLIENTS.get(slug, {}),
+                **{k: d[k] for k in ("agency", "state", "platform") if d.get(k)}}
         matters = [m for m in d["matters"] if qualifies(m)]
         if a.limit:
             matters = matters[: a.limit]
@@ -230,16 +266,25 @@ def main():
             for m in matters:
                 _, info = build_content(m); print(slug, m["matter_id"], info)
             continue
+        cache_dir = CACHE / "extract" / a.model
+        if a.cached_only:
+            n_uncached += sum(not (cache_dir / f"{slug}-{m['matter_id']}.json").exists() for m in matters)
+            matters = [m for m in matters if (cache_dir / f"{slug}-{m['matter_id']}.json").exists()]
+        fresh = {m["matter_id"] for m in matters if not (cache_dir / f"{slug}-{m['matter_id']}.json").exists()}
         with ThreadPoolExecutor(max_workers=a.workers) as pool:
             outs = list(pool.map(lambda m: extract_matter(client, a.model, slug, m), matters))
         for m, out in zip(matters, outs):
             tok_in += out["usage"]["in"]; tok_out += out["usage"]["out"]
-            src = m["attachments"][0]["url"] if m["attachments"] else m["legistar_url"]
+            if m["matter_id"] in fresh:
+                new_in += out["usage"]["in"]; new_out += out["usage"]["out"]; n_new += 1
+            murl = m.get("url") or m.get("legistar_url") or ""
+            atts = m.get("attachments") or []
+            src = (atts[0].get("url") if atts else None) or murl
             for i, r in enumerate(out["records"]):
                 r = dict(r)
                 r.update({"id": f"{slug}-{m['matter_id']}-{i}", "agency": meta["agency"], "state": meta["state"], "client": slug,
-                          "date": m["intro_date"], "matter_id": m["matter_id"], "matter_file": m["file"], "title": m["title"],
-                          "source_url": src, "legistar_url": m["legistar_url"], "extract_model": a.model})
+                          "date": m.get("intro_date"), "matter_id": m["matter_id"], "matter_file": m.get("file"), "title": m.get("title"),
+                          "source_url": src, "legistar_url": murl, "platform": meta["platform"], "extract_model": a.model})
                 all_records.append(r); n_rec += 1
         print(f"{slug}: {len(matters)} matters sent, {n_rec} records", flush=True)
     if not a.dry:
@@ -250,6 +295,9 @@ def main():
         write_store(all_records)
         print(f"TOTAL {len(all_records)} records ({n_dup} duplicates, {before - n_dup - len(all_records)} competitively bid rows dropped); "
               f"tokens in={tok_in:,} out={tok_out:,}")
+        # $3 / $15 per million tokens (claude-sonnet-5 list price)
+        print(f"THIS RUN: {n_new} new model calls, in={new_in:,} out={new_out:,}, "
+              f"${new_in * 3e-6 + new_out * 15e-6:.2f}" + (f"; {n_uncached} uncached matters skipped (--cached-only)" if a.cached_only else ""))
 
 
 if __name__ == "__main__":
