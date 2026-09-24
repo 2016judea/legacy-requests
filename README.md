@@ -16,6 +16,8 @@ static page anyone can search.
     make ingest    # Legistar API -> data/cache/ (JSON + PDFs; never re-downloaded)
     make extract   # Claude -> data/records.db + data/records.jsonl (one call per matter, cached)
     make site      # data/records.jsonl -> site/index.html (generated; never hand-edit)
+    make supply    # surplus/dealer listings for indexed makes+models -> data/supply/ (cached), then join
+    make check     # prove the supply join: fixed cases + live match counts
     make deploy    # site/ -> Vercel
 
 - `clients.json` lists the Legistar clients that answer on the public API
@@ -27,6 +29,12 @@ static page anyone can search.
   documents so the model reads the image. Output is schema-validated; every
   record carries its `source_url` and a verbatim `reason`, so no number on the
   page was typed by hand. Needs `ANTHROPIC_API_KEY` in the environment.
+- **Supply side.** Each source writes `data/supply/<source>.jsonl` in one
+  schema (source, title, manufacturer, model, part_number, price, currency,
+  url, seen_at, location) via `scripts/supply_<source>.py`.
+  `scripts/join_supply.py` reads every file and matches listings to records
+  on manufacturer AND an exact part number; a false "who has one" is worse
+  than a miss, so the rule is strict (see its docstring).
 - `scripts/build_site.py` writes the page. Search runs in the browser over the
   embedded JSON; no framework, no build step.
 
@@ -41,8 +49,8 @@ same purchase reported to a committee and then to the board) are collapsed.
 
 ## Not in v1
 
-SAM.gov, state procurement portals, the supply side (eBay, auctions, surplus
-dealers, OEM catalogs), and monitoring/alerts.
+SAM.gov, state procurement portals, eBay (no API key), OEM catalogs, and
+monitoring/alerts.
 
 ## Licence
 
