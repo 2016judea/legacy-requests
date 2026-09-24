@@ -66,10 +66,27 @@ def is_physical(r: dict) -> bool:
     return len(set(m.lower() for m in WEAK_HARDWARE.findall(text))) >= 2
 
 
+SUPPLY_FIELDS = ["source", "title", "price", "currency", "url", "seen_at", "location"]
+SOURCE_NAMES = {"govdeals": "GovDeals", "publicsurplus": "PublicSurplus", "radwell": "Radwell", "mroelectric": "MRO Electric",
+                "kempston": "Kempston Controls", "artisantg": "Artisan Technology Group", "bidonequipment": "Bid on Equipment",
+                "eltra": "Eltra Trade", "aotewell": "Aotewell",
+                "euautomation": "EU Automation", "plccenter": "PLC Center"}
+
+
+def load_supply() -> dict:
+    """data/supply/matches.json, written by scripts/join_supply.py (make join)."""
+    f = ROOT / "data" / "supply" / "matches.json"
+    if not f.exists():
+        return {}
+    return {rid: [{k: l.get(k) for k in SUPPLY_FIELDS} for l in ls] for rid, ls in json.loads(f.read_text()).items()}
+
+
 def load():
     recs = [json.loads(l) for l in (ROOT / "data" / "records.jsonl").read_text().splitlines() if l.strip()]
     out = [{k: r.get(k) for k in FIELDS} for r in recs]
+    supply = load_supply()
     for r in out:
+        r["supply"] = supply.get(r["id"], [])
         if r["price_usd"] is not None and r["price_usd"] < PLACEHOLDER_PRICE:
             r["price_usd"] = None
         r["is_physical"] = is_physical(r)
@@ -105,6 +122,12 @@ def render(recs: list[dict]) -> str:
     n_price = sum(1 for r in recs if r["price_usd"])
     dates = sorted(r["date"] for r in recs if r["date"])
     data = json.dumps(recs, separators=(",", ":")).replace("</", "<\\/")
+    n_sup = sum(1 for r in recs if r["supply"] and r["is_physical"])
+    n_list = len({l["url"] for r in recs for l in r["supply"]})
+    sources = sorted({l["source"] for r in recs for l in r["supply"]})
+    sup_names = " and ".join(SOURCE_NAMES.get(x, x) for x in sources)
+    sup_lede = (f' <b>{n_sup:,} can be bought right now</b>: {n_list:,} matching listing{"s" if n_list != 1 else ""} on {sup_names}.'
+                if n_sup else "")
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -144,6 +167,12 @@ tr:last-child td{{border-bottom:0}}
 .ob{{display:inline-block;font-size:11px;font-weight:600;padding:2px 7px;border-radius:6px;background:var(--accent-bg);color:var(--accent);margin-left:6px;vertical-align:middle;letter-spacing:.02em}}
 a{{color:var(--accent)}}
 .src{{white-space:nowrap}}
+.sup{{margin-top:6px;font-size:13px}}
+.sup summary{{display:inline-block;cursor:pointer;font-weight:600;color:#1d6b3a;background:#e7f3ea;border-radius:6px;padding:2px 8px;list-style:none}}
+.sup summary::-webkit-details-marker{{display:none}}
+.sup ul{{margin:6px 0 0;padding:0;list-style:none}}
+.sup li{{padding:4px 0;border-top:1px dashed var(--line)}}
+.sup li small{{color:var(--muted)}}
 .more{{display:block;margin:18px auto;font:inherit;padding:10px 18px;border-radius:10px;border:1px solid var(--line);background:var(--card);cursor:pointer}}
 .empty{{padding:40px 16px;text-align:center;color:var(--muted)}}
 footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);font-size:13px}}
@@ -171,12 +200,13 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
 <body>
 <header>
 <h1>{TITLE}</h1>
-<p class="lede"><b>{n_hw:,} pieces of physical equipment</b> that <b>{len(agencies)} public agencies</b> could buy from only one supplier, {span(dates)}. Each row quotes the agency's own reason and links to the source document.</p>
+<p class="lede"><b>{n_hw:,} pieces of physical equipment</b> that <b>{len(agencies)} public agencies</b> could buy from only one supplier, {span(dates)}. Each row quotes the agency's own reason and links to the source document.{sup_lede}</p>
 <div class="controls">
   <input id="q" type="search" placeholder="Search manufacturer, model, part, vendor, agency…" autocomplete="off" autofocus>
   <select id="mfr"><option value="">All manufacturers</option></select>
   <select id="agency"><option value="">All agencies</option>{''.join(f'<option>{a}</option>' for a in agencies)}</select>
   <label class="tog"><input type="checkbox" id="obs"> Obsolete / discontinued only</label>
+  {'<label class="tog"><input type="checkbox" id="sup"> For sale now only</label>' if n_sup else '<input type="checkbox" id="sup" hidden>'}
   <label class="tog"><input type="checkbox" id="soft"> Include software, licences &amp; service contracts</label>
 </div>
 <div class="chips" id="chips">{''.join(f'<button class="chip" data-c="{c}" aria-pressed="false">{SHORT.get(c, c)}</button>' for c in classes)}</div>
@@ -189,12 +219,13 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
 </tr></thead><tbody id="rows"></tbody></table>
 <button class="more" id="more" hidden>Show more</button>
 </main>
-<footer>Built from the Legistar public API (sole-source, single-source, proprietary and obsolete-equipment matters introduced since 2024-01-01) and the state sole-source notice boards of Florida (Vendor Bid System, since 2022) and Mississippi, extracted with Claude, never typed by hand. A field is blank when the agency's document did not state it. Regenerated {date.today().isoformat()}.</footer>
+<footer>Built from the Legistar public API (sole-source, single-source, proprietary and obsolete-equipment matters introduced since 2024-01-01) and the state sole-source notice boards of Florida (Vendor Bid System, since 2022) and Mississippi, extracted with Claude, never typed by hand. "Who has one" listings come from public surplus auctions and surplus dealers, searched for each record's manufacturer and part number, and count only when both agree; a listing can end or sell after the date it was seen. A field is blank when the agency's document did not state it. Regenerated {date.today().isoformat()}.</footer>
 <script id="data" type="application/json">{data}</script>
 <script>
 const R=JSON.parse(document.getElementById('data').textContent);
 const $=s=>document.querySelector(s);
-const q=$('#q'),mfr=$('#mfr'),ag=$('#agency'),obs=$('#obs'),soft=$('#soft'),rows=$('#rows'),count=$('#count'),more=$('#more');
+const q=$('#q'),mfr=$('#mfr'),ag=$('#agency'),obs=$('#obs'),sup=$('#sup'),soft=$('#soft'),rows=$('#rows'),count=$('#count'),more=$('#more');
+const SRC={json.dumps(SOURCE_NAMES)};
 const SOFT=new Set({json.dumps(SOFT)});
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}}[c]));
 const money=v=>v==null?'':'$'+Math.round(v).toLocaleString();
@@ -205,13 +236,14 @@ Object.entries(mc).sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0])).forEach(([m,
 R.forEach(r=>r._h=[r.manufacturer,r.model,(r.part_numbers||[]).join(' '),r.part,r.sole_source_vendor,r.agency,r.state,r.reason,r.installed_location,r.equipment_class].join(' ').toLowerCase());
 function filtered(){{
   const terms=q.value.toLowerCase().split(/\\s+/).filter(Boolean);
-  return R.filter(r=>(!mfr.value||r.manufacturer===mfr.value)&&(!ag.value||r.agency===ag.value)&&(!obs.checked||r.is_obsolete)&&(cls.size?cls.has(r.equipment_class):(soft.checked||r.is_physical))&&terms.every(t=>r._h.includes(t)))
+  return R.filter(r=>(!mfr.value||r.manufacturer===mfr.value)&&(!ag.value||r.agency===ag.value)&&(!obs.checked||r.is_obsolete)&&(!sup.checked||r.supply.length)&&(cls.size?cls.has(r.equipment_class):(soft.checked||r.is_physical))&&terms.every(t=>r._h.includes(t)))
     .sort((a,b)=>{{const x=a[sortK],y=b[sortK];if(x==null&&y==null)return 0;if(x==null)return 1;if(y==null)return -1;return (x>y?1:x<y?-1:0)*sortD}});
 }}
 function row(r){{
   const mm=r.manufacturer||r.model?`<span class="mm">${{esc(r.manufacturer||'—')}}${{r.is_obsolete?'<span class="ob">OBSOLETE</span>':''}}<small>${{esc(r.model||'')}}</small></span>`:`<span class="mm" style="color:var(--muted)">not stated${{r.is_obsolete?'<span class="ob">OBSOLETE</span>':''}}</span>`;
   const vendor=r.sole_source_vendor&&(r.sole_source_vendor||'').toLowerCase()!==(r.manufacturer||'').toLowerCase()?`<small style="color:var(--muted)">via ${{esc(r.sole_source_vendor)}}</small>`:'';
-  return `<tr><td>${{mm}}</td><td class="pt" data-l="Part">${{esc(r.part)}}${{r.quantity?` <small style="color:var(--muted)">× ${{esc(r.quantity)}}</small>`:''}}<br>${{vendor}}</td><td class="ag" data-l="Agency">${{esc(r.agency)}}, ${{esc(r.state)}}</td><td class="num${{r.price_usd==null?' e':''}}" data-l="Price">${{money(r.price_usd)}}</td><td class="${{r.lead_time?'':'e'}}" data-l="Lead time">${{esc(r.lead_time||'')}}</td><td><div class="reason">“${{esc(r.reason)}}”</div></td><td class="dt" data-l="Date">${{esc(r.date)}}</td><td class="src"><a href="${{esc(r.source_url)}}" target="_blank" rel="noopener">${{/\\.pdf/i.test(r.source_url)?'source PDF':'source notice'}}</a></td></tr>`;
+  const s=r.supply.length?`<details class="sup"><summary>Who has one: ${{r.supply.length}} for sale</summary><ul>${{r.supply.map(l=>`<li><a href="${{esc(l.url)}}" target="_blank" rel="noopener">${{esc(l.title)}}</a><br><small>${{esc(SRC[l.source]||l.source)}} · ${{l.price!=null?money(l.price):'no price shown'}}${{l.location?' · '+esc(l.location):''}} · seen ${{esc(l.seen_at)}}</small></li>`).join('')}}</ul></details>`:'';
+  return `<tr><td>${{mm}}</td><td class="pt" data-l="Part">${{esc(r.part)}}${{r.quantity?` <small style="color:var(--muted)">× ${{esc(r.quantity)}}</small>`:''}}<br>${{vendor}}${{s}}</td><td class="ag" data-l="Agency">${{esc(r.agency)}}, ${{esc(r.state)}}</td><td class="num${{r.price_usd==null?' e':''}}" data-l="Price">${{money(r.price_usd)}}</td><td class="${{r.lead_time?'':'e'}}" data-l="Lead time">${{esc(r.lead_time||'')}}</td><td><div class="reason">“${{esc(r.reason)}}”</div></td><td class="dt" data-l="Date">${{esc(r.date)}}</td><td class="src"><a href="${{esc(r.source_url)}}" target="_blank" rel="noopener">${{/\\.pdf/i.test(r.source_url)?'source PDF':'source notice'}}</a></td></tr>`;
 }}
 function draw(reset){{
   if(reset)page=1;
@@ -221,15 +253,15 @@ function draw(reset){{
   count.textContent=`${{f.length.toLocaleString()}} of ${{R.length.toLocaleString()}} records${{sum?` · ${{money(sum)}} stated`:''}}`;
   more.hidden=show.length>=f.length;
   const u=new URL(location);['q','mfr','agency'].forEach((k,i)=>{{const v=[q,mfr,ag][i].value;v?u.searchParams.set(k,v):u.searchParams.delete(k)}});
-  obs.checked?u.searchParams.set('obs','1'):u.searchParams.delete('obs');cls.size?u.searchParams.set('class',[...cls].join('|')):u.searchParams.delete('class');
+  obs.checked?u.searchParams.set('obs','1'):u.searchParams.delete('obs');sup.checked?u.searchParams.set('sale','1'):u.searchParams.delete('sale');cls.size?u.searchParams.set('class',[...cls].join('|')):u.searchParams.delete('class');
   history.replaceState(null,'',u);
 }}
-[q,mfr,ag,obs,soft].forEach(el=>el.addEventListener('input',()=>draw(true)));
+[q,mfr,ag,obs,soft,sup].forEach(el=>el.addEventListener('input',()=>draw(true)));
 document.querySelectorAll('.chip').forEach(b=>b.addEventListener('click',()=>{{const c=b.dataset.c;cls.has(c)?cls.delete(c):cls.add(c);b.setAttribute('aria-pressed',cls.has(c));draw(true)}}));
 document.querySelectorAll('th[data-k]').forEach(th=>th.addEventListener('click',()=>{{const k=th.dataset.k;if(sortK===k)sortD=-sortD;else{{sortK=k;sortD=k==='price_usd'||k==='date'?-1:1}}draw(true)}}));
 more.addEventListener('click',()=>{{page++;draw(false)}});
 // restore state from the URL
-const p=new URL(location).searchParams;q.value=p.get('q')||'';mfr.value=p.get('mfr')||'';ag.value=p.get('agency')||'';obs.checked=p.get('obs')==='1';
+const p=new URL(location).searchParams;q.value=p.get('q')||'';mfr.value=p.get('mfr')||'';ag.value=p.get('agency')||'';obs.checked=p.get('obs')==='1';sup.checked=p.get('sale')==='1';
 (p.get('class')||'').split('|').filter(Boolean).forEach(c=>{{cls.add(c);const b=document.querySelector(`.chip[data-c="${{c}}"]`);if(b)b.setAttribute('aria-pressed','true')}});
 draw(true);
 </script>

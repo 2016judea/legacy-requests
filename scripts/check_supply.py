@@ -31,6 +31,13 @@ CASES = [
     (FLIR, L("FLIR 7250-117 VIP3D processor board"), True, "second token in model field"),
     (FLIR, L("Teledyne FLIR thermal camera 7250"), False, "prefix of the number only"),
     (XYLEM, L("Xylem 6626 diffuser"), False, "4-digit bare number is not a part number"),
+    ({"id": "f", "manufacturer": "Ford Motor Company", "model": "Ford F-350/450/550",
+      "part": "Light Truck OEM Parts for Ford light trucks"},
+     L("2014 Ford F-350 SD XL Crew Cab 4WD", model="F-350 SD"), False, "a parts contract is not the machine"),
+    ({"id": "p", "manufacturer": "Allen Bradley", "model": "Powerflex 755"},
+     L("Allen-Bradley PowerFlex 755 20G11 drive"), True, "family name + number joined"),
+    ({"id": "p", "manufacturer": "Allen Bradley", "model": "Powerflex 755"},
+     L("Allen Bradley PowerFlex 40 drive"), False, "a different family member"),
 ]
 
 

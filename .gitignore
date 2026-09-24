@@ -8,3 +8,5 @@ data/ingest.log
 .vercel/
 .env
 data/cache/supply/*/sitemaps/
+data/cache/supply/govdeals/
+data/cache/supply/publicsurplus/

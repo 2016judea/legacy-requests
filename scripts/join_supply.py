@@ -29,7 +29,7 @@ credibility. A listing matches a record only when BOTH hold:
   1. Manufacturer: a distinctive word of the record's manufacturer (or a known
      alias: Allen-Bradley <-> Rockwell) appears in the listing's manufacturer or
      title.
-  2. Part number: a part-number-shaped token from the record's model field
+  2. Part number: a part-number-shaped token from the record's model field (or its part_numbers list)
      equals a token in the listing's part_number, model or title, after
      dropping separators ("1756-IB16" == "1756 IB16" == "1756IB16"). A token is
      part-number-shaped when it has a digit and either a letter or 6+ chars, so
@@ -58,6 +58,10 @@ ALIASES = [{"allen", "bradley", "allenbradley", "rockwell"}, {"flir", "teledyne"
 # A part token this common is a word, not a part number.
 PART_STOP = {"series", "model", "type", "unit", "kit", "used", "new"}
 MODEL_SPLIT = re.compile(r"[\s,;/()\[\]#&+|]+")
+# A record that bought "OEM parts for Ford F-350" names the machine the parts
+# fit, not the thing bought, so a surplus F-350 truck is not "one". First live
+# run (2026-09-24) matched 89 whole GovDeals trucks to exactly that record.
+PARTS_CONTRACT = re.compile(r"\bparts\b", re.I)
 
 
 def norm(s: str) -> str:
@@ -106,7 +110,11 @@ def mfr_match(record_mfr: str, listing: dict) -> bool:
 def match(record: dict, listing: dict) -> bool:
     if not record.get("manufacturer") or not record.get("model"):
         return False
+    if PARTS_CONTRACT.search(record.get("part") or ""):
+        return False
     want = part_tokens(record["model"])
+    for pn in record.get("part_numbers") or []:  # verbatim catalog numbers, when the extract found them
+        want |= part_tokens(pn)
     if not want:
         return False
     have = part_tokens(" ".join(str(listing.get(k) or "") for k in ("part_number", "model", "title")))
