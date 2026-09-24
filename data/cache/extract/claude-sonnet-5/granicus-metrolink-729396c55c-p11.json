@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cubic",
+   "model": null,
+   "part": "Optical Reader Installation and Maintenance for Metro Gates (Fare Gate's Optic Readers)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 6215856,
+   "lead_time": null,
+   "sole_source_vendor": "Cubic Transportation Systems, Inc.",
+   "reason": "This service is currently provided by two contractors (Cubic \u2013 Fare Gate\u2019s Optic Readers and ESP\u2013 Maintenance of Single Board Computers).",
+   "equipment_class": "other equipment",
+   "installed_location": "Los Angeles County Metropolitan Transportation Authority (Metro) fare gates",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Maintenance Support for Single Board Computers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1099879.76,
+   "lead_time": null,
+   "sole_source_vendor": "ESP Enterprises, Inc.",
+   "reason": "This service is currently provided by two contractors (Cubic \u2013 Fare Gate\u2019s Optic Readers and ESP\u2013 Maintenance of Single Board Computers).",
+   "equipment_class": "other equipment",
+   "installed_location": "Los Angeles County Metropolitan Transportation Authority (Metro) fare gates",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Knorr Brake Corporation",
+   "model": null,
+   "part": "Air Brake Components (brake calipers, manifolds, and other air brake components) and Overhaul Services for preventive maintenance on the Arrow DMU Fleet",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1500000,
+   "lead_time": null,
+   "sole_source_vendor": "Knorr Brake Corporation",
+   "reason": "requested approval to negotiate a single source contract with Knorr Brake Corporation to allow for the purchasing and overhaul services of brake calipers, manifolds, and other air brake components needed to perform preventive maintenance as required by the FRA on the air brake system of our DMU fleet.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Arrow DMU Fleet",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7606,
+  "out": 1896
+ },
+ "model": "claude-sonnet-5"
+}

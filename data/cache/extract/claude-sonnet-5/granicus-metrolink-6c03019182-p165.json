@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Oxnard Accident Car and Out-Of-Service Car Rehabilitation (rehabilitation of 19 coach and cab railcars)",
+   "part_numbers": [],
+   "quantity": "19 railcars",
+   "price_usd": 21021924.16,
+   "lead_time": null,
+   "sole_source_vendor": "SYSTRA Canada",
+   "reason": "The Authority received a single proposal from SYSTRA Canada (SYSTRA) by the submission date of January 21, 2026, which was found to be responsive and responsible.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5435,
+  "out": 707
+ },
+ "model": "claude-sonnet-5"
+}

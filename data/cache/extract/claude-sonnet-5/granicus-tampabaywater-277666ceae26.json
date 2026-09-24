@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Mitsubishi",
+   "model": null,
+   "part": "Ozone Generation Systems Service, Equipment, Replaceable Parts, and Consumable Supplies",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fin-Tek Corporation",
+   "reason": "Fin-Tek Ozone is the exclusive service provider authorized by Mitsubishi Electric Company to supply factory parts and service for the United States market.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Lithia Hydrogen Sulfide Removal Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2856,
+  "out": 253
+ },
+ "model": "claude-sonnet-5"
+}

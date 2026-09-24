@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Cab Room Camera and Locomotive Digital Video Recorder (LDVR) system replacement kit for Hyundai-Rotem Cab Car",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 663252.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The components of the existing system have become obsolete, with increasing failure rates in recent years.",
+   "equipment_class": "other equipment",
+   "installed_location": "Hyundai-Rotem Cab Car",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Cab Room Camera and Locomotive Digital Video Recorder (LDVR) system replacement kit for F125 Locomotive",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 465440.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The components of the existing system have become obsolete, with increasing failure rates in recent years.",
+   "equipment_class": "other equipment",
+   "installed_location": "F125 Locomotive",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Cab Room Camera and Locomotive Digital Video Recorder (LDVR) system replacement kit for MP36PH-3C Locomotive",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 174540.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The components of the existing system have become obsolete, with increasing failure rates in recent years.",
+   "equipment_class": "other equipment",
+   "installed_location": "MP36PH-3C Locomotive",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Cab Room Camera and Locomotive Digital Video Recorder (LDVR) system replacement kit for F59PHR Locomotive",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 58180.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The components of the existing system have become obsolete, with increasing failure rates in recent years.",
+   "equipment_class": "other equipment",
+   "installed_location": "F59PHR Locomotive",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Spare units for Cab Room Camera and LDVR system (Option Order 1)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 174540.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The components of the existing system have become obsolete, with increasing failure rates in recent years.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Installation of all Cab Room Camera and LDVR system units (Option Order 2)",
+   "part_numbers": [],
+   "quantity": "all units",
+   "price_usd": 145200.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The components of the existing system have become obsolete, with increasing failure rates in recent years.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Cab Room Camera and LDVR system replacement kit for Stadler DMU & ZEMU (Option Order 3)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 46544.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The components of the existing system have become obsolete, with increasing failure rates in recent years.",
+   "equipment_class": "other equipment",
+   "installed_location": "Stadler DMU & ZEMU",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5020,
+  "out": 2989
+ },
+ "model": "claude-sonnet-5"
+}

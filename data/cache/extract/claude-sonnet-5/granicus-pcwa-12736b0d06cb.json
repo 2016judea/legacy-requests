@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rockwell Automation",
+   "model": "Allen-Bradley",
+   "part": "Purchase and installation of wash water recovery pump controls (VFD/PLC controls) at Bowman Water Treatment Plant",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 147900.0,
+   "lead_time": null,
+   "sole_source_vendor": "Rexel USA, Inc.",
+   "reason": "Rockwell Automation, the sole developer of Allen-Bradley hardware and software, has certified that Rexel USA, Inc. is the sole distributor in Northern California for all sales and support services related to this request.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Bowman Water Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2943,
+  "out": 262
+ },
+ "model": "claude-sonnet-5"
+}

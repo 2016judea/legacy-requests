@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Oracle",
+   "model": "Aconex",
+   "part": "Oracle Aconex Software as a Service (SAAS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1183451.51,
+   "lead_time": null,
+   "sole_source_vendor": "DLT Solutions LLC",
+   "reason": "Expansion or modification of previously competitively procured proprietary software from an original provider when the original provider is the only source of such software and/or related services",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5892,
+  "out": 1286
+ },
+ "model": "claude-sonnet-5"
+}

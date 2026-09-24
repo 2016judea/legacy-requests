@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rockwell Automation",
+   "model": "PlantPAx",
+   "part": "consolidate the control of the RW system into a unified Rockwell Automation PlantPAx SCADA system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "consolidate the control of the RW system into a unified Rockwell Automation PlantPAx SCADA system and provide a reliable, scalable, and secure SCADA infrastructure",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Recycled Water (RW) system",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "DeviceNet",
+   "part": "upgrade obsolete DeviceNet technology to reduce network failure downtime",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "upgrade obsolete DeviceNet technology to reduce network failure downtime",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Recycled Water (RW) system",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "remote control and monitoring solutions for surge tanks",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "analysis and design for remote control and monitoring solutions of ancillary equipment (including surge tanks, air compressors, and pump resistance temperature detectors)",
+   "equipment_class": "other equipment",
+   "installed_location": "Recycled Water (RW) system",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "remote control and monitoring solutions for air compressors",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "analysis and design for remote control and monitoring solutions of ancillary equipment (including surge tanks, air compressors, and pump resistance temperature detectors)",
+   "equipment_class": "other equipment",
+   "installed_location": "Recycled Water (RW) system",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "remote control and monitoring solutions for pump resistance temperature detectors",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "analysis and design for remote control and monitoring solutions of ancillary equipment (including surge tanks, air compressors, and pump resistance temperature detectors)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Recycled Water (RW) system",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3325,
+  "out": 2236
+ },
+ "model": "claude-sonnet-5"
+}

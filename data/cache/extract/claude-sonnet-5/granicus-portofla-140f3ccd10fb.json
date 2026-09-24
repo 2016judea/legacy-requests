@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Taser 10",
+   "part": "Conducted electrical weapons (Taser Devices) including training, field cartridges, and batteries",
+   "part_numbers": [],
+   "quantity": "165 Taser Devices, 10 certification bundles",
+   "price_usd": 874366.97,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Axon Enterprise, Inc. is the sole manufacturer of the Taser Devices, which are a law enforcement industry standard to provide a less-than-lethal option in the use of force continuum.",
+   "equipment_class": "other equipment",
+   "installed_location": "Port Police",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4515,
+  "out": 252
+ },
+ "model": "claude-sonnet-5"
+}

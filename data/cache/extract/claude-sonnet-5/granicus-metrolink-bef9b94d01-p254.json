@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "spider shaft (locomotive part)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the spider shafts are not breaking as frequently and are in the inventory",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "fuel manifold (locomotive part)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff has made modifications to the fuel manifold over the last several months so now there are more parts available",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7506,
+  "out": 1030
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,13 @@
+{
+ "platform": "granicus",
+ "agency": "City of San Marcos",
+ "state": "CA",
+ "host": "sanmarcos",
+ "views": [
+  3
+ ],
+ "since": "2024-01-01",
+ "meetings_read": 104,
+ "ingested": "2026-09-24",
+ "matters": []
+}

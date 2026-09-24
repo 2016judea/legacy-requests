@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Larue",
+   "model": "D65",
+   "part": "Snow Blower",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Snoquip, Inc.",
+   "reason": "Consider approving the purchase of a Larue D65 Snow Blower from Snoquip, Inc., using the Sourcewell Cooperative Purchase Contract #062222-JAL.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "XQ125",
+   "part": "Diesel Powered Generator",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Holt of California",
+   "reason": "Consider approving the purchase of a XQ125 Diesel Powered Generator from Holt of California using the Sourcewell Cooperative Purchase Contract #092222-CAT.",
+   "equipment_class": "generator",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6120,
+  "out": 1294
+ },
+ "model": "claude-sonnet-5"
+}

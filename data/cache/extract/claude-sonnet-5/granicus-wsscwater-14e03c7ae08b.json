@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Ford OEM Certified Service Work (diagnostics, certified repairs, warranty covered repairs) for fleet vehicles",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1200000,
+   "lead_time": null,
+   "sole_source_vendor": "Koons of Silver Spring, Inc. and Capitol Fleet Service LLC d/b/a Chesapeake Ford of DC",
+   "reason": "When performing warranty repairs, WSSC Water is still required to use Ford OEM parts to maintain compliance with manufacturer requirements.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Montgomery County / Both Counties",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4974,
+  "out": 260
+ },
+ "model": "claude-sonnet-5"
+}

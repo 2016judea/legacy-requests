@@ -1,0 +1,29 @@
+{
+ "platform": "granicus",
+ "agency": "Coachella Valley Water District",
+ "state": "CA",
+ "host": "cvwd",
+ "views": [
+  1
+ ],
+ "since": "2024-01-01",
+ "meetings_read": 23,
+ "ingested": "2026-09-24",
+ "matters": [
+  {
+   "matter_id": "c71d2c9fbb3b",
+   "title": "Workplace Violence Prvention Plan Security Upgrades - Staff Memo _final",
+   "url": "https://cvwd.granicus.com/MetaViewer.php?view_id=1&clip_id=220&meta_id=15943",
+   "text": "D. \r\n **Consider Budget Change Form for Workplace Violence Prevention Plan safety upgrades for a budget amount of $16,000\nWorkplace Violence Prvention Plan Security Upgrades - Staff Memo _final\nE. \r\n **Consider Authorization to engage Hoffman, Vance and Worthington, INC. to provide real property appraisal services for the CAPP in an amount not to exceed $5,000",
+   "attachments": [
+    {
+     "name": "Workplace Violence Prvention Plan Security Upgrades - Staff Memo _final",
+     "url": "https://cvwd.granicus.com/MetaViewer.php?view_id=1&clip_id=220&meta_id=15943",
+     "path": "data/cache/pdf/c71d2c9fbb3b4a4352b8590ca0c2e1266fce6b93.pdf"
+    }
+   ],
+   "intro_date": "2024-10-23",
+   "file": "Regular Board & CGSA Meeting"
+  }
+ ]
+}

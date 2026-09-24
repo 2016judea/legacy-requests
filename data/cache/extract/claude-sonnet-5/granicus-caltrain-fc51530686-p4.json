@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Wabtec",
+   "model": null,
+   "part": "Predictive Arrival and Departure Systems (PADS) and Rail Operations Control System (ROCS) Improvements",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 856798,
+   "lead_time": "Sixteen-Month Term",
+   "sole_source_vendor": "Wabtec Transportation Systems, LLC",
+   "reason": "Proprietary systems; only Watbec Transportation Systems, LLC (Watbec) can provide services",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6272,
+  "out": 1349
+ },
+ "model": "claude-sonnet-5"
+}

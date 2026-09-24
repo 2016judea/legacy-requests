@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "F-125 Locomotive",
+   "part": "Rolling stock / locomotive replacement components procured under OEM annual contracts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "6 months to 18 months",
+   "sole_source_vendor": null,
+   "reason": "Most of the F125 locomotive components are sole source or single sourced.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4726,
+  "out": 535
+ },
+ "model": "claude-sonnet-5"
+}

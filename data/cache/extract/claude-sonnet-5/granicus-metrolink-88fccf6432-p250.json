@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": "KWD Kupplungswerk Dresden AG",
+   "model": null,
+   "part": "Spider Shaft Kits for F125 Locomotives",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 350000,
+   "lead_time": null,
+   "sole_source_vendor": "KWD AG",
+   "reason": "Single Source",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Elerts Corporation",
+   "model": "ELERTS",
+   "part": "Mobile Reporting Application: ELERTS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 267184,
+   "lead_time": null,
+   "sole_source_vendor": "Elerts Corporation",
+   "reason": "Elerts           - Sole Source",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Voith, US Inc.",
+   "model": null,
+   "part": "Couplers for F125 Locomotives and Rotem Cars",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 250000,
+   "lead_time": null,
+   "sole_source_vendor": "Voith, US Inc.",
+   "reason": "Single Source",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Repair and Return of Bi-Level and Locomotive Wheels",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 320000,
+   "lead_time": null,
+   "sole_source_vendor": "ORX Railway Corp",
+   "reason": "Single Source",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motivepower",
+   "model": null,
+   "part": "Motivepower OEM Locomotive Parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 450000,
+   "lead_time": null,
+   "sole_source_vendor": "Motivepower LLC",
+   "reason": "Sole Source",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hyundai Rotem",
+   "model": null,
+   "part": "Purchase of Hyundai Rotem OEM parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 400000,
+   "lead_time": null,
+   "sole_source_vendor": "Hyundai Rotem USA",
+   "reason": "Sole Source",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Train Wash Detergent",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 495060,
+   "lead_time": null,
+   "sole_source_vendor": "Integrated Chemical & Equipment",
+   "reason": "IFB",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6041,
+  "out": 4038
+ },
+ "model": "claude-sonnet-5"
+}

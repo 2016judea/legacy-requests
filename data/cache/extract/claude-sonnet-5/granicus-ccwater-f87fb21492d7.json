@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "YSI",
+   "model": "EXO2",
+   "part": "YSI EXO2 Multiparameter Sonde, 10m Depth, 7 Sensor Ports",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": 32200,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "to match and be compatible with equipment in use at CCWD's Los Vaqueros Watershed",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Old River Pump Station, Middle River Pump Station, and Rock Slough Intake",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI",
+   "model": null,
+   "part": "YSI Multiparameter Sensors",
+   "part_numbers": [],
+   "quantity": "32",
+   "price_usd": 52100,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "to match and be compatible with equipment in use at CCWD's Los Vaqueros Watershed",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Old River Pump Station, Middle River Pump Station, and Rock Slough Intake",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI",
+   "model": null,
+   "part": "YSI Flying Lead Cables",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": 24760,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "to match and be compatible with equipment in use at CCWD's Los Vaqueros Watershed",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Old River Pump Station, Middle River Pump Station, and Rock Slough Intake",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI",
+   "model": null,
+   "part": "YSI Modbus Signal Output Adapters",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": 6460,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "to match and be compatible with equipment in use at CCWD's Los Vaqueros Watershed",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Old River Pump Station, Middle River Pump Station, and Rock Slough Intake",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI",
+   "model": null,
+   "part": "YSI Anti-Fouling Equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 11360,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "to match and be compatible with equipment in use at CCWD's Los Vaqueros Watershed",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Old River Pump Station, Middle River Pump Station, and Rock Slough Intake",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI",
+   "model": null,
+   "part": "YSI Calibration Equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 4248,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "to match and be compatible with equipment in use at CCWD's Los Vaqueros Watershed",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Old River Pump Station, Middle River Pump Station, and Rock Slough Intake",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5924,
+  "out": 2760
+ },
+ "model": "claude-sonnet-5"
+}

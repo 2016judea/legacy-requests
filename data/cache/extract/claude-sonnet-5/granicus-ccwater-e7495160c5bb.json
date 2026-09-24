@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Elevator modernization: new control system, upgraded fixtures, and replacement of associated wiring",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 170000,
+   "lead_time": null,
+   "sole_source_vendor": "Paramount Elevator Corporation",
+   "reason": "sole source procurement of Paramount Elevator Corporation (Paramount) is recommended to complete this scope of work",
+   "equipment_class": "other equipment",
+   "installed_location": "District Center",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3404,
+  "out": 246
+ },
+ "model": "claude-sonnet-5"
+}

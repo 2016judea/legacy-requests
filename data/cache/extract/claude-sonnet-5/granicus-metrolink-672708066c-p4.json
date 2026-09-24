@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "MP36",
+   "part": "MP36 Locomotive Service Life Extension and Repair",
+   "part_numbers": [],
+   "quantity": "4 base order, up to 11 option order",
+   "price_usd": 37605220.74,
+   "lead_time": null,
+   "sole_source_vendor": "Higher Power Industries (HPI)",
+   "reason": "In an effort to provide robust service for the 2028 Olympic and Paralympic Games and ensure a general state of good repair for the Authority's rolling stock fleet",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Brake pads and shoes for locomotive and rail cars",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 350000,
+   "lead_time": null,
+   "sole_source_vendor": "Railroad Friction Products Corporation",
+   "reason": "The Materials Management Department utilizes contract PO857-21 to purchase the Brake pads and shoes required to support maintenance of the Authority's rolling stock.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Procurement of new parts and repair and return services for locomotive fleet maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 8000000,
+   "lead_time": null,
+   "sole_source_vendor": "Progress Rail Locomotive Inc",
+   "reason": "seeking approval to negotiate a multi-year sole source contract with Progress Rail Locomotive Inc",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Procurement of new parts and repair and return services for locomotive fleet maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 6500000,
+   "lead_time": null,
+   "sole_source_vendor": "Quinn Power Systems Inc",
+   "reason": "a multi-year single source contract with Quinn Power Systems to allow for the purchase of new parts and for repair services needed to perform maintenance of the Authority's locomotive fleet",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "20-Ton portable rail jacks for ZEMU",
+   "part_numbers": [],
+   "quantity": "one set of 12 20-ton jacks, plus one spare",
+   "price_usd": 591611.96,
+   "lead_time": null,
+   "sole_source_vendor": "BBM Railway Equipment, LLC",
+   "reason": "The Authority requires a set of 20-ton portable jacks to accommodate the new Stadler Zero Emission Multiple Unit (ZEMU).",
+   "equipment_class": "other equipment",
+   "installed_location": "Arrow Maintenance Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5586,
+  "out": 4423
+ },
+ "model": "claude-sonnet-5"
+}

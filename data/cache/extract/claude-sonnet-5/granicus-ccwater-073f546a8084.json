@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "ozone generator components and other project-related equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "authorizing sole source procurement of ozone generator components and other project-related equipment.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "RBWTP",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1927,
+  "out": 439
+ },
+ "model": "claude-sonnet-5"
+}

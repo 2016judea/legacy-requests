@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Systemwide CCTV System - Replacement and Expansion Program (replace old, obsolete CCTV system)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The Systemwide CCTV System - Replacement and Expansion Program will replace the old, obsolete CCTV system",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Intrusion Detection Pilot Program hardware along right-of-way at critical locations",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "will plan, procure, and install hardware along the right-of-way at critical locations, such as grade crossings, tunnels, and other high-risk right-of-way locations, to detect trespasser activities and enable quick and efficient response",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Acoustic Monitoring System to monitor cracks and damage of the San Francisquito Creek Bridge",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Caltrain will procure and install an Acoustic Monitoring System to ensure timely action.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Francisquito Creek Bridge",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "PTC Back Office System (BOS)",
+   "part": "PTC BOS - Technology Refresh and Replacement (procure new PTC Back Office System)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The PTC BOS - Technology Refresh and Replacement project will procure a new PTC BOS that is modern, supported, and meets evolving industry standards.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fiber optic infrastructure permanent repair (backbone of critical operational train control systems and broadband communication infrastructure)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The fiber optic system has deteriorated and sustained damage, and needs to be permanently repaired as soon as possible.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Uninterruptible power supply (UPS) at the San Jos\u00e9 Control Center (SJCC)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The uninterruptible power supply (UPS) at the San Jos\u00e9 Control Center (SJCC) is beyond its useful life, undersized, and has failed multiple times.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "San Jos\u00e9 Control Center (SJCC)",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5359,
+  "out": 2192
+ },
+ "model": "claude-sonnet-5"
+}

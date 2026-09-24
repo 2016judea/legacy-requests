@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Technology refresh of the obsolete RDS (Radio Dispatch System) with digital components utilizing the JPB fiber network",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "TASI",
+   "reason": "The current RDS hardware and software are obsolete and no longer supported by the manufacturer.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "AT&T",
+   "model": "T1",
+   "part": "AT&T T1 analog leased lines",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AT&T",
+   "reason": "AT&T T1 analog leased lines are obsolete, and AT&T will no longer support them.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Digital VoIP phones",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "TASI",
+   "reason": "to utilize the JPB fiber network and the digital VoIP phones.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Virtual server added to provide redundancy for PADS operation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Virtually add server to provide redundancy for PADS operation, which will increase system liability and availability.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Display of train information on Visual Messaging Sign (VMS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Adding new Electric Multiple Unit (EMU) into existing PADS to process EMU location with timetable, and display train information on Visual Messaging Sign (VMS).",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Wabtec",
+   "model": null,
+   "part": "PADS improvement technical specification/proposal (arrival prediction, GTFS real-time feed, messaging enhancements)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Wabtec",
+   "reason": "The Wabtec Contract Award is subject to approval at the JPB board meeting on March 5, 2026.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Wayside application logic development (RSE) as an input to ROCS/PADS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "RSE",
+   "reason": "Wayside application logic development (RSE) as an input to ROCS/PADS, is in a pause due to a change request from supplier RSE.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8100,
+  "out": 4988
+ },
+ "model": "claude-sonnet-5"
+}

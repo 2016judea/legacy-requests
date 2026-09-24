@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Daikin",
+   "model": "WSC",
+   "part": "chiller OEM support/service - critical components obsolete",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Daikin Applied",
+   "reason": "Over the years, there have been improvements on the WSC platform, and some critical components have been made obsolete.",
+   "equipment_class": "HVAC",
+   "installed_location": "San Antonio Station/194 Mayfield Ave",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4177,
+  "out": 438
+ },
+ "model": "claude-sonnet-5"
+}

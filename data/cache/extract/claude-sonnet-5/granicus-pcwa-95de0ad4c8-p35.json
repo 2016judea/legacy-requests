@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Chemtrac",
+   "model": "PC3400",
+   "part": "Online Particle Counters and communication cards",
+   "part_numbers": [],
+   "quantity": "15",
+   "price_usd": 108600,
+   "lead_time": null,
+   "sole_source_vendor": "Ryan Process, Inc.",
+   "reason": "Ryan Process, Inc. is the sole source for the Chemtrac Particle Counters and communication cards.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Foothill Water Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4911,
+  "out": 192
+ },
+ "model": "claude-sonnet-5"
+}

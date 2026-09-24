@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Technology refresh of the obsolete RDS (Radio Dispatch System) utilizing the JPB fiber network and the digital VoIP phones",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Technology refresh of the obsolete RDS (Radio Dispatch System) utilize the JPB fiber network and the digital VoIP phones",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2531,
+  "out": 559
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "prepurchase of two Motor Control Centers",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 223986,
+   "lead_time": null,
+   "sole_source_vendor": "Royal Industrial Solutions",
+   "reason": "",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "RP-5 Offsite Facilities Project, No. EN19001.03",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "prepurchase of two Motor Control Centers",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 148737,
+   "lead_time": null,
+   "sole_source_vendor": "Royal Industrial Solutions",
+   "reason": "",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "City of Chino Hills Butterfield Lift Station Project, No. EN26054",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3965,
+  "out": 1532
+ },
+ "model": "claude-sonnet-5"
+}

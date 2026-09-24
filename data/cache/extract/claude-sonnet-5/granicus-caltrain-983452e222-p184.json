@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "RDS (Radio Dispatch System) hardware and software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The current RDS hardware and software are obsolete and no longer supported by the manufacturer.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "AT&T",
+   "model": null,
+   "part": "T1 analog leased lines",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AT&T",
+   "reason": "AT&T T1 analog leased lines are obsolete, and AT&T will no longer support them.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Digital VoIP phones utilizing JPB fiber network to replace obsolete RDS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The scope is to perform a technology refresh of the obsolete RDS (Radio Dispatch System) with digital components to utilize the JPB fiber network and the digital VoIP phones.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8012,
+  "out": 2348
+ },
+ "model": "claude-sonnet-5"
+}

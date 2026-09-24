@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "VMS Replacement - new VMS and passenger information system at Caltrain stations",
+   "part_numbers": [],
+   "quantity": "122",
+   "price_usd": 6800000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The current VMS are no longer supported by the manufacturer.",
+   "equipment_class": "other equipment",
+   "installed_location": "Caltrain stations - Corridor-wide",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "PADS Phase 2: Modernization - passenger information/train prediction system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 7000000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The existing PADS was designed in 2012, deployed in 2014, and has reached the end of its useful life.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Corridor-wide",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "PA Overhaul and Digitization at Stations - speakers, amplifier, zone controllers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3000000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The audio (speaker, amplifier, zone controller) at stations are obsolete.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Corridor-wide stations",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": "BEMU",
+   "part": "Procurement of six additional BEMU trains for service to Gilroy",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": 300000000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This project includes the procurement of six additional BEMU trains to provide additional service to Gilroy before the electrification of this part of the corridor, which is part of the HSR project.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Corridor-wide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Migration to Digital Voice Radio System - replace obsolete radio equipment for crews",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2000000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This program is part of the continual effort to migrate toward a digital voice radio system to replace existing obsolete equipment for crews working in the operating right-of-way or onboard trains.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Corridor-wide",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "VHF Voice Radio Modernization and Optimization - Tunnels Coverage and New Emergency Services Capability",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3000000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The current voice and PTC systems utilize a leaky coaxial design to provide radio coverage in Caltrain's tunnels, which has been inadequate for train crews to communicate to dispatch",
+   "equipment_class": "communications/radio",
+   "installed_location": "Corridor-wide - tunnels",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11409,
+  "out": 3514
+ },
+ "model": "claude-sonnet-5"
+}

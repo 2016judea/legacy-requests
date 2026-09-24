@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Infoblox",
+   "model": null,
+   "part": "Infoblox appliances",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 91200,
+   "lead_time": null,
+   "sole_source_vendor": "ePlus Technology, Inc.",
+   "reason": "under NASPO Master Contract Number AR2472",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4707,
+  "out": 725
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Veolia Water Technologies Treatment Solutions USA, Inc.",
+   "model": null,
+   "part": "Ozone Generator Power Supply Unit and Vessel Components",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 537873,
+   "lead_time": "Up to 56 weeks",
+   "sole_source_vendor": "Veolia Water Technologies Treatment Solutions USA, Inc.",
+   "reason": "Sole source procurement from Veolia Water Technologies Treatment Solutions USA, Inc. (Veolia) is required to ensure that the new electrical components are compatible with the ozone generator system",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Randall-Bold Water Treatment Plant (RBWTP) Ozone Generator No. 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "nVent Hoffman",
+   "model": null,
+   "part": "Control Wiring Panel",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 18000,
+   "lead_time": "Up to 56 weeks",
+   "sole_source_vendor": "nVent Hoffman",
+   "reason": "Sole source procurement of the control wiring panel from nVent Hoffman (Hoffman) is also recommended to standardize operation, repair, and maintenance across the three ozone generators.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Randall-Bold Water Treatment Plant (RBWTP) Ozone Generator No. 3",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5162,
+  "out": 1022
+ },
+ "model": "claude-sonnet-5"
+}

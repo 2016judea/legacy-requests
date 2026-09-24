@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Canal Automation Control Panels",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5434,
+   "lead_time": null,
+   "sole_source_vendor": "Telstar Instruments",
+   "reason": "Approve Amendment No. 1 to Procurement Contract No. #P-25-01 for the purchase of Canal Automaton Control Panels from Telstar Instruments in the amount of $5,434.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4052,
+  "out": 197
+ },
+ "model": "claude-sonnet-5"
+}

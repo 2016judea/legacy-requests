@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Konecranes",
+   "model": null,
+   "part": "Preventative Crane Maintenance and Periodic Compliance Inspection Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 40094.0,
+   "lead_time": null,
+   "sole_source_vendor": "Konecranes Inc.",
+   "reason": "Approve Amendment No. 2 to General Services Agreement No. FS-2461063 for Preventa ve Crane Maintenance and Periodic Compliance Inspec on Services with Konecranes Inc. in an additional amount not to exceed $40,094.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4603,
+  "out": 518
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Wabtec Transportation Systems, LLC",
+   "model": null,
+   "part": "Upgrade and modify software and infrastructure for Predictive Arrival and Departure System (PADS) and Rail Operations Control System (ROCS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 856798,
+   "lead_time": "sixteen-month term",
+   "sole_source_vendor": "Wabtec Transportation Systems, LLC",
+   "reason": "Wabtec is the original product provider, who holds proprietary ownership and licensing rights for the JPB\u2019s Train Control Systems since 2014.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7695,
+  "out": 719
+ },
+ "model": "claude-sonnet-5"
+}

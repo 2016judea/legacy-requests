@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "SSI Aeration, Inc.",
+   "model": "Fine Diffuser 270E",
+   "part": "Secondary treatment aeration disc diffusers standardized for all Regional Water Recycling Plants",
+   "part_numbers": [
+    "AFD270E"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SSI Aeration, Inc.",
+   "reason": "it is valid to use SSI Aeration, Inc. disc diffusers for secondary treatment for all Regional Water Recycling Plants: RP-1, RP-4, RP-5, and CCWRF",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Regional Water Recycling Plants: RP-1, RP-4, RP-5, and CCWRF",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4122,
+  "out": 956
+ },
+ "model": "claude-sonnet-5"
+}

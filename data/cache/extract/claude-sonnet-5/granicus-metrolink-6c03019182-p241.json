@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Train Wash Upgrade Project - repairs and upgrades including new water reclamation system and pH neutralization system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 769117.59,
+   "lead_time": "270 calendar days",
+   "sole_source_vendor": null,
+   "reason": "The Project Manager performed a price analysis and determined that N/S Corporation's submitted bid to be fair and reasonable.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Metrolink Central Maintenance Facility (CMF)",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3627,
+  "out": 738
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Mokveld Valves BV",
+   "model": "Axial Control Valve",
+   "part": "60-inch Low Level Outlet (LLO) axial control valve to replace existing Howell-Bunger discharge valve at Hell Hole Dam",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 2342185,
+   "lead_time": null,
+   "sole_source_vendor": "Mokveld Valves BV",
+   "reason": "Sole source procurement with Mokveld Valves BV is requested due to the unique and specialized nature of their axial control valve as no other valve type or manufacturer can meet these technical and operational requirements.",
+   "equipment_class": "valve",
+   "installed_location": "Hell Hole Dam Low Level Outlet",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Mokveld Valves BV",
+   "model": "Axial Control Valve",
+   "part": "20-inch Stream Maintenance Valve (SMV) axial control valve replacement",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mokveld Valves BV",
+   "reason": "The SMV has also reached the end of its operational life and staff proposes to replace it with a 20-inch Mokveld ACV, which will also eliminate the need for the existing energy dissipation piping associated with the SMV.",
+   "equipment_class": "valve",
+   "installed_location": "Hell Hole Dam",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4076,
+  "out": 732
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stadler",
+   "model": "EMU (Electric Multiple Unit)",
+   "part": "Technical support, spare supply, and materials management services for EMU maintenance, including SRMS and RDS systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stadler",
+   "reason": "Stadler as the only vendor with technical qualification and Federal Rail Administration (FRA) compliance",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Caltrain",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Electrified Rail Support Services covering traction power and Overhead Catenary System (OCS) enhancement work",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "US Rail Systems",
+   "reason": "Caltrain\\u2019s traction power and OCS technical lead during construction and experience with high speed and electrified rail systems in Europe",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Caltrain",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Surplus materials and spare parts transferred by BBII to JPB for maintenance of new PCEP infrastructure",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2500000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "provide Caltrain with a valuable just-in-time resource to support Caltrain\\u2019s maintenance of its new infrastructure and mitigate the risk of delays and cost increases associated with supply chain issues",
+   "equipment_class": "other equipment",
+   "installed_location": "Peninsula Corridor Electrification Project (PCEP)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8194,
+  "out": 2791
+ },
+ "model": "claude-sonnet-5"
+}

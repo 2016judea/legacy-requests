@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cubic Transportation Systems, Inc.",
+   "model": null,
+   "part": "Optical Reader Installation and Maintenance for Metro Gates",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 6215856,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The Authority requires continued maintenance of the optical scanners located at Los Angeles County Metropolitan Transportation Authority (Metro) fare gates to ensure seamless system transfer for Metrolink riders.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Los Angeles County Metropolitan Transportation Authority (Metro) fare gates",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Maintenance Support for Single Board Computers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1099879.76,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "ESP \u2013 Maintenance of Single Board Computers",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Knorr Brake Corporation",
+   "model": null,
+   "part": "Air Brake Components (brake calipers, manifolds, other air brake components) and Overhaul Services for Arrow DMU Fleet",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1500000,
+   "lead_time": null,
+   "sole_source_vendor": "Knorr Brake Corporation",
+   "reason": "brake calipers, manifolds, and other air brake components needed to perform preventive maintenance as required by the FRA",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Arrow DMU Fleet",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5526,
+  "out": 2634
+ },
+ "model": "claude-sonnet-5"
+}

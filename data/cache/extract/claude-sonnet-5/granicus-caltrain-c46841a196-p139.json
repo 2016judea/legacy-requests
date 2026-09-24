@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Systemwide CCTV System - Replacement and Expansion (cameras at grade crossings, stations, and facilities)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 33000000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "will replace the old, obsolete CCTV system and integrate the soon-to-be-released FRA compliance requirement for CCTV",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "four-quadrant gates",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5500000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "four-quadrant gates, which will improve safety and visibility for motorists, pedestrians, and trains while reducing the likelihood of collisions at the crossing",
+   "equipment_class": "other equipment",
+   "installed_location": "4th and 5th Avenues in Downtown San Mateo",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "new concrete track panels, modified pedestrian gates, pavement markers, and advanced signal preemption",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2500000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "modifying the existing pedestrian gates, installing pavement markers and markings to clearly identify the railroad tracks, and adding advanced signal preemption",
+   "equipment_class": "other equipment",
+   "installed_location": "Churchill Avenue in Palo Alto",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "hardware along the right-of-way to detect trespasser activities",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5200000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "plan, procure, and install hardware along the right-of-way at critical locations, such as grade crossings, tunnels, and other high-risk right-of-way locations, to detect trespasser activities",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "strategically placed camera and server replacements",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1000000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Improvements will include strategically placed camera and server replacements and additional safety measures, such as new fencing",
+   "equipment_class": "other equipment",
+   "installed_location": "San Francisco 4th and King Yard, CEMOF, Diridon-San Jos\u00e9 Station, and Millbrae Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "pavement markers and marking, signage, channelization, and signaling",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3500000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Improvements to the crossing may include pavement markers and marking, signage, channelization, and signaling",
+   "equipment_class": "other equipment",
+   "installed_location": "Main Street in Redwood City",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "pavement markers and marking, signage, channelization, and signaling",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Safety improvements for each at grade crossing location include pavement markers and marking, signage, channelization, and signaling",
+   "equipment_class": "other equipment",
+   "installed_location": "16th Street, San Francisco; Mission Bay, San Francisco; East Meadow, Palo Alto; Whipple Avenue, Redwood City; Ravenswood Avenue, Menlo Park",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "advanced signal preemption, replacement of grade crossing warning devices, and installation of new pedestrian gates with flashers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2900000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Improvements for this intersection include advanced signal preemption, replacement of grade crossing warning devices, and installation of new pedestrian gates with flashers",
+   "equipment_class": "other equipment",
+   "installed_location": "Charleston Road in Palo Alto",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "RWP Safety System to protect workers in the Caltrain right-of-way, integrated with the PTC system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 19500000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The system will provide continuous communication between the workers and the Central Control Center and will be integrated with the Caltrain PTC system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5234,
+  "out": 6334
+ },
+ "model": "claude-sonnet-5"
+}

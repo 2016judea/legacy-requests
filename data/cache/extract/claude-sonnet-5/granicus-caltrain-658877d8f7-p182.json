@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stadler",
+   "model": "KISS EMU",
+   "part": "Technical Support, Spare Supply, and Materials Management Services for EMU fleet",
+   "part_numbers": [],
+   "quantity": "23 trainsets",
+   "price_usd": 71640363,
+   "lead_time": null,
+   "sole_source_vendor": "Stadler US, Inc.",
+   "reason": "staff determined that Stadler is the only vendor qualified to integrate all of the different components (technical support, proprietary material management software to track maintenance needs, and perform supply and procurement management)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "CEMOF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stadler",
+   "model": "Stadler Rail Maintenance System (SRMS)",
+   "part": "Proprietary software/information system for EMU maintenance tracking and materials management",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stadler US, Inc.",
+   "reason": "The JPB\\u2019s entire material supply management process will be realized within Stadler\\u2019s proprietary software, SRMS",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "CEMOF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stadler",
+   "model": "Rail Data Services (RDS)",
+   "part": "Rail data services software for EMU operations support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stadler US, Inc.",
+   "reason": "The support services include training and the use of Stadler\\u2019s proprietary software and information system, specifically its Stadler Rail Maintenance System (SRMS) and Rail Data Services (RDS)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stadler",
+   "model": "EMU",
+   "part": "Spare parts, materials and consumables for EMU fleet maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "over a year",
+   "sole_source_vendor": "Stadler US, Inc.",
+   "reason": "TASI also lacks the familiarity with the supply chain needed to timely deliver spare parts for the EMUs, some of which have lead times over a year",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "CEMOF",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11290,
+  "out": 824
+ },
+ "model": "claude-sonnet-5"
+}

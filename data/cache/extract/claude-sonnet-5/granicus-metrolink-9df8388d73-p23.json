@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "F125",
+   "part": "Intermediate engine overhaul for F125 locomotive fleet",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 34551052.57,
+   "lead_time": null,
+   "sole_source_vendor": "Quinn Company dba Quinn Power Systems, Inc.",
+   "reason": "The Authority's F125 locomotive fleet requires an intermediate engine overhaul to meet the Original Equipment Manufacturer (OEM) recommendations for maintaining a State of Good Repair",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Train Operation and Maintenance Services (TOMS) for Metrolink and Arrow rolling stock and related facilities, including materials management for maintenance of rolling stock equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1121666447.86,
+   "lead_time": null,
+   "sole_source_vendor": "Alstom Transport USA Inc.",
+   "reason": "a new Train Operation and Maintenance Services contract is required for the Authority\u2019s rolling stock and related facilities and for the train crew operation",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6499,
+  "out": 2575
+ },
+ "model": "claude-sonnet-5"
+}

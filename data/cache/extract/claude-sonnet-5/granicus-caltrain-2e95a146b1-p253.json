@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Meteorcomm",
+   "model": null,
+   "part": "Radio Maintenace Contract",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 802000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Meteorcomm",
+   "reason": "Radio Maintenace Contract",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3593,
+  "out": 201
+ },
+ "model": "claude-sonnet-5"
+}

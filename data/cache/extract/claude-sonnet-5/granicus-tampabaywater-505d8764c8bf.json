@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Design Phase Services for SCADA System Upgrade (PLCs, data network, fiber optic infrastructure, servers, cybersecurity controls) at Surface Water Treatment Plant",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1672093.57,
+   "lead_time": null,
+   "sole_source_vendor": "Veolia Water North America - South, LLC",
+   "reason": "the current Control Panel PLC processors are obsolete",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Surface Water Treatment Plant",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3161,
+  "out": 621
+ },
+ "model": "claude-sonnet-5"
+}

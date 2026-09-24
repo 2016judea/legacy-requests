@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "Penta",
+   "model": null,
+   "part": "maintenance and support services for Radio Dispatch System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Penta Corporation",
+   "reason": "Penta has a unique capability to perform the service needed since 2019.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Penta",
+   "model": null,
+   "part": "maintenance and support services for ROCS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Penta Corporation",
+   "reason": "Penta has a unique capability to perform the service needed since 2019.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Penta",
+   "model": null,
+   "part": "maintenance and support services for PADS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Penta Corporation",
+   "reason": "Penta has a unique capability to perform the service needed since 2019.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Penta",
+   "model": null,
+   "part": "Software and Hardware Upgrade (Technology Refresh)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 484694.5,
+   "lead_time": null,
+   "sole_source_vendor": "Penta Corporation",
+   "reason": "Intellectual Property (IP) rights preclude competition, and the contract is for continued development of a highly specialized system like RDS.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Penta",
+   "model": null,
+   "part": "Annual Fixed-Fee Hosting and Maintenance and Support Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 250694.5,
+   "lead_time": null,
+   "sole_source_vendor": "Penta Corporation",
+   "reason": "Intellectual Property (IP) rights preclude competition, and the contract is for continued development of a highly specialized system like RDS.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Penta",
+   "model": null,
+   "part": "Additional As-Needed Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 114611.0,
+   "lead_time": null,
+   "sole_source_vendor": "Penta Corporation",
+   "reason": "Intellectual Property (IP) rights preclude competition, and the contract is for continued development of a highly specialized system like RDS.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3096,
+  "out": 2251
+ },
+ "model": "claude-sonnet-5"
+}

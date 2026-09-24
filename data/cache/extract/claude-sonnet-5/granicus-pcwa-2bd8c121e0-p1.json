@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "purchase of desktop computers, laptops, docking stations, and peripherals",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 170000,
+   "lead_time": null,
+   "sole_source_vendor": "CDW Government Inc.",
+   "reason": "Consider approving the purchase of desktop computers, laptops, docking stations, and peripherals through various Cooperative Purchase Contracts from CDW Government Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Pump 6 Replacement project",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 294825,
+   "lead_time": null,
+   "sole_source_vendor": "Lorang Brothers Construction, Inc.",
+   "reason": "General Services Agreement with Lorang Brothers Construction, Inc. in an amount not to exceed $294,825 for the Auburn Tunnel Pump Station 2, Pump 6 Replacement project.",
+   "equipment_class": "pump",
+   "installed_location": "Auburn Tunnel Pump Station 2",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5822,
+  "out": 2933
+ },
+ "model": "claude-sonnet-5"
+}

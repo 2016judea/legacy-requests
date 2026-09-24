@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Planned Maintenance Service for Generators",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 480632,
+   "lead_time": null,
+   "sole_source_vendor": "Holt of California",
+   "reason": "Consider approving Amendment No. 1 to General Services Agreement for Planned Maintenance Service for Generators with Holt of California in an amount not to exceed $480,632.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5445,
+  "out": 414
+ },
+ "model": "claude-sonnet-5"
+}

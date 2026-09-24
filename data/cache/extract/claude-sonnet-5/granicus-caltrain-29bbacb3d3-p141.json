@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fare evasion citation processing services and mobile fare enforcement devices contract",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1096500,
+   "lead_time": null,
+   "sole_source_vendor": "Turbo Data Systems, Inc. (TDS)",
+   "reason": "At the time of contract award, TDS was the only third-party vendor permitted to process electronic traffic and administrative violations in Santa Clara, San Mateo, and San Francisco Superior County Courts",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Caltrain",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Leased handheld mobile ticket writers (mobile fare enforcement devices) with associated software, maintenance and support services",
+   "part_numbers": [],
+   "quantity": "25 (plus 4 additional planned, total 29)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Turbo Data Systems, Inc. (TDS)",
+   "reason": "TDS provides 20 leased handheld mobile ticket writers; associated software, maintenance and support services; and data reporting.",
+   "equipment_class": "other equipment",
+   "installed_location": "Caltrain",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10098,
+  "out": 1853
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,224 @@
+{
+ "platform": "granicus",
+ "agency": "Tampa Bay Water",
+ "state": "FL",
+ "host": "tampabaywater",
+ "views": [
+  1
+ ],
+ "since": "2024-01-01",
+ "meetings_read": 26,
+ "ingested": "2026-09-24",
+ "matters": [
+  {
+   "matter_id": "3bd5d95f71c0",
+   "title": "197fa618e70bc120592d14fb712ec8030",
+   "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/197fa618e70bc120592d14fb712ec8030.pdf",
+   "text": "",
+   "attachments": [
+    {
+     "name": "197fa618e70bc120592d14fb712ec8030",
+     "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/197fa618e70bc120592d14fb712ec8030.pdf",
+     "path": "data/cache/pdf/3bd5d95f71c09ea502d7c45e86f603e632f6e7c9.pdf"
+    }
+   ],
+   "intro_date": "2026-08-17",
+   "file": "Board of Directors"
+  },
+  {
+   "matter_id": "277666ceae26",
+   "title": "d551e0eca965a0027b7ad87f996b04420",
+   "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/d551e0eca965a0027b7ad87f996b04420.pdf",
+   "text": "",
+   "attachments": [
+    {
+     "name": "d551e0eca965a0027b7ad87f996b04420",
+     "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/d551e0eca965a0027b7ad87f996b04420.pdf",
+     "path": "data/cache/pdf/277666ceae26010a0c3e5ad3d84252f975837cc3.pdf"
+    }
+   ],
+   "intro_date": "2026-04-20",
+   "file": "Board of Directors"
+  },
+  {
+   "matter_id": "1370b5813f61",
+   "title": "e6088cec69a76da695bd0dccf18fcf180",
+   "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/e6088cec69a76da695bd0dccf18fcf180.pdf",
+   "text": "",
+   "attachments": [
+    {
+     "name": "e6088cec69a76da695bd0dccf18fcf180",
+     "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/e6088cec69a76da695bd0dccf18fcf180.pdf",
+     "path": "data/cache/pdf/1370b5813f61c7f45c2446ed3e5850ba338e3f62.pdf"
+    }
+   ],
+   "intro_date": "2025-10-20",
+   "file": "Board of Directors"
+  },
+  {
+   "matter_id": "8db47e9eb315",
+   "title": "734ea3daa57af4c56a5ad5b98db3d4bc0",
+   "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/734ea3daa57af4c56a5ad5b98db3d4bc0.pdf",
+   "text": "",
+   "attachments": [
+    {
+     "name": "734ea3daa57af4c56a5ad5b98db3d4bc0",
+     "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/734ea3daa57af4c56a5ad5b98db3d4bc0.pdf",
+     "path": "data/cache/pdf/8db47e9eb315a328ee3fa9b9ad0630ccd3a940b4.pdf"
+    }
+   ],
+   "intro_date": "2025-04-21",
+   "file": "Board of Directors"
+  },
+  {
+   "matter_id": "1fcce87dadb6",
+   "title": "ec767aaf6490272cf842c7f7907976d90",
+   "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/ec767aaf6490272cf842c7f7907976d90.pdf",
+   "text": "",
+   "attachments": [
+    {
+     "name": "ec767aaf6490272cf842c7f7907976d90",
+     "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/ec767aaf6490272cf842c7f7907976d90.pdf",
+     "path": "data/cache/pdf/1fcce87dadb61de4a8feadca588522c2152f4d78.pdf"
+    }
+   ],
+   "intro_date": "2025-04-21",
+   "file": "Board of Directors"
+  },
+  {
+   "matter_id": "106307103eb7",
+   "title": "442ccbefda29636044ee1e8a0ffc3ef40",
+   "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/442ccbefda29636044ee1e8a0ffc3ef40.pdf",
+   "text": "",
+   "attachments": [
+    {
+     "name": "442ccbefda29636044ee1e8a0ffc3ef40",
+     "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/442ccbefda29636044ee1e8a0ffc3ef40.pdf",
+     "path": "data/cache/pdf/106307103eb7631a28e2bb301b5858faa5ffdfcf.pdf"
+    }
+   ],
+   "intro_date": "2025-02-24",
+   "file": "Board of Directors"
+  },
+  {
+   "matter_id": "505d8764c8bf",
+   "title": "2524b332fc0045ff04a3bff66a98e86a0",
+   "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/2524b332fc0045ff04a3bff66a98e86a0.pdf",
+   "text": "",
+   "attachments": [
+    {
+     "name": "2524b332fc0045ff04a3bff66a98e86a0",
+     "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/2524b332fc0045ff04a3bff66a98e86a0.pdf",
+     "path": "data/cache/pdf/505d8764c8bf84633dc68575b425e1a9211e34d1.pdf"
+    }
+   ],
+   "intro_date": "2025-02-24",
+   "file": "Board of Directors"
+  },
+  {
+   "matter_id": "8548afdbd4c9",
+   "title": "d465b34edcb9f6ecb9a4f595a185cdda0",
+   "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/d465b34edcb9f6ecb9a4f595a185cdda0.pdf",
+   "text": "",
+   "attachments": [
+    {
+     "name": "d465b34edcb9f6ecb9a4f595a185cdda0",
+     "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/d465b34edcb9f6ecb9a4f595a185cdda0.pdf",
+     "path": "data/cache/pdf/8548afdbd4c9d381127b9476d8af59d7a2a89f5f.pdf"
+    }
+   ],
+   "intro_date": "2025-02-24",
+   "file": "Board of Directors"
+  },
+  {
+   "matter_id": "6233c8cf1015",
+   "title": "5c41ff49fcb7299ddcaf0dc685873ad50",
+   "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/5c41ff49fcb7299ddcaf0dc685873ad50.pdf",
+   "text": "",
+   "attachments": [
+    {
+     "name": "5c41ff49fcb7299ddcaf0dc685873ad50",
+     "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/5c41ff49fcb7299ddcaf0dc685873ad50.pdf",
+     "path": "data/cache/pdf/6233c8cf10158a6ee6a4819ffe48960c9e0f9687.pdf"
+    }
+   ],
+   "intro_date": "2025-01-27",
+   "file": "Board of Directors"
+  },
+  {
+   "matter_id": "886b4d27fbbb",
+   "title": "5c64749b7e0055d2f0a7923ef12fba130",
+   "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/5c64749b7e0055d2f0a7923ef12fba130.pdf",
+   "text": "",
+   "attachments": [
+    {
+     "name": "5c64749b7e0055d2f0a7923ef12fba130",
+     "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/5c64749b7e0055d2f0a7923ef12fba130.pdf",
+     "path": "data/cache/pdf/886b4d27fbbb83d7c89db586d29e04c1427a44b5.pdf"
+    }
+   ],
+   "intro_date": "2024-11-18",
+   "file": "Board of Directors"
+  },
+  {
+   "matter_id": "7196ed22457b",
+   "title": "61714a612984b6be7e04e0fdbc5eef260",
+   "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/61714a612984b6be7e04e0fdbc5eef260.pdf",
+   "text": "",
+   "attachments": [
+    {
+     "name": "61714a612984b6be7e04e0fdbc5eef260",
+     "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/61714a612984b6be7e04e0fdbc5eef260.pdf",
+     "path": "data/cache/pdf/7196ed22457bb52c03b97c4d701755cda2b2f9a8.pdf"
+    }
+   ],
+   "intro_date": "2024-10-21",
+   "file": "Board of Directors"
+  },
+  {
+   "matter_id": "f063e02fffb1",
+   "title": "7affcba6a2290f121c23fc9c79b9946d0",
+   "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/7affcba6a2290f121c23fc9c79b9946d0.pdf",
+   "text": "",
+   "attachments": [
+    {
+     "name": "7affcba6a2290f121c23fc9c79b9946d0",
+     "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/7affcba6a2290f121c23fc9c79b9946d0.pdf",
+     "path": "data/cache/pdf/f063e02fffb12c72284570cf0f86fec2aff6d8e3.pdf"
+    }
+   ],
+   "intro_date": "2024-04-15",
+   "file": "Board of Directors"
+  },
+  {
+   "matter_id": "6f09811780a8",
+   "title": "a80715776f38daa1f0283c452f4ce95d0",
+   "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/a80715776f38daa1f0283c452f4ce95d0.pdf",
+   "text": "",
+   "attachments": [
+    {
+     "name": "a80715776f38daa1f0283c452f4ce95d0",
+     "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/a80715776f38daa1f0283c452f4ce95d0.pdf",
+     "path": "data/cache/pdf/6f09811780a857532e5df1db2c90446eef15a118.pdf"
+    }
+   ],
+   "intro_date": "2024-02-26",
+   "file": "Board of Directors"
+  },
+  {
+   "matter_id": "eab8423cc404",
+   "title": "49ef1f893f3f25a9a7efb978416b89d40",
+   "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/49ef1f893f3f25a9a7efb978416b89d40.pdf",
+   "text": "",
+   "attachments": [
+    {
+     "name": "49ef1f893f3f25a9a7efb978416b89d40",
+     "url": "https://d2kbkoa27fdvtw.cloudfront.net/tampabaywater/49ef1f893f3f25a9a7efb978416b89d40.pdf",
+     "path": "data/cache/pdf/eab8423cc40467179f65e511f2453dfef9590fe2.pdf"
+    }
+   ],
+   "intro_date": "2024-01-22",
+   "file": "Board of Directors"
+  }
+ ]
+}

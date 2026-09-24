@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Slot 10 image development for newer operating software to replace out of date, non-supported version",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "replace out of date, non-supported version",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "GPS upgrade for entire fleet",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the assets have fallen below a State of Good Repair and are in need of rehabilitation based on limits set by SCRRA staff and industry standards",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "220",
+   "part": "New data radio 220 upgrades to replace out of commissions and support radios being used",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "replace out of commissions and support radios being used",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "5g cell antenna upgrade",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the assets have fallen below a State of Good Repair and are in need of rehabilitation based on limits set by SCRRA staff and industry standards",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Positive Train Control (PTC) systems rehabilitation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Much of SCRRA\\u2019s infrastructure has aged to the point of its useful life, is obsolete or is no longer supported by its manufacturer.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Ventura Subdivision",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Centralized train control systems rehabilitation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Much of SCRRA\\u2019s infrastructure has aged to the point of its useful life, is obsolete or is no longer supported by its manufacturer.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Ventura Subdivision",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Communication Back-haul systems rehabilitation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Much of SCRRA\\u2019s infrastructure has aged to the point of its useful life, is obsolete or is no longer supported by its manufacturer.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Ventura Subdivision",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "New wayside detectors for PTC system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Acquire new wayside detectors to introduce into PTC system that will help aid MOW detect hazards in the field.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "New train control simulators modeling new Metrolink locomotives",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Acquire new simulators that model new Metrolink purchased locomotives to full training requirements. (Excludes ARROW)",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10520,
+  "out": 6272
+ },
+ "model": "claude-sonnet-5"
+}

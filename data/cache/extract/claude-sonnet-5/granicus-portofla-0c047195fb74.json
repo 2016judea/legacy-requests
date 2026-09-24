@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Konica Minolta",
+   "model": null,
+   "part": "Lease and maintenance of black and white photocopiers",
+   "part_numbers": [],
+   "quantity": "52",
+   "price_usd": 235000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Konica was the lowest responsive, responsible bidder and staff is recommending approval of the award of Contract No. 40059 to Konica Minolta Business Solutions USA, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": "12 Department office locations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Konica Minolta",
+   "model": null,
+   "part": "Lease and maintenance of color copiers",
+   "part_numbers": [],
+   "quantity": "17",
+   "price_usd": 235000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Konica was the lowest responsive, responsible bidder and staff is recommending approval of the award of Contract No. 40059 to Konica Minolta Business Solutions USA, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": "12 Department office locations",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4648,
+  "out": 889
+ },
+ "model": "claude-sonnet-5"
+}

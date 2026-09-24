@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Technology refresh of the obsolete Radio Dispatch System with digital components (VoIP)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 136000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This project is to perform a technology refresh of the obsolete Radio Dispatch System with digital components to utilize the JPB fiber network and the digital VoIP phones.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": "VHF (Very High Frequency) network",
+   "part": "Migration to Digital Voice Radio - new VHF network sites co-located with PTC sites and upgrades to existing VHF sites",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 67000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The new VHF (Very High Frequency) network includes new sites co-located with the PTC sites, along with upgrades to several existing VHF sites.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fiber optic corrective repair connecting JPB fiber backbone to digital voice radio base stations at PTC sites and VHF sites",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 56000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The project planned to build a design to connect the JPB fiber backbone to the Stations from 4th and King to Tamien, Caltrain digital voice radio base stations located at Positive Train Control (PTC) sites, existing Very High Frequency (VHF) Sites at the tunnel and the Central Control Facility/Back-Up Central Control Facility.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Right of Way / PTC sites / tunnel / Central Control Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Signal SOGR - rehabilitation/replacement of signal control and indication systems, wayside signals, signal support structures, batteries, relays, termination boards, control computers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 203000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the replacement of outdated signal control and indication systems with current industry standard electronic components and associated software control programs",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Stadler",
+   "model": "EMU",
+   "part": "PADS Gap Coverage & Improvement - add Stadler EMU into existing PADS and modernize Xgate virtual server for server redundancy",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "2) add Stadler EMU into existing PADS; and 3) modernize and visualize the Xgate virtual server to provide server redundancy between SJCC and MPCC.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "SJCC and MPCC",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5359,
+  "out": 2362
+ },
+ "model": "claude-sonnet-5"
+}

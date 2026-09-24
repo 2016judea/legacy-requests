@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Badger Meter, Inc.",
+   "model": null,
+   "part": "Purchase of Badger Meters on an as-needed basis",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5000000,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "the Board adopted Resolution 06-19 approving the continued standardization of water meters and meter components purchases solely to those manufactured by Badger Meter, Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter, Inc.",
+   "model": "HR-E Encoders",
+   "part": "Purchase of HR-E Encoders to replace aging/failing meter registers and endpoints",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "The failing and aging registers and endpoints are no longer manufactured and are currently being replaced with Badger HR-E Encoders and Orion Cellular Endpoints",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter, Inc.",
+   "model": "Orion Cellular Endpoints",
+   "part": "Purchase of Orion Cellular Endpoints to replace aging/failing endpoints and for new development meters",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "The failing and aging registers and endpoints are no longer manufactured and are currently being replaced with Badger HR-E Encoders and Orion Cellular Endpoints, also used on meters for new development.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2734,
+  "out": 1828
+ },
+ "model": "claude-sonnet-5"
+}

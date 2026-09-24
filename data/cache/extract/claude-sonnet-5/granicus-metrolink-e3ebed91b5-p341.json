@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trapeze Software Group",
+   "model": "Trapeze EAM (Enterprise Asset Management) System",
+   "part": "Technical support and configuration for MOW Signals, C&S Help Desk migration, and State of Good Repair/Capital Planning Module implementation in the EAM system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 803907,
+   "lead_time": null,
+   "sole_source_vendor": "Trapeze Software Group",
+   "reason": "Non-Competitive Contract No. H1674-21 to Trapeze Software Group",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Knorr Brake Corporation",
+   "model": null,
+   "part": "new brake calipers, manifolds, and other air brake components",
+   "part_numbers": [],
+   "quantity": "three kits",
+   "price_usd": 903642,
+   "lead_time": null,
+   "sole_source_vendor": "Knorr Brake Corporation",
+   "reason": "it was determined that Knorr is the Original Equipment Manufacturer (OEM) for most of the required components.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "DMU fleet (Arrow Line)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Knorr Brake Corporation",
+   "model": null,
+   "part": "overhaul of the components currently installed in the DMUs",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 398901,
+   "lead_time": null,
+   "sole_source_vendor": "Knorr Brake Corporation",
+   "reason": "it was determined that Knorr is the Original Equipment Manufacturer (OEM) for most of the required components.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DMU fleet (Arrow Line)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "AngelTrax",
+   "model": null,
+   "part": "Cab Room Cameras and Recording System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 299233,
+   "lead_time": null,
+   "sole_source_vendor": "IVS Inc. dba AngelTrax",
+   "reason": "PO846R-25 - IVS Inc. dba AngelTrax for Cab Room Cameras and Recording System - $299,233 -12/4/2024",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Loram Technologies",
+   "model": "Rail Maintenance Decision Tool",
+   "part": "Rail Maintenance Decision Tool",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 375050,
+   "lead_time": null,
+   "sole_source_vendor": "Loram Technologies",
+   "reason": "LI305-24 - Loram Technologies for Rail Maintenance Decision Tool - $375,050 - 12/4/2024",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Knorr-Brake Signaling",
+   "model": null,
+   "part": "signal parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 450000,
+   "lead_time": null,
+   "sole_source_vendor": "Knorr-Brake Signaling",
+   "reason": "PO977-25 - Knorr-Brake Signaling for signal parts - $450,000 - 12/4/2024",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7799,
+  "out": 5098
+ },
+ "model": "claude-sonnet-5"
+}

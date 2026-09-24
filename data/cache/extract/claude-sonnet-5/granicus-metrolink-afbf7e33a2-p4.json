@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "F125",
+   "part": "Intermediate Engine Overhaul for F125 locomotive fleet",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 34551052.57,
+   "lead_time": null,
+   "sole_source_vendor": "Quinn Company dba Quinn Power Systems, Inc.",
+   "reason": "to meet the Original Equipment Manufacturer (OEM) recommendations for maintaining a State of Good Repair and ensuring Tier 4 emissions compliance.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5771,
+  "out": 608
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "F125",
+   "part": "Intermediate engine overhaul for F125 locomotive fleet to meet OEM recommendations and Tier 4 emissions compliance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 34551052.57,
+   "lead_time": null,
+   "sole_source_vendor": "Quinn Company dba Quinn Power Systems, Inc.",
+   "reason": "the Authority's F125 locomotive fleet requires an intermediate engine overhaul to meet the Original Equipment Manufacturer (OEM) recommendations for maintaining a State of Good Repair and ensuring Tier 4 emissions compliance",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Knorr Brake Corporation",
+   "model": null,
+   "part": "New brake calipers, manifolds, and other air brake components for DMU fleet",
+   "part_numbers": [],
+   "quantity": "enough components to complete three air brake kits",
+   "price_usd": 903642.0,
+   "lead_time": null,
+   "sole_source_vendor": "Knorr Brake Corporation",
+   "reason": "it was determined that Knorr is the Original Equipment Manufacturer (OEM) for most of the required components",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "DMU fleet (Arrow Line)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Knorr Brake Corporation",
+   "model": null,
+   "part": "Overhaul services for air brake components currently installed in the DMUs",
+   "part_numbers": [],
+   "quantity": "three kits",
+   "price_usd": 398901.0,
+   "lead_time": null,
+   "sole_source_vendor": "Knorr Brake Corporation",
+   "reason": "Knorr Brake Corporation is the OEM of the parts and materials needed to keep the air brake system of the DMUs in compliance",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "DMU fleet (Arrow Line)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trapeze Software Group",
+   "model": "Trapeze EAM",
+   "part": "Additional technical support for Maintenance of Way (MOW) Signals, C&S Help Desk migration, and State of Good Repair/Capital Planning Module implementation in the Enterprise Asset Management (EAM) system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 803907.0,
+   "lead_time": null,
+   "sole_source_vendor": "Trapeze Software Group",
+   "reason": "On May 28th, 2021, the Board approved the recommendation for the Chief Executive Officer to negotiate and award a Non-Competitive Contract No. H1674-21 to Trapeze Software Group",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14323,
+  "out": 2779
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Frank M. Booth, Inc.",
+   "model": "Lennon Flume",
+   "part": "Lennon Flume for flume replacement and repairs",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 800000,
+   "lead_time": null,
+   "sole_source_vendor": "Frank M. Booth, Inc.",
+   "reason": "They are the only known company that has the pa(cid:61)ern and manufactures Lennon Flume, which the Agency uses for flume replacement and repairs.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2999,
+  "out": 205
+ },
+ "model": "claude-sonnet-5"
+}

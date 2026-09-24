@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": null,
+   "part": "165 conducted electrical weapons, related accessories, and training for Los Angeles Port Police sworn personnel",
+   "part_numbers": [],
+   "quantity": "165",
+   "price_usd": 874366.97,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Contract No. 40047 qualifies for award on a sole source basis as a contract for the performance of professional, technical and special services of a temporary or occasional character for which competitive bidding is not practicable or advantageous, and includes parts obtained from the manufacturer of the equipment or its exclusive agent",
+   "equipment_class": "other equipment",
+   "installed_location": "Los Angeles Port Police",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10374,
+  "out": 746
+ },
+ "model": "claude-sonnet-5"
+}

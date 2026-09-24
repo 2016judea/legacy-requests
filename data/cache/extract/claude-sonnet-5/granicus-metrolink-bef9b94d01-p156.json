@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Westinghouse Air Brake Technologies Corporation (WABTEC)",
+   "model": null,
+   "part": "New parts and repair and return services for maintenance of rolling stock equipment",
+   "part_numbers": [],
+   "quantity": "274 one-time-use parts and 137 repairable parts",
+   "price_usd": 10288510,
+   "lead_time": null,
+   "sole_source_vendor": "Westinghouse Air Brake Technologies Corporation (WABTEC)",
+   "reason": "WABTEC is the Authority's sole supplier for 274 one-time-use parts and 137 repairable parts.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8367,
+  "out": 1014
+ },
+ "model": "claude-sonnet-5"
+}

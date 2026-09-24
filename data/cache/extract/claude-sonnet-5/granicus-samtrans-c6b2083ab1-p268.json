@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": "New Flyer",
+   "model": "Artic",
+   "part": "Hybrid Drivetrain as well as glass for the 2019 New Flyer Artic fleet",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 150000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This project consists of purchases of new and rebuilt parts. Major Bus Components with unit prices of $5,000 or more are included in the Capital Budgets.",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Braun",
+   "model": null,
+   "part": "Purchase of 14 Gasoline Low Floor Paratransit Minivans",
+   "part_numbers": [],
+   "quantity": "14",
+   "price_usd": 2368958,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The District will replace fourteen 2020 Paratransit Braun Gasoline Minivans, which have a replacement life cycle of 5 years and will reach end-of-life in 2025.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Gillig",
+   "model": null,
+   "part": "Purchase of 29 Hydrogen Fuel Cell Electric Buses",
+   "part_numbers": [],
+   "quantity": "29",
+   "price_usd": 62190281,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "There District has 29 model year 2013 Gillig buses (25 Gillig Hybrid 40' buses and 4 Gillig Diesel 29' buses) that will reach end-of-life in 2025.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement Non-Rev Svc Support Vehicles - nine non-revenue District vehicles: three sport utility vehicles and six hybrid/electric models",
+   "part_numbers": [],
+   "quantity": "9",
+   "price_usd": 432801,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This project consists of purchasing nine non-revenue District vehicles: three sport utility vehicles and six hybrid/electric models.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rehab North Base and South Base Steam Bay Equipment - hydraulic pumps, cylinders, high-pressure hoses, metal bi-fold doors",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 114000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Components of the lift equipment, including hydraulic pumps, cylinders, and high-pressure hoses, have exceeded their useful lives due to their heavy usage and constant exposure to high pressure/temperature steam.",
+   "equipment_class": "pump",
+   "installed_location": "North Base (NB) and South Base (SB)",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Facilities Smaller Projects - repairs/replacements of water heaters, fire suppression equipment, sewer pumps, circuit breakers, roll-up doors at bases, rain gutters",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 741000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Work is anticipated to include common repairs and replacements of water heaters, fire suppression equipment, sewer pumps, circuit breakers, roll-up doors at bases, rain gutters, etc.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "North Base and South Base Hardening - vandal and climb resistant perimeter fencing, turnstile entry gates, vehicular gate arms",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2000000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This project will install new vandal and climb resistant perimeter fencing at North and South Bases over the next 3 to 4 years depending on funding availability. It will also install turnstile entry gates for pedestrians and control vehicular gate arms at entries into North and South Bases.",
+   "equipment_class": "other equipment",
+   "installed_location": "North Base and South Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Bus Shelter Assets - payment for remaining useful life value of existing bus shelters",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 469277,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This project will allow the District to pay the vendor for the remaining useful life value of existing bus shelters.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7905,
+  "out": 4109
+ },
+ "model": "claude-sonnet-5"
+}

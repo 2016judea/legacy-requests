@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola Solutions",
+   "model": null,
+   "part": "Maintenance and support of Motorola radios",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 405882.94,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Amendment 1 to the contract for the maintenance and support of Motorola radios extends the base term by three years from five to eight years and adds funds for the three-year extension.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Darktrace",
+   "model": null,
+   "part": "Darktrace AI Cybersecurity Subscription for 3-years.",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 949500.0,
+   "lead_time": "3-years",
+   "sole_source_vendor": "ePlus",
+   "reason": "Darktrace AI Cybersecurity Subscription for 3-years.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": null,
+   "part": "FY26 Annual Blanket PO for Dell hardware.",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 350000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Dell Marketing",
+   "reason": "FY26 Annual Blanket PO for Dell hardware.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Head Quarters Network Equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 796679.13,
+   "lead_time": null,
+   "sole_source_vendor": "Presidio Network Solutions, Inc.",
+   "reason": "Head Quarters Network Equipment",
+   "equipment_class": "other equipment",
+   "installed_location": "Head Quarters",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Oracle",
+   "model": "Enterprise Performance Management (EPM)",
+   "part": "Enterprise Peformance Management (EPM)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 490000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Oracle America Corporation",
+   "reason": "Enterprise Peformance Management (EPM)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Konica Minolta",
+   "model": "Multi-Functional Devices (Copier-Printer-Scanner)",
+   "part": "Maintenance and Support Services for Multi-Functional Devices (Copier-Printer-Scanner)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 423288.0,
+   "lead_time": null,
+   "sole_source_vendor": "Konica Minolta",
+   "reason": "Maintenance and Support Services for Multi-Functional Devices (Copier-Printer-Scanner)",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Microsoft",
+   "model": "Microsoft 365 G5",
+   "part": "Microsoft 365 G5 and other online products (Amendment 1)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1811478.02,
+   "lead_time": null,
+   "sole_source_vendor": "CDT",
+   "reason": "Microsoft 365 G5 and other online products (Amendment 1)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Microsoft",
+   "model": "Microsoft 365 G5",
+   "part": "Microsoft 365 G5 and other online products",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2559057.09,
+   "lead_time": null,
+   "sole_source_vendor": "SHI International Corporation",
+   "reason": "Microsoft 365 G5 and other online products",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6767,
+  "out": 4215
+ },
+ "model": "claude-sonnet-5"
+}

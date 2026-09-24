@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fire Alarm System replacement at Central Maintenance Facility",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "have reached the end of their service life, frequently require repairs, or have otherwise become obsolete, and must therefore be replaced",
+   "equipment_class": "other equipment",
+   "installed_location": "Central Maintenance Facility (CMF), 1555 N. San Fernando Road, Los Angeles, CA 90065",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Electrical switchgear/switchboard replacement at Central Maintenance Facility",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The existing electrical switchboards have reached the end of their expected service life and require replacement to support continued safe and reliable operation of the facility.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Central Maintenance Facility (CMF), 1555 N. San Fernando Road, Los Angeles, CA 90065",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3919,
+  "out": 938
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Ticket Vending Machine (TVM) component replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 152000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "replaced components of the TVM which are obsolete and no longer supported by the manufacturer",
+   "equipment_class": "other equipment",
+   "installed_location": "all the stations",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "VHF voice communication system co-located with PTC sites",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 120000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The project is to update existing VHF voice communication system by co-locating VHF sites with PTC sites that already have JPB fiber backhaul services.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Dual Tone Module Frequency (DTMF)",
+   "part": "Radio-activated crossing signal module for grade crossings",
+   "part_numbers": [],
+   "quantity": "nine (9)",
+   "price_usd": 16000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This project supports the purchase of Dual Tone Module Frequency (DTMF) for grade crossings throughout the Caltrain corridor.",
+   "equipment_class": "other equipment",
+   "installed_location": "nine (9) grade crossing on Caltrain's right of way",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Clipper Next Generation Validators",
+   "part": "Fare validator installation support (wiring and mounting) for MTC-supplied validators",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This project prepared all the Caltrain stations to have the next Generation Clipper Validators installed by the Metropolitan Transportation Commission (MTC).",
+   "equipment_class": "other equipment",
+   "installed_location": "all Caltrain stations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fiber connectivity linking JPB fiber backbone to stations, VHF radio base stations, and PTC sites",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The project planned to build a design to connect the JPB fiber backbone to the Stations from 4th and King to Tamien, Caltrain digital voice radio base stations located at Positive Train Control (PTC) sites",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5917,
+  "out": 1657
+ },
+ "model": "claude-sonnet-5"
+}

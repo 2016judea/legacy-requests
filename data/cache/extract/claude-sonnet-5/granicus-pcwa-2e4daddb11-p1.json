@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Tinker Road Pump Station HVAC System Maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 36503,
+   "lead_time": null,
+   "sole_source_vendor": "Brower Mechanical CA, LLC",
+   "reason": "for the Tinker Road Pump Sta on HVAC System Maintenance in an additional amount not to exceed $36,503",
+   "equipment_class": "HVAC",
+   "installed_location": "Tinker Road Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Planned Maintenance Services for Generators",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 100000,
+   "lead_time": null,
+   "sole_source_vendor": "Holt of California",
+   "reason": "Approve Amendment No. 2 to General Services Agreement with Holt of California for Planned Maintenance Services for Generators in an addi onal amount not to exceed $100,000",
+   "equipment_class": "generator",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Unified Communications and Contact Center Solution",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 248540,
+   "lead_time": null,
+   "sole_source_vendor": "Total Communica on Solutions, LLC",
+   "reason": "Approve Agreement with Total Communica on Solu ons, LLC for Uni\ufb01ed Communica ons and Contact Center Solu on in an amount not to exceed $248,540 for a three-year term",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5325,
+  "out": 2385
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "installation and maintenance of the optical readers in Los Angeles Metropolitan Transit Authority's (Metro) gates system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 4075147.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cubic Transportation Systems Inc.",
+   "reason": "The Authority is able to leverage the same 24/7 support.",
+   "equipment_class": "other equipment",
+   "installed_location": "Los Angeles Metropolitan Transit Authority's (Metro) gates system",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Purchase Order S1900596 support for optical reader installation and maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 608921.0,
+   "lead_time": null,
+   "sole_source_vendor": "ESP Enterprises, Inc.",
+   "reason": "The Authority is able to leverage the same 24/7 support.",
+   "equipment_class": "other equipment",
+   "installed_location": "Los Angeles Metropolitan Transit Authority's (Metro) gates system",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Knorr Brake Corporation",
+   "model": null,
+   "part": "brake calipers, manifolds, and other air brake components",
+   "part_numbers": [],
+   "quantity": "enough components to complete three kits",
+   "price_usd": 903642.0,
+   "lead_time": null,
+   "sole_source_vendor": "Knorr Brake Corporation",
+   "reason": "Knorr Brake Corporation is the OEM of the parts and materials needed to keep the air brake system of the DMUs in compliance.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Arrow DMU Fleet",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Knorr Brake Corporation",
+   "model": null,
+   "part": "overhaul of the air brake components currently installed in the DMUs",
+   "part_numbers": [],
+   "quantity": "three kits",
+   "price_usd": 398901.0,
+   "lead_time": null,
+   "sole_source_vendor": "Knorr Brake Corporation",
+   "reason": "Knorr Brake Corporation is the OEM of the parts and materials needed to keep the air brake system of the DMUs in compliance.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Arrow DMU Fleet",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6791,
+  "out": 2972
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Allen-Bradley",
+   "model": null,
+   "part": "Soft-Start Motor Starters for Ophir Pump Station #1 Pumps (ATPS-1), direct replacement for current pumps",
+   "part_numbers": [],
+   "quantity": "7",
+   "price_usd": 103680,
+   "lead_time": null,
+   "sole_source_vendor": "Rexel USA, Inc.",
+   "reason": "Rockwell Automation, the sole developer of Allen-Bradley hardware and software, has certified that Rexel USA, Inc. of Sacramento is the sole distributor in Northern California for all sales and support services related to this request.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Ophir Pump Station Building (Auburn Tunnel Pump Station 1)",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4610,
+  "out": 275
+ },
+ "model": "claude-sonnet-5"
+}

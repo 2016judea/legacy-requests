@@ -14,6 +14,7 @@ static page anyone can search.
 ## How it works
 
     make ingest    # Legistar API -> data/cache/ (JSON + PDFs; never re-downloaded)
+    make ingest-granicus  # Granicus agenda sites (granicus.json) -> data/matters/granicus-*.json
     make extract   # Claude -> data/records.db + data/records.jsonl (one call per matter, cached)
     make site      # data/records.jsonl -> site/index.html (generated; never hand-edit)
     make supply    # surplus/dealer listings for indexed makes+models -> data/supply/ (cached), then join
@@ -22,6 +23,11 @@ static page anyone can search.
 
 - `clients.json` lists the Legistar clients that answer on the public API
   (`https://webapi.legistar.com/v1/<client>/matters`). Add a slug to add a city.
+- `scripts/ingest_granicus.py` walks each `granicus.json` site's public meeting list
+  (`<host>.granicus.com/ViewPublisher.php`), opens every agenda since 2024, and keeps
+  the items whose staff report or packet pages use sole-source language. Agendas a
+  Granicus site serves from a Legistar host are left to `ingest.py`. Sites tried that
+  yielded nothing (no attachment links, or Legistar-backed) are listed with 0 matters.
 - `scripts/ingest.py` searches matter titles since 2024-01-01 for sole-source
   and equipment keywords, then fetches each matter's text and PDF attachments.
 - `scripts/extract.py` sends a matter to the model only if it or one of its

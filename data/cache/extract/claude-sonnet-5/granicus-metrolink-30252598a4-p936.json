@@ -1,0 +1,159 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Train Management Computer Upgrade",
+   "part_numbers": [],
+   "quantity": "132 out of 140 units",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Due to this being an industry-wide upgrade, the vendor is experiencing parts shortages and limited supply availability.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stadler",
+   "model": null,
+   "part": "Global Positioning System Upgrade installation on DMUs and ZEMU",
+   "part_numbers": [
+    "E761-25"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stadler",
+   "reason": "Work Directive against Stadler contract E761-25 to install GPS system on DMUs and ZEMU have been executed, work to be completed by end of March 2027.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Alstom",
+   "model": null,
+   "part": "Global Positioning System Upgrade fleet wide installation",
+   "part_numbers": [
+    "MSOP158"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Alstom",
+   "reason": "Work Directive is in progress under Alstom contract MSOP158 to perform fleet wide installation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rotem",
+   "model": null,
+   "part": "HVAC Overhaul",
+   "part_numbers": [],
+   "quantity": "152 of 184 HVAC units overhauled",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Rotem HVAC Overhaul: 152 of 184 HVAC units overhauled; 63 of 92 control panels overhauled.",
+   "equipment_class": "HVAC",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rotem",
+   "model": null,
+   "part": "HVAC control panels overhaul",
+   "part_numbers": [],
+   "quantity": "63 of 92 control panels",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Rotem HVAC Overhaul: 152 of 184 HVAC units overhauled; 63 of 92 control panels overhauled.",
+   "equipment_class": "HVAC",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bombardier",
+   "model": null,
+   "part": "HVAC Overhaul, initial order",
+   "part_numbers": [],
+   "quantity": "180 units",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Bombardier HVAC Overhaul: Initial order of 180 units overhauled; Additional order of 87 HVAC's to be overhauled has been placed and 54 of 87 units overhauled",
+   "equipment_class": "HVAC",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bombardier",
+   "model": null,
+   "part": "HVAC Overhaul, additional order",
+   "part_numbers": [],
+   "quantity": "87 units (54 completed)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Additional order of 87 HVAC's to be overhauled has been placed and 54 of 87 units overhauled",
+   "equipment_class": "HVAC",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rotem",
+   "model": null,
+   "part": "Emergency Window Gasket Replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Rotem Emergency Window Gasket Replacement: First Article Inspection Completed.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Cab Car DVR & Camera Replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Board approved procurement in February 2026 and staff is finalizing negotiations and awaiting Notice to Proceed. Expected completion Dec. 2027",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "MP36",
+   "part": "Locomotive Overhaul & Repair",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "MP36 Locomotive Overhaul & Repair \\u2013 procurement process has been completed; NTP issued in April 2026",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4465,
+  "out": 2008
+ },
+ "model": "claude-sonnet-5"
+}

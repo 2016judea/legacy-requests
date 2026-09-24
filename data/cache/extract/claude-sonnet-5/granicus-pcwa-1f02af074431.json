@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hitachi Energy USA Inc.",
+   "model": null,
+   "part": "Middle Fork Powerhouse generator step-up (GSU) Transformer C-phase 13.8 kV Bushings Replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hitachi Energy USA Inc.",
+   "reason": "Currently, Power staff is working with the Original Equipment Manufacturer of the transformer, Hitachi Energy USA, Inc.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Middle Fork Powerhouse",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3078,
+  "out": 242
+ },
+ "model": "claude-sonnet-5"
+}

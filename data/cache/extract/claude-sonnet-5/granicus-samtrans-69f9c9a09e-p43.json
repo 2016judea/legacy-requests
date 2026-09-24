@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Purchase 62 clean diesel buses",
+   "part_numbers": [],
+   "quantity": "62",
+   "price_usd": null,
+   "lead_time": "Replacement buses will arrive within 20-24 month from procurement",
+   "sole_source_vendor": null,
+   "reason": "Purchase 62 clean diesel buses",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cummins",
+   "model": "X10",
+   "part": "New diesel engine for clean diesel buses",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Cummins X10 diesel engine is new to bus transportation, steep learning curve for mechanics who are learning FCEB and BEB technologies",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Major bus component - hybrid drive",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Increased risk of major bus component failure hybrid drive (obsolete)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": "DPIM",
+   "part": "Major bus component - dual power inverter module (DPIM)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Estimate $5M in additional major bus component rebuild and replacement costs (clean diesel engine, hybrid drive, and dual power inverter module or DPIM).",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Additional maintenance costs for major bus components (hybrid and clean diesel buses)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "Lead time for hybrid major components 30-90 days.",
+   "sole_source_vendor": null,
+   "reason": "Additional maintenance costs for major bus components (as needed) for hybrid and clean diesel buses, estimated $4.1-$5.0 M.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4153,
+  "out": 3464
+ },
+ "model": "claude-sonnet-5"
+}

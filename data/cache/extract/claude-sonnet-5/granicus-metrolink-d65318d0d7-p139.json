@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "F125",
+   "part": "Intermediate engine overhaul of F125 locomotive fleet engines (replace cylinder liners) to meet OEM recommendations and Tier 4 compliance",
+   "part_numbers": [
+    "C175-20"
+   ],
+   "quantity": "42",
+   "price_usd": 34551052.57,
+   "lead_time": null,
+   "sole_source_vendor": "Quinn Company dba Quinn Power Systems, Inc.",
+   "reason": "The Authority received a single proposal by the submission due date of July 17, 2024.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4409,
+  "out": 1201
+ },
+ "model": "claude-sonnet-5"
+}

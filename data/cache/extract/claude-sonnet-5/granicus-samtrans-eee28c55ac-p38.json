@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Contracted Shuttle Services (single-source extension of shuttle services contract)",
+   "part_numbers": [],
+   "quantity": "48,572 revenue service hours per year",
+   "price_usd": 15986584,
+   "lead_time": null,
+   "sole_source_vendor": "MV Transportation, Inc.",
+   "reason": "the Board authorizes a single-source extension of the existing contract with MV Transportation, Inc. for two years",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "San Mateo County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9609,
+  "out": 199
+ },
+ "model": "claude-sonnet-5"
+}

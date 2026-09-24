@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": "ASTRO Managed Detection and Response (MDR) / ActiveEye",
+   "part": "Managed Detection and Response (MDR) cybersecurity system with 24x7x365 SOC support for CAD, RMS, and land-mobile radio systems",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 1177886.87,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "The ActiveEye MDR solution is the only MDR platform approved by Motorola Solutions for deployment into the ASTRO\u00ae radio network to protect the system from Cybersecurity threats without potentially jeopardizing the integrity and reliability of the network.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Los Angeles Port Police",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4465,
+  "out": 531
+ },
+ "model": "claude-sonnet-5"
+}

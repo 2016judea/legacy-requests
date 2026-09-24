@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Upgrade the PTC equipment and software on DMU's on-board train control systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "As industry rapid standards evolution of PTC equipment and certain technologies are phased out, more equipment is becoming obsolete and requires modernization.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Arrow Line (Redlands Subdivision)",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Portable Wheel True lathe for truing defect wheels on rail vehicles",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Currently we only have one, 32 year old, stationary wheel true machine for the entire system at CMF, with single point of failure.",
+   "equipment_class": "other equipment",
+   "installed_location": "CMF / San Bernardino (Arrow system)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rotor Change machine for replacing defective rotors on rail cars",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Rotor change our machine will allow mechanical team to replace defect rotors from cars on the PM track without having to cut the defective car from the consist, shopping equipment for days.",
+   "equipment_class": "other equipment",
+   "installed_location": "CMF / San Bernardino (Arrow system)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8178,
+  "out": 1832
+ },
+ "model": "claude-sonnet-5"
+}

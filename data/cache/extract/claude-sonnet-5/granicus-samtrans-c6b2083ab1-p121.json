@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Elevator refurbishment: upgrade elevator motor assemblies (office units), hydraulic system (garage) and related controllers, control switches, door operators/locks, brake pads, clutches, motion sensors and safety features",
+   "part_numbers": [],
+   "quantity": "4 elevators",
+   "price_usd": 1849200,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Project may encounter delay for specialized OEM parts/services",
+   "equipment_class": "other equipment",
+   "installed_location": "Central Building (Central Office and Garage)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8202,
+  "out": 217
+ },
+ "model": "claude-sonnet-5"
+}

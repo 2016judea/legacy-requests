@@ -1,0 +1,13 @@
+{
+ "platform": "granicus",
+ "agency": "San Diego Association of Governments",
+ "state": "CA",
+ "host": "sandag",
+ "views": [
+  1
+ ],
+ "since": "2024-01-01",
+ "meetings_read": 41,
+ "ingested": "2026-09-24",
+ "matters": []
+}

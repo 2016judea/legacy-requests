@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "purchase and delivery of light/medium duty trucks and passenger cars",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 10500000,
+   "lead_time": null,
+   "sole_source_vendor": "72 Hour LLC dba National Auto Fleet Group",
+   "reason": "would utilize an existing national cooperative agreement for such services between Sourcewell and 72 Hour",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "City of Los Angeles Harbor Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11702,
+  "out": 1096
+ },
+ "model": "claude-sonnet-5"
+}

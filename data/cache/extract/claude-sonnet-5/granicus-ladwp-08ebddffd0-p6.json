@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Geographic Information System Maintenance and Support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2000000,
+   "lead_time": null,
+   "sole_source_vendor": "POWER Engineers, Inc.",
+   "reason": "The Agreement will provide knowledge transfer and guidance from POWER Engineers, Inc. for a term of one year and a not to exceed amount of $2,000,000.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rental of Dump Trucks with Operators",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 26402833,
+   "lead_time": null,
+   "sole_source_vendor": "L.A.C. Motor Enterprises, Inc.",
+   "reason": "Approval of Contract No. 405 for Rental of Dump Trucks with Operators \u2013 L.A.C. Motor Enterprises, Inc.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Medium Voltage Cable",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Taihan Electric USA, Ltd.",
+   "reason": "Approval of Contract Nos. 678A, and 678B for Medium Voltage Cable with Taihan Electric USA, Ltd. and CME Wire and Cable, Inc., respectively.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Medium Voltage Cable",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CME Wire and Cable, Inc.",
+   "reason": "Approval of Contract Nos. 678A, and 678B for Medium Voltage Cable with Taihan Electric USA, Ltd. and CME Wire and Cable, Inc., respectively.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Energy Imbalance Market Merchant and Entity Settlement and Transmission Billing Systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 9868940,
+   "lead_time": null,
+   "sole_source_vendor": "Power Settlements Consulting and Software, LLC",
+   "reason": "This Agreement was originally the result of a competitive solicitation Request for Proposal No. 90478.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "38-kiloVolt (kV) Sulfur Hexafluoride (SF6) and Novec Insulated Switchgear",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 75000000,
+   "lead_time": null,
+   "sole_source_vendor": "WESCO Distribution, Inc.",
+   "reason": "This Contract is to furnish and deliver 38-kV, SF6, and Novec insulated switchgear, for a period of one year with two one-year optional renewal periods.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hitachi Energy USA, Inc.",
+   "model": null,
+   "part": "138-kiloVolt (kV) and 230-kV, Sulfur Hexafluoride (SF6) Gas, Circuit Breakers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 71736894,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The Contract is a result of a competitive bid process.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Various Substations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Ductile Iron Pipe and Rubber Gaskets",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 46013011,
+   "lead_time": null,
+   "sole_source_vendor": "United Waterworks, Inc.",
+   "reason": "The Contract is a result of a competitive bid process.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5396,
+  "out": 4452
+ },
+ "model": "claude-sonnet-5"
+}

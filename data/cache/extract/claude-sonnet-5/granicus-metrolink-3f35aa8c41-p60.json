@@ -1,0 +1,175 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trapeze",
+   "model": "EAM State of Good Repair (SGR) and Capital Planning Module",
+   "part": "Optimization of Trapeze EAM State of Good Repair (SGR) and Capital Planning Module",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1000000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "While Trapeze provides the software platform, Metrolink must still develop its own risk framework",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "FY27 Annual Systemwide PTC Onboard Rehabilitation Program - power supplies, radios, onboard computers, CDU, event recorder, GPS, axle generators, speed sensors, test equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2500000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "trains cannot operate without PTC and are reduced in speed when PTC fails en-route",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rehabilitation of Conference Room Equipment (AV systems)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 250000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "aging equipment that is no longer supported or receiving security updates",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rehabilitation of End-User Equipment (laptops, desktops, monitors, docking stations, tablets)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 486000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "continued use of aging, unsupported devices that pose operational and cybersecurity risks",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Nutanix",
+   "model": "Nutanix hyperconverged platform",
+   "part": "Nutanix Implementation \u2013 Phase 2 (compute, storage, network convergence)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 750000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Nutanix is a hyperconverged platform that combines, computer, storage and network into one platform",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cisco",
+   "model": "3800 Series",
+   "part": "Cisco 3800 Series Rehab / Replacement (network connectivity devices)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 450000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "eliminates the risks for out of date and unsupported devices",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Bombardier",
+   "model": null,
+   "part": "Bombardier Railcar Rebuild (EP199-19)",
+   "part_numbers": [
+    "EP199-19"
+   ],
+   "quantity": "33 cars",
+   "price_usd": 25462000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Continue to rebuild on remaining 33 Bombardier cars as next option orders",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hyundai Rotem",
+   "model": "HVAC units and controller box",
+   "part": "Rotem HVAC Overhaul/Rebuild EP205R-22",
+   "part_numbers": [
+    "EP205R-22"
+   ],
+   "quantity": null,
+   "price_usd": 1680000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Overhaul/rebuild on Hyundai Rotem HVAC units and controller box",
+   "equipment_class": "HVAC",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bombardier & Talgo-SYSTRA",
+   "model": null,
+   "part": "Car End-Door Improvement System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 142000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "New design on the end-door mechanism",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "F125",
+   "part": "F125 Intermediate Engine Overhaul (C175 engines)",
+   "part_numbers": [
+    "C175"
+   ],
+   "quantity": null,
+   "price_usd": 7000000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Required every 18,000 hours of engine operation",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Communication Trainline System Overhaul (power supply, destination screens, control units, PA)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1500000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Communication System Power Supply Install (fleet-wide)",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8617,
+  "out": 7033
+ },
+ "model": "claude-sonnet-5"
+}

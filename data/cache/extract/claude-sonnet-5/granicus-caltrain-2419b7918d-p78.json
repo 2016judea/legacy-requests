@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stadler Rail, Inc.",
+   "model": null,
+   "part": "hydrogen-powered passenger trainsets",
+   "part_numbers": [],
+   "quantity": "six",
+   "price_usd": 127000000,
+   "lead_time": null,
+   "sole_source_vendor": "Stadler Rail, Inc.",
+   "reason": "Caltrans announced a $127 agreement with Stadler Rail, Inc. for six hydrogen-powered passenger trainsets.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7353,
+  "out": 433
+ },
+ "model": "claude-sonnet-5"
+}

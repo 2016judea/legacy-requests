@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rubicon Water",
+   "model": null,
+   "part": "Purchase and maintenance of automated headgates",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 250000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Rubicon Systems America, Inc.",
+   "reason": "Rubicon Water America, Inc. is the sole manufacturer of Rubicon Water automated headgates.",
+   "equipment_class": "valve",
+   "installed_location": "branch canals",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "On-call HVAC maintenance services for package units, split systems, ductless split systems, and evaporative coolers",
+   "part_numbers": [],
+   "quantity": "45 package units, 26 split systems, 16 ductless split systems, and 12 evaporative coolers",
+   "price_usd": 250000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Clarke & Rush Mechanical, Inc.",
+   "reason": "After review of the provided quotes, Clarke & Rush Mechanical, Inc. was determined to be the lowest responsible bidder by Agency staff.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5110,
+  "out": 1661
+ },
+ "model": "claude-sonnet-5"
+}

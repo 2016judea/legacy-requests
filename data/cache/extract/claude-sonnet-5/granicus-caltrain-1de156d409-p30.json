@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Ticket Vending Machine (TVM) Rehabilitation - replaced obsolete components and added Clipper functionality",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 56000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The project also replaced components of the TVM which are obsolete and no longer supported by the manufacturer.",
+   "equipment_class": "other equipment",
+   "installed_location": "Caltrain stations",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Stadler",
+   "model": null,
+   "part": "PADS Gap Coverage - add Stadler EMU into existing PADS and modernize Xgate virtual server for redundancy",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 88000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "add Stadler EMU into existing PADS; and 3) modernize and visualize Xgate virtual server to provide server redundancy between San Jose Control Center and Menlo Park Control Center.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "San Jose Control Center and Menlo Park Control Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Dual Tone Module Frequency (DTMF)",
+   "part": "Signal State of Good Repair - purchase of DTMF radio activated crossing system for grade crossings",
+   "part_numbers": [],
+   "quantity": "9",
+   "price_usd": 10000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This is a radio activated crossing system that allows a hyrail operator to send a signal to the crossing gates which activates the gates and allows the hyrail operator to cross busy intersections. These were installed at nine (9) grade crossing on Caltrain's right of way.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Caltrain right of way, nine grade crossings",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "VHF voice communication system",
+   "part": "Migration to Digital Voice Radio - update existing VHF voice communication system by co-locating VHF sites with PTC sites",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This project will update existing VHF voice communication system by co-locating VHF sites with PTC sites that already have JPB fiber backhaul services.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Caltrain corridor",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Clipper Next Generation Validators",
+   "part": "Clipper Next Generation Validators installation support - electrical wiring and mounting for MTC-installed validators",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2000,
+   "lead_time": null,
+   "sole_source_vendor": "Metropolitan Transportation Commission (MTC)",
+   "reason": "This project prepared all the Caltrain stations to have the Next Generation Clipper Validators installed by the Metropolitan Transportation Commission (MTC).",
+   "equipment_class": "other equipment",
+   "installed_location": "Caltrain stations",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5067,
+  "out": 1788
+ },
+ "model": "claude-sonnet-5"
+}

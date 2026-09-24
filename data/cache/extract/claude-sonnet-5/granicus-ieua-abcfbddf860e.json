@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Construction contract to replace all devices using DeviceNet at RP-1",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1661810,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "DeviceNet is becoming obsolete and better protocols such as Ethernet are available.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "RP-1",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Rockwell",
+   "model": "PlantPAx 5.0",
+   "part": "Upgrading RP-1's current SCADA system to a single, integrated plant-wide Distributed Control System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The new technology installed as part of the RP-1 SCADA Migration Project will not support DeviceNet.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "RP-1",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3290,
+  "out": 857
+ },
+ "model": "claude-sonnet-5"
+}

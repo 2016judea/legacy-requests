@@ -1,0 +1,87 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Contract amendment with CTE for hydrogen fuel cell electric bus technical support services (operations/maintenance of refueling system, fuel procurement support, permanent station design/construction support, hydrogen fleet transition support)",
+   "part_numbers": [
+    "22-S-P-057"
+   ],
+   "quantity": null,
+   "price_usd": 1700000,
+   "lead_time": "extend the Contract term by four years through April 28, 2030",
+   "sole_source_vendor": "Center for Transportation and the Environment (CTE)",
+   "reason": "A single source amendment, rather than a new procurement, is recommended due to CTE's specialized expertise, institutional knowledge, and continuity on this highly technical and evolving project.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "North Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Purchase and delivery of new Fuel Cell Electric Buses (FCEBs) to replace diesel fleet at North Base",
+   "part_numbers": [],
+   "quantity": "108",
+   "price_usd": null,
+   "lead_time": "anticipated delivery by 2027",
+   "sole_source_vendor": null,
+   "reason": "the Board also authorized the purchase and delivery of up to 108 new FCEBs, with an anticipated delivery by 2027.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "North Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "10-bus Fuel Cell Electric Bus (FCEB) Demonstration Program buses",
+   "part_numbers": [],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Two of the 10 FCEBs included in the Demonstration Program were delivered in 2023, and the remaining eight FCEBs were delivered in summer of 2024.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "North Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Interim mobile hydrogen refueler for the FCEB Demonstration Program",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the Board approved acquisition of an interim mobile hydrogen refueler for the FCEB Demonstration Program and the construction work for modifications at North Base to enable indoor maintenance of the FCEBs.",
+   "equipment_class": "other equipment",
+   "installed_location": "North Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Permanent hydrogen fueling station design-build contract including design, construction, commissioning and maintenance services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "maintenance services for up to five years",
+   "sole_source_vendor": null,
+   "reason": "the Board awarded a design-build contract to provide the design, construction, and commissioning of a permanent hydrogen fueling station, along with maintenance services for up to five years.",
+   "equipment_class": "other equipment",
+   "installed_location": "North Base",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8399,
+  "out": 3576
+ },
+ "model": "claude-sonnet-5"
+}

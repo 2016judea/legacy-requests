@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement parts for hybrid transit vehicle no longer manufactured",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "hybrid vehicle unique as no longer manufactured; needed parts will have to be built or sourced as a used component",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Motorola Solutions",
+   "model": null,
+   "part": "Maintenance and support of Motorola radios",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 405882.94,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Amendment 1 to the contract for the maintenance and support of Motorola radios extends the base term by three years from five to eight years and adds funds for the three-year extension.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Darktrace",
+   "model": "Darktrace AI Cybersecurity",
+   "part": "Darktrace AI Cybersecurity Subscription for 3-years.",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 949500.0,
+   "lead_time": null,
+   "sole_source_vendor": "ePlus",
+   "reason": "Darktrace AI Cybersecurity Subscription for 3-years.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": null,
+   "part": "FY26 Annual Blanket PO for Dell hardware.",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 350000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Dell Marketing",
+   "reason": "FY26 Annual Blanket PO for Dell hardware.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10307,
+  "out": 4075
+ },
+ "model": "claude-sonnet-5"
+}

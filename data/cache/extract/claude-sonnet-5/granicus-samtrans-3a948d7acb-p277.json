@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "New Flyer",
+   "model": null,
+   "part": "Retrofit 72 Buses with Driver Barrier Doors",
+   "part_numbers": [],
+   "quantity": "72",
+   "price_usd": 644291,
+   "lead_time": null,
+   "sole_source_vendor": "New Flyer of America",
+   "reason": "Awarding a Single-source Contract to New Flyer of America to Retrofit 72 Buses with Driver Barrier Doors for a Total Not-to-exceed Amount of $644,291",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5347,
+  "out": 633
+ },
+ "model": "claude-sonnet-5"
+}

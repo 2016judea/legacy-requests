@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Upgrade elevator motor assemblies (office units)",
+   "part_numbers": [],
+   "quantity": "3 lobby elevators",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Project may encounter delay for specialized OEM parts/services",
+   "equipment_class": "motor/drive",
+   "installed_location": "Central Building (Central Office and Garage)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Upgrade hydraulic system (garage elevator)",
+   "part_numbers": [],
+   "quantity": "1 elevator (parking garage)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Project may encounter delay for specialized OEM parts/services",
+   "equipment_class": "other equipment",
+   "installed_location": "Central Building parking garage",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Related controllers, control switches, door operators/locks, brake pads, clutches, motion sensors and safety features",
+   "part_numbers": [],
+   "quantity": "4 elevators",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Project may encounter delay for specialized OEM parts/services",
+   "equipment_class": "other equipment",
+   "installed_location": "Central Building (Central Office and Garage)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8275,
+  "out": 2541
+ },
+ "model": "claude-sonnet-5"
+}

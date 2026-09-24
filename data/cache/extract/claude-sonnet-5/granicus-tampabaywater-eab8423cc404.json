@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bailey Valve Inc.",
+   "model": null,
+   "part": "Bailey sleeve valves - parts and services (maintenance, repairs, service)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 150000,
+   "lead_time": null,
+   "sole_source_vendor": "Fluid Control Specialties, LLC",
+   "reason": "The proprietary design of this equipment requires that all maintenance, repairs and service be completed by the valve manufacturer, Bailey Valve Inc.",
+   "equipment_class": "valve",
+   "installed_location": "multiple locations throughout the Agency infrastructure",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2589,
+  "out": 221
+ },
+ "model": "claude-sonnet-5"
+}

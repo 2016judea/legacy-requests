@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rubicon Systems America, Inc.",
+   "model": null,
+   "part": "purchase and maintenance of automated headgates",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 250000,
+   "lead_time": null,
+   "sole_source_vendor": "Rubicon Systems America, Inc.",
+   "reason": "Consider approving the continuation of sole source vendor, Rubicon Systems America, Inc., for the purchase and maintenance of automated headgates in an amount not to exceed $250,000 per year.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "On-call HVAC Maintenance Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 250000,
+   "lead_time": null,
+   "sole_source_vendor": "Clarke & Rush Mechanical, Inc.",
+   "reason": "Consider approving General Services Agreement No. FS-2460639 with Clarke & Rush Mechanical, Inc. in an amount not to exceed $250,000 for On-call HVAC Maintenance Services.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Caterpillar",
+   "model": "315",
+   "part": "purchase of a Caterpillar 315 Excavator",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 328785,
+   "lead_time": null,
+   "sole_source_vendor": "Holt of California",
+   "reason": "Consider approving the purchase of a Caterpillar 315 Excavator from Holt of California using the Sourcewell Cooperative Purchase Contract No. 020223-CAT in an amount not to exceed $328,785.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Lennon Flume",
+   "part": "increase in the purchase amount of Lennon Flume",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 200000,
+   "lead_time": null,
+   "sole_source_vendor": "Frank M. Booth, Inc.",
+   "reason": "Consider approving an increase in the purchase amount of Lennon Flume for sole source vendor Frank M. Booth, Inc., on an as-needed basis in an additional amount not to exceed $200,000.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6044,
+  "out": 3012
+ },
+ "model": "claude-sonnet-5"
+}

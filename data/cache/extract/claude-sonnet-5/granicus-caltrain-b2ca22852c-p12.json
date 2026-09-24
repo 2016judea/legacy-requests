@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Locomotive overhaul - main engine, HEP engine, HEP hatch, air equipment, car body, trucks, wheels, electrical components reconditioned or replaced",
+   "part_numbers": [],
+   "quantity": "6 locomotives (#923, 924, 925, 926, 927, 928)",
+   "price_usd": null,
+   "lead_time": "approximately 8 months per locomotive; 4 years overall",
+   "sole_source_vendor": "Alstom",
+   "reason": "The schedule has been delayed due to part availability. Alstom is working with multiple vendors to procure the parts needed.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Visual Messaging Signs (VMS)",
+   "part": "Full replacement of existing obsolete VMS signs and predictive arrival and departure system (PADS)",
+   "part_numbers": [],
+   "quantity": "22 selected stations",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The current VMS signs are no longer supported by the manufacturer and the predictive arrival and departure system (PADS) is becoming obsolete.",
+   "equipment_class": "other equipment",
+   "installed_location": "22 selected stations between San Francisco and Tamien",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Broadband wireless communications equipment (train roof antennas, wayside radios, wayside antennas) installed on EMU trains and OCS poles",
+   "part_numbers": [],
+   "quantity": "11 EMU trains equipped to date",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "A total of 11 EMU trains have been equipped with the Broadband equipment to date.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Caltrain corridor / OCS poles",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5964,
+  "out": 980
+ },
+ "model": "claude-sonnet-5"
+}

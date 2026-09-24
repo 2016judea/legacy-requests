@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Thermofin",
+   "model": null,
+   "part": "Replacement heat exchangers (cooling coils) for MFP generator cooling water systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Thermofin",
+   "reason": "the only company that could reliably manufacture replacements was Thermofin.",
+   "equipment_class": "other equipment",
+   "installed_location": "Middle Fork American River Project (MFP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thermofin",
+   "model": null,
+   "part": "Replacement cooling coils for Ralston Powerhouse upper and lower guide bearings",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 196229.0,
+   "lead_time": null,
+   "sole_source_vendor": "Thermofin",
+   "reason": "staff received Quote 26-28265-Rev3 from Thermofin for procurement of replacement cooling coils for the Ralston Powerhouse upper and lower guide bearings in the amount of $178,390",
+   "equipment_class": "other equipment",
+   "installed_location": "Ralston Powerhouse",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thermofin",
+   "model": null,
+   "part": "Upper guide bearing cooling coils for Middle Fork generator Units 1 and 2",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Thermofin",
+   "reason": "the only company that could reliably manufacture replacements was Thermofin.",
+   "equipment_class": "other equipment",
+   "installed_location": "Middle Fork Powerhouse",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3599,
+  "out": 918
+ },
+ "model": "claude-sonnet-5"
+}

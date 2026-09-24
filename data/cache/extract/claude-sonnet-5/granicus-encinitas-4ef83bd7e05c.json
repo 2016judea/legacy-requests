@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "New rodder truck outfit fabricated and installed on existing chassis",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 115792,
+   "lead_time": null,
+   "sole_source_vendor": "AZ Wastewater Industries, Inc (AWI)",
+   "reason": "AWI is the only reasonably known, capable supplier to fabricate and install the rodder outfit, due to the unique nature of the WWC Division\u2019s requirements, as well as current market conditions.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Wastewater Operations Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MME",
+   "model": "Vac-Con",
+   "part": "Replacement vacuum truck (combination sewer/storm drain cleaner)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 638600,
+   "lead_time": null,
+   "sole_source_vendor": "Municipal Maintenance Equipment (MME)",
+   "reason": "MME is the only company able to provide the type of vehicle that meets the City\u2019s requirements. MME manufactures the Vac-Con, the only combination cleaner with an auxiliary engine, while all other manufacturers provided single engine units.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Wastewater Operations Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6220,
+  "out": 1455
+ },
+ "model": "claude-sonnet-5"
+}

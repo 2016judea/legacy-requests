@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": "Oracle",
+   "model": null,
+   "part": "Oracle Perpetual License Software Support and Maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 6403299,
+   "lead_time": "up to 14 months",
+   "sole_source_vendor": "Oracle America, Inc.",
+   "reason": "Approval of Contract No. 8039A for Oracle Perpetual License Software Support and Maintenance with Oracle America, Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rental of Cranes with Operators",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 15702540,
+   "lead_time": "three years",
+   "sole_source_vendor": "Reliable Construction Services, LLC",
+   "reason": "The Contracts are a result of a competitive bid process.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rental of Cranes with Operators",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 15702540,
+   "lead_time": "three years",
+   "sole_source_vendor": "The Crane Guys, LLC",
+   "reason": "The Contracts are a result of a competitive bid process.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Transformers, 4.8-kV, Three-Phase, Padmount, Dead-Front",
+   "part": "Transformers, 4.8-kV, Three-Phase, Padmount, Dead-Front",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 24226932,
+   "lead_time": "one year with two one-year optional renewal periods",
+   "sole_source_vendor": "Doubletree Systems, Inc.",
+   "reason": "Approval Contract No. 493 for Transformers, 4.8-kV, Three-Phase, Padmount, Dead-Front with Doubletree Systems, Inc.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Transformers, Subsurface, Single-Phase",
+   "part": "Transformers, Subsurface, Single-Phase",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 40082850,
+   "lead_time": "one year with two one-year optional renewal periods",
+   "sole_source_vendor": "Cheryong Electric Co., Ltd.",
+   "reason": "Approval of Contract No. 679 for Transformers, Subsurface, Single-Phase with Cheryong Electric Co., Ltd.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Underground Cable Accessories",
+   "part": "Underground Cable Accessories",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 48007419,
+   "lead_time": "one year with two one-year renewal options",
+   "sole_source_vendor": "OneSource Supply Solutions, LLC",
+   "reason": "The Contract is the result of a competitive bid process.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Transformer, 235-kV to 225-kV, 1290-MVA, 3-Phase",
+   "part": "Transformer, 235-kV to 225-kV, 1290-MVA, 3-Phase, for Sylmar Switching Station",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 11016900,
+   "lead_time": null,
+   "sole_source_vendor": "Baoding Tianwei Baobian Electric Co., Ltd.",
+   "reason": "The Contract is a result of a competitive bid process.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Sylmar Switching Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Power Costs, Inc.",
+   "model": "Energy Imbalance Market Meter Data Management System Solution and Support Services",
+   "part": "Energy Imbalance Market Meter Data Management System Solution and Support Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 4379071,
+   "lead_time": "up to ten years",
+   "sole_source_vendor": "Power Costs, Inc.",
+   "reason": "Approval of Amendment No. 2 to Agreement No. 47573 for Energy Imbalance Market Meter Data Management System Solution and Support Services with Power Costs, Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Power Costs, Inc.",
+   "model": "Energy Imbalance Market Merchant Bidding & Scheduling System",
+   "part": "Energy Imbalance Market Merchant Bidding & Scheduling System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 18541747,
+   "lead_time": "up to ten years",
+   "sole_source_vendor": "Power Costs, Inc.",
+   "reason": "Approval of Amendment No. 2 to Agreement No. 47577 for Energy Imbalance Market Merchant Bidding & Scheduling System with Power Costs, Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7380,
+  "out": 4314
+ },
+ "model": "claude-sonnet-5"
+}

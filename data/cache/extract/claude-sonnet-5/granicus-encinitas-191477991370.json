@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Automated Logic",
+   "model": "ALC",
+   "part": "Maintenance and repair of Automated Logic (ALC) HVAC control systems at City facilities",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 71218.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Air Enterprises, LLC",
+   "reason": "the City entered into a three-year agreement with Control Air Enterprises, LLC (Control Air) for maintenance and repair of Automated Logic (ALC) HVAC control systems at City facilities",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City Hall, Public Works, Community Senior Center, and Library facilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Automated Logic",
+   "model": "ALC",
+   "part": "Installation of HVAC controls at the Pacific View Arts Center, integrating into City's existing controls system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 19500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Air Enterprises, LLC",
+   "reason": "Control Air has proposed integrating the Pacific View HVAC system into the City\u2019s existing controls.",
+   "equipment_class": "HVAC",
+   "installed_location": "Pacific View Arts Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Automated Logic",
+   "model": "ALC",
+   "part": "Integration of generator and boiler into existing HVAC controls system for monitoring and alerts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5400.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Air Enterprises, LLC",
+   "reason": "The system is in need of an upgrade to integrate the generator and boiler into the controls to provide an additional layer of monitoring and alerts for staff for any issues that may impact these two (2) critical components.",
+   "equipment_class": "HVAC",
+   "installed_location": "City Hall",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Automated Logic",
+   "model": "ALC",
+   "part": "Replacement of non-operable and obsolete parts of existing HVAC control system to be compatible with current ALC system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5400.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Air Enterprises, LLC",
+   "reason": "several parts of the existing system were discovered to be non-operable and obsolete",
+   "equipment_class": "HVAC",
+   "installed_location": "City Hall",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Unforeseen, as-needed repairs not covered under the standard maintenance agreement over the life of the agreement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 25000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Air Enterprises, LLC",
+   "reason": "staff recommends adding $25,000 to the agreement not-to-exceed amount for unforeseen, as-needed repairs which are not covered under the standard maintenance agreement over the life of the agreement",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5537,
+  "out": 1697
+ },
+ "model": "claude-sonnet-5"
+}

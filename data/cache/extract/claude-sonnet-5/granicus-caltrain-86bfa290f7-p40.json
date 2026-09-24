@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Armored Car Revenue Collection, Counting, and Deposit Services for 83 Ticket Vending Machines at 31 Caltrain stations",
+   "part_numbers": [],
+   "quantity": "83 Ticket Vending Machines, 31 stations",
+   "price_usd": 3000000,
+   "lead_time": null,
+   "sole_source_vendor": "Loomis Armored US, LLC",
+   "reason": "Brinks\u2019 performance has significantly deteriorated and attempts to remedy the deficiencies have been unsuccessful.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "31 Caltrain stations",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3489,
+  "out": 1052
+ },
+ "model": "claude-sonnet-5"
+}

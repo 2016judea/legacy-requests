@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": "Penta Corporation",
+   "model": "Radio Dispatch System (RDS)",
+   "part": "Master Service Agreement for Radio Dispatch System providing Technology Refresh, Maintenance and Support Services, and Additional As-Needed Services",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 850000.0,
+   "lead_time": "Four-Year Term",
+   "sole_source_vendor": "Penta Corporation",
+   "reason": "Penta is the sole vendor able to provide technology refresh and deliver specialized support and services to ensure continued maintenance and operational availability of RDS.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Central Control Facility and Back-up Central Control Facility",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Penta Corporation",
+   "model": "Radio Dispatch System (RDS)",
+   "part": "Software and Hardware Upgrade (Technology Refresh)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 484694.5,
+   "lead_time": "Year 1 of Four-Year Term",
+   "sole_source_vendor": "Penta Corporation",
+   "reason": "The new MSA also includes a technology upgrade in the first year to refresh obsolete hardware and software that has not been upgraded since RDS was first installed.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Central Control Facility and Back-up Central Control Facility",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Penta Corporation",
+   "model": "Radio Dispatch System (RDS)",
+   "part": "Annual Fixed-Fee Hosting and Maintenance and Support Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 250694.5,
+   "lead_time": "Four-Year Term",
+   "sole_source_vendor": "Penta Corporation",
+   "reason": "Penta is the sole vendor able to provide technology refresh and deliver specialized support and services to ensure continued maintenance and operational availability of RDS.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Central Control Facility and Back-up Central Control Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Penta Corporation",
+   "model": "Radio Dispatch System (RDS)",
+   "part": "Additional As-Needed Services for RDS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 114611.0,
+   "lead_time": "Four-Year Term",
+   "sole_source_vendor": "Penta Corporation",
+   "reason": "Penta is the sole vendor able to provide technology refresh and deliver specialized support and services to ensure continued maintenance and operational availability of RDS.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Central Control Facility and Back-up Central Control Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Penta Corporation",
+   "model": "Stancil/Westek",
+   "part": "Year 1: Existing System Support for Penta and Stancil/Westek",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 106876.5,
+   "lead_time": "Year 1",
+   "sole_source_vendor": "Penta Corporation",
+   "reason": "Penta is the sole vendor able to provide technology refresh and deliver specialized support and services to ensure continued maintenance and operational availability of RDS.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Central Control Facility and Back-up Central Control Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Penta Corporation",
+   "model": "Penta Media Exchange (PMx) / Dialogic",
+   "part": "Year 2: Post Hardware Refresh warranty support for Penta Media Exchange (PMx) and Dialogic",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 37656.0,
+   "lead_time": "Year 2",
+   "sole_source_vendor": "Penta Corporation",
+   "reason": "Penta is the sole vendor able to provide technology refresh and deliver specialized support and services to ensure continued maintenance and operational availability of RDS.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Central Control Facility and Back-up Central Control Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Penta Corporation",
+   "model": "Dialogic/Enghouse",
+   "part": "Year 3: Penta+ Dialogic/Enghouse support + escrow",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 51109.0,
+   "lead_time": "Year 3",
+   "sole_source_vendor": "Penta Corporation",
+   "reason": "Penta is the sole vendor able to provide technology refresh and deliver specialized support and services to ensure continued maintenance and operational availability of RDS.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Central Control Facility and Back-up Central Control Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Penta Corporation",
+   "model": "Dialogic/Enghouse",
+   "part": "Year 4: Penta+ Dialogic/Enghouse support+ escrow",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 55053.0,
+   "lead_time": "Year 4",
+   "sole_source_vendor": "Penta Corporation",
+   "reason": "Penta is the sole vendor able to provide technology refresh and deliver specialized support and services to ensure continued maintenance and operational availability of RDS.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Central Control Facility and Back-up Central Control Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8396,
+  "out": 4048
+ },
+ "model": "claude-sonnet-5"
+}

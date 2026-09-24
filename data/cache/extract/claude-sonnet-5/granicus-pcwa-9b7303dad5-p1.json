@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hach Company",
+   "model": null,
+   "part": "Hach Company Chlorine Analyzers and Turbidimeter Automatic Cleaning Heads",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 152800,
+   "lead_time": null,
+   "sole_source_vendor": "Hach Company",
+   "reason": "Consider approving a competitive pricing exception for Hach Company instruments and equipment and purchase of Hach Company Chlorine Analyzers and Turbidimeter Automatic Cleaning Heads in an amount not to exceed $152,800.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5864,
+  "out": 569
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "General Electric",
+   "model": "D20",
+   "part": "Remote Terminal Unit (RTU) at Ralston Powerhouse being replaced",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "has been on the market for more than 20 years and has reached the end of its opera\ti\tonal life cycle and is no longer supported",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Ralston Powerhouse (RAPH)",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Schweitzer Engineering Laboratories (SEL)",
+   "model": null,
+   "part": "New RTU system consisting of communication modules, input/output boards, and power supplies to replace GE D20 RTU",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 194500,
+   "lead_time": null,
+   "sole_source_vendor": "SEL Engineering Services, Inc.",
+   "reason": "staff evaluated RTUs from several manufacturers and ul\ti\tmately selected Schweitzer Engineering Laboratories (SEL) RTU products to ensure interoperability with other SEL devices as well as for its ease of programing for which staff have been trained and are experienced",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Ralston Powerhouse (RAPH)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3336,
+  "out": 1088
+ },
+ "model": "claude-sonnet-5"
+}

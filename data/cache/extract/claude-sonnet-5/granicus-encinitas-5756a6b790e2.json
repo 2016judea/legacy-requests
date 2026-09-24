@@ -1,0 +1,59 @@
+{
+ "records": [
+  {
+   "manufacturer": "SWARCO McCain",
+   "model": "2070LX",
+   "part": "2070LX ATC CONTROLLER: 1C, 2E+, 3B, 4A, LINUX W/ OMNI",
+   "part_numbers": [],
+   "quantity": "45",
+   "price_usd": 177754.95,
+   "lead_time": "5 months",
+   "sole_source_vendor": "SWARCO McCain Inc.",
+   "reason": "Vendor is the only manufacturer of the equip. models.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Citywide (Encinitas)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SWARCO McCain",
+   "model": "2010ECLip",
+   "part": "CMU, 2010ECLIP W/10/100 ETHERNET PORT, EDI",
+   "part_numbers": [],
+   "quantity": "15",
+   "price_usd": 18604.35,
+   "lead_time": "5 months",
+   "sole_source_vendor": "SWARCO McCain Inc.",
+   "reason": "Vendor is the only manufacturer of the equip. models.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Citywide (Encinitas)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Reno",
+   "model": "C-1100 Series",
+   "part": "DET, RENO C-1100-B-SS, 2 CHAN LCD *DETECTOR CARD ONLY* *LOOPS NOT INCLUDED*",
+   "part_numbers": [
+    "C-1100-B-SS"
+   ],
+   "quantity": "159",
+   "price_usd": 101798.16,
+   "lead_time": "5 months",
+   "sole_source_vendor": "SWARCO McCain Inc.",
+   "reason": "Vendor is the only manufacturer of the equip. models.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Citywide (Encinitas)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6742,
+  "out": 624
+ },
+ "model": "claude-sonnet-5"
+}

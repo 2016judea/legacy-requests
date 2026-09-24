@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rehabilitation of 19 coach and cab out-of-service railcars",
+   "part_numbers": [],
+   "quantity": "19 railcars",
+   "price_usd": 21021924.16,
+   "lead_time": null,
+   "sole_source_vendor": "SYSTRA Canada",
+   "reason": "The other 15 cars are out-of-service due to multiple components that are obsolete, damages due to accidents, or vandalism.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Railroad track materials such as frogs, transition rail, and samson stock rail",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5050071,
+   "lead_time": null,
+   "sole_source_vendor": "Voestalpine Railway Systems Nortrak LLC",
+   "reason": "The Authority requires track materials such as frogs, transition rail, and samson stock rail to support the continued maintenance and rehabilitation of its right-of-way system.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Train Wash Upgrade Project - Train Wash equipment repairs and upgrades",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 846029.35,
+   "lead_time": null,
+   "sole_source_vendor": "N/S Corporation",
+   "reason": "The existing Train Wash system is not functioning properly and is currently not recycling water.",
+   "equipment_class": "other equipment",
+   "installed_location": "Metrolink Central Maintenance Facility (CMF)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6358,
+  "out": 1564
+ },
+ "model": "claude-sonnet-5"
+}

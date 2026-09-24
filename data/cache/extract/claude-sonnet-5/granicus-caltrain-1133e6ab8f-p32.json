@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Wabtec",
+   "model": null,
+   "part": "maintenance and as-needed services for ROCS, PADS, and SCADA Train Control Systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3982553,
+   "lead_time": "five-year term",
+   "sole_source_vendor": "Wabtec",
+   "reason": "Wabtec is the only vendor with proprietary rights and technical capability to support and maintain Caltrain\u2019s current Train Control Systems: ROCS, PADS, and SCADA",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3678,
+  "out": 921
+ },
+ "model": "claude-sonnet-5"
+}

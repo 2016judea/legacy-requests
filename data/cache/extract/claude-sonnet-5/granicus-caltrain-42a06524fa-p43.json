@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stadler",
+   "model": "Electric Multiple Unit (EMU)",
+   "part": "Technical Support, Spare Supply, and Materials Management Services for EMU fleet",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stadler",
+   "reason": "Reviewed single source justification for entering a contract with Stadler as the only vendor with technical qualification and Federal Rail Administration (FRA) compliance, price certainty without impact to 10-year Financial Plan projection, and avoid additional procurement process",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stadler",
+   "model": "Stadler Rail Maintenance System (SRMS)",
+   "part": "Proprietary maintenance tracking software system for EMU fleet",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stadler",
+   "reason": "Stadler as the manufacturer, has proprietary software, inventory management services, and Caltrain will have quick access to parts from Stadler\u2019s inventory and Stadler\u2019s relationships with suppliers",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stadler",
+   "model": "Rail Data Services (RDS)",
+   "part": "Proprietary rail data services system for EMU fleet maintenance data analysis",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stadler",
+   "reason": "Stadler as the manufacturer, has proprietary software, inventory management services, and Caltrain will have quick access to parts from Stadler\u2019s inventory and Stadler\u2019s relationships with suppliers",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "EMU brake system overhaul",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stadler",
+   "reason": "Work tasks for Stadler include material and spare supply inventory and management, maintenance planning and data analyses, material procurement, technical support, preventive and corrective maintenance training, overhaul brake system",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Automatic Passenger Counter (APC)",
+   "part": "Automatic Passenger Counter (APC) software upgrade and calibration",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Automatic Passenger Counter (APC) software upgrade and calibration",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5992,
+  "out": 1006
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Dell",
+   "model": null,
+   "part": "Servers disposed as no longer needed",
+   "part_numbers": [],
+   "quantity": "seven",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The seven Dell servers were disposed as they were no longer needed by the agency because our storage of electronic files/information has been transferred to the cloud network.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "EMC",
+   "model": "SAN Unity 350F",
+   "part": "SAN units disposed as no longer needed",
+   "part_numbers": [],
+   "quantity": "two",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The two EMC SAN Unity 350F units were disposed as they were no longer needed by the agency because our electronic files/information storage has been transferred to the cloud network.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Palo Alto",
+   "model": "PA",
+   "part": "PA units disposed as no longer needed",
+   "part_numbers": [],
+   "quantity": "two",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The two Palo Alto PA units and Rubrik Backup Appliance were disposed as they were no longer needed by the agency because our electronic files/information has been transferred to the cloud network.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rubrik",
+   "model": "Backup Appliance",
+   "part": "Backup appliance disposed as no longer needed",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The two Palo Alto PA units and Rubrik Backup Appliance were disposed as they were no longer needed by the agency because our electronic files/information has been transferred to the cloud network.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Miscellaneous surplus computer equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The miscellaneous surplus computer equipment was obsolete and replaced with newer units.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2339,
+  "out": 1480
+ },
+ "model": "claude-sonnet-5"
+}

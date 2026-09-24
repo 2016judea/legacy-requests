@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Badger Meter, Inc.",
+   "model": "Orion",
+   "part": "Badger Orion cellular endpoints",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1500000,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "Consider approving a Competitive Pricing Exception with Badger Meter, Inc. as a sole source vendor and authorize the purchase of Badger Orion cellular endpoints in an amount not to exceed $1,500,000.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8739,
+  "out": 509
+ },
+ "model": "claude-sonnet-5"
+}

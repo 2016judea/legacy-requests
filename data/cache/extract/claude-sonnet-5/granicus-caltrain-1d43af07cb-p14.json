@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Next Generation Visual Messaging Signs (VMS) full replacement",
+   "part_numbers": [],
+   "quantity": "22 stations",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The current VMS signs are no longer supported by the manufacturer and the predictive arrival and departure system (PADS) is becoming obsolete.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "22 selected stations between San Francisco and Tamien",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Broadband wireless communications system - wayside antennas and train-mounted radios/antennas",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Additional radio antennas were installed to improve coverage.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Caltrain corridor (OCS poles)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Software patch for train roof antenna to correct EMI issue",
+   "part_numbers": [],
+   "quantity": "all trains",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Vendor developed a software patch and uploaded the patch to all the trains.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Precast Mini-High Platforms installation for ADA passenger access",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Project will allow for more efficient ADA access to passenger vehicles for patrons decreasing dwell time thus improving service for all passengers and reducing operating costs.",
+   "equipment_class": "other equipment",
+   "installed_location": "Burlingame, Hayward Park and Lawrence Stations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "New signal house installation at grade crossing",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "TASI trenched and installed conduits under the tracks for the new signal house.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "4th and 5th Ave, San Mateo",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Quad gates or exit gates installation at grade crossings",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This project will design and implement safety improvements including quad gates or exit gates at the 4th and 5th Ave grade crossings in San Mateo.",
+   "equipment_class": "other equipment",
+   "installed_location": "4th and 5th Ave, San Mateo",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5178,
+  "out": 3199
+ },
+ "model": "claude-sonnet-5"
+}

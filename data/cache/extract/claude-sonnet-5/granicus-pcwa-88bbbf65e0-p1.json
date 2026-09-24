@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Innomotics",
+   "model": "SINAMICS GH180 PERFECT HARMONY",
+   "part": "Variable frequency drive power cells and related services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 139000,
+   "lead_time": null,
+   "sole_source_vendor": "Innomotics, LLC",
+   "reason": "Consider approving a Competitive Pricing Exception with Innomotics, LLC, as a sole source vendor",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6476,
+  "out": 312
+ },
+ "model": "claude-sonnet-5"
+}

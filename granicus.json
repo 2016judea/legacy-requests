@@ -1,0 +1,21 @@
+[
+ {"slug": "ieua", "host": "ieua", "views": [1, 3], "agency": "Inland Empire Utilities Agency", "state": "CA"},
+ {"slug": "ccwater", "host": "ccwater", "views": [3], "agency": "Contra Costa Water District", "state": "CA"},
+ {"slug": "cvwd", "host": "cvwd", "views": [1], "agency": "Coachella Valley Water District", "state": "CA"},
+ {"slug": "ladwp", "host": "ladwp", "views": [2], "agency": "Los Angeles Department of Water and Power", "state": "CA"},
+ {"slug": "pcwa", "host": "pcwa", "views": [1], "agency": "Placer County Water Agency", "state": "CA"},
+ {"slug": "wsscwater", "host": "wsscwater", "views": [2], "agency": "WSSC Water", "state": "MD"},
+ {"slug": "tampabaywater", "host": "tampabaywater", "views": [1], "agency": "Tampa Bay Water", "state": "FL"},
+ {"slug": "lawa", "host": "lawa", "views": [6], "agency": "Los Angeles World Airports", "state": "CA"},
+ {"slug": "portofla", "host": "portofla", "views": [9], "agency": "Port of Los Angeles", "state": "CA"},
+ {"slug": "portofsandiego", "host": "portofsandiego", "views": [1], "agency": "Port of San Diego", "state": "CA"},
+ {"slug": "samtrans", "host": "samtrans", "views": [1], "agency": "San Mateo County Transit District (SamTrans)", "state": "CA"},
+ {"slug": "caltrain", "host": "samtrans", "views": [3], "agency": "Peninsula Corridor Joint Powers Board (Caltrain)", "state": "CA"},
+ {"slug": "metrolink", "host": "metrolink", "views": [8], "agency": "Southern California Regional Rail Authority (Metrolink)", "state": "CA"},
+ {"slug": "sandag", "host": "sandag", "views": [1], "agency": "San Diego Association of Governments", "state": "CA"},
+ {"slug": "elkgrove", "host": "elkgrove", "views": [14], "agency": "City of Elk Grove", "state": "CA"},
+ {"slug": "encinitas", "host": "encinitas", "views": [12], "agency": "City of Encinitas", "state": "CA"},
+ {"slug": "folsom", "host": "folsom", "views": [8], "agency": "City of Folsom", "state": "CA"},
+ {"slug": "sanmarcos", "host": "sanmarcos", "views": [3], "agency": "City of San Marcos", "state": "CA"},
+ {"slug": "vista", "host": "vista", "views": [3], "agency": "City of Vista", "state": "CA"}
+]

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Giro, Inc.",
+   "model": "Hastus",
+   "part": "Hastus Scheduling Software maintenance and support services, and 80 days of as-needed professional services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1643706,
+   "lead_time": null,
+   "sole_source_vendor": "Giro, Inc.",
+   "reason": "Giro, Inc. of Montreal, Canada (Giro) is the developer and owner of the Hastus Software; and Whereas, Giro provides exclusive maintenance and support services (Services) for the Hastus Software",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6682,
+  "out": 235
+ },
+ "model": "claude-sonnet-5"
+}

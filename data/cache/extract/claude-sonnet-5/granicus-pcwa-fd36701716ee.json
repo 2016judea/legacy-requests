@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Voith Hydro Inc.",
+   "model": null,
+   "part": "Turbine Needle & Injector Kits (needle bodies, needle tips, needle seats)",
+   "part_numbers": [],
+   "quantity": "up to four needles (Units 1 and 2 have 6 needles each)",
+   "price_usd": 412217,
+   "lead_time": ">10 months",
+   "sole_source_vendor": "Voith Hydro Inc.",
+   "reason": "As the original equipment manufacturer (OEM), Voith Hydro Inc., is the only manufacturer that can guarantee form, fit, and function.",
+   "equipment_class": "other equipment",
+   "installed_location": "Middle Fork Powerhouse",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3188,
+  "out": 243
+ },
+ "model": "claude-sonnet-5"
+}

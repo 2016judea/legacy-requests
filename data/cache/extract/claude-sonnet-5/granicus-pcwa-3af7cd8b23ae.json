@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sulzer/Johnston",
+   "model": "Vertical Turbine Pump",
+   "part": "Two upgraded vertical turbine pump discharge assemblies for cooling water pump replacement",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 89441,
+   "lead_time": null,
+   "sole_source_vendor": "Flo-Line Technology, Inc.",
+   "reason": "the local distributor and original equipment manufacturer (OEM) for the Sulzer/Johnston vertical turbine pumps installed at OXPH",
+   "equipment_class": "pump",
+   "installed_location": "Oxbow Powerhouse (OXPH)",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3566,
+  "out": 233
+ },
+ "model": "claude-sonnet-5"
+}

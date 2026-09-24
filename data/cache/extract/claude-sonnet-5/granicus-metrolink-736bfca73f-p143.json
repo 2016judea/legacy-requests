@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bombardier",
+   "model": null,
+   "part": "rebuild of the 33 remaining Bombardier rail cars (26 Generation-3 and 7 Generation-2)",
+   "part_numbers": [],
+   "quantity": "33 rail cars (26 Generation-3, 7 Generation-2)",
+   "price_usd": 83360742.82,
+   "lead_time": null,
+   "sole_source_vendor": "Talgo-SYSTRA Joint Venture",
+   "reason": "the build quality of these cars with the existing contractor has been phenomenal and having the same vendor provide the same overhaul and improvement ensures the same systems and parts throughout the entire fleet",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Metrolink fleet",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Cab Room Camera and Locomotive Digital Video Recorder (LDVR) System Replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1727696,
+   "lead_time": null,
+   "sole_source_vendor": "Railhead Corporation",
+   "reason": "the cab camera and locomotive digital video recorder (LDVR) system currently installed in Metrolink's fleet is obsolete and in need of replacement",
+   "equipment_class": "other equipment",
+   "installed_location": "Metrolink fleet",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8037,
+  "out": 1162
+ },
+ "model": "claude-sonnet-5"
+}

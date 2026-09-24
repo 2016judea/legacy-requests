@@ -1,0 +1,45 @@
+{
+ "records": [
+  {
+   "manufacturer": "Wabtec",
+   "model": null,
+   "part": "Maintenance and support services and additional as-needed services for Caltrain's Train Control System (ROCS, SCADA, PADS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3982553,
+   "lead_time": null,
+   "sole_source_vendor": "Wabtec Transportation System, LLC",
+   "reason": "Wabtec is the sole vendor able to provide and deliver specialized support and services for these Systems",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Caltrain",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Mobile App Parking Services (mobile parking payment platform)",
+   "part_numbers": [
+    "158974"
+   ],
+   "quantity": null,
+   "price_usd": 900000,
+   "lead_time": null,
+   "sole_source_vendor": "ParkMobile, LLC",
+   "reason": "ParkMobile offers a no-cost implementation, structured fixed fees, and a simplified user experience focused solely on mobile parking payments.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Caltrain",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8220,
+  "out": 853
+ },
+ "model": "claude-sonnet-5"
+}

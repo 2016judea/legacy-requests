@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "PAWS (Pedestrian Audible Warning System) control equipment at pedestrian crossings",
+   "part_numbers": [],
+   "quantity": "7 pedestrian crossings",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The existing PAWS control equipment has become technologically obsolete, making spare parts difficult or impossible to obtain, and thereby compromising the system's reliability and maintenance viability.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "San Clemente Beach Trail pedestrian crossings (Dije, El Portal, Corto, T-Street, Lost Winds, Calafia) and San Clemente Pier crossing, MP 203.9-206.0, Orange Subdivision",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4993,
+  "out": 915
+ },
+ "model": "claude-sonnet-5"
+}

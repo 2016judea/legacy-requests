@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Advanced Metering Infrastructure installation for Annual Demand Study",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 310000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Consider approving a budget amendment for the proposed Annual Demand Study Advanced Metering Infrastructure installation in the amount of $310,000.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Pump Station 2, Pump 6 Replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 280198,
+   "lead_time": null,
+   "sole_source_vendor": "Eaton Drilling Co., LLC",
+   "reason": "Consider approving General Services Agreement with Eaton Drilling Co., LLC, in an amount not to exceed $280,198 for the Auburn Tunnel Pump Station 2, Pump 6 Replacement project.",
+   "equipment_class": "pump",
+   "installed_location": "Auburn Tunnel Pump Station 2",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5966,
+  "out": 1778
+ },
+ "model": "claude-sonnet-5"
+}

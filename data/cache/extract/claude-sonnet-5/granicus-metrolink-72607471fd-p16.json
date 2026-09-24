@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Caterpillar",
+   "model": "C175-20",
+   "part": "C175-20 Locomotive Engine for F125 locomotive spare core pool",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 1100000,
+   "lead_time": "54 weeks",
+   "sole_source_vendor": "Progress Rail Locomotive Inc.",
+   "reason": "Progress Rail Locomotive Inc. is the manufacturer of the locomotive and the only Caterpillar authorized dealer to sell new C175-20 engines to the Authority.",
+   "equipment_class": "other equipment",
+   "installed_location": "F125 Locomotive fleet",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5718,
+  "out": 231
+ },
+ "model": "claude-sonnet-5"
+}

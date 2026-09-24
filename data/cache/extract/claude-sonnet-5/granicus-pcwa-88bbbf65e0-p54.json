@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Innomotics, LLC",
+   "model": "SINAMICS GH180 PERFECT HARMONY",
+   "part": "Purchase and install of variable frequency drive (VFD) power cells and related equipment services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 139000,
+   "lead_time": null,
+   "sole_source_vendor": "Innomotics, LLC",
+   "reason": "Innomotics, LLC, a subsidiary of Seimens AG, providing motors and large drives, is sole source of the SINAMICS product line which also includes design, engineering support, and commissioning services.",
+   "equipment_class": "motor/drive",
+   "installed_location": "American River Pump Station, Pump #3",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4961,
+  "out": 1083
+ },
+ "model": "claude-sonnet-5"
+}

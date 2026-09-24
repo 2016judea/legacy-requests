@@ -1,0 +1,136 @@
+{
+ "records": [
+  {
+   "manufacturer": "VibroSystM Technologies LLC",
+   "model": "Zoom",
+   "part": "Zoom Machine Condition Monitoring System for Ralston and Middle Fork Powerhouses",
+   "part_numbers": [
+    "1-25-1124/M2",
+    "1-25-1125/M2"
+   ],
+   "quantity": "2 systems (Ralston, Middle Fork)",
+   "price_usd": 455432,
+   "lead_time": null,
+   "sole_source_vendor": "VibroSystM Technologies LLC",
+   "reason": "The existing condition monitoring system is proprietary to VibroSystM Technologies LLC (successor of the original system vendor) and requires specialized components",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Ralston and Middle Fork Powerhouses",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "VibroSystM Technologies LLC",
+   "model": "Zoom",
+   "part": "Condition monitoring equipment replacement quote for Ralston Powerhouse",
+   "part_numbers": [
+    "1-25-1124/M2"
+   ],
+   "quantity": null,
+   "price_usd": 115747,
+   "lead_time": null,
+   "sole_source_vendor": "VibroSystM Technologies LLC",
+   "reason": "staff received quotes from VibroSystM Technologies LLC to replace condition monitoring equipment at the Ralston Powerhouse in the amount of $115,747",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Ralston Powerhouse",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "VibroSystM Technologies LLC",
+   "model": "Zoom",
+   "part": "Condition monitoring equipment replacement quote for Middle Fork Powerhouse",
+   "part_numbers": [
+    "1-25-1125/M2"
+   ],
+   "quantity": null,
+   "price_usd": 298282,
+   "lead_time": null,
+   "sole_source_vendor": "VibroSystM Technologies LLC",
+   "reason": "the Middle Fork Powerhouse in an amount of $298,282",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Middle Fork Powerhouse",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "VibroSystM Technologies LLC",
+   "model": "ZPU-5000",
+   "part": "Data acquisition units requiring updated power units, additional channels and updated software",
+   "part_numbers": [
+    "ZPU-5000"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "VibroSystM Technologies LLC",
+   "reason": "The scope of work includes new updated power units, additional channels and updated software fully compatible with the Agency's control system for the existing data acquisition units (ZPU-5000)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Ralston and Middle Fork Powerhouses",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VibroSystM Technologies LLC",
+   "model": null,
+   "part": "Vibration sensors for turbine and generator bearing journals",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "VibroSystM Technologies LLC",
+   "reason": "It also covers procurement of new instruments including vibration sensors, position indicators, air gap sensors and a flux probe",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Ralston and Middle Fork Powerhouses",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VibroSystM Technologies LLC",
+   "model": null,
+   "part": "Position indicators for turbine and generator bearing journals",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "VibroSystM Technologies LLC",
+   "reason": "It also covers procurement of new instruments including vibration sensors, position indicators, air gap sensors and a flux probe",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Ralston and Middle Fork Powerhouses",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VibroSystM Technologies LLC",
+   "model": null,
+   "part": "Air gap sensors",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "VibroSystM Technologies LLC",
+   "reason": "It also covers procurement of new instruments including vibration sensors, position indicators, air gap sensors and a flux probe",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Ralston and Middle Fork Powerhouses",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VibroSystM Technologies LLC",
+   "model": null,
+   "part": "Flux probe",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "VibroSystM Technologies LLC",
+   "reason": "It also covers procurement of new instruments including vibration sensors, position indicators, air gap sensors and a flux probe",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Ralston and Middle Fork Powerhouses",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4087,
+  "out": 2293
+ },
+ "model": "claude-sonnet-5"
+}

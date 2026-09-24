@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Polyaluminum Chloride (PACL) primary coagulant",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 140000,
+   "lead_time": null,
+   "sole_source_vendor": "Jenfitch, Inc.",
+   "reason": "PACL is specifically formulated to each vendor's own trade secret specifications.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "seven water treatment plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Polyaluminum Chloride (PACL) primary coagulant",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 140000,
+   "lead_time": null,
+   "sole_source_vendor": "NTU Technologies, Inc.",
+   "reason": "PACL is specifically formulated to each vendor's own trade secret specifications.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "seven water treatment plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Polyaluminum Chloride (PACL) primary coagulant",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 140000,
+   "lead_time": null,
+   "sole_source_vendor": "Sterling Water Technologies, LLC",
+   "reason": "PACL is specifically formulated to each vendor's own trade secret specifications.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "seven water treatment plants",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3105,
+  "out": 919
+ },
+ "model": "claude-sonnet-5"
+}

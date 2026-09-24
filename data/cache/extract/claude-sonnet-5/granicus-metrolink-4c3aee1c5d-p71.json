@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "SCADA Remote Control System for tanks/silos at CMF (oil tanks, DEF tanks, Sand Silos, antifreeze tanks) & MCC upgrade",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 332000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Manual functionality is available. Remote control and diagnostic is an option.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "CMF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "LDVR & Camera Replacement for remaining Rotem cab car, all 15 MP36 and all 40 F125 locomotives for CFR compliance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2051000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Part is obsolete. Continuous funding is required to complete the project for all targeting rolling stocks.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Out-of-Service Car Repair to rehabilitate rolling stock cars",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3639000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Increase Car availability to support upcoming demand of Metrolink revenue service.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Rotem",
+   "part": "Rotem HVAC units and control panels overhaul/rebuild",
+   "part_numbers": [],
+   "quantity": "Both HVAC units",
+   "price_usd": 2117000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Increase in maintenance cost to procure parts that are obsolete.",
+   "equipment_class": "HVAC",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Bombardier",
+   "model": null,
+   "part": "Bombardier Railcar Rebuild - refurbish remaining Bombardier cars to increase lifecycle",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 26460000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Multiple OEM parts that are obsolete.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Hyundai-Rotem",
+   "model": null,
+   "part": "Hyundai-Rotem Railcar Overhaul - toilet, door, LED, truck, exterior scheme",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 23625000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Remove multiple systemic issues in OEM.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Locomotive Overhauls - engine (HEP and Main) partial overhaul, HVAC overhaul with R-407c freon replacement, truck/suspension overhaul, exterior repaint, coupler overhaul",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 8316000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This overhaul is intended for life extension/bridging to new loco purchase.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rolling Stock Fleet PA/PEI communication control device upgrade and interior destination panels",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1173000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Heavily outdated technology in the communication control device - ex) 512MB CF card.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "F125",
+   "part": "F125 Locomotive Engine Intermediate Overhauls - 100% engine replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Overhaul of engine is required as per the maintenance manual.",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12254,
+  "out": 4202
+ },
+ "model": "claude-sonnet-5"
+}

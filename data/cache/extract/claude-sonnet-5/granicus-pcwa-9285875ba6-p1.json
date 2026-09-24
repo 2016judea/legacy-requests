@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": "Dodge",
+   "model": "Ram 1500",
+   "part": "purchase of seven 2025 Dodge Ram 1500 trucks under the State of California Multiple Award Schedule Vehicle Purchase Contracts",
+   "part_numbers": [],
+   "quantity": "7",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "under the State of California Multiple Award Schedule Vehicle Purchase Contracts #1-22-23-20E and #1-22-23-20F",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": "Maverick",
+   "part": "purchase of three 2025 Ford Maverick trucks under the State of California Multiple Award Schedule Vehicle Purchase Contracts",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "under the State of California Multiple Award Schedule Vehicle Purchase Contracts #1-22-23-20E and #1-22-23-20F",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "John Deere",
+   "model": "333P",
+   "part": "purchase of a John Deere 333P Compact Track Loader from Pape Machinery",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 174772,
+   "lead_time": null,
+   "sole_source_vendor": "Pape Machinery",
+   "reason": "using the Sourcewell Cooperative Purchase Contract #032119-JDC",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Caterpillar",
+   "model": "315",
+   "part": "purchase of a Caterpillar 315 Excavator from Holt of California",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 328785,
+   "lead_time": null,
+   "sole_source_vendor": "Holt of California",
+   "reason": "using the Sourcewell Cooperative Purchase Contract No. 020223-CAT",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rubicon Systems America, Inc.",
+   "model": null,
+   "part": "purchase and maintenance of automated headgates",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 250000,
+   "lead_time": null,
+   "sole_source_vendor": "Rubicon Systems America, Inc.",
+   "reason": "Consider approving the continuation of sole source vendor, Rubicon Systems America, Inc., for the purchase and maintenance of automated headgates",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Lennon Flume",
+   "part": "increase in the purchase amount of Lennon Flume on an as-needed basis",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 200000,
+   "lead_time": null,
+   "sole_source_vendor": "Frank M. Booth, Inc.",
+   "reason": "an increase in the purchase amount of Lennon Flume for sole source vendor Frank M. Booth, Inc., on an as-needed basis",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Meter and Endpoint Installation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 250000,
+   "lead_time": null,
+   "sole_source_vendor": "Florez Brothers Incorporated, dba Florez Paving",
+   "reason": "General Services Agreement No. CS-2460656 with Florez Brothers Incorporated, dba Florez Paving for Meter and Endpoint Installation",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8931,
+  "out": 4490
+ },
+ "model": "claude-sonnet-5"
+}

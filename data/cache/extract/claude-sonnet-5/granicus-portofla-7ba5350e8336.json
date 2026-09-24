@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Oracle Corporation",
+   "model": null,
+   "part": "Oracle software subscriptions, licenses, learning subscriptions, maintenance, and related products for the POLA Fusion ERP System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2969036,
+   "lead_time": "3 years",
+   "sole_source_vendor": "Mythics, LLC",
+   "reason": "The recommendation to select Mythics is based on the competitive bid process performed by Maricopa County, Arizona (Maricopa County) for its Contract No. 180233-002 which was extended to November 30, 2028.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Port of Los Angeles (POLA)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14761,
+  "out": 613
+ },
+ "model": "claude-sonnet-5"
+}

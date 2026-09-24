@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "SAFE Boats International, LLC",
+   "model": "29'4\" T-Top center console boat",
+   "part": "Purchase of two T-Top center console boats to replace vessels 273-04 and 273-07",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 947776,
+   "lead_time": null,
+   "sole_source_vendor": "SAFE Boats International, LLC",
+   "reason": "This is a sole source bid. Port Police is replacing the existing fleet of eight (8) student training boats at the MLETC.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Maritime Law Enforcement Training Center (MLETC)",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5454,
+  "out": 625
+ },
+ "model": "claude-sonnet-5"
+}

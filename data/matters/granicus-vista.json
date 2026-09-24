@@ -1,0 +1,13 @@
+{
+ "platform": "granicus",
+ "agency": "City of Vista",
+ "state": "CA",
+ "host": "vista",
+ "views": [
+  3
+ ],
+ "since": "2024-01-01",
+ "meetings_read": 0,
+ "ingested": "2026-09-24",
+ "matters": []
+}

@@ -1,0 +1,77 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ingersol Rand",
+   "model": "UP64020",
+   "part": "Compressors used for air bursting to maintain clean intake screens",
+   "part_numbers": [
+    "UP64020"
+   ],
+   "quantity": "2 Units",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Air Centers of Florida",
+   "reason": "Air Centers of Florida is the master distributor for Ingersoll Rand Compressed Air Solutions products in this region of Florida.",
+   "equipment_class": "other equipment",
+   "installed_location": "Tampa Bypass Canal",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ingersol Rand",
+   "model": "UP64020",
+   "part": "Compressors used for air bursting to maintain clean intake screens",
+   "part_numbers": [
+    "UP64020"
+   ],
+   "quantity": "2 Units",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Air Centers of Florida",
+   "reason": "Air Centers of Florida is the master distributor for Ingersoll Rand Compressed Air Solutions products in this region of Florida.",
+   "equipment_class": "other equipment",
+   "installed_location": "Alafia Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ingersol Rand",
+   "model": "H100A",
+   "part": "Compressors used to operate the aeration system in the water body",
+   "part_numbers": [
+    "H100A"
+   ],
+   "quantity": "4 Units",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Air Centers of Florida",
+   "reason": "Air Centers of Florida is the master distributor for Ingersoll Rand Compressed Air Solutions products in this region of Florida.",
+   "equipment_class": "other equipment",
+   "installed_location": "C.W. Bill Young Regional Reservoir",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ingersol Rand",
+   "model": null,
+   "part": "Ingersol Rand Compressor Maintenance (5-year maintenance package FY25-FY29)",
+   "part_numbers": [],
+   "quantity": "5-year package",
+   "price_usd": 471775.27,
+   "lead_time": null,
+   "sole_source_vendor": "Air Centers of Florida",
+   "reason": "Air Centers of Florida is the master distributor for Ingersoll Rand Compressed Air Solutions products in this region of Florida.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "South Operations and Reservoir sites",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3035,
+  "out": 1321
+ },
+ "model": "claude-sonnet-5"
+}

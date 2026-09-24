@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Chemtrac",
+   "model": "Chemtrac Online Particle Counters",
+   "part": "Chemtrac Online Particle Counters and communication cards",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 108600,
+   "lead_time": null,
+   "sole_source_vendor": "Ryan Process, Inc.",
+   "reason": "Consider approving a Competitive Pricing Exception with Ryan Process, Inc., as a sole source vendor and authorize the purchase of Chemtrac Online Particle Counters and communication cards in an amount not to exceed $108,600.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "water meters and associated devices including Advanced Metering Infrastructure endpoints for the Agency's ongoing meter replacement efforts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 305000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Consider approving the purchase of water meters and associated devices including Advanced Metering Infrastructure endpoints for the Agency's ongoing meter replacement efforts in an aggregate amount not to exceed $305,000.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Soft-Start Motor Starters",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 103680,
+   "lead_time": null,
+   "sole_source_vendor": "Rexel USA, Inc.",
+   "reason": "Consider approving the sole source purchase of Soft-Start Motor Starters from Rexel USA, Inc. for the Ophir Pump Station #1 Pumps in an amount not to exceed $103,680.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Ophir Pump Station #1",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Middle Fork Project HVAC Upgrade Project",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mesa Energy Systems, Inc.",
+   "reason": "Consider authorizing the Clerk to the Board to file a Notice of Completion for the Middle Fork Project HVAC Upgrade Project, Contract 2020-10 with Mesa Energy Systems, Inc.",
+   "equipment_class": "HVAC",
+   "installed_location": "Middle Fork Project",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9804,
+  "out": 2241
+ },
+ "model": "claude-sonnet-5"
+}

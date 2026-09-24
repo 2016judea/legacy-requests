@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Innomotics, LLC (Siemens AG subsidiary)",
+   "model": "SINAMICS GH180 PERFECT HARMONY",
+   "part": "Variable frequency drive power cells and related equipment services for American River Pump Station Pump #3",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 164000,
+   "lead_time": null,
+   "sole_source_vendor": "Innomotics, LLC",
+   "reason": "Innomotics, LLC, a subsidiary of Seimens AG, providing motors and large drives, is the sole source of the SINAMICS product line which also includes design, engineering support, and commissioning services.",
+   "equipment_class": "motor/drive",
+   "installed_location": "American River Pump Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3090,
+  "out": 259
+ },
+ "model": "claude-sonnet-5"
+}

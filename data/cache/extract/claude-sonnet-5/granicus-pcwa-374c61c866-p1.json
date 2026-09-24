@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Oxbow Powerhouse Remote Terminal Unit (RTU) Replacement / Maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 181693,
+   "lead_time": null,
+   "sole_source_vendor": "SEL Engineering Services, Inc.",
+   "reason": "Approving a Competitive Pricing Exception for SEL Engineering Services, Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Oxbow Powerhouse",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Doble Engineering Company",
+   "model": "M Series",
+   "part": "Testing and engineering support services under Doble Master Services Agreement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 268630,
+   "lead_time": null,
+   "sole_source_vendor": "Doble Engineering Company",
+   "reason": "for testing and engineering support services",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6054,
+  "out": 4290
+ },
+ "model": "claude-sonnet-5"
+}

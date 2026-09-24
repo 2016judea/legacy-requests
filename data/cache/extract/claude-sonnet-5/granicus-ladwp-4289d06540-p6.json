@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Outage Management and Mobile Dispatch System",
+   "part": "Software Maintenance and Support for Outage Management and Mobile Dispatch System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 11186147,
+   "lead_time": null,
+   "sole_source_vendor": "CGI Technologies and Solutions, Inc.",
+   "reason": "Approval of Amendment No. 2 to Agreement No. 47476 for Software Maintenance and Support for Outage Management and Mobile Dispatch System with CGI Technologies and Solutions, Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tripwire",
+   "model": "Tripwire Proprietary Software",
+   "part": "Professional Services and Training for Tripwire Proprietary Software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1300000,
+   "lead_time": null,
+   "sole_source_vendor": "Tripwire, Inc.",
+   "reason": "Approval of Amendment No. 2 to Agreement No. 47622 for Professional Services and Training for Tripwire Proprietary Software with Tripwire, Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3857,
+  "out": 613
+ },
+ "model": "claude-sonnet-5"
+}

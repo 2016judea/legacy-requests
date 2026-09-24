@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "HP",
+   "model": null,
+   "part": "Replacement Laptops",
+   "part_numbers": [],
+   "quantity": "50",
+   "price_usd": 75000,
+   "lead_time": null,
+   "sole_source_vendor": "TD SYNNEX Corporation",
+   "reason": "The City of Encinitas information technology platform is currently standardized on HP computer hardware for personal desktop computers, monitors, and laptops.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HP",
+   "model": null,
+   "part": "Replacement PC's",
+   "part_numbers": [],
+   "quantity": "40",
+   "price_usd": 60000,
+   "lead_time": null,
+   "sole_source_vendor": "TD SYNNEX Corporation",
+   "reason": "The City of Encinitas information technology platform is currently standardized on HP computer hardware for personal desktop computers, monitors, and laptops.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HP",
+   "model": null,
+   "part": "Replacement Laptop Docking Stations",
+   "part_numbers": [],
+   "quantity": "50",
+   "price_usd": 15000,
+   "lead_time": null,
+   "sole_source_vendor": "TD SYNNEX Corporation",
+   "reason": "The City of Encinitas information technology platform is currently standardized on HP computer hardware for personal desktop computers, monitors, and laptops.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HP",
+   "model": null,
+   "part": "20 PCs for Pacific View Arts Center and replacements",
+   "part_numbers": [],
+   "quantity": "20",
+   "price_usd": 26700,
+   "lead_time": null,
+   "sole_source_vendor": "TD SYNNEX Corporation",
+   "reason": "The ratification is due to the purchase of 20 PCs for FY 2024-25, required for the Pacific View Arts Center and replacements.",
+   "equipment_class": "other equipment",
+   "installed_location": "Pacific View Arts Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 23477,
+  "out": 1256
+ },
+ "model": "claude-sonnet-5"
+}

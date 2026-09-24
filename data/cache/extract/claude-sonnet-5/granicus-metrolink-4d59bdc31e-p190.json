@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bombardier",
+   "model": null,
+   "part": "Rehabilitation of Bombardier Out-Of-Service Cars",
+   "part_numbers": [],
+   "quantity": "eight (8)",
+   "price_usd": 4998460.08,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "currently out -of-service due to obsolete parts and degraded condition from long dwell time",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6704,
+  "out": 855
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Badger Meter, Inc.",
+   "model": "Orion",
+   "part": "AMI-Badger Orion cellular endpoints for water meter reading",
+   "part_numbers": [],
+   "quantity": "as-needed",
+   "price_usd": 114.07,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "This request for Competitive Pricing Exception is due to the standardization with the Agency's existing meters and the sole source nature of Badger Orion cellular endpoints with Badger Meter, Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter, Inc.",
+   "model": "Beacon AMA",
+   "part": "Utility meter and data management software system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "Badger Meter, Inc. is the sole producer of Beacon AMA used for utility meter and data management and has been configured with the new SpryPoint Customer Service Information System for collecting meter reads.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5097,
+  "out": 1052
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Building Automation System (BAS) Controls Upgrade to replace obsolete BAS controls monitoring HVAC equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 415707,
+   "lead_time": null,
+   "sole_source_vendor": "Infinite Control Systems",
+   "reason": "The Agency's current BAS system has obsolete controls that do not have replacement parts readily available.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Headquarters, RP-1 Operations Building, RP-5 Central Plant",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3143,
+  "out": 647
+ },
+ "model": "claude-sonnet-5"
+}

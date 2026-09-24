@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Upgrade and replace the existing Predictive Arrival and Departure System (PADS) with more dependable predictions for train arrival and departure",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 4536455,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This project is to upgrade and replace the existing PADS with more dependable predictions for train arrival and departure, integrated with the Visual Message Sign (VMS) system, thereby offering increased flexibility in train operations.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Broadband Wireless Communication System providing Wi-Fi service on existing diesel trains",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3967571,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This project is to provide passengers Wi-Fi service on the existing diesel trains. This will enhance the passenger experience by providing internet service on the diesel trains from and to Gilroy where there is no Overhead Catenary System (OCS) poles or fiber network.",
+   "equipment_class": "communications/radio",
+   "installed_location": "diesel trains (Gilroy line)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Voice over Internet Protocol (VoIP) Radio Dispatch System replacing the existing analog voice dispatch center",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 971000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The existing voice dispatch center implemented in 2012 operates on analog technology and has become obsolete. It lacks the capacity to accommodate the updated digital voice radio system.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": "MP-36-3C",
+   "part": "Mid-life overhaul of MP-36-3C Locomotives including disassembly and reconditioning of main diesel engine and frame components",
+   "part_numbers": [],
+   "quantity": "six",
+   "price_usd": 622888,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This project will perform a mid-life overhaul of six MP-36-3C Locomotives.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "SEP-HEP",
+   "part": "Replacement of Separate Head-End Power (SEP-HEP) unit and all electrical components of the SEP-HEP compartment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "replacement of Separate Head-End Power (SEP-HEP) unit and all electrical components of the SEP-HEP compartment.",
+   "equipment_class": "generator",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Continuous acoustic emissions monitoring system for San Francisquito Creek Bridge",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1171066,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "install continuous acoustic emissions monitoring system to enhance risk management by providing more timely notice of potential cracks or damage on the truss, chord, and main verticals.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Francisquito Creek Bridge",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Update to San Mateo parking track Overhead Catenary System (OCS) and final design for a 'set out track'",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5512000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This project is to enact an update to the San Mateo parking track OCS from the existing environmental clearance report and complete the final design for a \"set out track\" to replace the one removed in the Bay Meadows area to facilitate the construction of the 25th Avenue Grade Separation Project.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "San Mateo (Bay Meadows area)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5743,
+  "out": 4257
+ },
+ "model": "claude-sonnet-5"
+}

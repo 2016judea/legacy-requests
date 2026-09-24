@@ -1,0 +1,73 @@
+{
+ "records": [
+  {
+   "manufacturer": "SSI Aeration, Inc.",
+   "model": "Fine Diffuser 270E",
+   "part": "nine inch EPDM disc diffuser with factory mounted quick threaded saddles for secondary treatment aeration",
+   "part_numbers": [
+    "AFD270E"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SSI Aeration, Inc.",
+   "reason": "it is valid to use SSI Aeration, Inc. AFD270E nine inch EPDM fine bubble disc diffusers for ongoing and future maintenance and capital improvements",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "RP-1, RP-4, RP-5, and CCWRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SSI Aeration, Inc.",
+   "model": "disc diffusers",
+   "part": "disc diffusers for secondary treatment aeration basins",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SSI Aeration, Inc.",
+   "reason": "it is valid to use SSI Aeration, Inc. disc diffusers for secondary treatment for all Regional Water Recycling Plants: RP-1, RP-4, RP-5, and CCWRF",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "RP-1, RP-4, RP-5, and CCWRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Parkson",
+   "model": "panel diffusers",
+   "part": "secondary treatment aeration panel diffusers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "RP-1 utilizes Parkson panel diffusers that are no longer supported by the manufacturer and are expected to reach the end of service life in 2027.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "RP-1",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Parkson",
+   "model": "Flex A Tube",
+   "part": "secondary treatment aeration diffusers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "CCWRF uses Parkson Flex A Tube diffusers, an older technology with potentially limited future availability.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "CCWRF",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4130,
+  "out": 1082
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,59 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Enterprise Asset Management System",
+   "part": "Trapeze Enterprise Asset Management system implementation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Trapeze Software Group",
+   "reason": "SCRRA contracted with Trapeze Software Group in November 2020 to implement an Enterprise Asset Management system to support a centralized asset management environment.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "F125 locomotive",
+   "part": "F125 locomotive fleet parts/procurement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the Agency being the sole operator of the F125 locomotive, which has created significant procurement hurdles due to the extremely limited production of parts and lack of a broader market for the equipment",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "turnout assembly for 136-lb rail",
+   "part_numbers": [
+    "01-3434660-2"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "a Track and Structure component (Part ID 01-3434660-2 \\u2013 turnout assembly for 136-lb rail) that was written off in the Trapeze inventory system on November 4, 2025",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12711,
+  "out": 1661
+ },
+ "model": "claude-sonnet-5"
+}

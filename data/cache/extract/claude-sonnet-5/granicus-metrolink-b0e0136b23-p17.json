@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stadler US, Inc.",
+   "model": null,
+   "part": "Maintenance of Arrow Vehicles (three Diesel Multiple Units and one Zero Emission Multiple Unit), the Arrow Maintenance Facility (AMF), and materials management",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 59519537,
+   "lead_time": null,
+   "sole_source_vendor": "Stadler US, Inc.",
+   "reason": "as the developer of the new ZEMU technology, Stadler has unique qualifications to maintain the ZEMU, and is the only firm that has such experience",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Arrow Maintenance Facility (AMF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "New Simulators DMU - acquire new simulators that model new Metrolink purchased Diesel Multi Units (DMU) on ARROW LINE to full training requirements",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1500000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Redlands",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Purchase of new high-capacity Jacks for ZEMU - one set (12 jacks), plus one spare jack to maintain ZEMU at AMF",
+   "part_numbers": [],
+   "quantity": "12 jacks plus 1 spare",
+   "price_usd": 750000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "ZEMU is much heavier vehicle then DUM and our current 16T jacks are below the minimum capacity to lift new ehicle.",
+   "equipment_class": "other equipment",
+   "installed_location": "Arrow Maintenance Facility (AMF)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6928,
+  "out": 1664
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "SCADA remote control and failure prediction system for tanks/silos (oil, DEF, sand silo, antifreeze tanks) at CMF",
+   "part_numbers": [],
+   "quantity": "3 oil tanks, 2 DEF tanks, 2 sand silos, 2 antifreeze tanks",
+   "price_usd": 332000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Manual functionality is available. Remote control and diagnostic is an option.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "CMF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "LDVR & camera replacement for Rotem cab cars, MP36 locomotives, and F125 locomotives (CFR compliance)",
+   "part_numbers": [],
+   "quantity": "remaining Rotem cab car; all 15 MP36; all 40 F125",
+   "price_usd": 2051000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Part is obsolete. Continuous funding is required to complete the project for all targeting rolling stocks.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Repair of out-of-service railcars to rehabilitate",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3639000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Increase Car availability to support upcoming demand of Metrolink revenue service.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rotem HVAC unit and control panel overhaul/rebuild",
+   "part_numbers": [],
+   "quantity": "Both HVAC units and control panels",
+   "price_usd": 2117000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Systemic design issue in OEM HVAC Unit - high maintenance cost and impact to costumer convenience and safety.",
+   "equipment_class": "HVAC",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Bombardier",
+   "model": null,
+   "part": "Bombardier railcar rebuild - refurbish remaining Bombardier cars",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 26460000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "30 years degraded conditions. Multiple OEM parts that are obsolete.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Hyundai-Rotem",
+   "model": null,
+   "part": "Hyundai-Rotem railcar overhaul (toilet, door, LED, truck, exterior scheme)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 23625000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Remove multiple systemic issues in OEM.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Locomotive overhauls - engine, HVAC (R-407c freon replacement), truck/suspension, exterior repaint, coupler overhaul",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 8316000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This overhaul is intended for life extension/bridging to new loco purchase.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rolling stock fleet PA/PEI communication control device upgrade and interior destination panels",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1173000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Heavily outdated technology in the communication control device - ex) 512MB CF card. This issue is in all control device.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "F125",
+   "part": "F125 locomotive engine intermediate overhaul - 100% engine replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 4200000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Overhaul of engine is required as per the maintenance manual.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12233,
+  "out": 4054
+ },
+ "model": "claude-sonnet-5"
+}

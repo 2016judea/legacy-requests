@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "VHLC",
+   "part": "Control Point equipment (VHLC) - crossing, power switch and signals replacement",
+   "part_numbers": [],
+   "quantity": "(1) crossing, replace (1) power switch and signals",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Control Points all have outdated equipment (VHLC) which is no longer supported by the OEM.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Orange",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Crossing, power switch and signals replacement (train control system rehab)",
+   "part_numbers": [],
+   "quantity": "(2) crossings, replace (1) power switch and signals",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "since some of the equipment is no longer supported nor manufactured by the OEM, repairs become costlier and spare parts may no longer be available which will affect the safety and reliability of the system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "San Gabriel",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Crossing, power switch and signals replacement (train control system rehab)",
+   "part_numbers": [],
+   "quantity": "(1) crossing, replace (1) power switch and signals",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "since some of the equipment is no longer supported nor manufactured by the OEM, repairs become costlier and spare parts may no longer be available which will affect the safety and reliability of the system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "River",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Crossing, power switch and signals replacement (train control system rehab)",
+   "part_numbers": [],
+   "quantity": "(1) crossing, replace (1) power switch & signals",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "since some of the equipment is no longer supported nor manufactured by the OEM, repairs become costlier and spare parts may no longer be available which will affect the safety and reliability of the system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Valley",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Crossing systems replacement (train control system rehab)",
+   "part_numbers": [],
+   "quantity": "(2) crossings",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "since some of the equipment is no longer supported nor manufactured by the OEM, repairs become costlier and spare parts may no longer be available which will affect the safety and reliability of the system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Ventura - LA County",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9714,
+  "out": 2353
+ },
+ "model": "claude-sonnet-5"
+}

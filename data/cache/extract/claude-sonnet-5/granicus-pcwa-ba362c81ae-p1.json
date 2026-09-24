@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Caterpillar",
+   "model": "XQ230",
+   "part": "purchase of a Caterpillar XQ230 Diesel Powered Generator Trailer Set",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 190553,
+   "lead_time": null,
+   "sole_source_vendor": "Holt of California",
+   "reason": "using the Sourcewell Cooperative Purchase Contract #092222-CAT",
+   "equipment_class": "generator",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "John Deere",
+   "model": "210-P",
+   "part": "purchase of a John Deere 210-P Cab Skip Loader",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 143010,
+   "lead_time": null,
+   "sole_source_vendor": "Pape Machinery",
+   "reason": "using the Sourcewell Cooperative Purchase Contract #011723-JDC",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "John Deere",
+   "model": "444-P",
+   "part": "purchase of a John Deere Model 444-P Loader",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 219311,
+   "lead_time": null,
+   "sole_source_vendor": "Pape Machinery",
+   "reason": "using the Sourcewell Cooperative Purchase Contract #011723-JDC",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6360,
+  "out": 2445
+ },
+ "model": "claude-sonnet-5"
+}

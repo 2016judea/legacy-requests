@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stadler",
+   "model": null,
+   "part": "EMU Technical Support and Spare Supply Services contract for 23 EMU trainsets",
+   "part_numbers": [],
+   "quantity": "23 EMU trainsets",
+   "price_usd": 71640363,
+   "lead_time": null,
+   "sole_source_vendor": "Stadler US Inc.",
+   "reason": "Stadler US Inc. is Caltrain EMU manufacturer and supplier",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stadler",
+   "model": null,
+   "part": "Scheduled and Preventive Maintenance Materials",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 24170148,
+   "lead_time": null,
+   "sole_source_vendor": "Stadler US Inc.",
+   "reason": "Stadler has requisite experience and skills to provide technical support, spare supply, and material management services",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stadler",
+   "model": "Stadler Rail Maintenance System (SRMS) / Rail Data Services (RDS)",
+   "part": "License Fee (up to 250 users) for SRMS asset management system and RDS diagnostics",
+   "part_numbers": [],
+   "quantity": "up to 250 users",
+   "price_usd": 2544108,
+   "lead_time": null,
+   "sole_source_vendor": "Stadler US Inc.",
+   "reason": "Stadler has needed proprietary software and information, specifically its Stadler Rail Maintenance System (SRMS) and Rail Data Services (RDS)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stadler",
+   "model": null,
+   "part": "Overhaul Materials/Spares/Brake System (capital)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 32101988,
+   "lead_time": null,
+   "sole_source_vendor": "Stadler US Inc.",
+   "reason": "COTs brake system overhaul expertise",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4160,
+  "out": 1917
+ },
+ "model": "claude-sonnet-5"
+}

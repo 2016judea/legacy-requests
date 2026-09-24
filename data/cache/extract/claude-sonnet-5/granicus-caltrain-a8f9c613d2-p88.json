@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Systemwide CCTV System - Replacement and Expansion",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 33000000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "replace the old, obsolete CCTV system and integrate the soon-to-be-released FRA compliance requirement for CCTV",
+   "equipment_class": "other equipment",
+   "installed_location": "Systemwide/Corridor-wide",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Intrusion detection hardware installed along the right-of-way at critical locations",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5200000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "plan, procure, and install hardware along the right-of-way at critical locations, such as grade crossings, tunnels, and other high-risk right-of-way locations, to detect trespasser activities",
+   "equipment_class": "other equipment",
+   "installed_location": "Corridor-wide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Camera and server replacements for security monitoring at critical locations",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1000000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Improvements will include strategically placed camera and server replacements and additional safety measures, such as new fencing to ensure the new trains are fully secured.",
+   "equipment_class": "other equipment",
+   "installed_location": "San Francisco 4th and King Yard, CEMOF, Diridon-San Jos\u00e9 Station, and Millbrae Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "RWP Safety System providing continuous communication between workers and Central Control Center, integrated with Caltrain PTC system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 19500000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The system will provide continuous communication between the workers and the Central Control Center and will be integrated with the Caltrain PTC system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Corridor-wide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Four-quadrant gates for grade crossing safety improvement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "including four-quadrant gates, which will improve safety and visibility for motorists, pedestrians, and trains while reducing the likelihood of collisions at the crossing.",
+   "equipment_class": "other equipment",
+   "installed_location": "4th and 5th Avenues in Downtown San Mateo",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Modification of existing pedestrian gates and installation of advanced signal preemption at grade crossing",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "modifying the existing pedestrian gates, installing pavement markers and markings to clearly identify the railroad tracks, and adding advanced signal preemption.",
+   "equipment_class": "other equipment",
+   "installed_location": "Churchill Avenue, Palo Alto",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement of grade crossing warning devices and installation of new pedestrian gates with flashers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Improvements for this intersection include advanced signal preemption, replacement of grade crossing warning devices, and installation of new pedestrian gates with flashers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Charleston Road, Palo Alto",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5264,
+  "out": 5001
+ },
+ "model": "claude-sonnet-5"
+}

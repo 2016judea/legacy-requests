@@ -1,0 +1,23 @@
+{
+ "platform": "granicus",
+ "agency": "Los Angeles World Airports",
+ "state": "CA",
+ "host": "lawa",
+ "views": [
+  6
+ ],
+ "since": "2024-01-01",
+ "meetings_read": 46,
+ "ingested": "2026-09-24",
+ "matters": [
+  {
+   "matter_id": "dfdce3635efc",
+   "title": "CONSENT ITEMS FOR BOARD ACTION [Consent Items 1 - 10]",
+   "url": "https://lawa.granicus.com/AgendaViewer.php?view_id=6&clip_id=1208",
+   "text": "a. \r\nDecember 18, 2025 Regular Meeting\r\n VIII.\nCONSENT ITEMS FOR BOARD ACTION [Consent Items 1 - 10]\n1. \r\n RESOLUTION NO. - Adoption of the staff report; and Approval of the Disposal of Obsolete Inventory Stock: That are currently held at the Main Warehouse, and Deferral of future such approval of obsolete warehouse inventory to the Chief Executive Officer, of Los Angeles World Airports (Mark Frank) \r\n 01 Report \r\n 2. \r\n RESOLUTION NO. - Adoption of the staff report; and Approval of the First Amendments to Contract DA-5776 with Arconas Corporation and Contract DA-5777 with Vitra Inc.: To increase their respective contract authorities by $300,000 and $100,000, respectively, covering purchase and replacement of furniture located throughout the terminals and building facilities of Los Angeles World Airports (Richard Connolly) \r\n 02 Report \r\n 3. \r\n RESOLUTION NO. - Adoption of the staff report; and Approval of the First Amendment to Contract DA-5673 with Extreme Pressure Systems Inc.: To extend the term through January 17, 2029, for total of five (5) years, and increase the contract authority by $4,600,000, for new total not to exceed $7,600,000, covering rubber and paint removal services at Los Angeles International Airport (Richard Connolly) \r\n 03 Report \r\n 4. \r\n RESOLUTION NO. - Adoption of the staff report; and Approval of a Supplemental Agreement to Memorandum of Agreement VNA-9245 with the Federal Aviation Administration: Covering installation of additional airfield sensor facilities required to support the ongoing air traffic operations at Van Nuys Airport, and update the",
+   "attachments": [],
+   "intro_date": "2026-01-22",
+   "file": "Special Meeting @ LAX"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Giro, Inc.",
+   "model": "Hastus",
+   "part": "Hastus Scheduling Software Maintenance and Support Services, plus 80 days of as-needed professional services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1643706,
+   "lead_time": "Three-year Base Term Plus Two One-year Option Terms",
+   "sole_source_vendor": "Giro, Inc.",
+   "reason": "Awarding a Sole-source Contract to Giro, Inc. to Provide Hastus Scheduling Software Maintenance and Support Services for a Total Not-to-exceed Amount of $1,643,706",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "New Flyer of America",
+   "model": null,
+   "part": "Retrofit 72 Buses with Driver Barrier Doors",
+   "part_numbers": [],
+   "quantity": "72",
+   "price_usd": 644291,
+   "lead_time": null,
+   "sole_source_vendor": "New Flyer of America",
+   "reason": "Awarding a Single-source Contract to New Flyer of America to Retrofit 72 Buses with Driver Barrier Doors for a Total Not-to-exceed Amount of $644,291",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9651,
+  "out": 1389
+ },
+ "model": "claude-sonnet-5"
+}

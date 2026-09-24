@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Purchase of water meters and associated devices including Advanced Metering Infrastructure endpoints for meter replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 305000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Consider approving the purchase of water meters and associated devices including Advanced Metering Infrastructure endpoints for the Agency's ongoing meter replacement efforts in an aggregate amount not to exceed $305,000.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Soft-Start Motor Starters for Ophir Pump Station #1 Pumps",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 103680,
+   "lead_time": null,
+   "sole_source_vendor": "Rexel USA, Inc.",
+   "reason": "Consider approving the sole source purchase of Soft-Start Motor Starters from Rexel USA, Inc. for the Ophir Pump Station #1 Pumps in an amount not to exceed $103,680.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Ophir Pump Station #1",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5809,
+  "out": 1002
+ },
+ "model": "claude-sonnet-5"
+}

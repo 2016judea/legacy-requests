@@ -1,0 +1,13 @@
+{
+ "platform": "granicus",
+ "agency": "City of Folsom",
+ "state": "CA",
+ "host": "folsom",
+ "views": [
+  8
+ ],
+ "since": "2024-01-01",
+ "meetings_read": 61,
+ "ingested": "2026-09-24",
+ "matters": []
+}

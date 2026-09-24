@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tyler Technologies, Inc.",
+   "model": "Fire Prevention Mobile",
+   "part": "Amendment 21 to the Agreement with Tyler Technologies, Inc. for the purchase of Fire Prevention Mobile",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 25693,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "Authorize the City Manager to execute Amendment 21, in substantial form, in consultation with the City Attorney, to amend the agreement with Tyler Technologies, Inc. for Fire Prevention Mobile in an amount not to exceed $25,693 in FY 2024-25.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8133,
+  "out": 284
+ },
+ "model": "claude-sonnet-5"
+}

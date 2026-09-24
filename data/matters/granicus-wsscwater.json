@@ -1,0 +1,44 @@
+{
+ "platform": "granicus",
+ "agency": "WSSC Water",
+ "state": "MD",
+ "host": "wsscwater",
+ "views": [
+  2
+ ],
+ "since": "2024-01-01",
+ "meetings_read": 57,
+ "ingested": "2026-09-24",
+ "matters": [
+  {
+   "matter_id": "374faab3e74a",
+   "title": "98587 - Anacostia II Wastewater Pumping Station Programmable Logic Controller Upgrades Program.docx.",
+   "url": "https://wsscwater.granicus.com/services/legistar/download/pdf/4181042/98587_-_Anacostia_II_Wastewater_Pumping_Station_Programmable_Logic_Controller_Upgrades_Program.docx..pdf",
+   "text": "",
+   "attachments": [
+    {
+     "name": "98587 - Anacostia II Wastewater Pumping Station Programmable Logic Controller Upgrades Program.docx.",
+     "url": "https://granicus-aasmp-peak-files.s3.amazonaws.com/uploads/attachment/pdf/4181042/98587_-_Anacostia_II_Wastewater_Pumping_Station_Programmable_Logic_Controller_Upgrades_Program.docx..pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATHOFOHMMEOCNXD2W%2F20260924%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260924T231858Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4a3bdeaadc8c2b22e25faca736252e5680a7cccde8b7ed614784afbffa273d21",
+     "path": "data/cache/pdf/374faab3e74a25a29a4530c038dc9236f27faabb.pdf"
+    }
+   ],
+   "intro_date": "2026-06-17",
+   "file": "WSSC Water Commission Meeting - June 17, 2026"
+  },
+  {
+   "matter_id": "14e03c7ae08b",
+   "title": "48013 CO7 Ford OEM",
+   "url": "https://wsscwater.granicus.com/services/legistar/download/pdf/4029294/48013_CO7_Ford_OEM.pdf",
+   "text": "",
+   "attachments": [
+    {
+     "name": "48013 CO7 Ford OEM",
+     "url": "https://granicus-aasmp-peak-files.s3.amazonaws.com/uploads/attachment/pdf/4029294/48013_CO7_Ford_OEM.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATHOFOHMMEOCNXD2W%2F20260924%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260924T231917Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ea342a72ccabf8b114cbe599cd5b6397bd8ec7fc0b9e2307b3a5dff607e1e19b",
+     "path": "data/cache/pdf/14e03c7ae08b04254ed69dbe2b97f12f9bb81c6f.pdf"
+    }
+   ],
+   "intro_date": "2026-04-15",
+   "file": "WSSC Water Commission Meeting - April 15, 2026"
+  }
+ ]
+}

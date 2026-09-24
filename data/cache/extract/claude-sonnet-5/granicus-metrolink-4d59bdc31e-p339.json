@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Train Management Computer (TMC)",
+   "part": "TMC Upgrade for on-board train control systems",
+   "part_numbers": [],
+   "quantity": "8 remaining",
+   "price_usd": null,
+   "lead_time": "Estimate time of completion to end of 2025",
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Global Positioning System (GPS)",
+   "part": "GPS Upgrade for on-board train control systems",
+   "part_numbers": [],
+   "quantity": "all operational units",
+   "price_usd": null,
+   "lead_time": "approximately 2 years",
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rotem",
+   "model": null,
+   "part": "HVAC unit overhaul on rolling stock",
+   "part_numbers": [],
+   "quantity": "105 of 136 HVAC units",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "HVAC",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rotem",
+   "model": null,
+   "part": "Control panel overhaul on rolling stock HVAC systems",
+   "part_numbers": [],
+   "quantity": "32/68 control panels",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bombardier",
+   "model": null,
+   "part": "HVAC unit overhaul on rolling stock (180 units)",
+   "part_numbers": [],
+   "quantity": "179 of 180 HVAC units",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "HVAC",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bombardier",
+   "model": null,
+   "part": "HVAC unit overhaul on rolling stock (remaining units)",
+   "part_numbers": [],
+   "quantity": "25 of 87 units",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "HVAC",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "F125",
+   "part": "F125 Locomotive Procurement (Rolling Stock)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 279103000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6191,
+  "out": 2366
+ },
+ "model": "claude-sonnet-5"
+}

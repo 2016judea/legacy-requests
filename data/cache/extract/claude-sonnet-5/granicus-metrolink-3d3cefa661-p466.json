@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Custom Glass Solutions Fostoria, LLC",
+   "model": null,
+   "part": "Hyundai-Rotem Emergency Window Gaskets Replacement",
+   "part_numbers": [],
+   "quantity": "2,400 units",
+   "price_usd": 997517.48,
+   "lead_time": null,
+   "sole_source_vendor": "Custom Glass Solutions Fostoria, LLC",
+   "reason": "CGS is the original equipment manufacturer and thus fully capable of completing the required testing.",
+   "equipment_class": "other equipment",
+   "installed_location": "Hyundai-Rotem fleet",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Wabtec Passenger Transit",
+   "model": null,
+   "part": "Disc Brake Unit Cores",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 907265.6,
+   "lead_time": null,
+   "sole_source_vendor": "Wabtec Passenger Transit Div",
+   "reason": "Wabtec Passenger Transit is the OEM.",
+   "equipment_class": "other equipment",
+   "installed_location": "F125 Locomotives",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Wabtec Passenger Transit",
+   "model": null,
+   "part": "Repair and overhaul services of air brake components",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Wabtec Passenger Transit Div",
+   "reason": "Wabtec Passenger Transit provides repair and overhaul services of air brake components needed to perform required preventive maintenance of the passenger and Locomotive fleets.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "passenger and Locomotive fleets",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5399,
+  "out": 1172
+ },
+ "model": "claude-sonnet-5"
+}

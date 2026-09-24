@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "A.R.I.",
+   "model": "Combination Air and Vacuum Relief Valve",
+   "part": "Combination air and vacuum relief valves for recycled water and wastewater piping, ancillary systems, and spare parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "A.R.I.",
+   "reason": "in order to obtain a necessary item that is only available from one source; it is valid to use A.R.I. combination air and vacuum relief valves for recycled water and wastewater piping, ancillary systems, and spare parts for ongoing and future maintenance",
+   "equipment_class": "valve",
+   "installed_location": "IEUA recycled water distribution systems and the Regional Water Recycling Plants, pump station discharge piping, upstream of siphons on gravity sewers, and on the aeration basin air piping",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4140,
+  "out": 557
+ },
+ "model": "claude-sonnet-5"
+}

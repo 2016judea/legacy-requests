@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "C175-20 Engine",
+   "part": "Intermediate engine overhaul for F125 locomotive engines to meet OEM state-of-good-repair and Tier 4 emissions compliance",
+   "part_numbers": [
+    "C175-20"
+   ],
+   "quantity": "42",
+   "price_usd": 34551052.57,
+   "lead_time": null,
+   "sole_source_vendor": "Quinn Company dba Quinn Power Systems, Inc.",
+   "reason": "The Authority received a single proposal by the submission due date of July 17, 2024.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "F125 locomotive fleet",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4441,
+  "out": 825
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement and upgrade of programmable logic control (PLC) systems and associated Distributed Process Control System (DPCS) components at Anacostia II WWPS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2496000.0,
+   "lead_time": "890 days",
+   "sole_source_vendor": null,
+   "reason": "The existing Programmable Logic Controller (PLC) has experienced multiple failures in recent years, operates without redundancy, and is no longer supported by the manufacturer.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Anacostia II Wastewater Pumping Station (WWPS)",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Redundant backup control system for pumping station control system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "installing a redundant backup control system, providing redundant power distribution to critical control system components",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Anacostia II Wastewater Pumping Station (WWPS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Redundant power distribution to critical control system components",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "providing redundant power distribution to critical control system components, and replacing select field instrumentation",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Anacostia II Wastewater Pumping Station (WWPS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Select field instrumentation replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "replacing select field instrumentation",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Anacostia II Wastewater Pumping Station (WWPS)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5556,
+  "out": 729
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "Meteorcomm LLC (MCC)",
+   "model": null,
+   "part": "Master Product Purchase and License Agreement (MPPLA), Engineering Support and Tools for PTC and 220MHz Radio Network",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 10248640,
+   "lead_time": null,
+   "sole_source_vendor": "Meteorcomm LLC (MCC)",
+   "reason": "MCC was identified as the sole provider of the proprietary 220 MHz radios and the Interoperable Train Control Messaging (ITCM) system",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Meteorcomm LLC (MCC)",
+   "model": null,
+   "part": "proprietary 220 MHz radios",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Meteorcomm LLC (MCC)",
+   "reason": "MCC was identified as the sole provider of the proprietary 220 MHz radios and the Interoperable Train Control Messaging (ITCM) system that the Class 1 Railroads were using to implement the PTC system",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Meteorcomm LLC (MCC)",
+   "model": null,
+   "part": "Interoperable Train Control Messaging (ITCM) system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Meteorcomm LLC (MCC)",
+   "reason": "MCC was identified as the sole provider of the proprietary 220 MHz radios and the Interoperable Train Control Messaging (ITCM) system that the Class 1 Railroads were using to implement the PTC system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Meteorcomm LLC (MCC)",
+   "model": null,
+   "part": "Onboard hardware (220 MHz radio and Slot 10) maintenance and support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Meteorcomm LLC (MCC)",
+   "reason": "MCC was identified as the sole provider of the proprietary 220 MHz radios and the Interoperable Train Control Messaging (ITCM) system",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Meteorcomm LLC (MCC)",
+   "model": null,
+   "part": "Wayside Message Servers (WMS) hardware and software maintenance and support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Meteorcomm LLC (MCC)",
+   "reason": "MCC was identified as the sole provider of the proprietary 220 MHz radios and the Interoperable Train Control Messaging (ITCM) system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Meteorcomm LLC (MCC)",
+   "model": null,
+   "part": "Purchase of next generation PTC 220 MHz radios for Authority's state of good repair rehabilitation program",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Meteorcomm LLC (MCC)",
+   "reason": "MCC was identified as the sole provider of the proprietary 220 MHz radios and the Interoperable Train Control Messaging (ITCM) system",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5246,
+  "out": 2626
+ },
+ "model": "claude-sonnet-5"
+}

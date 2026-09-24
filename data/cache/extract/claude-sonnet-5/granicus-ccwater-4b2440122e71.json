@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Verkada, Inc.",
+   "model": null,
+   "part": "Security technology equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Verkada, Inc.",
+   "reason": "authorizing sole source procurement of Verkada, Inc. for security technology equipment",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1981,
+  "out": 157
+ },
+ "model": "claude-sonnet-5"
+}

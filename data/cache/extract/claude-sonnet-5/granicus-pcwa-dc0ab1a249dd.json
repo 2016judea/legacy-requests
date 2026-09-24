@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Soft-Start Motor Starters for Ophir Pump Station #1 Pumps (ATPS-1), replacements for two damaged units",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 14528,
+   "lead_time": null,
+   "sole_source_vendor": "Rexel USA, Inc.",
+   "reason": "which is the sole distributor in Northern California for all sales and support services related to this request.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Ophir Pump Station Building (Auburn Tunnel Pump Station 1 / ATPS-1)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2941,
+  "out": 226
+ },
+ "model": "claude-sonnet-5"
+}

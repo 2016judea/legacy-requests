@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Dragos, Inc.",
+   "model": "Dragos OT Cybersecurity Platform",
+   "part": "Purchase of Dragos OT (Operational Technology) Cybersecurity Technology Platform",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 87590,
+   "lead_time": null,
+   "sole_source_vendor": "Dragos, Inc.",
+   "reason": "Dragos is a proven leader in the Industrial Control Systems / Operational Technology (ICS/OT) Cybersecurity industry, protecting critical infrastructure, and is currently under contract by PCWA for cybersecurity incident response services.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2763,
+  "out": 257
+ },
+ "model": "claude-sonnet-5"
+}

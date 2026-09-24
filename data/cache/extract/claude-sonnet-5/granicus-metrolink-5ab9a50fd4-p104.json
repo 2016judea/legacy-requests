@@ -1,0 +1,101 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "MP36 PH",
+   "part": "Repair and overhaul of out-of-service MP36 locomotives (Service Life Extension and Repair) - base order",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": 9342064.42,
+   "lead_time": null,
+   "sole_source_vendor": "Higher Power Industries (HPI)",
+   "reason": "4 are currently out-of-service (OOS) due to deferred maintenance and multiple component parts that are obsolete and no longer available.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": "MP36 PH",
+   "part": "Overhaul of up to 11 additional in-service MP36 locomotives (mid-life overhaul option order)",
+   "part_numbers": [],
+   "quantity": "up to 11",
+   "price_usd": 21995619.53,
+   "lead_time": null,
+   "sole_source_vendor": "Higher Power Industries (HPI)",
+   "reason": "The remaining 11 MP36 locomotives that are currently in service are overdue for a mid-life overhaul to ensure reliable service.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "V330",
+   "part": "Brake pads and shoes for locomotives and rail cars",
+   "part_numbers": [
+    "V330"
+   ],
+   "quantity": null,
+   "price_usd": 350000,
+   "lead_time": null,
+   "sole_source_vendor": "Railroad Friction Products Corporation",
+   "reason": "it is in the Authority's best interest to continue taking advantage of the pricing under PO857-21 established five years ago.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Progress Rail Locomotive Inc",
+   "model": "F125 Locomotive",
+   "part": "New parts and repair and return services for locomotive fleet maintenance",
+   "part_numbers": [],
+   "quantity": "340 one-time-use parts and 84 repairable parts",
+   "price_usd": 8000000,
+   "lead_time": null,
+   "sole_source_vendor": "Progress Rail Locomotive Inc",
+   "reason": "Progress Rail Locomotive Inc. is the Original Equipment Manufacturer (OEM) of the Authority's F125 Locomotives.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Caterpillar",
+   "model": "C175-20 / C-27 Engines",
+   "part": "New parts and repair and return services for locomotive engines",
+   "part_numbers": [],
+   "quantity": "293 one-time-use parts and 15 repairable parts",
+   "price_usd": 6500000,
+   "lead_time": null,
+   "sole_source_vendor": "Quinn Power Systems Inc",
+   "reason": "Quinn Power Systems is the dealer authorized by Caterpillar to sell engine components to the Authority.",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "20-ton portable rail jack",
+   "part": "20-ton portable rail jacks (set of 12 plus 1 spare, with control panel) for ZEMU maintenance",
+   "part_numbers": [],
+   "quantity": "12 jacks plus 1 spare (13 total), 1 control panel",
+   "price_usd": 591611.96,
+   "lead_time": null,
+   "sole_source_vendor": "BBM Railway Equipment, LLC",
+   "reason": "The Authority is recommending BBM Railway Equipment, LLC because of its established US presence and availability of post-delivery support.",
+   "equipment_class": "other equipment",
+   "installed_location": "Arrow Maintenance Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11584,
+  "out": 5674
+ },
+ "model": "claude-sonnet-5"
+}

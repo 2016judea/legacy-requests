@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Full replacement of existing obsolete Visual Messaging Sign (VMS) at 22 selected stations",
+   "part_numbers": [],
+   "quantity": "22 stations",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The current VMS signs are no longer supported by the manufacturer",
+   "equipment_class": "other equipment",
+   "installed_location": "22 selected stations between San Francisco and Tamien",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Predictive arrival and departure system (PADS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the predictive arrival and departure system (PADS) is becoming obsolete",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "22 selected stations between San Francisco and Tamien",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5671,
+  "out": 840
+ },
+ "model": "claude-sonnet-5"
+}

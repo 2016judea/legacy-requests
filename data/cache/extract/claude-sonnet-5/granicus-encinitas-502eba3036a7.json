@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Neptune",
+   "model": null,
+   "part": "Water meters for AMI Meter Upgrade Project",
+   "part_numbers": [],
+   "quantity": "1176 Total Meters",
+   "price_usd": 850953,
+   "lead_time": null,
+   "sole_source_vendor": "Ferguson",
+   "reason": "Sole Source for Neptune meters",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Dieguito Water District",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3095,
+  "out": 165
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Schneider Electric",
+   "model": null,
+   "part": "Ethernet Module",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 7200,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the equipment is only available from one source and matches existing products already in use by CCWD",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Brentwood Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Corning",
+   "model": null,
+   "part": "Fiber Patch Panel",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": 1200,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the equipment is only available from one source and matches existing products already in use by CCWD",
+   "equipment_class": "communications/radio",
+   "installed_location": "Brentwood Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Corning",
+   "model": null,
+   "part": "Fiber Patch Panel Connector Housing",
+   "part_numbers": [],
+   "quantity": "12",
+   "price_usd": 2400,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the equipment is only available from one source and matches existing products already in use by CCWD",
+   "equipment_class": "communications/radio",
+   "installed_location": "Brentwood Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Flowserve/Limitorque",
+   "model": null,
+   "part": "Valve Actuators",
+   "part_numbers": [],
+   "quantity": "34",
+   "price_usd": 442000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "will replace 34 valve actuators that are nearing the end of their useful life",
+   "equipment_class": "valve",
+   "installed_location": "Brentwood Water Treatment Plant",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4514,
+  "out": 1456
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "ARINC",
+   "model": null,
+   "part": "PADS & ROCS Improvement - maintenance and support/software upgrade contract for Predictive Arrival and Departure System and Rail Operations Control System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 856789,
+   "lead_time": "sixteen-month term",
+   "sole_source_vendor": "Wabtec",
+   "reason": "Wabtec is the only vendor with proprietary rights and technical capability to support and maintain Caltrain's current Train Control Systems: ROCS, PADS, and SCADA",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ARINC",
+   "model": null,
+   "part": "SCADA system - proprietary ownership and licensing rights held by Wabtec",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Wabtec",
+   "reason": "Wabtec holds proprietary ownership and licensing rights for the ROCS, PADS, and SCADA systems.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3744,
+  "out": 598
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "12\" Air Valves",
+   "part_numbers": [],
+   "quantity": "six",
+   "price_usd": 210990,
+   "lead_time": null,
+   "sole_source_vendor": "Mar-Tech, Inc.",
+   "reason": "Approve the purchase of six 12\" Air Valves through Quote Q13456 with Mar-Tech, Inc., in an amount not to exceed $210,990.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4487,
+  "out": 326
+ },
+ "model": "claude-sonnet-5"
+}

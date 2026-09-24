@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "PTC onboard rehabilitation: power supplies/regulators, PTC 220MHz radios, cellular modems, Wi-Fi, onboard computers, CDU",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2500000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Some PTC hardware is already over 10 years old, with initial designs dating back an additional five years.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "SCRRA locomotives, cab car and multiple unit fleet",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rehabilitation of conference room AV equipment and systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 207000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "eliminates vulnerabilities from unsupported AV systems, enhances productivity for end users, and reduces IT support burde",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rehabilitation of end-user equipment: laptops, desktops, monitors, docking stations, tablets",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 367000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Reduction of deployed end-of-service-life end-user devices by 100%",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Nutanix",
+   "model": "AHV",
+   "part": "Replace outdated IT infrastructure equipment; eliminate dependency on Broadcom's VMware in favor of Nutanix AHV",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 715000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Eliminate dependency on Broadcom\\u2019s VMware software (cost savings to Metrolink) in favor of Nutanix\\u2019 AHV software",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cisco",
+   "model": "3800 Series",
+   "part": "Rehabilitation/replacement of aging, unsupported Cisco 3800 series network devices",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 415000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This project is needed to replace aging, unsupported network devices that pose operational and cybersecurity risks.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Bombardier",
+   "model": null,
+   "part": "Rebuild of remaining 33 Bombardier railcars; upgrade onboard system for safety and convenience",
+   "part_numbers": [],
+   "quantity": "33",
+   "price_usd": 25462000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Multiple OEM parts that are obsolete.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11964,
+  "out": 3273
+ },
+ "model": "claude-sonnet-5"
+}

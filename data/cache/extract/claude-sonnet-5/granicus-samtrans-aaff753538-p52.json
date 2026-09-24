@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Elevator Test, Inspection and Maintenance Services for nine elevators (six at Central Building, one each at North Base, South Base, Sequoia Station)",
+   "part_numbers": [],
+   "quantity": "9 elevators",
+   "price_usd": 250000,
+   "lead_time": null,
+   "sole_source_vendor": "Vintage Elevator Services, Inc.",
+   "reason": "Vintage Elevator is the only local firm with specific expertise to maintain the Central Elevators that were manufactured in the 1970s.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Central Building, North Base, South Base, Sequoia Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6658,
+  "out": 312
+ },
+ "model": "claude-sonnet-5"
+}

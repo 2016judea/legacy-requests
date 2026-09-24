@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "On-call Maintenance - Electrical",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3000000.0,
+   "lead_time": "five-year term",
+   "sole_source_vendor": "Electric Power Systems International, Inc.",
+   "reason": "Approve General Services Agreement No. P-25-03_1 with Electric Power Systems Interna onal, Inc. for On-call Maintenance - Electrical in an amount not to exceed $3,000,000 for a five-year term.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Palo Alto",
+   "model": "Cortex XSIAM",
+   "part": "Cortex XSIAM platform",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 125172.0,
+   "lead_time": null,
+   "sole_source_vendor": "ePlus Technology, Inc.",
+   "reason": "Approve the purchase of Palo Alto's Cortex XSIAM pla orm from ePlus Technology, Inc. through NASPO Master Contract Number CA-PALO ALTO NVP AR3229 & 7-20-70-47-06 in an amount not to exceed $125,172.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5121,
+  "out": 837
+ },
+ "model": "claude-sonnet-5"
+}

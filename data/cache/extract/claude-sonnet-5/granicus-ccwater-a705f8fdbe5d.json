@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "YSI",
+   "model": "EXO2",
+   "part": "Multiparameter Sonde, 10m Depth, 7 Sensor Ports",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 16100,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "to match and be compatible with equipment in use at CCWD\u2019s Los Vaqueros Watershed and for field testing to determine said equipment\u2019s suitability for future standardization at other CCWD facilities",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Old River Pump Station and Middle River Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI",
+   "model": null,
+   "part": "Multiparameter Sensors",
+   "part_numbers": [],
+   "quantity": "16",
+   "price_usd": 26050,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "to match and be compatible with equipment in use at CCWD\u2019s Los Vaqueros Watershed and for field testing to determine said equipment\u2019s suitability for future standardization at other CCWD facilities",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Old River Pump Station and Middle River Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI",
+   "model": null,
+   "part": "Flying Lead Cables",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 6190,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "to match and be compatible with equipment in use at CCWD\u2019s Los Vaqueros Watershed and for field testing to determine said equipment\u2019s suitability for future standardization at other CCWD facilities",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Old River Pump Station and Middle River Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI",
+   "model": null,
+   "part": "Modbus Signal Output Adapters",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 3230,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "to match and be compatible with equipment in use at CCWD\u2019s Los Vaqueros Watershed and for field testing to determine said equipment\u2019s suitability for future standardization at other CCWD facilities",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Old River Pump Station and Middle River Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI",
+   "model": null,
+   "part": "Anti-Fouling Equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5680,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "to match and be compatible with equipment in use at CCWD\u2019s Los Vaqueros Watershed and for field testing to determine said equipment\u2019s suitability for future standardization at other CCWD facilities",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Old River Pump Station and Middle River Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI",
+   "model": null,
+   "part": "Calibration Equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2124,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "to match and be compatible with equipment in use at CCWD\u2019s Los Vaqueros Watershed and for field testing to determine said equipment\u2019s suitability for future standardization at other CCWD facilities",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Old River Pump Station and Middle River Pump Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5036,
+  "out": 1663
+ },
+ "model": "claude-sonnet-5"
+}

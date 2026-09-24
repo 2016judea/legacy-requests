@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replace the variable frequency drive on Pump 3",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 139000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "To fund a new project to replace the variable frequency drive on Pump 3.",
+   "equipment_class": "motor/drive",
+   "installed_location": "ARPS (Auburn Ravine Pump Station)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Radio Bridge Replacement to upgrade wireless paths",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 75000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "To fund a new project to upgrade wireless paths from Sunset to Auburn and Sunset to Foothill.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Sunset, Auburn, Foothill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Oxbow Powerhouse CO2 System Decommissioning / evaluation of replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 25000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "To fund a new project to evaluate the replacement of the current system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Oxbow Powerhouse",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Middle Fork Powerhouse CO2 System Decommissioning / evaluation of replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 25000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "To fund a new project to evaluate the replacement of the current system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Middle Fork Powerhouse",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Abay Dam Radial Gate Structural Retrofit",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 50000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "To provide sufficient funds to cover anticipated project costs.",
+   "equipment_class": "valve",
+   "installed_location": "Abay Dam",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Afterbay LLO Gate Modifications",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 100000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "To provide sufficient funds to cover anticipated project costs.",
+   "equipment_class": "valve",
+   "installed_location": "Afterbay",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Canal Automation Project",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 15000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "To fund the initial project costs for canal automation that is to begin in early 2025.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6512,
+  "out": 3494
+ },
+ "model": "claude-sonnet-5"
+}

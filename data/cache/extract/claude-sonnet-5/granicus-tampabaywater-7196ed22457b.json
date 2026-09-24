@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Water Quality Monitoring Equipment, Replacement Parts and Service for Products Manufactured by Badger Meter, Analytical Technology, Inc. and S::CAN",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 250000,
+   "lead_time": null,
+   "sole_source_vendor": "Volition Controls Corp.",
+   "reason": "Volition Controls Corp. is the exclusive representative of these three equipment manufacturers for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Alafia River pumping station; Tampa Bypass Canal",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2990,
+  "out": 238
+ },
+ "model": "claude-sonnet-5"
+}

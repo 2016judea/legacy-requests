@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cylus",
+   "model": null,
+   "part": "Rail Operational Technology Cybersecurity Cost-Free Pilot Program (POC)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 354000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cylus",
+   "reason": "Single Source",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cervello Ltd.",
+   "model": null,
+   "part": "Rail Operational Technology Cybersecurity Cost-Free Pilot Program (POC)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 354000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cervello Ltd.",
+   "reason": "Single Source",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rolling Stock High Voltage Electrical Components",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 325000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Winchester Interconnect Ruggedized Corp.",
+   "reason": "Single Source",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Train Wash Detergent",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 495060.3,
+   "lead_time": null,
+   "sole_source_vendor": "Integrated Chemical & Equipment",
+   "reason": "Contract",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Connixt",
+   "model": null,
+   "part": "Delay App Software Maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 253800.0,
+   "lead_time": null,
+   "sole_source_vendor": "Connixt",
+   "reason": "Sole Source",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Track Side Lubricator Grease",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 300000.0,
+   "lead_time": null,
+   "sole_source_vendor": "L.B. Foster Company",
+   "reason": "Sole Source",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Repair and Return of Locomotive and Car wheel assemblies",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 495000.0,
+   "lead_time": null,
+   "sole_source_vendor": "ORX Railway Corp",
+   "reason": "Single Source",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6157,
+  "out": 4421
+ },
+ "model": "claude-sonnet-5"
+}

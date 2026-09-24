@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Renewable and Standard Red-Dye, Ultra-Low Sulfur Diesel Fuel and Fueling Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2527274,
+   "lead_time": null,
+   "sole_source_vendor": "Mansfield Oil Company",
+   "reason": "to ensure continued, uninterrupted service for Caltrain operations",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5121,
+  "out": 1109
+ },
+ "model": "claude-sonnet-5"
+}

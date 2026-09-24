@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bombardier",
+   "model": null,
+   "part": "Rehabilitation of 8 out-of-service Bombardier railcars",
+   "part_numbers": [],
+   "quantity": "8",
+   "price_usd": 4165383.4,
+   "lead_time": null,
+   "sole_source_vendor": "SYSTRA Canada",
+   "reason": "The Authority received a single proposal from SYSTRA Canada by the submission date of October 29, 2024.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3971,
+  "out": 523
+ },
+ "model": "claude-sonnet-5"
+}

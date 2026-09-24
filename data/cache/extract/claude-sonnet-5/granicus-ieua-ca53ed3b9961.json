@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "East Jordan Ironworks Co.",
+   "model": "EJ composite frames and covers with TITUS TwistLIFT locking system",
+   "part": "EJ composite frames and covers with TITUS TwistLIFT locking system for manhole retrofits and new installations",
+   "part_numbers": [],
+   "quantity": "180",
+   "price_usd": 462388,
+   "lead_time": null,
+   "sole_source_vendor": "TITUS Wastewater Solutions, Inc.",
+   "reason": "it is valid to use East Jordan Ironworks Co. (EJ) composite frames and covers with TITUS TwistLIFT locking system for ongoing and future manhole retrofits and new installations",
+   "equipment_class": "pipe/fitting",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3923,
+  "out": 700
+ },
+ "model": "claude-sonnet-5"
+}

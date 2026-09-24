@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Progress Rail",
+   "model": "F-125",
+   "part": "F-125 locomotive engine overhaul",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 865000,
+   "lead_time": "54 weeks",
+   "sole_source_vendor": "Progress Rail",
+   "reason": "Limited support from Progress Rail, the builder of the F-125",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Progress Rail",
+   "model": "F-125",
+   "part": "fuel manifold/canister components for F-125 locomotive",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Progress Rail",
+   "reason": "e.g., fuel manifold/canister failures that have increased service interruptions.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2574,
+  "out": 648
+ },
+ "model": "claude-sonnet-5"
+}

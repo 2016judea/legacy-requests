@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stadler",
+   "model": null,
+   "part": "Repair of Damaged EMU Cars",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5335224,
+   "lead_time": null,
+   "sole_source_vendor": "Stadler",
+   "reason": "Include $5,335,224 for Stadler\u2019s Repair of Damaged EMU Cars",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6593,
+  "out": 1212
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "AVO Multi-Amp Corp dba Megger",
+   "model": null,
+   "part": "Partial Discharge Online Monitoring Systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 260290.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Agency staff completed the evaluation of the submitted bids and determined that AVO Multi-Amp Corp dba Megger is the lowest responsive and responsible bidder.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Middle Fork and Ralston powerhouses (MFPH and RAPH)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Iris Power",
+   "model": "Guard II",
+   "part": "Online PD monitoring system being replaced",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "In June 2021, Iris Power published a product discontinuation notice declaring the Guard II PD monitoring system obsolete.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Middle Fork and Ralston powerhouses (MFPH and RAPH)",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3181,
+  "out": 422
+ },
+ "model": "claude-sonnet-5"
+}

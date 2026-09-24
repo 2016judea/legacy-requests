@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": "Motorola radios",
+   "part": "Maintenance and support of Motorola radios; contract amendment extends base term by three years",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 219288.94,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Amendment 1 to the contract for the maintenance and support of Motorola radios extends the base term by three years from five to eight years and adds funds for the three-year extension.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6541,
+  "out": 403
+ },
+ "model": "claude-sonnet-5"
+}

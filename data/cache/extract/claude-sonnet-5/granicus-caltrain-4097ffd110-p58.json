@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Ticket Vending Machine (TVM) components that were obsolete and no longer supported by the manufacturer",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 56000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The project also replaced components of the TVM which are obsolete and no longer supported by the manufacturer.",
+   "equipment_class": "other equipment",
+   "installed_location": "all the stations",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Dual Tone Module Frequency (DTMF) radio activated crossing system for grade crossings",
+   "part_numbers": [],
+   "quantity": "nine (9) grade crossings",
+   "price_usd": 10000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This project supports the purchase of Dual Tone Module Frequency (DTMF) for grade crossings throughout the Caltrain corridor.",
+   "equipment_class": "communications/radio",
+   "installed_location": "nine (9) grade crossing on Caltrain\u2019s right of way",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5079,
+  "out": 966
+ },
+ "model": "claude-sonnet-5"
+}

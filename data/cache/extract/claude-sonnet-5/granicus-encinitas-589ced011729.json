@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Neptune Technology Group",
+   "model": null,
+   "part": "Potable Water Meters",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Neptune Technology Group",
+   "reason": "A Resolution of the Board of Directors of the San Dieguito Water District Authorizing the Sole Sourcing of Potable Water Meters from Neptune Technology Group.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Dieguito Water District",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Neptune",
+   "model": "R900",
+   "part": "Advanced Metering Infrastructure (AMI) system endpoints/meters for Advanced Metering Infrastructure Program design-build",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 978453,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "for a total Phase 1 cost not-to-exceed amount of $978,453 for the Advanced Metering Infrastructure Program (CW26C)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Dieguito Water District",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Neptune",
+   "model": "My360",
+   "part": "Neptune My360 Consumer Portal software license (part of Neptune 360 platform)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The Neptune My360 Consumer Portal software license conditions are equal to the Neptune 360 as outlined in the N-360 Description of Service document that would be part of the contract.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "San Dieguito Water District",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9112,
+  "out": 3336
+ },
+ "model": "claude-sonnet-5"
+}

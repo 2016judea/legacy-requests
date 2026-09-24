@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Radio Maintenance Contract",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 802000,
+   "lead_time": null,
+   "sole_source_vendor": "Meteorcomm",
+   "reason": "This is Amendment 1 to contract 21-J-T-055.Amendment 1 was fully exected on 4/11/2025.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stadler",
+   "model": null,
+   "part": "EMU Option 1 cars - change order option train adding 37 Option cars to the EMU contract",
+   "part_numbers": [],
+   "quantity": "37 cars",
+   "price_usd": 172800047,
+   "lead_time": null,
+   "sole_source_vendor": "Stadler US Inc.",
+   "reason": "The option offers Caltrain the opportunity to purchase additional EMU trainsets at a substantially lower cost than would be available if Caltrain were to undertake a new procurement.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stadler",
+   "model": null,
+   "part": "EMU Option 2 cars - change order option train adding 28 Option cars to the EMU contract",
+   "part_numbers": [],
+   "quantity": "28 cars",
+   "price_usd": 183217581,
+   "lead_time": null,
+   "sole_source_vendor": "Stadler US Inc.",
+   "reason": "The option offers Caltrain the opportunity to purchase additional EMU trainsets at a substantially lower cost than would be available if Caltrain were to undertake a new procurement.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5937,
+  "out": 1723
+ },
+ "model": "claude-sonnet-5"
+}

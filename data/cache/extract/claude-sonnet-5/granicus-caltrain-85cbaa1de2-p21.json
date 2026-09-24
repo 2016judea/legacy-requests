@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Ticket Vending Machine Rehabilitation - replaced obsolete TVM components",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 152000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The project also replaced components of the TVM which are obsolete and no longer supported by the manufacturer.",
+   "equipment_class": "other equipment",
+   "installed_location": "all Caltrain stations",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": "Dual Tone Module Frequency (DTMF)",
+   "part": "Purchase of Dual Tone Module Frequency (DTMF) for grade crossings",
+   "part_numbers": [],
+   "quantity": "nine (9) units",
+   "price_usd": 16000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "These were installed at nine (9) grade crossing on Caltrain\\u2019s right of way.",
+   "equipment_class": "communications/radio",
+   "installed_location": "nine (9) grade crossings on Caltrain's right of way",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "VHF voice communication system",
+   "part": "Migration to Digital Voice Radio - update existing VHF voice communication system by co-locating VHF sites with PTC sites",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 120000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The project is to update existing VHF voice communication system by co-locating VHF sites with PTC sites that already have JPB fiber backhaul services.",
+   "equipment_class": "communications/radio",
+   "installed_location": "PTC sites",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5905,
+  "out": 1490
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Slot 10 image development for newer operating software to replace out of date, non-supported version",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "replace out of date, non-supported version",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "GPS upgrade for entire fleet",
+   "part_numbers": [],
+   "quantity": "entire fleet",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Pref GPS upgrade for entire fleer",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "new data radio upgrades to replace out of commissions and support radios being used",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "to replace out of commissions and support radios being used",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "5g cell antenna upgrade",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "5g cell antenna upgrade",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Positive Train Control (PTC) systems rehabilitation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Much of SCRRA\u2019s infrastructure has aged to the point of its useful life, is obsolete or is no longer supported by its manufacturer.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Ventura Subdivision",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Centralized train control systems rehabilitation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Much of SCRRA\u2019s infrastructure has aged to the point of its useful life, is obsolete or is no longer supported by its manufacturer.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Ventura Subdivision",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Communication Back-haul systems rehabilitation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Much of SCRRA\u2019s infrastructure has aged to the point of its useful life, is obsolete or is no longer supported by its manufacturer.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Ventura Subdivision",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "new wayside detectors to introduce into PTC system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Acquire new wayside detectors to introduce into PTC system that will help aid MOW detect hazards in the field.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "new train control simulators that model new Metrolink purchased locomotives",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Acquire new simulators that model new Metrolink purchased locomotives to full training requirements.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10688,
+  "out": 3246
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Yokogawa Fluid Imaging Technologies, Inc.",
+   "model": "FlowCam",
+   "part": "Flow Imaging Microscopy Equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 150000,
+   "lead_time": null,
+   "sole_source_vendor": "Yokogawa Fluid Imaging Technologies, Inc.",
+   "reason": "authorizing the sole source procurement of the FlowCam, Flow Imaging Microscopy Equipment from Yokogawa Fluid Imaging Technologies, Inc. in the amount not to exceed $150,000",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1929,
+  "out": 249
+ },
+ "model": "claude-sonnet-5"
+}

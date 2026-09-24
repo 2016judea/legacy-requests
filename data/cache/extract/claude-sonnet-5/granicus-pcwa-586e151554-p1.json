@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Selectron Technologies, Inc.",
+   "model": null,
+   "part": "Interactive Voice Response Phone System Services under Master Services and Hosting Agreement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 322375,
+   "lead_time": "through December 31, 2032",
+   "sole_source_vendor": "Selectron Technologies, Inc.",
+   "reason": "Approve Amendment #2 to Master Services and Hos ng Agreement with Selectron Technologies, Inc., for Interac ve Voice Response Phone System Services",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4077,
+  "out": 1068
+ },
+ "model": "claude-sonnet-5"
+}
