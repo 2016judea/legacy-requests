@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Fibron",
+   "model": "RM0049",
+   "part": "ROV Umbilical Cable (steel armored electro-optic main lift umbilical for ROV/winch)",
+   "part_numbers": [
+    "RM0049"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Fibron BX Limited",
+   "reason": "It has been found to be the only reliable cable for the MROV ROV and style of winch that will be used.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4491,
+  "out": 193
+ },
+ "model": "claude-sonnet-5"
+}

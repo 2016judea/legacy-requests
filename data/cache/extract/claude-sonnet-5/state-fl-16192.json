@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Heartland School Solutions",
+   "model": "Mosaic Cloud",
+   "part": "Subscription services for menu planning, recipe costing, inventory, and point of sale software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Heartland School Solutions",
+   "reason": "Heartland School Solutions (HSS) is sole source supplier of the family of products for Mosaic software on premise, software as a service, maintenance, support, updates & training,",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Heartland School Solutions",
+   "model": "MealViewer Digital Suite",
+   "part": "Subscription services for menu planning, recipe costing, inventory, and point of sale software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Heartland School Solutions",
+   "reason": "Heartland School Solutions (HSS) is sole source supplier of the family of products for Mosaic software on premise, software as a service, maintenance, support, updates & training,",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2652,
+  "out": 473
+ },
+ "model": "claude-sonnet-5"
+}

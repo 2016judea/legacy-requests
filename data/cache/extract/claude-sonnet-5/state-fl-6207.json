@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica",
+   "model": "GR50",
+   "part": "GNSS receivers replacing existing GR30 receivers to track additional satellite constellations and frequencies",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "FLT Geosystems is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Permanent Reference Network (FPRN) sites statewide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": "AR20",
+   "part": "Replacement antennas with radome covers for longer field life due to weather protection",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "FLT Geosystems is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Permanent Reference Network (FPRN) sites statewide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": null,
+   "part": "CCPs and Accessories",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "FLT Geosystems is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Permanent Reference Network (FPRN) sites statewide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2477,
+  "out": 1592
+ },
+ "model": "claude-sonnet-5"
+}

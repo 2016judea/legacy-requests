@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Edgetech",
+   "model": "3400 OTS",
+   "part": "Sub bottom profiler (4-24kHz)",
+   "part_numbers": [],
+   "quantity": "One (1)",
+   "price_usd": 204000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Echo81",
+   "reason": "Echo81 is the sole authorized provider for the distribution, installation, and technical support services for the systems and equipment to be purchased.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2535,
+  "out": 189
+ },
+ "model": "claude-sonnet-5"
+}

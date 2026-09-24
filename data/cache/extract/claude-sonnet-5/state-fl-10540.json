@@ -1,0 +1,45 @@
+{
+ "records": [
+  {
+   "manufacturer": "Alltrack, Inc.",
+   "model": "AT-50HD",
+   "part": "Track Carrier for wildland fire suppression",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Alltrack, Inc.",
+   "reason": "Alltrack Inc. is the only Manufacturer of the Alltrack AT-50HD. The AT-50HD is the only Track Crrier that suits the Florida Forest Service needs at this time",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Alltrack, Inc.",
+   "model": null,
+   "part": "Fire Skid Unit",
+   "part_numbers": [
+    "5215000"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Alltrack, Inc.",
+   "reason": "The Alltrack Fire Skid Unit (PN#5215000) is designed for the AT-50HD to suit Florida Forest Service needs.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3191,
+  "out": 428
+ },
+ "model": "claude-sonnet-5"
+}

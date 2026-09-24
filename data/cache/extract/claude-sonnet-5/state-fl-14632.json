@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "CFR Engines Inc.",
+   "model": "CFR\u00ae F1/F2 Octane Rating Units",
+   "part": "CFR Engine for Motor Octane Number (MON) testing per ASTM D2700",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CFR Engines Inc.",
+   "reason": "CFR Engines Inc. is the only known manufacturer of RON and MON engines used for fuel quality testing.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Pompano Beach and Tampa laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CFR Engines Inc.",
+   "model": "CFR\u00ae F1/F2 Octane Rating Units",
+   "part": "CFR Engine for Research Octane Number (RON) testing per ASTM D2699",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CFR Engines Inc.",
+   "reason": "CFR Engines Inc. is the only known manufacturer of RON and MON engines used for fuel quality testing.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Pompano Beach and Tampa laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CFR Engines Inc.",
+   "model": null,
+   "part": "Overhaul of engine crankcase and carburetor assemblies, supply/install all necessary replacement parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CFR Engines Inc.",
+   "reason": "CFR Engines Inc. is the only known manufacturer of RON and MON engines used for fuel quality testing.",
+   "equipment_class": "other equipment",
+   "installed_location": "Pompano Beach and Tampa laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CFR Engines Inc.",
+   "model": null,
+   "part": "Replacement of lead-based crankcase with a lead-free alternative to eliminate hazardous materials",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CFR Engines Inc.",
+   "reason": "CFR Engines Inc. is the only known manufacturer of RON and MON engines used for fuel quality testing.",
+   "equipment_class": "other equipment",
+   "installed_location": "Pompano Beach and Tampa laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CFR Engines Inc.",
+   "model": null,
+   "part": "Install protective rear guards to reduce personnel injury during operation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CFR Engines Inc.",
+   "reason": "CFR Engines Inc. is the only known manufacturer of RON and MON engines used for fuel quality testing.",
+   "equipment_class": "other equipment",
+   "installed_location": "Pompano Beach and Tampa laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CFR Engines Inc.",
+   "model": null,
+   "part": "Precision fuel blending system capable of blending reference fuels to within \u00b10.2% accuracy",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CFR Engines Inc.",
+   "reason": "CFR Engines Inc. is the only known manufacturer of RON and MON engines used for fuel quality testing.",
+   "equipment_class": "other equipment",
+   "installed_location": "Pompano Beach and Tampa laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3205,
+  "out": 2706
+ },
+ "model": "claude-sonnet-5"
+}

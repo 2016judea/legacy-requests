@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Schr\u00f6dinger, LLC",
+   "model": "Small Molecule Drug Discovery Suite",
+   "part": "Software suite for chemical systems investigation including target preparation, ligand preparation, workflow automation, and virtual modeling",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 65318.25,
+   "lead_time": null,
+   "sole_source_vendor": "Schr\u00f6dinger, LLC",
+   "reason": "Schr\u00f6dinger is the only provider offering a fully integrated suite \u2014 combining quantum chemistry, molecular dynamics, machine learning, and biologics modeling through proprietary modules such as Glide, DeepAutoQSAR, and LigPrep \u2014 within a single, validated, and seamlessly compatible workflow that no other vendor can replicate with equivalent depth or performance.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Jackson State University",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3491,
+  "out": 315
+ },
+ "model": "claude-sonnet-5"
+}

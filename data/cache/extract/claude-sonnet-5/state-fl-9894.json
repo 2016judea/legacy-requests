@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Daktronics",
+   "model": "Vanguard",
+   "part": "Full color retrofit kit for Dynamic Message Signs with internal components nearing end of life",
+   "part_numbers": [],
+   "quantity": "Two (2) years",
+   "price_usd": 763200.0,
+   "lead_time": null,
+   "sole_source_vendor": "Daktronics, Inc.",
+   "reason": "Daktronics is the only vendor on the Department's Approved Products List for retrofitting Dynamic Message Signs. Daktronics is the only provider of this service.",
+   "equipment_class": "other equipment",
+   "installed_location": "FDOT District Two",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2434,
+  "out": 221
+ },
+ "model": "claude-sonnet-5"
+}

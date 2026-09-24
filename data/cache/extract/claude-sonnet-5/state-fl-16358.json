@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Indical Bioscience, Inc",
+   "model": "IndiMag 2",
+   "part": "Testing supplies and reagents for nucleic acid extraction system (diagnostic assays, internal testing controls, reagents)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 55000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Indical Bioscience, Inc",
+   "reason": "Indical Bioscience, Inc is the only manufacturer and supplier for the Indical Pathogen Kit (Nucleic Acid Extraction Kits) that are approved by USDA for NAHLN testing for Foreign Animal Disease Detection",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Indical Bioscience, Inc",
+   "model": "Indical Pathogen Kit",
+   "part": "Nucleic Acid Extraction Kits for USDA/NAHLN approved Foreign Animal Disease testing",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Indical Bioscience, Inc",
+   "reason": "Indical Bioscience, Inc is the only manufacturer and supplier for the Indical Pathogen Kit (Nucleic Acid Extraction Kits) that are approved by USDA for NAHLN testing for Foreign Animal Disease Detection, including Avian Influenza Virus, Newcastle Disease Virus, African Swine Feaver, Classical Swine Feaver and Foot and Mouth Disease Virus.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2956,
+  "out": 586
+ },
+ "model": "claude-sonnet-5"
+}

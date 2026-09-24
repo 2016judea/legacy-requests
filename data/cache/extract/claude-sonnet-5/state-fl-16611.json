@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "OPCON Training Solutions",
+   "model": null,
+   "part": "Explosive Blast Simulators for Close Air Support and Artillery Impact",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "OPCON Training Solutions",
+   "reason": "In order for the simulation units to be effective, the simulation devices must be compatible with the units as well as the remotes controlling the systems.",
+   "equipment_class": "other equipment",
+   "installed_location": "Camp Blanding Joint Training Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "OPCON Training Solutions",
+   "model": null,
+   "part": "Powder Containment Shells Blast effects (PuCS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "OPCON Training Solutions",
+   "reason": "In order for the simulation units to be effective, the simulation devices must be compatible with the units as well as the remotes controlling the systems.",
+   "equipment_class": "other equipment",
+   "installed_location": "Camp Blanding Joint Training Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "OPCON Training Solutions",
+   "model": null,
+   "part": "Smoke Effects Devices for Wireless Smoke Simulation Initiator",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "OPCON Training Solutions",
+   "reason": "In order for the simulation units to be effective, the simulation devices must be compatible with the units as well as the remotes controlling the systems.",
+   "equipment_class": "other equipment",
+   "installed_location": "Camp Blanding Joint Training Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "OPCON Training Solutions",
+   "model": "SIM-AED",
+   "part": "SIM-AED Audio Effects Remote System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "OPCON Training Solutions",
+   "reason": "In order for the simulation units to be effective, the simulation devices must be compatible with the units as well as the remotes controlling the systems.",
+   "equipment_class": "other equipment",
+   "installed_location": "Camp Blanding Joint Training Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2727,
+  "out": 1273
+ },
+ "model": "claude-sonnet-5"
+}

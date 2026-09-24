@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Drone Amplified, Inc.",
+   "model": "Alta X",
+   "part": "Unmanned aerial system (UAS) drone",
+   "part_numbers": [],
+   "quantity": "25ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Drone Amplified, Inc.",
+   "reason": "The Drone Amplified, Inc is the sole source for Alta X Unmanned aerial system, parts and accessories for this OEM commodity identified in the Drone Amplified, Inc.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Drone Amplified, Inc.",
+   "model": "IGNIS 2.0",
+   "part": "Drone-based aerial ignition system",
+   "part_numbers": [],
+   "quantity": "25ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Drone Amplified, Inc.",
+   "reason": "IGNIS is unique in being the only drone-based aerial ignition system.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3070,
+  "out": 499
+ },
+ "model": "claude-sonnet-5"
+}

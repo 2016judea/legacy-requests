@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Carmody Software, Inc",
+   "model": "Carmody\u00ae",
+   "part": "Document scanning and archiving services / e-file software updates, modifications, and maintenance for OSTDS records",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": 327110.0,
+   "lead_time": null,
+   "sole_source_vendor": "Carmody Software, Inc",
+   "reason": "Carmody Software, Inc. is the sole manufacturer and distributor of software updates, modifications, and maintenance for their proprietary Carmody\u00ae e-file software and systems.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Marion County Health Department (CHD)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2842,
+  "out": 428
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Precision Flight Controls, Inc.",
+   "model": "GT Glass Trainer (GTX configuration)",
+   "part": "GT Glass Trainer flight training system for FSG Cessna T206H aircraft with Garmin G1000 integrated flight deck environment",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 42415.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Flight Controls, Inc.",
+   "reason": "No other vendor is authorized to manufacture, distribute, or support this system, and no equivalent product provides the same level of capability, interoperability, and cost- efficiency required for mission readiness.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2846,
+  "out": 259
+ },
+ "model": "claude-sonnet-5"
+}

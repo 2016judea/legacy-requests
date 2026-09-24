@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Dormakaba",
+   "model": "Keyscan Access Control System",
+   "part": "Card readers and security access, installation services, maintenance, parts, and service repairs",
+   "part_numbers": [],
+   "quantity": "3 Year Term",
+   "price_usd": 225000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Nimble Network Solutions",
+   "reason": "Nimble Network Solutions, is the sole provider for all services, maintenance, and parts for the proprietary alarm system.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Broward CHD facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2701,
+  "out": 219
+ },
+ "model": "claude-sonnet-5"
+}

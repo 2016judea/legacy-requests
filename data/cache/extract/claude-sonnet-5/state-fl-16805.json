@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axon Enterprises",
+   "model": "Taser 10",
+   "part": "Purchase of tasers, equipment bundles, required accessories, cartridges, service plans, warranties, training and training aids",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 6000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises",
+   "reason": "Axon Enterprise, Inc.is the only manufacturer of Taser 10 (or newer model available) intended for law enforcement that will satisfy the needs of the agency.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3128,
+  "out": 242
+ },
+ "model": "claude-sonnet-5"
+}

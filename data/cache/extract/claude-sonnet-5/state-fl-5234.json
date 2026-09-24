@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sonitrol",
+   "model": null,
+   "part": "Monitoring and maintenance service for proprietary security systems installed in DFS occupied buildings",
+   "part_numbers": [],
+   "quantity": "7/1/23\u2013 6/30/24",
+   "price_usd": 120471.0,
+   "lead_time": null,
+   "sole_source_vendor": "Sonitrol of Tallahassee Inc.",
+   "reason": "Sonitrol is the sole source provider of its proprietary equipment and is the only company authorized to monitor and maintain the equipment being used for the security of DFS occupied buildings.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "J. Edwin Larson Building, 200 E. Gaines Street, Tallahassee, FL 32399",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2959,
+  "out": 270
+ },
+ "model": "claude-sonnet-5"
+}

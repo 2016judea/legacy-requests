@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "RS2 Technologies",
+   "model": "Access It!",
+   "part": "Maintenance and monitoring services for existing security system (access control, fire alarms, mail center, high speed scanning unit)",
+   "part_numbers": [],
+   "quantity": "Three (3) years: July 1, 2023 \u2013 June 30, 2026",
+   "price_usd": 125000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Co., Inc.",
+   "reason": "Georgia-Florida Burglar Alarm Co., Inc., is the only vendor capable of monitoring and maintaining the Department\u2019s security and access badging system, consisting of Access It!, which uses features from RS2 Technologies.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "FHP troop locations and Neil Kirkman Building",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2784,
+  "out": 670
+ },
+ "model": "claude-sonnet-5"
+}

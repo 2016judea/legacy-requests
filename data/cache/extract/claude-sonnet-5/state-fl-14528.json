@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Merlin",
+   "part": "Software upgrades, maintenance and support, development and enhancements for the Merlin system",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": 366965.0,
+   "lead_time": null,
+   "sole_source_vendor": "ISF, Inc.",
+   "reason": "ISF, Inc. is the sole provider of software upgrades maintenance and support, development, and enhancements, for the system that is needed to maintain the continuity of operations between the Department\u2019s integrated systems and processes.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2700,
+  "out": 222
+ },
+ "model": "claude-sonnet-5"
+}

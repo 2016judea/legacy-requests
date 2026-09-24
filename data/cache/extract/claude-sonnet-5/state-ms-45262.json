@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Renaissance Learning, Inc.",
+   "model": "Nearpod Premium",
+   "part": "Nearpod Premium Renewal (student engagement/interactive lesson software license)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 45516.74,
+   "lead_time": null,
+   "sole_source_vendor": "Renaissance Learning, Inc.",
+   "reason": "Renaissance Learning, Inc. is the Sole Source for Nearpod licenses in the state of Mississippi. Any other providers who may attempt to quote or sell Nearpod software licenses in the state of Mississippi, are not authorized partners.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "University of Mississippi Medical Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5873,
+  "out": 266
+ },
+ "model": "claude-sonnet-5"
+}

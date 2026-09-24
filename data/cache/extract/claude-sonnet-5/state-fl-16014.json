@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "HumanWare",
+   "model": "Explore 8",
+   "part": "Explore 8 handheld portable video magnifiers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Reading & Vision Technology",
+   "reason": "Florida Reading and Vision is the sole authorized reseller for the following manufacturers of assistive technology products for the Florida School for the Deaf and Blind",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IRIE-AT/SightCare",
+   "model": "CloverBook Pro",
+   "part": "Cloverbook Pro units",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Reading & Vision Technology",
+   "reason": "Florida Reading and Vision is the sole authorized reseller for the following manufacturers of assistive technology products for the Florida School for the Deaf and Blind",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HumanWare",
+   "model": "Index Basic-D V5",
+   "part": "Index Basic-D V5 Braille Embossers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Reading & Vision Technology",
+   "reason": "master distributor for Index Braille printers (Basic D)",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dot Inc.",
+   "model": "Dot Pad X",
+   "part": "Dot Pad X units",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Reading & Vision Technology",
+   "reason": "Florida Reading and Vision is the sole authorized reseller for the following manufacturers of assistive technology products for the Florida School for the Deaf and Blind",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2587,
+  "out": 1042
+ },
+ "model": "claude-sonnet-5"
+}

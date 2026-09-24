@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Drone Amplified",
+   "model": "IGNIS",
+   "part": "IGNIS aerial ignition system for use with Alta X UAS, plus accessories and spare parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Drone Amplified, Inc",
+   "reason": "The IGNIS system is the only aerial ignition system that can operate from an unmanned aerial system (UAS or drone). IGNIS is sold exclusively by Drone Amplified.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2985,
+  "out": 223
+ },
+ "model": "claude-sonnet-5"
+}

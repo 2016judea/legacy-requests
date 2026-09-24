@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tyler Technologies, Inc",
+   "model": "Munis",
+   "part": "Annual Munis Software License and Support agreement",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": 123602.35,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc",
+   "reason": "Tyler Technologies is the copyright owner of the Munis ERP System and the only authorized agent to provide licenses and support for said technology.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2521,
+  "out": 201
+ },
+ "model": "claude-sonnet-5"
+}

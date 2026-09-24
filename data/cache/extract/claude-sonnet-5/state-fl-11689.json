@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Onboard Systems Hoist & Winch",
+   "model": "High Performance Rescue Hoist",
+   "part": "Internal rescue hoist for UH-60 Blackhawk helicopters",
+   "part_numbers": [
+    "42305-5"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Onboard Systems Hoist & Winch",
+   "reason": "Onboard Systems Hoist & Winch is the manufacturer for this product and therefore this is considered a sole source product.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2085,
+  "out": 215
+ },
+ "model": "claude-sonnet-5"
+}

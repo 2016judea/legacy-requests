@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "VMRD, Inc.",
+   "model": "Babesia caballi Antibody Test kit, cELISA",
+   "part": "Babesia caballi Antibody Test kit, cELISA for piroplasmosis testing",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "VMRD, Inc.",
+   "reason": "VMRD Inc. is the sole source manufacturer and supplier of the USDA liscensed Babesia caballi Antibody Test kit, cELISA and Babesia equi Antibody Test kit, cELISA for piroplasmosis test.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VMRD, Inc.",
+   "model": "Babesia equi Antibody Test kit, cELISA",
+   "part": "Babesia equi Antibody Test kit, cELISA for piroplasmosis testing",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "VMRD, Inc.",
+   "reason": "VMRD Inc. is the sole source manufacturer and supplier of the USDA liscensed Babesia caballi Antibody Test kit, cELISA and Babesia equi Antibody Test kit, cELISA for piroplasmosis test.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2995,
+  "out": 910
+ },
+ "model": "claude-sonnet-5"
+}

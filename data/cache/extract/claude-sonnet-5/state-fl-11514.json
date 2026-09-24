@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens Industry, Inc.",
+   "model": "Siveillance",
+   "part": "New video management system server with the Siveillance software",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "These items are proprietary to Siemens Industry Inc. who does not allow third parties to hold their licenses and will not integrate or warrant any materials or work performed by a third party.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "State Materials Office, Gainesville, FL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens Industry, Inc.",
+   "model": null,
+   "part": "New high definition IP cameras",
+   "part_numbers": [],
+   "quantity": "14",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "These items are proprietary to Siemens Industry Inc. who does not allow third parties to hold their licenses and will not integrate or warrant any materials or work performed by a third party.",
+   "equipment_class": "other equipment",
+   "installed_location": "State Materials Office, Gainesville, FL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens Industry, Inc.",
+   "model": null,
+   "part": "Pole mounted NEMA enclosure kits",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "These items are proprietary to Siemens Industry Inc. who does not allow third parties to hold their licenses and will not integrate or warrant any materials or work performed by a third party.",
+   "equipment_class": "other equipment",
+   "installed_location": "State Materials Office, Gainesville, FL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens Industry, Inc.",
+   "model": null,
+   "part": "Wireless radios",
+   "part_numbers": [],
+   "quantity": "7",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "These items are proprietary to Siemens Industry Inc. who does not allow third parties to hold their licenses and will not integrate or warrant any materials or work performed by a third party.",
+   "equipment_class": "communications/radio",
+   "installed_location": "State Materials Office, Gainesville, FL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens Industry, Inc.",
+   "model": null,
+   "part": "Camera surge protection modules",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "These items are proprietary to Siemens Industry Inc. who does not allow third parties to hold their licenses and will not integrate or warrant any materials or work performed by a third party.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "State Materials Office, Gainesville, FL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens Industry, Inc.",
+   "model": null,
+   "part": "CAT6 cabling & electrical materials",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "These items are proprietary to Siemens Industry Inc. who does not allow third parties to hold their licenses and will not integrate or warrant any materials or work performed by a third party.",
+   "equipment_class": "other equipment",
+   "installed_location": "State Materials Office, Gainesville, FL",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2828,
+  "out": 2149
+ },
+ "model": "claude-sonnet-5"
+}

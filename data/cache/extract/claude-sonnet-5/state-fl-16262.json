@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hyland",
+   "model": "AnyDoc",
+   "part": "Software keys and licenses, hardware and software maintenance, miscellaneous repairs and parts, and support and upgrade",
+   "part_numbers": [],
+   "quantity": "07/01/2026-6/30/2027",
+   "price_usd": 150000.0,
+   "lead_time": null,
+   "sole_source_vendor": "i3-Imagesoft, LLC (formerly Imagesoft, Inc)",
+   "reason": "i3-Imagesoft, LLC (formerly Imagesoft, Inc.), is the authorized and certified Hyland AnyDoc software reseller for the Florida Department of Agriculture and Consumer Services and is, therefore, the only reseller able to sell and support the AnyDoc products to the Department.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2909,
+  "out": 303
+ },
+ "model": "claude-sonnet-5"
+}

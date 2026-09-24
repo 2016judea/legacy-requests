@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "YSI",
+   "model": "Nile radar water level sensor",
+   "part": "Nile radar water level sensor equipment and accessories, including cables",
+   "part_numbers": [],
+   "quantity": "10 sensors",
+   "price_usd": 55000.0,
+   "lead_time": null,
+   "sole_source_vendor": "YSI, Inc.",
+   "reason": "YSI Incorporated, a wholly owned subsidiary of Xylem Corporation, is the sole manufacturer of the Nile radar water level sensor, including all cables and accessories for the Nile system.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2906,
+  "out": 225
+ },
+ "model": "claude-sonnet-5"
+}

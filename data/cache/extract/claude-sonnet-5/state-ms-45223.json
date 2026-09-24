@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "QGenda, LLC",
+   "model": "QGenda",
+   "part": "Renewal of Physician Scheduling Platform (support and licensing) for Emergency Department",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 103232.3,
+   "lead_time": null,
+   "sole_source_vendor": "QGenda, LLC",
+   "reason": "QGenda, LLC is the sole provider of support and licensing for this product.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "University of Mississippi Medical Center - Department of Emergency Medicine",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4833,
+  "out": 209
+ },
+ "model": "claude-sonnet-5"
+}

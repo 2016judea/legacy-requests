@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Clear Water Enviro Technologies Inc.",
+   "model": "ScaleBlaster",
+   "part": "Electronic Descaler system to remove calcium carbonate from hatchery life support water",
+   "part_numbers": [],
+   "quantity": "1 year from the issue of the first PO",
+   "price_usd": 74475.0,
+   "lead_time": null,
+   "sole_source_vendor": "Clear Water Enviro Technologies Inc.",
+   "reason": "Clear Water Enviro Technologies Inc. is the sole manufacturere of the ScaleBlaster system that is designed for applications as large as FBCC.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Richloam State Fish Hatchery and Florida Bass Conservation Center, 3583 CR 788 Webster, FL 33597",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3144,
+  "out": 312
+ },
+ "model": "claude-sonnet-5"
+}

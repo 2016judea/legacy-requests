@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "CPI",
+   "model": "Individual Air Collar Removable Bladder System",
+   "part": "CPI Inflatable Air Bladder collars systems and related parts for Brunswick Impact vessels to include warranty",
+   "part_numbers": [],
+   "quantity": "3 years from date of award",
+   "price_usd": 250000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cryogenic Plastics, Inc. (CPI)",
+   "reason": "CPI has a unique and patented individual air collar removable bladder system and related parts not available from any other vendor, that were designed for the aforementioned Impact model vessels by Brunswick's using their proprietary boat molds, tooling\u2019s, and digital models",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2976,
+  "out": 271
+ },
+ "model": "claude-sonnet-5"
+}

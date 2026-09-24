@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tyler Technologies, Inc.",
+   "model": "VERSA Regulation and VERSA Online",
+   "part": "Annual Maintenance and Support for VERSA Regulation and VERSA Online Software",
+   "part_numbers": [],
+   "quantity": "11/1/2025 \u2013 10/31/2028 (Three-one year renewal for Annual Maintenance and Support Fee)",
+   "price_usd": 900000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "The requested VERSA Software Suits, which include VERSA Regulation and VERSA Online, currently installed at the Florida Department of Education, is proprietary Tyler Technologies, Inc. (Tyler) Software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida Department of Education",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2760,
+  "out": 302
+ },
+ "model": "claude-sonnet-5"
+}

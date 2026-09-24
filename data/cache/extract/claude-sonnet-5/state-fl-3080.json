@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Honeywell",
+   "model": "Enterprise Building Manager (EBI)",
+   "part": "HVAC controls maintenance and support for existing Honeywell Enterprise Building Manager system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 88529.0,
+   "lead_time": null,
+   "sole_source_vendor": "Honeywell",
+   "reason": "The software for the systems is written and maintained by Honeywell, as is the programing in the field controllers. Honeywell technicians and engineers are the only persons with that are factory trained to modify and work on the system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB) campus",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2494,
+  "out": 254
+ },
+ "model": "claude-sonnet-5"
+}

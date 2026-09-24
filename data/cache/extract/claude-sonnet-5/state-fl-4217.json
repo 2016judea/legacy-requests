@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Waters Corporation",
+   "model": "Xevo TQ-XS",
+   "part": "Annual maintenance agreement for benchtop tandem quadrupole mass spectrometer coupled to an Ultra High Performance Liquid Chromatography System",
+   "part_numbers": [],
+   "quantity": "Three (3) years upon issuance of purchase order.",
+   "price_usd": 175000,
+   "lead_time": null,
+   "sole_source_vendor": "Waters Corporation",
+   "reason": "This equipment is proprietary to Waters Corporation and service of this equipment is only provided by the manufacturer.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3072,
+  "out": 239
+ },
+ "model": "claude-sonnet-5"
+}

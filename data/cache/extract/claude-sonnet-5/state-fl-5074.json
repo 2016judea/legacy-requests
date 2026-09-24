@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Arrowhead Forensics",
+   "model": "Full Spectrum Imaging System (FSIS)",
+   "part": "Forensic camera systems used to view and capture latent prints and other types of evidence",
+   "part_numbers": [],
+   "quantity": "5 forensic camera systems",
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": "Arrowhead Forensics",
+   "reason": "The Arrowhead Forensics Full Spectrum Imaging System (FSIS) is the only forensic camera system with custom software which enables the analyst to view and capture latent prints and other types of evidence on 3D, textured, and round surfaces using an integration feature.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3230,
+  "out": 267
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Environmental Systems Research Institute, Inc.",
+   "model": null,
+   "part": "Esri Enterprise Agreement - bundled licensing software, maintenance and online services (GIS)",
+   "part_numbers": [],
+   "quantity": "2 years",
+   "price_usd": 1750000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute, Inc.",
+   "reason": "Esri, as owner and manufacturer, is the sole source provider of all U.S. domestic Enterprise Agreements (EA).",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2857,
+  "out": 226
+ },
+ "model": "claude-sonnet-5"
+}

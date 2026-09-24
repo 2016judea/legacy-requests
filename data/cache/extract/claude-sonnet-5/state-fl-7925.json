@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sage Oil Vac",
+   "model": null,
+   "part": "Portable Oil Lube Service Skid",
+   "part_numbers": [],
+   "quantity": "Seven (7) Months",
+   "price_usd": 46374.4,
+   "lead_time": null,
+   "sole_source_vendor": "Sage Oil Vac, Inc.",
+   "reason": "This item is sole source as we have been unable to locate another vendor that offers this portable product with the capacity needs we have, plus the ability to use a patented no-pump lube technology that allows fluid to be pulled quickly and efficiently from equipment without moving parts, which allows for fewer maintenance problems and a lower cost.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2458,
+  "out": 255
+ },
+ "model": "claude-sonnet-5"
+}

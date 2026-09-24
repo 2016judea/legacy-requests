@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Dynatest",
+   "model": "HVS MK6",
+   "part": "Repair of Electric Drive System for Mk 6 Heavy Vehicle Simulator (HVS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 42880.0,
+   "lead_time": null,
+   "sole_source_vendor": "DYNATEST US INC.",
+   "reason": "Dynatest, the manufacturer of the Mk 6 HVS, is the sole vendor to repair, calibrate, and integrate the equipment\u2019s proprietary software and systems, including the Electric Drive System.",
+   "equipment_class": "motor/drive",
+   "installed_location": "State Materials Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2659,
+  "out": 239
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Teledyne API",
+   "model": "Model 750U",
+   "part": "Portable Dynamic Dilution Calibrator",
+   "part_numbers": [],
+   "quantity": "One (1) Time Purchase",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Teledyne Advanced Pollution Instrumentation (Teledyne API)",
+   "reason": "Teledyne Advanced Pollution Instrumentation (Teledyne API), located in San Diego, California, is the sole manufacturer of the Teledyne API Model 750U Portable Dynamic Dilution Calibrator",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne API",
+   "model": "Model 751H",
+   "part": "Portable High Performance Zero Air System",
+   "part_numbers": [],
+   "quantity": "One (1) Time Purchase",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Teledyne Advanced Pollution Instrumentation (Teledyne API)",
+   "reason": "Teledyne is the only authorized manufacturer and distributor for Teledyne brand parts and service in North America.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2987,
+  "out": 641
+ },
+ "model": "claude-sonnet-5"
+}

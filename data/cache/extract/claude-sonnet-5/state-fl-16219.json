@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Veterinary Medical Research & Development, Inc. (VMRD)",
+   "model": null,
+   "part": "Babesia caballi Antibody Test kit, cELISA",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Veterinary Medical Research & Development, Inc. (VMRD)",
+   "reason": "VMRD, Inc is the sole source manufacturer and supplier of the USDA licensed Babesia caballi Antibody Test kit, cELISA and Babesia equi Antibody Test kit, cELISA for Piroplasmosis test",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veterinary Medical Research & Development, Inc. (VMRD)",
+   "model": null,
+   "part": "Babesia equi Antibody Test kit, cELISA",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Veterinary Medical Research & Development, Inc. (VMRD)",
+   "reason": "VMRD, Inc is the sole source manufacturer and supplier of the USDA licensed Babesia caballi Antibody Test kit, cELISA and Babesia equi Antibody Test kit, cELISA for Piroplasmosis test",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veterinary Medical Research & Development, Inc. (VMRD)",
+   "model": null,
+   "part": "Prion Protein MAb Cell Culture Supernate",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Veterinary Medical Research & Development, Inc. (VMRD)",
+   "reason": "VMRD, Inc is the sole source manufacturer and supplier of the USDA licensed Babesia caballi Antibody Test kit, cELISA and Babesia equi Antibody Test kit, cELISA for Piroplasmosis test; Prion Protein MAb Cell Culture Supernate.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2945,
+  "out": 949
+ },
+ "model": "claude-sonnet-5"
+}

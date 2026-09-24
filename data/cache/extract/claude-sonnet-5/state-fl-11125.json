@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Clear Labs, Inc.",
+   "model": "Clear Dx\u2122",
+   "part": "Two Clear Dx\u2122 Instrument Systems, including software, reagents, and maintenance services",
+   "part_numbers": [],
+   "quantity": "Two systems",
+   "price_usd": 2992704.0,
+   "lead_time": null,
+   "sole_source_vendor": "Clear Labs, Inc.",
+   "reason": "Clear Labs, Inc. is the sole manufacturer and distributor of Clear Dx\u2122 Instrument system, software, reagents, and equipment in the United States.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Miami, Tampa, and Jacksonville laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2901,
+  "out": 249
+ },
+ "model": "claude-sonnet-5"
+}

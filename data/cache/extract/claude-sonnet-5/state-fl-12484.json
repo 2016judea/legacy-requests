@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lift-It Manufacturing Co., Inc.",
+   "model": null,
+   "part": "Sling load assemblies, long lines, and cargo nets for specialized aerial cargo transport",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lift-It Manufacturing Co., Inc.",
+   "reason": "Lift-It Manufacturing Co., Inc. is the manufacturer for this product and therefore this is considered a single source product.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2764,
+  "out": 213
+ },
+ "model": "claude-sonnet-5"
+}

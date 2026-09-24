@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Agilent Technologies, Inc.",
+   "model": null,
+   "part": "Maintenance and Repair Services by the OEM for Specialized Analytical Laboratory Instrumentation",
+   "part_numbers": [],
+   "quantity": "36 months",
+   "price_usd": 367073.76,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "Agilent Technologies, Inc. is the sole equipment manufacturer and ISO 9001-certified source for factory-authorized service for Agilent hardware and software, parts, training, technical support, and at-your-site service and support procedures.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division Environmental Assessment and Restoration (DEAR), Chemistry Laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3186,
+  "out": 284
+ },
+ "model": "claude-sonnet-5"
+}

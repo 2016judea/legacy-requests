@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Environmental Systems Research Institute (ESRI)",
+   "model": "ArcGIS Desktop",
+   "part": "Annual Software Maintenance agreement for ArcGIS Desktop, Server, and Web mapping software",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute (ESRI)",
+   "reason": "ESRI is the manufacturer and sole provider of all desktops, server and web mapping software for the Geographic Information System and has exclusive rights to all upgrades, modifications and enhancements needed to maintain continuity of this integrated system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Environmental Systems Research Institute (ESRI)",
+   "model": "ArcGIS for Server",
+   "part": "Software maintenance agreement for ArcGIS for Server used to share GIS information with external agency partners and the public",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute (ESRI)",
+   "reason": "ESRI is the manufacturer and sole provider of all desktops, server and web mapping software for the Geographic Information System and has exclusive rights to all upgrades, modifications and enhancements needed to maintain continuity of this integrated system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Environmental Systems Research Institute (ESRI)",
+   "model": "ArcGIS Online",
+   "part": "Web mapping ArcGIS Online software maintenance agreement",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute (ESRI)",
+   "reason": "ESRI is the manufacturer and sole provider of all desktops, server and web mapping software for the Geographic Information System and has exclusive rights to all upgrades, modifications and enhancements needed to maintain continuity of this integrated system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3171,
+  "out": 775
+ },
+ "model": "claude-sonnet-5"
+}

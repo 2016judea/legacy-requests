@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "CENTUM",
+   "model": "Lifeseeker SAR XL S10",
+   "part": "Lifeseeker equipment for search and rescue teams to communicate with missing persons",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CENTUM Lifeseeker",
+   "reason": "The evaluation has been done and Lifeseeker equipment will be the most capable and is compatable with the existing equipment already incorporated into the fleet for comformity.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2706,
+  "out": 214
+ },
+ "model": "claude-sonnet-5"
+}

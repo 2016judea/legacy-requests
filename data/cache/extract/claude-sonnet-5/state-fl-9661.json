@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "AASHTO",
+   "model": "AASHTOWare",
+   "part": "AASHTOWare Software suite including Project BAM/DSS, Project SiteManager, Project Preconstruction and Project Bids Module Licenses, Project Mobile Applications, Bridge Rating Unlimited Option and Bridge Management Super Site License",
+   "part_numbers": [],
+   "quantity": "One (1) year",
+   "price_usd": 735840.0,
+   "lead_time": null,
+   "sole_source_vendor": "AASHTO",
+   "reason": "There are no other known vendors or distributors of AASHTOWare Software, or no other known vendors that can perform maintenance on this software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2696,
+  "out": 262
+ },
+ "model": "claude-sonnet-5"
+}

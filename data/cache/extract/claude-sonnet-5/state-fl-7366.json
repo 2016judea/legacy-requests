@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Parker Software, Inc.",
+   "model": "WhosOn",
+   "part": "WhosOn software application - hosted solution for Live Web Statistics, Live Visitor Chat, Proactive Visitor Engagement, Prospect Detection and Live Web Analytics",
+   "part_numbers": [],
+   "quantity": "Term: Five years beginning on 02/19/2024",
+   "price_usd": 84712.8,
+   "lead_time": null,
+   "sole_source_vendor": "Parker Software, Inc.",
+   "reason": "Parker Software, Inc. is the sole provider of the WhosOn application, and the current support contract expires February 18, 2024.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida Department of Revenue Child Support Program Building 2, 2450 Shumard Oak Blvd, Tallahassee, Florida 32399",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3012,
+  "out": 305
+ },
+ "model": "claude-sonnet-5"
+}

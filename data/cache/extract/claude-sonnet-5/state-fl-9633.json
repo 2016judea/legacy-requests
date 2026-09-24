@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Diverse Computing, Inc.",
+   "model": "eAgent Client Messaging System",
+   "part": "eAgent Client Messaging System License and Maintenance Support",
+   "part_numbers": [],
+   "quantity": "36 Months",
+   "price_usd": 1105905.6,
+   "lead_time": null,
+   "sole_source_vendor": "Diverse Computing, Inc. (DCI)",
+   "reason": "eAgent is licensed through and maintained exclusively by DCI. No other firm is authorized to license or sell this product, as it is proprietary in nature.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2792,
+  "out": 225
+ },
+ "model": "claude-sonnet-5"
+}

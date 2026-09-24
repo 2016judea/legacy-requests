@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Phonak",
+   "model": null,
+   "part": "Phonak and Roger brand hearing aids",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 14000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Sonova USA, Inc.",
+   "reason": "Phonak is the manufacturer and the only US source for Roger products.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2502,
+  "out": 185
+ },
+ "model": "claude-sonnet-5"
+}

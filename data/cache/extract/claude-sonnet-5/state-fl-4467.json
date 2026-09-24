@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "complete linear actuator and two additional thrust units matching actuators installed on Crescent Beach Bridge",
+   "part_numbers": [],
+   "quantity": "two replacement thrust units and one actuator (may purchase an additional actuator)",
+   "price_usd": 100000.0,
+   "lead_time": "approximately 21 weeks",
+   "sole_source_vendor": "RACO International, L.P.",
+   "reason": "RACO International is the only vendor that builds these actuator and thrust units for the District Two drawbridges (Bridge of Lions and Crescent Beach Bridge).",
+   "equipment_class": "other equipment",
+   "installed_location": "Crescent Beach Bridge, St Augustine, Florida; Bridge of Lions",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2844,
+  "out": 1043
+ },
+ "model": "claude-sonnet-5"
+}

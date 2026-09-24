@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bio-Rad Laboratories",
+   "model": "Geenius\u2122 System",
+   "part": "Assays and controls to perform HIV-1/HIV-2 Supplemental differentiation testing and Newborn Screening Sickle Cell tests",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 460000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Bio-Rad Laboratories",
+   "reason": "The Geenius\u2122 System is the only FDA approved HIV-1/HIV-2 differential assay currently on the U.S. market and has been validated in-house for the confirmation of HIV-1 Oral Fluid meeting the guidelines required.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2873,
+  "out": 271
+ },
+ "model": "claude-sonnet-5"
+}

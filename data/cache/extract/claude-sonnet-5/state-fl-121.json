@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Elite Aluminum Corporation",
+   "model": null,
+   "part": "Annual maintenance, storage, repairs, deployment, assembly, staffing, and demobilization for the Mobile Medical Facility",
+   "part_numbers": [],
+   "quantity": "3 Years",
+   "price_usd": 290490.0,
+   "lead_time": null,
+   "sole_source_vendor": "Elite Aluminum Corporation",
+   "reason": "Elite Aluminum Corporation is the sole manufacturer and supplier of annual maintenance, storage, repairs, deployment, assembly, staffing, and demobilization for the Elite Aluminum mobile medical unit.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3116,
+  "out": 258
+ },
+ "model": "claude-sonnet-5"
+}

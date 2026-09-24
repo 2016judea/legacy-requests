@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Logi Analytics, Inc",
+   "model": "Logi Analytics Platform Enterprise",
+   "part": "Annual software maintenance, modifications, and support for Logi Analytics Platform Enterprise",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": 190127.5,
+   "lead_time": null,
+   "sole_source_vendor": "Logi Analytics, Inc",
+   "reason": "Logi Analytics, Inc is the sole manufacturer and distributor of software updates, modifications, and maintenance needed for the Logi Analytics Platform Enterprise, Logi DataHub Enterprise, and Logi Info Studios and has exclusive rights to all upgrades, modifications and enhancements needed to maintain continuity of these integrated reporting systems.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Logi Analytics, Inc",
+   "model": "Logi DataHub Enterprise",
+   "part": "Annual software maintenance, modifications, and support for Logi DataHub Enterprise",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": 190127.5,
+   "lead_time": null,
+   "sole_source_vendor": "Logi Analytics, Inc",
+   "reason": "Logi Analytics, Inc is the sole manufacturer and distributor of software updates, modifications, and maintenance needed for the Logi Analytics Platform Enterprise, Logi DataHub Enterprise, and Logi Info Studios and has exclusive rights to all upgrades, modifications and enhancements needed to maintain continuity of these integrated reporting systems.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Logi Analytics, Inc",
+   "model": "Logi Info Studio",
+   "part": "Annual software maintenance, modifications, and support for Logi Info Studio",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": 190127.5,
+   "lead_time": null,
+   "sole_source_vendor": "Logi Analytics, Inc",
+   "reason": "Logi Analytics, Inc is the sole manufacturer and distributor of software updates, modifications, and maintenance needed for the Logi Analytics Platform Enterprise, Logi DataHub Enterprise, and Logi Info Studios and has exclusive rights to all upgrades, modifications and enhancements needed to maintain continuity of these integrated reporting systems.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2694,
+  "out": 877
+ },
+ "model": "claude-sonnet-5"
+}

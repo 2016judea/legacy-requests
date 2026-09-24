@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pairsoft/Paramount Technologies",
+   "model": "PaperSave",
+   "part": "Document Management and Electronic Workflow Solution for Blackbaud Raisers Edge (PaperSave) renewal",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 43599.8,
+   "lead_time": null,
+   "sole_source_vendor": "Pairsoft",
+   "reason": "PaperSave is the only software has direct and native integration with Blackbaud products.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "University of Mississippi Medical Center, Office of Development",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4699,
+  "out": 220
+ },
+ "model": "claude-sonnet-5"
+}

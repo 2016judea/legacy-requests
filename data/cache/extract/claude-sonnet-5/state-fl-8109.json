@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "I-Con Systems, Inc.",
+   "model": null,
+   "part": "Repair parts for I-Con flush and water control systems (water conservation program)",
+   "part_numbers": [],
+   "quantity": "Five (5) Year Term (60 months)",
+   "price_usd": 75000.0,
+   "lead_time": null,
+   "sole_source_vendor": "I-Con Systems, Inc.",
+   "reason": "This system has metered water usage and is maintained and repaired solely by I-Con. The plumbing parts used in the system are proprietary and cannot be replaced with other vendor parts.",
+   "equipment_class": "other equipment",
+   "installed_location": "Correctional Institutions",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2628,
+  "out": 241
+ },
+ "model": "claude-sonnet-5"
+}

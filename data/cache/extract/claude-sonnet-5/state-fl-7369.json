@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Q-Free America, Inc.",
+   "model": "Intrada\u00ae OCR",
+   "part": "Intrada\u00ae Optical Character Recognition (OCR) Automatic License Plate Reader (ALPR) software maintenance and support",
+   "part_numbers": [],
+   "quantity": "Three (3) Years",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Q-Free America, Inc.",
+   "reason": "Q-Free is the sole source provider for the Intrada\u00ae Optical Character Recognition (OCR) specific proprietary software components needed to maintain the Department\u2019s production TSR lanes",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Florida's Turnpike Enterprise (FTE) TSR toll lanes",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Q-Free America, Inc.",
+   "model": "Intrada\u00ae Synergy Server (ISS)",
+   "part": "Intrada\u00ae Synergy Server (ISS) video image processing software maintenance and support",
+   "part_numbers": [],
+   "quantity": "Three (3) Years",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Q-Free America, Inc.",
+   "reason": "Q-Free provides a proprietary centralized Intrada\u00ae Synergy Server (ISS) video image processing software for automated toll license plate image processing. All intellectual property and title to the software properties remain the property of Q-Free.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Florida's Turnpike Enterprise (FTE) tolling lanes",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3424,
+  "out": 771
+ },
+ "model": "claude-sonnet-5"
+}

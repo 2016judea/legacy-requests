@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "ESSENCE",
+   "part": "Hosting service for the ESSENCE and EpiCom database systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1136106.0,
+   "lead_time": null,
+   "sole_source_vendor": "ISF, Inc.",
+   "reason": "ISF, Inc. is the sole provider of all hosting services, software, and maintenance to the ESSENCE and EpiCom systems.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "EpiCom",
+   "part": "Hosting service for the ESSENCE and EpiCom database systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ISF, Inc.",
+   "reason": "ISF Inc., created the ESSENCE and EpiCom database systems owned by the Department of Health, Bureau of Epidemiology.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2702,
+  "out": 377
+ },
+ "model": "claude-sonnet-5"
+}

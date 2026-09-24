@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "bioMerieux",
+   "model": "BioFire",
+   "part": "Reagents and service agreements for identification of pathogens using nucleic acid sequences (PCR system)",
+   "part_numbers": [],
+   "quantity": "3 Years",
+   "price_usd": 368438.0,
+   "lead_time": null,
+   "sole_source_vendor": "bioMerieux BioFire",
+   "reason": "bioMerieux is the exclusive manufacturer and distributor of these reagents and equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3060,
+  "out": 218
+ },
+ "model": "claude-sonnet-5"
+}

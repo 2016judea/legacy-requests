@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Hydraulic/electrical swivel located in the turret of DOT#31321",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 45000.0,
+   "lead_time": "12 weeks",
+   "sole_source_vendor": "Ring Power Corporation",
+   "reason": "The part necessary to make repairs is no longer available and will have to be fabricated.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "DOT#31321",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Hydraulic hoses connected to the swivel on DOT#31321",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "12 weeks",
+   "sole_source_vendor": "Ring Power Corporation",
+   "reason": "The Vendor shall replace the hydraulic/electrical swivel located in the turret as well as replace the hydraulic hoses connected to the swivel.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "DOT#31321",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2375,
+  "out": 776
+ },
+ "model": "claude-sonnet-5"
+}

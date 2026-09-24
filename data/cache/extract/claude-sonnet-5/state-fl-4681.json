@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kontur",
+   "model": null,
+   "part": "3D Ground Penetrating Radar (Highway Speed 3D GPR System)",
+   "part_numbers": [],
+   "quantity": "one (1)",
+   "price_usd": 271769.18,
+   "lead_time": null,
+   "sole_source_vendor": "Kontur US Inc.",
+   "reason": "This 3D GPR is manufactured, sold, and distributed exclusively by KONTUR. There is no other known like item(s) or product(s) available for purchase that would serve the same purpose or function.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2740,
+  "out": 227
+ },
+ "model": "claude-sonnet-5"
+}

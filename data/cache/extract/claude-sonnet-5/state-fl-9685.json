@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trane",
+   "model": "CenTraVac",
+   "part": "Rebuild and recertification of 150-ton centrifugal chiller with 5-year factory warranty and new factory serial number (CenTraVac R'Newal Service Program)",
+   "part_numbers": [],
+   "quantity": "Five (5) Years: August 2024 \u2013 August 2029",
+   "price_usd": 368349.0,
+   "lead_time": null,
+   "sole_source_vendor": "Trane U.S. Inc.",
+   "reason": "Trane is the sole source provider of this extended factory warranty for the CenTraVac unit and is the only provider who can provide a new serial number for the CenTraVac unit.",
+   "equipment_class": "HVAC",
+   "installed_location": "Caldwell Building",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2825,
+  "out": 262
+ },
+ "model": "claude-sonnet-5"
+}

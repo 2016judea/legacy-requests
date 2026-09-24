@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "34ED, LLC dba CENTEGIX",
+   "model": null,
+   "part": "Crisis alert system with wearable badges and enhanced visitor management system",
+   "part_numbers": [],
+   "quantity": "Five (5) years",
+   "price_usd": 96965,
+   "lead_time": null,
+   "sole_source_vendor": "34ED, LLC dba CENTEGIX",
+   "reason": "There are no other like items or products available for purchase from other platform providers that include the following features",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida State Fire College",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2788,
+  "out": 197
+ },
+ "model": "claude-sonnet-5"
+}

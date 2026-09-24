@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "BRINC Drones, Inc.",
+   "model": "Lemur 2",
+   "part": "Unmanned Aerial Vehicles (UAV) for FHP Special Response Team",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": 150000.0,
+   "lead_time": null,
+   "sole_source_vendor": "BRINC Drones, Inc.",
+   "reason": "BRINC is the sole manufacturer, developer and provider of the Lemur 2 UAVs.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Florida Highway Patrol (FHP) Special Response Team",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2755,
+  "out": 223
+ },
+ "model": "claude-sonnet-5"
+}

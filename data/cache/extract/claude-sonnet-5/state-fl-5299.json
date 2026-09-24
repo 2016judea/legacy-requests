@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "QIAGEN",
+   "model": "QIASymphony",
+   "part": "QIAGEN supplies and implements compatible with QIASymphony DNA analysis system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "QIAGEN, LLC",
+   "reason": "The QIAsymphony and QIAgility systems are the only ones that are validated to work with the QIAGEN EZ1 extraction robot already in place in FDLE's crime laboratories.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "FDLE Regional Operations Centers crime laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "QIAGEN",
+   "model": "QIAgility",
+   "part": "QIAgility liquid handling system supplies and implements",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "QIAGEN, LLC",
+   "reason": "The QIAsymphony system is augmented by the QIAgility liquid handling system. The QIAsymphony and QIAgility systems are the only ones that are validated to work with the QIAGEN EZ1 extraction robot already in place in FDLE\\u2019s crime laboratories.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "FDLE Regional Operations Centers crime laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "QIAGEN",
+   "model": "EZ1 Advanced XL",
+   "part": "EZ1 extraction robot accessories and maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "QIAGEN, LLC",
+   "reason": "In November 2011, Invitation to Bid 1257 established FDLE's platform for QIAGEN's EZ1 Advanced XL accessories and maintenance.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "FDLE Regional Operations Centers crime laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "QIAGEN",
+   "model": null,
+   "part": "QIAGEN supplies and implements for 40 QIAGEN instruments in operation",
+   "part_numbers": [],
+   "quantity": "40 instruments",
+   "price_usd": 1500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "QIAGEN, LLC",
+   "reason": "FDLE currently has 40 QIAGEN instruments in operation and these QIAGEN instruments require QIAGEN supplies and implements which can only be purchased through QIAGEN, LLC.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "FDLE Regional Operations Centers crime laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3178,
+  "out": 1151
+ },
+ "model": "claude-sonnet-5"
+}

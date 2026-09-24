@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lotek",
+   "model": null,
+   "part": "Radio telemetry tags compatible with Lotek SRX 1200 receivers, broadcasting 150-154 MHz, coded for tag ID, temperature, pressure, and 3-axis acceleration",
+   "part_numbers": [],
+   "quantity": "3 years - upon issuance of purchase order",
+   "price_usd": 200000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Lotek",
+   "reason": "The Freshwater Fisheries Research Section uses Lotek tags and receivers with proprietary coding.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lotek",
+   "model": "SRX 1200",
+   "part": "Radio telemetry receivers used to decode implanted fish tags",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lotek",
+   "reason": "Tags purchased must be compatible with Lotek SRX 1200 receivers.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3062,
+  "out": 1052
+ },
+ "model": "claude-sonnet-5"
+}

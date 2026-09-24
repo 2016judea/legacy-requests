@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hell's Bay Boatworks",
+   "model": "Waterman 18'",
+   "part": "Specialized custom built boat to collect water and meat samples for shellfish/seafood safety testing",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 55676.78,
+   "lead_time": null,
+   "sole_source_vendor": "Hell's Bay Boatworks",
+   "reason": "To the best of our knowledge, Hells Bay Boatworks is the only vendor that we have found capable of building a boat that meets the draft requirements needed for these extremely shallow water areas we must test year round.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3016,
+  "out": 284
+ },
+ "model": "claude-sonnet-5"
+}

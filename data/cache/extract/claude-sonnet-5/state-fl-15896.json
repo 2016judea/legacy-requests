@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Environmental Systems Research Institute, Inc. (Esri)",
+   "model": "Esri Advantage Program",
+   "part": "Esri Advantage Program annual subscription providing premium support, consulting, and training for ArcGIS Software Enterprise Agreement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 272150.0,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute, Inc.",
+   "reason": "Esri, as owner and manufacturer, is the sole source provider of all U.S. domestic based Advantage Programs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2758,
+  "out": 243
+ },
+ "model": "claude-sonnet-5"
+}

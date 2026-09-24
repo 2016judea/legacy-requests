@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "bioM\u00e9rieux, Inc",
+   "model": "VIDAS KUBE",
+   "part": "VIDAS KUBE modular immunoassay instrument system (5 modules plus 1 VC main module with operating system computer)",
+   "part_numbers": [
+    "423905",
+    "4707556"
+   ],
+   "quantity": "5 Vidas Kube Industry / 1 VC Vidas Kube Industry",
+   "price_usd": 95241.49,
+   "lead_time": null,
+   "sole_source_vendor": "bioM\u00e9rieux, Inc",
+   "reason": "The VIDAS KUBE is the sole manufacturer-supported successor system",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Food Safety, Bureau of Laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3131,
+  "out": 1318
+ },
+ "model": "claude-sonnet-5"
+}

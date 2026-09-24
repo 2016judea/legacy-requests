@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Helitak Fire Fighting Equipment",
+   "model": null,
+   "part": "Aerial Strike Buckets and long lines for specialized aerial firefighting and rescue equipment",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": 310000,
+   "lead_time": null,
+   "sole_source_vendor": "Helitak Fire Fighting Equipment",
+   "reason": "Helitak Fire Fighting Equipment is the sole source provider of the Aerial Strike Bucket system and its related parts and therefore this is considered a single source product.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2761,
+  "out": 416
+ },
+ "model": "claude-sonnet-5"
+}

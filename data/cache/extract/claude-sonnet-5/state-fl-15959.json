@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sebia",
+   "model": "CAPILLARYS 3 DBS",
+   "part": "Reagents, controls, calibrators, consumables, and services for the CAPILLARYS 3 DBS automated analyzer",
+   "part_numbers": [],
+   "quantity": "Three years",
+   "price_usd": 2695571.0,
+   "lead_time": null,
+   "sole_source_vendor": "Sebia Inc.",
+   "reason": "Sebia, Inc is the sole manufacturer and distributor of the CAPILLARS 3 DBS automated analyzer including all proprietary reagents, controls, calibrators, and consumables.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories (BPHL), Newborn Screening Unit",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2865,
+  "out": 276
+ },
+ "model": "claude-sonnet-5"
+}

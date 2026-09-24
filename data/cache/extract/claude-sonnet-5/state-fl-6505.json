@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "International Cybernetics Company",
+   "model": "ICC Connect",
+   "part": "ICC Connect Licensing and Support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "International Cybernetics Company, LP",
+   "reason": "KNOWN VENDOR: International Cybernetics Company, LP",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2251,
+  "out": 172
+ },
+ "model": "claude-sonnet-5"
+}

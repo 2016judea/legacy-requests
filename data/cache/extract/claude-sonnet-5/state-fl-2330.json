@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "QIAGEN",
+   "model": "QIAsymphony",
+   "part": "QIAsymphony system used for DNA automation processes",
+   "part_numbers": [],
+   "quantity": "One-time purchase",
+   "price_usd": 175000,
+   "lead_time": null,
+   "sole_source_vendor": "QIAGEN, LLC",
+   "reason": "The hardware necessary to grow the system and expand the amount of work completed within our current infrastructure is proprietary to and manufactured solely by Qiagen.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDLE crime laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "QIAGEN",
+   "model": "QIAgility",
+   "part": "QIAgility liquid handling system that augments the QIAsymphony",
+   "part_numbers": [],
+   "quantity": "One-time purchase",
+   "price_usd": 175000,
+   "lead_time": null,
+   "sole_source_vendor": "QIAGEN, LLC",
+   "reason": "The QIAsymphony and QIAgility systems are the only ones that are validated to work with the QIAGEN EZ1 extraction robot already in place in FDLE\\u2019s crime laboratories.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDLE crime laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "QIAGEN",
+   "model": "EZ1",
+   "part": "QIAGEN EZ1 extraction robot already in place in FDLE laboratories",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "QIAGEN, LLC",
+   "reason": "The QIAsymphony and QIAgility systems are the only ones that are validated to work with the QIAGEN EZ1 extraction robot already in place in FDLE\\u2019s crime laboratories.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDLE crime laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "QIAGEN",
+   "model": null,
+   "part": "QIAGEN instruments requiring QIAGEN supplies and implements",
+   "part_numbers": [],
+   "quantity": "40 QIAGEN instruments in operation",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "QIAGEN, LLC",
+   "reason": "FDLE currently has 40 QIAGEN instruments in operation and these QIAGEN instruments require QIAGEN supplies and implements which can only be purchased through QIAGEN, LLC.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDLE crime laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3362,
+  "out": 1131
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "MowerMax Equipment Co.",
+   "model": "Boom Mower Gen 4",
+   "part": "MowerMax Boom Mower Gen 4",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 325253.05,
+   "lead_time": null,
+   "sole_source_vendor": "MowerMax Equipment Co.",
+   "reason": "MowerMax Equipment Co. are the only Manufacture of the MowerMax Boom Mower Gen 4.",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida Forest Service",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3017,
+  "out": 204
+ },
+ "model": "claude-sonnet-5"
+}

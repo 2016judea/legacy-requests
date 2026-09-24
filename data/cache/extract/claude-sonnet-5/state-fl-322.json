@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Image API, LLC",
+   "model": "Axiom Pro",
+   "part": "Enhancements, upgrades and maintenance of the existing electronic document management system, Axiom Pro",
+   "part_numbers": [],
+   "quantity": "3 Years",
+   "price_usd": 156000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Image API, LLC",
+   "reason": "Image API, LLC is the sole manufacturer and distributor of software updates, modifications, and maintenance for their proprietary electronic document management system, Axiom Pro.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2723,
+  "out": 224
+ },
+ "model": "claude-sonnet-5"
+}

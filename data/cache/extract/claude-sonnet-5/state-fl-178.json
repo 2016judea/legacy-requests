@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Eco-Counter",
+   "model": "Urban and Mobile Multi",
+   "part": "ECO-Counter Urban and Mobile Multi, DataNet, API/Web Dashboard, Automatic Data Transmission, 1 Year Subscription",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Eco-Counter, Inc.",
+   "reason": "The Department of Transportation intends to enter into a single source contract with Eco-Counter, Inc. for the purchase of ECO-Counter Urban and Mobile Multi, DataNet, API/Web Dashboard, Automatic Data Transmission, 1 Year Subscription.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2141,
+  "out": 286
+ },
+ "model": "claude-sonnet-5"
+}

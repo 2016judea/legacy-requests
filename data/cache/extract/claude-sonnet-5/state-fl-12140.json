@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Relocation and upgrade of security and alarm system (cameras, alarms, control panels, gates)",
+   "part_numbers": [],
+   "quantity": "37 Months",
+   "price_usd": 60000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Company",
+   "reason": "Only Georgia-Florida Burglar Alarm System can provide this continual and connective service, both at TROC and throughout the state.",
+   "equipment_class": "other equipment",
+   "installed_location": "Tallahassee Regional Office Center (TROC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "RS2",
+   "model": "RS2 Access",
+   "part": "Access control platform for badging and card access",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Company",
+   "reason": "it is imperative that the TROC remain on a RS2 Access and Avigilon platform, and the FDLE Headquarters facility database for video and card access",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Tallahassee Regional Office Center (TROC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avigilon",
+   "model": "Avigilon platform",
+   "part": "Video surveillance platform for camera system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Company",
+   "reason": "it is imperative that the TROC remain on a RS2 Access and Avigilon platform, and the FDLE Headquarters facility database for video and card access",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Tallahassee Regional Office Center (TROC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Salto",
+   "model": "Salto locking system",
+   "part": "Electronic locking system for facility access control",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Company",
+   "reason": "as well as the Salto locking system. Only Georgia-Florida Burglar Alarm System can provide this continual and connective service, both at TROC and throughout the state.",
+   "equipment_class": "other equipment",
+   "installed_location": "Tallahassee Regional Office Center (TROC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2880,
+  "out": 1488
+ },
+ "model": "claude-sonnet-5"
+}

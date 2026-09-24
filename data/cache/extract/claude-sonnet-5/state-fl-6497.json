@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kalos, Inc.",
+   "model": "Correctional Institution Pharmacy Systems (CIPS)",
+   "part": "CIPS Software Maintenance and Support for FDC's Pharmacy Services",
+   "part_numbers": [],
+   "quantity": "Five (5) Year Term (60 months)",
+   "price_usd": 150000,
+   "lead_time": null,
+   "sole_source_vendor": "Kalos, Inc.",
+   "reason": "The CIPS system is proprietary and only available from Kalos, Inc.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "FDC's dispensing pharmacies and every main facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2717,
+  "out": 230
+ },
+ "model": "claude-sonnet-5"
+}

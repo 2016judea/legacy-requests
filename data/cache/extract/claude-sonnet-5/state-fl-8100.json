@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Illumina, Inc.",
+   "model": "MiSeq\u00ae, iSeq\u00ae, NextSeq\u00ae",
+   "part": "System reagents and services for the identification of nucleic acid sequences",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 6000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Illumina, Inc.",
+   "reason": "Illumina, Inc is the sole manufacturer and distributor of MiSeq\u00ae, iSeq \u00ae, and NextSeq \u00ae system reagents and services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2743,
+  "out": 754
+ },
+ "model": "claude-sonnet-5"
+}

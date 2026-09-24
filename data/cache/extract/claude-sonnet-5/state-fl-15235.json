@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Overwatch Imaging",
+   "model": "Automated Sensor Operator (ASO) Processor",
+   "part": "ASO Processor for FMV gimbals - processing system supporting Overwatch Imaging ASO software for imagery/mapping/intelligence missions",
+   "part_numbers": [],
+   "quantity": "ASO System - QTY 6",
+   "price_usd": 750000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Overwatch Imaging",
+   "reason": "The evaluation has been done and the Overwatch Imaging Automated Sensor Operator (ASO) Processor equipment will the most capable and is compatable with the existing equipment already incorporated into the fleet for comformity.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2811,
+  "out": 609
+ },
+ "model": "claude-sonnet-5"
+}

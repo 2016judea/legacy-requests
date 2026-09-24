@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Neustar",
+   "model": "GeoPoint IP Intelligence",
+   "part": "Software and maintenance support product used for fraud detection (FIRRE project)",
+   "part_numbers": [],
+   "quantity": "12 Months (July 1, 2026 \u2013 June 30, 2027)",
+   "price_usd": 119700.0,
+   "lead_time": null,
+   "sole_source_vendor": "Neustar IP Intelligence, Inc.",
+   "reason": "Neustar IP Intelligence, Inc., a subsidiary of Neustar, Inc., is the sole patent holder/licensor of the proprietary GeoPoint technology and owner/licensor of the copyright in the proprietory software used in the GeoPoint technology.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2765,
+  "out": 279
+ },
+ "model": "claude-sonnet-5"
+}

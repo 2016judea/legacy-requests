@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vista Outdoor",
+   "model": null,
+   "part": "Training and Duty Ammunition (CCI-Speer and Federal Cartridge Products)",
+   "part_numbers": [],
+   "quantity": "3 Years from Date of Award",
+   "price_usd": 530000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Bullet, Inc.",
+   "reason": "Florida Bullet, Inc is the is the only factory authorized Law Enforcement Distributor in the State of Florida for CCI-Speer and Federal Cartridge Products which is owned by Vista Outdoor.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2970,
+  "out": 363
+ },
+ "model": "claude-sonnet-5"
+}

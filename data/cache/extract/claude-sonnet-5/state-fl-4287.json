@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "bioLytical",
+   "model": "INSTI HIV-1/HIV-2 Antibody Test, 3rd Generation",
+   "part": "FDA-approved rapid HIV-1/HIV-2 antibody, IgG/IgM, 3rd generation point-of-care testing device",
+   "part_numbers": [],
+   "quantity": "3 Year Term",
+   "price_usd": 3000000,
+   "lead_time": null,
+   "sole_source_vendor": "bioLytical",
+   "reason": "The biolytical INSTI HIV-1/HIV-2 Antibody, 3rd Generation HIV rapid point of care test is the only FDA-approved, Clinical Laboratory Improvement Amendment (CLIA) waived rapid device providing a test result in 60 seconds.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Preventative maintenance and service agreement",
+   "part_numbers": [],
+   "quantity": "3 Year Term",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies",
+   "reason": "the FDOH, BPHL requests authorization to purchase as a single source, a preventative maintenance and service agreement from Agilent Technologies.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2654,
+  "out": 992
+ },
+ "model": "claude-sonnet-5"
+}

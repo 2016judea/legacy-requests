@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Wescam",
+   "model": "MX-Series",
+   "part": "Common Aerial Law Enforcement (CASP) Service Plan for Wescam MX-Series imaging systems mounted on Commission's aircraft",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 500000,
+   "lead_time": null,
+   "sole_source_vendor": "Wescam USA Inc.",
+   "reason": "Common Aerial Law Enforcement (CASP) Service Plan on Wescam MX-Series imaging systems is solely provided by Wescam USA LLC, the Manufacturer of the Wescam MX-series imaging systems.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Commission's aircraft",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3077,
+  "out": 289
+ },
+ "model": "claude-sonnet-5"
+}

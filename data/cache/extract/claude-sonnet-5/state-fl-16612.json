@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Repairs, services, and parts for earthmoving machinery (consumable supplies, filters, fluids, and other parts)",
+   "part_numbers": [],
+   "quantity": "Repairs, consumable supplies, filters, fluids, and other parts.",
+   "price_usd": 45000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Beard Equipment",
+   "reason": "The parts for this equipment come solely from Beard Equipment, so getting another quote is futile because it would almost certainly mean the quotes will be at an unfair advantage with mark up.",
+   "equipment_class": "other equipment",
+   "installed_location": "Camp Blanding Joint Training Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2297,
+  "out": 632
+ },
+ "model": "claude-sonnet-5"
+}

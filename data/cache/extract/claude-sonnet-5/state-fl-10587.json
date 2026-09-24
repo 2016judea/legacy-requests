@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Marsh Runner",
+   "part": "Rental of Marsh Runner with Cutter Attachment, Spray Rig and Trailer for Five Months",
+   "part_numbers": [],
+   "quantity": "5 months",
+   "price_usd": 63300.0,
+   "lead_time": null,
+   "sole_source_vendor": "Wilco Manufacturing, LLC",
+   "reason": "These sites require a low ground pressure amphibious mowing unit to minimize soil disturbance and site degradation which are critical factors for ground cover restoration.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2331,
+  "out": 222
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kennco Manufacturing, Inc",
+   "model": null,
+   "part": "Custom built sprayer with manual agitation tank, galvanized chassis, multiple spray manifolds for spray and flood ability, for pine seedling production",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 46092.36,
+   "lead_time": null,
+   "sole_source_vendor": "Kennco Manufacturing, Inc",
+   "reason": "Kennco Manufacturing, Inc is the only known manufacturer of a custom sprayer with a manual aggitation tank, galvinized chassis, multiple spray manifolds for spray and flood ability.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3062,
+  "out": 254
+ },
+ "model": "claude-sonnet-5"
+}

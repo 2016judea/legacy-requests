@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Mettler Toledo",
+   "model": "7541",
+   "part": "Replacement of Northbound and Southbound Scale 2 systems (electronic scales, WIM software) at Punta Gorda Weigh Station",
+   "part_numbers": [
+    "7541"
+   ],
+   "quantity": "One (1) Year",
+   "price_usd": 767706.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mettler Toledo, LLC",
+   "reason": "The existing computer systems for the scales were developed by Mettler Toledo and are compatible with the existing 7541 scales throughout the state.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Punta Gorda Weigh Stations (Northbound and Southbound)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3021,
+  "out": 833
+ },
+ "model": "claude-sonnet-5"
+}

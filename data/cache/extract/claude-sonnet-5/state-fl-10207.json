@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": "STAR Safire",
+   "part": "Extended Warranty and Service Maintenance Agreement for STAR Safire aerial camera systems (parts, labor, shipping both ways for factory repairs)",
+   "part_numbers": [],
+   "quantity": "3 years upon purchase order issuance",
+   "price_usd": 750000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Teledyne FLIR Defense, Inc.",
+   "reason": "Teledyne FLIR Defense, Inc. is the Sole Source Manufacturer, Distributor, and Service Center in the USA for the STAR Safire systems.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "FWC Aviation Fleet aircraft",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3072,
+  "out": 277
+ },
+ "model": "claude-sonnet-5"
+}

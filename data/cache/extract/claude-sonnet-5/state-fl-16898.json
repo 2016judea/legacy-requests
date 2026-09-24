@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Groupware Technologies, LLC",
+   "model": "Provide Enterprise (PE)",
+   "part": "upgrades, modifications, enhancements, support services, and software license maintenance for ADAP software system",
+   "part_numbers": [],
+   "quantity": "1 Year",
+   "price_usd": 724821.12,
+   "lead_time": null,
+   "sole_source_vendor": "Groupware Technologies, LLC",
+   "reason": "Groupware Technologies, LLC has the proprietary rights and is the sole manufacturer and provider of the current web-based software system, Provide Enterprise \u00a9.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2900,
+  "out": 235
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica",
+   "model": null,
+   "part": "Customer Care Packages (CCP) - maintenance/support and software & firmware updates for surveying hardware and software",
+   "part_numbers": [],
+   "quantity": "One (1) year",
+   "price_usd": 282318.76,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems, Inc.",
+   "reason": "Leica has a vendor agreement with their vendors Nationwide. FLT Geosystems is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Florida Permanent Reference Network (FPRN), Statewide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2410,
+  "out": 2058
+ },
+ "model": "claude-sonnet-5"
+}

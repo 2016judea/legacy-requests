@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hydstra",
+   "model": "Hydstra Time Series software",
+   "part": "Annual support and maintenance for Hydstra Time Series software (7 licenses) and Hydstra Miscellaneous Programming",
+   "part_numbers": [],
+   "quantity": "7 licenses",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "A \u201csole source procurement\u201d is defined in the Procurement Manual as \u201cthere is only one manufacturer and/or vendor that meets the requirement of the solicitation for a particular commodity\u201d.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3074,
+  "out": 783
+ },
+ "model": "claude-sonnet-5"
+}

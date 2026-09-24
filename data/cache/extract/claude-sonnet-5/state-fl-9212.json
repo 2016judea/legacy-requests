@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axon Enterprises, Inc.",
+   "model": "TASER",
+   "part": "Purchase of additional Conducted Energy Weapons",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Axon Enterprises, Inc. is the sole distributor and retailer of all TASER\u00ae brand products. No other vendor can sell, support, or provide training for the Taser\u00ae equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2824,
+  "out": 215
+ },
+ "model": "claude-sonnet-5"
+}

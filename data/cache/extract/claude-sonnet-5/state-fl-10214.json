@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Activu",
+   "model": "Activu system",
+   "part": "Activu software support/maintenance for video wall (RTMC) - annual support, upgrades, PM visit",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 42000,
+   "lead_time": null,
+   "sole_source_vendor": "Activu Corporation",
+   "reason": "Activu Corporation is the sole provider of the Activu system.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "North Florida RTMC",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2858,
+  "out": 184
+ },
+ "model": "claude-sonnet-5"
+}

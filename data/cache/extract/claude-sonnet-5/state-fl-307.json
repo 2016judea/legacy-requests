@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Change Healthcare Solutions, LLC",
+   "model": "Health Management System (HMS)",
+   "part": "Electronic ordering interfaces maintenance for laboratory orders, prescriptions, and radiology tests",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 800000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Change Healthcare Solutions, LLC",
+   "reason": "Change Healthcare Solutions, LLC is the sole manufacturer and distributor of software updates, modifications, and maintenance needed for the EHR and HMS and has exclusive rights to all upgrades, modifications, and enhancements required to maintain continuity of this integrated reporting system.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "CHDs",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2976,
+  "out": 286
+ },
+ "model": "claude-sonnet-5"
+}

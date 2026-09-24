@@ -1,0 +1,61 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cyberlock",
+   "model": "CL2-M4 Gen2",
+   "part": "Cyberlock 1 1/4\" Mortise cylinder W/863M Schalge cam",
+   "part_numbers": [
+    "CL2-M4"
+   ],
+   "quantity": "One (1)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Peifer Security Solutions",
+   "reason": "The District 4 TSM&O program requires the purchase of 201 additional Cyberlock cylinders in support of the completion of the I-95 3A1 project.",
+   "equipment_class": "other equipment",
+   "installed_location": "I-95 3A1 project roadside cabinets, District 4",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cyberlock",
+   "model": "CL2-TC1 Gen2",
+   "part": "Cyberlock Traffic Cabinet Lock Cylinder",
+   "part_numbers": [
+    "CL2-TC1"
+   ],
+   "quantity": "Two Hundred (200)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Peifer Security Solutions",
+   "reason": "These devices secure the roadside cabinets that house CCTV devices, network and camera equipment for use in the TSM&O daily operations.",
+   "equipment_class": "other equipment",
+   "installed_location": "I-95 3A1 project roadside cabinets, District 4",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cyberlock",
+   "model": null,
+   "part": "Renewal of continued support of the Cyberlock database which includes 2800+ Cyberlocks to be maintained",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 44159.8,
+   "lead_time": "6 Months",
+   "sole_source_vendor": "Peifer Security Solutions",
+   "reason": "The District 4 TSM&O program requires the renewal of the Cyberlock support for the Cyberlock cylinders for ITS projects.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "District 4 TSM&O",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3757,
+  "out": 896
+ },
+ "model": "claude-sonnet-5"
+}

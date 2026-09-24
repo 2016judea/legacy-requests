@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Honeywell",
+   "model": "EBI Access Control / DVM Video Management System",
+   "part": "Five year service agreement for proprietary Honeywell digital video monitoring and access control equipment system maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 200000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Honeywell International, Inc. / Honeywell Building Solutions",
+   "reason": "The existing Honeywell Access Control (EBI) and Video Management system (DVM) referenced above are proprietary products of Honeywell.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2533,
+  "out": 255
+ },
+ "model": "claude-sonnet-5"
+}

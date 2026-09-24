@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Transparity TMS",
+   "part": "Transparity TMS central software solution, including licenses, maintenance, warranty and miscellaneous support services for FDOT District Six",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Transportation Control Systems, Inc.",
+   "reason": "If it is determined in writing by the Department, after reviewing any information received from prospective vendors, that the commodities or contractual services are available only from a single source, the Department will post notice of its intended decision to enter into a single source purchase contract",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "SunGuide Transportation Management Center (TMC), District Six",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2525,
+  "out": 265
+ },
+ "model": "claude-sonnet-5"
+}

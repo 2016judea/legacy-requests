@@ -1,0 +1,63 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axon",
+   "model": "Taser 10",
+   "part": "Taser 10 Certification and equipment bundle",
+   "part_numbers": [
+    "C00010"
+   ],
+   "quantity": "18",
+   "price_usd": 87739.2,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc",
+   "reason": "Due to the phase out, replacement parts and batteries will no longer be available for the Tasers the DLE agents are currently issued.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon",
+   "model": null,
+   "part": "Dock/Dataport Powercord - North America",
+   "part_numbers": [
+    "71104"
+   ],
+   "quantity": "5",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc",
+   "reason": "DLE determined to continue using the Taser brand only available through Axon Enterprise and the sole distributor and retailer of all TASER brand products in Florida.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon",
+   "model": "Taser Dock - Single Bay Plus Core",
+   "part": "Taser Dock - Single Bay Plus Core",
+   "part_numbers": [
+    "74201"
+   ],
+   "quantity": "5",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc",
+   "reason": "Axon is also the sole distributor and retailer of all TASER brand products in the States of AL, AR, CA, CT, DE, FL, GA, HI, IA IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OK, OR, PA, RI, SC, SD, TN, VA, VI, VT, WI, WV, and the District of Columbia and Guam.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3166,
+  "out": 1357
+ },
+ "model": "claude-sonnet-5"
+}

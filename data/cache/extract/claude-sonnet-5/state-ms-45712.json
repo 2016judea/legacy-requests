@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Harrick Plasma",
+   "model": "PDC-001-HP",
+   "part": "High Power Expanded Plasma Cleaner (compact tabletop plasma cleaning system with cleaner, vacuum gauge, sample tray, oxygen service pump)",
+   "part_numbers": [
+    "PDC-001-HP"
+   ],
+   "quantity": "1",
+   "price_usd": 18663.0,
+   "lead_time": null,
+   "sole_source_vendor": "Harrick Plasma",
+   "reason": "Harrick Plasma is the original equipment manufacturer (OEM) of the PDC-001-HP and is the sole producer and distributor of this specific plasma cleaner design and no other vendor manufactures or distributes an equivalent unit with the same inductively coupled technology and chamber specifications.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Department of Chemistry & Biochemistry, University of Mississippi",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harrick Plasma",
+   "model": "PDC-VCG",
+   "part": "Thermocouple vacuum gauge paired with plasma cleaner for pressure monitoring",
+   "part_numbers": [
+    "PDC-VCG"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Harrick Plasma",
+   "reason": "The paired PDC-VCG thermocouple vacuum gauge provides pressure-monitoring resolution specifically suited to plasma formation, which is essential for reproducible surface preparation in our research.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Department of Chemistry & Biochemistry, University of Mississippi",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3764,
+  "out": 591
+ },
+ "model": "claude-sonnet-5"
+}

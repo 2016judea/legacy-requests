@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther",
+   "part": "Reagent test kits for M. genitalium and T. vaginalis testing (NAAT) compatible with Panther instruments",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 405000,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic",
+   "reason": "This product is the only FDA approved assay that is compatible with the existing instrumentation system (Panther\u00ae) currently in use at BPHL.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2667,
+  "out": 225
+ },
+ "model": "claude-sonnet-5"
+}

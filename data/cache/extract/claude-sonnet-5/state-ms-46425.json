@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica Microsystems, Inc.",
+   "model": "TCS SP8 FALCON",
+   "part": "TCS SP8 FALCON (FAst Lifetime CONtrast) upgrade for existing Leica SP8 Confocal microscope",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 49000,
+   "lead_time": null,
+   "sole_source_vendor": "Leica Microsystems, Inc.",
+   "reason": "This is a proprietary system, and no other manufacturers make components that work with it.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "University of Mississippi",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3791,
+  "out": 224
+ },
+ "model": "claude-sonnet-5"
+}

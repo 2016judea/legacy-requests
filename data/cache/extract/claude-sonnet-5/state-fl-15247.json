@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ACISS",
+   "model": "InSite",
+   "part": "Software maintenance, upgrades and technical support for the ACISS InSite System",
+   "part_numbers": [],
+   "quantity": "7/1/26-6/30/27",
+   "price_usd": 98000.0,
+   "lead_time": null,
+   "sole_source_vendor": "ACISS",
+   "reason": "ACISS is the proprietary vendor of the InSite system, and as such is the single source for the maintenance, upgrades and technical support of the InSite system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2919,
+  "out": 207
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hologic, Inc.",
+   "model": "Aptima HCV Quant Dx Assay Kit",
+   "part": "FDA-approved HCV Qualitative/Quantitative assay kits compatible with Panther\u00ae instrumentation system",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 1170000,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic, Inc.",
+   "reason": "Hologic Aptima HCV Quant Dx Assay Kit is the only FDA-approved HCV assay product that is compatible with the Department\u2019s existing instrumentation system (Panther\u00ae) currently in use at BPHL.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "BPHL Serology Unit",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2689,
+  "out": 363
+ },
+ "model": "claude-sonnet-5"
+}

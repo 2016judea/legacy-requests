@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "InQuest, LLC",
+   "model": "Sandbox",
+   "part": "Sandbox Subscription and Support for Fraud Detection",
+   "part_numbers": [],
+   "quantity": "1 Year",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "InQuest, LLC",
+   "reason": "COM has identified a need to retain the Sandbox subscription and maintenance support product that is used to protect data and information systems used by COM Reemployment Assistance (RA) Program",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2497,
+  "out": 514
+ },
+ "model": "claude-sonnet-5"
+}

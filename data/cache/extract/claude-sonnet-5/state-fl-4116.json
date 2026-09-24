@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "HCL America, Inc.",
+   "model": "HCL Domino and Notes",
+   "part": "Major upgrade from IBM Notes to HCL Domino and Notes (server, development and client components and environments)",
+   "part_numbers": [],
+   "quantity": "Anticipating four months.",
+   "price_usd": 202260.0,
+   "lead_time": "four months",
+   "sole_source_vendor": "HCL America, Inc.",
+   "reason": "HCL America, Inc. owns HCL Notes (formerly IBM Notes) and is responsible for software engineering and customer support, globally.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2577,
+  "out": 229
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "United Laboratories, Inc.",
+   "model": null,
+   "part": "Water treatment supplies and equipment produced, sold, and distributed exclusively by United Laboratories, Inc.",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 18000.0,
+   "lead_time": null,
+   "sole_source_vendor": "United Laboratories, Inc.",
+   "reason": "United Laboratories, Inc. is the sole source provider of United Laboratories labeled products.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2310,
+  "out": 238
+ },
+ "model": "claude-sonnet-5"
+}

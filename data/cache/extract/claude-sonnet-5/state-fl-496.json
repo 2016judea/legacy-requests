@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tecan",
+   "model": "Resolvex A100",
+   "part": "Semi-Automated Positive Pressure Extraction Manifold System",
+   "part_numbers": [],
+   "quantity": "2 Units",
+   "price_usd": 80000,
+   "lead_time": null,
+   "sole_source_vendor": "Tecan SP, Inc.",
+   "reason": "The ResolveX A100 is the only system the FDLE is aware of that can support the current customized 10mL extraction racks. Tecan is the sole manufacturer and distributor of this system.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Orlando Regional Operations Center (OROC) Lab",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3302,
+  "out": 252
+ },
+ "model": "claude-sonnet-5"
+}

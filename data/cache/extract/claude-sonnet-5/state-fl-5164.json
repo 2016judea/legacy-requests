@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trainfo",
+   "model": null,
+   "part": "Trainfo rail detection system using acoustic sensors, video analytics and machine learning to detect rail crossing closures",
+   "part_numbers": [],
+   "quantity": "Three (3) years",
+   "price_usd": 2000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Trainfo Corporation",
+   "reason": "TRAINFO is the only vendor that can detect the train using the acoustic features which includes the horn, the bells, and the track vibrations as the train approaches.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2459,
+  "out": 221
+ },
+ "model": "claude-sonnet-5"
+}

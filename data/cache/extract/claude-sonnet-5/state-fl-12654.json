@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sonitrol",
+   "model": null,
+   "part": "Monthly monitoring and maintenance of existing security/alarm system, including software and equipment",
+   "part_numbers": [],
+   "quantity": "1 Year",
+   "price_usd": 99000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Sonitrol",
+   "reason": "Sonitrol, is the sole provider of monitoring, maintenance, software, and equipment for the proprietary alarm system currently in use by DOH.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Capital Circle Office Complex (CCOC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2431,
+  "out": 221
+ },
+ "model": "claude-sonnet-5"
+}

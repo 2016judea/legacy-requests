@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hologic, LLC",
+   "model": null,
+   "part": "Molecular biology reagents or solutions or stains",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic, LLC",
+   "reason": "Molecular biology reagents or solutions or stains",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2023,
+  "out": 158
+ },
+ "model": "claude-sonnet-5"
+}

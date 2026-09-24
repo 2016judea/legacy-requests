@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "SmartCop",
+   "model": "SmartMCT/SmartMap",
+   "part": "SmartCop SmartMCT to include SmartMap and professional training services (software licenses, maintenance, support, training)",
+   "part_numbers": [],
+   "quantity": "36 Months",
+   "price_usd": 50000.0,
+   "lead_time": null,
+   "sole_source_vendor": "SmartCop",
+   "reason": "SmartCOP software is proprietary and there are no resellers, distributors or retailers authorized to sell SmartCOP software maintenance and support.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "FDLE/Capital Police",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2803,
+  "out": 231
+ },
+ "model": "claude-sonnet-5"
+}

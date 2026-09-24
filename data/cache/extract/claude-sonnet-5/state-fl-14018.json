@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "FESCO/Mathis",
+   "model": "P-32H Wheel Plow",
+   "part": "Hydraulic Fireline Plow",
+   "part_numbers": [
+    "P-32H"
+   ],
+   "quantity": "13 (up to $600,000.00 total)",
+   "price_usd": 370955.0,
+   "lead_time": null,
+   "sole_source_vendor": "OLIVER & DAHLMAN EQUIPMENT COMPANY, INC.",
+   "reason": "Oliver & Dahlman Equipment Company, Inc. is the sole manufacturer and distributor of the FESCO/Mathis P-32H Hydraulic Fireline Plow. This model is the only fire plow known to meet the FFS\u2019s operational and compatibility requirements",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3174,
+  "out": 280
+ },
+ "model": "claude-sonnet-5"
+}

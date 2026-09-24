@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bruker",
+   "model": "INVENIO-S",
+   "part": "Replacement INVENIO-S Fourier Transform Infrared Spectrometer bench to integrate with FDLE's current system",
+   "part_numbers": [],
+   "quantity": "One (1) Year",
+   "price_usd": 55000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Bruker Scientific",
+   "reason": "Bruker Scientific is the sole manufacturer and retailer of a bench capable of operating with FDLE's current system.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Orlando Regional Operations Center (OROC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2856,
+  "out": 233
+ },
+ "model": "claude-sonnet-5"
+}

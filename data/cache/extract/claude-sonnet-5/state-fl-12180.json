@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Change Healthcare",
+   "model": null,
+   "part": "Electronic ordering interface maintenance for laboratory orders, prescriptions, and radiology tests (EHR/HMS)",
+   "part_numbers": [],
+   "quantity": "3 Years",
+   "price_usd": 800000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Change Healthcare",
+   "reason": "Change Healthcare is the sole manufacturer and distributor of software updates, modifications, and maintenance needed for the EHR and HMS.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "County Health Departments (CHDs)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2750,
+  "out": 229
+ },
+ "model": "claude-sonnet-5"
+}

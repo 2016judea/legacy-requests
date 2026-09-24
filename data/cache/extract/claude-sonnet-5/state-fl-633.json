@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ESRI",
+   "model": null,
+   "part": "ESRI software licenses, new concurrent use ESRI licensing, maintenance and technical support for FWC and FWRI",
+   "part_numbers": [],
+   "quantity": "3 years: 10/1/2022-9/30/2025",
+   "price_usd": 950000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute (ESRI), Inc.",
+   "reason": "ESRI GIS software is proprietary, and therefore is the only source for maintenance and concurrent use licensing, which includes technical support and rights to new versions of the software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida Fish and Wildlife Conservation Commission (FWC) and Florida Fish and Wildlife Research Institute (FWRI)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3316,
+  "out": 297
+ },
+ "model": "claude-sonnet-5"
+}

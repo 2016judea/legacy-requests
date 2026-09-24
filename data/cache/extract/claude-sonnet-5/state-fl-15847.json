@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "John Bean Technologies",
+   "model": "FMC 091-B",
+   "part": "Lease of juice extractor machines for statewide citrus maturity testing",
+   "part_numbers": [
+    "091-B"
+   ],
+   "quantity": "Up to fifteen (15)",
+   "price_usd": 392430.0,
+   "lead_time": null,
+   "sole_source_vendor": "John Bean Technologies",
+   "reason": "Chapter 20-61.001 (2), F.A.C., specifies than an FMC 091-B juice extractor, be used for these testing purposes.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "processing plants throughout the state",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2935,
+  "out": 242
+ },
+ "model": "claude-sonnet-5"
+}

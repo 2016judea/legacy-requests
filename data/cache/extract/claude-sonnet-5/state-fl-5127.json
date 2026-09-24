@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Perspective Robotics US LLC",
+   "model": "Fotokite Sigma Transport Case System",
+   "part": "Tethered Aerial Drone for Emergency Response",
+   "part_numbers": [],
+   "quantity": "Four (4)",
+   "price_usd": 138000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Perspective Robotics US LLC",
+   "reason": "The Fotokite Sigma is the only known system on the market that provides a total actively tethered solution.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2662,
+  "out": 203
+ },
+ "model": "claude-sonnet-5"
+}

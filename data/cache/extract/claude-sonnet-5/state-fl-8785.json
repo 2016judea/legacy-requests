@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ASSA ABLOY",
+   "model": "Megadoor",
+   "part": "Inspect Megadoor Inc. fabric hangar door systems (preventative maintenance)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ASSA ABLOY (Megadoor Service)",
+   "reason": "Megadoor preventative maintenance is required to extend the life-cycle of real-property installed equipment as well as prevent the need for emergency corrective maintenance.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "125th Fighter Wing 14300 Fang Drive Jacksonville, FL 32218",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3775,
+  "out": 687
+ },
+ "model": "claude-sonnet-5"
+}

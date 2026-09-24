@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "TRAINFO Corporation",
+   "model": null,
+   "part": "TRAINFO Sensors with accessories",
+   "part_numbers": [],
+   "quantity": "250",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "TRAINFO Corporation",
+   "reason": "The market for such systems based on TERL-approved detection devices is very narrow and no other systems have been introduced to District Two with such accuracy.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDOT District 2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "TRAINFO Corporation",
+   "model": null,
+   "part": "TRAINFO solar kits",
+   "part_numbers": [],
+   "quantity": "250",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "TRAINFO Corporation",
+   "reason": "The market for such systems based on TERL-approved detection devices is very narrow and no other systems have been introduced to District Two with such accuracy.",
+   "equipment_class": "other equipment",
+   "installed_location": "FDOT District 2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "TRAINFO Corporation",
+   "model": null,
+   "part": "1-year extended warranty terms",
+   "part_numbers": [],
+   "quantity": "500",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "TRAINFO Corporation",
+   "reason": "The market for such systems based on TERL-approved detection devices is very narrow and no other systems have been introduced to District Two with such accuracy.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "FDOT District 2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "TRAINFO Corporation",
+   "model": null,
+   "part": "Cellular data monthly terms",
+   "part_numbers": [],
+   "quantity": "9,000",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "TRAINFO Corporation",
+   "reason": "The market for such systems based on TERL-approved detection devices is very narrow and no other systems have been introduced to District Two with such accuracy.",
+   "equipment_class": "communications/radio",
+   "installed_location": "FDOT District 2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "TRAINFO Corporation",
+   "model": null,
+   "part": "Software license monthly terms",
+   "part_numbers": [],
+   "quantity": "36",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "TRAINFO Corporation",
+   "reason": "The market for such systems based on TERL-approved detection devices is very narrow and no other systems have been introduced to District Two with such accuracy.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "FDOT District 2",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2775,
+  "out": 1545
+ },
+ "model": "claude-sonnet-5"
+}

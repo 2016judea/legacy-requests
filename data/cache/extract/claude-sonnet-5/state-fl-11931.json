@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "CENTUM",
+   "model": "Lifeseeker SAR XL S10",
+   "part": "Aeronautical mission system for Search and Rescue enabling communication with missing persons via mobile phones",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CENTUM",
+   "reason": "CENTUM is the designer and unique manufacturer of Lifeseeker SAR XL S10, and the company granted with FCC ID for this product, and therefore this is considered a single source product.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida State Guard aircraft",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2839,
+  "out": 237
+ },
+ "model": "claude-sonnet-5"
+}

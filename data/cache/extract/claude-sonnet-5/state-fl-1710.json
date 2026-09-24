@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "F4-Tech",
+   "model": "SilvAssist",
+   "part": "Support, Training, and Hosting for SilvAssist Toolbar and SilvAssist Mobile for FY 2022-23",
+   "part_numbers": [],
+   "quantity": "12 months",
+   "price_usd": 30275.0,
+   "lead_time": null,
+   "sole_source_vendor": "F4-Tech",
+   "reason": "The District currently utilizes the F4-Tech SilvAssist proprietary software for timber management and houses its forest inventory data through F4-Tech.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2845,
+  "out": 222
+ },
+ "model": "claude-sonnet-5"
+}

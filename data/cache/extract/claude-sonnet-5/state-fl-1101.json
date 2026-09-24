@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Life Technologies Corporation",
+   "model": null,
+   "part": "Laboratory implements, software upgrades and equipment maintenance for PCR-based DNA analysis instruments (Applied BioSystems legacy equipment)",
+   "part_numbers": [],
+   "quantity": "7/1/22 \u2013 6/30/23",
+   "price_usd": 4500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies Corporation",
+   "reason": "Due to the standardized validation process and proprietary equipment, the chemical reagents, supplies, software upgrades and equipment maintenance is only available through Life Technologies Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDLE Regional Operations Centers crime laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3259,
+  "out": 777
+ },
+ "model": "claude-sonnet-5"
+}

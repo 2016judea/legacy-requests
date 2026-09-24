@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "FAST Forensics",
+   "model": "R9950x",
+   "part": "Custom Forensics Machines for digital forensics examination",
+   "part_numbers": [],
+   "quantity": "Four (4) Units",
+   "price_usd": 42000.0,
+   "lead_time": null,
+   "sole_source_vendor": "FAST Forensics",
+   "reason": "FAST Forensics custom builds forensic workstations for law enforcement agencies and is the only known vendor capable of providing a product that exactly matches the custom requirements required by FDLE forensic professionals.",
+   "equipment_class": "other equipment",
+   "installed_location": "Orlando Regional Operations Center (OROC)/ Cyber Unit Task Force",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2822,
+  "out": 244
+ },
+ "model": "claude-sonnet-5"
+}

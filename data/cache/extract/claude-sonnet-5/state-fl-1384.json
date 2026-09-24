@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sonitrol",
+   "model": null,
+   "part": "Monitoring and maintenance service of Sonitrol proprietary security systems in DFS' Tallahassee and Pensacola Offices",
+   "part_numbers": [],
+   "quantity": "7/1/22 \u2013 6/30/23",
+   "price_usd": 131908.0,
+   "lead_time": null,
+   "sole_source_vendor": "Sonitrol of Tallahassee Inc.",
+   "reason": "This existing equipment is proprietary to Sonitrol and can only be monitored and serviced by Sonitrol.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DFS' Tallahassee and Pensacola Offices",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3113,
+  "out": 247
+ },
+ "model": "claude-sonnet-5"
+}

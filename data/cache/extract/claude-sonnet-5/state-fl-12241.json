@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Speer",
+   "model": "Bonded Duty, G-2 line",
+   "part": "Duty ammunition for Department-issued firearms",
+   "part_numbers": [],
+   "quantity": "3 years from contract execution",
+   "price_usd": 300000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Bullet Incorporated",
+   "reason": "The ballistics data indicated that Speer Bonded Duty ammunition demonstrated the highest effectiveness in supporting the Division\u2019s officers in both training and field operations to fulfill their statutory responsibilities.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SinterFire",
+   "model": null,
+   "part": "Training ammunition (frangible projectiles)",
+   "part_numbers": [],
+   "quantity": "3 years from contract execution",
+   "price_usd": 300000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Bullet Incorporated",
+   "reason": "SinterFire Frangible projectiles are designed to minimize the environmental hazards associated with the use of lead projectiles.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3089,
+  "out": 406
+ },
+ "model": "claude-sonnet-5"
+}

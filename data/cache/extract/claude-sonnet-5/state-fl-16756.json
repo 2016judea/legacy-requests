@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Core Night Vision",
+   "model": "CNV Law Enforcement Binocular Kit",
+   "part": "Law Enforcement Night Vision Binocular Kit with mount system",
+   "part_numbers": [],
+   "quantity": "34 units",
+   "price_usd": 275000,
+   "lead_time": null,
+   "sole_source_vendor": "Core Night Vision, LLC",
+   "reason": "Core Night Vision is the sole manufacturer and authorized source for the complete CNV Law Enforcement Binocular Kit.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2684,
+  "out": 208
+ },
+ "model": "claude-sonnet-5"
+}

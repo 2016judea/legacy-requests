@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "AB Sciex",
+   "model": "Triple Quad 7500",
+   "part": "SCIEX Triple Quad 7500 System - QTRAP Ready (Enhanced high-performance triple quadrupole LC-MS/MS mass spectrometer)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 336794.32,
+   "lead_time": null,
+   "sole_source_vendor": "AB Sciex, LLC",
+   "reason": "AB Sciex Pte. Ltd. is the original equipment manufacturer (and AB Sciex LLC the U.S. selling entity) of SCIEX Triple Quad 7500 System - QTRAP Ready (\"Products\"). AB Sciex LLC has the exclusive distribution and marketing rights in the U.S. for Products.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Labs, Chemistry Program",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "AB Sciex",
+   "model": "Triple Quad 6500+",
+   "part": "Trade-in of existing Triple Quad 6500+ S/N CF20981606 for credit toward new system",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": -100000.0,
+   "lead_time": null,
+   "sole_source_vendor": "AB Sciex, LLC",
+   "reason": "Less Trade-In Credit: -$100,000.00 - For return of Triple Quad 6500+ S/N CF20981606",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Labs, Chemistry Program",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3207,
+  "out": 547
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Agilent Technologies",
+   "model": "1290 Infinity II",
+   "part": "Preowned and refurbished High Performance Liquid Chromatography (HPLC) Systems (or stacks) to replace older Agilent 1200 models",
+   "part_numbers": [],
+   "quantity": "Two",
+   "price_usd": 100845.78,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "Agilent Technologies, Inc. is the only vendor that can provide the two Agilent 1290 Infinity II High Performance Liquid Chromatography (HPLC) Systems.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Chemical Threat Laboratory, DOH, Bureau of Public Health Laboratories (BPHL), Jacksonville",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2918,
+  "out": 295
+ },
+ "model": "claude-sonnet-5"
+}

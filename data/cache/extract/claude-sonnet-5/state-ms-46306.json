@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Picture archiving and communication system (PACS) support and maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "sole source certification of picture archiving and communication system support and maintenance for Mississippi State Hospital",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Mississippi State Hospital",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1957,
+  "out": 173
+ },
+ "model": "claude-sonnet-5"
+}

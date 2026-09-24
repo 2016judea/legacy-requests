@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "RS2 Technologies",
+   "model": "Access It!",
+   "part": "Ongoing maintenance and monitoring for the Department's existing security system (building security access, building fire alarms, mail center, and the high speed scanning unit)",
+   "part_numbers": [],
+   "quantity": "Remaining term through 6/30/2026 as previously posted in SS-002-24",
+   "price_usd": 473000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Co., Inc.",
+   "reason": "Georgia-Florida is the only authorized RS2 Technologies dealer in the areas of North Florida and South Georgia.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Florida Highway Patrol (FHP) troop locations and Neil Kirkman Building",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Installation of new, and replacement of existing, card readers in designated areas at FHP Troop locations and the Neil Kirkman building",
+   "part_numbers": [],
+   "quantity": "as needed by the Department",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Co., Inc.",
+   "reason": "Georgia-Florida possesses the historical knowledge of all devices, wiring, integration and installation associated with the systems currently installed at the Department's locations.",
+   "equipment_class": "other equipment",
+   "installed_location": "FHP Troop locations and the Neil Kirkman building",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2998,
+  "out": 1309
+ },
+ "model": "claude-sonnet-5"
+}

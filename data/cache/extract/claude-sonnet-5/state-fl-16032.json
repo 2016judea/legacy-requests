@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Environmental Systems Research Institute, Inc. (ESRI)",
+   "model": null,
+   "part": "Software maintenance renewal for ArcGIS Enterprise, ArcMap, ArcGIS Server, ArcGIS Pro, ArcGIS Spatial Analyst, Portal for ArcGIS, and ArcGIS Online",
+   "part_numbers": [],
+   "quantity": "July 1, 2026 - June 30, 2027",
+   "price_usd": 161154.13,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute, Inc. (ESRI)",
+   "reason": "ESRI is the sole-source provider of ArcGIS Enterprise, ArcMap, ArcGIS Server, ArcGIS Pro, ArcGIS Spatial Analyst, Portal for ArcGIS, and ArcGIS Online.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2716,
+  "out": 342
+ },
+ "model": "claude-sonnet-5"
+}

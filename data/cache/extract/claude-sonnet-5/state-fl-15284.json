@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "IDEXX Laboratories, Inc.",
+   "model": "Colilert",
+   "part": "Colilert reagents and supplies for amplified testing of total coliform and E Coli in drinking water",
+   "part_numbers": [],
+   "quantity": "3 Years",
+   "price_usd": 204771.6,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Laboratories, Inc",
+   "reason": "The requested reagents and supplies are the only supplies that can meet the Department\u2019s need because they are only used with the specific testing methods that the FDOH, Environmental Laboratory is certified to perform and to maintain its accreditation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Department of Health, Environmental Health Division - Environmental Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IDEXX Laboratories, Inc.",
+   "model": "Enterolert",
+   "part": "Enterolert reagents and supplies for amplified testing of Enterococci in recreational water",
+   "part_numbers": [],
+   "quantity": "3 Years",
+   "price_usd": 204771.6,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Laboratories, Inc",
+   "reason": "The requested reagents and supplies are the only supplies that can meet the Department\u2019s need because they are only used with the specific testing methods that the FDOH, Environmental Laboratory is certified to perform and to maintain its accreditation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Department of Health, Environmental Health Division - Environmental Laboratory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3035,
+  "out": 545
+ },
+ "model": "claude-sonnet-5"
+}

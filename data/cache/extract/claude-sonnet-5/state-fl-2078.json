@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "OpenText",
+   "model": "DM Enterprise Clients Suite",
+   "part": "Software maintenance and support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Open Text Inc.",
+   "reason": "The Department of Transportation intends to enter into a single source contract with Open Text Inc. for Software maintenance and support.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2012,
+  "out": 179
+ },
+ "model": "claude-sonnet-5"
+}

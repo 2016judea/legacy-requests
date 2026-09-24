@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Northrop Grumman Corporation",
+   "model": "LInX",
+   "part": "Florida Regional Law Enforcement Information Exchange (LInX) system maintenance and technical support",
+   "part_numbers": [],
+   "quantity": "One (1) year",
+   "price_usd": 350000,
+   "lead_time": null,
+   "sole_source_vendor": "Peraton, Inc.",
+   "reason": "Peraton, Inc. is the sole provider of maintenance, enhancements, and changes to the LInX system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida Regional LInX node",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2877,
+  "out": 216
+ },
+ "model": "claude-sonnet-5"
+}

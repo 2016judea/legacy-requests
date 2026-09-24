@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sonitrol",
+   "model": null,
+   "part": "Monthly monitoring and maintenance services for existing security alarm system at Leon CHD offices",
+   "part_numbers": [],
+   "quantity": "1 Year",
+   "price_usd": 42503.0,
+   "lead_time": null,
+   "sole_source_vendor": "Sonitrol",
+   "reason": "Sonitrol is the sole provider of monitoring, maintenance, software, and equipment for the proprietary alarm system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Leon County Health Department (CHD)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2553,
+  "out": 206
+ },
+ "model": "claude-sonnet-5"
+}

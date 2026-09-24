@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "LInX (Law Enforcement Information Exchange)",
+   "part": "Maintenance and technical support services for the Florida Regional LInX system",
+   "part_numbers": [],
+   "quantity": "Eighteen (18) months",
+   "price_usd": 500000,
+   "lead_time": null,
+   "sole_source_vendor": "Peraton, Inc.",
+   "reason": "Peraton, Inc. is the sole provider of maintenance, enhancements, and changes to the LInX system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida Regional LInX node",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2881,
+  "out": 268
+ },
+ "model": "claude-sonnet-5"
+}

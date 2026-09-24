@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "BioGX",
+   "model": "Mycobacterium Tuberculosis Complex SPC",
+   "part": "Custom mixed and lyophilized PCR reagents for rapid detection of MTB complex, compatible with BD Max platform",
+   "part_numbers": [],
+   "quantity": "3years",
+   "price_usd": 290000.0,
+   "lead_time": null,
+   "sole_source_vendor": "BioGX",
+   "reason": "The BioGX Mycobacterium Tuberculosis Complex SPC is the only product with a custom mix that is compatible with the existing instrumentation system (BD Max platform) and test algorithm currently in use at BPHL.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDOH, Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3340,
+  "out": 280
+ },
+ "model": "claude-sonnet-5"
+}

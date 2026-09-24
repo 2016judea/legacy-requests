@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "bioMerieux",
+   "model": "BioFire",
+   "part": "BioFire reagents for identification of pathogens using nucleic acid sequences",
+   "part_numbers": [],
+   "quantity": "3 year",
+   "price_usd": 345000.0,
+   "lead_time": null,
+   "sole_source_vendor": "bioMerieux",
+   "reason": "bioMerieux is the exclusive manufacturer and distributor of these reagents and equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "bioMerieux",
+   "model": "BioFire FilmArray Torch System",
+   "part": "BioFire FilmArray Torch System - automated multiplex PCR platform",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "bioMerieux",
+   "reason": "bioMerieux is the exclusive manufacturer and distributor of these reagents and equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "bioMerieux",
+   "model": "BioFire FilmArray 2.0 System",
+   "part": "BioFire FilmArray 2.0 System - automated multiplex PCR platform",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "bioMerieux",
+   "reason": "bioMerieux is the exclusive manufacturer and distributor of these reagents and equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "bioMerieux",
+   "model": "BioFire",
+   "part": "Service agreements for BioFire FilmArray Torch and 2.0 Systems",
+   "part_numbers": [],
+   "quantity": "3 year",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "bioMerieux",
+   "reason": "bioMerieux is the exclusive manufacturer and distributor of these reagents and equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Bureau of Public Health Laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2770,
+  "out": 1297
+ },
+ "model": "claude-sonnet-5"
+}

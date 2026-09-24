@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Accruent",
+   "model": "TMS Software",
+   "part": "Renewal of Computerized Maintenance Management System for Tracking and Accessing Work Order History",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 173733.2,
+   "lead_time": null,
+   "sole_source_vendor": "Accruent",
+   "reason": "Accruent is the sole provider of this product as well as related support, services and development.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "UMMC",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5542,
+  "out": 183
+ },
+ "model": "claude-sonnet-5"
+}

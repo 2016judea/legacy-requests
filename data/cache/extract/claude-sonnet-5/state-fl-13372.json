@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens Industry, Inc.",
+   "model": null,
+   "part": "Facility performance solutions (hardware and software) maintenance/service for proprietary systems installed at Conner Complex and Mayo Building",
+   "part_numbers": [],
+   "quantity": "October 1, 2025 thru September 30, 2026",
+   "price_usd": 96492.0,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "The Siemens Industry, Inc. facility performance systems hardware and software installed at the Conner Complex laboratories and Mayo Building are proprietary and Siemens is the only known source able to maintain current service(s).",
+   "equipment_class": "HVAC",
+   "installed_location": "Conner Complex and Mayo Building, Tallahassee",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens",
+   "model": null,
+   "part": "Field Panels and associated terminal level equipment for Building Automation System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "Field Panels and associated terminal level equipment located at the Conner Complex laboratories and Mayo Building utilize non BACNet and U.S. patented Siemens proprietary protocol and technology.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Conner Complex laboratories and Mayo Building",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens",
+   "model": "Insight Workstation",
+   "part": "Workstation software for configuration, programming and editing Siemens products",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "Insight Workstation Software located at the Conner Complex and Mayo Building is the only factory certified product supported for configuration, programming and editing Siemens products currently installed at both facilities.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Conner Complex and Mayo Building",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3188,
+  "out": 902
+ },
+ "model": "claude-sonnet-5"
+}

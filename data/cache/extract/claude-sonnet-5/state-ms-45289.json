@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "CardioAccess",
+   "model": "Centripetus web portal",
+   "part": "Data Abstraction and Registry Integration Resources for Pediatric Cardiac Registries (Cardio Access) Renewal",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 63221.0,
+   "lead_time": null,
+   "sole_source_vendor": "CardioAccess",
+   "reason": "CardioAccess is the only product of its type that allows the Children's Heart Center to use a single data abstraction solution across all of the varying quality data registries we participate in.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Children's Heart Center, University of Mississippi Medical Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5558,
+  "out": 247
+ },
+ "model": "claude-sonnet-5"
+}

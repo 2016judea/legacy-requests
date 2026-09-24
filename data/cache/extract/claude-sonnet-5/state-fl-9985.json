@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "SEI Industries Limited",
+   "model": "Bambi Bucket",
+   "part": "Fully collapsible firefighting bucket made of high-durability flexible orange fabric for aerial water drops",
+   "part_numbers": [],
+   "quantity": "One-time Purchase",
+   "price_usd": 87847.27,
+   "lead_time": null,
+   "sole_source_vendor": "SEI International Sales, Inc",
+   "reason": "SEI Industries Limited is the original equipment manufacture (OEM) of the Bambi Bucket Product Line. Bambi Bucket and components are trademarks, patents, manufacturing processes, documents and designs are exclusively proprietary to SEI Industries Limited and SEI International Sales, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2739,
+  "out": 279
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Faro Technologies",
+   "model": "FARO Focus Premium Laser Scanner",
+   "part": "Annual maintenance/calibration, software updates, repair, and support services for laser scanner",
+   "part_numbers": [],
+   "quantity": "7/1/26-6/30/31",
+   "price_usd": 250000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Faro Technologies",
+   "reason": "Faro Technologies is the sole manufacturer of the instruments and has not authorized any third-party provider to perform maintenance/calibration, software updates or repair on the instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Faro Technologies",
+   "model": "FARO Scene Software",
+   "part": "Continued software maintenance and updates",
+   "part_numbers": [],
+   "quantity": "7/1/26-6/30/31",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Faro Technologies",
+   "reason": "Faro Technologies is the sole manufacturer of the instruments and has not authorized any third-party provider to perform maintenance/calibration, software updates or repair on the instruments.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Faro Technologies",
+   "model": "FARO Zone 3D Software",
+   "part": "Continued software maintenance and updates",
+   "part_numbers": [],
+   "quantity": "7/1/26-6/30/31",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Faro Technologies",
+   "reason": "Faro Technologies is the sole manufacturer of the instruments and has not authorized any third-party provider to perform maintenance/calibration, software updates or repair on the instruments.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2865,
+  "out": 1382
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "Maintenance and repair of proprietary flow cytometers",
+   "part_numbers": [],
+   "quantity": "Three (3) years upon issuance of purchase order",
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Only Life Technologies' employees have been trained and authorized by the manufacturer to perform maintenance and repair the proprietary equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "Maintenance and repair of proprietary cell sorters",
+   "part_numbers": [],
+   "quantity": "Three (3) years upon issuance of purchase order",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Only Life Technologies' employees have been trained and authorized by the manufacturer to perform maintenance and repair the proprietary equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "Maintenance and repair of proprietary autosamplers",
+   "part_numbers": [],
+   "quantity": "Three (3) years upon issuance of purchase order",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Only Life Technologies' employees have been trained and authorized by the manufacturer to perform maintenance and repair the proprietary equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "New proprietary equipment manufactured by Life Technologies",
+   "part_numbers": [],
+   "quantity": "Three (3) years upon issuance of purchase order",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "new proprietary equipment manufactured by Life Technologies.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "Software for data collection and service used with flow cytometry/cell sorting equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "The manufacturer also maintains intellectual property rights for the software used with the equipment for data collection and service. There are no other service providers or third-party resellers authorized to access, use or sell the software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3063,
+  "out": 1496
+ },
+ "model": "claude-sonnet-5"
+}

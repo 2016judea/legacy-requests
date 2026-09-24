@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "HighPoint Technology Solutions, Inc.",
+   "model": "HighPoint Campus Experience (HCX)",
+   "part": "Software product for PeopleSoft Campus Solutions institutions",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "HighPoint Technology Solutions, Inc.",
+   "reason": "I hereby attest that HighPoint Technology Solutions, Inc. (\u201cHighPoint\u201d) is the only supplier of HighPoint Campus Experience (\u201cHCX\u201d) for PeopleSoft Campus Solutions institutions.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2917,
+  "out": 257
+ },
+ "model": "claude-sonnet-5"
+}

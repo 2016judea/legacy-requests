@@ -1,0 +1,88 @@
+{
+ "records": [
+  {
+   "manufacturer": "GLOCK",
+   "model": "G45/G48",
+   "part": "Handguns (G45/G48s) for Probation Officers",
+   "part_numbers": [
+    "G45",
+    "G48"
+   ],
+   "quantity": "Three (3) Year Term (36 months)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GLOCK Professional, Inc.",
+   "reason": "Purchasing from a vendor other than GLOCK would require the discontinuance of previously purchased weapons and neccesitate the retraining of Department personnel.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GLOCK",
+   "model": null,
+   "part": "Night sights for GLOCK handguns",
+   "part_numbers": [],
+   "quantity": "Three (3) Year Term (36 months)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GLOCK Professional, Inc.",
+   "reason": "Purchasing from a vendor other than GLOCK would require the discontinuance of previously purchased weapons and neccesitate the retraining of Department personnel.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GLOCK",
+   "model": null,
+   "part": "Magazines for GLOCK handguns",
+   "part_numbers": [],
+   "quantity": "Three (3) Year Term (36 months)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GLOCK Professional, Inc.",
+   "reason": "Purchasing from a vendor other than GLOCK would require the discontinuance of previously purchased weapons and neccesitate the retraining of Department personnel.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Gun locks for GLOCK handguns",
+   "part_numbers": [],
+   "quantity": "Three (3) Year Term (36 months)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GLOCK Professional, Inc.",
+   "reason": "Purchasing from a vendor other than GLOCK would require the discontinuance of previously purchased weapons and neccesitate the retraining of Department personnel.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GLOCK",
+   "model": null,
+   "part": "GLOCK Armorer courses to train officers to maintain and service FDC weapons",
+   "part_numbers": [],
+   "quantity": "Three (3) Year Term (36 months)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GLOCK Professional, Inc.",
+   "reason": "GLOCK Professional, Inc., a subsidiary of GLOCK Inc., is the only authorized provider of GLOCK training courses.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2678,
+  "out": 1952
+ },
+ "model": "claude-sonnet-5"
+}

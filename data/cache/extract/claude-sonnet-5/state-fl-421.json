@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "AB SCIEX",
+   "model": null,
+   "part": "Assurance Plan maintenance agreement for FDLE owned AB SCIEX laboratory equipment (LC-MS/MS mass spectrometers and related equipment)",
+   "part_numbers": [],
+   "quantity": "July 1, 2022 \u2013 June 30, 2023",
+   "price_usd": 360000.0,
+   "lead_time": null,
+   "sole_source_vendor": "AB SCIEX, LLC",
+   "reason": "AB SCIEX, LLC is the sole manufacturer of AB SCIEX, LLC instruments and has not authorized any third-party provider to perform maintenance or repair on the instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Orlando Regional Operations Center (OROC) and Tallahassee Regional Operations Center (TROC) Crime Laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3378,
+  "out": 310
+ },
+ "model": "claude-sonnet-5"
+}

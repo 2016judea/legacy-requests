@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Image API, LLC",
+   "model": "Axiom Pro",
+   "part": "Subscription renewal, enhancements, upgrades and maintenance for electronic document management system",
+   "part_numbers": [],
+   "quantity": "Three years",
+   "price_usd": 175000,
+   "lead_time": null,
+   "sole_source_vendor": "Image API, LLC",
+   "reason": "Image API, LLC is the sole provider of Axiom Pro subscriptions, upgrades, modification, enhancements, and maintenance for their proprietary electronic document management system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "FDOH Office of Medical Marijuana Use (OMMU)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2762,
+  "out": 241
+ },
+ "model": "claude-sonnet-5"
+}

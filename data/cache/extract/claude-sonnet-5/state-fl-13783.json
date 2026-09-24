@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Idemia",
+   "model": "TD200",
+   "part": "Idemia LiveScan Iris Capture TD200 Devices",
+   "part_numbers": [],
+   "quantity": "23 units",
+   "price_usd": 58000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Idemia Identity & Security USA LLC",
+   "reason": "The Idemia IRIS caption device is the only device compatible to connect with Idemia Livescan devices. Idemia does not have any authorized resellers for this device.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2735,
+  "out": 210
+ },
+ "model": "claude-sonnet-5"
+}

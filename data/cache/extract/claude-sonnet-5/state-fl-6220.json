@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica",
+   "model": "GS18T SmartAntenna",
+   "part": "GNSS SmartAntenna with tilt compensation for survey positioning",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "The vendor, FLT Geosystems (Ft. Lauderdale, Florida), is the only sole authorized distributor within the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": "MS60",
+   "part": "Surveying total station/scanner",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "The vendor, FLT Geosystems (Ft. Lauderdale, Florida), is the only sole authorized distributor within the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": "CS35-2",
+   "part": "Tablet Controller for survey equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "The vendor, FLT Geosystems (Ft. Lauderdale, Florida), is the only sole authorized distributor within the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": null,
+   "part": "Software for surveying equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "The vendor, FLT Geosystems (Ft. Lauderdale, Florida), is the only sole authorized distributor within the State of Florida.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": null,
+   "part": "Customer Care Packages (CCPs)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "The vendor, FLT Geosystems (Ft. Lauderdale, Florida), is the only sole authorized distributor within the State of Florida.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": null,
+   "part": "Accessories for GNSS/surveying equipment",
+   "part_numbers": [],
+   "quantity": "See the attached list of equipments/products/quantities.",
+   "price_usd": 220945.8,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "The vendor, FLT Geosystems (Ft. Lauderdale, Florida), is the only sole authorized distributor within the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2753,
+  "out": 1216
+ },
+ "model": "claude-sonnet-5"
+}

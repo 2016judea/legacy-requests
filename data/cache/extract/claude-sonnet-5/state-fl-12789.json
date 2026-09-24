@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "FARO Technologies, Inc.",
+   "model": "Focus Premium",
+   "part": "3D laser scanner for crime scene documentation, upgrade to current FARO S150 scanners",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 180000.0,
+   "lead_time": null,
+   "sole_source_vendor": "FARO Technologies, Inc.",
+   "reason": "FARO Technologies, Inc. is the sole developer and manufacturer of the FARO Laser Scanners.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2919,
+  "out": 627
+ },
+ "model": "claude-sonnet-5"
+}

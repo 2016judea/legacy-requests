@@ -1,0 +1,59 @@
+{
+ "records": [
+  {
+   "manufacturer": "International Cybernetics Company",
+   "model": "LCMS3 \u2013 ME 33202",
+   "part": "Rebuild/move of Laser Crack Measurement System (LCMS) to new truck chassis, including deteriorated hardware replacement",
+   "part_numbers": [
+    "LCMS3 \u2013 ME 33202"
+   ],
+   "quantity": "6 Months",
+   "price_usd": 109000.0,
+   "lead_time": null,
+   "sole_source_vendor": "International Cybernetics Company, LP",
+   "reason": "ICC is the sole vendor to repair, evaluate, and provide proprietary software updates for its equipment. ICC is the only known vendor authorized to rebuild/upgrade the LCMS",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "State Materials Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "International Cybernetics Company",
+   "model": "Drive",
+   "part": "Software upgrade from WinPro to Drive software platform for LCMS data analysis",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "International Cybernetics Company, LP",
+   "reason": "as WinPro is no longer supported",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "State Materials Office",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "International Cybernetics Company",
+   "model": "WinPro",
+   "part": "Existing LCMS data analysis software being replaced",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "International Cybernetics Company, LP",
+   "reason": "WinPro is no longer supported",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "State Materials Office",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3066,
+  "out": 597
+ },
+ "model": "claude-sonnet-5"
+}

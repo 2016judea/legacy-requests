@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axon Enterprises, Inc.",
+   "model": "Taser 10",
+   "part": "Taser 10 Certification System including all required equipment, software, training and warranties",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 68661.6,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc.",
+   "reason": "The Lottery believes that Axon Enterprises, Inc. is the sole provider of these products and services.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2325,
+  "out": 195
+ },
+ "model": "claude-sonnet-5"
+}

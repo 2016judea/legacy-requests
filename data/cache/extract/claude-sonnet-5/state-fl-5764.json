@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trane",
+   "model": null,
+   "part": "Annual maintenance service agreements for existing Trane heating and cooling HVAC systems",
+   "part_numbers": [],
+   "quantity": "3 Years",
+   "price_usd": 125502.0,
+   "lead_time": null,
+   "sole_source_vendor": "Trane U.S. Inc.",
+   "reason": "Trane is the Original Equipment Manufacturer (OEM) for all mechanical equipment and the automation system needed for cooling and heating needs and has exclusive rights to all upgrades, modifications, and enhancements required to maintain continuity of the HVAC equipment and the building automation system.",
+   "equipment_class": "HVAC",
+   "installed_location": "FDOH of Miami-Dade County, Facilities and Maintenance",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2643,
+  "out": 272
+ },
+ "model": "claude-sonnet-5"
+}

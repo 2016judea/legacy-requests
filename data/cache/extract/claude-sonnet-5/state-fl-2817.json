@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Illumina",
+   "model": "MiSeq",
+   "part": "Illumina MiSeq System, next generation benchtop sequencer",
+   "part_numbers": [],
+   "quantity": "1 unit",
+   "price_usd": 200000,
+   "lead_time": null,
+   "sole_source_vendor": "Illumina, Inc.",
+   "reason": "Illumina is the sole manufacturer of this equipment and has not given permission to any other company to provide this equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Citrus Budwood Registration",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2859,
+  "out": 204
+ },
+ "model": "claude-sonnet-5"
+}

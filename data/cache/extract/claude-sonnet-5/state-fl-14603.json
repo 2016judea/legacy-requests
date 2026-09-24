@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens",
+   "model": "SiPass Integrated Access Control",
+   "part": "Security upgrades: camera installation, hardware/software update for access control system",
+   "part_numbers": [],
+   "quantity": "One Time",
+   "price_usd": 55997.0,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "Siemens is the only certified vendor authorized to install, program, service, maintain system components, licensing, warranties and software for the SiPass Integrated Access Control and Siveillance VMS Systems.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "FDOT Pinellas Operations Administration Building",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens",
+   "model": "Siveilance Video Management System (VMS)",
+   "part": "Security upgrades: camera installation, hardware/software update for video management system",
+   "part_numbers": [],
+   "quantity": "One Time",
+   "price_usd": 55997.0,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "Siemens will not allow any third parties to peform installation or maintenance on their systems.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "FDOT Pinellas Operations Administration Building",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2613,
+  "out": 445
+ },
+ "model": "claude-sonnet-5"
+}

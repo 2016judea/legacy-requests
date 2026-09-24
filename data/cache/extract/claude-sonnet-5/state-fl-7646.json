@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "CyberNational",
+   "model": "RetrievAll",
+   "part": "Portable shooting trailer with HEPA-filtered cartridge case retrieval system",
+   "part_numbers": [],
+   "quantity": "2/1/2024-1/31/2025",
+   "price_usd": 250000,
+   "lead_time": null,
+   "sole_source_vendor": "CyberNational",
+   "reason": "CyberNational is the only vendor that provides a custom-built mobile shooting system that includes: a self-enclosed HEPA-filtered Retriev-All cartridge case retrieval system which is rated to capture cartridges up to 50 BMG caliber; filter obstruction gauges; Aluminum clad walls for efficient cleaning; industrial rubber floor; and a ballistic blanket. CyberNational is the sole distributor/manufacturer of the Retriev-All.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2863,
+  "out": 319
+ },
+ "model": "claude-sonnet-5"
+}

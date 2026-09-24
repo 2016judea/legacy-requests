@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens",
+   "model": "Insight Workstation Software",
+   "part": "Siemens systems hardware and software (Field Panels, terminal level equipment, Insight Workstation Software) installation and maintenance service",
+   "part_numbers": [],
+   "quantity": "October 1, 2022 thru September 30, 2023",
+   "price_usd": 37611.0,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Building Technologies, Inc.",
+   "reason": "The Siemens systems hardware and software installed in the Conner Complex Laboratory facility and the Mayo Building is proprietary and is the only known source able to provide this service(s).",
+   "equipment_class": "HVAC",
+   "installed_location": "Conner Complex Laboratory facility and the Mayo Building",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2883,
+  "out": 296
+ },
+ "model": "claude-sonnet-5"
+}

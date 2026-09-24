@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hologic, LLC",
+   "model": null,
+   "part": "Reagents, collection kits, and other testing supplies for instruments currently owned by DOH, used for clinical testing for SARS-COVID-19",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic, LLC",
+   "reason": "The DOH, BPHL has a need to purchase reagents, collection kits, and other testing supplies, for instruments currently owned by DOH.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2059,
+  "out": 219
+ },
+ "model": "claude-sonnet-5"
+}

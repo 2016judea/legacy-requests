@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trane",
+   "model": "Ventilation Processing Unit (VPU)",
+   "part": "Refurbishment of five (5) Trane Ventilation Processing Units (VPUs)",
+   "part_numbers": [],
+   "quantity": "5",
+   "price_usd": 1600000,
+   "lead_time": "5 years",
+   "sole_source_vendor": "Trane US Inc.",
+   "reason": "Trane US Inc. is the only know provider which has the current schematic drawings and plans required for performing the VPU refurbishment; provides exclusive service procedures by factory trained technicians",
+   "equipment_class": "HVAC",
+   "installed_location": "Conner Complex Laboratory buildings, 3125 Conner Boulevard, Tallahassee, Florida",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3048,
+  "out": 261
+ },
+ "model": "claude-sonnet-5"
+}

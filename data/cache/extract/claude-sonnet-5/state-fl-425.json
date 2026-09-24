@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bio-Rad Laboratories",
+   "model": "VARIANT\u2122 Newborn Screening System (VNBS)",
+   "part": "Reagent rental agreement for seven (7) VARIANT\u2122 Newborn Screening Systems through purchase of VNBS Sickle Cell test kits (reagents), includes service",
+   "part_numbers": [],
+   "quantity": "7 systems / 3-years",
+   "price_usd": 1276020.0,
+   "lead_time": null,
+   "sole_source_vendor": "Bio-Rad Laboratories, Inc.",
+   "reason": "The Bio-Rad Laboratories VARIANT\u2122 Newborn Screening System (VBNS) is the only FDA approved system for screening newborns for hemoglobinopathies using dried blood spots.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bio-Rad Laboratories",
+   "model": "VNBS Sickle Cell test kits",
+   "part": "FDA approved Sickle Cell test kits (reagents) used with VARIANT Newborn Screening Systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Bio-Rad Laboratories, Inc.",
+   "reason": "Bio-Rad Laboratories, Inc. is the sole distributor and manufacturer of this system and reagents.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3031,
+  "out": 553
+ },
+ "model": "claude-sonnet-5"
+}

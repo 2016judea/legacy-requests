@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Agilent Technologies",
+   "model": "5977B Mass SD",
+   "part": "Refurbished Mass Selective Detector (MSD) compatible with existing Agilent GC-MS analyzer",
+   "part_numbers": [],
+   "quantity": "One Year",
+   "price_usd": 44643.12,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "Agilent Technologies, inc. is the only vendor that can provide the MSD that works in conjunction and is compatible with the existing, attached Agilent equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DOH, BPHL, Jacksonville Chemical Threat Laboratory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2825,
+  "out": 260
+ },
+ "model": "claude-sonnet-5"
+}

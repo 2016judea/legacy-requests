@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Twist Bioscience",
+   "model": null,
+   "part": "Testing panels, supplies and reagents for laboratory advanced molecular detection surveillance of respiratory diseases",
+   "part_numbers": [],
+   "quantity": "3-year term",
+   "price_usd": 150000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Twist Bioscience",
+   "reason": "Twist Bioscience is the sole manufacturer and distributor of the requested panels (reagents).",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "BPHL Tampa",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2681,
+  "out": 209
+ },
+ "model": "claude-sonnet-5"
+}

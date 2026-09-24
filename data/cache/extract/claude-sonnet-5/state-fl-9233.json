@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Digital Transitions, Inc.",
+   "model": "DT Atom System",
+   "part": "High Resolution Imaging System comprised of the DT V-cradle, lighting, stands and other required system elements, installation and training",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 39930.0,
+   "lead_time": null,
+   "sole_source_vendor": "Digital Transitions, Inc.",
+   "reason": "Digital Transitions, Inc. is the only North American source of the DT Atom System, comprised of the DT V-cradle, lighting, stands and other required system elements as well as installation and training.",
+   "equipment_class": "other equipment",
+   "installed_location": "State Library of Florida",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2616,
+  "out": 243
+ },
+ "model": "claude-sonnet-5"
+}

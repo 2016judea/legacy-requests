@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pen-Link, Ltd.",
+   "model": "Pen-Link",
+   "part": "Software licensing and maintenance renewal for the Pen-Link system",
+   "part_numbers": [],
+   "quantity": "7/1/25-6/30/26",
+   "price_usd": 350000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Pen-Link, Ltd.",
+   "reason": "Pen-Link System was developed, produced exclusively and is completely proprietary to Pen- Link, Ltd. No other vendor can sell, support, or provide training for the Pen-Link software/system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2664,
+  "out": 239
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "IDEMIA",
+   "model": "Case AFIS",
+   "part": "Case AFIS System and Case AFIS Training Services (software, laptop computer hardware, training)",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": 115000.0,
+   "lead_time": null,
+   "sole_source_vendor": "IDEMIA",
+   "reason": "IDEMIA is the only firm that can provide end-to-end support for the Case AFIS System.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2914,
+  "out": 193
+ },
+ "model": "claude-sonnet-5"
+}

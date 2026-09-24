@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Test, tone, label, and rewire Cat5e low voltage cabling",
+   "part_numbers": [],
+   "quantity": "One Year",
+   "price_usd": 46800.0,
+   "lead_time": null,
+   "sole_source_vendor": "Voxtell",
+   "reason": "The Department is currently utilizing Voxtell due to the poor performance and inability of previous vendors to complete the job as required.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "832 W Central Blvd, Orlando, FL 32805",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2574,
+  "out": 312
+ },
+ "model": "claude-sonnet-5"
+}

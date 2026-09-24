@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "OTT Hydromet",
+   "model": "XLink 500",
+   "part": "Data logger with North American 4G LTE for remote logging of hydrologic data",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "OTT HydroMet",
+   "reason": "The XLink, SatLink and EcoLog data loggers manufactured by OTT Hydromet are uniquely able to provide real time data to our network due to their compatibility with our Aquarius software.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "OTT Hydromet",
+   "model": "SatLink 3",
+   "part": "Logger/Transmitter using GOES Satellite Network for hydrologic data telemetry",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "OTT HydroMet",
+   "reason": "The XLink, SatLink and EcoLog data loggers manufactured by OTT Hydromet are uniquely able to provide real time data to our network due to their compatibility with our Aquarius software.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "OTT/Sutron",
+   "model": "EcoLog 1000",
+   "part": "Logger/Transmitter accepting Verizon SIM card for hydrologic data telemetry",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "OTT HydroMet",
+   "reason": "The XLink, SatLink and EcoLog data loggers manufactured by OTT Hydromet are uniquely able to provide real time data to our network due to their compatibility with our Aquarius software.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2877,
+  "out": 915
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Environmental Systems Research Institute, Inc.",
+   "model": "ArcGIS",
+   "part": "ArcGIS Software License and Support agreement including ArcGIS Desktop, ArcSDE, ArcServer, ArcGIS Image Server, ArcGIS 3D, ArcGIS Spatial, ArcGIS Network Analyst, ArcGIS Geostatistical, ArcGIS GeoEvent and ArcGIS online licensing support",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": 62090.0,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute, Inc.",
+   "reason": "ESRI is the copyright owner of ArcGIS and the only authorized agent to provide licenses and support for said technology.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2719,
+  "out": 315
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Idemia",
+   "model": "Biometric Identification System",
+   "part": "Maintenance and technical support services for the Biometric Identification System, Latent Stations, and Ten Print Matchers",
+   "part_numbers": [],
+   "quantity": "25 Months",
+   "price_usd": 3500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Idemia Identity & Security USA, LLC",
+   "reason": "Idemia Identity & Security USA, LLC is the only firm that can provide end to end support for the Biometric ID System and Ten Print Matchers, including preventive maintenance, remedial maintenance, configuration management, systems administration, performance tuning and programming.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3421,
+  "out": 267
+ },
+ "model": "claude-sonnet-5"
+}

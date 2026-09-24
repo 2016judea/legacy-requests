@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Brown International Corporation, LLC",
+   "model": "AMC Model 2700",
+   "part": "Lease of juice extractors used to extract, evaluate and determine percent of total soluble solids per pound on delivered citrus",
+   "part_numbers": [
+    "2700"
+   ],
+   "quantity": "up to ninety (90)",
+   "price_usd": 156000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Brown International Corporation, LLC",
+   "reason": "Brown International Corporation, LLC, Post Office Box 713, Winter Haven, Florida 33882 holds Patent #3185071 and #3280726 for this extractor, and there is no equivalent machine.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "processing plants throughout the state",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3062,
+  "out": 286
+ },
+ "model": "claude-sonnet-5"
+}

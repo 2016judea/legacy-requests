@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axon Enterprise Inc",
+   "model": "Taser\u00ae",
+   "part": "Conducted Electrical Weapons (CEW) - Taser\u00ae with operational and training accessories",
+   "part_numbers": [],
+   "quantity": "5 Years (2022-2026)",
+   "price_usd": 8503251.0,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise Inc",
+   "reason": "Axon Enterprises, Inc. is the sole source manufacturer of Taser\u00ae equipment and accessories. No other vendor can sell, support, or provide training for the Taser\u00ae equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida Highway Patrol (FHP), Administration and Technology Command",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2957,
+  "out": 267
+ },
+ "model": "claude-sonnet-5"
+}

@@ -18,6 +18,7 @@ state portals all write the same shape). One file per source: data/matters/<slug
         "title": "...", "intro_date": "2025-03-04",   # YYYY-MM-DD
         "file": "25-0123",                   # optional agency file number
         "url": "https://...",                # the matter / agenda-item page (legistar_url also accepted)
+        "agency": "Dept of X", "state": "FL",  # optional per-matter override (a state portal lists many agencies)
         "text": "...",                       # item text, may be ""
         "attachments": [                     # each is EITHER a cached file OR inline text
             {"name": "Staff report", "url": "https://...pdf", "path": "data/cache/pdf/<sha1>.pdf"},
@@ -284,7 +285,7 @@ def main():
             src = (atts[0].get("url") if atts else None) or murl
             for i, r in enumerate(out["records"]):
                 r = dict(r)
-                r.update({"id": f"{slug}-{m['matter_id']}-{i}", "agency": meta["agency"], "state": meta["state"], "client": slug,
+                r.update({"id": f"{slug}-{m['matter_id']}-{i}", "agency": m.get("agency") or meta["agency"], "state": m.get("state") or meta["state"], "client": slug,
                           "date": m.get("intro_date"), "matter_id": m["matter_id"], "matter_file": m.get("file"), "title": m.get("title"),
                           "source_url": src, "legistar_url": murl, "platform": meta["platform"], "extract_model": a.model})
                 all_records.append(r); n_rec += 1

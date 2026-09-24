@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "FESCO/Mathis",
+   "model": "P-32H",
+   "part": "Hydraulic Fire Plows for wildland fire suppression",
+   "part_numbers": [],
+   "quantity": "17",
+   "price_usd": 436050.0,
+   "lead_time": null,
+   "sole_source_vendor": "Oliver and Dahlman Equipment Co.",
+   "reason": "Oliver and Dahlman Equipment Co. are the only Manufacturer of the FESCO/Mathis Fire Plow. The FESCO P32H is the only Fire Plow that will withstand the stresses and abuse of being pulled though all types of soil material by heavy machinery.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2792,
+  "out": 252
+ },
+ "model": "claude-sonnet-5"
+}

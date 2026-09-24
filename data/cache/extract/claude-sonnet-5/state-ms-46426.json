@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Spectral Evolution",
+   "model": "OreXpress / RS-3500",
+   "part": "Upgrade of existing Spectral Evolution OreXpress spectrometer (Serial No. 252-8020) to an RS-3500 spectroradiometer, including inspection, spectral calibration, recalibration, and maintenance/refurbishment services",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 14549.03,
+   "lead_time": null,
+   "sole_source_vendor": "Spectral Evolution, Inc.",
+   "reason": "Spectral Evolution, Inc. has certified that it is the exclusive manufacturer and supplier of Spectral Evolution instruments in the United States and that it has no authorized distributors or external service centers in the United States.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Department of Geology & Geological Engineering, University of Mississippi",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3635,
+  "out": 318
+ },
+ "model": "claude-sonnet-5"
+}

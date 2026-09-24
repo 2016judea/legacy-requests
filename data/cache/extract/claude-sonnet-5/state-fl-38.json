@@ -1,0 +1,163 @@
+{
+ "records": [
+  {
+   "manufacturer": "FLIR",
+   "model": "ITS-617",
+   "part": "Dual AID 316L (24Vac) Dual-vision sensor for Automatic Incident Detection",
+   "part_numbers": [
+    "ITS-617"
+   ],
+   "quantity": "Eight",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies",
+   "reason": "Control Technologies is the only authorized reseller of the FLIR products in the state of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Sunshine Skyway Bridge",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FLIR",
+   "model": "ITS-644",
+   "part": "Dual AID 316L (24Vac) Dual-vision sensor for Automatic Incident Detection",
+   "part_numbers": [
+    "ITS-644"
+   ],
+   "quantity": "Two",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies",
+   "reason": "Control Technologies is the only authorized reseller of the FLIR products in the state of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Sunshine Skyway Bridge",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FLIR",
+   "model": null,
+   "part": "wall/pole mount for ITS Dual sensors",
+   "part_numbers": [],
+   "quantity": "Ten",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies",
+   "reason": "Control Technologies is the only authorized reseller of the FLIR products in the state of Florida.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sunshine Skyway Bridge",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FLIR",
+   "model": "ITS-Series DUAL-316L",
+   "part": "Sunshield for ITS Dual sensors",
+   "part_numbers": [
+    "ITS-Series DUAL\u2013316L"
+   ],
+   "quantity": "Ten",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies",
+   "reason": "Control Technologies is the only authorized reseller of the FLIR products in the state of Florida.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sunshine Skyway Bridge",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FLIR",
+   "model": "FLUX",
+   "part": "Software including server license, embedded clustering library license, and video pack license",
+   "part_numbers": [],
+   "quantity": "One server license; one embedded clustering library license; ten video pack license",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies",
+   "reason": "FLIR software and FLIR closed-circuit television (CCTV) are propriatery.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Sunshine Skyway Bridge",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "PowerEdge R540",
+   "part": "Rack Server for FLIR FLUX software system",
+   "part_numbers": [
+    "PowerEdge R540"
+   ],
+   "quantity": "One",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies",
+   "reason": "Control Technologies is the only authorized reseller of the FLIR products in the state of Florida.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sunshine Skyway Bridge",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FLIR",
+   "model": null,
+   "part": "Warranty - Year four (per sensor)",
+   "part_numbers": [],
+   "quantity": "Ten",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies",
+   "reason": "Control Technologies is the only authorized reseller of the FLIR products in the state of Florida.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Sunshine Skyway Bridge",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FLIR",
+   "model": null,
+   "part": "Warranty - Year five (per sensor)",
+   "part_numbers": [],
+   "quantity": "Ten",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies",
+   "reason": "Control Technologies is the only authorized reseller of the FLIR products in the state of Florida.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Sunshine Skyway Bridge",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FLIR",
+   "model": null,
+   "part": "Software assurance, includes cyber security updates and critical patches/upgrades (annual fee)",
+   "part_numbers": [],
+   "quantity": "One",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies",
+   "reason": "FLIR software and FLIR closed-circuit television (CCTV) are propriatery.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Sunshine Skyway Bridge",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Commissioning support - Three days onsite",
+   "part_numbers": [],
+   "quantity": "One",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies",
+   "reason": "Control Technologies is the only authorized reseller of the FLIR products in the state of Florida.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Sunshine Skyway Bridge",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3467,
+  "out": 2704
+ },
+ "model": "claude-sonnet-5"
+}

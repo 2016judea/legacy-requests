@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Aircuity",
+   "model": "Optinet Assurance",
+   "part": "Aircuity Optinet Assurance maintenance and support (Control Safety System monitoring and sensor replacement)",
+   "part_numbers": [],
+   "quantity": "Three (3) Years",
+   "price_usd": 69872.0,
+   "lead_time": null,
+   "sole_source_vendor": "Nelson & Company, LLC",
+   "reason": "Nelson & Company is the sole vendor in Northeast Florida to provide service and repairs to the Control Safety System. No other vendor is authorized in the area to maintain the system from the manufacturer.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "State Materials Office Laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2488,
+  "out": 255
+ },
+ "model": "claude-sonnet-5"
+}

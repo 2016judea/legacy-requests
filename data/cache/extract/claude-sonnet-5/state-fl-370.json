@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pile Dynamics, Inc.",
+   "model": "Pile Driving Analyzer",
+   "part": "Pile Driving Analyzer unit with strain gauges and accelerometers and specialized calibration software",
+   "part_numbers": [],
+   "quantity": "One (1) Year",
+   "price_usd": 46455.0,
+   "lead_time": null,
+   "sole_source_vendor": "Pile Dynamics, Inc.",
+   "reason": "Pile Dynamics, Inc. is the sole manufacturer worldwide of the Pile Driving Analyzer and software and holld the relevant associated patents and copyrights to the equipment and software.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2534,
+  "out": 252
+ },
+ "model": "claude-sonnet-5"
+}

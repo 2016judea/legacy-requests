@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "SEI Industries",
+   "model": "Dragon Egg",
+   "part": "Dragon Egg Ignition Devices to be used in fighting fires",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 194000,
+   "lead_time": null,
+   "sole_source_vendor": "Air Chuck, Inc. dba Field Support Services",
+   "reason": "Air Chuck, Inc. dba Field Support Services is the exclusive distributor for the Dragon Fire Ignition products and Bambi Buckets.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SEI Industries",
+   "model": "Bambi Bucket",
+   "part": "Bambi Buckets used for fighting wildfires, along with overhaul, parts and labor for repair/overhaul of Bambi Buckets and related equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 50000,
+   "lead_time": null,
+   "sole_source_vendor": "Air Chuck, Inc. dba Field Support Services",
+   "reason": "They are also the authorized service center for parts, service and repairs for the Dragon products and Bambi Buckets in this region in the United States.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2803,
+  "out": 478
+ },
+ "model": "claude-sonnet-5"
+}

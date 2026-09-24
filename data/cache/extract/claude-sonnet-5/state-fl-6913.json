@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": "YSI Incorporated",
+   "model": "Datasonde",
+   "part": "Aquatic Preserve (AP) Datasonde Annual Maintenance",
+   "part_numbers": [],
+   "quantity": "12 months",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "YSI Incorporated",
+   "reason": "The Department of Environmental Protection (Department) desires to contract with the YSI Incorporated for the purchase of Aquatic Preserve (AP) Datasonde Annual Maintenance",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Aquatic Preserve (AP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI Incorporated",
+   "model": "ProDSS",
+   "part": "Purchase of New Pro Digital Sampling System (ProDSS) Handheld w/Accessories",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "YSI Incorporated",
+   "reason": "The Department of Environmental Protection (Department) desires to contract with the YSI Incorporated for the purchase of ... Purchase of New Pro Digital Sampling System (ProDSS) Handheld w/Accessories",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Aquatic Preserve (AP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI Incorporated",
+   "model": "EXO2",
+   "part": "EXO2 Sonde",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "YSI Incorporated",
+   "reason": "The Department of Environmental Protection (Department) desires to contract with the YSI Incorporated for the purchase of ... EXO2 Sonde",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Aquatic Preserve (AP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI Incorporated",
+   "model": "EXO ISE02",
+   "part": "EXO ISE02 Equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "YSI Incorporated",
+   "reason": "The Department of Environmental Protection (Department) desires to contract with the YSI Incorporated for the purchase of ... EXO ISE02 Equipment",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Aquatic Preserve (AP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI Incorporated",
+   "model": null,
+   "part": "Sondes and Sensors",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "YSI Incorporated",
+   "reason": "Sondes and Sensors; Solutions; Accessories; and Additional Items",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Aquatic Preserve (AP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI Incorporated",
+   "model": null,
+   "part": "Solutions (calibration/maintenance solutions for sondes)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "YSI Incorporated",
+   "reason": "Sondes and Sensors; Solutions; Accessories; and Additional Items",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Aquatic Preserve (AP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI Incorporated",
+   "model": null,
+   "part": "Accessories for Sondes and Sampling Systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "YSI Incorporated",
+   "reason": "Sondes and Sensors; Solutions; Accessories; and Additional Items",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Aquatic Preserve (AP)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2723,
+  "out": 2429
+ },
+ "model": "claude-sonnet-5"
+}

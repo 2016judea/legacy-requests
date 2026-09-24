@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ESRI",
+   "model": null,
+   "part": "Annual renewal of technical maintenance and support for ESRI products: Online, Desktop and Server.",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ESRI",
+   "reason": "Annual renewal of technical maintenance and support for ESRI products: Online, Desktop and Server.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1981,
+  "out": 184
+ },
+ "model": "claude-sonnet-5"
+}

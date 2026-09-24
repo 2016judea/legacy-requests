@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "BioLytical Laboratories Inc",
+   "model": "INSTI HIV-1/HIV-2 Antibody Test",
+   "part": "INSTI HIV-1/HIV-2 Antibody Tests",
+   "part_numbers": [],
+   "quantity": "1 Year",
+   "price_usd": 75000.0,
+   "lead_time": null,
+   "sole_source_vendor": "BioLytical Laboratories Inc",
+   "reason": "BioLytical is the sole manufacturer and provider for INSTI HIV-1/HIV-2 Antibody test.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDOH, Broward County Health Department, Bureau of Communicable Disease, HIV/AIDS Section",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2734,
+  "out": 262
+ },
+ "model": "claude-sonnet-5"
+}

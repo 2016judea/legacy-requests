@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Shimadzu Scientific Instruments, Inc.",
+   "model": null,
+   "part": "Maintenance and repair services by the Original Equipment Manufacturer (OEM) for Specialized Analytical Laboratory Instrumentation",
+   "part_numbers": [],
+   "quantity": "12 months",
+   "price_usd": 66675.0,
+   "lead_time": null,
+   "sole_source_vendor": "Shimadzu Scientific Instruments, Inc.",
+   "reason": "Shimadzu Scientific Instruments, Inc. is the sole manufacturer and sole service provider for its own instruments. There are no other authorized entities that can provide factory-certified service.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DEP Laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3118,
+  "out": 269
+ },
+ "model": "claude-sonnet-5"
+}

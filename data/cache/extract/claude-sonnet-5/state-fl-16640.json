@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Taser 10",
+   "part": "Conducted Energy Weapon (CEW)/Taser with 10-round magazine, equipment bundles, required accessories, cartridges, service plans, warranties, training and training aids",
+   "part_numbers": [],
+   "quantity": "5 years from issuance of initial PO",
+   "price_usd": 6000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Axon Enterprise, Inc.is the only manufacturer of Taser 10 (or newer model available) intended for law enforcement that will satisfy the needs of the agency.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Virtual Reality (VR) training package",
+   "part": "VR training package for officer tactical proficiency and de-escalation training without needing cartridges",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "This training is proprietary to Axon.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3344,
+  "out": 440
+ },
+ "model": "claude-sonnet-5"
+}

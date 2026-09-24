@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "IC Innovations LLC",
+   "model": "Debris plow unit complete system",
+   "part": "Automated roadway debris removal/clearing front bumper system",
+   "part_numbers": [
+    "WO 2021/062104 A1"
+   ],
+   "quantity": "15 units",
+   "price_usd": 358500.0,
+   "lead_time": null,
+   "sole_source_vendor": "IC Innovations LLC",
+   "reason": "DebrisClear is the only known automated debris removal front bumper that provides both behind-the-bumper mounting and an integrated speed-limiting governor.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "District Seven",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2630,
+  "out": 224
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "QIAGEN",
+   "model": "QIAgility",
+   "part": "QIAgility HEPA/UV automated PCR setup instrument",
+   "part_numbers": [
+    "SYS-FUL-1"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "QIAGEN",
+   "reason": "QIAGEN is the sole manufacturer and distributor of the QIAgility and QIAcuity Four.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "QIAGEN",
+   "model": "QIAcuity Four",
+   "part": "QIAcuity Four digital PCR instrument for nucleic acid quantification",
+   "part_numbers": [
+    "PLT-FUL-1"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "QIAGEN",
+   "reason": "QIAGEN is the sole manufacturer and distributor of the QIAgility and QIAcuity Four.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2940,
+  "out": 785
+ },
+ "model": "claude-sonnet-5"
+}

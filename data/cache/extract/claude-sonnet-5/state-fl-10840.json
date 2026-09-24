@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "AgustaWestland",
+   "model": "AW119MKII",
+   "part": "OEM equipment, parts, and special tools specifically designed for this Florida Forest Service AW119MKII Helicopter",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 362608.9,
+   "lead_time": null,
+   "sole_source_vendor": "AgustaWestland Philadelphia Corporation",
+   "reason": "Leonardo Helicopters is the sole source for genuine OEM materials identified in the Leonardo Helicopters Division Illustrated Parts catalog that carry the Manufacture Code A0126.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Florida Forest Service",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3075,
+  "out": 254
+ },
+ "model": "claude-sonnet-5"
+}

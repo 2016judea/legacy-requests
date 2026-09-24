@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "real time change data capture and synchronization software licenses and maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "for the sole source certification of real time change data capture and synchronization software licenses and maintenance for the Department of Human Services",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Human Services",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1961,
+  "out": 668
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Federal",
+   "model": "HST",
+   "part": "Federal Duty, 9mm rounds (9mm HST, 147 Grain JHP)",
+   "part_numbers": [],
+   "quantity": "63,000",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Bullet, Incorporated",
+   "reason": "Florida Bullet is the sole distributor for CCI-Speer, Federal, and SinterFire brands of law enforcement ammunition.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Speer",
+   "model": "Lawman Bonded Training",
+   "part": "Speer Lawman Bonded Training 9mm rounds (147 Grain TMJ)",
+   "part_numbers": [],
+   "quantity": "182,000",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Bullet, Incorporated",
+   "reason": "Florida Bullet is the sole distributor for CCI-Speer, Federal, and SinterFire brands of law enforcement ammunition.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SinterFire",
+   "model": "Frangible",
+   "part": "Sinterfire 9mm 100 grain Frangible rounds",
+   "part_numbers": [],
+   "quantity": "69,000",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Bullet, Incorporated",
+   "reason": "Florida Bullet is the sole distributor for CCI-Speer, Federal, and SinterFire brands of law enforcement ammunition.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3283,
+  "out": 836
+ },
+ "model": "claude-sonnet-5"
+}

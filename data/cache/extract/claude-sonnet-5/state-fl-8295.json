@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hologic",
+   "model": "Aptima HIV-1 Quant Dx",
+   "part": "Aptima HIV-1 Quant Dx testing reagents for HIV testing algorithm",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 712800.0,
+   "lead_time": null,
+   "sole_source_vendor": "Gen-Probe Sales & Services, Inc. (\"Hologic\")",
+   "reason": "The Aptima HIV-1 Quant Dx assay is the only dual claim assay which is intended to be used as an aid in the diagnosis.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2606,
+  "out": 239
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Pavement Deflection System (PDS) for design and pavement safety services",
+   "part_numbers": [],
+   "quantity": "One (1) Deflection System",
+   "price_usd": 185010.8,
+   "lead_time": null,
+   "sole_source_vendor": "Dynatest US Inc.",
+   "reason": "Dynatest US Inc., is the only known vendor in Florida to meet the Department's requirements for a Pavement Detection System (PDS).",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2494,
+  "out": 201
+ },
+ "model": "claude-sonnet-5"
+}

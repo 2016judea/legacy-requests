@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "John Deere",
+   "model": "650K",
+   "part": "Repair (parts and labor) of a 650K John Deere crawler tractor (dozer) damaged in fire operations",
+   "part_numbers": [],
+   "quantity": "Single Purchase",
+   "price_usd": 67351.73,
+   "lead_time": null,
+   "sole_source_vendor": "Beard Equipment Co.",
+   "reason": "Beard Equipment Co. is the only known dealer and supplier of heavy equipment parts and service for John Deere equipment in North Florida.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Florida Forest Service, North Florida",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2876,
+  "out": 228
+ },
+ "model": "claude-sonnet-5"
+}

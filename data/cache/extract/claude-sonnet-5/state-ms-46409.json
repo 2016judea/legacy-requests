@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Duke University",
+   "model": "TAMS",
+   "part": "Teaching Assignment Management Software (Duke TAMS) renewal - licensing",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 60000,
+   "lead_time": null,
+   "sole_source_vendor": "Duke University",
+   "reason": "TAMS is a software product that performs a function not available in any other software product on the market.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "University of Mississippi Medical Center, School of Nursing",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5516,
+  "out": 200
+ },
+ "model": "claude-sonnet-5"
+}

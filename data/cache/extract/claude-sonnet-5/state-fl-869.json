@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens",
+   "model": null,
+   "part": "Maintenance and services for building automation and central monitoring system (software/firmware and mechanical equipment)",
+   "part_numbers": [],
+   "quantity": "3-year term (July 1, 2022 - June 30, 2025)",
+   "price_usd": 130311.6,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "Siemens manufactured and installed the existing building automation and central monitoring systems at the Fire College. Also, the Siemens systems\u2019 software and firmware are proprietary products.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Florida State Fire College",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens",
+   "model": null,
+   "part": "Boiler maintenance and repair",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "Siemens manufactured and installed the existing building automation and central monitoring systems at the Fire College.",
+   "equipment_class": "HVAC",
+   "installed_location": "Florida State Fire College",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens",
+   "model": null,
+   "part": "Chiller maintenance and repair",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "Siemens manufactured and installed the existing building automation and central monitoring systems at the Fire College.",
+   "equipment_class": "HVAC",
+   "installed_location": "Florida State Fire College",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens",
+   "model": null,
+   "part": "Air handler maintenance and repair",
+   "part_numbers": [],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "Siemens manufactured and installed the existing building automation and central monitoring systems at the Fire College.",
+   "equipment_class": "HVAC",
+   "installed_location": "Florida State Fire College",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens",
+   "model": null,
+   "part": "Circulating pump maintenance and repair",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "Siemens manufactured and installed the existing building automation and central monitoring systems at the Fire College.",
+   "equipment_class": "pump",
+   "installed_location": "Florida State Fire College",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens",
+   "model": null,
+   "part": "Valves and actuators maintenance and repair",
+   "part_numbers": [],
+   "quantity": "numerous",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "Siemens manufactured and installed the existing building automation and central monitoring systems at the Fire College.",
+   "equipment_class": "valve",
+   "installed_location": "Florida State Fire College",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2892,
+  "out": 1507
+ },
+ "model": "claude-sonnet-5"
+}

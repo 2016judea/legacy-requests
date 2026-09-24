@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Daktronics",
+   "model": "Vanguard",
+   "part": "Full color retrofit kit for Dynamic Message Signs, including UPS systems and traffic cabinets",
+   "part_numbers": [],
+   "quantity": "Four (4) Years",
+   "price_usd": 2035200.0,
+   "lead_time": null,
+   "sole_source_vendor": "Daktronics, Inc.",
+   "reason": "Daktronics is the only vendor on the Department's Approved Products List for retrofitting Dynamic Message Signs. Daktronics is the only provider of this service.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2411,
+  "out": 222
+ },
+ "model": "claude-sonnet-5"
+}

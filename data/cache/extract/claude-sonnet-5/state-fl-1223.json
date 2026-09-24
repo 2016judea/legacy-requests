@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Applied Information (AI)",
+   "model": "Glance",
+   "part": "Road Side Unit (RSU) for Connected Vehicle system",
+   "part_numbers": [],
+   "quantity": "Three (3) years",
+   "price_usd": 2000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Temple Inc.",
+   "reason": "Temple, Inc. is the only provider of this service for the Applied Information (AI) Glance product in a Cloud Based environment.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Applied Information (AI)",
+   "model": "Glance",
+   "part": "On Board Unit (OBU) for Connected Vehicle system",
+   "part_numbers": [],
+   "quantity": "Three (3) years",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Temple Inc.",
+   "reason": "Temple, Inc. is the only provider of this service for the Applied Information (AI) Glance product in a Cloud Based environment.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Applied Information (AI)",
+   "model": "Glance",
+   "part": "Operating system, Cloud Based system communications and ancillary components relative to Connected Vehicle applications",
+   "part_numbers": [],
+   "quantity": "Three (3) years",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Temple Inc.",
+   "reason": "Temple, Inc. is the only provider of this service for the Applied Information (AI) Glance product in a Cloud Based environment.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2416,
+  "out": 1962
+ },
+ "model": "claude-sonnet-5"
+}

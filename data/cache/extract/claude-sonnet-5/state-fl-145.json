@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Image API, LLC",
+   "model": "Axiom Pro",
+   "part": "Axiom Pro SaaS Subscription (2 catalogs) and additional storage space, including enhancements, upgrades and maintenance",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": 101304.0,
+   "lead_time": null,
+   "sole_source_vendor": "Image API, LLC",
+   "reason": "Image API, LLC is the sole provider of Axiom Pro subscriptions, upgrades, modification, enhancements, and maintenance for their proprietary electronic document management system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2911,
+  "out": 237
+ },
+ "model": "claude-sonnet-5"
+}

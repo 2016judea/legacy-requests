@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "AB SCIEX",
+   "model": "Tripple Quad 5500+ QTRAP",
+   "part": "Enhanced high performance triple quadrouple LC-MS/MS mass spectrometer",
+   "part_numbers": [],
+   "quantity": "Four (4) units",
+   "price_usd": 2000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "SCIEX",
+   "reason": "SCIEX is the only vendor who manufactures and sells an LC/MS/MS that contains both a linear ion trap and triple quadrupole housed within the same instrument while maintaining a high level of sensitivity.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2921,
+  "out": 247
+ },
+ "model": "claude-sonnet-5"
+}

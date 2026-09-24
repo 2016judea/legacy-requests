@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": "MotoBridge",
+   "part": "Maintenance, break/fix repair or replacement, and technical support for existing MotoBridge equipment, including radio equipment, gateways, computers, servers, and workstations",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 563349.36,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "The statewide solution is proprietary to Motorola, wh",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2523,
+  "out": 234
+ },
+ "model": "claude-sonnet-5"
+}

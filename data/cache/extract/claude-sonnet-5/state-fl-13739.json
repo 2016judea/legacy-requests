@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica",
+   "model": null,
+   "part": "Statewide Software and Equipment Customer Care Packages (CCP) for surveying software and equipment (controllers, iCON tablet, Total Stations, 3D Laser Scanners, digital levels, GNSS base station receivers, GNSS rovers, and software)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 366037.65,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Level & Transit Co., Inc.",
+   "reason": "Florida Level & Transit Co., Inc. is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Permanent Reference Network (FPRN) sites statewide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "GNSS antennas used to collect GNSS carrier phase and code range measurements at individual FPRN sites",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The existing GNSS antennas used to collect this information at the individual sites are reaching end of life.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Permanent Reference Network (FPRN) sites",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3021,
+  "out": 1569
+ },
+ "model": "claude-sonnet-5"
+}

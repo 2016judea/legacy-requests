@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Night vision goggles, FAA TSO-C164a approved, aviation-specific",
+   "part_numbers": [],
+   "quantity": "18",
+   "price_usd": 245000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "It is imperative that we get the same goggles that we already have to maintain training continuity and common maintenance requirements/procedures. Having different types of NVGs in the inventory is not safe and detrimental to our program.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2596,
+  "out": 203
+ },
+ "model": "claude-sonnet-5"
+}

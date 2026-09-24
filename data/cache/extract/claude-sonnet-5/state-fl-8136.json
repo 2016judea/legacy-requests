@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Carrier Corporation",
+   "model": null,
+   "part": "Inspection and repair on a Carrier branded HVAC unit",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 141000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Carrier Corporation",
+   "reason": "Carrier Commercial Service has the only factory trained service force available to perform preventative maintenance, repair service, and warranty for Carrier equipment.",
+   "equipment_class": "HVAC",
+   "installed_location": "FSDB campus",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2425,
+  "out": 198
+ },
+ "model": "claude-sonnet-5"
+}

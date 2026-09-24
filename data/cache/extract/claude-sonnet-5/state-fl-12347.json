@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ESi Acquisition, Inc., a Juvare Company",
+   "model": "WebEOC",
+   "part": "WebEOC Subscription (150 users)",
+   "part_numbers": [],
+   "quantity": "One (1) Year",
+   "price_usd": 49651.0,
+   "lead_time": null,
+   "sole_source_vendor": "ESi Acquisition, Inc., a Juvare Company",
+   "reason": "Juvare (ESi Acquisition, Inc.) is the creator and developer of WebEOC and as such is the only known vendor that can provide this product. There are no other known sources for WebEOC.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2578,
+  "out": 239
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bronto Skylift",
+   "model": "295 HLA",
+   "part": "Aerial lift rental",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Holt Wind Resources, LLC",
+   "reason": "it is determined in writing by the Department, after reviewing any information received from prospective vendors, that the commodities or contractual services are available only from a single source",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "FDOT District 2",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2208,
+  "out": 750
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cinemavision",
+   "model": "Cinemavision 20/20",
+   "part": "MRI Patient Digital Video and Audio Entertainment System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 79000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cinemavision LLC",
+   "reason": "Cinemavision MRI video and audio system is the only MRI patient entertainment system on the market that offers both a combined video and audio experience for the MRI patient.",
+   "equipment_class": "other equipment",
+   "installed_location": "UMMC",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4943,
+  "out": 207
+ },
+ "model": "claude-sonnet-5"
+}

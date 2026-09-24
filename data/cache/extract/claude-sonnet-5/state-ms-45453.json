@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "mail insertion system licensing, support, and maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "sole source certification of mail insertion system licensing, support, and maintenance for the Department of Revenue.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Department of Revenue",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1957,
+  "out": 556
+ },
+ "model": "claude-sonnet-5"
+}

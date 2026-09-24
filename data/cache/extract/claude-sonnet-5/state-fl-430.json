@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tibco Software, Inc.",
+   "model": "WebFOCUS (FOCUS/WebFocus suite, formerly Information Builders)",
+   "part": "IBI Gold maintenance/support for WebFOCUS reporting software suite",
+   "part_numbers": [],
+   "quantity": "One (1) Year",
+   "price_usd": 185541.03,
+   "lead_time": null,
+   "sole_source_vendor": "Tibco Software, Inc.",
+   "reason": "IBI Gold is support for the WebFOCUS product that the company no longer sells through resellers.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida Department of Transportation (FDOT)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2495,
+  "out": 242
+ },
+ "model": "claude-sonnet-5"
+}

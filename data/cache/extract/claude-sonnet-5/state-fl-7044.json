@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Syntech Systems",
+   "model": "FMLive",
+   "part": "Upgrade of the 36 bulk fuel sites automated fuel dispensing and accounting equipment",
+   "part_numbers": [],
+   "quantity": "One Year",
+   "price_usd": 2457000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Syntech Systems, Inc.",
+   "reason": "Syntech's Fuel Management Systems (FMS) are proprietary and cannot be interchangeable with other manufacturer parts/components. Syntech Systems Inc. does not utilize a dealer network or authorize/certify any other company in the sales, repair, or service of their equipment and software.",
+   "equipment_class": "other equipment",
+   "installed_location": "36 bulk fuel sites statewide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Syntech Systems",
+   "model": "FuelMaster",
+   "part": "Fuel Management Units (FMUs) used for fuel transaction, bulk fuel tank levels, and vehicle data collection",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Syntech Systems, Inc.",
+   "reason": "Syntech's Fuel Management Systems (FMS) are proprietary and cannot be interchangeable with other manufacturer parts/components.",
+   "equipment_class": "other equipment",
+   "installed_location": "36 bulk fuel sites statewide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Syntech Systems",
+   "model": "AIM Titanium",
+   "part": "Automated fuel dispensing and accounting equipment component",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Syntech Systems, Inc.",
+   "reason": "Syntech's Fuel Management Systems (FMS) are proprietary and cannot be interchangeable with other manufacturer parts/components.",
+   "equipment_class": "other equipment",
+   "installed_location": "36 bulk fuel sites statewide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Syntech Systems",
+   "model": null,
+   "part": "Fuel tank monitoring units/automated tank gauges",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Syntech Systems, Inc.",
+   "reason": "Syntech's Fuel Management Systems (FMS) are proprietary and cannot be interchangeable with other manufacturer parts/components.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "36 bulk fuel sites statewide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Syntech Systems",
+   "model": "FMLive",
+   "part": "Technical support, diagnostics, and training for new equipment and software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Syntech Systems, Inc.",
+   "reason": "Also, Syntech Systems Inc. is providing technical support, diagnostics, and training for the new equipment and new software.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "36 bulk fuel sites statewide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2951,
+  "out": 1081
+ },
+ "model": "claude-sonnet-5"
+}

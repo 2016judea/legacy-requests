@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens Industry, Inc.",
+   "model": "SIPASS",
+   "part": "Card Reader access control system installation for interior doors & security gates (hardware, software, card readers, video intercom, gate components)",
+   "part_numbers": [],
+   "quantity": "4 interior doors & 2 security gates",
+   "price_usd": 72035.0,
+   "lead_time": "Three (3) months",
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "Siemens Industry, Inc. is the only known vendor that has the ability to access the system programming and provide the necessary materials and services.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "District 2, State Materials Office facility in Gainesville, Fl",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2354,
+  "out": 273
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Metrohm",
+   "model": "OMNIS NIR Analyzer and Sample Robot",
+   "part": "NIR spectrometer with auto sampling robot and accessories/software for fuel sample analytical testing",
+   "part_numbers": [],
+   "quantity": "Two units with associated accessories and software",
+   "price_usd": 204005.42,
+   "lead_time": null,
+   "sole_source_vendor": "Metrohm USA, Inc.",
+   "reason": "Metrohm USA, Inc. is the exclusive distributor of Metrohm OMNIS near-infrared spectrometers, sample robots, and accessories in the United States.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3130,
+  "out": 280
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Mettler-Toledo",
+   "model": null,
+   "part": "Wildwood Loop and Sensor Install (weight measuring instruments for weigh station)",
+   "part_numbers": [],
+   "quantity": "Five (5) months",
+   "price_usd": 432034.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mettler-Toledo, LLC",
+   "reason": "The Department's Wildwood Weigh Station will be adding some",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Wildwood Weigh Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2756,
+  "out": 268
+ },
+ "model": "claude-sonnet-5"
+}

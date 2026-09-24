@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Road Weather Flood Sensor",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Nutter & Associates",
+   "reason": "NOTICE OF INTENDED DECISION TO ENTER INTO A SINGLE SOURCE CONTRACT with Nutter & Associates.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Nassau County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2022,
+  "out": 187
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Revelation Software Concepts Pty Ltd",
+   "model": "Rev-Trac",
+   "part": "Annual support fees for Rev-Trac Software System (Initial System and SAP BW/CRM)",
+   "part_numbers": [],
+   "quantity": "1 Rev-Trac annual support fees (Initial System); 1 Rev-Trac annual support fees for the SAP BW and CRM",
+   "price_usd": 58000.0,
+   "lead_time": "One year of support beginning 07/01/2025 and ending 06/30/2026",
+   "sole_source_vendor": "Revelation Software Concepts Pty Ltd",
+   "reason": "Rev-Trac is the only change management software product that is installed inside the SAP environment, whereas, other products are external to the SAP environment.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3159,
+  "out": 976
+ },
+ "model": "claude-sonnet-5"
+}

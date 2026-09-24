@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Mettler-Toledo",
+   "model": null,
+   "part": "Chloride Auto-titration system for testing chloride content in concrete and cementitious materials",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 152427.41,
+   "lead_time": null,
+   "sole_source_vendor": "Mettler-Toledo, LLC.",
+   "reason": "Mettler-Toledo is the only known vendor known that possess equipment with the functionality to perform all the tasks needed to carry out Florida Method of Test, FM 5-516.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2875,
+  "out": 223
+ },
+ "model": "claude-sonnet-5"
+}

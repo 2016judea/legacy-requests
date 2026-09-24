@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kone Inc.",
+   "model": "KCM831",
+   "part": "Annual maintenance service agreement and repairs for three (3) existing five (5) story elevator systems",
+   "part_numbers": [],
+   "quantity": "3 Years",
+   "price_usd": 654899.78,
+   "lead_time": null,
+   "sole_source_vendor": "Kone Inc.",
+   "reason": "Kone Inc. is the Original Equipment Manufacturer (OEM) for all KCM831 elevator systems and has exclusive rights to all upgrades, modifications, and enhancements required to maintain continuity of the elevator equipment and system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida Department of Health, Palm Beach County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2749,
+  "out": 256
+ },
+ "model": "claude-sonnet-5"
+}

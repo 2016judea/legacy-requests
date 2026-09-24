@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "GCOM Software, Inc",
+   "model": null,
+   "part": "Computerized Criminal History System (CCH) Support Services",
+   "part_numbers": [],
+   "quantity": "5.5 years estimated",
+   "price_usd": 17000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "GCOM Software, Inc",
+   "reason": "GCOM Software, Inc is the sole supplier of the CCH system technology used by FDLE today.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2753,
+  "out": 193
+ },
+ "model": "claude-sonnet-5"
+}

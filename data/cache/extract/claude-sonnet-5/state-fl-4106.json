@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "E2 Walls, Inc.",
+   "model": "Series 225 Movable Wall System",
+   "part": "design, labor, materials and reconfiguration of existing and new Series 225 Movable Wall Systems",
+   "part_numbers": [],
+   "quantity": "One (1) year from final posting approval.",
+   "price_usd": 150000,
+   "lead_time": null,
+   "sole_source_vendor": "E2 Walls, Inc.",
+   "reason": "E2 Walls, Inc. is the only manufacturer and installer of the moveable wall system which was originally installed in the Caldwell Building.",
+   "equipment_class": "other equipment",
+   "installed_location": "Caldwell Building",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2814,
+  "out": 533
+ },
+ "model": "claude-sonnet-5"
+}

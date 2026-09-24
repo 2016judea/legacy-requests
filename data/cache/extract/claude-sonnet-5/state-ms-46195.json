@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Heidelberg Engineering",
+   "model": "Spectralis OCT",
+   "part": "Ophthalmic Imaging and Angiography Platform (Spectralis OCT)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 117900.0,
+   "lead_time": null,
+   "sole_source_vendor": "Heidelberg Engineering",
+   "reason": "The Spectralis system is the standard ophthalmic imaging system in use by UMMC Ophthalmology. Additionally, the Spectralis the only ophthalmic imaging system with the patented TruTrack Active Eye Tracking technology.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "UMMC Ophthalmology",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4210,
+  "out": 259
+ },
+ "model": "claude-sonnet-5"
+}

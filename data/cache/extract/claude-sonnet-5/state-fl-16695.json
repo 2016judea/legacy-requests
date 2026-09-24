@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "International Cybernetics Company, LP",
+   "model": "Locked Wheel Friction Trailer (LWFT)",
+   "part": "Upgrade of the LWFT including equipment design, computer control systems, software, and hardware assemblies",
+   "part_numbers": [],
+   "quantity": "10 Months (Delivery)",
+   "price_usd": 245495.0,
+   "lead_time": "10 Months",
+   "sole_source_vendor": "International Cybernetics Company, LP",
+   "reason": "ICC manufactures and is the sole vendor to rebuild, upgrade, repair, evaluate, and provide proprietary software updates for its equipment.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2934,
+  "out": 250
+ },
+ "model": "claude-sonnet-5"
+}

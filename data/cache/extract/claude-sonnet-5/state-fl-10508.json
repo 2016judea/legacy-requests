@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Radcal",
+   "model": "AGMS-D+",
+   "part": "Annual calibration and maintenance service for Radcal AGMS-D+ sensors used to measure radiation machine output",
+   "part_numbers": [],
+   "quantity": "1 Year",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Radcal Corporation",
+   "reason": "Radcal Corporation is the only vendor that can provide the required calibration and maintenance of the equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Radcal",
+   "model": "10X6-180",
+   "part": "Annual calibration and maintenance service for Radcal 10X6-180 ion chambers used to measure radiation machine output",
+   "part_numbers": [],
+   "quantity": "1 Year",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Radcal Corporation",
+   "reason": "Radcal Corporation is the only vendor that can provide the required calibration and maintenance of the equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Radcal",
+   "model": "Accu-Gold+ Touch",
+   "part": "Annual calibration and maintenance service for Radcal Accu-Gold+ Touch base units used to measure radiation machine output",
+   "part_numbers": [],
+   "quantity": "1 Year",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Radcal Corporation",
+   "reason": "Radcal Corporation is the only vendor that can provide the required calibration and maintenance of the equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2839,
+  "out": 1528
+ },
+ "model": "claude-sonnet-5"
+}

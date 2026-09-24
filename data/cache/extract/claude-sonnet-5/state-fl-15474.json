@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Carrier",
+   "model": null,
+   "part": "Proprietary maintenance and repair services on the Carrier branded chiller unit located on the FSDB campus",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 400000,
+   "lead_time": null,
+   "sole_source_vendor": "Carrier Corporation",
+   "reason": "Carrier does not certify contractors and does not authorize any other entity to perform start-up, warranty service or upgrades on Carrier products.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "FSDB campus",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2544,
+  "out": 206
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Teledyne",
+   "model": "T640",
+   "part": "Ambient Air Pollution Monitors for Particulate Matter",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": 52944.0,
+   "lead_time": null,
+   "sole_source_vendor": "Teledyne Instruments, Inc.",
+   "reason": "The Teledyne Models T640 are the only instruments that provide air quality readings in real time.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Department of Health monitoring stations",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2886,
+  "out": 196
+ },
+ "model": "claude-sonnet-5"
+}

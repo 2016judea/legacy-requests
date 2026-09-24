@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Dino Software Corporation",
+   "model": "T-Rex",
+   "part": "Annual support and maintenance for T-REX software installed on the Department of Financial Services mainframe",
+   "part_numbers": [],
+   "quantity": "36 months, November 1, 2022 through October 31, 2025",
+   "price_usd": 66168.0,
+   "lead_time": null,
+   "sole_source_vendor": "Dino Software Corporation",
+   "reason": "Dino Software is the only vendor that can provide the required and ongoing maintenance for this proprietary software.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Department of Financial Services mainframe",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2809,
+  "out": 229
+ },
+ "model": "claude-sonnet-5"
+}

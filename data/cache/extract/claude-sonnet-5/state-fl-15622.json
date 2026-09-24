@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Revvity",
+   "model": "Victor Nivo",
+   "part": "Plate Reader, reagent consumables, supplies, and support services",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": 43167.61,
+   "lead_time": null,
+   "sole_source_vendor": "Revvity Health Sciences, Inc.",
+   "reason": "Revvity Victor Nivo Plate Reader is the only platform approved by the BPHL, Laboratory Response Network (LRN) assays used in the identification of biological and chemical threats.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "BPHL, Bioterrorism and Virology laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2741,
+  "out": 242
+ },
+ "model": "claude-sonnet-5"
+}

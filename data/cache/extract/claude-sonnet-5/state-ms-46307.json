@@ -1,0 +1,115 @@
+{
+ "records": [
+  {
+   "manufacturer": "MarineSitu",
+   "model": "C3-PoE",
+   "part": "Underwater camera system (three synchronized sensors, subsea connectivity)",
+   "part_numbers": [
+    "C3-PoE"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MarineSitu",
+   "reason": "the specific C3-PoE SKU proposed for this project is available only from MarineSitu and is not sold through another distribution channel.",
+   "equipment_class": "other equipment",
+   "installed_location": "Thad Cochran Marine Aquaculture Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MarineSitu",
+   "model": "Mangrove",
+   "part": "Proprietary software for imaging, processing, and machine-learning model operation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MarineSitu",
+   "reason": "MarineSitu confirmed in writing that it is the sole provider and only authorized source for the Mangrove software, SaltySuite\u2122 platform, and project-specific tuned machine-learning models.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Thad Cochran Marine Aquaculture Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MarineSitu",
+   "model": "SaltySuite",
+   "part": "Cloud platform access for storage and review of imagery and detection records",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MarineSitu",
+   "reason": "Provides access to MarineSitu's proprietary SaltySuite\u2122 cloud platform for storage and review of system imagery and detection records.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Thad Cochran Marine Aquaculture Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MarineSitu",
+   "model": null,
+   "part": "Project-specific machine-learning model for shrimp sizing (head/tail detection)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MarineSitu",
+   "reason": "Shrimp sizing machine-learning model \u2013 MarineSitu's model architecture, training pipeline, and methods are proprietary; the project deliverable will consist of a model specifically tuned for shrimp at the USM research site and operated within the MarineSitu software environment.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Thad Cochran Marine Aquaculture Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MarineSitu",
+   "model": null,
+   "part": "Project-specific machine-learning model for spawning-behavior detection",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MarineSitu",
+   "reason": "Shrimp behavior machine-learning model \u2013 MarineSitu's model architecture and methods are proprietary, and the project-specific model will operate within the MarineSitu environment.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Thad Cochran Marine Aquaculture Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "NVIDIA",
+   "model": "AGX Orin",
+   "part": "Industrial control computer for imaging system, validated with Mangrove software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MarineSitu",
+   "reason": "The industrial control computer specified by MarineSitu is based on the commercially available NVIDIA AGX Orin platform.",
+   "equipment_class": "other equipment",
+   "installed_location": "Thad Cochran Marine Aquaculture Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Cabling terminated for compatibility with the C3 camera system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MarineSitu",
+   "reason": "portions of the cabling are commodity components terminated for compatibility with the C3 system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Thad Cochran Marine Aquaculture Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8176,
+  "out": 1738
+ },
+ "model": "claude-sonnet-5"
+}

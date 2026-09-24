@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Repair and maintenance components for firing range system",
+   "part_numbers": [],
+   "quantity": "Term is July 1, 2022 through June 30, 2023",
+   "price_usd": 225000.0,
+   "lead_time": null,
+   "sole_source_vendor": "InVeris Training Solutions",
+   "reason": "InVeris Training Solutions is the sole source for any component, repair or maintenance for the firing range system at Camp Blanding, Starke, FL.",
+   "equipment_class": "other equipment",
+   "installed_location": "Camp Blanding Joint Training Center, Starke, FL",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2614,
+  "out": 219
+ },
+ "model": "claude-sonnet-5"
+}

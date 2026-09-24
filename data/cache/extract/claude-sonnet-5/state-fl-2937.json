@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica",
+   "model": null,
+   "part": "Leica surveying equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "The Department of Transportation intends to enter into a single source contract with FLT Geosystems for Leica surveying equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1996,
+  "out": 169
+ },
+ "model": "claude-sonnet-5"
+}

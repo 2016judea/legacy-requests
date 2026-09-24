@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Repair and Maintenance of Sand Blasting Booth and Dust Collection System at the CBJTC Allied Trades Shop",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 200000.0,
+   "lead_time": null,
+   "sole_source_vendor": "SurfacePrep, Delong Equipment Division",
+   "reason": "DMA advertised an Invitation to Bid, DMA-ITB-333, multiple times and did not receive any bids.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "CBJTC Allied Trades Shop in Starke, Florida",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2636,
+  "out": 234
+ },
+ "model": "claude-sonnet-5"
+}

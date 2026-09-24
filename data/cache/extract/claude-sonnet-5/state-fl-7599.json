@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Camera Replacements and additions for TBROC security system",
+   "part_numbers": [],
+   "quantity": "One Time Purchase",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Company",
+   "reason": "Only the Georgia-Florida Burglar Alarm System can provide this continual and connective service for our operations, both at TBROC and throughout the state.",
+   "equipment_class": "other equipment",
+   "installed_location": "Tampa Bay Regional Operations Center (TBROC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avigilon",
+   "model": "Avigilon Appliance",
+   "part": "Upgrade video server to the Avigilon Appliance to integrate with the Avigilon server at the Tallahassee Headquarters facility",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Company",
+   "reason": "Only the Georgia-Florida Burglar Alarm System can provide this continual and connective service for our operations, both at TBROC and throughout the state.",
+   "equipment_class": "other equipment",
+   "installed_location": "Tampa Bay Regional Operations Center (TBROC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Additional swipe card access on several doors",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Company",
+   "reason": "Only the Georgia-Florida Burglar Alarm System can provide this continual and connective service for our operations, both at TBROC and throughout the state.",
+   "equipment_class": "other equipment",
+   "installed_location": "Tampa Bay Regional Operations Center (TBROC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "RS2",
+   "model": "RS2 Access",
+   "part": "Maintain connectivity with other FDLE facilities via the RS2 Access platform",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Company",
+   "reason": "To maintain connectivity with the other FDLE facilities throughout the state, the TBROC must remain on an RS2 Access and Avigilon platform",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "TBROC and FDLE Headquarters facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Salto",
+   "model": "Salto locking system",
+   "part": "Maintain the FDLE Headquarters facility database for video and card access as well as the Salto locking system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Company",
+   "reason": "To maintain connectivity with the other FDLE facilities throughout the state, the TBROC must remain on an RS2 Access and Avigilon platform, and the FDLE Headquarters facility database for video and card access as well as the Salto locking system.",
+   "equipment_class": "other equipment",
+   "installed_location": "FDLE Headquarters facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2839,
+  "out": 2486
+ },
+ "model": "claude-sonnet-5"
+}

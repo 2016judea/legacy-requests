@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cepheid",
+   "model": "Xpert MTB/RIF",
+   "part": "Assay kits compatible with Cepheid GeneXpert system for detection of Mycobacterium tuberculosis complex and Rifampin resistance",
+   "part_numbers": [
+    "GMTB/RIF-US-10"
+   ],
+   "quantity": "3 years",
+   "price_usd": 315000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cepheid",
+   "reason": "Cepheid is the sole manufacturer and supplier of GeneXpert Technology including systems and assays globally.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2912,
+  "out": 247
+ },
+ "model": "claude-sonnet-5"
+}

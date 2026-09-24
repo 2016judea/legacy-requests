@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Overwatch Imaging",
+   "model": null,
+   "part": "Automated sensor operator system for aerial surveillance and wildfire detection integrated with Trakka TC375 gimbal",
+   "part_numbers": [],
+   "quantity": "Date of Execution thru June 30, 2025",
+   "price_usd": 136000,
+   "lead_time": null,
+   "sole_source_vendor": "Overwatch Imaging",
+   "reason": "it has been determined that Overwatch Imaging is the sole source vendor capable of meeting the specific technical and operational needs of this initiative",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3134,
+  "out": 1128
+ },
+ "model": "claude-sonnet-5"
+}

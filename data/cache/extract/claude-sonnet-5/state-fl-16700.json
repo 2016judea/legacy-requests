@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Omnigo Software, LLC",
+   "model": "TraQ7",
+   "part": "migrate the Florida Department of Education (FDOE) property inventory data from TraQ6 to TraQ7 and implement the upgrade to TraQ7 Asset Management solution",
+   "part_numbers": [],
+   "quantity": "12 months",
+   "price_usd": 75000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Omnigo Software, LLC",
+   "reason": "Omnigo Software, LLC is the sole owner, developer, and authorized provided of the Quartermaster asset management software",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida Department of Education",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Omnigo Software, LLC",
+   "model": null,
+   "part": "develop a new Android-based mobile application to replace the existing MC300 application",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Omnigo Software, LLC",
+   "reason": "the TraQ7 Quartermaster platform supports only modern Android-based mobile devices",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida Department of Education",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Omnigo Software, LLC",
+   "model": null,
+   "part": "develop custom integration functionality to facilitate the import and export of asset data between TraQ7 and the PALM system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Omnigo Software, LLC",
+   "reason": "no other vendor is authorized to provide these services",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida Department of Education",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Omnigo Software, LLC",
+   "model": "EverSure",
+   "part": "Omnigo EverSure services, which include ongoing training, consulting, technical support, software maintenance, and product upgrades",
+   "part_numbers": [],
+   "quantity": "12 months",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Omnigo Software, LLC",
+   "reason": "Omnigo is the only authorized vendor and technically capable of providing the required custom development and ensuring compatibility with the Department\u2019s existing Quartermaster environment",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Florida Department of Education",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2946,
+  "out": 2303
+ },
+ "model": "claude-sonnet-5"
+}

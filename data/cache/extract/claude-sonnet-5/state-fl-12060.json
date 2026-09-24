@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "John Bean Technologies Corporation",
+   "model": "FMC-0919-B",
+   "part": "Mechanical Juice Extractors leased for testing percent total soluble solids in delivered citrus",
+   "part_numbers": [
+    "FMC-0919-B"
+   ],
+   "quantity": "15",
+   "price_usd": 382365.0,
+   "lead_time": null,
+   "sole_source_vendor": "John Bean Technologies Corporation (JBT FoodTech)",
+   "reason": "John Bean Technologies Corporation holds patent #5992311 for this extractor, and there is no equivalent machine.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "processing plants located throughout the state of Florida",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3083,
+  "out": 261
+ },
+ "model": "claude-sonnet-5"
+}

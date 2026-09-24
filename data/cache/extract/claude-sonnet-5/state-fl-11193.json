@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens",
+   "model": "Insight",
+   "part": "Existing building management system workstation software, reached end of life",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "The Insight workstation software has been in existence since 1998 has reached its end of life.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Service Center Office at 170 Century Blvd., Bartow Florida",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Siemens",
+   "model": "Desigo CC",
+   "part": "New building management system workstation upgrade, system controllers and software, with service level agreements for preventative maintenance, software subscriptions, and data backup-restoration services",
+   "part_numbers": [],
+   "quantity": "Date of Execution through 6/30/2027",
+   "price_usd": 163274.0,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "The Siemens systems hardware and software installed at the Bartow facility is proprietary. Siemens Industry is the only known source able to provide the service.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Service Center Office at 170 Century Blvd., Bartow Florida",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3033,
+  "out": 674
+ },
+ "model": "claude-sonnet-5"
+}

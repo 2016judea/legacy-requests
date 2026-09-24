@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "CutCom Software, Inc.",
+   "model": "FortifyFL Reporting System",
+   "part": "License and maintenance support for FortifyFL Reporting System software",
+   "part_numbers": [],
+   "quantity": "60 Months",
+   "price_usd": 400000.0,
+   "lead_time": null,
+   "sole_source_vendor": "RMS Software, Inc.",
+   "reason": "FortifyFL is licensed through and maintained exclusively by RMS Software Inc. who acquired CutCom Sotware, Inc. in 2022. No other firm is authorized to license or sell this product, as it is proprietary in nature.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2805,
+  "out": 245
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sonitrol",
+   "model": "FlexIP",
+   "part": "Replacement of obsolete security system components (control boards, access modules, keypads) integrating with existing Sonitrol FlexIP access system",
+   "part_numbers": [],
+   "quantity": "One Year",
+   "price_usd": 43193.83,
+   "lead_time": null,
+   "sole_source_vendor": "Stanley Convergent Security Solutions Inc.",
+   "reason": "These systems are exclusively designed for the Sonitrol FlexIP access system equipment currently utilized by the Department.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bureau of Public Health Laboratories (BPHL), Tampa laboratory",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2666,
+  "out": 613
+ },
+ "model": "claude-sonnet-5"
+}

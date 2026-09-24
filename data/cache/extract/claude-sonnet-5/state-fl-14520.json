@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Agilent Technologies, Inc.",
+   "model": "7010D Triple Quadrupole GC/MS with EI",
+   "part": "Agilent 7010D Triple Quadrupole GC/MS with EI instrument",
+   "part_numbers": [],
+   "quantity": "One (1)",
+   "price_usd": 321529.9,
+   "lead_time": null,
+   "sole_source_vendor": "AGILENT TECHNOLOGIES, INC.",
+   "reason": "Agilent Technologies, Inc. is the only known manufacturer of the Agilent 7010D GC/MS with EI system that meets the following critical requirements",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3146,
+  "out": 246
+ },
+ "model": "claude-sonnet-5"
+}

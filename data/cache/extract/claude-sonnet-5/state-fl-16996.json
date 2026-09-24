@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bio-Rad Laboratories, Inc.",
+   "model": "QX700E",
+   "part": "Droplet Digital PCR System, including instrument, QX700 ddPCR System Analysis Software, and QX700 ddPCR System Control Software, plus associated consumables and accessories",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 56829.02,
+   "lead_time": null,
+   "sole_source_vendor": "Bio-Rad Laboratories, Inc.",
+   "reason": "Bio-Rad Laboratories, Inc. is the original manufacturer and sole supplier of the QX700E Droplet Digital PCR System, and no other vendor produces or distributes this instrument or its proprietary components.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3029,
+  "out": 284
+ },
+ "model": "claude-sonnet-5"
+}

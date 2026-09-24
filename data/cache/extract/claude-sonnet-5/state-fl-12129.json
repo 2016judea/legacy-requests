@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "GERSTEL",
+   "model": "Multipurpose Sampler Robotic Pro Smart Series",
+   "part": "Two Multipurpose Sampler Robotic Pro smart series rails with MAESTRO software to replace older rails on GC analyzers",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 191811.17,
+   "lead_time": null,
+   "sole_source_vendor": "GERSTEL, Inc.",
+   "reason": "GERSTEL, Inc. is the sole equipment manufacturer and distributor of software upgrades, modification, and maintenance for the Department\u2019s existing gas chromatograph instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Jacksonville Chemical Threat Laboratory",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2935,
+  "out": 369
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Open Text, Inc.",
+   "model": "OpenText DM Enterprise Client Suite",
+   "part": "Software Maintenance and Support",
+   "part_numbers": [],
+   "quantity": "12 Months",
+   "price_usd": 118626.48,
+   "lead_time": null,
+   "sole_source_vendor": "Open Text, Inc.",
+   "reason": "Open Text, Inc. is the only vendor who offers support and maintenance of their Open Text Software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2492,
+  "out": 192
+ },
+ "model": "claude-sonnet-5"
+}

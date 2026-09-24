@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "116145",
+   "part": "Replace blower assembly in AHU",
+   "part_numbers": [
+    "116145"
+   ],
+   "quantity": "17 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Cortez Heating & Air",
+   "reason": "units will not have Factory warranty if they are not installed by Cortez Heating & Air.",
+   "equipment_class": "HVAC",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "116157",
+   "part": "Replace blower assembly in AHU",
+   "part_numbers": [
+    "116157"
+   ],
+   "quantity": "2 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Cortez Heating & Air",
+   "reason": "units will not have Factory warranty if they are not installed by Cortez Heating & Air.",
+   "equipment_class": "HVAC",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "116167/A01",
+   "part": "Replace blower assembly in AHU",
+   "part_numbers": [
+    "116167/A01"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Cortez Heating & Air",
+   "reason": "units will not have Factory warranty if they are not installed by Cortez Heating & Air.",
+   "equipment_class": "HVAC",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "116839/H01",
+   "part": "Replace blower assembly in AHU",
+   "part_numbers": [
+    "116839/H01"
+   ],
+   "quantity": "2 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Cortez Heating & Air",
+   "reason": "units will not have Factory warranty if they are not installed by Cortez Heating & Air.",
+   "equipment_class": "HVAC",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2021,
+  "out": 830
+ },
+ "model": "claude-sonnet-5"
+}

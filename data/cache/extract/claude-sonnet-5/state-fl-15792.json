@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Brown International Corporation, LLC",
+   "model": "AMC Model 2700",
+   "part": "Leasing of Juice extractor machine, up to forty (40) AMC Model 2700 juice extractors",
+   "part_numbers": [],
+   "quantity": "up to forty (40)",
+   "price_usd": 175870.0,
+   "lead_time": null,
+   "sole_source_vendor": "Three Rivers Resource Conservation and Development Council for Agricultural or Rural Cooperatives Services",
+   "reason": "Brown International Corporation, LLC 333 Avenue M NW, Winter Haven, Florida 33881 holds US. Patent No. 3,185,071 and 3,280,726 Industrial AMC Model 2700 juice extractor used for processing and testing citrus maturity.",
+   "equipment_class": "other equipment",
+   "installed_location": "processing plants throughout the state",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2941,
+  "out": 305
+ },
+ "model": "claude-sonnet-5"
+}

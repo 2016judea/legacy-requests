@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "International Road Dynamics Corp.",
+   "model": "IRD Series WIM / VectorSense Data Collection System",
+   "part": "Bending Plate Weigh-In-Motion (WIM) - VectorSense Data Collection System and Software",
+   "part_numbers": [],
+   "quantity": "5 years",
+   "price_usd": 228120.0,
+   "lead_time": null,
+   "sole_source_vendor": "International Road Dynamics Corp.",
+   "reason": "International Road Dynamics (IRD) is the sole manufacturer and service provider of the IRD Series WIM and VectorSense Data Collection Systems and Software within North America.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "SR 200/US 301 test road, Clay County, Florida",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3312,
+  "out": 270
+ },
+ "model": "claude-sonnet-5"
+}

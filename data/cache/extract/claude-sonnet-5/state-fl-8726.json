@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "TAPCO",
+   "model": "WWD",
+   "part": "Replacement parts on existing TAPCO WWD systems, including replacement parts, cameras, software and licenses",
+   "part_numbers": [],
+   "quantity": "One Time Use",
+   "price_usd": 61730.0,
+   "lead_time": null,
+   "sole_source_vendor": "TAPCO (Traffic and Parking Control Company Inc)",
+   "reason": "TAPCO is the only company that manufactures and sells the TAPCO WWD systems and their replacement parts, cameras, software and licenses. There are no other known vendors that can supply these replacement parts.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2327,
+  "out": 242
+ },
+ "model": "claude-sonnet-5"
+}

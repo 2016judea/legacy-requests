@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Eco-Counter, Inc.",
+   "model": "Urban/Mobile MULTI",
+   "part": "Non-Motorized Monitoring Equipment (pedestrian/cyclist counters), DataNet, API/Web Dashboard, Automatic Data Transmission, Maintenance and Repair Services",
+   "part_numbers": [],
+   "quantity": "5 Years",
+   "price_usd": 4900000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Eco-Counter, Inc.",
+   "reason": "Eco-Counter, Inc. is the sole distributor for their technologies for the United States and holds the copyrights. There are no resellers.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3051,
+  "out": 550
+ },
+ "model": "claude-sonnet-5"
+}

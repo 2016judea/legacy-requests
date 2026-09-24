@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica",
+   "model": "GR50",
+   "part": "GNSS receivers replacing existing GR30 receivers, to track additional constellations/frequencies",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "Leica has an agreement with their vendors nationwide. FLT Geosystems is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Permanent Reference Network (FPRN) sites statewide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": "AR20",
+   "part": "GNSS antennas with radome covers replacing existing AR20 antennas for weather protection and extended field life",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "Leica has an agreement with their vendors nationwide. FLT Geosystems is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Permanent Reference Network (FPRN) sites statewide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": null,
+   "part": "CCPs (surveying equipment component)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "Leica has an agreement with their vendors nationwide. FLT Geosystems is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Permanent Reference Network (FPRN) sites statewide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": null,
+   "part": "Accessories for GR50/AR20 surveying equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 362820.0,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "Leica has an agreement with their vendors nationwide. FLT Geosystems is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Permanent Reference Network (FPRN) sites statewide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2540,
+  "out": 1428
+ },
+ "model": "claude-sonnet-5"
+}

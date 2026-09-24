@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Thermo Fisher Scientific",
+   "model": null,
+   "part": "Maintenance and repair services by the Original Equipment Manufacturer (OEM) for Specialized Analytical Scientific Laboratory Instrumentation",
+   "part_numbers": [],
+   "quantity": "12 months",
+   "price_usd": 49353.24,
+   "lead_time": null,
+   "sole_source_vendor": "Thermo Electron North America LLC",
+   "reason": "Thermo Fisher Scientific is the sole source equipment manufacturer and service provider for all Thermo Fisher Scientific instruments, parts, training, technical support, field service support, and software.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3121,
+  "out": 254
+ },
+ "model": "claude-sonnet-5"
+}

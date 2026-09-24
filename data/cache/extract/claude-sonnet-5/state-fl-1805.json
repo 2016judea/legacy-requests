@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Aspen Aerials, Inc.",
+   "model": "A-62T",
+   "part": "Under Bridge Inspection Machine (truck-mounted)",
+   "part_numbers": [],
+   "quantity": "Two (2) Years",
+   "price_usd": 4666625.0,
+   "lead_time": null,
+   "sole_source_vendor": "Aspen Aerials, Inc.",
+   "reason": "Aspen Aerials is the only manufacturer that can supply a unit with all the features listed below.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3123,
+  "out": 200
+ },
+ "model": "claude-sonnet-5"
+}

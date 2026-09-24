@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Northrop Grumman Corporation",
+   "model": "LInX",
+   "part": "Maintenance and support of the Florida Regional LInX system (data extraction, matching, workflow software) and integration of FDC/FHP data sources",
+   "part_numbers": [],
+   "quantity": "Six (6) months",
+   "price_usd": 44000,
+   "lead_time": null,
+   "sole_source_vendor": "Peraton, Inc.",
+   "reason": "Peraton, Inc. is the sole provider of maintenance, enhancements, and changes to the LInX system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida Regional LInX node",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2881,
+  "out": 231
+ },
+ "model": "claude-sonnet-5"
+}

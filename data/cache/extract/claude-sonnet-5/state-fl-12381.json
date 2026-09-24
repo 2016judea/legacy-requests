@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "EcoCounter",
+   "model": "PRO Evo Counter",
+   "part": "Automated vehicle and pedestrian counters for use at Wildlife Management Area entrances, trailheads, and other locations",
+   "part_numbers": [],
+   "quantity": "49 PRO Evo Counters & 5 Spare Pyro Evo Counters",
+   "price_usd": 362570.0,
+   "lead_time": null,
+   "sole_source_vendor": "EcoCounter",
+   "reason": "This vendor exclusively produces vehicle and pedestrian counters and services meeting the required specifications needed for the collection of visitation data.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Wildlife Management Area entrances, trailheads, and other locations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "EcoCounter",
+   "model": null,
+   "part": "1 year Software Subscription and shipping for EcoCounter traffic counters",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "EcoCounter",
+   "reason": "This vendor exclusively produces vehicle and pedestrian counters and services meeting the required specifications needed for the collection of visitation data.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Wildlife Management Area entrances, trailheads, and other locations",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3073,
+  "out": 1626
+ },
+ "model": "claude-sonnet-5"
+}

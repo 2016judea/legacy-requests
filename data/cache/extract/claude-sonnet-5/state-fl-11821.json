@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "netDMS",
+   "part": "Software licenses, maintenance and support, end-user training and documentation, and installation and configuration for ADSync and the Standard Retention modules in the netDMS System",
+   "part_numbers": [],
+   "quantity": "Thirty-six (36) months (July 1, 2025, through June 30, 2028)",
+   "price_usd": 260396.48,
+   "lead_time": null,
+   "sole_source_vendor": "Vista Solutions Group, LP",
+   "reason": "Vista Solutions Group is the only vendor that can provide the maintenance and support for the proprietary netDMS software utilized by the Department.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Department of Financial Services, Division of Accounting and Auditing, Division of Unclaimed Property, and Office of the General Counsel",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2944,
+  "out": 504
+ },
+ "model": "claude-sonnet-5"
+}

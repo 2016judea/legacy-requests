@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "AB Sciex",
+   "model": "SCIEX Triple Quad 7500 System",
+   "part": "Procurement of a SCIEX Triple Quad 7500 System; an enhanced high-performance triple Quadrupole LC-MS/MS Mass Spectrometer.",
+   "part_numbers": [],
+   "quantity": "Approximately 12 months",
+   "price_usd": 520182.79,
+   "lead_time": null,
+   "sole_source_vendor": "AB Sciex, LLC",
+   "reason": "The LC/MSMS specifications, computer software, and data file format for the new instrument must be compatible with our existing equipment to maintain consistency, exchangeability, and integration.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Labs, Chemistry Program",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3168,
+  "out": 305
+ },
+ "model": "claude-sonnet-5"
+}

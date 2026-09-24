@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Parker",
+   "model": "2520 XLD",
+   "part": "Purchase of one (1) 2023 Parker 2520 XLD, 25 ft boat with twin Yamaha F-200's XCA",
+   "part_numbers": [],
+   "quantity": "One (1) Each",
+   "price_usd": 164133.0,
+   "lead_time": null,
+   "sole_source_vendor": "Big Bend Marine",
+   "reason": "Big Bend Marine is the solitary vendor for Parker Boats for the region that includes Tallahassee, Florida. Parker Boats strictly enforces territorial boundaries as to where boats can be purchased.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Yamaha",
+   "model": "F-200 XCA",
+   "part": "Twin outboard engines for vessel",
+   "part_numbers": [],
+   "quantity": "Two (2)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Big Bend Marine",
+   "reason": "Big Bend Marine is the solitary vendor for Parker Boats for the region that includes Tallahassee, Florida. Parker Boats strictly enforces territorial boundaries as to where boats can be purchased.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2709,
+  "out": 454
+ },
+ "model": "claude-sonnet-5"
+}

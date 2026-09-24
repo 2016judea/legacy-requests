@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Blink",
+   "model": null,
+   "part": "Blink Mobile Charger portable EV charging unit (gas-powered generator, 240V AC, 32 amps, 7.7 kW continuous power)",
+   "part_numbers": [],
+   "quantity": "32",
+   "price_usd": 140000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Blink Network LLC",
+   "reason": "Blink is the only known unit able to charge a fully discharged EV and provide approximately one mile of range every three minutes.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Blink",
+   "model": null,
+   "part": "Wall Mount for Blink Mobile Charger",
+   "part_numbers": [],
+   "quantity": "32",
+   "price_usd": 140000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Blink Network LLC",
+   "reason": "Blink is the only known vendor with a solution that fits the Department's size and performance requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2826,
+  "out": 368
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Viken Detection",
+   "model": "Nighthawk - BTX",
+   "part": "Portable X-Ray Machine with DTX Transmission Arm accessory for backscatter and transmission imaging with lead detection",
+   "part_numbers": [],
+   "quantity": "One (1) Unit",
+   "price_usd": 65000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Viken Detection",
+   "reason": "Viken Detection is the only company with the ability to detect lead and provide Backscatter and Transmission X-ray images using an attached accessory \u2013 the DTX arm.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2888,
+  "out": 675
+ },
+ "model": "claude-sonnet-5"
+}

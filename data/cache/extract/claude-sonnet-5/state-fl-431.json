@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Berla Corporation",
+   "model": "iVe Toolkit",
+   "part": "iVe Toolkit, associated service, maintenance, support plans, and training for vehicle forensics",
+   "part_numbers": [],
+   "quantity": "Three (3) iVe Toolkits, Training for four (4) staff",
+   "price_usd": 46500,
+   "lead_time": null,
+   "sole_source_vendor": "Berla Corporation",
+   "reason": "Berla Corporation is the creator and sole vendor capable of providing the iVe Toolkit for vehicle forensics and investigation purposes.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2915,
+  "out": 233
+ },
+ "model": "claude-sonnet-5"
+}

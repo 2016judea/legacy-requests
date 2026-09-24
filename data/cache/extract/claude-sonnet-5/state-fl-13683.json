@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Satellite Industries, Inc.",
+   "model": "28 FT 11-Station Restroom Trailer",
+   "part": "28 FT 11-Station Restroom Trailer",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Satellite Industries, Inc.",
+   "reason": "Satellite Industries, Inc. is the only known manufacturer/vendor that can meet FDOT\u2019s required specifications and provide all of the specific trailers needed",
+   "equipment_class": "other equipment",
+   "installed_location": "FDOT Base Camps",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Satellite Industries, Inc.",
+   "model": "28 FT 8D Shower Trailer",
+   "part": "28 FT 8D Shower Trailer",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Satellite Industries, Inc.",
+   "reason": "Satellite Industries, Inc. is the only known manufacturer/vendor that can meet FDOT\u2019s required specifications and provide all of the specific trailers needed",
+   "equipment_class": "other equipment",
+   "installed_location": "FDOT Base Camps",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Satellite Industries, Inc.",
+   "model": "44 FT 12 Z Bunk Station Trailer",
+   "part": "44 FT 12 Z Bunk Station Trailers",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Satellite Industries, Inc.",
+   "reason": "Satellite Industries, Inc. is the only known manufacturer/vendor that can meet FDOT\u2019s required specifications and provide all of the specific trailers needed",
+   "equipment_class": "other equipment",
+   "installed_location": "FDOT Base Camps",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2730,
+  "out": 1113
+ },
+ "model": "claude-sonnet-5"
+}

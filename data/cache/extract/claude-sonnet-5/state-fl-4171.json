@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Enzyme-linked Immunosorbent Assay (ELISA) testing kits for the measurement of brevetoxin in seafood",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 750000,
+   "lead_time": null,
+   "sole_source_vendor": "SeaTox",
+   "reason": "The brevetoxin ELISA kit is the only test kit approved by the Interstate Shellfish Sanitation Conference for testing shellfish for Neurotoxic Shellfish Poisoning (NSP) within a regulatory framework",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2985,
+  "out": 336
+ },
+ "model": "claude-sonnet-5"
+}

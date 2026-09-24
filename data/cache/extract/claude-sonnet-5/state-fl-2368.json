@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica Geosystems",
+   "model": "FPRN Spider",
+   "part": "Statewide and FPRN software and equipment customer care packages",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Leica Geosystems, Inc.",
+   "reason": "The Department of Transportation intends to enter into a single source contract with Leica Geosystems, Inc. for Statewide and FPRN software and equipment customer care packages.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2069,
+  "out": 209
+ },
+ "model": "claude-sonnet-5"
+}

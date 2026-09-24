@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica Geosystems",
+   "model": null,
+   "part": "Customer Care Package (CCP) renewal for FPRN Equipment, Statewide Equipment and Statewide Software",
+   "part_numbers": [],
+   "quantity": "One (1) Year",
+   "price_usd": 202000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Level & Transit Co., Inc.",
+   "reason": "Florida Level & Transit Co., Inc., based in Ft. Lauderdale, Florida, is the sole authorized distribution partner in Florida for Leica Geosystems\u2019 FPRN Equipment, Statewide Equipment and Statewide Software Customer Care Packages (CCPs). There are no other known providers of these goods and services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2654,
+  "out": 294
+ },
+ "model": "claude-sonnet-5"
+}

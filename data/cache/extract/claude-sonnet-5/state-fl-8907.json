@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Veritec Solutions, LLC",
+   "model": "Deferred Presentment Transaction System (DPTS)",
+   "part": "Software license, call center support, invoicing, hosting, operations, and ongoing maintenance services for existing DPTS",
+   "part_numbers": [],
+   "quantity": "July 1, 2024 - June 30, 2027 (36 Months)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Catalis Regulatory & Compliance, LLC",
+   "reason": "The DPTS\u2019 proprietary solution and underlying database are accessible only through the Catalis online portal, and its hosting, operations and maintenance may only be provided by Catalis.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2973,
+  "out": 274
+ },
+ "model": "claude-sonnet-5"
+}

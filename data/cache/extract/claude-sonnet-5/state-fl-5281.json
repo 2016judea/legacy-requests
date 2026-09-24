@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Development and maintenance/support of the Grant Application Process (GAP) system, including MPO Advertisements and Contract Entry and the Sub-Recipient Compliance Assessment Tool (SCAT)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 70365.8,
+   "lead_time": null,
+   "sole_source_vendor": "Panther International, LLC",
+   "reason": "Panther International separately maintains and supports the GAP and is the only known vendor who is able to implement updates and new configurations to the system.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2480,
+  "out": 492
+ },
+ "model": "claude-sonnet-5"
+}

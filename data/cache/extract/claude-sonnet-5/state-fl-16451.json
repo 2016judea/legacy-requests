@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Modified solution for uploader process for file transfer between FPICN and ESSENCE-FL using NPDS Uploader XML upload method",
+   "part_numbers": [],
+   "quantity": "1 year service",
+   "price_usd": 48000.0,
+   "lead_time": null,
+   "sole_source_vendor": "NLP Logix",
+   "reason": "NLP Logix developed, tested, and currently maintains this codebase for the process for FPICN, no other vendor possesses the necessary code source access, configuration knowledge, or operational expertise to modify and extend this platform for our use in ESSENCE-FL.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2728,
+  "out": 387
+ },
+ "model": "claude-sonnet-5"
+}

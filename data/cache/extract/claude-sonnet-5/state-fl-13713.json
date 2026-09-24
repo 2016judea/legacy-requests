@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Dragon Fire",
+   "model": "Dragon Egg Ignition Spheres",
+   "part": "Controlled Burns Ignition Spheres",
+   "part_numbers": [],
+   "quantity": "Date of Execution thru June 30, 2026",
+   "price_usd": 100000.0,
+   "lead_time": null,
+   "sole_source_vendor": "HELIFIRE, LLC dba FIELD SUPPORT SERVICES",
+   "reason": "Helifire LLC, doing business as Field Support Services, is the exclusive U.S. distributor for Dragon Fire products and is the only distributor capable of fulfilling large orders as required by the Florida Forest Service.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3038,
+  "out": 258
+ },
+ "model": "claude-sonnet-5"
+}

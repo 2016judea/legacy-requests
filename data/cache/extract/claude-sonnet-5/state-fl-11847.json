@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "FIRELAKE\u00ae C6-200",
+   "part": "Purchase, Installation and Training for Three (3) FIRELAKE\u00ae C6-200 Incinerators",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": 41900,
+   "lead_time": null,
+   "sole_source_vendor": "Mountain State Equipment",
+   "reason": "Mountain State Equipment is the only vendor authorized to sell this unit to the State of Florida; and sells the only unit that meets the size/capacity requirements known to the department.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3096,
+  "out": 218
+ },
+ "model": "claude-sonnet-5"
+}

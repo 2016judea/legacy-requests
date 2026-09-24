@@ -1,0 +1,173 @@
+{
+ "records": [
+  {
+   "manufacturer": "RANDOX",
+   "model": "Biochip Array \"Evidence\" Analyzer",
+   "part": "ELISA Chemiluminescent Biochip Array Analyzer Kit and commodities",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 251518.8,
+   "lead_time": null,
+   "sole_source_vendor": "RANDOX",
+   "reason": "RANDOX is the only supplier of a commercially chemiluminescent biochip array technology instruments and reagents kits commercially available for use in forensic laboratories.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensics Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "RANDOX",
+   "model": "Biochip Array \"Evidence\" Analyzer",
+   "part": "DoA Ultra Blood Kit",
+   "part_numbers": [
+    "EV4055"
+   ],
+   "quantity": "30",
+   "price_usd": 3800,
+   "lead_time": null,
+   "sole_source_vendor": "RANDOX",
+   "reason": "RANDOX is the only supplier of a commercially chemiluminescent biochip array technology instruments and reagents kits commercially available for use in forensic laboratories.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensics Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "RANDOX",
+   "model": "Biochip Array \"Evidence\" Analyzer",
+   "part": "DoA Ultra Blood Calibration",
+   "part_numbers": [
+    "EV4057"
+   ],
+   "quantity": "20",
+   "price_usd": 200,
+   "lead_time": null,
+   "sole_source_vendor": "RANDOX",
+   "reason": "RANDOX is the only supplier of a commercially chemiluminescent biochip array technology instruments and reagents kits commercially available for use in forensic laboratories.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensics Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "RANDOX",
+   "model": "Biochip Array \"Evidence\" Analyzer",
+   "part": "DoA Ultra Blood Controls",
+   "part_numbers": [
+    "EV4058"
+   ],
+   "quantity": "20",
+   "price_usd": 270,
+   "lead_time": null,
+   "sole_source_vendor": "RANDOX",
+   "reason": "RANDOX is the only supplier of a commercially chemiluminescent biochip array technology instruments and reagents kits commercially available for use in forensic laboratories.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensics Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "RANDOX",
+   "model": "Biochip Array \"Evidence\" Analyzer",
+   "part": "DoA Ultra Urine Kit",
+   "part_numbers": [
+    "EV4102"
+   ],
+   "quantity": "25",
+   "price_usd": 3800,
+   "lead_time": null,
+   "sole_source_vendor": "RANDOX",
+   "reason": "RANDOX is the only supplier of a commercially chemiluminescent biochip array technology instruments and reagents kits commercially available for use in forensic laboratories.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensics Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "RANDOX",
+   "model": "Biochip Array \"Evidence\" Analyzer",
+   "part": "DoA Ultra Urine Calibrator",
+   "part_numbers": [
+    "EV4104"
+   ],
+   "quantity": "20",
+   "price_usd": 200,
+   "lead_time": null,
+   "sole_source_vendor": "RANDOX",
+   "reason": "RANDOX is the only supplier of a commercially chemiluminescent biochip array technology instruments and reagents kits commercially available for use in forensic laboratories.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensics Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "RANDOX",
+   "model": "Biochip Array \"Evidence\" Analyzer",
+   "part": "DoA Ultra Urine Controls",
+   "part_numbers": [
+    "EV4105"
+   ],
+   "quantity": "20",
+   "price_usd": 270,
+   "lead_time": null,
+   "sole_source_vendor": "RANDOX",
+   "reason": "RANDOX is the only supplier of a commercially chemiluminescent biochip array technology instruments and reagents kits commercially available for use in forensic laboratories.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensics Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "RANDOX",
+   "model": "Biochip Array \"Evidence\" Analyzer",
+   "part": "Signal Reagent EV841",
+   "part_numbers": [
+    "EV3718"
+   ],
+   "quantity": "20",
+   "price_usd": 350,
+   "lead_time": null,
+   "sole_source_vendor": "RANDOX",
+   "reason": "RANDOX is the only supplier of a commercially chemiluminescent biochip array technology instruments and reagents kits commercially available for use in forensic laboratories.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensics Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "RANDOX",
+   "model": "Biochip Array \"Evidence\" Analyzer",
+   "part": "Wash Solution",
+   "part_numbers": [
+    "EV3581"
+   ],
+   "quantity": "20",
+   "price_usd": 225,
+   "lead_time": null,
+   "sole_source_vendor": "RANDOX",
+   "reason": "RANDOX is the only supplier of a commercially chemiluminescent biochip array technology instruments and reagents kits commercially available for use in forensic laboratories.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensics Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "RANDOX",
+   "model": "Biochip Array \"Evidence\" Analyzer",
+   "part": "Displacement Fluid",
+   "part_numbers": [
+    "EV3580"
+   ],
+   "quantity": "20",
+   "price_usd": 225,
+   "lead_time": null,
+   "sole_source_vendor": "RANDOX",
+   "reason": "RANDOX is the only supplier of a commercially chemiluminescent biochip array technology instruments and reagents kits commercially available for use in forensic laboratories.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensics Laboratory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6684,
+  "out": 2850
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,33 @@
+{
+ "records": [
+  {
+   "manufacturer": "Marsh Master",
+   "model": "MM-2MX-KC-FF",
+   "part": "Tracked amphibious vehicle with Fire Package, rotary cutter attachment, and trailer for wetland resource management",
+   "part_numbers": [
+    "MM-2MX-KC-FF",
+    "MM-2MX",
+    "MM-2 TRLR"
+   ],
+   "quantity": "One-time purchase upon execution of a purchase order.",
+   "price_usd": 245640.0,
+   "lead_time": null,
+   "sole_source_vendor": "Coast Machinery, LLC dba Marsh Master",
+   "reason": "An internet search was conducted to see if there were comparable amphibious vehicles to the Marsh Master. The other brands discovered did not have the implement flexibility of the Marsh Master",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Yellow River Marsh Preserve State Park, District 1 State Parks",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3076,
+  "out": 630
+ },
+ "model": "claude-sonnet-5"
+}

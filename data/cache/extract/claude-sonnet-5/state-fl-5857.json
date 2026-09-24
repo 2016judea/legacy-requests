@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Gradall",
+   "model": "XL4100 II",
+   "part": "Repair of Power Take Off units for front and rear pumps on Gradall Excavator",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 41884.7,
+   "lead_time": null,
+   "sole_source_vendor": "Great Southern Equipment LLC",
+   "reason": "Great Southern Equipment LLC. (GSE) is the sole source dealer and service provider for Gradall equipment in Florida.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Brooksville Operations",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2906,
+  "out": 211
+ },
+ "model": "claude-sonnet-5"
+}

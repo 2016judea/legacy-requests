@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Porter Lee Corporation",
+   "model": "LIMS",
+   "part": "Maintenance and Technical Support Services for the Laboratory Information Management System (LIMS)",
+   "part_numbers": [],
+   "quantity": "Three (3) years",
+   "price_usd": 810000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Porter Lee Corporation",
+   "reason": "The Porter Lee Corporation is the only firm that can provide end-to-end support for the LIMS, including preventive maintenance, remedial maintenance, configuration management, system administration, performance tuning, system upgrades and programming.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "FDLE Regional laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2863,
+  "out": 256
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "SAS Institute, Inc.",
+   "model": "Master Data Management Advanced (MDMA)",
+   "part": "SAS consulting services for implementing MDMA, SAS Analytics, EVAAS, BI, and Visual Analytics software",
+   "part_numbers": [],
+   "quantity": "3 years (6/1/2024 \u2013 5/30/2027)",
+   "price_usd": 900000.0,
+   "lead_time": null,
+   "sole_source_vendor": "The SAS Institute, Inc.",
+   "reason": "Consulting services for configuration, sizing, and deployments involving MDMA, and BI reporting software are exclusively available through the SAS Institute, Inc. and necessary to address the Department's objectives.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2907,
+  "out": 277
+ },
+ "model": "claude-sonnet-5"
+}

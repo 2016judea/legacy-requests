@@ -1,0 +1,367 @@
+{
+ "records": [
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "HI-DI Formamide Bottle 25ML",
+   "part_numbers": [
+    "4311320"
+   ],
+   "quantity": "Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "FG, 7500 Spectral Dye Cal Kit Each",
+   "part_numbers": [
+    "4349180"
+   ],
+   "quantity": "Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "POP-4 (384) Polymer 3500 Series Each",
+   "part_numbers": [
+    "4393715"
+   ],
+   "quantity": "Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "Conditioning Reagant 3500 Series Each",
+   "part_numbers": [
+    "4393718"
+   ],
+   "quantity": "Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "Anode BFFR Containr 3500 Series Each",
+   "part_numbers": [
+    "4393927"
+   ],
+   "quantity": "Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "Capillary Array 8-Cap 36CM RUO Each",
+   "part_numbers": [
+    "4404683"
+   ],
+   "quantity": "Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "Cathode BFR Containr 3500 SER Each",
+   "part_numbers": [
+    "4408256"
+   ],
+   "quantity": "Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "Genescan-600 Liz Size STD V2.0 Each",
+   "part_numbers": [
+    "4408399"
+   ],
+   "quantity": "Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "DS-36 Matrix Standard Kit (Dye Set J6)",
+   "part_numbers": [
+    "4425042"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "FG, Globalfiler Kit Each",
+   "part_numbers": [
+    "4476135"
+   ],
+   "quantity": "Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "YFiler Plus Kit (500x) Each",
+   "part_numbers": [
+    "4482730"
+   ],
+   "quantity": "Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "Quantifiler Trio Kit Each",
+   "part_numbers": [
+    "4482910"
+   ],
+   "quantity": "Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "AB Rhid ACE Gfe 50 Smpl Kit Each",
+   "part_numbers": [
+    "A41831"
+   ],
+   "quantity": "Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "AB Rhid Primary CTRG GFE 150 Each",
+   "part_numbers": [
+    "453084"
+   ],
+   "quantity": "Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "96WSTD Calibration Plate w/ABY ABY Dye",
+   "part_numbers": [
+    "4461591"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "96WSTD Calibration Place W/JUN JUN Dye",
+   "part_numbers": [
+    "4461593"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "96 Well Cal Plate W/MP Dye MP Dye",
+   "part_numbers": [
+    "4461599"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "SEQSTUDIO 24-CAP, 36CM, RUO Each",
+   "part_numbers": [
+    "A49105"
+   ],
+   "quantity": "Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "Capillary Array 24-CAP 36CM RUO",
+   "part_numbers": [
+    "4404687"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "Rapidhit ID GFE Cntrl 5 Sample Crtrdg Kit",
+   "part_numbers": [
+    "400096RH"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "Rapidintel Plus Positive Cart Each",
+   "part_numbers": [
+    "A54342"
+   ],
+   "quantity": "Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole manufacturer and distributor of all Life Technologies kits, reagents, capillaries, and related consumables used in conjunction with these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "Rapidintel Plus Negative Cart Each",
+   "part_numbers": [
+    "A54343"
+   ],
+   "quantity": "Each",
+   "price_usd": 487356.79,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "There are no other manufacturers that offer systems that match the unique specifications and capabilities of the Life Technologies AmpFISTR\ffPCR Amplification Kits.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi Forensic Laboratory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8268,
+  "out": 5214
+ },
+ "model": "claude-sonnet-5"
+}

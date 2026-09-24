@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trane",
+   "model": "Tracer Building Automation System",
+   "part": "Upgrade to Building Automation System (BAS) at FHP office",
+   "part_numbers": [],
+   "quantity": "Fiscal Year 2021-2022",
+   "price_usd": 119953,
+   "lead_time": null,
+   "sole_source_vendor": "South Florida Trane",
+   "reason": "South Florida Trane is the Original Equipment Manufacturer (OEM) sole source provider of the Trane Tracer Building Automation and Mechanical Systems equipment, and the only vendor that can provide Trane service and installations.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida Highway Patrol (FHP) office located in Davie, Florida",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trane",
+   "model": "Trane chillers",
+   "part": "Mechanical maintenance for Trane chillers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "South Florida Trane",
+   "reason": "Trane currently provides the mechanical maintenance at the FHP Davie location for the Trane chillers and Trane HVAC air handling unit (AHUs) on site.",
+   "equipment_class": "HVAC",
+   "installed_location": "Florida Highway Patrol (FHP) office located in Davie, Florida",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trane",
+   "model": "HVAC air handling units (AHUs)",
+   "part": "Mechanical maintenance for Trane HVAC air handling units",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "South Florida Trane",
+   "reason": "Trane currently provides the mechanical maintenance at the FHP Davie location for the Trane chillers and Trane HVAC air handling unit (AHUs) on site.",
+   "equipment_class": "HVAC",
+   "installed_location": "Florida Highway Patrol (FHP) office located in Davie, Florida",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2938,
+  "out": 933
+ },
+ "model": "claude-sonnet-5"
+}

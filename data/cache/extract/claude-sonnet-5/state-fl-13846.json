@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Byers Engineering Company",
+   "model": "NexusWorx",
+   "part": "Annual maintenance and hosting of the ITSFM System's software and hardware",
+   "part_numbers": [],
+   "quantity": "One (1) year",
+   "price_usd": 124402.0,
+   "lead_time": null,
+   "sole_source_vendor": "Byers Engineering Company",
+   "reason": "Byers Engineering is the developer of this proprietary software and is the only known vendor who is able to provide the required hosting and maintenance.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2611,
+  "out": 208
+ },
+ "model": "claude-sonnet-5"
+}

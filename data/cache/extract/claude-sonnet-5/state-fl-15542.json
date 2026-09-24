@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "TRAKKA SYSTEMS",
+   "model": "TC-375",
+   "part": "Purchase of TRAKKA high performance multi-sensor surveillance equipment",
+   "part_numbers": [],
+   "quantity": "up to 3",
+   "price_usd": 672923.0,
+   "lead_time": null,
+   "sole_source_vendor": "TRAKKA SYSTEMS",
+   "reason": "TRAKKA equipment will the most capable and is compatable with the existing TRAKKA equipment already incorporated into the fleet for comformity.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2671,
+  "out": 214
+ },
+ "model": "claude-sonnet-5"
+}

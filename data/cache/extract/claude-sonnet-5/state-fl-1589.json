@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Layered Solutions Inc.",
+   "model": null,
+   "part": "LSI proprietary software and mass notification software support, configuration, and training",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Layered Solutions Inc.",
+   "reason": "Layered Solutions Inc. (LSI) is the sole manufacturer and software support provider of the LSI software and mass notification software solutions that have been fully integrated and implemented with the FSDB mass notification system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2277,
+  "out": 242
+ },
+ "model": "claude-sonnet-5"
+}

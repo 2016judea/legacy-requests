@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "US Foundry & Mfg., Corp.",
+   "model": null,
+   "part": "Special logo manhole covers and iron rings",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 41000.0,
+   "lead_time": null,
+   "sole_source_vendor": "US Foundry & Mfg., Corp.",
+   "reason": "USF is the only manufacturer of this special LOGO Cover. We do not know of any other manufacturer that has this logo plate.",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2395,
+  "out": 213
+ },
+ "model": "claude-sonnet-5"
+}

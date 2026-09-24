@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trane",
+   "model": "CenTraVac",
+   "part": "Rebuild and recertify 150-ton CenTraVac Chiller including materials, labor, and warranty using the CenTraVac R'Newal Service Program",
+   "part_numbers": [],
+   "quantity": "150 ton",
+   "price_usd": 388928.85,
+   "lead_time": "12/1/2024 - 11/30/2029 (inclusive of 5 year maintenance and warranty period)",
+   "sole_source_vendor": "Trane US Inc",
+   "reason": "Trane US Inc is an exclusive proprietary comprehensive factory warranted solution design to restore critical components of the Commerce CenTraVac Unit.",
+   "equipment_class": "HVAC",
+   "installed_location": "Commerce",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2660,
+  "out": 268
+ },
+ "model": "claude-sonnet-5"
+}

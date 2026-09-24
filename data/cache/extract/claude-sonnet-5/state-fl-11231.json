@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Fesco",
+   "model": "Modular Harrow",
+   "part": "Agricultural machinery - Modular Harrow used for maintaining and establishing fire lines",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 96500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Oliver and Dahlman Equipment Company, Inc.",
+   "reason": "Oliver and Dahlman Equipment Company, Inc. is the only known manufacuter of the Fesco Model, Modular harrow specifically made to fit our district's equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "Blackwater Forestry Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3100,
+  "out": 238
+ },
+ "model": "claude-sonnet-5"
+}

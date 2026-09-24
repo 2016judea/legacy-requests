@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "BioM\u00e9rieux",
+   "model": null,
+   "part": "Test kits, reagents, assay cartridges, calibrators, and control materials used with BioM\u00e9rieux pathogen detection instruments",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 75000.0,
+   "lead_time": null,
+   "sole_source_vendor": "BioM\u00e9rieux, Inc.",
+   "reason": "All BioM\u00e9rieux test kits, reagents, cartridges, calibrators, and controls are proprietary and can only be supplied by BioM\u00e9rieux.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Food Safety, Bureau of Laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2946,
+  "out": 238
+ },
+ "model": "claude-sonnet-5"
+}

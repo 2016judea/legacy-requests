@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": "Thermo Fisher Scientific",
+   "model": null,
+   "part": "AS-AP Autosampler (Serial Number: 15121935)",
+   "part_numbers": [
+    "079656"
+   ],
+   "quantity": "1",
+   "price_usd": 2588.0,
+   "lead_time": null,
+   "sole_source_vendor": "Thermo Electron North America, LLC",
+   "reason": "Thermo Fisher Scientific is the sole source equipment manufacturer and service provider for all Thermo Fisher Scientific instruments, parts, training, technical support, field service support, and software.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thermo Fisher Scientific",
+   "model": null,
+   "part": "AS-AP Autosampler (Serial Number: 15121405)",
+   "part_numbers": [
+    "079656"
+   ],
+   "quantity": "1",
+   "price_usd": 2588.0,
+   "lead_time": null,
+   "sole_source_vendor": "Thermo Electron North America, LLC",
+   "reason": "Thermo Fisher Scientific is the sole source equipment manufacturer and service provider for all Thermo Fisher Scientific instruments, parts, training, technical support, field service support, and software.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thermo Fisher Scientific",
+   "model": null,
+   "part": "Detector Compartment, Dual Temperature Z (Serial Number: 15120244)",
+   "part_numbers": [
+    "075940"
+   ],
+   "quantity": "1",
+   "price_usd": 3443.0,
+   "lead_time": null,
+   "sole_source_vendor": "Thermo Electron North America, LLC",
+   "reason": "Thermo Fisher Scientific is the sole source equipment manufacturer and service provider for all Thermo Fisher Scientific instruments, parts, training, technical support, field service support, and software.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thermo Fisher Scientific",
+   "model": null,
+   "part": "Dual Pump, Analytical Isocratic (Serial Number: 15121921)",
+   "part_numbers": [
+    "075927"
+   ],
+   "quantity": "1",
+   "price_usd": 5343.0,
+   "lead_time": null,
+   "sole_source_vendor": "Thermo Electron North America, LLC",
+   "reason": "Thermo Fisher Scientific is the sole source equipment manufacturer and service provider for all Thermo Fisher Scientific instruments, parts, training, technical support, field service support, and software.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thermo Fisher Scientific",
+   "model": null,
+   "part": "Eluent Generator (Serial Number: 15120126)",
+   "part_numbers": [
+    "075776"
+   ],
+   "quantity": "1",
+   "price_usd": 1916.0,
+   "lead_time": null,
+   "sole_source_vendor": "Thermo Electron North America, LLC",
+   "reason": "Thermo Fisher Scientific is the sole source equipment manufacturer and service provider for all Thermo Fisher Scientific instruments, parts, training, technical support, field service support, and software.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thermo Fisher Scientific",
+   "model": null,
+   "part": "Conductivity Detector (Serial Number: 15112466)",
+   "part_numbers": [
+    "061830"
+   ],
+   "quantity": "1",
+   "price_usd": 564.0,
+   "lead_time": null,
+   "sole_source_vendor": "Thermo Electron North America, LLC",
+   "reason": "Thermo Fisher Scientific is the sole source equipment manufacturer and service provider for all Thermo Fisher Scientific instruments, parts, training, technical support, field service support, and software.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thermo Fisher Scientific",
+   "model": null,
+   "part": "Conductivity Detector (Serial Number: 1511246...)",
+   "part_numbers": [
+    "061830"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Thermo Electron North America, LLC",
+   "reason": "Thermo Fisher Scientific is the sole source equipment manufacturer and service provider for all Thermo Fisher Scientific instruments, parts, training, technical support, field service support, and software.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thermo Fisher Scientific",
+   "model": null,
+   "part": "Unity Lab Services Essential Service Plan - ION Chromatography and ICP-MS Service Plan (maintenance and repair services)",
+   "part_numbers": [],
+   "quantity": "12 months",
+   "price_usd": 46558.8,
+   "lead_time": null,
+   "sole_source_vendor": "Thermo Electron North America, LLC",
+   "reason": "No other vendors are authorized to provide OEM certified repair and maintenance services for this equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3382,
+  "out": 2587
+ },
+ "model": "claude-sonnet-5"
+}

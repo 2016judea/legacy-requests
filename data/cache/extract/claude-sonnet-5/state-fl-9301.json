@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Environmental Systems Research Institute (ESRI)",
+   "model": null,
+   "part": "Geographic Information System Software Annual Maintenance - ESRI products: Online, Desktop and Server",
+   "part_numbers": [],
+   "quantity": "July 1, 2024 - June 30, 2025",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute, Inc. (ESRI)",
+   "reason": "Software maintenance needed to maintain the division's critical desktop, server and online GIS software used for spatially enabling critical datasets, analyzing potential impacts from disasters, analyzing damage assessments post disaster and providing a common operational picture during and after disaster operations.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2477,
+  "out": 287
+ },
+ "model": "claude-sonnet-5"
+}

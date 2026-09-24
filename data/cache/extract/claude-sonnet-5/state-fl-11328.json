@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Yokogawa Fluid Imaging Technologies, Inc.",
+   "model": "FlowCam\u00ae Cyano",
+   "part": "FlowCam\u00ae Cyano Flow Cytometer Microscopy Imaging System",
+   "part_numbers": [],
+   "quantity": "Twelve (12) months",
+   "price_usd": 133000,
+   "lead_time": null,
+   "sole_source_vendor": "Yokogawa Fluid Imaging Technologies, Inc.",
+   "reason": "The FlowCam\u00ae Cyano technology is covered under various U.S. and international patents, and Yokogawa Fluid Imaging Technologies, Inc. is the sole manufacturer and sole distributor of the FlowCam\u00ae in the United States and Canada.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2975,
+  "out": 284
+ },
+ "model": "claude-sonnet-5"
+}

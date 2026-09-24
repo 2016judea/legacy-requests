@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "WheelRight",
+   "model": "TMS",
+   "part": "Service Plaza Tire Monitoring System - equipment, software, maintenance and license to measure passenger vehicle tire pressure and tire tread",
+   "part_numbers": [],
+   "quantity": "Three (3) years",
+   "price_usd": 2430500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Snider Fleet Solutions",
+   "reason": "WheelRight Limited holds patents on the drive-through WheelRight TMS the Department seeks to utilize. \u2022 Snider Fleet Solutions is the only authorized distributor of WheelRight\u2019s TMS.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida's Turnpike MP 263 Turkey Lake Service Plaza, Building 5315, Ocoee, FL 34761",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2788,
+  "out": 299
+ },
+ "model": "claude-sonnet-5"
+}

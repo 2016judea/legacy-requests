@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "QIAGEN",
+   "model": "QIAsymphony",
+   "part": "System used to analyze and sample DNA of crime-related specimens",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "QIAGEN, LLC",
+   "reason": "The QIAsymphony and QIAgility systems are the only ones that are validated to work with the QIAGEN EZ1 extraction robot already in place in FDLE\u2019s crime laboratories.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDLE crime laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "QIAGEN",
+   "model": "QIAgility",
+   "part": "Liquid handling system that augments the QIAsymphony",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "QIAGEN, LLC",
+   "reason": "The QIAsymphony and QIAgility systems are the only ones that are validated to work with the QIAGEN EZ1 extraction robot already in place in FDLE\u2019s crime laboratories.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDLE crime laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "QIAGEN",
+   "model": "EZ1 Advanced XL",
+   "part": "Accessories and maintenance for QIAGEN EZ1 Advanced XL platform",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "QIAGEN, LLC",
+   "reason": "In November 2011, Invitation to Bid 1257 established FDLE's platform for QIAGEN's EZ1 Advanced XL accessories and maintenance.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDLE crime laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "QIAGEN",
+   "model": "EZ1",
+   "part": "EZ1 extraction robot already in place in FDLE\u2019s crime laboratories",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "QIAGEN, LLC",
+   "reason": "The QIAsymphony and QIAgility systems are the only ones that are validated to work with the QIAGEN EZ1 extraction robot already in place in FDLE\u2019s crime laboratories.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDLE crime laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "QIAGEN",
+   "model": null,
+   "part": "Approved QIAGEN supplies and implements compatible with agency validated equipment and procedures",
+   "part_numbers": [],
+   "quantity": "40 QIAGEN instruments in operation",
+   "price_usd": 1700000.0,
+   "lead_time": null,
+   "sole_source_vendor": "QIAGEN, LLC",
+   "reason": "FDLE currently has 40 QIAGEN instruments in operation and these QIAGEN instruments require QIAGEN supplies and implements which can only be purchased through QIAGEN, LLC.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDLE crime laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2860,
+  "out": 1985
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Roche Diagnostics Corporation",
+   "model": "MagNa Pure 24",
+   "part": "Nucleic acid extraction instruments to replace existing MagNA Pure LC 2.0 and MagNA Pure Compact",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": 150000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Roche Diagnostics Corporation",
+   "reason": "Roche Diagnostics Corporation is the exclusive manufacturer and distributor of the MagNa Pure 24 instrument.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3078,
+  "out": 234
+ },
+ "model": "claude-sonnet-5"
+}

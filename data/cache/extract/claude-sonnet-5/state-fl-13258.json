@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Heartland School Solutions",
+   "model": "Mosaic Cloud",
+   "part": "Subscription for Mosaic Cloud Menu Planning & Nutrient Analysis, Ordering & Inventory software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 4200.0,
+   "lead_time": null,
+   "sole_source_vendor": "Heartland School Solutions",
+   "reason": "HSS is sole source supplier of the family of products for Mosaic software on premise, software as a service, maintenance, support, updates & training, including but not limited to the products listed below. HSS does not have authorized resellers.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB) Food Service Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Heartland School Solutions",
+   "model": "MealViewer Digital Suite",
+   "part": "Subscription for MealViewer Digital Suite software and Suite Mobile App",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Heartland School Solutions",
+   "reason": "HSS is sole source supplier of the family of products for Mosaic software on premise, software as a service, maintenance, support, updates & training, including but not limited to the products listed below. HSS does not have authorized resellers.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB) Food Service Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2465,
+  "out": 950
+ },
+ "model": "claude-sonnet-5"
+}

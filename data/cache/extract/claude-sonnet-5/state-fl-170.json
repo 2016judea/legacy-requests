@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Radiation Solutions Inc",
+   "model": "RSN-4-Short (He-3)",
+   "part": "Neutron Detectors, compatible with RSI mobile radiation detection systems",
+   "part_numbers": [
+    "RSN-4-Short"
+   ],
+   "quantity": "Two (2)",
+   "price_usd": 126400.0,
+   "lead_time": null,
+   "sole_source_vendor": "Radiation Solutions, Inc (RSI)",
+   "reason": "The RSI Model RSN-4-Short (He-3) Neutron Detectors are the only neutron detectors that are compatible with the RSI mobile radiation systems owned by the Bureau of Radiation Control.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3046,
+  "out": 262
+ },
+ "model": "claude-sonnet-5"
+}

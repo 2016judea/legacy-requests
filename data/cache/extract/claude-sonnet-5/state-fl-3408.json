@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Silikal",
+   "model": "61 CQ Decorative Quartz Flooring",
+   "part": "Acrylic flooring furnished and installed in food service area at Dade C.I.",
+   "part_numbers": [],
+   "quantity": "One (1) Year Term (12 months)",
+   "price_usd": 155687.0,
+   "lead_time": null,
+   "sole_source_vendor": "Silikal America",
+   "reason": "Silikal America is licensed by Silikal GmbH as the sole provider of Silikal products in North America.",
+   "equipment_class": "other equipment",
+   "installed_location": "Dade Correctional Institution",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2678,
+  "out": 223
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Octasic",
+   "model": "4 Channel 5G enabler solution",
+   "part": "4CH 5G Enabler Solution Units, Training, Maintenance and Support",
+   "part_numbers": [],
+   "quantity": "Up to 7 Units",
+   "price_usd": 2700000,
+   "lead_time": null,
+   "sole_source_vendor": "Tactical Support Equipment",
+   "reason": "The hardware is proprietary to and manufactured solely by Octasic. Training is an essential part of this purchase. The only vendor authorized to distribute the required hardware, software and associated training services in the United States is Tactical Support Equipment (TSE).",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3171,
+  "out": 248
+ },
+ "model": "claude-sonnet-5"
+}

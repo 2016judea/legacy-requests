@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "JEOL",
+   "model": "JEM-1400",
+   "part": "Preventative maintenance agreement for the Transmission Electron Microscope (TEM), including preventive maintenance visits, repair/emergency service, and proprietary software updates",
+   "part_numbers": [],
+   "quantity": "Three (3) years upon issuance of purchase order",
+   "price_usd": 150000.0,
+   "lead_time": null,
+   "sole_source_vendor": "JEOL USA, Inc.",
+   "reason": "JEOL USA, Inc. is the sole factory-authorized provider of sales and service for JEOL instrumentation within the United States and Canada.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Fish and Wildlife Research Institute, Ecosystem Assessment and Restoration, Harmful Algal Blooms",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3101,
+  "out": 292
+ },
+ "model": "claude-sonnet-5"
+}

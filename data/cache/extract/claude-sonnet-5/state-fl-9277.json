@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Foster + Freeman Ltd.",
+   "model": "VSC 9000",
+   "part": "VSC 9000 Video Spectral Comparator",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster + Freeman Ltd.",
+   "reason": "The Foster + Freeman VSC 9000 Video Spectral Comparator is needed by the Florida Lottery for necessary Law Enforcement investigations and other forensic purposes for its unique specifications",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2437,
+  "out": 225
+ },
+ "model": "claude-sonnet-5"
+}

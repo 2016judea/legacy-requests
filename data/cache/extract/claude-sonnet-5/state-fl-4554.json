@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Word Systems",
+   "model": "iRecord",
+   "part": "Extended warranty for the iRecord Content Management Solution from April 2023 \u2013 March 2027",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 6200.0,
+   "lead_time": null,
+   "sole_source_vendor": "WSI Technologies",
+   "reason": "Word Systems is the exclusive sole source of iRecord Software and Hardware Products in the state of Florida.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2541,
+  "out": 213
+ },
+ "model": "claude-sonnet-5"
+}

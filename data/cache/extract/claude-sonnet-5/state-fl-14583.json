@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pen-Link, Ltd.",
+   "model": "PenLink",
+   "part": "Hardware and Software Upgrades to PenLink System",
+   "part_numbers": [],
+   "quantity": "One Time Purchase",
+   "price_usd": 86000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Pen-Link, Ltd.",
+   "reason": "The Pen-Link System was developed, produced exclusively by, and is completely proprietary to Pen-Link, Ltd. No other vendor can sell, support, or provide training for the Pen-Link software/system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2703,
+  "out": 232
+ },
+ "model": "claude-sonnet-5"
+}

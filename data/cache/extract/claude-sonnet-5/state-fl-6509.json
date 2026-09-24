@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Carrier",
+   "model": null,
+   "part": "5 year annual HVAC inspections, seasonal start-up, and preventative maintenance to Carrier branded 10 ton chiller",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 200000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Carrier Commercial Services",
+   "reason": "In the Jacksonville/St. Augustine market, Carrier Commercial is the only source for authorized Factory Direct Service for all Carrier products.",
+   "equipment_class": "HVAC",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB) campus",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2546,
+  "out": 237
+ },
+ "model": "claude-sonnet-5"
+}

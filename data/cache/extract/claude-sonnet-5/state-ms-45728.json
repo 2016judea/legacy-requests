@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Anatomage",
+   "model": "Anatomage Table",
+   "part": "Virtual Dissection Table",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Anatomage, Inc.",
+   "reason": "The Anatomage Table, a 3D, interactive, virtual dissection table, is manufactured and distributed exclusively from Anatomage, Inc. domestically in San Jose, CA.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4980,
+  "out": 198
+ },
+ "model": "claude-sonnet-5"
+}

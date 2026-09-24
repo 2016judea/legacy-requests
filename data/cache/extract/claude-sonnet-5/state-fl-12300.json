@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Neustar, Inc.",
+   "model": "GeoPoint GeoDirectory-Detect Fraud-Gold",
+   "part": "GeoPoint IP Intelligence software license subscription and maintenance support (IP geo location, IP reputation, IP fraud detection, telephone, email validation)",
+   "part_numbers": [],
+   "quantity": "13 months (June 1, 2025 \u2013 June 30, 2026)",
+   "price_usd": 123500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Neustar, Inc.",
+   "reason": "Neustar, Inc., is the sole proprietor and software developer of the GeoPoint GeoDirectory-Detect Fraud-Gold software, which provides a complete Internet Protocol (IP) Intelliegence tool",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2664,
+  "out": 303
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica",
+   "model": "GS18T",
+   "part": "SmartAntenna GNSS surveying equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "The Florida Department of Transportation intends to enter into a single source contract with FLT Geosystems for Leica GS18T SmartAntenna, MS60, CS35-2 Tablet Controller, Software, Customer Care Packages (CCPs) and Accessories.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": "MS60",
+   "part": "Surveying total station/instrument",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "The Florida Department of Transportation intends to enter into a single source contract with FLT Geosystems for Leica GS18T SmartAntenna, MS60, CS35-2 Tablet Controller, Software, Customer Care Packages (CCPs) and Accessories.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": "CS35-2",
+   "part": "Tablet Controller for surveying equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "The Florida Department of Transportation intends to enter into a single source contract with FLT Geosystems for Leica GS18T SmartAntenna, MS60, CS35-2 Tablet Controller, Software, Customer Care Packages (CCPs) and Accessories.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": null,
+   "part": "Software for Leica surveying equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "The Florida Department of Transportation intends to enter into a single source contract with FLT Geosystems for Leica GS18T SmartAntenna, MS60, CS35-2 Tablet Controller, Software, Customer Care Packages (CCPs) and Accessories.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": null,
+   "part": "Customer Care Packages (CCPs)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "The Florida Department of Transportation intends to enter into a single source contract with FLT Geosystems for Leica GS18T SmartAntenna, MS60, CS35-2 Tablet Controller, Software, Customer Care Packages (CCPs) and Accessories.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": null,
+   "part": "Accessories for Leica surveying equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "The Florida Department of Transportation intends to enter into a single source contract with FLT Geosystems for Leica GS18T SmartAntenna, MS60, CS35-2 Tablet Controller, Software, Customer Care Packages (CCPs) and Accessories.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2084,
+  "out": 1668
+ },
+ "model": "claude-sonnet-5"
+}

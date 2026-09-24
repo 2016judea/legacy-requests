@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sea-Bird Electronics",
+   "model": "SUNA V2",
+   "part": "Sole source maintenance/repair for SUNA V2 nitrate sensors",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sea-Bird Electronics, Inc.",
+   "reason": "The District owns several SUNA V2 nitrate sensors which are deployed for continuous nitrate monitoring. The District will be entering contract with Sea-Bird Electronics, Inc. for this sole source repair.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3081,
+  "out": 238
+ },
+ "model": "claude-sonnet-5"
+}

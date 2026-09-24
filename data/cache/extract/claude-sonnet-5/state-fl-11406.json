@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "OraSure Technologies, Inc.",
+   "model": "OraQuick",
+   "part": "HCV Rapid Antibody test kits",
+   "part_numbers": [],
+   "quantity": "Three Years",
+   "price_usd": 3000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "OraSure Technologies, Inc.",
+   "reason": "The OraQuick HCV, HIV Antibody test kits are the only FDA approved, CLIA waived, point of care rapid tests for detections of Hepatitis C and HIV/AIDS.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "OraSure Technologies, Inc.",
+   "model": "OraQuick In-Home HIV",
+   "part": "In-home HIV (Oral fluid Diagnostic) test kits",
+   "part_numbers": [],
+   "quantity": "Three Years",
+   "price_usd": 3000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "OraSure Technologies, Inc.",
+   "reason": "OraSure Technologies, Inc. is the sole manufacturer and distributer of the OraQuick Rapid HCV Antibody, In-home HIV, and the Advance Rapid HIV-1/2 Antibody test kits to public health departments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "OraSure Technologies, Inc.",
+   "model": "OraQuick Advance HIV-1/2",
+   "part": "Advance Rapid HIV-1/2 Antibody test kits",
+   "part_numbers": [],
+   "quantity": "Three Years",
+   "price_usd": 3000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "OraSure Technologies, Inc.",
+   "reason": "OraSure Technologies, Inc. is the sole manufacturer and distributer of the OraQuick Rapid HCV Antibody, In-home HIV, and the Advance Rapid HIV-1/2 Antibody test kits to public health departments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "OraSure Technologies, Inc.",
+   "model": null,
+   "part": "Oral fluid lab HIV-1/2 test kits",
+   "part_numbers": [],
+   "quantity": "Three Years",
+   "price_usd": 3000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "OraSure Technologies, Inc.",
+   "reason": "This type of testing increases the opportunity for HIV testing in the non-traditional, oral fluid diagnostic method, as well as rapid HIV testing methods, to reach high-risk individuals.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3069,
+  "out": 952
+ },
+ "model": "claude-sonnet-5"
+}

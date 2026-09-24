@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pavemetrics",
+   "model": "LCMS",
+   "part": "License, Pavemetrics Support Package, Bronze Plan",
+   "part_numbers": [],
+   "quantity": "5 packages covering one year",
+   "price_usd": 67500.0,
+   "lead_time": null,
+   "sole_source_vendor": "International Cybernetics Company, LP",
+   "reason": "ICC is the sole known vendor to repair, evaluate, and provide software updates and licenses for the LCMS Imaging Systems.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2813,
+  "out": 207
+ },
+ "model": "claude-sonnet-5"
+}

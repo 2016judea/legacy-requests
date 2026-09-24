@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Emergency Communication System (Confidential) - existing statewide security and emergency system services",
+   "part_numbers": [],
+   "quantity": "One-time purchase",
+   "price_usd": 262000,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Company (GA-FL)",
+   "reason": "Georgia-Florida Burglar Alarm Company (GA-FL) installed and currently maintains the Florida Department of Law Enforcement\u2019s (FDLE) existing statewide security and emergency system and therefore the only vendor able to provide continued services.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pensacola Regional Operations Center (PROC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2779,
+  "out": 265
+ },
+ "model": "claude-sonnet-5"
+}

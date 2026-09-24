@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Uninterruptible Power Supply (UPS) System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Datamaxx",
+   "reason": "The Division of Administrative Hearings (DOAH) seeks to procure an Uninterruptible Power Supply (UPS) System from Datamaxx, which is currently installed in the building DOAH is relocating to.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "building DOAH is relocating to",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2005,
+  "out": 217
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "AssetWorks Inc.",
+   "model": "AiM Software",
+   "part": "Annual maintenance of the AiM Software including product updates, enhancements, unlimited phone and email support",
+   "part_numbers": [],
+   "quantity": "Three (3) Year Term (36 months)",
+   "price_usd": 87832.34,
+   "lead_time": null,
+   "sole_source_vendor": "AssetWorks Inc.",
+   "reason": "AssetWorks Inc. is the single developer and only licensed distributor of the AiM Suite product(s) and holds all related copyrights.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Statewide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2620,
+  "out": 231
+ },
+ "model": "claude-sonnet-5"
+}

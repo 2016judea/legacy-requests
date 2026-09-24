@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cessna",
+   "model": "T206H",
+   "part": "Wing tip fuel tanks",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Rapid Imaging Solutions LLC",
+   "reason": "Rapid Imaging Solutions LLC is the only vendor capable of performing the modifications and installation of equipment required in the Florida State Guard\u2019s Cessna T206H aircraft.",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida State Guard Cessna T206H aircraft",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cessna",
+   "model": "T206H",
+   "part": "130 AMP alternators",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Rapid Imaging Solutions LLC",
+   "reason": "Rapid Imaging Solutions LLC is the only vendor capable of performing the modifications and installation of equipment required in the Florida State Guard\u2019s Cessna T206H aircraft.",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida State Guard Cessna T206H aircraft",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2843,
+  "out": 613
+ },
+ "model": "claude-sonnet-5"
+}

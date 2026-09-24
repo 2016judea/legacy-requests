@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "International Cybernetics Company, LP",
+   "model": "IrisPRO Pave / LCMS",
+   "part": "Move and upgrade the Laser Crack Measurement System (LCMS) to replace hardware and equipment that is beyond its service life",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 328992.0,
+   "lead_time": "10/1/25 - 1/30/26",
+   "sole_source_vendor": "International Cybernetics Company, LP",
+   "reason": "ICC is the only vendor who can rebuild/upgrade this LCMS which includes proprietary items such as equipment design, computer control systems, software, and hardware components.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2924,
+  "out": 259
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Overwatch Imaging",
+   "model": "Autonomous Sensor Operations (ASO) Software",
+   "part": "Overwatch Imaging Autonomous Sensor Operations (ASO) Software",
+   "part_numbers": [],
+   "quantity": "One (1) Unit",
+   "price_usd": 130000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Overwatch Imaging",
+   "reason": "This is proprietary technology and Overwatch Imaging does not currently have any authorized resellers of the ASO software technology.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2847,
+  "out": 222
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Idemia",
+   "model": "Multi-Biometric Identification Solution (BIS)",
+   "part": "Migrate the current on-premise BIS system to an Azure Government hosted cloud solution, including key application software (minutiae extraction, matching, and workflow)",
+   "part_numbers": [],
+   "quantity": "10 Years (10-year contract)",
+   "price_usd": 85000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Idemia",
+   "reason": "The migration of proprietary system and key application software (minutiae extraction, matching, and workflow) cannot be performed by anyone other than the solution owner; therefore, this is being represented as a sole source.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3484,
+  "out": 894
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Drone Amplified",
+   "model": "Astro UAS/IGNIS III mini",
+   "part": "Unmanned Aircraft System ignition package with strobes for aerial prescribed fire ignition",
+   "part_numbers": [],
+   "quantity": "8",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Drone Amplified",
+   "reason": "Drone Amplified has developed proprietary technology with IGNIS, the only aerial ignition system that can operate from an unmanned aerial system.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Drone Amplified",
+   "model": null,
+   "part": "Strobe upgrade for existing UAS fleet ignition systems",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Drone Amplified",
+   "reason": "Drone Amplified has developed proprietary technology with IGNIS, the only aerial ignition system that can operate from an unmanned aerial system.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Drone Amplified",
+   "model": "IGNIS II",
+   "part": "Additional hopper for existing IGNIS II fleet system",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Drone Amplified",
+   "reason": "Drone Amplified has developed proprietary technology with IGNIS, the only aerial ignition system that can operate from an unmanned aerial system.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3459,
+  "out": 1121
+ },
+ "model": "claude-sonnet-5"
+}

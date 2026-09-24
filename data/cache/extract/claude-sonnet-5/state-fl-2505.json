@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Fairfax Software",
+   "model": "Quick Modules",
+   "part": "Fairfax Software Quick Modules software and scanner maintenance",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": 120000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fairfax Software",
+   "reason": "Fairfax Software is the sole provider of the Fairfax Software system solution, which consists of Fairfax Software Quick Modules software and scanning equipment. No other source can provide the hardware and software maintenance required for this system.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2746,
+  "out": 228
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "CODAR Ocean Sensors",
+   "model": "SeaSonde",
+   "part": "Antenna board",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CODAR Ocean Sensors, Ltd.",
+   "reason": "There is no off-the-shelf replacement of the same design from another vendor.",
+   "equipment_class": "other equipment",
+   "installed_location": "Coastline base stations, Destin, Florida to Port Fourchon, Louisiana",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CODAR Ocean Sensors",
+   "model": "SeaSonde",
+   "part": "Dome antenna top cover",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CODAR Ocean Sensors, Ltd.",
+   "reason": "There is no off-the-shelf replacement of the same design from another vendor.",
+   "equipment_class": "other equipment",
+   "installed_location": "Coastline base stations, Destin, Florida to Port Fourchon, Louisiana",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CODAR Ocean Sensors",
+   "model": "SeaSonde",
+   "part": "Delrin outer flange",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CODAR Ocean Sensors, Ltd.",
+   "reason": "There is no off-the-shelf replacement of the same design from another vendor.",
+   "equipment_class": "other equipment",
+   "installed_location": "Coastline base stations, Destin, Florida to Port Fourchon, Louisiana",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CODAR Ocean Sensors",
+   "model": "SeaSonde",
+   "part": "Antenna holder backing ring",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CODAR Ocean Sensors, Ltd.",
+   "reason": "There is no off-the-shelf replacement of the same design from another vendor.",
+   "equipment_class": "other equipment",
+   "installed_location": "Coastline base stations, Destin, Florida to Port Fourchon, Louisiana",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CODAR Ocean Sensors",
+   "model": "SeaSonde",
+   "part": "Antenna whips",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CODAR Ocean Sensors, Ltd.",
+   "reason": "There is no off-the-shelf replacement of the same design from another vendor.",
+   "equipment_class": "other equipment",
+   "installed_location": "Coastline base stations, Destin, Florida to Port Fourchon, Louisiana",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CODAR Ocean Sensors",
+   "model": "SeaSonde",
+   "part": "CODAR repair services and replacement parts per Quote ID: RMA2645-Q1",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CODAR Ocean Sensors, Ltd.",
+   "reason": "It is therefore important for the SeaSonde Radar Unit system integrity that any required replacement part be guaranteed compatible which can only be purchased from CODAR Ocean Sensors, Ltd.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Coastline base stations, Destin, Florida to Port Fourchon, Louisiana",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3747,
+  "out": 1573
+ },
+ "model": "claude-sonnet-5"
+}

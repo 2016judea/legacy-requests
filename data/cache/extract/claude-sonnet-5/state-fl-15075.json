@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Grasslander",
+   "part": "Native Seed Planter - no-till seeder for planting native fluffy, trashy seeds (wiregrass)",
+   "part_numbers": [],
+   "quantity": "3 years -upon issuance of purchase order",
+   "price_usd": 94000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "It is the only seeder available specifically engineered for planting native fluffy seeds like wiregrass in these challenging conditions.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crawfordville, FL",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3207,
+  "out": 212
+ },
+ "model": "claude-sonnet-5"
+}

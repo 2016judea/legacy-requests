@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens",
+   "model": null,
+   "part": "Migration of the building automation and central monitoring system controlling HVAC and integration systems",
+   "part_numbers": [],
+   "quantity": "12 months",
+   "price_usd": 133435.0,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "Siemens is the only vendor capable of upgrading the existing system because the legacy heating, ventilation, and integration systems are all Siemens parts and only the new Siemens building automation and central monitoring system will integrate properly with them.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida State Fire College",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2937,
+  "out": 239
+ },
+ "model": "claude-sonnet-5"
+}

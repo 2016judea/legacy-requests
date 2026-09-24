@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "The Will-Burt Company",
+   "model": "Pneumatic Mast",
+   "part": "Aluminum Telescoping Masts utilizing pressurized air to raise and lower load packages for traffic monitoring",
+   "part_numbers": [],
+   "quantity": "Four (4)",
+   "price_usd": 85242.0,
+   "lead_time": null,
+   "sole_source_vendor": "The Will-Burt Company",
+   "reason": "The Will-Burt Company is the only known vendor able to meet the height and weight requirements, as specified by the Department, without adding additional weight to the trailers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Mobile Command Trailers (MCTs)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2526,
+  "out": 242
+ },
+ "model": "claude-sonnet-5"
+}

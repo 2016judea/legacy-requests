@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": "YSI Incorporated",
+   "model": "Datasonde",
+   "part": "Aquatic Preserve (AP) Datasonde Annual Maintenance",
+   "part_numbers": [],
+   "quantity": "12 months",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "YSI Incorporated",
+   "reason": "To maintain the equipment warranty, equipment maintenance is required to be completed by the manufacturer Xylem-YSI.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "YSI Incorporated",
+   "model": "ProDSS",
+   "part": "Purchase of New Pro Digital Sampling System (ProDSS) Handheld w/Accessories",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "YSI Incorporated",
+   "reason": "Equipment will be purchased through the manufacturer (Xylem- YSI) with a 3-year manufacturer warranty offered only through Xylem-YSI.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI Incorporated",
+   "model": "EXO2",
+   "part": "Purchase of EXO2 Sonde",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "YSI Incorporated",
+   "reason": "This letter serves to inform you that YSI is the sole manufacturer and supplier of the line of instruments and sensors known as the \u201cEXO\u201d, (e.g.: EXO1, EXO2, EXO Handheld).",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI Incorporated",
+   "model": "EXO ISE02",
+   "part": "Purchase of EXO ISE02 Equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "YSI Incorporated",
+   "reason": "This letter serves to inform you that YSI is the sole manufacturer and supplier of the line of instruments and sensors known as the \u201cEXO\u201d, (e.g.: EXO1, EXO2, EXO Handheld).",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI Incorporated",
+   "model": null,
+   "part": "Sondes and Sensors",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "YSI Incorporated",
+   "reason": "YSI Inc. is a manufacturer of water quality and environmental monitoring sensors, telemetry instrumentation, and related products and services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI Incorporated",
+   "model": null,
+   "part": "Solutions (calibration/maintenance solutions for water quality sensors)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "YSI Incorporated",
+   "reason": "Annual maintenance of Sondes and sensors are required to maintain equipment in compliance with Department protocols, quality assurance plans and SOPs.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI Incorporated",
+   "model": null,
+   "part": "Accessories for Datasonde/EXO/ProDSS equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "YSI Incorporated",
+   "reason": "Equipment will be purchased through the manufacturer (Xylem- YSI) with a 3-year manufacturer warranty offered only through Xylem-YSI.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3230,
+  "out": 2276
+ },
+ "model": "claude-sonnet-5"
+}

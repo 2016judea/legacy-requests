@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Environmental Systems Research Institute, Inc.",
+   "model": "ESRI Enterprise Advantage Program (EEAP)",
+   "part": "ESRI Enterprise Advantage Program (EEAP) License and Support agreement renewal",
+   "part_numbers": [
+    "E125"
+   ],
+   "quantity": "1 year",
+   "price_usd": 67650.0,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute, Inc.",
+   "reason": "ESRI is the copyright owner of ArcGIS and the only authorized agent to provide licenses and support for said technology.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2869,
+  "out": 242
+ },
+ "model": "claude-sonnet-5"
+}

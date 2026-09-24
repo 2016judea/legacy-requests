@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vieths Enterprises",
+   "model": null,
+   "part": "Jeep Style wildfire Swamp Buggy, all terrain vehicle for wildland fire suppression",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 172400.0,
+   "lead_time": null,
+   "sole_source_vendor": "Vieths Enterprises, Inc.",
+   "reason": "Vieths Enterprises is the only manufacture of a \"Jeep\" style, off road, all terrain Swamp Buggy for use in forestry operations, with primary use for wildland fire suppression",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "South Florida, Everglades and swampy areas",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3121,
+  "out": 250
+ },
+ "model": "claude-sonnet-5"
+}

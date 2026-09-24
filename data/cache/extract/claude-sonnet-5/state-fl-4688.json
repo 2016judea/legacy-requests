@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Canopy Software, Inc.",
+   "model": "Customer Service Expert System (CSES)",
+   "part": "Software Maintenance and services for the Department's Customer Service Expert System (CSES)",
+   "part_numbers": [],
+   "quantity": "Three (3) Years: July 1, 2023 - June 30, 2026",
+   "price_usd": 470000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Canopy Software, Inc.",
+   "reason": "Canopy Software, Inc., is the developer, designer and sole provider of the Customer Service Expert System (CSES) used by the Department\u2019s Customer Service Center, Dealer Licensing and Medical section.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2724,
+  "out": 267
+ },
+ "model": "claude-sonnet-5"
+}

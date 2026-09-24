@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Aquatrak Corporation",
+   "model": "Model 5000",
+   "part": "Tidal gauge liquid-level determination system, including installation, testing and maintenance services",
+   "part_numbers": [],
+   "quantity": "One (1) year",
+   "price_usd": 2050250.0,
+   "lead_time": null,
+   "sole_source_vendor": "Aquatrak Corporation",
+   "reason": "Aquatrak Corporation, is the sole manufacture for the Model 5000 Sensors. Aquatrak Corporation does not utilize representatives, distributors or resellers and is the only provider of sales and installation services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2915,
+  "out": 242
+ },
+ "model": "claude-sonnet-5"
+}

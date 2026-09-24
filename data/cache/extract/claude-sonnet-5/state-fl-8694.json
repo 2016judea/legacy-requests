@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Biometric scanners for entry and exit management system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "DataWorks Plus, LLC",
+   "reason": "For continuity of operations and security, the Department needs the same entry and exit management system at all institutions and facilities under its jurisdiction.",
+   "equipment_class": "other equipment",
+   "installed_location": "seven (7) privately operated correctional facilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "USB cables for biometric scanners",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "DataWorks Plus, LLC",
+   "reason": "For continuity of operations and security, the Department needs the same entry and exit management system at all institutions and facilities under its jurisdiction.",
+   "equipment_class": "other equipment",
+   "installed_location": "seven (7) privately operated correctional facilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "DataWorks Plus",
+   "model": "DataWorks Plus Edge",
+   "part": "DataWorks Plus Edge software for entry and exit management system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "DataWorks Plus, LLC",
+   "reason": "For continuity of operations and security, the Department needs the same entry and exit management system at all institutions and facilities under its jurisdiction.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "seven (7) privately operated correctional facilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Two (2) year initial warranty with 24/7 support for entry and exit management system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "DataWorks Plus, LLC",
+   "reason": "For continuity of operations and security, the Department needs the same entry and exit management system at all institutions and facilities under its jurisdiction.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "seven (7) privately operated correctional facilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Three (3) year extended warranty with 24/7 support for entry and exit management system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "DataWorks Plus, LLC",
+   "reason": "For continuity of operations and security, the Department needs the same entry and exit management system at all institutions and facilities under its jurisdiction.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "seven (7) privately operated correctional facilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Customized response screen for entry and exit management system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "DataWorks Plus, LLC",
+   "reason": "For continuity of operations and security, the Department needs the same entry and exit management system at all institutions and facilities under its jurisdiction.",
+   "equipment_class": "other equipment",
+   "installed_location": "seven (7) privately operated correctional facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2835,
+  "out": 2192
+ },
+ "model": "claude-sonnet-5"
+}

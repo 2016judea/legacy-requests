@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica",
+   "model": null,
+   "part": "Customer Care Packages (CCPs) - Statewide and FPRN software and equipment customer care packages",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 282318.84,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "FLT Geosystems is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": "Controllers",
+   "part": "Controllers covered under CCP maintenance and support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "Leica has a vendor agreement with their vendors Nationwide. FLT Geosystems is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": "iCON tablet",
+   "part": "iCON tablet covered under CCP maintenance and support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "Leica has a vendor agreement with their vendors Nationwide. FLT Geosystems is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": "Total Stations",
+   "part": "Total Stations covered under CCP maintenance and support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "Leica has a vendor agreement with their vendors Nationwide. FLT Geosystems is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": "3D Laser Scanners",
+   "part": "3D Laser Scanners covered under CCP maintenance and support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "Leica has a vendor agreement with their vendors Nationwide. FLT Geosystems is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": "Digital Levels",
+   "part": "Digital levels covered under CCP maintenance and support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "Leica has a vendor agreement with their vendors Nationwide. FLT Geosystems is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": "GNSS base station receivers",
+   "part": "GNSS base station receivers covered under CCP maintenance and support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "Leica has a vendor agreement with their vendors Nationwide. FLT Geosystems is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": "GNSS rovers",
+   "part": "GNSS rovers covered under CCP maintenance and support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "Leica has a vendor agreement with their vendors Nationwide. FLT Geosystems is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": null,
+   "part": "Survey and Reference Network processing software maintenance and support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "Leica has a vendor agreement with their vendors Nationwide. FLT Geosystems is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2474,
+  "out": 2339
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "HID Global Corporation",
+   "model": null,
+   "part": "Hardware and software maintenance and support for HID Global Corporation equipment located throughout the state",
+   "part_numbers": [],
+   "quantity": "July 1, 2026 - June 30, 2027",
+   "price_usd": 96477.83,
+   "lead_time": null,
+   "sole_source_vendor": "HID Global Corporation",
+   "reason": "HID Global Corporation is the manufacturer of this equipment and only known source able to service and maintain HID Global Corporation hardware and software.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "throughout the state",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2848,
+  "out": 222
+ },
+ "model": "claude-sonnet-5"
+}

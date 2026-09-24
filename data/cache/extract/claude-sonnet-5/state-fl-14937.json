@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Daktronics, Inc",
+   "model": "DMS Controllers",
+   "part": "Daktronics DMS Controllers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Daktronics, Inc",
+   "reason": "the commodities or contractual services are available only from a single source",
+   "equipment_class": "other equipment",
+   "installed_location": "FDOT District 2",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2190,
+  "out": 433
+ },
+ "model": "claude-sonnet-5"
+}

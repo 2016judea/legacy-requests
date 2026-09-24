@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "GenoScreen",
+   "model": "Deeplex Myc-TB Kit",
+   "part": "Deeplex Myc-TB Kits for tuberculosis testing (MTBC AMR gene detection)",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 218400.0,
+   "lead_time": null,
+   "sole_source_vendor": "GenoScreen",
+   "reason": "GenoScreen is the sole manufacturer and distributor of this kit.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2819,
+  "out": 219
+ },
+ "model": "claude-sonnet-5"
+}

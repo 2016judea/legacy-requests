@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vaisala",
+   "model": "RFL100",
+   "part": "Service and calibration on RFL100 devices",
+   "part_numbers": [],
+   "quantity": "3 Years",
+   "price_usd": 166500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Vaisala, Inc",
+   "reason": "Vaisala, Inc, is the sole provider of services and calibration on RFL100 and RFL100T devices and has exclusive rights to all maintenance, services and calibration required to maintain continuity of instruments\u2019 reliabilities.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "BPHL laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vaisala",
+   "model": "RFL100T",
+   "part": "Service and calibration on RFL100T devices",
+   "part_numbers": [],
+   "quantity": "3 Years",
+   "price_usd": 166500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Vaisala, Inc",
+   "reason": "Vaisala, Inc, is the sole provider of services and calibration on RFL100 and RFL100T devices and has exclusive rights to all maintenance, services and calibration required to maintain continuity of instruments\u2019 reliabilities.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "BPHL laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2684,
+  "out": 452
+ },
+ "model": "claude-sonnet-5"
+}

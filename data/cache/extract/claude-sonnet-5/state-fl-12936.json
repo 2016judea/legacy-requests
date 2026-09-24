@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trane",
+   "model": null,
+   "part": "Maintenance, service and repair of Trane HVAC chillers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Trane",
+   "reason": "Trane is the sole source provider of Trane HVAC equipment, DynaView Control Modules, and Trane Building Automation Controls, and the only vendor that can provide Trane service and installations.",
+   "equipment_class": "HVAC",
+   "installed_location": "Neil Kirkman Building and at other Department locations throughout the state",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trane",
+   "model": "DynaView",
+   "part": "Maintenance, service, programming and repair of DynaView Control Modules",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Trane",
+   "reason": "The Trane HVAC equipment requires use of the DynaView Module, which requires Trane's proprietary software to function. Trane technicians are the only individuals trained to program and operate the module and are the only individuals with access to the software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Neil Kirkman Building and at other Department locations throughout the state",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trane",
+   "model": "Trane Building Automation Controls",
+   "part": "Maintenance, service and repair of Trane Building Automation Controls",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Trane",
+   "reason": "Trane is the sole source provider of Trane HVAC equipment, DynaView Control Modules, and Trane Building Automation Controls, and the only vendor that can provide Trane service and installations.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Neil Kirkman Building and at other Department locations throughout the state",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trane",
+   "model": null,
+   "part": "Maintenance, Service, and Repair of Trane HVAC Equipment and Software Programming (contract)",
+   "part_numbers": [],
+   "quantity": "5 Years (Fiscal Years- 7/1/25-6/30/30)",
+   "price_usd": 300000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Trane",
+   "reason": "Service centers are authorized by the factory to make all repairs and perform all service on Trane equipment. The Trane factory provides their technicians with service and diagnostic software that is only available to Trane employees.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Neil Kirkman Building and at other Department locations throughout the state",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2681,
+  "out": 1292
+ },
+ "model": "claude-sonnet-5"
+}

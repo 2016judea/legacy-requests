@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Custom built motor control panel for the water plant at FSP",
+   "part_numbers": [],
+   "quantity": "Three (3) Year Term (36 months)",
+   "price_usd": 228770.0,
+   "lead_time": null,
+   "sole_source_vendor": "Advanced Automation Products, Inc.",
+   "reason": "The water system at FSP operates using proprietary software that is owned and created by Advanced Automation, and it is critical that the infrastructure be able to operate the existing software.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Florida State Prison (FSP)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2593,
+  "out": 281
+ },
+ "model": "claude-sonnet-5"
+}

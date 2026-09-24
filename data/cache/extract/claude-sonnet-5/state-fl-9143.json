@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Environmental Systems Research Institute (ESRI)",
+   "model": "ArcGIS",
+   "part": "Renewal of ESRI software licenses, new concurrent use licensing, maintenance and technical support (ArcGIS/ArcGIS Online)",
+   "part_numbers": [],
+   "quantity": "2 years: 10/1/2024-9/30/2026",
+   "price_usd": 999000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute (ESRI), Inc.",
+   "reason": "ESRI produces ArcGIS software and licenses access to ArcGIS Online, which are proprietary, and therefore ESRI is the only source for ArcGIS software maintenance, ESRI named-user accounts, ESRI cloud resources, and concurrent use licensing.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "FWC, Fish and Wildlife Research Institute",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3265,
+  "out": 332
+ },
+ "model": "claude-sonnet-5"
+}

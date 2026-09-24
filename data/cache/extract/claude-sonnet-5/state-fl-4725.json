@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "LECO Corporation",
+   "model": "FP828 Performance Nitrogen Determinator",
+   "part": "FP828 Performance Nitrogen Determinator including data acquisition and control, balance and peripheral equipment",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 94000.0,
+   "lead_time": null,
+   "sole_source_vendor": "LECO Corporation",
+   "reason": "LECO Corporation is the manufacturer of this equipment and is the only known source with the technical knowledge to provide required maintenance and repair services, training support and parts and supplies for this equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Agricultural Environmental Laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "LECO Corporation",
+   "model": "TruSpec N Nitrogen Determinator",
+   "part": "Existing Nitrogen Determinator being replaced",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "LECO Corporation",
+   "reason": "Since this instrument will be a direct replacement of the laboratory's existing TruSpec N Nitrogen Determinator, which has been ______________________________________________________________________________",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Agricultural Environmental Laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2909,
+  "out": 477
+ },
+ "model": "claude-sonnet-5"
+}

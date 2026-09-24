@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Agilent Technologies",
+   "model": "7010 EI/MS/MS",
+   "part": "Gas chromatograph with triple quadrupole mass spectrometer (GC Triple quad mass spectrometer)",
+   "part_numbers": [],
+   "quantity": "One",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AGILENT TECHNOLOGIES",
+   "reason": "The following specifications are unique to the Agilent 7010 EI/MS/MS instrument and no other manufacturer can meet the specifications",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2782,
+  "out": 226
+ },
+ "model": "claude-sonnet-5"
+}

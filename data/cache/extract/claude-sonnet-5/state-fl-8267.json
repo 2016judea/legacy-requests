@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Eaton",
+   "model": null,
+   "part": "Annual support and maintenance for the Department's Uninterruptible Power Supply (UPS) equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 52458.85,
+   "lead_time": "7/1/2024 \u2013 6/30/2029",
+   "sole_source_vendor": "Eaton Corporation",
+   "reason": "Eaton is the only authorized provider of service support with the Eaton-developed proprietary service software for 3-phase Eaton UPS products.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "2900 Apalachee Parkway, Tallahassee, FL 32399",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2661,
+  "out": 245
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,135 @@
+{
+ "records": [
+  {
+   "manufacturer": "Marsh Master",
+   "model": "MM-2MX-KD",
+   "part": "Marsh Master MM-2MX-KD with Fire Package and Front Hitch, tracked amphibious vehicle",
+   "part_numbers": [
+    "MM-2MX-KD"
+   ],
+   "quantity": "One-time purchase upon execution of a purchase order.",
+   "price_usd": 278790.0,
+   "lead_time": null,
+   "sole_source_vendor": "Coast Machinery LLC",
+   "reason": "Marsh Master, supplied by Coast Machinery LLC is the only equipment found that meets our specified needs.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Milton, FL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kohler",
+   "model": null,
+   "part": "Kohler Engine for Marsh Master MM-2MX-KD",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Coast Machinery LLC",
+   "reason": "Marsh Master, supplied by Coast Machinery LLC is the only equipment found that meets our specified needs.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Milton, FL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Marsh Master",
+   "model": null,
+   "part": "Hi/Low Flow Pumps for Marsh Master MM-2MX-KD",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Coast Machinery LLC",
+   "reason": "Marsh Master, supplied by Coast Machinery LLC is the only equipment found that meets our specified needs.",
+   "equipment_class": "pump",
+   "installed_location": "Milton, FL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Marsh Master",
+   "model": null,
+   "part": "Rear Hitch attachment for Marsh Master MM-2MX-KD",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Coast Machinery LLC",
+   "reason": "Marsh Master, supplied by Coast Machinery LLC is the only equipment found that meets our specified needs.",
+   "equipment_class": "other equipment",
+   "installed_location": "Milton, FL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Marsh Master",
+   "model": null,
+   "part": "Roller Chopper implement for Marsh Master MM-2MX-KD",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Coast Machinery LLC",
+   "reason": "Marsh Master, supplied by Coast Machinery LLC is the only equipment found that meets our specified needs.",
+   "equipment_class": "other equipment",
+   "installed_location": "Milton, FL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Marsh Master",
+   "model": "MM-2MX Rotary Cutter",
+   "part": "MM-2MX Rotary Cutter implement for Marsh Master",
+   "part_numbers": [
+    "MM-2MX"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Coast Machinery LLC",
+   "reason": "Marsh Master, supplied by Coast Machinery LLC is the only equipment found that meets our specified needs.",
+   "equipment_class": "other equipment",
+   "installed_location": "Milton, FL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Marsh Master",
+   "model": "MM-2LX Vegetation Blade",
+   "part": "MM-2LX Vegetation Blade implement for Marsh Master",
+   "part_numbers": [
+    "MM-2LX"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Coast Machinery LLC",
+   "reason": "Marsh Master, supplied by Coast Machinery LLC is the only equipment found that meets our specified needs.",
+   "equipment_class": "other equipment",
+   "installed_location": "Milton, FL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "TRLR XLG-L",
+   "part": "Extra Long Galvanized Tilt Deck Trailer with Electric Brakes for transporting Marsh Master",
+   "part_numbers": [
+    "TRLR XLG-L"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Coast Machinery LLC",
+   "reason": "Marsh Master, supplied by Coast Machinery LLC is the only equipment found that meets our specified needs.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Milton, FL",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3381,
+  "out": 2202
+ },
+ "model": "claude-sonnet-5"
+}

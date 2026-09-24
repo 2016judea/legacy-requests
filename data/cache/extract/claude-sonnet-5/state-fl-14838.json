@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Activu",
+   "model": null,
+   "part": "Maintenance Software Support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Activu Corporation",
+   "reason": "NOTICE OF SINGLE SOURCE procurement for the Florida Department of Transportation",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "FDOT District 2",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2199,
+  "out": 167
+ },
+ "model": "claude-sonnet-5"
+}

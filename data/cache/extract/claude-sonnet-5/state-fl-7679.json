@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Research Electronics International, LLC (REI)",
+   "model": null,
+   "part": "TTK Tactical kits and training",
+   "part_numbers": [],
+   "quantity": "One (1) Unit",
+   "price_usd": 50000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Research Electronics International, LLC (REI)",
+   "reason": "The TTK Tactical kits and training are proprietary to REI and therefore, REI is the only provider of the tactical kits and training.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2751,
+  "out": 1097
+ },
+ "model": "claude-sonnet-5"
+}

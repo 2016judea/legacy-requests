@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "OpenText",
+   "model": "DM Enterprise Client Suite",
+   "part": "Software Maintenance and Support",
+   "part_numbers": [],
+   "quantity": "Twelve (12) Months",
+   "price_usd": 122185.27,
+   "lead_time": null,
+   "sole_source_vendor": "OpenText, Inc.",
+   "reason": "Open Text, Inc. is the only vendor who offers support and maintenance of their Open Text Software and does not offer it through resellers.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2468,
+  "out": 197
+ },
+ "model": "claude-sonnet-5"
+}

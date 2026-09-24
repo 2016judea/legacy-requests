@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "InQuest, LLC",
+   "model": "Sandbox",
+   "part": "Sandbox subscription and maintenance support product for fraud detection",
+   "part_numbers": [],
+   "quantity": "1 Year",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "InQuest, LLC",
+   "reason": "Commerce has identified this tool generates actionable reports faster and with more accurancy than current soloution, improving the efficiency and effectiveness of incident response capabilities for the agency's needs.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2370,
+  "out": 878
+ },
+ "model": "claude-sonnet-5"
+}

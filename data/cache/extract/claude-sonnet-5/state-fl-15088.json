@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Intellichoice, Inc.",
+   "model": "eFORCE Public Safety Software",
+   "part": "Annual license and support for eFORCE Public Safety Software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 8600.0,
+   "lead_time": null,
+   "sole_source_vendor": "Intellichoice, Inc.",
+   "reason": "lntelliChoice is the sole provider of eFORCE\u00ae Public Safety Software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2452,
+  "out": 213
+ },
+ "model": "claude-sonnet-5"
+}

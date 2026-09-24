@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Honeywell",
+   "model": "EBI",
+   "part": "Access control card gate readers integrating with existing Honeywell Access Control (EBI) system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 29000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Honeywell",
+   "reason": "The existing Honeywell Access Control (EBI) and Video Management System (DVM) referenced in the above project are proprietary products of Honeywell.",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB) campus",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Honeywell",
+   "model": "DVM",
+   "part": "Video management monitoring system (DVM) of gate entry for two campus locations",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 29000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Honeywell",
+   "reason": "The existing Honeywell Access Control (EBI) and Video Management System (DVM) referenced in the above project are proprietary products of Honeywell.",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB) campus",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2519,
+  "out": 505
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trane",
+   "model": null,
+   "part": "Maintenance and repair of existing proprietary Trane equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 10581.0,
+   "lead_time": null,
+   "sole_source_vendor": "Trane US, Inc.",
+   "reason": "Trane US, Inc. is the only provider that employs the necessary personnel who are certified to work on proprietary Trane equipment",
+   "equipment_class": "HVAC",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2563,
+  "out": 202
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rocket Alumni Solutions Inc.",
+   "model": "Touchscreen Software",
+   "part": "Software for Alumni Recognition Wall and Kiosks",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 18897.3,
+   "lead_time": null,
+   "sole_source_vendor": "Rocket Alumni Solutions Inc.",
+   "reason": "No other product currently on the market combines these four capabilities into a single platform or offering.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "UMMC",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5854,
+  "out": 200
+ },
+ "model": "claude-sonnet-5"
+}

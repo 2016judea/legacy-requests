@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "FESCO/Mathis",
+   "model": "FESCO P-32H",
+   "part": "Hydraulic Fire Plow",
+   "part_numbers": [
+    "P-32H"
+   ],
+   "quantity": "12",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Oliver and Dahlman Equipment Company",
+   "reason": "The FESCO P32H is the only Fire Plow that will withstand the stresses and abuse of being pulled though all types of soil material by heavy machinery. (Dozer)",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FESCO/Mathis",
+   "model": "FESCO P-34H",
+   "part": "Hydraulic Fire Plow",
+   "part_numbers": [
+    "P-34H"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Oliver and Dahlman Equipment Company",
+   "reason": "Oliver and Dahlman Equipment Co. are the only Manufacturer of the FESCO/Mathis Fire Plow.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2704,
+  "out": 399
+ },
+ "model": "claude-sonnet-5"
+}

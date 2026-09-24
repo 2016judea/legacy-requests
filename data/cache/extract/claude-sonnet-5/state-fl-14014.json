@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Alltrack, Inc.",
+   "model": "AT-50HD",
+   "part": "Track Carrier with Fire Skid Unit for wildland fire suppression",
+   "part_numbers": [
+    "5215000"
+   ],
+   "quantity": "1",
+   "price_usd": 295903.0,
+   "lead_time": null,
+   "sole_source_vendor": "ALLTRACK, INC.",
+   "reason": "Alltrack Inc. is the sole manufacturer of the AT-50HD, which is the only known track carrier capable of withstanding the operational demands and harsh environmental conditions encountered in Florida.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3078,
+  "out": 233
+ },
+ "model": "claude-sonnet-5"
+}

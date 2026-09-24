@@ -1,0 +1,143 @@
+{
+ "records": [
+  {
+   "manufacturer": "IDEXX Laboratories, Inc.",
+   "model": null,
+   "part": "GAMMA IRAD COLILERT-18 reagent, 200 pack",
+   "part_numbers": [
+    "WP200I-18"
+   ],
+   "quantity": "200 PACK",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Distribution, Inc C/O IDEXX Laboratories, Inc.",
+   "reason": "IDEXX Laboratories, Inc is the sole manufacturer and distributor of the Colilert and Enterolert reagents and supplies.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Department of Health in Lee County Environmental Engineering Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IDEXX Laboratories, Inc.",
+   "model": null,
+   "part": "Vessels with ST and SB, 200 pack",
+   "part_numbers": [
+    "WV120SBST-200"
+   ],
+   "quantity": "200 PACK",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Distribution, Inc C/O IDEXX Laboratories, Inc.",
+   "reason": "IDEXX Laboratories, Inc is the sole manufacturer and distributor of the Colilert and Enterolert reagents and supplies.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Department of Health in Lee County Environmental Engineering Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IDEXX Laboratories, Inc.",
+   "model": null,
+   "part": "Coli P/A Comparator",
+   "part_numbers": [
+    "WP104"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Distribution, Inc C/O IDEXX Laboratories, Inc.",
+   "reason": "IDEXX Laboratories, Inc is the sole manufacturer and distributor of the Colilert and Enterolert reagents and supplies.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Department of Health in Lee County Environmental Engineering Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IDEXX Laboratories, Inc.",
+   "model": null,
+   "part": "Gamma Irradiated Colilert 100 mL, 200 pack",
+   "part_numbers": [
+    "WP200"
+   ],
+   "quantity": "200 PACK",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Distribution, Inc C/O IDEXX Laboratories, Inc.",
+   "reason": "IDEXX Laboratories, Inc is the sole manufacturer and distributor of the Colilert and Enterolert reagents and supplies.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Department of Health in Lee County Environmental Engineering Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IDEXX Laboratories, Inc.",
+   "model": null,
+   "part": "Enterolert 100mL, 200 pack",
+   "part_numbers": [
+    "WENT200"
+   ],
+   "quantity": "200 PACK",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Distribution, Inc C/O IDEXX Laboratories, Inc.",
+   "reason": "IDEXX Laboratories, Inc is the sole manufacturer and distributor of the Colilert and Enterolert reagents and supplies.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Department of Health in Lee County Environmental Engineering Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IDEXX Laboratories, Inc.",
+   "model": null,
+   "part": "Quanti-Tray Disposable, 100/box",
+   "part_numbers": [
+    "WQT100"
+   ],
+   "quantity": "100/BOX",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Distribution, Inc C/O IDEXX Laboratories, Inc.",
+   "reason": "IDEXX Laboratories, Inc is the sole manufacturer and distributor of the Colilert and Enterolert reagents and supplies.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Department of Health in Lee County Environmental Engineering Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IDEXX Laboratories, Inc.",
+   "model": null,
+   "part": "Quanti-Tray 2000 Disposable, 100/box",
+   "part_numbers": [
+    "WQT2K"
+   ],
+   "quantity": "100/BOX",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Distribution, Inc C/O IDEXX Laboratories, Inc.",
+   "reason": "IDEXX Laboratories, Inc is the sole manufacturer and distributor of the Colilert and Enterolert reagents and supplies.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Department of Health in Lee County Environmental Engineering Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IDEXX Laboratories, Inc.",
+   "model": null,
+   "part": "Pre-Disp. QT 2000 Comparator",
+   "part_numbers": [
+    "WQT2KC"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Distribution, Inc C/O IDEXX Laboratories, Inc.",
+   "reason": "IDEXX Laboratories, Inc is the sole manufacturer and distributor of the Colilert and Enterolert reagents and supplies.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Department of Health in Lee County Environmental Engineering Laboratory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3056,
+  "out": 2767
+ },
+ "model": "claude-sonnet-5"
+}

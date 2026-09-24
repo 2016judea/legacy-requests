@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": "Speer",
+   "model": "Bonded Duty",
+   "part": "Speer Bonded Duty, 9mm +P, 124 Grain, Per 1,000 Rounds",
+   "part_numbers": [],
+   "quantity": "145 cases",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Bullet, Inc.",
+   "reason": "Florida Bullet, Inc. is the only factory authorized Law Enforcement Distributor of SinterFire, Speer and Federal ammunition in the state of Florida.",
+   "equipment_class": "other equipment",
+   "installed_location": "all troop locations throughout the state and at the FHP academy",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Speer",
+   "model": "Bonded Duty",
+   "part": "Speer Bonded Duty, 223 Rem, 75 Grain, Per 500 Rounds",
+   "part_numbers": [],
+   "quantity": "205 cases",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Bullet, Inc.",
+   "reason": "Florida Bullet, Inc. is the only factory authorized Law Enforcement Distributor of SinterFire, Speer and Federal ammunition in the state of Florida.",
+   "equipment_class": "other equipment",
+   "installed_location": "all troop locations throughout the state and at the FHP academy",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Speer",
+   "model": "Lawman Bonded Training",
+   "part": "Speer Lawman Bonded Training, 9mm, 124 Grain, Per 1,000 Rounds",
+   "part_numbers": [],
+   "quantity": "1048 cases",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Bullet, Inc.",
+   "reason": "Florida Bullet, Inc. is the only factory authorized Law Enforcement Distributor of SinterFire, Speer and Federal ammunition in the state of Florida.",
+   "equipment_class": "other equipment",
+   "installed_location": "all troop locations throughout the state and at the FHP academy",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Speer",
+   "model": "Lawman RHT Frangible",
+   "part": "Speer Lawman RHT Frangible, 9mm, 100 Grain, Per 1,000 Rounds",
+   "part_numbers": [],
+   "quantity": "237 cases",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Bullet, Inc.",
+   "reason": "Florida Bullet, Inc. is the only factory authorized Law Enforcement Distributor of SinterFire, Speer and Federal ammunition in the state of Florida.",
+   "equipment_class": "other equipment",
+   "installed_location": "all troop locations throughout the state and at the FHP academy",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Federal",
+   "model": "Bonded Training",
+   "part": "Federal Bonded Training, 223, 75 Grain, 500 Rounds",
+   "part_numbers": [],
+   "quantity": "498 cases",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Bullet, Inc.",
+   "reason": "Florida Bullet, Inc. is the only factory authorized Law Enforcement Distributor of SinterFire, Speer and Federal ammunition in the state of Florida.",
+   "equipment_class": "other equipment",
+   "installed_location": "all troop locations throughout the state and at the FHP academy",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sinterfire",
+   "model": "Training Frangible",
+   "part": "Sinterfire Training, 223, 55 Grain. Frangible, 1,000 Rounds",
+   "part_numbers": [],
+   "quantity": "192 cases",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Bullet, Inc.",
+   "reason": "Florida Bullet, Inc. is the only factory authorized Law Enforcement Distributor of SinterFire, Speer and Federal ammunition in the state of Florida.",
+   "equipment_class": "other equipment",
+   "installed_location": "all troop locations throughout the state and at the FHP academy",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Federal",
+   "model": "Tactical Bonded Duty Winchester .308",
+   "part": "Federal Tactical Bonded Duty Winchester .308, 168 gr. 200 Rounds",
+   "part_numbers": [],
+   "quantity": "110 cases",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Bullet, Inc.",
+   "reason": "Florida Bullet, Inc. is the only factory authorized Law Enforcement Distributor of SinterFire, Speer and Federal ammunition in the state of Florida.",
+   "equipment_class": "other equipment",
+   "installed_location": "all troop locations throughout the state and at the FHP academy",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2970,
+  "out": 2135
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Central Mine Equipment Company",
+   "model": null,
+   "part": "Boring and Subsurface Exploration Drill Machine (Drill Rig)",
+   "part_numbers": [],
+   "quantity": "1 (One) Drill Rig",
+   "price_usd": 574195.0,
+   "lead_time": null,
+   "sole_source_vendor": "Central Mine Equipment Company",
+   "reason": "Central Mine Equipment Company, is the sole manufacturer of this rig and no other manufacturer produces one meeting the Department's specifications.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2448,
+  "out": 214
+ },
+ "model": "claude-sonnet-5"
+}

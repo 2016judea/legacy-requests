@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Agena Bioscience",
+   "model": "CFTR v3.0 Panel Set \u2013 CPM (10x96)",
+   "part": "Cystic Fibrosis reagent panel set used in CDC-approved test system",
+   "part_numbers": [
+    "CFTR v3.0 Panel Set \u2013 CPM (10x96)"
+   ],
+   "quantity": "Three Years",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Agena Bioscience, Inc.",
+   "reason": "Agena Bioscience, Inc. is the exclusive manufacturer of CFTR v3.0 Panel Set \u2013 CPM (10x96), which is version 3.0 panel set, and MassARRAY Clean Resin 28g in the United States.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DOH Bureau of Public Health Laboratories (BPHL) of Jacksonville",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Agena Bioscience",
+   "model": "MassARRAY Clean Resin 28g",
+   "part": "Cystic Fibrosis reagent used in CDC-approved test system with MassARRAY equipment",
+   "part_numbers": [
+    "MassARRAY Clean Resin 28g"
+   ],
+   "quantity": "Three Years",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Agena Bioscience, Inc.",
+   "reason": "These are the only reagents compatible with the equipment currently utilized in the BPHL lab.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DOH Bureau of Public Health Laboratories (BPHL) of Jacksonville",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2567,
+  "out": 883
+ },
+ "model": "claude-sonnet-5"
+}

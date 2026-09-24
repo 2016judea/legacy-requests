@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica",
+   "model": "GR50 Highline GNSS",
+   "part": "GR50 Highline GNSS receiver",
+   "part_numbers": [],
+   "quantity": "See Attached.",
+   "price_usd": 52608.0,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Level & Transit Co., Inc.",
+   "reason": "Florida Level & Transit Co., Inc., is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": "GRL206",
+   "part": "GRL206 GNSS component",
+   "part_numbers": [],
+   "quantity": "See Attached.",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Level & Transit Co., Inc.",
+   "reason": "Florida Level & Transit Co., Inc., is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": "GEB242 Battery",
+   "part": "GEB242 Battery",
+   "part_numbers": [],
+   "quantity": "See Attached.",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Level & Transit Co., Inc.",
+   "reason": "Florida Level & Transit Co., Inc., is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2518,
+  "out": 722
+ },
+ "model": "claude-sonnet-5"
+}

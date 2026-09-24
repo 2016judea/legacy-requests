@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Johnson Controls",
+   "model": null,
+   "part": "HVAC Preventative Maintenance for the District Office and Jax Urban Office",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Johnson Controls, Inc.",
+   "reason": "The Department of Transportation, District Two, provides notice that it intends to enter into a single source purchase with Johnson Controls, Inc.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "District Office and Jax Urban Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2024,
+  "out": 210
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Drone Amplified, Inc.",
+   "model": "Astro Max",
+   "part": "Astro Max unmanned aerial system (drone) with parts and accessories",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 392220.0,
+   "lead_time": null,
+   "sole_source_vendor": "Drone Amplified, Inc.",
+   "reason": "Drone Amplified, Inc. is the only known source for Astro Max, parts and accessories for this OEM commodity.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Drone Amplified, Inc.",
+   "model": "IGNIS",
+   "part": "IGNIS aerial ignition payload compatible exclusively with Astro Max",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Drone Amplified, Inc.",
+   "reason": "Drone Amplified, Inc. provides exclusive compatibility with IGNIS and other Drone Amplified products such as the DA-Flight mission/flight planning app for the Astro Max.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Drone Amplified, Inc.",
+   "model": "DA-Flight",
+   "part": "DA-Flight mission/flight planning ground control software app for the Astro Max",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Drone Amplified, Inc.",
+   "reason": "The combination of the Astro Max with the DA-Flight app provides mission-critical fire-specific functionality, and required support is only available with the hardware purchase of Astro Max through Drone Amplified.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3110,
+  "out": 1182
+ },
+ "model": "claude-sonnet-5"
+}

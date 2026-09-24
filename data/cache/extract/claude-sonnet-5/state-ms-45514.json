@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "cloud-based academic and clinical program management platform",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Sole Source No. 4754; for the sole source certification of a cloud-based academic and clinical program management platform for the University of Southern Mississippi.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "University of Southern Mississippi",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1959,
+  "out": 184
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "TIBCO",
+   "model": "MFT SFTP",
+   "part": "TIBCO Managed File Transfer-Secure File Transfer Protocol software maintenance and support",
+   "part_numbers": [],
+   "quantity": "1 year (7/1/2026 \u2013 6/30/2027)",
+   "price_usd": 97472.2,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "TIBCO is the sole proprietor of the software which provides the functionality of Manage File Transfers within DOE network and mainframe systems",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Education, Division of Technology and Innovation",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2710,
+  "out": 237
+ },
+ "model": "claude-sonnet-5"
+}

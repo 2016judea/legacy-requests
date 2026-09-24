@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Adaptive Digital Systems",
+   "model": null,
+   "part": "ADS Wearable Covert Video and Audio Equipment for FWC Statewide Investigations",
+   "part_numbers": [],
+   "quantity": "1 year from issuance of original purchase order",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Adaptive Digital Systems, Inc. (ADS)",
+   "reason": "This purchase is for items that will only function with our Nano-Raven recorders which is manufactured and sold only by Adaptive Digital Systems.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Adaptive Digital Systems",
+   "model": "Nano-Raven",
+   "part": "Existing fleet of digital video recorders compatible with wearable covert equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Adaptive Digital Systems, Inc. (ADS)",
+   "reason": "Adaptive Digital Systems manufactures and is the only distributor of wearable covert surveillance equipment that is compatible with our existing fleet of digital video recorders.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2942,
+  "out": 776
+ },
+ "model": "claude-sonnet-5"
+}

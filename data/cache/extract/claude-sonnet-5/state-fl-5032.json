@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hyland Software, Inc.",
+   "model": "AnyDoc",
+   "part": "Software keys, licenses, hardware and software maintenance, miscellaneous repairs and parts, support and upgrade of Hyland AnyDoc software",
+   "part_numbers": [],
+   "quantity": "Date of Execution thru June 30, 2024",
+   "price_usd": 94000,
+   "lead_time": null,
+   "sole_source_vendor": "IMAGESOFT, INC",
+   "reason": "under Hyland\u2019s commercial policies, ImageSoft,Inc. is the sole authorized source to provide maintenance and support of the Anydoc software to Dept of Agriculture and Consumer Service",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Licensing\u2019s Tallahassee main office and regional offices throughout the state",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2967,
+  "out": 294
+ },
+ "model": "claude-sonnet-5"
+}

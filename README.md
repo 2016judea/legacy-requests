@@ -40,6 +40,13 @@ static page anyone can search.
   platform may sit in the file itself; attachments may be cached files or inline
   text). `scripts/extract.py --cached-only` rebuilds the store from cached model
   responses without spending anything.
+- State sole-source notice boards (platform `state-<xx>`, one ingester each, no login):
+  `scripts/ingest_state_fl.py` reads every "Single Source" posting on Florida's
+  Vendor Bid System through its public JSON API and parses the standard PUR 7776
+  form's labelled fields, keeping only notices whose UNSPSC codes are physical
+  equipment; `scripts/ingest_state_ms.py` reads Mississippi's "Sole Source Notices"
+  grid and its justification PDFs. Each writes `data/matters/state-<xx>.json`
+  for `make extract`. Run them by hand; they are not in `make ingest`.
 - `scripts/build_site.py` writes the page. Search runs in the browser over the
   embedded JSON; no framework, no build step.
 
@@ -54,7 +61,7 @@ same purchase reported to a committee and then to the board) are collapsed.
 
 ## Not in v1
 
-SAM.gov, state procurement portals, eBay (no API key), OEM catalogs, and
+SAM.gov, state portals beyond FL and MS, eBay (no API key), OEM catalogs, and
 monitoring/alerts.
 
 ## Licence

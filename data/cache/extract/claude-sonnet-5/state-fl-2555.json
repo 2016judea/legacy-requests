@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "American Signal",
+   "model": null,
+   "part": "Factory refurbishment of variable message boards (VMB) - replacing Sign Case Assembly, Terminal, Umbilical Assembly, and Rat Tail Terminal",
+   "part_numbers": [],
+   "quantity": "5",
+   "price_usd": 44221.5,
+   "lead_time": null,
+   "sole_source_vendor": "American Signal",
+   "reason": "American Signal is the original manufacturer of the five (5) currently owned variable message boards (VMB).",
+   "equipment_class": "other equipment",
+   "installed_location": "D2 Lake City Maintenance",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2343,
+  "out": 218
+ },
+ "model": "claude-sonnet-5"
+}

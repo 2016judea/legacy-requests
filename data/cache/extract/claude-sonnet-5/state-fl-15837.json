@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leonardo Helicopters",
+   "model": "AW119Kx",
+   "part": "Helicopter maintenance, service, and OEM parts and special tools support",
+   "part_numbers": [],
+   "quantity": "6 helicopters / 3 Years",
+   "price_usd": 500000,
+   "lead_time": null,
+   "sole_source_vendor": "AgustaWestland Philadelphia Corporation LLC",
+   "reason": "AgustaWestland Corporation is a division of Leonardo Helicopters and is the only known resource which can provide all spare part support, technical publication support, aircraft storage, preservation, preventative maintenance, and on demand maintenance services to support the continued airworthiness, operational readiness, and regulatory compliance of the FFS AW119Kx helicopters.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Florida Forest Service, Aviation Section",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3024,
+  "out": 310
+ },
+ "model": "claude-sonnet-5"
+}

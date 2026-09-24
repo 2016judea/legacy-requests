@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "SEI Industries",
+   "model": "Premo Fireball Spheres",
+   "part": "Premo Fireball Spheres for wildfire suppression/ignition support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 39480.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fire Ignition Resources, LLC",
+   "reason": "Fire Ignition Resources LLC is the sole distributor in North America for the Premo Fireball Spheres are trademarks, patents, manufacturing processess, documents and designs are exclusisely proprietary to SEI Industried Limited and SEI International Sales, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2464,
+  "out": 253
+ },
+ "model": "claude-sonnet-5"
+}

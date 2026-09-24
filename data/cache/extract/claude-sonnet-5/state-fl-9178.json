@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Juvare (ESi Acquisition, Inc.)",
+   "model": "WebEOC",
+   "part": "WebEOC Subscription - web-based incident management platform",
+   "part_numbers": [],
+   "quantity": "One (1) Year",
+   "price_usd": 48204.0,
+   "lead_time": null,
+   "sole_source_vendor": "ESi Acquisition, Inc., a Juvare Company",
+   "reason": "Juvare (ESi Acquisition, Inc.) is the creator and developer of WebEOC and as such is the only known vendor that can provide this product. There are no other known sources for WebEOC.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2476,
+  "out": 250
+ },
+ "model": "claude-sonnet-5"
+}

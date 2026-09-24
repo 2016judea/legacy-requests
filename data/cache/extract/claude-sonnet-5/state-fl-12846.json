@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens",
+   "model": "Desigo 250",
+   "part": "Fire alarm control panel system replacement including hardware, software, firmware, fire panels, and sensors",
+   "part_numbers": [],
+   "quantity": "One",
+   "price_usd": 177770.0,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "Siemens is the only factory certified vendor authorized to install, license, program, service, maintain system components, licensing, warranties and software for Siemens Desigo systems.",
+   "equipment_class": "other equipment",
+   "installed_location": "District Seven SunGuide Building / Regional Transportation Management Center (RTMC)",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2900,
+  "out": 261
+ },
+ "model": "claude-sonnet-5"
+}

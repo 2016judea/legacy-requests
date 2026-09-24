@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "FDH-18",
+   "part": "FESCO Hydraulic hinge harrow 11\" spacing tapered roller bearing assembly 26\" X 5/16\" disc.",
+   "part_numbers": [
+    "FDH-18"
+   ],
+   "quantity": "Date of Execution through June 30, 2025",
+   "price_usd": 42700,
+   "lead_time": null,
+   "sole_source_vendor": "Oliver and Dahlman Equipment Company, Inc.",
+   "reason": "Oliver and Dahlman Equipment Company, Inc. is the only known manufacturer of the Model FDH-18 FESCO Hydraulic hinge harrow 11\" spacing tapered roller bearing assembly 26\" X 5/16\" disc. specifically made to fit our district's equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3115,
+  "out": 301
+ },
+ "model": "claude-sonnet-5"
+}

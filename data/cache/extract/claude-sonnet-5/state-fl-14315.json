@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rohde & Schwarz",
+   "model": "Security Scanner",
+   "part": "Repair and maintenance service agreement for security scanners",
+   "part_numbers": [],
+   "quantity": "1 Year",
+   "price_usd": 47990.0,
+   "lead_time": null,
+   "sole_source_vendor": "Rohde & Schwarz",
+   "reason": "Only service personnel authorized by Rohde &J Schwarz are allowed to repair these scanners.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "forensic facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2726,
+  "out": 195
+ },
+ "model": "claude-sonnet-5"
+}

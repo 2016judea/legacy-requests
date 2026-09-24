@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Meggitt",
+   "model": "Target Systems",
+   "part": "Repair and maintenance of target system equipment used on the firing range: MITs, MATs, SITs, SATs, and all components of Meggitt target systems",
+   "part_numbers": [],
+   "quantity": "Term is July 1, 2024 through June 30, 2025",
+   "price_usd": 225000.0,
+   "lead_time": null,
+   "sole_source_vendor": "InVeris Training Solutions",
+   "reason": "InVeris is the proprietary owner of Meggitt\u2019s designs and has the exclusive rights to the design and parts for the target system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Camp Blanding Joint Training Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2606,
+  "out": 249
+ },
+ "model": "claude-sonnet-5"
+}

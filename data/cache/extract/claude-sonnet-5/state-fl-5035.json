@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ACISS",
+   "model": "InSite",
+   "part": "Software maintenance, upgrades and technical support for the ACISS InSite System",
+   "part_numbers": [],
+   "quantity": "July 1, 2023 \u2013 June 30, 2024",
+   "price_usd": 100000,
+   "lead_time": null,
+   "sole_source_vendor": "ACISS",
+   "reason": "ACISS is the proprietary vendor of the InSite system, and as such is the single source for the maintenance, upgrades and technical support of the InSite system.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2870,
+  "out": 209
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Idemia Identity and Security USA LLC",
+   "model": "MBIS (Multi-Biometric Identification Solution)",
+   "part": "End-to-end support for MBIS, including preventive maintenance, remedial maintenance, configuration management, system administration, performance tuning, system upgrades and programming",
+   "part_numbers": [],
+   "quantity": "12 months",
+   "price_usd": 100000,
+   "lead_time": null,
+   "sole_source_vendor": "Idemia Identity and Security USA LLC",
+   "reason": "The MBIS system, currently in use by the FDLE, is proprietary software developed and owned by Idemia Identity and Security USA LLC. Idemia is the only firm that can provide end-to-end support for MBIS",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2859,
+  "out": 284
+ },
+ "model": "claude-sonnet-5"
+}

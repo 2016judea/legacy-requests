@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": "Qiagen",
+   "model": "QIAQuity",
+   "part": "Service and maintenance agreement for laboratory instrument",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Qiagen, LLC",
+   "reason": "Qiagen, LLC is the manufacturer and the sole vendor who is allowed to service and maintain QIAQuity, QIAcuity, QIAgility, Pyromark Q24, Qiacube Connect MDx, Qiacube, EZ1 Advance XL.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DOH, Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Qiagen",
+   "model": "QIAcuity",
+   "part": "Service and maintenance agreement for laboratory instrument",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Qiagen, LLC",
+   "reason": "Qiagen, LLC is the manufacturer and the sole vendor who is allowed to service and maintain QIAQuity, QIAcuity, QIAgility, Pyromark Q24, Qiacube Connect MDx, Qiacube, EZ1 Advance XL.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DOH, Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Qiagen",
+   "model": "QIAgility",
+   "part": "Service and maintenance agreement for laboratory instrument",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Qiagen, LLC",
+   "reason": "Qiagen, LLC is the manufacturer and the sole vendor who is allowed to service and maintain QIAQuity, QIAcuity, QIAgility, Pyromark Q24, Qiacube Connect MDx, Qiacube, EZ1 Advance XL.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DOH, Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Qiagen",
+   "model": "Pyromark Q24",
+   "part": "Service and maintenance agreement for laboratory instrument",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Qiagen, LLC",
+   "reason": "Qiagen, LLC is the manufacturer and the sole vendor who is allowed to service and maintain QIAQuity, QIAcuity, QIAgility, Pyromark Q24, Qiacube Connect MDx, Qiacube, EZ1 Advance XL.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DOH, Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Qiagen",
+   "model": "Qiacube Connect MDx",
+   "part": "Service and maintenance agreement for laboratory instrument",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Qiagen, LLC",
+   "reason": "Qiagen, LLC is the manufacturer and the sole vendor who is allowed to service and maintain QIAQuity, QIAcuity, QIAgility, Pyromark Q24, Qiacube Connect MDx, Qiacube, EZ1 Advance XL.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DOH, Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Qiagen",
+   "model": "Qiacube",
+   "part": "Service and maintenance agreement for laboratory instrument",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Qiagen, LLC",
+   "reason": "Qiagen, LLC is the manufacturer and the sole vendor who is allowed to service and maintain QIAQuity, QIAcuity, QIAgility, Pyromark Q24, Qiacube Connect MDx, Qiacube, EZ1 Advance XL.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DOH, Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Qiagen",
+   "model": "EZ1 Advance XL",
+   "part": "Service and maintenance agreement for laboratory instrument",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Qiagen, LLC",
+   "reason": "Qiagen, LLC is the manufacturer and the sole vendor who is allowed to service and maintain QIAQuity, QIAcuity, QIAgility, Pyromark Q24, Qiacube Connect MDx, Qiacube, EZ1 Advance XL.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DOH, Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Qiagen",
+   "model": null,
+   "part": "Reagent supplies for Qiagen instrument systems used in molecular detection assays",
+   "part_numbers": [],
+   "quantity": "Three Years",
+   "price_usd": 150000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Qiagen, LLC",
+   "reason": "The DOH, BPHL has a need to purchase and renew service agreements and reagent supplies from Qiagen LLC.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DOH, Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2832,
+  "out": 2838
+ },
+ "model": "claude-sonnet-5"
+}

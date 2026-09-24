@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "TTK Tactical",
+   "part": "TTK Tactical kits and training",
+   "part_numbers": [],
+   "quantity": "One time purchase",
+   "price_usd": 205000,
+   "lead_time": null,
+   "sole_source_vendor": "REI",
+   "reason": "The TTK Tactical kits and training are proprietary to REI and therefore, REI is the only provider of the tactical kits and training.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2738,
+  "out": 172
+ },
+ "model": "claude-sonnet-5"
+}

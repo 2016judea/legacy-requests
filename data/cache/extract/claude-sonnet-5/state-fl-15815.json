@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Aderant North America, Inc.",
+   "model": "Aderant Total Office",
+   "part": "Software support and maintenance for Aderant Total Case Management Software",
+   "part_numbers": [],
+   "quantity": "36 months",
+   "price_usd": 169300.64,
+   "lead_time": null,
+   "sole_source_vendor": "Aderant North America, Inc.",
+   "reason": "OGC is currently using this software, and maintenance and updates can only be obtained from Aderant.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Office of General Counsel (OGC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2797,
+  "out": 206
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,33 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica",
+   "model": "GR50 Highline GNSS",
+   "part": "GNSS receiver replacement for FPRN, replacing existing GR30 receivers",
+   "part_numbers": [
+    "GR50",
+    "GRL206",
+    "GEB242"
+   ],
+   "quantity": null,
+   "price_usd": 52608.0,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Level & Transit Co., Inc.",
+   "reason": "Florida Level & Transit Co., Inc., is the only known authorized distributor for the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Permanent Reference Network (FPRN), statewide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2569,
+  "out": 238
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "ISF, Inc.",
+   "model": "ESSENCE",
+   "part": "Hosting service for the ESSENCE (Electronic Surveillance System for the Early Notification of Community-Based Epidemics) database system",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 1136106.0,
+   "lead_time": null,
+   "sole_source_vendor": "ISF, Inc.",
+   "reason": "ISF, Inc. is the sole provider of all hosting services, software, and maintenance to the ESSENCE and EpiCom systems.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ISF, Inc.",
+   "model": "EpiCom",
+   "part": "Hosting service for the EpiCom database system",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 1136106.0,
+   "lead_time": null,
+   "sole_source_vendor": "ISF, Inc.",
+   "reason": "ISF, Inc. is the sole provider of all hosting services, software, and maintenance to the ESSENCE and EpiCom systems.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2988,
+  "out": 413
+ },
+ "model": "claude-sonnet-5"
+}

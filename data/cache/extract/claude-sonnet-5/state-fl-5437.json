@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Viken Detection",
+   "model": "Nighthawk BTX/DTX",
+   "part": "Handheld imaging system used by Port Investigators for package inspection",
+   "part_numbers": [],
+   "quantity": "1 year from issuance of original purchase order. Multiple purchase orders may be issued",
+   "price_usd": 175000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Viken Detection",
+   "reason": "The Viken Detection handheld Nighthawk BTX/DTX X-ray is the only device on the market that can provide true material identification for lead where it instantly alerts if lead is detected and an attachable DTX transmission arm for simultaneous scanning of Backscatter and Transmission.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3034,
+  "out": 277
+ },
+ "model": "claude-sonnet-5"
+}

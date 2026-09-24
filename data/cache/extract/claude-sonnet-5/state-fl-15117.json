@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Firstlogic Solutions",
+   "model": "Firstlogic Data Quality (CASS, ACE, DataRight IQ, Match/Consolidate)",
+   "part": "Annual license for FirstData Quality Subscription including CASS, ACE, DataRight IQ, Match/Consolidate and maintenance service",
+   "part_numbers": [],
+   "quantity": "1 Server, one year term 04/01/2026-03/31/2026",
+   "price_usd": 59986.26,
+   "lead_time": null,
+   "sole_source_vendor": "Firstlogic Solutions, LLC",
+   "reason": "The Department received a statement from Firstlogic Solutions that this is proprietary software package and it is only supported by Firstlogic Solutions.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida Department of Revenue - SUNTAX system",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2853,
+  "out": 303
+ },
+ "model": "claude-sonnet-5"
+}

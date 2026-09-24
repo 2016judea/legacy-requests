@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cadre",
+   "model": "TopMatch-3D",
+   "part": "Desktop 3D firearm scanner with GelSight-based imaging and analysis system for firearm forensics",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": 750000,
+   "lead_time": null,
+   "sole_source_vendor": "Cadre",
+   "reason": "The Cadre TopMatch-3D system is capable of scanning up to 15 cartridge cases in one batch and uses a proprietary electromagnetic gel-pad to address issues associated with scanning reflective metal surfaces.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cadre",
+   "model": "TopMatch-3D",
+   "part": "Portable 3D firearm scanner with GelSight-based imaging and analysis system for firearm forensics",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 750000,
+   "lead_time": null,
+   "sole_source_vendor": "Cadre",
+   "reason": "The gel-pad itself is patented technology (GelSight\\u00ae) and offers resolution needed to differentiate fine striations.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2826,
+  "out": 521
+ },
+ "model": "claude-sonnet-5"
+}

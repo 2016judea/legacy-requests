@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "LiDAR scanning system software support and maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Sole Source No. 5017; for the sole source certification of Light Detection and Ranging (LiDAR) scanning system software support and maintenance for the Department of Transportation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Department of Transportation",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1979,
+  "out": 679
+ },
+ "model": "claude-sonnet-5"
+}

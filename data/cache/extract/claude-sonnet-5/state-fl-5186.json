@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Real-time wave powered oceanographic profiler system/platform housing depth, temperature, conductivity, dissolved oxygen, chlorophyll, CDOM, backscatter, and PAR sensors",
+   "part_numbers": [],
+   "quantity": "3 years - upon issuance of purchase order",
+   "price_usd": 150000,
+   "lead_time": null,
+   "sole_source_vendor": "DMO",
+   "reason": "DMO is the only vendor that can produce a complete unit that has platform from which FWRI- HAB researchers can add in existing and future equipment and instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3054,
+  "out": 245
+ },
+ "model": "claude-sonnet-5"
+}

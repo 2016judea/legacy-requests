@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "SES America, Inc",
+   "model": "SCU6 V4",
+   "part": "Dynamic Message Sign controllers with included power supplies",
+   "part_numbers": [],
+   "quantity": "30",
+   "price_usd": 167000.0,
+   "lead_time": null,
+   "sole_source_vendor": "SES America, Inc",
+   "reason": "The SCU6 DMS controllers and power supplies are proprietary components manufactured exclusively by SES America, Inc and are specifically designed to operate with existing Skyline Dynamic Message Sign (DMS) infrastructure.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2570,
+  "out": 229
+ },
+ "model": "claude-sonnet-5"
+}

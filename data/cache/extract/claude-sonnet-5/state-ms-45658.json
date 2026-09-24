@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Reach Student Life",
+   "model": "Reach",
+   "part": "Reach Boarding Software and Management System (student life management platform for residential program)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Reach",
+   "reason": "Reach is the sole source provider of the Reach software platform and management system being procured by the Mississippi School for Mathematics and Science (MSMS).",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Mississippi School for Mathematics and Science",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5062,
+  "out": 697
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "HemoCue",
+   "model": "Hb 301 System",
+   "part": "Hemoglobin Analyzer",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 600000.0,
+   "lead_time": null,
+   "sole_source_vendor": "HemoCue America",
+   "reason": "HemoCue America is the exclusive manufacturer and seller of the Hb 301 hemoglobin analyzer and microcuvettes in the United States.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HemoCue",
+   "model": "Hb 301",
+   "part": "Microcuvettes",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "HemoCue America",
+   "reason": "HemoCue America is the exclusive manufacturer and seller of the Hb 301 hemoglobin analyzer and microcuvettes in the United States.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3457,
+  "out": 780
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Chembio Diagnostics Systems, Inc.",
+   "model": "SURE CHECK\u00ae HIV 1/2 Assay",
+   "part": "FDA approved HIV 1/2 test kits for at-risk communities",
+   "part_numbers": [],
+   "quantity": "Three Years",
+   "price_usd": 3000000,
+   "lead_time": null,
+   "sole_source_vendor": "Chembio Diagnostics Systems, Inc.",
+   "reason": "Chembio Diagnostics Systems, Inc. is the sole manufacturer and distributor of the Chembio SURE CHECK\u00ae HIV 1/2 Assay.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3082,
+  "out": 249
+ },
+ "model": "claude-sonnet-5"
+}

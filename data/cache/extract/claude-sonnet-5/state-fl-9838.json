@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Diverse Computing Inc. (DCI)",
+   "model": "IPC XML Communications Library / FCIC JXI Gateway",
+   "part": "Enterprise FCIC IPC XML Communications Library Maintenance and Gateway Production Enterprise License",
+   "part_numbers": [],
+   "quantity": "37 months",
+   "price_usd": 552744.0,
+   "lead_time": null,
+   "sole_source_vendor": "Diverse Computing Inc. (DCI)",
+   "reason": "The FCIC JXI Gateway product and IPC XML Communication Library are developed, licensed, and maintained exclusively by DCI. These products are not available through other firms.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2865,
+  "out": 260
+ },
+ "model": "claude-sonnet-5"
+}

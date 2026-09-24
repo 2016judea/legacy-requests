@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "RACO International",
+   "model": null,
+   "part": "Complete linear actuator for bridge span lock, self-locking acme screw driven by 3-phase electric motor with parallel gear box and electromagnetic brake",
+   "part_numbers": [],
+   "quantity": "One (1)",
+   "price_usd": 100000.0,
+   "lead_time": "21 weeks",
+   "sole_source_vendor": "RACO International, L.P.",
+   "reason": "RACO International is the only vendor that builds these actuator and thrust units for the District Two drawbridges (Bridge of Lions and Crescent Beach Bridge).",
+   "equipment_class": "other equipment",
+   "installed_location": "Crescent Beach Bridge, St Augustine, Florida",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "RACO International",
+   "model": null,
+   "part": "Replacement thrust units for bridge span locks",
+   "part_numbers": [],
+   "quantity": "Two (2)",
+   "price_usd": null,
+   "lead_time": "21 weeks",
+   "sole_source_vendor": "RACO International, L.P.",
+   "reason": "RACO International is the only vendor that builds these actuator and thrust units for the District Two drawbridges (Bridge of Lions and Crescent Beach Bridge).",
+   "equipment_class": "other equipment",
+   "installed_location": "Bridge of Lions and Crescent Beach moveable bridges",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2427,
+  "out": 1452
+ },
+ "model": "claude-sonnet-5"
+}

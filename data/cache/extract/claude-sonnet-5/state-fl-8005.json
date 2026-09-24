@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Freefly",
+   "model": "Alta X",
+   "part": "Unmanned Aircraft System (UAS) fire ignition system and ignition ball dispensing system",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Unmanned Aircraft System (UAS) fire ignition system and ignition ball dispensing system using Freefly Alta X Drone meeting Florida Administrative Code 60GG-.0075 Tier III method for security.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Drone Amplified",
+   "model": "IGNIS",
+   "part": "Aerial ignition system for unmanned aerial system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Drone Amplified",
+   "reason": "Drone Amplified has developed proprietary technology with IGNIS, the only aeial ignition system that can operate from an unmanned aerial system.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3151,
+  "out": 967
+ },
+ "model": "claude-sonnet-5"
+}

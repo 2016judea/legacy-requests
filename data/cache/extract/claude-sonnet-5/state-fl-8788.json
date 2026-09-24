@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Roche",
+   "model": "Cobas 5800",
+   "part": "FDA-approved analyzer compatible with multiple HIV and STI molecular assays",
+   "part_numbers": [],
+   "quantity": "One Year",
+   "price_usd": 200000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Roche Molecular",
+   "reason": "Roche Molecular is the exclusive manufacturer and distributor of the Cobas 5800 instrument.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Jacksonville PHL",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2715,
+  "out": 203
+ },
+ "model": "claude-sonnet-5"
+}

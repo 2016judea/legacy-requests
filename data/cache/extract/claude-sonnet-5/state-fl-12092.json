@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Mettler Toledo",
+   "model": "PDX",
+   "part": "Replacement scale system for Northbound and Southbound Scale 2 at Punta Gorda Weigh Stations",
+   "part_numbers": [],
+   "quantity": "One (1) Year",
+   "price_usd": 767706.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mettler Toledo, LLC",
+   "reason": "The existing computer systems for the scales were developed by Mettler Toledo and are compatible with the existing 7541 scales throughout the state.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Punta Gorda Weigh Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Mettler Toledo",
+   "model": "7541",
+   "part": "Existing scales throughout the state requiring compatible replacement parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mettler Toledo, LLC",
+   "reason": "The new scale system must remain compatible with the existing 7541 scales throughout the state which further reduces maintenance costs by ensuring FDOT has the spare parts necessary to repair the scales.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Mettler Toledo",
+   "model": "WIM Scale Management Software",
+   "part": "Weigh-In-Motion (WIM) system software enabling auto calibration, center of gravity assessment, auto release and WIM record verification",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mettler Toledo, LLC",
+   "reason": "Mettler Toledo has exclusive copyright to the software, and there are no resellers for the Scale Management software/hardware integration.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Punta Gorda Weigh Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3004,
+  "out": 913
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Liftking",
+   "model": "LK20M-HD",
+   "part": "Forklift with 20,000lb lift capacity, rough terrain capabilities, and four-wheel drive",
+   "part_numbers": [],
+   "quantity": "One year",
+   "price_usd": 211016.44,
+   "lead_time": null,
+   "sole_source_vendor": "Ring Power Corporation",
+   "reason": "The Liftking model LK20M-HD has been identified as the only known model that meets the Department's lift capacity, terrain capabilities, and drive requirements. Ring Power Corporation is the sole source solution provider for Liftking sales, service, parts, and warranty in the Florida market.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Department's Aluminum Shop",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2527,
+  "out": 269
+ },
+ "model": "claude-sonnet-5"
+}

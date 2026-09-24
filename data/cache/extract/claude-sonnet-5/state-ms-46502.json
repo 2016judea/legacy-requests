@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Saladax Biomedical, Inc.",
+   "model": null,
+   "part": "MyCare Clozapine Assay Kit",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2150.0,
+   "lead_time": null,
+   "sole_source_vendor": "Saladax Biomedical, Inc.",
+   "reason": "Saladax Biomedical is the proprietor of this assay and we are unable to attain these reagents from any other reagent production company.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi State Hospital",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Saladax Biomedical, Inc.",
+   "model": null,
+   "part": "MyCare Clozapine Calibration Kit 2",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Saladax Biomedical, Inc.",
+   "reason": "Saladax Biomedical is the proprietor of this assay and we are unable to attain these reagents from any other reagent production company.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi State Hospital",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Saladax Biomedical, Inc.",
+   "model": null,
+   "part": "MyCare Clozapine Control Kit 2",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Saladax Biomedical, Inc.",
+   "reason": "Saladax Biomedical is the proprietor of this assay and we are unable to attain these reagents from any other reagent production company.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mississippi State Hospital",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5019,
+  "out": 1164
+ },
+ "model": "claude-sonnet-5"
+}

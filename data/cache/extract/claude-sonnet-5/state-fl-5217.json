@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Applied BioSystems",
+   "model": null,
+   "part": "Proprietary PCR-based DNA analysis instruments/equipment used in FDLE crime laboratories",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies Corporation",
+   "reason": "These instruments that have been tested and validated require a service contract for periodic maintenance and technical support.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDLE Regional Operations Centers / crime laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies Corporation",
+   "model": null,
+   "part": "Approved chemical reagents and supplies compatible with agency validated PCR DNA analysis equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies Corporation",
+   "reason": "FDLE must purchase approved chemical reagents, supplies, software upgrades and equipment maintenance which is compatible with agency validated equipment and procedures.",
+   "equipment_class": "other equipment",
+   "installed_location": "FDLE Regional Operations Centers / crime laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies Corporation",
+   "model": null,
+   "part": "Software upgrades and equipment maintenance service contract for validated laboratory instruments",
+   "part_numbers": [],
+   "quantity": "July 1, 2023 - June 30, 2024",
+   "price_usd": 6200000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies Corporation",
+   "reason": "All proprietary instruments must be serviced by Life Technologies due to the certification and training of their service engineers, access to instruments, software upgrades and authorized replacement parts.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "FDLE Regional Operations Centers / crime laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2851,
+  "out": 2097
+ },
+ "model": "claude-sonnet-5"
+}

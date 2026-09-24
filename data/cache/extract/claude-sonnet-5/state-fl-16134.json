@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica Geosystems",
+   "model": null,
+   "part": "Leica GeoSystems Photogrammetry Software Support and Maintenance",
+   "part_numbers": [],
+   "quantity": "Three (3) Years",
+   "price_usd": 75000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Leica GeoSystems, Inc.",
+   "reason": "Leica GeoSystems Inc. is the licensed distributor of this software and is the only known source available to provide the required software, training, support, and maintenance.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2478,
+  "out": 214
+ },
+ "model": "claude-sonnet-5"
+}

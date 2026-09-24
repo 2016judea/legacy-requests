@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "MIT SCAN",
+   "part": "Magnetic Imaging Tool - DOWEL - Scan (MIT SCAN) - magnetic imaging tool for measuring dowel and tie bar alignments in concrete pavement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 71355.0,
+   "lead_time": null,
+   "sole_source_vendor": "Kessler Soils Engineering Products, Inc.",
+   "reason": "The KSE Testing Equipment (KSE) is the sole distributor for MIT Magnetic Tomography NDT equipment in the USA.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2542,
+  "out": 248
+ },
+ "model": "claude-sonnet-5"
+}

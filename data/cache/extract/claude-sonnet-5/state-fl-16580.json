@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica",
+   "model": null,
+   "part": "Customer Care Packages (CCPs) software maintenance and support for Leica surveying software and FPRN equipment",
+   "part_numbers": [],
+   "quantity": "One (1) Year",
+   "price_usd": 180483.65,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Level & Transit Co., Inc.",
+   "reason": "Florida Level & Transit Co., is Leica's sole authorized distributor in the State of Florida. The Customer Care Packages are proprietary to Leica and are used to maintain, update, and support the Department's existing Leica surveying software and equipment, which no other vendor can provide.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2840,
+  "out": 315
+ },
+ "model": "claude-sonnet-5"
+}

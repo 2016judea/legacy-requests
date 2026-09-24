@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "LABWORKS, LLC",
+   "model": "LABWORKS LIMS",
+   "part": "Software licenses, software and hardware support, training for the Agricultural Environmental Services, Labworks- Laboratory Information Management System (LIMS)",
+   "part_numbers": [],
+   "quantity": "Upon Execution through May 2024",
+   "price_usd": 65000,
+   "lead_time": null,
+   "sole_source_vendor": "LABWORKS LLC",
+   "reason": "Lab Works, LLC is the original software manufacturer for LABWORKS LIMS and is the only known source of support and training for this software. There are no authorized distributors or resellers.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2834,
+  "out": 254
+ },
+ "model": "claude-sonnet-5"
+}

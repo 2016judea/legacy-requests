@@ -1,0 +1,33 @@
+{
+ "records": [
+  {
+   "manufacturer": "Marsh Master",
+   "model": "MM-2MX-KC-FF",
+   "part": "Marsh Master MM-2MX-KC-FF with Fire Package (Kohler Engine, Hi/Low Flow Pumps & Rear Hitch; O/H Basket, Jack, Catwalk, Cab Fans, Camera), rotary cutter attachment, and extra long galvanized tilt deck trailer",
+   "part_numbers": [
+    "MM-2MX-KC-FF",
+    "MM-2MX",
+    "MM-2 TRLR"
+   ],
+   "quantity": "1",
+   "price_usd": 246390.0,
+   "lead_time": null,
+   "sole_source_vendor": "Coast Machinery, LLC",
+   "reason": "The other brands discovered did not have the implement flexibility of the Marsh Master required for Fire Suppression or resource management in state parks, so you would need to have multiple vehicles",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3228,
+  "out": 657
+ },
+ "model": "claude-sonnet-5"
+}

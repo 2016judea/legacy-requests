@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Security Badge/Alarm System hardware and software (door swipes, gates, controllers, monitoring) integrating with Tallahassee Georgia-Florida Burglar Alarm system",
+   "part_numbers": [],
+   "quantity": "One year from issuance of purchase order",
+   "price_usd": 41193.0,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Company",
+   "reason": "The system is proprietary and the hardware and software are currently installed and monitored by the Georgia-Florida Burglar Alarm company. Only Georgia-Florida Burglar Alarm System can provide this continual and connective service.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "FWC Northeast Region Ocala Office Complex (Ocala Main Office, Hangar Building, Withlacoochee Building, Annex Building, fenced area)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Installation of Security Badge/Alarm System (door swipes, gates, controllers, monitoring)",
+   "part_numbers": [],
+   "quantity": "One year from issuance of purchase order",
+   "price_usd": 16856.0,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Company",
+   "reason": "Only Georgia-Florida Burglar Alarm System can provide this continual and connective service. Reference proposal #25-21GF for Product / Installation detail.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "FWC Northeast Region Ocala Office Complex (Ocala Main Office, Hangar Building, Withlacoochee Building, Annex Building, fenced area)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3113,
+  "out": 1312
+ },
+ "model": "claude-sonnet-5"
+}

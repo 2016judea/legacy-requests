@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "HID Global Corporation (formerly Crossmatch)",
+   "model": null,
+   "part": "Hardware and Software maintenance of HID/CrossMatch equipment located throughout the state",
+   "part_numbers": [],
+   "quantity": "Date of Execution thru June 30, 2023",
+   "price_usd": 121165.69,
+   "lead_time": null,
+   "sole_source_vendor": "HID Global Corporation",
+   "reason": "HID Global Corporation formerly Crossmatch is the manufacturer of the equipment and the only known source able to provide this service.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "throughout the state",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2622,
+  "out": 228
+ },
+ "model": "claude-sonnet-5"
+}

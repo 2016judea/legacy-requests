@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Carmody",
+   "model": "SepticSearch",
+   "part": "Onsite sewage management software database system - installation and training",
+   "part_numbers": [],
+   "quantity": "One (1) Year",
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": "Carmody\u00ae / SepticSearch",
+   "reason": "The Carmody\u00ae / SepticSearch system is the sole provider of OSTDS digital records having developed and implemented a septic system records management software and online records retrieval system that was designed specifically for Florida\u2019s septic system permitting rules, forms, and compliance documents.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2964,
+  "out": 236
+ },
+ "model": "claude-sonnet-5"
+}

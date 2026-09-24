@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Veritec Solutions, LLC",
+   "model": "Check Cashing Database (CCDB)",
+   "part": "Software license, call center support, hosting, operations, and ongoing maintenance services for the existing Check Cashing Database (CCDB)",
+   "part_numbers": [],
+   "quantity": "July 1, 2024 - June 30, 2027 (36 Months)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Catalis Regulatory & Compliance, LLC",
+   "reason": "The proprietary solution and underlying database are accessible only through the Catalis online portal and are not available through any other vendor.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2913,
+  "out": 255
+ },
+ "model": "claude-sonnet-5"
+}

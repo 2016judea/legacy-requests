@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Phonak",
+   "model": null,
+   "part": "Phonak brand hearing aid parts and repair service",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 19999.99,
+   "lead_time": null,
+   "sole_source_vendor": "Sonova USA, Inc.",
+   "reason": "Phonak is the manufacturer and the only US source for Roger products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Roger",
+   "model": null,
+   "part": "Roger brand hearing aid parts and repair service, including accessories, Soundfield speakers, and ear level receivers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sonova USA, Inc.",
+   "reason": "Sonova USA is the sole US wholesaler for Roger products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2501,
+  "out": 969
+ },
+ "model": "claude-sonnet-5"
+}

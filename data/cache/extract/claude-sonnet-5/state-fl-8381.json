@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Access It!",
+   "part": "Security controlled Building entry software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Co., Inc.",
+   "reason": "Georgia-Florida Burglar Alarm Co., Inc. is the only authorized distributor of AHCA\u2019s security controlled Building entry software, Access It!.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "AHCA Headquarters, Building 2, Building 3, and Building 4 at the Ft. Knox Complex",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "RS2 Technologies",
+   "model": "Dual controllers",
+   "part": "Access control system controllers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Co., Inc.",
+   "reason": "They are also the only approved RS2 Technologies supplier in the areas of North Florida and South Georgia.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "AHCA Headquarters, Building 2, Building 3, and Building 4 at the Ft. Knox Complex",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HES",
+   "model": null,
+   "part": "Electric strikes for door access",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Co., Inc.",
+   "reason": "Georgia-Florida Burglar Alarm Co., Inc. possesses the historical knowledge of all RS2 Dual controllers, HES electric strikes, Maglocks locks, ID card readers, network wiring, integration, installations, and configuration of equipment associated with the systems currently installed at the Agency's HQ location.",
+   "equipment_class": "other equipment",
+   "installed_location": "AHCA Headquarters, Building 2, Building 3, and Building 4 at the Ft. Knox Complex",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Maglocks",
+   "part": "Maglocks locks for door security",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Co., Inc.",
+   "reason": "Georgia-Florida Burglar Alarm Co., Inc. possesses the historical knowledge of all RS2 Dual controllers, HES electric strikes, Maglocks locks, ID card readers, network wiring, integration, installations, and configuration of equipment associated with the systems currently installed at the Agency's HQ location.",
+   "equipment_class": "other equipment",
+   "installed_location": "AHCA Headquarters, Building 2, Building 3, and Building 4 at the Ft. Knox Complex",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "ID card readers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Co., Inc.",
+   "reason": "Georgia-Florida Burglar Alarm Co., Inc. possesses the historical knowledge of all RS2 Dual controllers, HES electric strikes, Maglocks locks, ID card readers, network wiring, integration, installations, and configuration of equipment associated with the systems currently installed at the Agency's HQ location.",
+   "equipment_class": "other equipment",
+   "installed_location": "AHCA Headquarters, Building 2, Building 3, and Building 4 at the Ft. Knox Complex",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Ongoing monitoring, system upgrading, and maintenance for the Agency's existing controlled security access system, ID badging system, and surveillance system",
+   "part_numbers": [],
+   "quantity": "Three (3) years (Novemeber 2023 - October 2026)",
+   "price_usd": 105000,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Co., Inc.",
+   "reason": "Therefore, Georgia-Florida Burglar Alarm Co., Inc. is the only vendor capable of monitoring and maintaining AHCA\u2019s exisitng security infrastructure.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "AHCA Headquarters, Building 2, Building 3, and Building 4 at the Ft. Knox Complex",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2801,
+  "out": 2769
+ },
+ "model": "claude-sonnet-5"
+}

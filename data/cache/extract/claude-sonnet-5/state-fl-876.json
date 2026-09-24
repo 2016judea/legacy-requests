@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sonitrol",
+   "model": null,
+   "part": "Monthly monitoring and maintenance service for existing security system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": "Sonitrol",
+   "reason": "Sonitrol has exclusive rights to all upgrades, modifications and enhancements needed to maintain continuity of this integrated system.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Capitol Circle Office Complex (CCOC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2595,
+  "out": 202
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "PTV AG",
+   "model": "PTV Visum",
+   "part": "PTV Visum Software with Maintenance",
+   "part_numbers": [],
+   "quantity": "Three (3) Years",
+   "price_usd": 120491.71,
+   "lead_time": null,
+   "sole_source_vendor": "PTV America, Inc.",
+   "reason": "PTV America, Inc. is the sole distributor of the PTV Vision Traffic Suite software products and related Services in North America.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2389,
+  "out": 193
+ },
+ "model": "claude-sonnet-5"
+}

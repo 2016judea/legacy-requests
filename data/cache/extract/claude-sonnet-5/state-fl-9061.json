@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Radiation Solutions, Inc.",
+   "model": null,
+   "part": "Radiation Level Detection Devices including repairs and parts",
+   "part_numbers": [],
+   "quantity": "Three (3) years",
+   "price_usd": 3000000,
+   "lead_time": null,
+   "sole_source_vendor": "Radiation Solutions, Inc.",
+   "reason": "Radiation Solutions, Inc. is the sole provider of these radiation level detection devices and does not offer their products through any third party vendor.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2737,
+  "out": 206
+ },
+ "model": "claude-sonnet-5"
+}

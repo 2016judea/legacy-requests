@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Mettler-Toledo Rainin",
+   "model": "LiteTouch System (LTS)",
+   "part": "Pipette tips and associated supplies unique to Mettler-Toledo Rainin pipettes and injection system",
+   "part_numbers": [],
+   "quantity": "3-year term",
+   "price_usd": 510000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mettler-Toledo Rainin",
+   "reason": "Mettler-Toledo Rainin is the exclusive manufacturer and distributor for the specific testing items being purchased.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2798,
+  "out": 248
+ },
+ "model": "claude-sonnet-5"
+}

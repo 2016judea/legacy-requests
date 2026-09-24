@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hohonu",
+   "model": null,
+   "part": "Hohonu Ultrasonic and Radar Water Level Sensors (flood sensors) - furnish and install",
+   "part_numbers": [],
+   "quantity": "Three (3) Years",
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": "Hohonu, Inc.",
+   "reason": "This vendor is the sole provider of the Hohonu Water Level Sensor.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "St. Johns County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2599,
+  "out": 200
+ },
+ "model": "claude-sonnet-5"
+}

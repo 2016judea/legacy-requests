@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "EcoCounter",
+   "model": "WAViX",
+   "part": "Electronic vehicle/pedestrian counter",
+   "part_numbers": [
+    "WAViX"
+   ],
+   "quantity": "10 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "EcoCounter",
+   "reason": "This vendor exclusively produces vehicle and pedestrian counters and services meeting the required specifications needed for the collection of visitation data.",
+   "equipment_class": "other equipment",
+   "installed_location": "Wildlife Management Area entrances, trailheads, and other locations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "EcoCounter",
+   "model": "ZELT Evi Car",
+   "part": "Electronic vehicle counter",
+   "part_numbers": [
+    "ZELT Evi Car"
+   ],
+   "quantity": "70 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "EcoCounter",
+   "reason": "This vendor exclusively produces vehicle and pedestrian counters and services meeting the required specifications needed for the collection of visitation data.",
+   "equipment_class": "other equipment",
+   "installed_location": "Wildlife Management Area entrances, trailheads, and other locations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "EcoCounter",
+   "model": "Components #797",
+   "part": "Counter component/accessory",
+   "part_numbers": [
+    "#797"
+   ],
+   "quantity": "73 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "EcoCounter",
+   "reason": "This vendor exclusively produces vehicle and pedestrian counters and services meeting the required specifications needed for the collection of visitation data.",
+   "equipment_class": "other equipment",
+   "installed_location": "Wildlife Management Area entrances, trailheads, and other locations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "EcoCounter",
+   "model": "ZELT Evo Cars -1 Loop - motorized vehicles - NoActivated",
+   "part": "Electronic vehicle counter, inductive loop, motorized vehicles",
+   "part_numbers": [
+    "ZELT Evo Cars -1 Loop - motorized vehicles - NoActivated"
+   ],
+   "quantity": "2 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "EcoCounter",
+   "reason": "This vendor exclusively produces vehicle and pedestrian counters and services meeting the required specifications needed for the collection of visitation data.",
+   "equipment_class": "other equipment",
+   "installed_location": "Wildlife Management Area entrances, trailheads, and other locations",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3227,
+  "out": 1564
+ },
+ "model": "claude-sonnet-5"
+}

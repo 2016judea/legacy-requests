@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens",
+   "model": null,
+   "part": "Field Panels and associated terminal level equipment utilizing Siemens proprietary protocol and technology",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Building Technologies, Inc.",
+   "reason": "Field Panels and associated terminal level equipment located at the Conner Complex laboratories and the Mayo Building utilize Siemens proprietary protocol and technology, which is non BACNet and protected by U.S. patents.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Conner Complex Laboratory facility and the Mayo Building",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens",
+   "model": "Insight Workstation Software",
+   "part": "Software for configuration, programming and editing Siemens building automation products",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Building Technologies, Inc.",
+   "reason": "Siemens Insight Workstation Software located at the Conner Complex and Mayo Building is the only factory certified product supported for configuration, programming and editing Siemens products installed at both facilities.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Conner Complex Laboratory facility and the Mayo Building",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens",
+   "model": null,
+   "part": "Installation and maintenance service for Siemens building automation systems hardware and software",
+   "part_numbers": [],
+   "quantity": "Date of Execution thru September 30, 2024",
+   "price_usd": 37611.0,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Building Technologies, Inc.",
+   "reason": "The Siemens systems hardware and software installed in the Conner Complex Laboratory facility and the Mayo Building is proprietary and is the only known source able to provide this service(s).",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Conner Complex Laboratory facility and the Mayo Building",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3091,
+  "out": 1278
+ },
+ "model": "claude-sonnet-5"
+}

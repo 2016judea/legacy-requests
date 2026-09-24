@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Beckman Coulter",
+   "model": "LS6500",
+   "part": "Beckman LS6500 Liquid Scintillation Counter (Refurbished)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 20994.36,
+   "lead_time": null,
+   "sole_source_vendor": "GMI OpCo, LLC",
+   "reason": "The LS6500 system contains a radioactive source and is no longer manufactured or supported by Beckman Coulter. GMI is the only qualified vendor with the appropriate licensing and expertise to provide a re-certified instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Department of Chemistry & Biochemistry",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3487,
+  "out": 250
+ },
+ "model": "claude-sonnet-5"
+}

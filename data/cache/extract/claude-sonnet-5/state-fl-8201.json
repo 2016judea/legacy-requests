@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Volatus Aerospace",
+   "model": "Spirit",
+   "part": "Purchase of Drone and C2 Apparatus to support UAS command and control (Spirit All-Weather Unmanned Aerial Vehicle and accessories/components and command and control vehicles)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 798782.0,
+   "lead_time": null,
+   "sole_source_vendor": "Volatus Aerospace USA Corp.",
+   "reason": "Volatus Aerospace is the only known company that manufactures and distributes the Spirit All- Weather Unmanned Aerial Vehicle and the necessary accessories/components and command and control vehicles for their operation. They are not available through any other third party vendor.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2675,
+  "out": 286
+ },
+ "model": "claude-sonnet-5"
+}

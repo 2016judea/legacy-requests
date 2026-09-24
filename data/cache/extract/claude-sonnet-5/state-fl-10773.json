@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "GLOCK",
+   "model": "G45/G48",
+   "part": "Handguns for Probation Officers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GLOCK Inc.",
+   "reason": "Purchasing from a vendor other than GLOCK would require the discontinuance of previously purchased weapons and neccesitate the retraining of Department personnel.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GLOCK",
+   "model": null,
+   "part": "Night sights",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GLOCK Inc.",
+   "reason": "Purchasing from a vendor other than GLOCK would require the discontinuance of previously purchased weapons and neccesitate the retraining of Department personnel.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GLOCK",
+   "model": null,
+   "part": "Magazines",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GLOCK Inc.",
+   "reason": "Purchasing from a vendor other than GLOCK would require the discontinuance of previously purchased weapons and neccesitate the retraining of Department personnel.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GLOCK",
+   "model": null,
+   "part": "Gun locks",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GLOCK Inc.",
+   "reason": "Purchasing from a vendor other than GLOCK would require the discontinuance of previously purchased weapons and neccesitate the retraining of Department personnel.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GLOCK",
+   "model": null,
+   "part": "GLOCK Armorer courses to train and certify staff to service, maintain and repair GLOCK handguns",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2000000,
+   "lead_time": null,
+   "sole_source_vendor": "GLOCK Professional, Inc.",
+   "reason": "GLOCK Professional, Inc., a subsidiary of GLOCK Inc., is the only authorized provider of GLOCK training courses.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2765,
+  "out": 1328
+ },
+ "model": "claude-sonnet-5"
+}

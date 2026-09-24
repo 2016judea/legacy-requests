@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ACF Technologies, Inc.",
+   "model": "Q-Flow Automated Queuing System",
+   "part": "Licenses, enhancements, upgrades, software maintenance and technical support for the Q-Flow Automated Queuing System",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 1500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "ACF Technologies, Inc.",
+   "reason": "ACF Technologies Inc, is the sole provide and distributor of licenses, enhancements, upgrades, software maintenance and support of the Department\u2019s current Q-Flow Automated Queuing System and have exclusive rights to all licenses, enhancements, upgrades, software maintenance and support needed to maintain continuity of this integrated queuing system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Statewide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2707,
+  "out": 310
+ },
+ "model": "claude-sonnet-5"
+}

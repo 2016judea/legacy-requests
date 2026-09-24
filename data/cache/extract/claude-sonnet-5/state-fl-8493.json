@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "FARO Technologies, Inc.",
+   "model": "Focus Premium",
+   "part": "3D Laser Scanner used to document crime scenes via photographs and measurements for 3D recreation",
+   "part_numbers": [],
+   "quantity": "One (1) Year",
+   "price_usd": 180000.0,
+   "lead_time": null,
+   "sole_source_vendor": "FARO Technologies, Inc.",
+   "reason": "FARO Technologies, Inc. is the sole developer and manufacturer of the FARO Laser Scanners.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FARO Technologies, Inc.",
+   "model": "Scene / Scene 2 Go / Faro Zone 2D / Faro Zone 3D",
+   "part": "Proprietary software used with FARO laser scanners to digitally recreate crime scenes in 3D",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FARO Technologies, Inc.",
+   "reason": "The software that the FDLE Crime Scene discipline currently uses (Scene and Scene 2go) is only compatible with FARO scanners.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2875,
+  "out": 1730
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Marsh Master",
+   "model": "MM-2MX-KC-FF",
+   "part": "Marsh Master MM-2MX-KC-FF with Fire Package; KC: Kohler Engine, Hi/Low Flow Pumps & Rear Hitch; O/H Basket, Jack, Catwalk, Cab Fans, Camera and deck liner",
+   "part_numbers": [
+    "MM-2MX-KC-FF"
+   ],
+   "quantity": "One-time purchase upon execution of a purchase order.",
+   "price_usd": 251575.0,
+   "lead_time": null,
+   "sole_source_vendor": "Coast Machinery, LLC dba Marsh Master",
+   "reason": "A Marsh Master, supplied by Coast Machinery LLC is the only equipment we have found to suit our needs.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Christmas, FL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "TRLR SLG-L",
+   "part": "Standard Length Galvanized Tilt Deck Trailer with Electric Brakes",
+   "part_numbers": [
+    "TRLR SLG-L"
+   ],
+   "quantity": "One-time purchase upon execution of a purchase order.",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Coast Machinery, LLC dba Marsh Master",
+   "reason": "A Marsh Master, supplied by Coast Machinery LLC is the only equipment we have found to suit our needs.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Christmas, FL",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3241,
+  "out": 779
+ },
+ "model": "claude-sonnet-5"
+}

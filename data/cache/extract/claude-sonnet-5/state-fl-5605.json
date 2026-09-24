@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Preventive maintenance, emergency services and battery management for existing Liebert Power Equipment UPS system, including UPS/battery, static transfer switch, power distribution units and monitoring products",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 132499.05,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Vertiv Corporation is the only authorized service provider for the Liebert power product line with the regional area.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Lottery headquarters",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2553,
+  "out": 230
+ },
+ "model": "claude-sonnet-5"
+}

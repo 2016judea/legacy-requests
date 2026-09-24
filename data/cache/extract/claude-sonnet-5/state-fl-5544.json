@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Yokogawa Fluid Imaging Technologies",
+   "model": "FlowCam",
+   "part": "Bench Top FlowCam - benchtop imaging flow cytometer that captures high-resolution digital images of particles and organisms suspended in liquid",
+   "part_numbers": [],
+   "quantity": "Up to 3 years - upon issuance of purchase order",
+   "price_usd": 122000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Yokogawa Fluid Imaging Technologies, Inc.",
+   "reason": "Yokogawa Fluid Imaging Technologies, Inc. is the sole manufacturer and sole distributor of the FlowCam in the United States and Canada.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Fish and Wildlife Research Institute",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Yokogawa Fluid Imaging Technologies",
+   "model": "Automated Liquid Handling (ALH) for FlowCam",
+   "part": "Automated Liquid Handling system integrating with FlowCam 8000 Series for automated sample preparation and analysis",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Yokogawa Fluid Imaging Technologies, Inc.",
+   "reason": "this is the only bench top cytometer that has the Automated Liquid Handling (ALH) for FlowCam\u2122 which seamlessly integrates with FlowCam 8000 Series instruments",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Fish and Wildlife Research Institute",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3047,
+  "out": 565
+ },
+ "model": "claude-sonnet-5"
+}

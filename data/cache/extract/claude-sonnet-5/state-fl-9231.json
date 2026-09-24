@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Life Technologies Corporation",
+   "model": null,
+   "part": "Implements, software and maintenance for PCR-based DNA analysis instruments (chemical reagents, supplies, software upgrades, equipment maintenance)",
+   "part_numbers": [],
+   "quantity": "July 1, 2024 - June 30,2025",
+   "price_usd": 7000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies Corporation",
+   "reason": "the chemical reagents, supplies, software upgrades and equipment maintenance is only available through Life Technologies Corporation.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "FDLE Regional Operations Centers crime laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2850,
+  "out": 602
+ },
+ "model": "claude-sonnet-5"
+}

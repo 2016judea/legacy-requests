@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Aquatic Informatics",
+   "model": "AQUARIUS",
+   "part": "Annual Aquarius Time Series Server, Software License and Support agreement",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": 72320.0,
+   "lead_time": null,
+   "sole_source_vendor": "Aquatic Informatics",
+   "reason": "AI is the copyright owner of Aquarius and the only authorized agent to provide licenses and support for said technology.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2606,
+  "out": 199
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Syntech Systems, Inc.",
+   "model": "FuelMaster FMLive Service",
+   "part": "FuelMaster FMLive Service Proprietary Software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3000,
+   "lead_time": null,
+   "sole_source_vendor": "Syntech Systems, Inc.",
+   "reason": "Syntech Systems, Inc. (STS) is the sole source for all FuelMaster Software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Syntech Systems, Inc.",
+   "model": "FuelMaster model series 2000, 3000, 4000, 5000 and AIM product line",
+   "part": "FuelMaster brand fuel management system (fuel dispensers/island controller hardware)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Syntech Systems, Inc.",
+   "reason": "FSDB currently has in place a FuelMaster brand fuel management system which is compatible only with the FuelMaster software.",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2497,
+  "out": 454
+ },
+ "model": "claude-sonnet-5"
+}

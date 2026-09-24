@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "InnovaSea",
+   "model": null,
+   "part": "Submersible receivers, data telemetry transmitters, tags, proprietary or unique accessories and software, and any updated or improved versions of these",
+   "part_numbers": [],
+   "quantity": "3 years - Upon execution of contract through 06/30/2025",
+   "price_usd": 3000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "InnovaSea",
+   "reason": "The products that we are requesting can only be purchased from INNOVASEA due to compatibility issues with tracking instruments already in use.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3030,
+  "out": 231
+ },
+ "model": "claude-sonnet-5"
+}

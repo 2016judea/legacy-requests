@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Road Weather Flood Sensor",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Nutter & Associates",
+   "reason": "The Department of Transportation, District Two, provides notice that it intends to enter into a single source purchase with Nutter & Associates.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Nassau County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1984,
+  "out": 176
+ },
+ "model": "claude-sonnet-5"
+}

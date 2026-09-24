@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Environmental Systems Research Institute (ESRI), Inc.",
+   "model": null,
+   "part": "ESRI Maintenance Renewal",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute (ESRI), Inc.",
+   "reason": "The Florida Division of Emergency Management provides notice that it intends to enter into a single source purchase with Environmental Systems Research Institute (ESRI), Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1978,
+  "out": 659
+ },
+ "model": "claude-sonnet-5"
+}

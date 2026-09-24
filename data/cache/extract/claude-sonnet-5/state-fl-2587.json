@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica",
+   "model": "GS18T",
+   "part": "GNSS antennas/controllers replacing existing GS15 antennas for GNSS carrier phase and code range measurements",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 209566.8,
+   "lead_time": "Eight (8) Months",
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "FLT Geosystems is the sole authorized distributer for Leica Geosystems in the state of Florida \"High-end Surveying\" segment consisting of GNSS, Robotic surveying instruments, related field and office software, firmware and CCP (Customer Care Packages) within the state of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": "GS15",
+   "part": "Existing GNSS antennas being replaced (do not support tilt compensation or all constellations, or cellular communications due to dismantling of 3G service)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "The existing GNSS antennas, controllers used to collect this information do not support tilt compensation or all the constellations supported by the FPRN, or cellular communications due to the dismantling of 3G service.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2560,
+  "out": 496
+ },
+ "model": "claude-sonnet-5"
+}

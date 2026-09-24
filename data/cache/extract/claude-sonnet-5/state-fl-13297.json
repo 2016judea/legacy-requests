@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sea-Bird Scientific",
+   "model": null,
+   "part": "Conductivity, Temperature, and Depth (CTD) Profilers",
+   "part_numbers": [],
+   "quantity": "four (4)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sea-Bird Scientific",
+   "reason": "Sea-Bird Scientific is the sole manufacturer and supplier of Sea-Bird products, and they are the only authorized facility equipped to perform service and calibration of Sea-Bird instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sea-Bird Scientific",
+   "model": null,
+   "part": "Auxiliary Sensors for CTD Profilers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sea-Bird Scientific",
+   "reason": "We have four Sea-Bird Conductivity, Temperature, and Depth Profilers equipped with Sea-Bird auxiliary sensors that are crucial to further water quality research in the Harmful Algal Blooms group.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sea-Bird Scientific",
+   "model": "SUNA",
+   "part": "Submersible Underwater Nutrient Analyzer (SUNA) sensor",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sea-Bird Scientific",
+   "reason": "We have also procured a Submersible Underwater Nutrient Analyzer (SUNA) sensor and may procure more, and Sea-Bird are the only providers of that sensor.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "West Florida Shelf moorings, glider deployments",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sea-Bird Scientific",
+   "model": null,
+   "part": "Calibration, maintenance, and repair service for Sea-Bird CTD profilers and sensors",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 150000,
+   "lead_time": null,
+   "sole_source_vendor": "Sea-Bird Scientific",
+   "reason": "They recommend recalibrating Conductivity, Temperature, and Depth Profilers and sensors once per year at Sea-Bird's facilities.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3284,
+  "out": 1223
+ },
+ "model": "claude-sonnet-5"
+}

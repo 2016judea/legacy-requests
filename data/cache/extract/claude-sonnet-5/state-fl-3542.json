@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Insum AuthZ",
+   "part": "Oracle Application Express architecture, implementation support, and Insum AuthZ Single Sign On integration services",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 1183000,
+   "lead_time": null,
+   "sole_source_vendor": "Insum Solutions",
+   "reason": "Insum Solutions is the only organization that can provide assistance with the usage of the proprietary Insum Authz product into Application Express, as they are the developers of this product",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida Board of Governors",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2948,
+  "out": 704
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "fingerprint scanner maintenance and support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Sole Source No. 4726; for the sole source certification of fingerprint scanner maintenance and support for the Department of Rehabilitation Services.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Department of Rehabilitation Services",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1961,
+  "out": 607
+ },
+ "model": "claude-sonnet-5"
+}

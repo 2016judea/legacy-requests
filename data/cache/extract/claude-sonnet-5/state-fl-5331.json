@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Juvare",
+   "model": "WebEOC",
+   "part": "WebEOC Subscription renewal for 150 users",
+   "part_numbers": [],
+   "quantity": "150 users",
+   "price_usd": 46800.0,
+   "lead_time": "One (1) Year",
+   "sole_source_vendor": "ESi Acquisition, Inc., a Juvare Company, LLC.",
+   "reason": "Juvare (ESi Acquisition, Inc.) is the creator and developer of WebEOC and as such is the only known vendor who can provide this product. There are no known resellers/distributors",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2386,
+  "out": 230
+ },
+ "model": "claude-sonnet-5"
+}

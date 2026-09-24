@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "RemoteCOM",
+   "part": "Computer, smartphone, and tablet monitoring service for offenders on probation, parole and pre-trial release",
+   "part_numbers": [],
+   "quantity": "Five (5) Year Term (60 months)",
+   "price_usd": 133250.0,
+   "lead_time": null,
+   "sole_source_vendor": "RemoteCOM",
+   "reason": "It has been determined that RemoteCOM is the only vendor that can meet the Department's needs at this time.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2659,
+  "out": 208
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "MGS LLC",
+   "model": null,
+   "part": "Rifle and pistol training weapons kits",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "MCTFT is requesting the use of a sole source vendor for the purchase of rifle and pistol kits due to the vendor being the sole distributor that has in stock now all of the product needed for training.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2696,
+  "out": 188
+ },
+ "model": "claude-sonnet-5"
+}

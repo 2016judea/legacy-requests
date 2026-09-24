@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "KindVR",
+   "model": null,
+   "part": "Virtual Reality Therapy Program (KindVR) subscription - software, hardware, training, support services, updates, and infection control packs",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 38250.0,
+   "lead_time": null,
+   "sole_source_vendor": "KindVR LLC",
+   "reason": "KindVR is the only virtual reality healthcare company focused on providing proven support for pediatric procedures that is customized for use in clinical settings.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Children's of Mississippi, Jackson, MS",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5504,
+  "out": 251
+ },
+ "model": "claude-sonnet-5"
+}

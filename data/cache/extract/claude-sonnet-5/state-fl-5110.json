@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Groupware Technologies, LLC",
+   "model": "Provide Enterprise",
+   "part": "Upgrades, modifications, enhancements, new licenses, annual software maintenance and support for Provide Enterprise software",
+   "part_numbers": [],
+   "quantity": "3 Years",
+   "price_usd": 98332.0,
+   "lead_time": null,
+   "sole_source_vendor": "Groupware Technologies, LLC",
+   "reason": "Groupware Technologies, LLC is sole manufacturer and provider of upgrades, modifications, enhancements, support services, and software license maintenance for their proprietary software system Provide Enterprise\u00a9.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida Department of Health, Orange County Health Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2868,
+  "out": 268
+ },
+ "model": "claude-sonnet-5"
+}

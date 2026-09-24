@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Johnson Controls Inc.",
+   "model": null,
+   "part": "Software upgrades, controllers, and support services for existing HVAC system",
+   "part_numbers": [],
+   "quantity": "One year",
+   "price_usd": 45513.22,
+   "lead_time": null,
+   "sole_source_vendor": "Johnson Controls Inc.",
+   "reason": "Johnson Controls Inc. is the sole manufacturer and has exclusive rights to provide upgrades, modifications, enhancements, support services, and maintenance for their proprietary HVAC system",
+   "equipment_class": "HVAC",
+   "installed_location": "Volusia County Health Department (CHD)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2531,
+  "out": 230
+ },
+ "model": "claude-sonnet-5"
+}

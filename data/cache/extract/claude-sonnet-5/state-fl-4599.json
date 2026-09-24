@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "BD Biosciences",
+   "model": "FACSCount",
+   "part": "BD FACSCount Reagent and Control kits compatible with existing BPHL testing protocols to provide CD4/CD8 counts",
+   "part_numbers": [],
+   "quantity": "One Year",
+   "price_usd": 100000.0,
+   "lead_time": null,
+   "sole_source_vendor": "BD Biosciences",
+   "reason": "BD FACSCount Reagent and Control kits are the only FDA approved kits not requiring a Complete Blood Count (CBC) to be performed prior to CD4/CD8 assessments and that allows a maximum sample aging of 48 hours.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2623,
+  "out": 271
+ },
+ "model": "claude-sonnet-5"
+}

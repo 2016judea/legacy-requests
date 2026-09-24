@@ -1,0 +1,61 @@
+{
+ "records": [
+  {
+   "manufacturer": "Teledyne Advanced Pollution Instrumentation (Teledyne API)",
+   "model": "T703UUV",
+   "part": "Photometric O3 Calibrator",
+   "part_numbers": [
+    "T703UUV"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Teledyne Advanced Pollution Instrumentation (Teledyne API)",
+   "reason": "Teledyne Advanced Pollution Instrumentation (Teledyne API), located in San Diego, California, is the sole manufacturer of the Teledyne API Model T703UUV Photometric O3 Calibrator",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Statewide Air Monitoring Network",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne Advanced Pollution Instrumentation (Teledyne API)",
+   "model": "N400",
+   "part": "UV Absorption O3 Gas Analyzer",
+   "part_numbers": [
+    "N400"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Teledyne Advanced Pollution Instrumentation (Teledyne API)",
+   "reason": "Teledyne Advanced Pollution Instrumentation (Teledyne API), located in San Diego, California, is the sole manufacturer of...the Teledyne API Model N400 UV Absorption O3 Gas Analyzer along with all associated spare/replacement parts.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Statewide Air Monitoring Network",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne",
+   "model": null,
+   "part": "Spare/replacement parts and repair services for Teledyne ozone analyzers and calibrators",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Teledyne",
+   "reason": "Teledyne is the only authorized manufacturer and distributor for Teledyne brand parts and service in North America.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Statewide Air Monitoring Network",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2979,
+  "out": 775
+ },
+ "model": "claude-sonnet-5"
+}

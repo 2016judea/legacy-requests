@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hologic",
+   "model": "Aptima HIV-1 RNA QuantDx",
+   "part": "Aptima HIV-1 RNA QuantDx assay testing reagents used to perform HIV-1 RNA QT tests",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 819720,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Genprobe Sales & Services",
+   "reason": "Gen-Probe Sales & Services, Inc. (\u201cHologic\u201d) is the sole manufacturer and distributor of the HIV-1 RNA kits and reagents.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2635,
+  "out": 261
+ },
+ "model": "claude-sonnet-5"
+}

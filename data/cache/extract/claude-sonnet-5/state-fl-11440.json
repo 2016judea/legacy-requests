@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Axiom Pro",
+   "part": "Data warehousing and support services for the Licensing and Enforcement Information Database System (LEIDS)",
+   "part_numbers": [],
+   "quantity": "Three Years",
+   "price_usd": 6000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Image API, LLC",
+   "reason": "Image API is the only company authorized to provide maintenance, customizations, and enhancements to their proprietary system.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2856,
+  "out": 549
+ },
+ "model": "claude-sonnet-5"
+}

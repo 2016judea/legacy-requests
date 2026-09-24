@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Life Technologies",
+   "model": "Bigfoot Cell Sorter",
+   "part": "Annual maintenance agreement for the Bigfoot 5 laser cell sorter with spectral unmixing",
+   "part_numbers": [],
+   "quantity": "Three (3) years upon issuance of purchase order.",
+   "price_usd": 145180,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies is the sole distributor of Bigfoot cell sorter maintenance agreements.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3040,
+  "out": 383
+ },
+ "model": "claude-sonnet-5"
+}

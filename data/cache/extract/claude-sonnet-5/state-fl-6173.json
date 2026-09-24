@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "A/V equipment upgrade for conference room (audioconferencing, videoconferencing, audio/visual equipment)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 60000.0,
+   "lead_time": null,
+   "sole_source_vendor": "AnuVision Technologies, Inc.",
+   "reason": "The conference room equipment has been standardized for purposes of simplifying equipment operation for conference room users; service maintenance between conference rooms, spare part replacement, and the necessary swapping of equipment between conference rooms.",
+   "equipment_class": "other equipment",
+   "installed_location": "Lake Jeffery Office Santa Fe Conference Room",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2862,
+  "out": 251
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Honeywell",
+   "model": "EBI Building Automation System (BAS)",
+   "part": "Maintenance and repair of existing proprietary Honeywell EBI Building Automation System, i.e. EBI operator's terminals, EBI Server, Communications Gateway, and DDC Controllers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1440000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Honeywell International Inc. through Honeywell Building Solutions",
+   "reason": "Honeywell International, Inc. is the only provider that employs the necessary personnel who are certified to work on the Honeywell EBI Building Automation System (BAS).",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2519,
+  "out": 293
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Radcal",
+   "model": null,
+   "part": "Calibration, maintenance and repair service contract for existing radiation (x-ray inspection) equipment",
+   "part_numbers": [],
+   "quantity": "3 Years",
+   "price_usd": 143655.0,
+   "lead_time": null,
+   "sole_source_vendor": "IBA Dosimetry America, Inc. dba RADCAL",
+   "reason": "No other provider is capable of servicing, maintaining or repairing the equipment as the manufacturer, Radcal, has not made repair, servicing or maintenance information available to third parties.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2863,
+  "out": 233
+ },
+ "model": "claude-sonnet-5"
+}

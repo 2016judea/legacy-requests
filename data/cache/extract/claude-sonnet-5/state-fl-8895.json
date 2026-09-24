@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Short-term Passive Radon Test Kits for distribution and lab analysis, QC/QA services",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 250000,
+   "lead_time": null,
+   "sole_source_vendor": "Radon Testing Corporation of America",
+   "reason": "The Department made four attempts to competitively procure the requested services through an Invitation to Bid which was posted on the Vendor Information Portal and received no bids.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2809,
+  "out": 534
+ },
+ "model": "claude-sonnet-5"
+}

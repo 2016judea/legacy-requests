@@ -1,0 +1,63 @@
+{
+ "records": [
+  {
+   "manufacturer": "Datamaxx",
+   "model": "Galaxy VS UPS 50KW",
+   "part": "Uninterruptible Power Supply (UPS) System - 50KW with N+1 Redundant Power Module, 480V 3-phase Hardwired Input & Output",
+   "part_numbers": [
+    "GVSUPS50KR0B5GS"
+   ],
+   "quantity": "1",
+   "price_usd": 45000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Datamaxx Applied Technologies, Inc.",
+   "reason": "Datamaxx owns the UPS System currently installed in the building.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Datamaxx",
+   "model": "Galaxy VS Maintenance Bypass Panel",
+   "part": "Maintenance Bypass Panel, single unit, 10-30kW 208V, 20-60kW 480V wall mount",
+   "part_numbers": [
+    "GVSBPSU60G-WP"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Datamaxx Applied Technologies, Inc.",
+   "reason": "Datamaxx owns the UPS System currently installed in the building.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Datamaxx",
+   "model": "Galaxy VS Smart Modular Battery String",
+   "part": "Smart Modular Battery String, High Capacity 9Ah",
+   "part_numbers": [
+    "GVSBTH4"
+   ],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Datamaxx Applied Technologies, Inc.",
+   "reason": "Datamaxx owns the UPS System currently installed in the building.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2755,
+  "out": 1058
+ },
+ "model": "claude-sonnet-5"
+}

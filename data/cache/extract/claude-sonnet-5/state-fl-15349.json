@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Versaterm Public Safety US, Inc.",
+   "model": "School Safety, School Safety Hosting, and FocalPoint",
+   "part": "School Safety Annual Hosting, School Safety Annual Maintenance and FocalPoint Annual Maintenance and Support",
+   "part_numbers": [],
+   "quantity": "3 years (5/1/2025 \u2013 7/31/2028)",
+   "price_usd": 2498000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Versaterm Public Safety US, Inc.",
+   "reason": "Versaterm Public Safety US, Inc. (Versaterm) is the sole source provider of support and maintenance services for Versaterm\u2019s School Safety, School Safety Hosting, and FocalPoint public safety software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida Department of Education",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3173,
+  "out": 306
+ },
+ "model": "claude-sonnet-5"
+}

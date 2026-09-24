@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Roche Diagnostics Corporation",
+   "model": "MagNA Pure 24 & 96",
+   "part": "Chemical evaluation instruments and supplies for existing Roche MagNA Pure LC 2.0 and MagNA Pure Compact instruments",
+   "part_numbers": [],
+   "quantity": "Three Years",
+   "price_usd": 450000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Roche Diagnostics Corporation",
+   "reason": "Roche Diagnostics Corporation is the exclusive manufacturer and distributor of the MagNa Pure 24, MagNa Pure 96 supplies.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2953,
+  "out": 257
+ },
+ "model": "claude-sonnet-5"
+}

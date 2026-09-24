@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Honeywell",
+   "model": "DVM",
+   "part": "Camera and system maintenance for Honeywell Video Management system (DVM) integrated cameras",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 4451553.0,
+   "lead_time": null,
+   "sole_source_vendor": "Honeywell International, Inc. / Honeywell Building Solutions",
+   "reason": "The existing Honeywell Access Control (EBI) and Video Management system (DVM) referenced above are proprietary products of Honeywell.",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Honeywell",
+   "model": "EBI",
+   "part": "Access Control system maintenance (Honeywell EBI)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Honeywell International, Inc. / Honeywell Building Solutions",
+   "reason": "The software for the systems is written and maintained by Honeywell, as is the programing in the field controllers. Honeywell technicians and engineers are the only persons with that are factory trained to modify and work on the system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2627,
+  "out": 464
+ },
+ "model": "claude-sonnet-5"
+}

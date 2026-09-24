@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Yokogawa Fluid Imaging Technologies, Inc.",
+   "model": "FlowCam Cyano 8400",
+   "part": "FlowCam Particle Analysis System, Software, and other required parts, including installation and training",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 131060.0,
+   "lead_time": null,
+   "sole_source_vendor": "Yokogawa Fluid Imaging Technologies, Inc.",
+   "reason": "Yokogawa Fluid Imaging Technologies, Inc. is the sole manufacturer and sole distributor of the FlowCam in the United States and Canada. There are no alternative authorized dealers in these countries.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3122,
+  "out": 269
+ },
+ "model": "claude-sonnet-5"
+}

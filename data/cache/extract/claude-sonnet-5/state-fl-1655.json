@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Phonak",
+   "model": "Roger",
+   "part": "Phonak and Roger brand hearing aid parts and repair service",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 19999.99,
+   "lead_time": null,
+   "sole_source_vendor": "Phonak U.S.",
+   "reason": "No other source exists for the parts and repair service for Phonak and Roger hearing aid equipment and accessories.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2705,
+  "out": 203
+ },
+ "model": "claude-sonnet-5"
+}

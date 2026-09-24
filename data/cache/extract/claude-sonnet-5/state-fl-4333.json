@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cepheid",
+   "model": "Xpert MTB/RIF",
+   "part": "FDA approved assay kits compatible with the Cepheid GeneXpert system for detection of Mycobacterium Tuberculosis complex DNA and Rifampin resistance",
+   "part_numbers": [
+    "GMTB/RIF-US-10"
+   ],
+   "quantity": "3 Years",
+   "price_usd": 214200.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cepheid",
+   "reason": "The Cepheid Cat. No. GMTB/RIF-US-10 Xpert Assay kits are the only FDA approved kits compatible with the Cepheid GeneXpert system and test algorithm used by the BPHL Tuberculosis section.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2787,
+  "out": 290
+ },
+ "model": "claude-sonnet-5"
+}

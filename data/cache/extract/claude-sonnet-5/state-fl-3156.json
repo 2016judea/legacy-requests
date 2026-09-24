@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kohler",
+   "model": "7.5",
+   "part": "Current generator on SAFE 38 Full Cabin vessels that has reached its life expectancy",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "has reached its life expectancy and is no longer manufactured",
+   "equipment_class": "generator",
+   "installed_location": "SAFE 38 Full Cabin vessels",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement of generator and necessary vessel modification on SAFE 38 Full Cabin vessels to install new generator and maintain warranty",
+   "part_numbers": [],
+   "quantity": "3 years upon issuance of initial Purchase Order",
+   "price_usd": 400000.0,
+   "lead_time": null,
+   "sole_source_vendor": "SAFE Boats International, LLC",
+   "reason": "SAFE Boats International, LLC is the SAFE 38 Full Cabin manufacturer, and these vessels are under warranty by the manufacturer.",
+   "equipment_class": "generator",
+   "installed_location": "SAFE 38 Full Cabin vessels",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3110,
+  "out": 1071
+ },
+ "model": "claude-sonnet-5"
+}

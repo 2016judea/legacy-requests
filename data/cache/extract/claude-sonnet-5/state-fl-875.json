@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vanguard Integrity Professionals, Inc.",
+   "model": "Advisor and Administrator RACF",
+   "part": "Annual support and maintenance for Advisor and Administrator RACF software installed on the Department's mainframe",
+   "part_numbers": [],
+   "quantity": "36 months, July 1, 2022 through June 30, 2025",
+   "price_usd": 111396.0,
+   "lead_time": null,
+   "sole_source_vendor": "Vanguard Integrity Professionals, Inc.",
+   "reason": "Vanguard is the only vendor that can provide the required and ongoing maintenance for its proprietary software products, which include Vanguard Administrator and Advisor RACF.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Department of Financial Services Data Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2869,
+  "out": 278
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica Geosystems",
+   "model": "GR50",
+   "part": "GR50 Highline Reference Servers with Accessories, replacing existing GR30 receivers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 97688.0,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Level & Transit Co., Inc.",
+   "reason": "Florida Level & Transit Co., Inc., based in Ft. Lauderdale, Florida, is the sole authorized distributor for Leica Geosystems\u2019 High-end Surveying segment consisting of GNSS, including GR50 receivers.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Permanent Reference Network (FPRN) sites statewide",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2604,
+  "out": 273
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "HID Global Corporation (formerly Crossmatch)",
+   "model": null,
+   "part": "Hardware & Software Maintenance for HID/Crossmatch Units",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 194000,
+   "lead_time": null,
+   "sole_source_vendor": "HID Global Corporation",
+   "reason": "HID Global Corporation formerly Crossmatch is the manufacturer of the equipment and the only known source able to provide this service",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "located throughout the state",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2943,
+  "out": 206
+ },
+ "model": "claude-sonnet-5"
+}

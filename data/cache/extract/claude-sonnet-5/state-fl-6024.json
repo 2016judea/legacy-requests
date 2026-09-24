@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Harris Corporation",
+   "model": "Catalyst",
+   "part": "Communication Equipment - Catalyst voice over Internet Protocol (IP) radio system services and maintenance",
+   "part_numbers": [],
+   "quantity": "Up to three (3) years (FY 23/24-25/26)",
+   "price_usd": 150000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Williams Communications",
+   "reason": "The Catalyst system is the only Voice over IP (VOIP) radio system that has the ability to remotely control the Harris radios used in our current EDACS EA radio system.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Command Post Vehicles (CPV-1 & CPV-2); Tallahassee Regional Communications Center (TRCC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harris",
+   "model": "EDACS EA",
+   "part": "Radios used in current EDACS EA radio system, maintained via Catalyst system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Williams Communications",
+   "reason": "Williams Communications is the only authorized service provider in the area and provides ongoing maintenance of the existing proprietary Catalyst equipment.",
+   "equipment_class": "communications/radio",
+   "installed_location": "North Florida area / SLERS",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2682,
+  "out": 470
+ },
+ "model": "claude-sonnet-5"
+}

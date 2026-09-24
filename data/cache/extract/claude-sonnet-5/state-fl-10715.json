@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "R.A. Whitfield Manufacturing Co.",
+   "model": "2440 SOD Scalper",
+   "part": "Agricultural machinery for soil preparation - SOD Scalpers",
+   "part_numbers": [
+    "2440"
+   ],
+   "quantity": "8",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "R.A.Whitfield Manufacturing Company",
+   "reason": "R.A. Whitfield Manufacturing Co. is the sole manufacturer of pine tree planter and models ST- 630 and the 2440 required to perform statutory responsibilities.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "R.A. Whitfield Manufacturing Co.",
+   "model": "ST-630 Heavy Duty Side Delivery Planter",
+   "part": "Heavy Duty Side delivery Planter with 30\" Coulter blade, 12\" foam filled packing with removable side storage boxes and 2.5\" trencher box",
+   "part_numbers": [
+    "ST-630"
+   ],
+   "quantity": "9",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "R.A.Whitfield Manufacturing Company",
+   "reason": "R.A. Whitfield Manufacturing Co. is the sole manufacturer of pine tree planter and models ST- 630 and the 2440 required to perform statutory responsibilities.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3142,
+  "out": 510
+ },
+ "model": "claude-sonnet-5"
+}

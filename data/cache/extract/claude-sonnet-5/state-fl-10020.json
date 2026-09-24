@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pacific Biosciences of California, Inc.",
+   "model": null,
+   "part": "System reagents and equipment/service for identification of nucleic acid sequences (long-read sequencing)",
+   "part_numbers": [],
+   "quantity": "Three Years",
+   "price_usd": 375000,
+   "lead_time": null,
+   "sole_source_vendor": "Pacific Biosciences of California, Inc.",
+   "reason": "Pacific Bioscience of California, Inc. is the exclusive manufacturer of these reagents and equipment in the United States.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DOH Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2799,
+  "out": 519
+ },
+ "model": "claude-sonnet-5"
+}

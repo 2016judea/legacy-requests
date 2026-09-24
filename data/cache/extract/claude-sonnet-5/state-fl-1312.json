@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "AASHTOWare",
+   "model": null,
+   "part": "Software Maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AASHTOWare",
+   "reason": "The Department of Transportation intends to enter into a single source contract with AASHTOWare for the Software Maintenance.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2042,
+  "out": 167
+ },
+ "model": "claude-sonnet-5"
+}

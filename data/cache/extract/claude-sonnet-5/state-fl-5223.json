@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Autodesk",
+   "model": "AEC Collection and Vault Annual Subscription",
+   "part": "Autodesk AEC Collection and Vault Annual Subscription",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 40694.13,
+   "lead_time": null,
+   "sole_source_vendor": "DLT Solutions, LLC",
+   "reason": "DLT Solutions/Imaginet is the only known authorized Autodesk reseller to the State of Florida.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "FDOT District Production Offices / Central Office CADD division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2723,
+  "out": 221
+ },
+ "model": "claude-sonnet-5"
+}

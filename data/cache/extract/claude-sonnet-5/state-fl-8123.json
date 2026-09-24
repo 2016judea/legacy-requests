@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Software maintenance and support (Labworks LLC)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Labworks LLC",
+   "reason": "THIS IS STATUTORILY MANDATED FIFTEEN BUSINESS DAY ADVERTISEMENT OF AN INTENDED SINGLE SOURCE PROCUREMENT",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2266,
+  "out": 208
+ },
+ "model": "claude-sonnet-5"
+}

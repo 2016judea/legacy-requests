@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "QIAGEN",
+   "model": null,
+   "part": "Approved QIAGEN supplies and implements compatible with agency validated equipment and procedures",
+   "part_numbers": [],
+   "quantity": "7/1/26 - 6/30/27",
+   "price_usd": 1850000.0,
+   "lead_time": null,
+   "sole_source_vendor": "QIAGEN, LLC",
+   "reason": "FDLE currently has 40 QIAGEN instruments in operation and these QIAGEN instruments require QIAGEN supplies and implements which can only be purchased through QIAGEN, LLC.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDLE Regional Operations Centers / crime laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "QIAGEN",
+   "model": "EZ1 Advanced XL",
+   "part": "EZ1 Advanced XL accessories and maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "QIAGEN, LLC",
+   "reason": "In November 2011, Invitation to Bid 1257 established FDLE's platform for QIAGEN's EZ1 Advanced XL accessories and maintenance.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDLE crime laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2862,
+  "out": 1754
+ },
+ "model": "claude-sonnet-5"
+}

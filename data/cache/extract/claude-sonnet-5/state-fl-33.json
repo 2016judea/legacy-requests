@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Activu",
+   "model": null,
+   "part": "Complete maintenance of Activu Video wall system and all components which utilize the Activu software or are a part of the audio video system",
+   "part_numbers": [],
+   "quantity": "Two Years",
+   "price_usd": 116531.2,
+   "lead_time": null,
+   "sole_source_vendor": "Activu",
+   "reason": "The Activu software, which operates the Florida Department of Transportation'd District 7 video wall system is owned by Activu, who does not sell their software through third parties.",
+   "equipment_class": "other equipment",
+   "installed_location": "Tampa Bay SunGuide Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2394,
+  "out": 241
+ },
+ "model": "claude-sonnet-5"
+}

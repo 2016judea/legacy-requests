@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Acrow Bridge",
+   "model": "Acrow 300 Series and Acrow 700XS Series",
+   "part": "Temporary Bridge Parts - Modular steel bridge components",
+   "part_numbers": [],
+   "quantity": "May 1, 2022 - June 30, 2024",
+   "price_usd": 1280000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Acrow Bridge",
+   "reason": "FDOT currently owns and utilizes proprietary Acrow 300 Series and Acrow 700XS Series bridge components. To ensure all components of the existing systems remain universally interchangeable with proper fit and function, it is essential that all components be procured from Acrow.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2620,
+  "out": 267
+ },
+ "model": "claude-sonnet-5"
+}

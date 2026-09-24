@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens",
+   "model": "Desigo",
+   "part": "FACP material, programing, installation, engineering, project management and technical support for installation of the XDMC custom message module",
+   "part_numbers": [
+    "XDMC"
+   ],
+   "quantity": "120 Day Project to upgrade existing Siemens Desigo FACP for XDMC Custom Messaging Module",
+   "price_usd": 70112.0,
+   "lead_time": "120 Day Project",
+   "sole_source_vendor": "Siemens",
+   "reason": "Due to the proprietary nature of the Siemens fire alarm system, no third-party vendor is authorized or capable of providing compatible software upgrades without risking system integrity, voiding warranties, or compromising compliance with applicable fire and life safety codes",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Ardie R. Copas State Veterans' Nursing Home, 13000 SW Tradition Pkwy, Port St Lucie, Fl. 34987",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2938,
+  "out": 339
+ },
+ "model": "claude-sonnet-5"
+}

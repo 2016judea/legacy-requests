@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Gladiator Forensics, LLC",
+   "model": "Gladiator Autonomous Receiver (GAR)",
+   "part": "Automated cellular network survey receiver and One System Solution (Sabers, ESPA, Smart Track, Sentinel) Software Suite",
+   "part_numbers": [],
+   "quantity": "One-time purchase",
+   "price_usd": 200000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Gladiator Forensics, LLC.",
+   "reason": "The GAR/OSS investigation platform is a sole source product manufactured, sold, and distributed exclusively by Gladiator Forensics, LLC. No other vendor is authorized to produce, distribute, or provide training services for this hardware and software.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3157,
+  "out": 289
+ },
+ "model": "claude-sonnet-5"
+}

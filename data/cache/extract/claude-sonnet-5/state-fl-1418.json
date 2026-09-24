@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tyler Technologies, Inc.",
+   "model": "Versa: Online",
+   "part": "Software Maintenance for Versa: Online",
+   "part_numbers": [],
+   "quantity": "Thirty-six (36) Months",
+   "price_usd": 494681.0,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "DBPR's license agreement with Tyler for this proprietary software restricts release of the database schema. Access to the database schema would be required in order for competing vendors to offer software that would function with the business rules and configurations of Versa: Regulation and Versa: Online.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Technology, DBPR",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3262,
+  "out": 260
+ },
+ "model": "claude-sonnet-5"
+}

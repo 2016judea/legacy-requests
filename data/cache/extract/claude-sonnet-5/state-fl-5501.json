@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bosch",
+   "model": "Analytics Rail Detection System",
+   "part": "Rail detection system using video analytic, edge computing, LiDAR, MVDS and machine learning for rail crossing closures tied into Connected Vehicle technology",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Transportation Control Systems",
+   "reason": "TCS is the only provider of such a device for a multitude of ITS applications with a simple web-based interface that has open-source programming.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bosch",
+   "model": "Connect:ITS",
+   "part": "Connect:ITS system software/platform used with rail detection deployment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Transportation Control Systems",
+   "reason": "They are the sole distributor for Bosch and Connect:ITS in Florida.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2954,
+  "out": 397
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Honeywell International",
+   "model": "DVM",
+   "part": "Upgrade to Honeywell DVM Cameras (video management system) for FY23-24",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 289972.71,
+   "lead_time": null,
+   "sole_source_vendor": "Honeywell International, Inc. / Honeywell Building Solutions",
+   "reason": "The new Honeywell video management system (DVM) referenced above is a proprietary product of Honeywell.",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2516,
+  "out": 221
+ },
+ "model": "claude-sonnet-5"
+}

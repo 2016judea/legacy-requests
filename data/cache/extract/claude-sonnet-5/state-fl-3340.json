@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "AssetWorks",
+   "model": "Surplus Management software",
+   "part": "Software maintenance and support / automation enhancements to existing surplus personal property management software",
+   "part_numbers": [],
+   "quantity": "Two (2) years",
+   "price_usd": 360000.0,
+   "lead_time": null,
+   "sole_source_vendor": "AssetWorks USA Inc.",
+   "reason": "AssetWorks maintains the source code for the products and therefore is the only authorized provider of the updates, maintenance, and support services for such software products once under license. AssetWorks Inc. does not have resellers.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3076,
+  "out": 233
+ },
+ "model": "claude-sonnet-5"
+}

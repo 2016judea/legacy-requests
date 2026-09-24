@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Esri",
+   "model": "ArcGIS",
+   "part": "Software licenses, maintenance and support, end-user training and documentation for ArcGIS suite (ArcGIS Desktop, ArcSDE, ArcServer, ArcGIS Image Server, ArcGIS 3D, ArcGIS Spatial, ArcGIS Network Analyst, ArcGIS Geostatistical, ArcGIS GeoEvent, ArcGIS Instant Apps, ArcGIS StoryMaps, Map Viewer, ArcGIS Dashboards, Scene Viewer, ArcGIS Web AppBuilder, ArcGIS Hub Premium, ArcGIS AppStudio, ArcGIS Experience Builder, ArcGIS Collector, ArcGIS Field Maps, ArcGIS QuickCapture, ArcGIS Survey123, ArcGIS Workforce, ArcGIS for Office, ArcGIS for Sharepoint, ArcGIS Navigator, ArcGIS Business Analyst, ArcGIS Insights, ArcGIS Drone2Map, ArcGIS Maps for Adobe Creative Cloud, and ArcGIS online licensing support)",
+   "part_numbers": [],
+   "quantity": "One Year",
+   "price_usd": 60120.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The division has determined that ArcGIS\u2019 proprietary mapping technology has no equivalent that can suit their needs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of State Fire Marshal",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3151,
+  "out": 566
+ },
+ "model": "claude-sonnet-5"
+}

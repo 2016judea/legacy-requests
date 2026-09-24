@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Autodesk",
+   "model": "AEC Collection and Vault",
+   "part": "Autodesk AED Collection and Vault Annual Subscription",
+   "part_numbers": [],
+   "quantity": "One (1) year",
+   "price_usd": 431799.96,
+   "lead_time": null,
+   "sole_source_vendor": "DLT Solutions, LLC",
+   "reason": "DLT Solutions/Imaginet is the only known authorized Autodesk reseller to the State of Florida.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2463,
+  "out": 603
+ },
+ "model": "claude-sonnet-5"
+}

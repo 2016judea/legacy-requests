@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ARMAG Corporation",
+   "model": null,
+   "part": "Type 2 explosives storage magazine (ATF weapons vault)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ARMAG Corporation",
+   "reason": "ARMAG Corporation is the manufacturer for this product and therefore this is considered a sole source product.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2063,
+  "out": 179
+ },
+ "model": "claude-sonnet-5"
+}

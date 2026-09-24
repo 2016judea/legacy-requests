@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cepheid",
+   "model": "GenXpert IV RT 4 module configuration",
+   "part": "GenXpert IV RT 4 module configuration system for detection of antimicrobial resistance and tuberculosis testing",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": 57549.16,
+   "lead_time": null,
+   "sole_source_vendor": "Cepheid",
+   "reason": "Cepheid is the sole manufacturer and distributor of GeneXpert Technology including systems and assays globally.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2674,
+  "out": 216
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Hydraulic/electrical swivel and hydraulic hoses (turret) for DOT#31321",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 45000.0,
+   "lead_time": "12 weeks",
+   "sole_source_vendor": "Ring Power Corporation",
+   "reason": "The part necessary to make repairs is no longer available and will have to be fabricated.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2773,
+  "out": 180
+ },
+ "model": "claude-sonnet-5"
+}

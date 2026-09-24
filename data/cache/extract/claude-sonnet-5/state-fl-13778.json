@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica Geosystems",
+   "model": "TS16",
+   "part": "TS16 Total Station with CCP (Customer Care Packages) and accessories",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Level & Transit Co., Inc.",
+   "reason": "FLT Geosystems, based in Ft. Lauderdale, Florida, is the sole authorized distributor for Lecia Geosystems\u2019 High-end Surveying segment consisting of GNSS, Robotic surveying instruments, related field and office software, firmware and CCP within the state of Florida",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica Geosystems",
+   "model": "GS18T",
+   "part": "360 Degree Prism and Pole GS18T GNSS antenna",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Level & Transit Co., Inc.",
+   "reason": "FLT Geosystems, based in Ft. Lauderdale, Florida, is the sole authorized distributor for Lecia Geosystems\u2019 High-end Surveying segment consisting of GNSS, Robotic surveying instruments, related field and office software, firmware and CCP within the state of Florida",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica Geosystems",
+   "model": "CS20",
+   "part": "CS20 LTE Disto Controller with accessories",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Level & Transit Co., Inc.",
+   "reason": "FLT Geosystems, based in Ft. Lauderdale, Florida, is the sole authorized distributor for Lecia Geosystems\u2019 High-end Surveying segment consisting of GNSS, Robotic surveying instruments, related field and office software, firmware and CCP within the state of Florida",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Tripod for TS16",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Level & Transit Co., Inc.",
+   "reason": "FLT Geosystems, based in Ft. Lauderdale, Florida, is the sole authorized distributor for Lecia Geosystems\u2019 High-end Surveying segment consisting of GNSS, Robotic surveying instruments, related field and office software, firmware and CCP within the state of Florida",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "GNSS (Global Navigation Satellite System) Poles",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 114914.12,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Level & Transit Co., Inc.",
+   "reason": "FLT Geosystems, based in Ft. Lauderdale, Florida, is the sole authorized distributor for Lecia Geosystems\u2019 High-end Surveying segment consisting of GNSS, Robotic surveying instruments, related field and office software, firmware and CCP within the state of Florida",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2726,
+  "out": 2166
+ },
+ "model": "claude-sonnet-5"
+}

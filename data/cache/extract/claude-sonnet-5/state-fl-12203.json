@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": "Transit",
+   "part": "Design and fabrication work required to permanently secure the headrest in 30 Ford Transit vans",
+   "part_numbers": [],
+   "quantity": "30",
+   "price_usd": 54000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Tire Town",
+   "reason": "Securing headrests in Ford Transit vans so they are not removable requires a detailed understanding of the van\u2019s interior structure, seating system, and safety compliance requirements.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2912,
+  "out": 207
+ },
+ "model": "claude-sonnet-5"
+}

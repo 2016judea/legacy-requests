@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "QGenda, LLC",
+   "model": "QGenda",
+   "part": "Renewal of Physician Scheduling Platform for Neurology Department (QGenda)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 120000.0,
+   "lead_time": null,
+   "sole_source_vendor": "QGenda, LLC",
+   "reason": "QGenda, LLC is the sole provider of support and licensing for this product.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "UMMC Department of Neurology",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4839,
+  "out": 195
+ },
+ "model": "claude-sonnet-5"
+}

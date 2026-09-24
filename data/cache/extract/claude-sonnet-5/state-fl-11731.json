@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens Industry, Inc.",
+   "model": "SiPass Integrated Access Control and Siveillance VMS",
+   "part": "Intercom and camera installation / security upgrades (access control and video management system)",
+   "part_numbers": [],
+   "quantity": "One Time",
+   "price_usd": 57154.0,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc,",
+   "reason": "Siemens is the only certified vendor authorized to install, program, service, maintain system components, licensing, warranties and software for the SiPass Integrated Access Control and Siveillance VMS Systems.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "FDOT District Seven Headquarters and SunGuide Building",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2578,
+  "out": 641
+ },
+ "model": "claude-sonnet-5"
+}

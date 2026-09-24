@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "IDEXX",
+   "model": "Tecta B16",
+   "part": "Fully automated desktop microbiological testing water system, including supplies, service plan, training, and installation services",
+   "part_numbers": [
+    "TECTAB16A-115-02"
+   ],
+   "quantity": "2 years",
+   "price_usd": 45148.13,
+   "lead_time": null,
+   "sole_source_vendor": "Idexx Distribution Inc.",
+   "reason": "IDEXX is the exclusive manufacturer and seller of the IDEXX Tecta Automation Technology instrument (B16), installation, training, and service plan including calibration.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Nassau County Health Department, Environmental Health Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2804,
+  "out": 255
+ },
+ "model": "claude-sonnet-5"
+}

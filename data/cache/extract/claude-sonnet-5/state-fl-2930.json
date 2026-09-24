@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica",
+   "model": "GS18T",
+   "part": "GNSS antenna replacing existing GS15 antennas for survey control",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 209566.8,
+   "lead_time": null,
+   "sole_source_vendor": "FLT Geosystems",
+   "reason": "FLT Geosystems is the sole authorized distributer for Leica Geosystems in the state of Florida \"High-end Surveying\" segment consisting of GNSS, Robotic surveying instruments, related field and office software, firmware and CCP (Customer Care Packages) within the state of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2809,
+  "out": 248
+ },
+ "model": "claude-sonnet-5"
+}

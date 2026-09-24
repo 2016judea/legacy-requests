@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Syn-Tech Systems, Inc.",
+   "model": null,
+   "part": "Maintenance of Automated Fuel & Dispensing & Accounting Equipment (Super Maintenance plan + FMLive subscription)",
+   "part_numbers": [],
+   "quantity": "36 bulk fuel sites",
+   "price_usd": 1158884.4,
+   "lead_time": null,
+   "sole_source_vendor": "Syn-Tech Systems, Inc.",
+   "reason": "Syn-Tech is the designer and installer of the automated fuel accounting system and is the only known vendor able to maintain the various proprietary components of the system.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "36 bulk fuel sites statewide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2976,
+  "out": 260
+ },
+ "model": "claude-sonnet-5"
+}

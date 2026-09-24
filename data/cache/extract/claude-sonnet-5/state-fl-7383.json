@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Promega",
+   "model": "Maxwell RSC16",
+   "part": "Automated instrument for purification of nucleic acids for PCR and NGS applications",
+   "part_numbers": [],
+   "quantity": "1 Maxwell RSC 26 instrument",
+   "price_usd": 58308.0,
+   "lead_time": null,
+   "sole_source_vendor": "Promega",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the Maxwell RSC RSC16 instrument. To maintain compatibility and connectivity to the existing Promega equipment, this is the only equipment that can meet the Department\u2019s needs.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Biological Safety Level-3 suite, Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2744,
+  "out": 283
+ },
+ "model": "claude-sonnet-5"
+}

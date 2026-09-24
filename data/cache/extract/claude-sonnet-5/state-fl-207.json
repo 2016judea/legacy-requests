@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Newborn Screening Web Ordering System",
+   "part": "Helpdesk, maintenance, performance monitoring, and technical support services including Azure infrastructure support",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 229500,
+   "lead_time": null,
+   "sole_source_vendor": "AAJ Computer Services, Inc. d/b/a OZ",
+   "reason": "AAJ is the only company that has the specific knowledge of the system architecture, the application design specifications, and the in-depth subject matter knowledge necessary to provide a responsive helpdesk and technical support services",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3130,
+  "out": 247
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sea-Bird Scientific",
+   "model": "Conductivity, Temperature, and Depth Profilers",
+   "part": "Conductivity, Temperature, and Depth Profilers with auxiliary sensors",
+   "part_numbers": [],
+   "quantity": "Four (4)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sea-Bird Scientific",
+   "reason": "Sea-Bird Scientific is the sole manufacturer and supplier of Sea-Bird products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sea-Bird Scientific",
+   "model": null,
+   "part": "Recalibration and maintenance service for Conductivity, Temperature, and Depth Profilers and sensors",
+   "part_numbers": [],
+   "quantity": "Three (3) years upon issuance of purchase order",
+   "price_usd": 150000,
+   "lead_time": null,
+   "sole_source_vendor": "Sea-Bird Scientific",
+   "reason": "they are the only authorized facility equipped to perform service and calibration of Sea-Bird instruments",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3104,
+  "out": 519
+ },
+ "model": "claude-sonnet-5"
+}

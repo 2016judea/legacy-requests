@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Honeywell",
+   "model": null,
+   "part": "Maintenance & Repairs for campus gate cameras",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 12529.78,
+   "lead_time": null,
+   "sole_source_vendor": "Honeywell International, Inc.",
+   "reason": "Honeywell International, Inc. is the only provider that employs the necessary personnel who are certified to work on miscellaneous proprietary Honeywell equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB) campus gate",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2561,
+  "out": 222
+ },
+ "model": "claude-sonnet-5"
+}

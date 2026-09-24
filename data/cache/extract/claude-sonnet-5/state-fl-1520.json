@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens Industry, Inc.",
+   "model": null,
+   "part": "Annual inspection, repair, and servicing of the Fire Alarm and HVAC Control Systems at the Neil Kirkman Building and other statewide facilities",
+   "part_numbers": [],
+   "quantity": "Annual inspection plus maintenance/repairs as needed for FY22/23, FY23/24, FY24/25",
+   "price_usd": 360000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "Siemens Industry, Inc. is the only vendor capable of repairing and maintaining the existing control systems installed at our headquarters location and other statewide facilities.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Neil Kirkman Building (NKB) and other statewide facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3063,
+  "out": 992
+ },
+ "model": "claude-sonnet-5"
+}

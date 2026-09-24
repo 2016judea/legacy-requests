@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bell",
+   "model": "UH-1",
+   "part": "TFO console modifications for Bell UH-1 search and rescue aircraft",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Daedalus Solutions Inc.",
+   "reason": "DSI owns all integration designs, electrical schematics, wiring diagrams, and technical documentation for the mission systems installed on N207FS and N205FS.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "N207FS and N205FS (MSN 8207 and MSN 8159)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2741,
+  "out": 236
+ },
+ "model": "claude-sonnet-5"
+}

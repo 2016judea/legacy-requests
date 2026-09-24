@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "SB-03-F",
+   "part": "Premium Heavy-Duty Fiber Optic Splicing Truck Capsule (slip-in capsule for pickup truck)",
+   "part_numbers": [
+    "SB-03-F"
+   ],
+   "quantity": "Twelve (12) Months",
+   "price_usd": 40000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This is the only known Vendor that can provide model SB-03-F.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3073,
+  "out": 199
+ },
+ "model": "claude-sonnet-5"
+}

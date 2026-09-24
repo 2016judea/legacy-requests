@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trakka Systems",
+   "model": "TC-300",
+   "part": "High performance multi-sensor surveillance equipment (EO/IR camera system) for Florida State Guard aircraft",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 546736.0,
+   "lead_time": null,
+   "sole_source_vendor": "Trakka Systems",
+   "reason": "Trakka Systems is the manufacturer for this product, this system is already integrated into other FSG aircraft, and therefore this is considered a sole source product.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida State Guard aircraft",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2938,
+  "out": 227
+ },
+ "model": "claude-sonnet-5"
+}

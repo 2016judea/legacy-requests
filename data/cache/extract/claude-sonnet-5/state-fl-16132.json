@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Mirion Technologies",
+   "model": "Lynx-II",
+   "part": "Digital Signal Analyzer for gamma radio isotopic analysis of environmental samples",
+   "part_numbers": [],
+   "quantity": "One Year",
+   "price_usd": 19898.95,
+   "lead_time": null,
+   "sole_source_vendor": "Mirion Technologies, Inc.",
+   "reason": "Mirion Technologies, Inc is the sole manufacturer and seller of Lynx-II Digital Signal Analyzer.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Radiation Control",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2778,
+  "out": 224
+ },
+ "model": "claude-sonnet-5"
+}

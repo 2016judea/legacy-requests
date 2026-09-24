@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": "Crime-Lite Auto",
+   "part": "Crime-Lite Auto Kit - handheld alternate light source with attached 24MP camera and touch-screen tablet",
+   "part_numbers": [],
+   "quantity": "2 Units",
+   "price_usd": 87000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman",
+   "reason": "Foster & Freeman are the sole providers of the Crime-Lite Auto.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Tampa Bay Regional Operations Center (TBROC) and Orlando Regional Operation Center (OROC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2919,
+  "out": 246
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "EPIC iO",
+   "model": null,
+   "part": "Surveillance and Detection Equipment / Software",
+   "part_numbers": [],
+   "quantity": "Five (5) Years",
+   "price_usd": 200000,
+   "lead_time": null,
+   "sole_source_vendor": "EPIC iO",
+   "reason": "EPIC iO is the sole provider of the technology, processes and specifications that are essential to FDLE\u2019s investigative mission.",
+   "equipment_class": "other equipment",
+   "installed_location": "FDLE / Pensacola Regional Operations Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2667,
+  "out": 197
+ },
+ "model": "claude-sonnet-5"
+}

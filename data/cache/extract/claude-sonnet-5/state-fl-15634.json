@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cadre",
+   "model": "TopMatch-3D High-Capacity",
+   "part": "Portable scanners with TopMatch-3D High-Capacity GelSight-based imaging and analysis systems for firearm forensics",
+   "part_numbers": [],
+   "quantity": "Two (2) Units",
+   "price_usd": 165000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cadre",
+   "reason": "Cadre does not have any resellers and is the only company that can provide these items.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDLE Regional Operations Centers",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2874,
+  "out": 218
+ },
+ "model": "claude-sonnet-5"
+}

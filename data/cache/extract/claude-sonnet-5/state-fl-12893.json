@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Verizon Connect",
+   "model": "Reveal GPS Vehicle Tracking System",
+   "part": "Proprietary vehicle tracking software and GPS hardware system (Reveal Software Solution)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3900.0,
+   "lead_time": null,
+   "sole_source_vendor": "Verizon Connect Fleet USA LLC",
+   "reason": "The hardware is not compatible with any other Vehicle Location System.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2528,
+  "out": 224
+ },
+ "model": "claude-sonnet-5"
+}

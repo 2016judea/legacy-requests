@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "GCOM Software, Inc",
+   "model": null,
+   "part": "Expansion of Computerized Criminal History System - Data Projects Support Services (FIBRS, CJDT, UAA) including hardware, system software, and application software support",
+   "part_numbers": [],
+   "quantity": "5.5 years estimated",
+   "price_usd": 17000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "GCOM Software, Inc",
+   "reason": "GCOM Software, Inc is the only firm that can provide end to end support for the Data Projects, including preventive maintenance, remedial maintenance, configuration management, systems administration, performance tuning and programming.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2789,
+  "out": 727
+ },
+ "model": "claude-sonnet-5"
+}

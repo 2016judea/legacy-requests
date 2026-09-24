@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "International Cybernetics Company, LP",
+   "model": "LCMS Imaging Systems",
+   "part": "Pavemetrics Software License and Support Packages for the Laser Crack Measurement System (LCMS) data collection",
+   "part_numbers": [],
+   "quantity": "5 years",
+   "price_usd": 337500.0,
+   "lead_time": null,
+   "sole_source_vendor": "International Cybernetics Company, LP",
+   "reason": "International Cybernetics (ICC) is the sole vendor to repair, evaluate, and provide proprietary software updates and licenses for LCMS Imaging Systems for which they manufacture.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2892,
+  "out": 275
+ },
+ "model": "claude-sonnet-5"
+}

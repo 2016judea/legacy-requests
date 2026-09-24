@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ultra Electronics Forensic Technology Inc (UEFTI)",
+   "model": "IBIS\u00ae BRASSTRAX\u2122",
+   "part": "IBIS\u00ae BRASSTRAX\u2122 Acquisition Station for Cartridge Cases",
+   "part_numbers": [],
+   "quantity": "Two Years",
+   "price_usd": 1500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Ultra Electronics Forensic Technology Inc (UEFTI)",
+   "reason": "Ultra Electronics Forensic Technology Inc (UEFTI) is the sole manufacturer of the IBIS\u00ae BRASSTRAX\u2122 Acquisition Station and the IBIS\u00ae MATCHPOINT\u2122 Analysis Station.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ultra Electronics Forensic Technology Inc (UEFTI)",
+   "model": "IBIS\u00ae MATCHPOINT\u2122",
+   "part": "IBIS\u00ae MATCHPOINT\u2122 Analysis Station for Cartridge Cases",
+   "part_numbers": [],
+   "quantity": "Two Years",
+   "price_usd": 1500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Ultra Electronics Forensic Technology Inc (UEFTI)",
+   "reason": "Ultra Electronics Forensic Technology Inc (UEFTI) is the sole manufacturer of the IBIS\u00ae BRASSTRAX\u2122 Acquisition Station and the IBIS\u00ae MATCHPOINT\u2122 Analysis Station.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2918,
+  "out": 576
+ },
+ "model": "claude-sonnet-5"
+}

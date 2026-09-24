@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Teledyne FLIR Surveillance, Inc",
+   "model": "Safire 380",
+   "part": "Service Maintenance Agreements for FLIR aerial camera systems attached to FWC Aviation Fleet",
+   "part_numbers": [],
+   "quantity": "4 years starting 7/1/2024",
+   "price_usd": 750000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Teledyne FLIR Surveillance, Inc",
+   "reason": "Teledyne FLIR Surveillance, Inc. is the Sole Source Manufacturer, Distributor, and Service Center in the USA for the Safire 380 and Safire 380X systems.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FWC Aviation Fleet aircraft",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR Surveillance, Inc",
+   "model": "Safire 380X",
+   "part": "Service Maintenance Agreements for FLIR aerial camera systems attached to FWC Aviation Fleet",
+   "part_numbers": [],
+   "quantity": "4 years starting 7/1/2024",
+   "price_usd": 750000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Teledyne FLIR Surveillance, Inc",
+   "reason": "Teledyne FLIR Surveillance, Inc. is the Sole Source Manufacturer, Distributor, and Service Center in the USA for the Safire 380 and Safire 380X systems.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FWC Aviation Fleet aircraft",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3050,
+  "out": 552
+ },
+ "model": "claude-sonnet-5"
+}

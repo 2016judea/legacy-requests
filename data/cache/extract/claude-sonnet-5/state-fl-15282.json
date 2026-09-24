@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Garron Lottery Products, Inc.",
+   "model": null,
+   "part": "Maintenance and support of ball machines, including all parts and labor",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 88800.0,
+   "lead_time": null,
+   "sole_source_vendor": "Garron Lottery Products, Inc.",
+   "reason": "The Lottery believes that Garron Lottery Product, Inc. is the sole provider of these products and services.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2520,
+  "out": 190
+ },
+ "model": "claude-sonnet-5"
+}

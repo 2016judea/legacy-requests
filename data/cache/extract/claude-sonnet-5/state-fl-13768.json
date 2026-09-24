@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "IRIE-AT/SightCare",
+   "model": "CloverBook Pro",
+   "part": "Cloverbook Pro units for FY 2025-2026",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 32700.0,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Vision Technology",
+   "reason": "Florida Reading and Vision is the sole authorized reseller for the following products for the Florida School for the Deaf and Blind",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IRIE-AT/SightCare",
+   "model": "CloverView 12.5-inch additional screen",
+   "part": "CloverView 12.5-inch additional screen",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Vision Technology",
+   "reason": "Florida Reading and Vision is the sole authorized reseller for the following products for the Florida School for the Deaf and Blind",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2475,
+  "out": 431
+ },
+ "model": "claude-sonnet-5"
+}

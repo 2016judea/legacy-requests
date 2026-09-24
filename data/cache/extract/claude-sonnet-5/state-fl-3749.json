@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trane",
+   "model": "Tracer Summit",
+   "part": "Preventive maintenance and urgent service calls of existing Trane heating and cooling HVAC system",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": 121605.0,
+   "lead_time": null,
+   "sole_source_vendor": "Trane U.S. Inc",
+   "reason": "Trane is the Original Equipment Manufacturer (OEM) for all mechanical equipment and the automation system needed for cooling and heating needs and has exclusive rights to all upgrades, modifications, and enhancements required to maintain continuity of the HVAC equipment and the Trane Tracer Summit building automation system.",
+   "equipment_class": "HVAC",
+   "installed_location": "Viera Clinic and Viera Administration Building",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2645,
+  "out": 281
+ },
+ "model": "claude-sonnet-5"
+}

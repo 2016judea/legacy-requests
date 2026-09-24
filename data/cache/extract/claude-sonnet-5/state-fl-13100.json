@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Spacesaver",
+   "model": "Touchscreen Controls",
+   "part": "Replacing 38 Spacesaver Touchscreen controls as part of shelving system upgrade",
+   "part_numbers": [],
+   "quantity": "38",
+   "price_usd": 62338.6,
+   "lead_time": null,
+   "sole_source_vendor": "Patterson Pope, Inc.",
+   "reason": "The Spacesaver mechanical shelving is a proprietary product that is distributed through only an authorized dealer. Each office that sells, services and/or installs these products must be trained and authorized by Spacesaver. Patterson Pope, Inc. is the only representative trained and authorized to provide this service to this system in the State of Florida.",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Blind Services, Braille, and Talking Book Library",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Spacesaver",
+   "model": "Eclipse Mobile System",
+   "part": "Existing mobile shelving system being upgraded/converted to static shelving",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Patterson Pope, Inc.",
+   "reason": "The existing system owned by the Department, Spacesaver Eclipse Mobile System no longer has any maintenance agreement or warranty and in addition to some safety and operational concerns.",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Blind Services, Braille, and Talking Book Library",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2691,
+  "out": 516
+ },
+ "model": "claude-sonnet-5"
+}

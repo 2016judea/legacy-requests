@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trakka Systems",
+   "model": "TRAKKA 300",
+   "part": "High performance multi-sensor EO/IR camera system for aircraft search and rescue",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Trakka Systems",
+   "reason": "Trakka Systems is the manufacturer for this product and therefore this is considered a sole source product.",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida State Guard aircraft",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trakka Systems",
+   "model": "TRAKKA TLXC",
+   "part": "High performance multi-sensor EO/IR camera system for aircraft search and rescue",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Trakka Systems",
+   "reason": "Trakka Systems is the manufacturer for this product and therefore this is considered a sole source product.",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida State Guard aircraft",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2885,
+  "out": 769
+ },
+ "model": "claude-sonnet-5"
+}

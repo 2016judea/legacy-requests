@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "netDMS System",
+   "part": "Software licenses, maintenance and support, end-user training and documentation, and installation and configuration for ADSync and the Standard Retention modules",
+   "part_numbers": [],
+   "quantity": "36 months, July 1, 2022 through June 30, 2025",
+   "price_usd": 241804.06,
+   "lead_time": null,
+   "sole_source_vendor": "Vista Solutions Group, LP",
+   "reason": "Vista Solutions Group has represented to the Department that it is the sole source of maintenance and support for the customized netDMS software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Financial Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Exigen Group",
+   "model": "VisiFLOW",
+   "part": "Document imaging system software (predecessor to netDMS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "no longer being supported or updated by the manufacturer, Exigen Group",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Financial Services",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2929,
+  "out": 958
+ },
+ "model": "claude-sonnet-5"
+}

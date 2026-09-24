@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Origami Risk LLC",
+   "model": "Origami RMIS",
+   "part": "Risk Management Insurance System (RMIS) claims management software license and support",
+   "part_numbers": [],
+   "quantity": "Thirty-six (36) months (February 1, 2027, through January 31, 2030)",
+   "price_usd": 2541921.0,
+   "lead_time": null,
+   "sole_source_vendor": "Origami Risk LLC",
+   "reason": "Origami Risk is the owner of this proprietary software-as-a-service (including intellectual property of the software), and the sole provider of implementation and support services. The Origami RMIS cannot be hosted by any other vendor and is only available by accessing Origami Risk\u2019s servers over the internet.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3099,
+  "out": 280
+ },
+ "model": "claude-sonnet-5"
+}

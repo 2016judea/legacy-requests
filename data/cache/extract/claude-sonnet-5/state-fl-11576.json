@@ -1,0 +1,77 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "ERAVAP EV10",
+   "part": "Auto sampler 10 positions for ERAVAP (EV10) for gasoline / crude oil",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ayalytical Instruments, Inc.",
+   "reason": "Ayalytical Instruments, Inc. is the only authorized party and sole source to promote, realize marketing, offer the equipment; and maintain responding service requirements in the Americas.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Consumer Services Tampa Lab and Pompano Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "EV10-A038",
+   "part": "Luer inlet nut (for instruments with 8\" display)",
+   "part_numbers": [
+    "EV10-A038"
+   ],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ayalytical Instruments, Inc.",
+   "reason": "Ayalytical Instruments, Inc. is the only authorized party and sole source to promote, realize marketing, offer the equipment; and maintain responding service requirements in the Americas.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Consumer Services Tampa Lab and Pompano Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "EV01-A001a",
+   "part": "Sampling tube (Tygon) 0,5m with Luer connector",
+   "part_numbers": [
+    "EV01-A001a"
+   ],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ayalytical Instruments, Inc.",
+   "reason": "Ayalytical Instruments, Inc. is the only authorized party and sole source to promote, realize marketing, offer the equipment; and maintain responding service requirements in the Americas.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Consumer Services Tampa Lab and Pompano Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "EV01-A002a",
+   "part": "Mesh inlet filter 80 \u00b5m (5 pcs) (2 x inside sampler)",
+   "part_numbers": [
+    "EV01-A002a"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ayalytical Instruments, Inc.",
+   "reason": "Ayalytical Instruments, Inc. is the only authorized party and sole source to promote, realize marketing, offer the equipment; and maintain responding service requirements in the Americas.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Consumer Services Tampa Lab and Pompano Lab",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3184,
+  "out": 1577
+ },
+ "model": "claude-sonnet-5"
+}

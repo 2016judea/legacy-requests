@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "SEI Industries Limited",
+   "model": "Bambi Bucket",
+   "part": "Fully collapsible firefighting bucket made of high-durability flexible orange fabric that holds water, utilized by certified firefighter pilots",
+   "part_numbers": [],
+   "quantity": "ONE-TIME PURCHASE",
+   "price_usd": 54444.25,
+   "lead_time": null,
+   "sole_source_vendor": "SEI International Sales, Inc.",
+   "reason": "SEI Industries Limited is the original equipment manufacture (OEM) of the Bambi Bucket Product Line. Bambi Bucket and components are trademarks, patents, manufacturing processess, documents and designs are exclusisely proprietary to SEI Industried Limited and SEI International Sales, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SEI Industries Limited",
+   "model": "Sacksafoam Bladder injection system",
+   "part": "Bladder injection system that transfers and dispenses aerial firefighting foam, specially designed to be utilized with any Bambi Bucket",
+   "part_numbers": [],
+   "quantity": "ONE-TIME PURCHASE",
+   "price_usd": 54444.25,
+   "lead_time": null,
+   "sole_source_vendor": "SEI International Sales, Inc.",
+   "reason": "SEI Industries Limited is the original equipment manufacture (OEM) of the Bambi Bucket Product Line. Bambi Bucket and components are trademarks, patents, manufacturing processess, documents and designs are exclusisely proprietary to SEI Industried Limited and SEI International Sales, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3094,
+  "out": 698
+ },
+ "model": "claude-sonnet-5"
+}

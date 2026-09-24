@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "EDAX",
+   "model": "Octane Elect Plus EDS",
+   "part": "Maintenance and support for spectrometer system",
+   "part_numbers": [],
+   "quantity": "3/1/2023 - 2/29/2024",
+   "price_usd": 71000,
+   "lead_time": null,
+   "sole_source_vendor": "EDAX",
+   "reason": "EDAX is the manufacturer of the software, proprietary parts and engineering resources covering the Octane Elect Plus EDS and Orbis XRF spectrometer systems. No other vendor is authorized to provide maintenance and support for these systems.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Orlando Regional Operations Center (OROC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "EDAX",
+   "model": "Orbis XRF",
+   "part": "Maintenance and support for spectrometer system",
+   "part_numbers": [],
+   "quantity": "3/1/2023 - 2/29/2024",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "EDAX",
+   "reason": "EDAX is the manufacturer of the software, proprietary parts and engineering resources covering the Octane Elect Plus EDS and Orbis XRF spectrometer systems. No other vendor is authorized to provide maintenance and support for these systems.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Orlando Regional Operations Center (OROC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2726,
+  "out": 728
+ },
+ "model": "claude-sonnet-5"
+}

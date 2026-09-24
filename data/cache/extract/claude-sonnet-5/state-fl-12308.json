@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Guideline Geo Americas, Inc",
+   "model": "GroundTEM i10GroundExplorer TEM system",
+   "part": "TEM product, support software and training",
+   "part_numbers": [],
+   "quantity": "Twelve (12) months",
+   "price_usd": 47000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Guideline Geo Americas, Inc",
+   "reason": "Guideline Geo Americas, Inc., is the sole point of supply and support for the GroundTEM i10GroundExplorer TEM system with 40 x 40 m loop and is the only combined shallow (<150 m) and deep (>200 m) rapid acquisition TEM unit available in the U.S.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2950,
+  "out": 275
+ },
+ "model": "claude-sonnet-5"
+}

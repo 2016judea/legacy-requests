@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "RS2",
+   "model": "RS2 Access",
+   "part": "Access control platform to maintain connectivity with other FDLE facilities",
+   "part_numbers": [],
+   "quantity": "One-time purchase",
+   "price_usd": 619937.0,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Security & Fire, LLC",
+   "reason": "it is imperative that the FMROC remain on a RS2 Access and Avigilon platform",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fort Myers Regional Operations Center (FMROC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avigilon",
+   "model": null,
+   "part": "Video/camera platform for security system connectivity",
+   "part_numbers": [],
+   "quantity": "One-time purchase",
+   "price_usd": 619937.0,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Security & Fire, LLC",
+   "reason": "it is imperative that the FMROC remain on a RS2 Access and Avigilon platform",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fort Myers Regional Operations Center (FMROC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Salto",
+   "model": null,
+   "part": "Locking system for facility access control",
+   "part_numbers": [],
+   "quantity": "One-time purchase",
+   "price_usd": 619937.0,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Security & Fire, LLC",
+   "reason": "the FDLE Headquarters facility database for video and card access as well as the Salto locking system",
+   "equipment_class": "other equipment",
+   "installed_location": "Fort Myers Regional Operations Center (FMROC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Security system including cameras, alarms, control panels, and gates",
+   "part_numbers": [],
+   "quantity": "One-time purchase",
+   "price_usd": 619937.0,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Security & Fire, LLC",
+   "reason": "It is critical when there is a problem with any of the components of this system, whether it be the alarms, control panels, cameras or gates that immediate repairs are made to sustain the security",
+   "equipment_class": "other equipment",
+   "installed_location": "Fort Myers Regional Operations Center (FMROC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Badging access software",
+   "part_numbers": [],
+   "quantity": "One-time purchase",
+   "price_usd": 619937.0,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Security & Fire, LLC",
+   "reason": "currently maintains the FDLE security system which includes cameras, alarms, and badging access software",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fort Myers Regional Operations Center (FMROC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2918,
+  "out": 1206
+ },
+ "model": "claude-sonnet-5"
+}

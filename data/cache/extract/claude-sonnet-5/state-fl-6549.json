@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Spirit All-Weather Unmanned Aerial Vehicle",
+   "part": "Purchase of the Spirit All-Weather Unmanned Aerial Vehicle and accessories",
+   "part_numbers": [],
+   "quantity": "See Attached Product List",
+   "price_usd": 167642.0,
+   "lead_time": null,
+   "sole_source_vendor": "Volatus Aerospace",
+   "reason": "Volatus Aerospace is the only known company that manufactures and distributes the Spirit All-Weather Unmanned Aerial Vehicle and the necessary accessories/components.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2625,
+  "out": 237
+ },
+ "model": "claude-sonnet-5"
+}

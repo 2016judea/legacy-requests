@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Agilent Technologies, Inc.",
+   "model": "Inductively Coupled Plasma (ICP)",
+   "part": "Annual preventative maintenance and service agreement, and supplies",
+   "part_numbers": [],
+   "quantity": "Three years",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "Agilent Technologies, Inc. is the sole manufacturer of these laboratory instruments and is the only company authorized to provide preventative maintenance and service agreements, and supplies to their proprietary laboratory instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Agilent Technologies, Inc.",
+   "model": "TS Washer",
+   "part": "Annual preventative maintenance and service agreement, and supplies",
+   "part_numbers": [],
+   "quantity": "Three years",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "Agilent Technologies, Inc. is the sole manufacturer of these laboratory instruments and is the only company authorized to provide preventative maintenance and service agreements, and supplies to their proprietary laboratory instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Agilent Technologies, Inc.",
+   "model": "Synergy HTX reader",
+   "part": "Annual preventative maintenance and service agreement, and supplies",
+   "part_numbers": [],
+   "quantity": "Three years",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "Agilent Technologies, Inc. is the sole manufacturer of these laboratory instruments and is the only company authorized to provide preventative maintenance and service agreements, and supplies to their proprietary laboratory instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Agilent Technologies, Inc.",
+   "model": "ICP SPS Autosampler",
+   "part": "Annual preventative maintenance and service agreement, and supplies",
+   "part_numbers": [],
+   "quantity": "Three years",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "Agilent Technologies, Inc. is the sole manufacturer of these laboratory instruments and is the only company authorized to provide preventative maintenance and service agreements, and supplies to their proprietary laboratory instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Agilent Technologies, Inc.",
+   "model": "Crosslab Silver",
+   "part": "Annual preventative maintenance and service agreement, and supplies",
+   "part_numbers": [],
+   "quantity": "Three years",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "Agilent Technologies, Inc. is the sole manufacturer of these laboratory instruments and is the only company authorized to provide preventative maintenance and service agreements, and supplies to their proprietary laboratory instruments.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2781,
+  "out": 1670
+ },
+ "model": "claude-sonnet-5"
+}

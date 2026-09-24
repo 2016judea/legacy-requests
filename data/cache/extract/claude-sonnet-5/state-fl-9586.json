@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Schneider Electric",
+   "model": "EcoStruxure",
+   "part": "Upgrade, programming, and service of building automation system HVAC controls",
+   "part_numbers": [],
+   "quantity": "12 months or until all work is completed.",
+   "price_usd": 65545.0,
+   "lead_time": null,
+   "sole_source_vendor": "Stark Tech",
+   "reason": "Schneider Electric EcoStruxure and RS2 Technologies Access IT are proprietary advanced products that are distributed through only a certified dealer program.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "DBS Daytona Beach Campus",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "RS2 Technologies",
+   "model": "Access IT",
+   "part": "Service and support of access control system integrated with HVAC controls upgrade",
+   "part_numbers": [],
+   "quantity": "12 months or until all work is completed.",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stark Tech",
+   "reason": "Each office that sells, services and/or installs these products must be factory trained and certified by Schneider Electric and RS2 Technologies respectively.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "DBS Daytona Beach Campus",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2833,
+  "out": 848
+ },
+ "model": "claude-sonnet-5"
+}

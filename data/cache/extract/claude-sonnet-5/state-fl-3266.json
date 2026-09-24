@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Autodesk",
+   "model": "AEC Collection",
+   "part": "Autodesk Architecture Engineering Construction (AED) Multi-user ELD and DLT Vault Annual Subscription",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 431799.96,
+   "lead_time": null,
+   "sole_source_vendor": "DLT Solutions, LLC",
+   "reason": "Autodesk products are purchased through authorized resellers. DLT Solutions/Imaginet is the only known authorized Autodesk reseller to the State of Florida",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Autodesk",
+   "model": "Vault",
+   "part": "DLT Vault Annual Subscription - document management system for CADD drawing files",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "DLT Solutions, LLC",
+   "reason": "Autodesk products are purchased through authorized resellers. DLT Solutions/Imaginet is the only known authorized Autodesk reseller to the State of Florida",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2535,
+  "out": 426
+ },
+ "model": "claude-sonnet-5"
+}

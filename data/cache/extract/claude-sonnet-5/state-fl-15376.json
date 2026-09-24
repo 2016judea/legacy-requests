@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axnes, Inc.",
+   "model": "BST35 Mobile Base Station",
+   "part": "BST35 Mobile Base Station intercom systems for FSG rotor-wing aircraft",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 64000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Axnes, Inc.",
+   "reason": "The Axnes system is proprietary in its internal wireless technology, but it is specifically designed to be cross-compatible with third-party hardware.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2873,
+  "out": 214
+ },
+ "model": "claude-sonnet-5"
+}

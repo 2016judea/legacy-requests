@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "RS2 Technologies",
+   "model": "Access It!",
+   "part": "Maintenance and monitoring services for the Department\u2019s existing security and access badging system",
+   "part_numbers": [],
+   "quantity": "Two (2) years: July 1, 2026 \u2013 June 30, 2028",
+   "price_usd": 450000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Georgia-Florida Burglar Alarm Co., Inc.",
+   "reason": "Additionally, Georgia-Florida is the only authorized RS2 Technologies dealer in the areas of North Florida and South Georgia.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida Highway Patrol (FHP) troop locations and Neil Kirkman Building",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2698,
+  "out": 627
+ },
+ "model": "claude-sonnet-5"
+}

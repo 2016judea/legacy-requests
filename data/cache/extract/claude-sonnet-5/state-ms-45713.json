@@ -1,0 +1,73 @@
+{
+ "records": [
+  {
+   "manufacturer": "Frigid Units, Inc.",
+   "model": "LS-700",
+   "part": "Living Stream Tank with Water Chiller Unit, Activated Carbon Filtering Media, and Fiberglass Support Legs",
+   "part_numbers": [
+    "LS-700"
+   ],
+   "quantity": "2",
+   "price_usd": 21961,
+   "lead_time": null,
+   "sole_source_vendor": "Frigid Units, Inc.",
+   "reason": "Frigid Units is the manufacturer and only distributer the Living Stream aquatic raceways with a rectangular shaped tank with a chilled water pump and carbon filtering media.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "UM Biological Field Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "1/3 HP Water Chiller Unit",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Frigid Units, Inc.",
+   "reason": "There is no other entity that produces a product meeting all of these needs.",
+   "equipment_class": "other equipment",
+   "installed_location": "UM Biological Field Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Activated Carbon Filtering Media",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Frigid Units, Inc.",
+   "reason": "There is no other entity that produces a product meeting all of these needs.",
+   "equipment_class": "other equipment",
+   "installed_location": "UM Biological Field Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fiberglass Support Legs",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Frigid Units, Inc.",
+   "reason": "There is no other entity that produces a product meeting all of these needs.",
+   "equipment_class": "other equipment",
+   "installed_location": "UM Biological Field Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3816,
+  "out": 715
+ },
+ "model": "claude-sonnet-5"
+}

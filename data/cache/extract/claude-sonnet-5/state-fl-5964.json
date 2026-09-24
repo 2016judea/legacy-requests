@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "AASHTO",
+   "model": "AASHTOWare",
+   "part": "AASHTOWare Software Maintenance",
+   "part_numbers": [],
+   "quantity": "One (1) year.",
+   "price_usd": 615550.0,
+   "lead_time": null,
+   "sole_source_vendor": "AASHTO",
+   "reason": "AASHTOWare is a unique enterprise software suite. No other software matches its effectiveness for transportation project design and management.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2484,
+  "out": 574
+ },
+ "model": "claude-sonnet-5"
+}

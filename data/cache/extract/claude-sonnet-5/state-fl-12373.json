@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "ESRI",
+   "model": "ArcGIS Desktop",
+   "part": "Software maintenance agreement for ArcGIS Desktop (basic and advanced concurrent versions)",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute",
+   "reason": "ESRI is the manufacturer and sole provider of all desktops, server and web mapping software for the Geographic Information System and has exclusive rights to all upgrades, modifications and enhancements needed to maintain continuity of this integrated system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ESRI",
+   "model": "ArcGIS Desktop extension modules",
+   "part": "Software extension modules providing advanced analytical tools within ArcGIS Desktop",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute",
+   "reason": "ESRI is the manufacturer and sole provider of all desktops, server and web mapping software for the Geographic Information System and has exclusive rights to all upgrades, modifications and enhancements needed to maintain continuity of this integrated system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ESRI",
+   "model": "ArcGIS for Server",
+   "part": "Software maintenance agreement for ArcGIS for Server, used to share GIS information with external agency partners and the public",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute",
+   "reason": "ESRI is the manufacturer and sole provider of all desktops, server and web mapping software for the Geographic Information System and has exclusive rights to all upgrades, modifications and enhancements needed to maintain continuity of this integrated system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ESRI",
+   "model": "ArcGIS Online",
+   "part": "Web mapping ArcGIS Online software maintenance agreement",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute",
+   "reason": "ESRI is the manufacturer and sole provider of all desktops, server and web mapping software for the Geographic Information System and has exclusive rights to all upgrades, modifications and enhancements needed to maintain continuity of this integrated system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3215,
+  "out": 960
+ },
+ "model": "claude-sonnet-5"
+}

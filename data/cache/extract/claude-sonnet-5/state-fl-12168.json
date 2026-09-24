@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "iManagement Consulting LLC",
+   "model": "WittyAI",
+   "part": "Software licensing, maintenance, support, end-user training, documentation, and configuration for WittyAI chatbot",
+   "part_numbers": [],
+   "quantity": "38 months (May 1, 2025 - June 30, 2028)",
+   "price_usd": 226000.0,
+   "lead_time": null,
+   "sole_source_vendor": "iManagement Consulting LLC",
+   "reason": "iManagement Consulting LLC holds proprietary rights to its service, which has been specifically customized for public use on the Department\u2019s website. Therefore, iManagement Consulting LLC has affirmed to the Department that it is the sole provider of the customized WittyAI solution.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Financial Services website",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2805,
+  "out": 290
+ },
+ "model": "claude-sonnet-5"
+}

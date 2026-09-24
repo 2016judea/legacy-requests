@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "DMP",
+   "model": null,
+   "part": "Installation, maintenance and emergency response of comprehensive security system, fire alarm and access control services (Access Control, Fire Cell, and Security systems)",
+   "part_numbers": [],
+   "quantity": "1 Year",
+   "price_usd": 38155.0,
+   "lead_time": null,
+   "sole_source_vendor": "Bates Security",
+   "reason": "Bates Security is the only vendor authorized to service and maintain the current DMP Access Control, Fire Cell, and Security systems at Sebring Health, Avon Park Health, and Lake Placid Health facilities.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sebring Health, Avon Park Health, and Lake Placid Health facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2836,
+  "out": 266
+ },
+ "model": "claude-sonnet-5"
+}

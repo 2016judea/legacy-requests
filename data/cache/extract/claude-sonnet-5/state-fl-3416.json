@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Roche",
+   "model": "MagNA Pure 24",
+   "part": "Nucleic acid extraction instrument",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 242000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Roche Diagnostics Corporation",
+   "reason": "Roche Diagnostics Corporation is the exclusive manufacturer, distributor, and service provider of the MagNa Pure 24 instrument and service agreements.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Roche",
+   "model": "MagNA Pure 24",
+   "part": "Annual service agreements for MagNA Pure instruments",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Roche Diagnostics Corporation",
+   "reason": "Roche Diagnostics Corporation is the exclusive manufacturer, distributor, and service provider of the MagNa Pure 24 instrument and service agreements.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3219,
+  "out": 797
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "SmartCOP, Inc. D/B/A CTS America",
+   "model": null,
+   "part": "Data warehouse server maintenance, data conversions, data creation/modification/compatibility, & software updates; MCT and RMS software maintenance/support to interface with Statewide Joint Task Force CAD system",
+   "part_numbers": [],
+   "quantity": "5 year term (July 1, 2020 to June 30, 2025)",
+   "price_usd": 900000.0,
+   "lead_time": null,
+   "sole_source_vendor": "SmartCOP, Inc. D/B/A CTS America",
+   "reason": "CTS-America (SmartCOP) is the original and sole developer, distributor, and technical support supplier for the CTS software that is currently installed and in use at the Fl. Fish and Wildlife Conservation Commission.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Joint Dispatch Centers operated by FHP and FWC",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3157,
+  "out": 332
+ },
+ "model": "claude-sonnet-5"
+}

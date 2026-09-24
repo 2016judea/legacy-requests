@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kyra Solutions",
+   "model": "GEODES",
+   "part": "GEOlogic Data Enterprise System (GEODES) Hosting and Maintenance Services",
+   "part_numbers": [],
+   "quantity": "July 1, 2026 to June 30, 2027",
+   "price_usd": 72000,
+   "lead_time": null,
+   "sole_source_vendor": "Kyra Solutions, Inc.",
+   "reason": "Kyra Solutions, Inc. is the sole provider of the GEOlogic Data Enterprise System (GEODES).",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2884,
+  "out": 223
+ },
+ "model": "claude-sonnet-5"
+}

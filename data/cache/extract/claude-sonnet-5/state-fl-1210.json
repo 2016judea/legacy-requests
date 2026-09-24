@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "BlueToad",
+   "model": "Spectra Road Side Units (RSU)",
+   "part": "Connected Vehicle to Everything (C-V2X) Connected Vehicle Equipment for FRAME project",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Iteris, Inc.",
+   "reason": "Iteris, Inc. is the only provider of this service for the BlueToad Spectra Road Side Units (RSU) product in a C-V2X environment.",
+   "equipment_class": "communications/radio",
+   "installed_location": "FDOT District Two",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2559,
+  "out": 476
+ },
+ "model": "claude-sonnet-5"
+}

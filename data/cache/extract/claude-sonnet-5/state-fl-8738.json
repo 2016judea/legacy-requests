@@ -1,0 +1,59 @@
+{
+ "records": [
+  {
+   "manufacturer": "Otis Elevator Company",
+   "model": "OTIS GLIDE",
+   "part": "Installation of an Infrared Door Edge System - OTIS GLIDE\u2122 A Door Operator infrared passenger protection system on elevator car door",
+   "part_numbers": [],
+   "quantity": "One-time service. Six months.",
+   "price_usd": 56025.92,
+   "lead_time": null,
+   "sole_source_vendor": "Otis Elevator Company",
+   "reason": "This proprietary upgrade is solely available through OTIS Elevator, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": "Ribault Clubhouse at Fort George Island Cultural State Park",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Otis Elevator Company",
+   "model": "OTIS 211",
+   "part": "Upgrade and replace components on the OTIS 211 passenger elevator (Unit #466703) in lieu of a complete elevator replacement",
+   "part_numbers": [
+    "466703"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Otis Elevator Company",
+   "reason": "The existing components needed for repair are no longer in production and are now obsolete.",
+   "equipment_class": "other equipment",
+   "installed_location": "Ribault Clubhouse at Fort George Island Cultural State Park",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Otis Elevator Company",
+   "model": "LVM 211",
+   "part": "Upgrade and replace the LVM 211 elevator controller board in lieu of a complete modernization",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Otis Elevator Company",
+   "reason": "The existing LVM 211 controller has printed circuit board components that are no longer readily available or currently in production; this board has an installation date of 1998-2013.",
+   "equipment_class": "other equipment",
+   "installed_location": "Ribault Clubhouse at Fort George Island Cultural State Park",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3220,
+  "out": 950
+ },
+ "model": "claude-sonnet-5"
+}

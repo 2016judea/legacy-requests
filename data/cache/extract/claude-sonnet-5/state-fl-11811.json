@@ -1,0 +1,111 @@
+{
+ "records": [
+  {
+   "manufacturer": "Weapons and Tactics Alliance Group",
+   "model": "TW-950",
+   "part": "Communication Radio Kit Incl TW-950, Antennas, Hub System, Cables, Power Supply, Tactical Phone System and PTT/Headset System// 5 Operators",
+   "part_numbers": [
+    "TW-950"
+   ],
+   "quantity": "5 Operators",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Weapons and Tactics Alliance Group",
+   "reason": "Weapons and Tactics Alliance Group is the manufacturer for Specialized Communication Radios for tactical, warfare, and field training and therefore this is considered a sole source provider.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Weapons and Tactics Alliance Group",
+   "model": "TW-750",
+   "part": "TW-750 Radio Kit (Incl. 6 x Radios, Antennas, and other Accessories)",
+   "part_numbers": [
+    "TW-750"
+   ],
+   "quantity": "6 x Radios",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Weapons and Tactics Alliance Group",
+   "reason": "Weapons and Tactics Alliance Group is the manufacturer for Specialized Communication Radios for tactical, warfare, and field training and therefore this is considered a sole source provider.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Weapons and Tactics Alliance Group",
+   "model": null,
+   "part": "Special Missions Dismounted Operator Kit \u2013 Individual operator kit including radios, power, EUD and HUB system. 5 individual systems per kit.",
+   "part_numbers": [
+    "SMU-DOK-TW5"
+   ],
+   "quantity": "5 individual systems per kit",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Weapons and Tactics Alliance Group",
+   "reason": "Weapons and Tactics Alliance Group is the manufacturer for Specialized Communication Radios for tactical, warfare, and field training and therefore this is considered a sole source provider.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Weapons and Tactics Alliance Group",
+   "model": null,
+   "part": "Mobile Command & Control Vehicle Communications Package \u2013 Integrated Command and Control vehicle with equipment for crossbanding, ROIP, leveraging existing SMU multi-waveform communications both LOS and BLOS capable.",
+   "part_numbers": [
+    "SMU-MC2-V1"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Weapons and Tactics Alliance Group",
+   "reason": "Weapons and Tactics Alliance Group is the manufacturer for Specialized Communication Radios for tactical, warfare, and field training and therefore this is considered a sole source provider.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Weapons and Tactics Alliance Group",
+   "model": null,
+   "part": "Special Missions Vehicle Agnostic Command & Control Kit \u2013 Integrated Command and Control kit with equipment for crossbanding, ROIP, leveraging existing SMU multi-waveform communications both LOS and BLOS capable that can roll on and roll off multiple vehicle platforms.",
+   "part_numbers": [
+    "SMU-VAC2-V1"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Weapons and Tactics Alliance Group",
+   "reason": "Weapons and Tactics Alliance Group is the manufacturer for Specialized Communication Radios for tactical, warfare, and field training and therefore this is considered a sole source provider.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Weapons and Tactics Alliance Group",
+   "model": null,
+   "part": "Tactical MANET Radio Range Extension Package \u2013 Advanced RF communications range extension accessory kit with power and systems to provide BLOS capabilities for existing SMU radio waveforms.",
+   "part_numbers": [
+    "SMU-REP-V1"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Weapons and Tactics Alliance Group",
+   "reason": "Weapons and Tactics Alliance Group is the manufacturer for Specialized Communication Radios for tactical, warfare, and field training and therefore this is considered a sole source provider.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3198,
+  "out": 3397
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Freefly",
+   "model": "Alta X",
+   "part": "Upgrades and modifications to existing Drone Amplified\u2013integrated Freefly Alta X aircraft, including ignition hardware, onboard electronics, wiring architecture, software integrations, and ground control configuration",
+   "part_numbers": [],
+   "quantity": "Date of execution through June 30, 2026",
+   "price_usd": 74501.92,
+   "lead_time": null,
+   "sole_source_vendor": "Drone Amplified, Inc",
+   "reason": "Drone Amplified is the sole designer, integrator, and manufacturer of the specialized systems installed on these aircraft. Because these components are custom-designed and proprietary to Drone Amplified, no other vendor can provide compatible parts, service, or upgrades.",
+   "equipment_class": "other equipment",
+   "installed_location": "Florida Forest Service",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3023,
+  "out": 301
+ },
+ "model": "claude-sonnet-5"
+}

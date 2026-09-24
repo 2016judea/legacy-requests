@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sciex",
+   "model": "7500 QTrap",
+   "part": "LC/MS/MS mass spectrometer for analysis of samples supporting food safety regulatory programs",
+   "part_numbers": [],
+   "quantity": "One",
+   "price_usd": 492586.72,
+   "lead_time": null,
+   "sole_source_vendor": "AB Sciex, LLC",
+   "reason": "The following specifications are unique to the Sciex 7500 LC/MS/MS instrument and no other manufacturer can meet the specifications",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3090,
+  "out": 211
+ },
+ "model": "claude-sonnet-5"
+}

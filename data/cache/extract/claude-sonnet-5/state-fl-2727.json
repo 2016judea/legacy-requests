@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trane",
+   "model": null,
+   "part": "Maintenance, service and repair of Trane HVAC equipment including chillers",
+   "part_numbers": [],
+   "quantity": "3 Years (FY 2023-2025)",
+   "price_usd": 300000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Trane",
+   "reason": "Trane is the sole source provider of Trane HVAC equipment, DynaView Control Modules, and Trane Building Automation Controls, and the only vendor that can provide Trane service and installations.",
+   "equipment_class": "HVAC",
+   "installed_location": "Neil Kirkman Building and at other Department locations throughout the state",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trane",
+   "model": "DynaView Control Module",
+   "part": "Maintenance, service and repair of DynaView Control Modules",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Trane",
+   "reason": "The Trane HVAC equipment requires use of the DynaView Module, which requires Trane's proprietary software to function.",
+   "equipment_class": "HVAC",
+   "installed_location": "Neil Kirkman Building and at other Department locations throughout the state",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trane",
+   "model": "Building Automation Controls",
+   "part": "Maintenance, service and repair of Trane Building Automation Controls",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Trane",
+   "reason": "Service centers are authorized by the factory to make all repairs and perform all service on Trane equipment.",
+   "equipment_class": "HVAC",
+   "installed_location": "Neil Kirkman Building and at other Department locations throughout the state",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2842,
+  "out": 1076
+ },
+ "model": "claude-sonnet-5"
+}

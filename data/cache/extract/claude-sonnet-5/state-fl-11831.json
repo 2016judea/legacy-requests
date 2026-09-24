@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "AASHTO",
+   "model": "AASHTOware PermitRoute (powered by ProMiles)",
+   "part": "AASHTOware Permit - OS/OW permitting and routing SaaS system with configuration, integration, and support services",
+   "part_numbers": [],
+   "quantity": "4 (four years)",
+   "price_usd": 3951250.0,
+   "lead_time": null,
+   "sole_source_vendor": "AASHTO",
+   "reason": "There is not another vendor that can provide the complex needs of our agency and ensure that we comply with the federal state laws.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2857,
+  "out": 223
+ },
+ "model": "claude-sonnet-5"
+}

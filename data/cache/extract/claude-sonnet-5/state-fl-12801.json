@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "VMRD",
+   "model": null,
+   "part": "Babesia Caballi Antibody Test kit, cELISA",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "VMRD",
+   "reason": "VMRD is the only manufacturer and supplier of the USDA licensed Babesia Caballi Antibody Test kit, cELISA and Babesia equi Antibody Test kit, cELISA for piroplasmosis test, and Prion Protein MAb Culture Supermate.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VMRD",
+   "model": null,
+   "part": "Babesia equi Antibody Test kit, cELISA",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "VMRD",
+   "reason": "VMRD is the only manufacturer and supplier of the USDA licensed Babesia Caballi Antibody Test kit, cELISA and Babesia equi Antibody Test kit, cELISA for piroplasmosis test, and Prion Protein MAb Culture Supermate.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VMRD",
+   "model": null,
+   "part": "Prion Protein MAb Cell Culture Supermate",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "VMRD",
+   "reason": "VMRD is the only manufacturer and supplier of the USDA licensed Babesia Caballi Antibody Test kit, cELISA and Babesia equi Antibody Test kit, cELISA for piroplasmosis test, and Prion Protein MAb Culture Supermate.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3279,
+  "out": 1055
+ },
+ "model": "claude-sonnet-5"
+}

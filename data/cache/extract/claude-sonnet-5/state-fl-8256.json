@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Event 38",
+   "model": "E455",
+   "part": "Purchase of Drone to support UAS command and control",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 431575.0,
+   "lead_time": null,
+   "sole_source_vendor": "Volatus Aerospace USA Corp",
+   "reason": "Volatus Aerospace is the only known company that that is licensed by the manufacturer to sell and distribute these platforms in the State of Florida. They are not available through any other third party vendor.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2708,
+  "out": 206
+ },
+ "model": "claude-sonnet-5"
+}

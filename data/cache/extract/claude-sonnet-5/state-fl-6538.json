@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "biospatial, Inc.",
+   "model": "biospatial platform",
+   "part": "Technical support and enhancement services to the biospatial platform (APIs, cardiac arrest data integration with NFIRS)",
+   "part_numbers": [],
+   "quantity": "Three Years",
+   "price_usd": 733000.0,
+   "lead_time": null,
+   "sole_source_vendor": "biospatial, Inc.",
+   "reason": "biospatial, Inc. is the only provider capable of developing and delivering the enhancements to the proprietary biospatial platform.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2684,
+  "out": 220
+ },
+ "model": "claude-sonnet-5"
+}

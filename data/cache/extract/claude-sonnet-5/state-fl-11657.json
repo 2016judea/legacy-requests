@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "SMA Technologies",
+   "model": "OpCon",
+   "part": "Subscription and support for the Department's OPCON System (batch job scheduling), including servers, agents, and SMA consulting hours",
+   "part_numbers": [],
+   "quantity": "10 Production OpCon Servers (SAMs), 25 Non-Production OpCon Servers (SAMs), 10 Fail Over OpCon Servers (SAMs), 1600 tasks per day in Production",
+   "price_usd": 708524.48,
+   "lead_time": "Three years beginning 07/01/2025 and ending 06/30/2028",
+   "sole_source_vendor": "Unisoft International, Inc., dba SMA Technologies",
+   "reason": "The Deaprtment received a letter from SMA Technologies, Inc. stating this is a proprietary subscription software package, and it is only supported by SMA Technolgies.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida Department of Revenue",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3352,
+  "out": 341
+ },
+ "model": "claude-sonnet-5"
+}

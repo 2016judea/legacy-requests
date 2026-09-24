@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola Solutions",
+   "model": "MotoBridge",
+   "part": "Maintenance, break/fix repair or replacement, and technical support for existing MotoBridge equipment, including radio equipment, gateways, computers, servers, and workstations",
+   "part_numbers": [],
+   "quantity": "12 months (July 1, 2025- June 30, 2026)",
+   "price_usd": 563349.36,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Because the equipment is proprietary to Motorola, no other vendors can provide the requisite maintenance services and replacement parts.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Florida Interoperability Network (FIN)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2733,
+  "out": 264
+ },
+ "model": "claude-sonnet-5"
+}

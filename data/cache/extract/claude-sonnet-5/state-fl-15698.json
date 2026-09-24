@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Advanced Microscopy Techniques",
+   "model": "NanoSprint15B",
+   "part": "Scientific grade CMOS camera compatible with existing TEM model JEM 1400",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 150000,
+   "lead_time": null,
+   "sole_source_vendor": "Advanced Microscopy Techniques (AMT)",
+   "reason": "AMT is the only vendor that can provide a scientific grade complementary metal oxide semiconductor (CMOS) camera that is fully compatible with our existing transmission electron microscope (TEM) model JEM 1400",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Fish and Wildlife Research Institute",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3243,
+  "out": 263
+ },
+ "model": "claude-sonnet-5"
+}

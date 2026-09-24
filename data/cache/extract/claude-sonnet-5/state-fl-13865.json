@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Xylem",
+   "model": "YSI",
+   "part": "Sole source for repairs to existing Xylem YSI instruments, and future additional proprietary instrument purchases to be integrated into program's monitoring system",
+   "part_numbers": [],
+   "quantity": "3 years upon issuance of Purchase Order",
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "These repairs can only be performed by the manufacturer.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3089,
+  "out": 487
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Labworks, LLC",
+   "model": "LABWORKS LIMS",
+   "part": "Software maintenance and support (licenses, software and hardware support, training)",
+   "part_numbers": [],
+   "quantity": "July 1, 2026 - June 30, 2027",
+   "price_usd": 100000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Labworks, LLC",
+   "reason": "Labworks, LLC is the original software manufacturer for LABWORKS LIMS and is the only known source of support and training for this software. There are no authorized distributors or resellers.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Bureau of Agricultural Environmental Laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2788,
+  "out": 248
+ },
+ "model": "claude-sonnet-5"
+}

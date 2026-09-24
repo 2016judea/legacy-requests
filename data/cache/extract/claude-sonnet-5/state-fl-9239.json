@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bosch Automotive Service Solutions",
+   "model": "CDR",
+   "part": "Bosch CDR system tool kit (hardware, adapter cables) for crash data retrieval of vehicle safety modules",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Crash Data Group, Inc.",
+   "reason": "The Bosch CDR tool kits and software are products of the sole manufacturer, Bosch Automotive Service Solutions.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bosch Automotive Service Solutions",
+   "model": "CDR software",
+   "part": "seventeen (17) annual term Bosch Crash Data Retrieval (CDR) software subscriptions",
+   "part_numbers": [],
+   "quantity": "17",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Crash Data Group, Inc.",
+   "reason": "The Bosch CDR and Tesla products are only available from Crash Data Group, Bosch and Tesla's only distributor in the United States.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GIT America",
+   "model": "Hyundai CDR software",
+   "part": "Five (5) Hyundai annual term CDR software subscriptions",
+   "part_numbers": [],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Crash Data Group, Inc.",
+   "reason": "GIT America is the sole manufacturer for the Hyundai/Kia CDR kits and cables. Crash Data Group is the only other authorized distributor for their CDR products.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GIT America",
+   "model": "Kia CDR software",
+   "part": "Five (5) Kia annual term CDR software subscriptions",
+   "part_numbers": [],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Crash Data Group, Inc.",
+   "reason": "GIT America is the sole manufacturer for the Hyundai/Kia CDR kits and cables. Crash Data Group is the only other authorized distributor for their CDR products.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bosch Automotive Service Solutions",
+   "model": null,
+   "part": "any future Automatic Calibration Module (ACM) vehicle specific cable releases during term",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Crash Data Group, Inc.",
+   "reason": "The Bosch CDR and Tesla products are only available from Crash Data Group, Bosch and Tesla's only distributor in the United States.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "any future ACM cable vehicle specific releases for any Hyundai, Kia, & Tesla during the term",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Crash Data Group, Inc.",
+   "reason": "GIT America is the sole manufacturer for the Hyundai/Kia CDR kits and cables. Crash Data Group is the only other authorized distributor for their CDR products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "any miscellaneous hardware (i.e. power supply cables) to ensure all CDR kits are maintained in good working condition",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Crash Data Group, Inc.",
+   "reason": "This purchase is to ensure that our kits are properly maintained, for any additional kits, to include hardware, software, and/or cables that are needed.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tesla",
+   "model": "CDR",
+   "part": "Tesla CDR system tool for crash data retrieval",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Crash Data Group, Inc.",
+   "reason": "The Bosch CDR and Tesla products are only available from Crash Data Group, Bosch and Tesla's only distributor in the United States.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3528,
+  "out": 4310
+ },
+ "model": "claude-sonnet-5"
+}

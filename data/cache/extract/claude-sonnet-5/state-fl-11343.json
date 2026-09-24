@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ESRI",
+   "model": "ArcGIS Pro, ArcGIS Online, ArcGIS Enterprise, ArcGIS Experience Builder",
+   "part": "Creation of updated Environmental Resource Analysis (ERA) tool plus maintenance and technical support for FWC",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": 115616,
+   "lead_time": null,
+   "sole_source_vendor": "ESRI",
+   "reason": "Only ESRI can provide the capability for an organization to distribute licensed ESRI GIS software, along with maintenance and online services through an Enterprise Agreement.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3127,
+  "out": 716
+ },
+ "model": "claude-sonnet-5"
+}

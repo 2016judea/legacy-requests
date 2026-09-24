@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Transparity TMS",
+   "part": "Transparity TMS central software solution, including licenses, maintenance, warranty and miscellaneous support services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Transportation Control Systems, Inc.",
+   "reason": "To provideTransparity TMS central software solution, including licenses, maintenance, warranty and miscellaneous support services for FDOT District Six.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "SunGuide Transportation Management Center (TMC), District Six, Miami-Dade & Monroe Counties",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2537,
+  "out": 247
+ },
+ "model": "claude-sonnet-5"
+}

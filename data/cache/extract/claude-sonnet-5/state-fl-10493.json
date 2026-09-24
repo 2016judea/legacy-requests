@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "International Cybernetics Company, LP (ICC)",
+   "model": "IrisPRO+ Profiler",
+   "part": "New IrisPRO+ Profiler Survey Vehicle (Multi-Purpose Survey Vehicle) replacing outdated Multi-Purpose Laser Profiling System (ME 31729)",
+   "part_numbers": [],
+   "quantity": "Nine (9) months",
+   "price_usd": 265695.0,
+   "lead_time": null,
+   "sole_source_vendor": "International Cybernetics Company, LP (ICC)",
+   "reason": "ICC is the designer and manufacturer of the existing MPSV Systems used by the Department. The replacement MPSV must be compatible with the Department\u2019s currently owned units and must produce data in the same manner and format as the current units.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2944,
+  "out": 334
+ },
+ "model": "claude-sonnet-5"
+}

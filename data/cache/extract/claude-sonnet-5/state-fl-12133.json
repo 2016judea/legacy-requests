@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cryogenic Plastics Inc. (CPI)",
+   "model": null,
+   "part": "Inflatable Air Bladder Collar Systems, related components, and parts for Brunswick Impact vessel models 750 and 850, to include warranty",
+   "part_numbers": [],
+   "quantity": "3 years from date of award",
+   "price_usd": 250000,
+   "lead_time": null,
+   "sole_source_vendor": "Cryogenic Plastics Inc. (CPI)",
+   "reason": "CPI has separate individual bladders within each chamber that can be changed in the field by FWC employees in the event of puncture.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3010,
+  "out": 701
+ },
+ "model": "claude-sonnet-5"
+}

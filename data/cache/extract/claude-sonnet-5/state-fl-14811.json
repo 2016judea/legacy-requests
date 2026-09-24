@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Assa Abloy",
+   "model": "Megadoor",
+   "part": "Warranty maintenance and service of proprietary Megadoor Hangar Door System",
+   "part_numbers": [],
+   "quantity": "Starting 2/1/2026 to 1/31/2027, with an option to renew for 3 additional years",
+   "price_usd": 24382.0,
+   "lead_time": null,
+   "sole_source_vendor": "Assa Abloy Entrance Systems",
+   "reason": "Assa Abloy manufactures the equipment on site and performs warranty service and maintenance of equipment. Any other vendor providing maintenance service would void the warranty.",
+   "equipment_class": "other equipment",
+   "installed_location": "125th Fighter Wing, Florida Air National Guard",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2678,
+  "out": 264
+ },
+ "model": "claude-sonnet-5"
+}

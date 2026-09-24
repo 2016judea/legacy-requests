@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "OptiPMD",
+   "part": "Portable Micro Distillation analyzer instrumentation for ASTM D7345-17 fuel distillation testing",
+   "part_numbers": [],
+   "quantity": "1 Each",
+   "price_usd": 51798.32,
+   "lead_time": null,
+   "sole_source_vendor": "PAC",
+   "reason": "PAC is the only distributor in the United States with instrumentation that can run D7345-17. PAC is the sole provider for the Portable Micro Distillation analyzer.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2908,
+  "out": 414
+ },
+ "model": "claude-sonnet-5"
+}

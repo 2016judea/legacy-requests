@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica",
+   "model": null,
+   "part": "Customer Care Packages (CCP) providing maintenance and support for surveying hardware and software (software/firmware updates, upgrades, customer support)",
+   "part_numbers": [],
+   "quantity": "One (1) Year",
+   "price_usd": 835200.0,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Level & Transit Co. dba FLT Geosystems",
+   "reason": "FLT Geosystems is the only known authorized distributor for the State of Florida",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": "MS 60",
+   "part": "New Leica Total Station surveying equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Level & Transit Co. dba FLT Geosystems",
+   "reason": "FLT Geosystems is the only known authorized distributor for the State of Florida",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": "CS20 LTE Disto Controller",
+   "part": "New Leica controller for surveying equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Level & Transit Co. dba FLT Geosystems",
+   "reason": "FLT Geosystems is the only known authorized distributor for the State of Florida",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": null,
+   "part": "New server(s) for Leica surveying software/data processing",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Level & Transit Co. dba FLT Geosystems",
+   "reason": "FLT Geosystems is the only known authorized distributor for the State of Florida",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2874,
+  "out": 2060
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Dynatest",
+   "model": "MKIV HVS",
+   "part": "Carriage Bearings Repair for the MKIV Heavy Vehicle Simulator (bearing replacement, dismantling, calibration, alignment)",
+   "part_numbers": [],
+   "quantity": "4 months",
+   "price_usd": 38300.0,
+   "lead_time": null,
+   "sole_source_vendor": "Dynatest US Inc.",
+   "reason": "Dynatest is the only known vendor who can repair and reinstall the bearings on the MKIV HVS carriage.",
+   "equipment_class": "other equipment",
+   "installed_location": "State Materials Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2760,
+  "out": 225
+ },
+ "model": "claude-sonnet-5"
+}

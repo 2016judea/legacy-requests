@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "SCRIM (Sideway-force Coefficient Routine Investigation Machine)",
+   "part": "Continuous friction measurement data collection services (friction, macrotexture, grade, cross-slope, horizontal curvature) via SCRIM",
+   "part_numbers": [],
+   "quantity": "2,000 lane miles",
+   "price_usd": 299000.0,
+   "lead_time": null,
+   "sole_source_vendor": "WDM USA",
+   "reason": "This equipment and level of technology is only available in the United",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "District 7",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3106,
+  "out": 707
+ },
+ "model": "claude-sonnet-5"
+}

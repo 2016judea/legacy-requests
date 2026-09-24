@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens",
+   "model": null,
+   "part": "Field Panels and associated terminal level equipment at Conner Complex laboratories and Mayo Building",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Building Technologies, Inc.",
+   "reason": "Field Panels and associated terminal level equipment located at the Conner Complex laboratories and the Mayo Building utilize Siemens proprietary protocol and technology, which is non BACNet and protected by U.S. patents.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Conner Complex Laboratory facility and the Mayo Building",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens",
+   "model": "Insight Workstation",
+   "part": "Software for configuration, programming and editing Siemens building automation products",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Building Technologies, Inc.",
+   "reason": "Siemens Insight Workstation Software located at the Conner Complex and Mayo Building is the only factory certified product supported for configuration, programming and editing Siemens products installed at both facilities.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Conner Complex Laboratory facility and the Mayo Building",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens",
+   "model": null,
+   "part": "Heating and cooling and air conditioning HVAC installation and maintenance service",
+   "part_numbers": [],
+   "quantity": "October 1, 2024 through September 30, 2025",
+   "price_usd": 88980.0,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Building Technologies, Inc.",
+   "reason": "The Siemens systems hardware and software installed in the Conner Complex Laboratory facility and the Mayo Building is proprietary and is the only known source able to provide this service(s).",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Conner Complex Laboratory facility and the Mayo Building",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3108,
+  "out": 1046
+ },
+ "model": "claude-sonnet-5"
+}

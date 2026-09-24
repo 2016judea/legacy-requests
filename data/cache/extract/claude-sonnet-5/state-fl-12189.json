@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Technisonic Communications",
+   "model": "TDFM-9000",
+   "part": "Multi-band P25 / multi-device airborne communications radio systems for aircraft",
+   "part_numbers": [],
+   "quantity": "5",
+   "price_usd": 550000,
+   "lead_time": null,
+   "sole_source_vendor": "Dallas Avionics, Inc.",
+   "reason": "Dallas Avionics is the exclusive North American distributor for this system and therefore this is considered a single source product.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Florida State Guard aircraft",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2776,
+  "out": 206
+ },
+ "model": "claude-sonnet-5"
+}

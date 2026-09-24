@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hamilton",
+   "model": "Microlab STAR",
+   "part": "Liquid handling robotic instrument to extract DNA samples",
+   "part_numbers": [],
+   "quantity": "One (1) Unit",
+   "price_usd": 175000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hamilton Company",
+   "reason": "Hamilton Company is the only known vendor that can provide this device and process a trade in for the device currently owned by FDLE.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Florida Statewide DNA Database, Tallahassee, FL",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2885,
+  "out": 232
+ },
+ "model": "claude-sonnet-5"
+}

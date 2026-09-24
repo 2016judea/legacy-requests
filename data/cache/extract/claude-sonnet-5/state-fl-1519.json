@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Applied Information",
+   "model": "AI Glance",
+   "part": "Connected Vehicle equipment using Cloud Based communication system (RSU, OBU, operating system, Cloud Based system communications and ancillary components) for FRAME project",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Temple Inc.",
+   "reason": "Temple, Inc. is the only provider of this service for the Applied Information (AI) Glance product in a Cloud Based environment.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "FDOT District Two",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2729,
+  "out": 234
+ },
+ "model": "claude-sonnet-5"
+}

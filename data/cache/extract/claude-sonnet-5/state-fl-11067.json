@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Flir",
+   "model": "Ladybug 5+",
+   "part": "360\u00b0 Videolog Camera to be integrated into existing LCMS Pavement Condition Survey van",
+   "part_numbers": [],
+   "quantity": "one (1) with a six (6) month testing period",
+   "price_usd": 93445.0,
+   "lead_time": null,
+   "sole_source_vendor": "International Cybernetics Co.",
+   "reason": "ICC manufacturers and is the sole vendor to repair, evaluate, and provide proprietary software updates for its equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "International Cybernetics",
+   "model": "IrisPRO Pave System",
+   "part": "Data acquisition/processing system compatible with Ladybug 5+ camera; rebuild/upgrade of proprietary system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "International Cybernetics Co.",
+   "reason": "ICC is the only vendor who can rebuild/upgrade this IrisPRO Pave System which includes proprietary items such as equipment design, computer control systems, software, and hardware components.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2873,
+  "out": 447
+ },
+ "model": "claude-sonnet-5"
+}

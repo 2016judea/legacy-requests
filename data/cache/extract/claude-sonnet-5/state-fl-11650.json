@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Image API",
+   "model": "Agenda 3.0",
+   "part": "License, maintenance, and enhancements for the Board Agenda System",
+   "part_numbers": [],
+   "quantity": "Three Years",
+   "price_usd": 3000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Image API",
+   "reason": "Image API is the sole provider for the license, technical support and maintenance to its proprietary software contained within Agenda 3.0.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2677,
+  "out": 191
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Laboratory Information Management System (LIMS)",
+   "part": "LIMS software maintenance and support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Sole Source No. 5019; for the sole source certification of Laboratory Information Management System (LIMS) software maintenance and support for the Department of Environmental Quality.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Environmental Quality",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1975,
+  "out": 202
+ },
+ "model": "claude-sonnet-5"
+}

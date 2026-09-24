@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ACISS Systems, Inc.",
+   "model": "ACISS",
+   "part": "Software support and maintenance for ACISS case management system",
+   "part_numbers": [],
+   "quantity": "36 months for software support and maintenance",
+   "price_usd": 155153.73,
+   "lead_time": null,
+   "sole_source_vendor": "ACISS Systems, Inc.",
+   "reason": "ACISS Systems, Inc., is the designer, developer, and holder of the source code to the software currently in use and has represented to the Department that it is the only source for licensing, software upgrades, modifications, customization, and software maintenance services for ACISS software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Investigative and Forensic Services",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2852,
+  "out": 259
+ },
+ "model": "claude-sonnet-5"
+}

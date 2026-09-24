@@ -1,0 +1,48 @@
+{
+ "records": [
+  {
+   "manufacturer": "InnovaSea (Vemco)",
+   "model": null,
+   "part": "Submersible receivers, data telemetry transmitters, tags, proprietary or unique accessories and software, and any updated or improved versions, and repairs thereof",
+   "part_numbers": [
+    "V7",
+    "V8",
+    "V9",
+    "V9TP",
+    "V9AP",
+    "V13",
+    "V16",
+    "HR2",
+    "VR2-AR",
+    "VR2AR-X",
+    "VR100-200",
+    "VMT",
+    "VPS",
+    "VR2TX",
+    "VR2C",
+    "VR2W",
+    "NexTrak R1",
+    "VRAR"
+   ],
+   "quantity": "3 years upon issuance of purchase order",
+   "price_usd": 2000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "InnovaSea",
+   "reason": "The products that we are requesting can only be purchased and repaired from INNOVASEA due to compatibility issues with tracking instruments already in use.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3639,
+  "out": 921
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,159 @@
+{
+ "records": [
+  {
+   "manufacturer": "Daktronics",
+   "model": "MOD IV",
+   "part": "ASSY, VANGAURD FIELD CONTROLLER",
+   "part_numbers": [
+    "0A-1248-0070"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Daktronics Inc.",
+   "reason": "Daktronics is the manufacturer and sole distributor for Daktronics Dynamic Message Signs.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Daktronics",
+   "model": "L35 MOD IV",
+   "part": "VAN-SB-N+1-9X15-33-1R2G1B-30X30-C-B1",
+   "part_numbers": [
+    "0P-1332-1945"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Daktronics Inc.",
+   "reason": "Daktronics is the manufacturer and sole distributor for Daktronics Dynamic Message Signs.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Daktronics",
+   "model": "L35",
+   "part": "VAN-SB-N+1-M-16X16-20.6-1R1G1B-30-C-BL",
+   "part_numbers": [
+    "0P-1332-8330"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Daktronics Inc.",
+   "reason": "Daktronics is the manufacturer and sole distributor for Daktronics Dynamic Message Signs.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Daktronics",
+   "model": "L35",
+   "part": "MOD-CB10.22PAD0CT00-20.6MN-RGB-16X16-30X30",
+   "part_numbers": [
+    "0P-1971-4200"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Daktronics Inc.",
+   "reason": "Daktronics is the manufacturer and sole distributor for Daktronics Dynamic Message Signs.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Daktronics",
+   "model": "MOD IV",
+   "part": "MOD-CB10.22PAD0CT00-20.6MN-RGB-24X16",
+   "part_numbers": [
+    "0P-1971-4650"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Daktronics Inc.",
+   "reason": "Daktronics is the manufacturer and sole distributor for Daktronics Dynamic Message Signs.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Daktronics",
+   "model": null,
+   "part": "VAN-SB-N+1-M-16X16-20.6-1R1G1B-30X30-C-B10",
+   "part_numbers": [
+    "0P-1332-8295"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Daktronics Inc.",
+   "reason": "Daktronics is the manufacturer and sole distributor for Daktronics Dynamic Message Signs.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Daktronics",
+   "model": null,
+   "part": "MOD-CB10.22PAD0CT01-20.6MN-RGB-16X16-30X30-W/STO",
+   "part_numbers": [
+    "0P-1971-4300"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Daktronics Inc.",
+   "reason": "Daktronics is the manufacturer and sole distributor for Daktronics Dynamic Message Signs.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Daktronics",
+   "model": "PROLINK 6",
+   "part": "VANGAURD CONTROL BOARD II",
+   "part_numbers": [
+    "0P-1248-4200"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Daktronics Inc.",
+   "reason": "Daktronics is the manufacturer and sole distributor for Daktronics Dynamic Message Signs.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Daktronics",
+   "model": null,
+   "part": "VANGAURD, N+1, FET, ISO BOARD +5-24 VDC IN, CTD",
+   "part_numbers": [
+    "0P-1247-2500"
+   ],
+   "quantity": "One Year",
+   "price_usd": 50085.3,
+   "lead_time": null,
+   "sole_source_vendor": "Daktronics Inc.",
+   "reason": "Daktronics does not allow third party parts to be installed in their signs.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3085,
+  "out": 2601
+ },
+ "model": "claude-sonnet-5"
+}

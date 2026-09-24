@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "bioLytical",
+   "model": "INSTI HIV-1/HIV-2 Antibody Test, 3rd Generation",
+   "part": "FDA approved, INSTI HIV \u2013 \u00bd, IgG/IgM, 3rd generation testing devices, providing results in 60 seconds, and testing kit training",
+   "part_numbers": [],
+   "quantity": "3 Year Term",
+   "price_usd": 3000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "bioLytical",
+   "reason": "The bioLytical INSTI HIV-1/HIV-2 Antibody, 3rd Generation HIV rapid point of care test is the only FDA-approved, Clinical Laboratory Improvement Amendment (CLIA) waived rapid device providing a test result in 60 seconds.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2850,
+  "out": 307
+ },
+ "model": "claude-sonnet-5"
+}

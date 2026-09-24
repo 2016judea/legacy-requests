@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vac-Con",
+   "model": null,
+   "part": "Debris tank replacement for 2018 Vac-Con Vactor truck",
+   "part_numbers": [],
+   "quantity": "One time purchase",
+   "price_usd": 92155.0,
+   "lead_time": null,
+   "sole_source_vendor": "Vac-Con/Southern Sewer Equipment Sales",
+   "reason": "The replacement and repair must be performed by Vac-Con/Southern Sewer, as they are the sole authorized dealer for Vac- Con equipment sales, parts,",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "North Dade Maintenance",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vac-Con",
+   "model": null,
+   "part": "Repair of vacuum relief system (seized vacuum relief valves) on 2018 Vac-Con Vactor truck",
+   "part_numbers": [],
+   "quantity": "One time purchase",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vac-Con/Southern Sewer Equipment Sales",
+   "reason": "The inspection also determined the vacuum relief valves on the unit are seized and no longer allow the system to properly relieve vacuum pressure, creating both an operational and safety concern.",
+   "equipment_class": "valve",
+   "installed_location": "North Dade Maintenance",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3359,
+  "out": 823
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Johnson Controls",
+   "model": "Metasys",
+   "part": "HVAC Preventative Maintenance including Metasys Automation System and controlling equipment (chillers, air handlers, cooling towers, split (DX) systems)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 230000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Johnson Controls, Inc",
+   "reason": "Johnson Controls, Inc., is the sole provider of the Department's HVAC equipment and maintenance, and Metasys Automation System, as it's a patented product of Johnson Controls, Inc.",
+   "equipment_class": "HVAC",
+   "installed_location": "Lake City District Office, and Jacksonville Urban Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2863,
+  "out": 267
+ },
+ "model": "claude-sonnet-5"
+}

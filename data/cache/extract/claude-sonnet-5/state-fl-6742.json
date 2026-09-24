@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "International Cybernetics Company",
+   "model": "ICC Connect",
+   "part": "Software License and support services for LCMS data processing and reporting",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 237500.0,
+   "lead_time": null,
+   "sole_source_vendor": "International Cybernetics Company, LP",
+   "reason": "The vendor, International Cybernetics Company (ICC), is the developer of the software and the only know source to provide the enhancements and maintenance software support for the LCMS data collection.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2591,
+  "out": 213
+ },
+ "model": "claude-sonnet-5"
+}

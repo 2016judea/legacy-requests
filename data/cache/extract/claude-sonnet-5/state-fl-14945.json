@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ATMAX Equipment Co.",
+   "model": "MowerMax Boom Mower",
+   "part": "MowerMax Boom Mower boom arms, arm heads attachments, front attachments and services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2400000.0,
+   "lead_time": null,
+   "sole_source_vendor": "ATMAX Equipment Co.",
+   "reason": "The MowerMax Boom Mower and its boom and front attachments are solely manufactured and distributed exclusively by ATMAX Equipment Co.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2586,
+  "out": 642
+ },
+ "model": "claude-sonnet-5"
+}

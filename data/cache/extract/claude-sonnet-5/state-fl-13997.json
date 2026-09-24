@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ReadyOp Communications, Inc.",
+   "model": "ReadyOp GovCloud Dashboard / ReadyOp Alastar Module",
+   "part": "Subscription for ReadyOp GovCloud Dashboard, ReadyOp Alastar Module, and support services",
+   "part_numbers": [],
+   "quantity": "5 years (Dec 1, 2025 - Nov 30, 2030)",
+   "price_usd": 620000.0,
+   "lead_time": null,
+   "sole_source_vendor": "ReadyOp Communications, Inc.",
+   "reason": "The only other company that resold the software necessary for the project, VoiceInterop, went out of business. ReadyOp Communications, Inc. is the only company with the proper software for our business needs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2775,
+  "out": 289
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axon Enterprises, Inc.",
+   "model": "TASER 10",
+   "part": "TASER 10 Conducted Energy Weapon (CEW) for law enforcement Special Agents",
+   "part_numbers": [],
+   "quantity": "Advance Payment of Five (5) Year Service Term",
+   "price_usd": 117992.22,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc.",
+   "reason": "Axon Enterprises, Inc. has proprietary rights to all TASER brand products and is the sole manufacturer, distributor, and retailer of all TASER brand products in the State of Florida.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprises, Inc.",
+   "model": "TASER Weapons Docking System",
+   "part": "Docking system for TASER 10 CEWs providing charging, self-diagnostic and system status monitoring, included with purchase",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc.",
+   "reason": "The TASER Weapons Docking System, which is included with this purchase, connects to the AXON Evidence.Com system",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprises, Inc.",
+   "model": "AXON Evidence.com",
+   "part": "Digital evidence management system/software connected to TASER Weapons Docking System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc.",
+   "reason": "connects to the AXON Evidence.Com system, which the Florida Gaming Control Commission (FGCC) Division of Gaming Enforcement already utilizes for digital evidence management purposes",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3271,
+  "out": 1213
+ },
+ "model": "claude-sonnet-5"
+}

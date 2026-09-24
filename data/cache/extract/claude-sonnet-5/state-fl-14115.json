@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leica",
+   "model": "GR50",
+   "part": "Statewide Equipment to include Leica GR50 Highline Reference Servers with Accessories",
+   "part_numbers": [],
+   "quantity": "One (1) year",
+   "price_usd": 97688.0,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Level & Transit Co., Inc.",
+   "reason": "is the sole authorized distributor for Leica Geosystems\u2019 High-end Surveying segment consisting of GNSS, including GR50 receivers. Robotic surveying instruments, related field and office software, firmware and CCP within the state of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2512,
+  "out": 730
+ },
+ "model": "claude-sonnet-5"
+}

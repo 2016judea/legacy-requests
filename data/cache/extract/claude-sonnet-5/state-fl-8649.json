@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "RBR Global",
+   "model": null,
+   "part": "Oceanographic CTD instrumentation using interchangeable sensors to measure water parameters (temperature, salinity, dissolved oxygen, optical pigments)",
+   "part_numbers": [],
+   "quantity": "Up to 3 years - upon issuance of purchase order",
+   "price_usd": 200000,
+   "lead_time": null,
+   "sole_source_vendor": "RBR Global Instruments",
+   "reason": "RBR Global are the sole vendor for these instruments and sensors.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "RBR",
+   "model": "DMO WireWalker",
+   "part": "Wave-powered autonomous profiling platform (FWRI-HAB instrument) manufactured with integrated RBR instrumentation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "RBR Global Instruments",
+   "reason": "The DMO WireWalker (WW) platfrom (FWRI-HAB instrument) is a wave-powered autonomous profiling platform that continually samples and characterizes the water masses as it moves up and down the deployment wire. The WW is manufactered with integrated RBR instrumentation",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "RBR",
+   "model": null,
+   "part": "Satellite telemetry service for RBR oceanographic instruments",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "RBR Global Instruments",
+   "reason": "RBR are the only vendor that can provide the telemetered service for these instruments, as documented and provided.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3022,
+  "out": 996
+ },
+ "model": "claude-sonnet-5"
+}

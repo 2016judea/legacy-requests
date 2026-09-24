@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cochlear",
+   "model": "Nucleus, Kanso, Hybrid, Baha, Vistafix System Centers",
+   "part": "Hearing aid parts and repair service",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 19999.99,
+   "lead_time": null,
+   "sole_source_vendor": "Cochlear Americas",
+   "reason": "Cochlear products are sold only by Cochlear.  Cochlear is the sole source for its Cochlear Nucleus, Kanso, Hybrid, Baha, and Vistafix registered trademark systems, parts, accessories, and services for its institutional customers of which FSDB is one.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida School for the Deaf and the Blind (FSDB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2331,
+  "out": 290
+ },
+ "model": "claude-sonnet-5"
+}

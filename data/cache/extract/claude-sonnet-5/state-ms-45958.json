@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ionoptika",
+   "model": "GCIB 10S",
+   "part": "Gas cluster ion beam system (stand-alone GCIB argon source) for surface analysis and ultra-thin film removal",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 121740,
+   "lead_time": null,
+   "sole_source_vendor": "Ionoptika",
+   "reason": "Ionoptika is the sole manufacturer and direct distributor of this proprietary instrument. There are no third-party distributors or domestic brokers capable of offering a stand-alone argon cluster source that is compatible with the laboratory\u2019s custom equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Department of Chemistry & Biochemistry, University of Mississippi",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3442,
+  "out": 275
+ },
+ "model": "claude-sonnet-5"
+}

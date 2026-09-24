@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Applied BioSystems",
+   "model": null,
+   "part": "chemical reagents, supplies, software upgrades and equipment maintenance for PCR-based DNA analysis equipment",
+   "part_numbers": [],
+   "quantity": "7/1/26-6/30/27",
+   "price_usd": 8000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies Corporation",
+   "reason": "the chemical reagents, supplies, software upgrades and equipment maintenance is only available through Life Technologies Corporation.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "FDLE Regional Operations Centers crime laboratories throughout the state",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2885,
+  "out": 2949
+ },
+ "model": "claude-sonnet-5"
+}

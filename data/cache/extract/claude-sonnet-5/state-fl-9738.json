@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Honeywell International, Inc.",
+   "model": "EBI",
+   "part": "Access Control (EBI) system for Gregg Hall dormitory",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 40000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Honeywell International, Inc.",
+   "reason": "The Honeywell Access Control (EBI) and Video Management system (DVM) referenced above are proprietary products of Honeywell.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Gregg Hall dormitory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Honeywell International, Inc.",
+   "model": "DVM",
+   "part": "Digital Video Management (DVM) system for Gregg Hall dormitory",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 40000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Honeywell International, Inc.",
+   "reason": "The Honeywell Access Control (EBI) and Video Management system (DVM) referenced above are proprietary products of Honeywell.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Gregg Hall dormitory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2529,
+  "out": 418
+ },
+ "model": "claude-sonnet-5"
+}

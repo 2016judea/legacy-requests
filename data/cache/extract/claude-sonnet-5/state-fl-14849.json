@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Bell 412",
+   "part": "Mission and TFO airframe provision modifications for Bell 412 search and rescue aircraft",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "TRINITY AVIATION DYNAMICS",
+   "reason": "Trinity Aviation Dynamics (TAD) is the only vendor capable of performing this specialized mission equipment integration as they are the original designer and integrator of the current avionics suite",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2809,
+  "out": 221
+ },
+ "model": "claude-sonnet-5"
+}

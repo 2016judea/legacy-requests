@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Telonics",
+   "model": "SeaTrkr-4375-4",
+   "part": "GPS satellite tracking tags (GPS Transmitter) for American crocodile tracking",
+   "part_numbers": [
+    "SeaTrkr-4375-4"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Telonics, Inc.",
+   "reason": "It is the Agency\u2019s intended decision to award this Single Source to Telonics, Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2864,
+  "out": 206
+ },
+ "model": "claude-sonnet-5"
+}

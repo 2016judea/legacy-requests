@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sunquest Information Systems",
+   "model": "Sunquest Commercial Laboratory Information System and Sunquest Financial System",
+   "part": "Continued software maintenance and support of the Laboratory Information and Laboratory Financial Systems, including customizations, modifications, enhancements, and instrument interfacing",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": 153000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Sunquest Information Systems",
+   "reason": "Sunquest Information Systems is the sole manufacturer for technical support, software updates, modifications and maintenance for the Laboratory and Financial Information systems and has exclusive rights to all upgrades, modifications and enhancements needed to maintain continuity of these integrated systems.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida Department of Health, Palm Beach County Laboratory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2880,
+  "out": 326
+ },
+ "model": "claude-sonnet-5"
+}

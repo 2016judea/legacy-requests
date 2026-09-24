@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "SPOT 275F",
+   "part": "Inline backmount, curved satellite GPS transmitters",
+   "part_numbers": [],
+   "quantity": "One year",
+   "price_usd": 46400.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the customized shape not offered by other manufacturers reduces impacts to study animals",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2933,
+  "out": 166
+ },
+ "model": "claude-sonnet-5"
+}

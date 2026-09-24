@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "WheelRight",
+   "model": "Tyre Management System (TMS)",
+   "part": "Maintenance of the WheelRight Tyre Management Technology, Tyre Management System (TMS) equipment, software and license services",
+   "part_numbers": [],
+   "quantity": "Two (2) Years",
+   "price_usd": 150000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Snider Tire, Inc., dba Snider Fleet Solutions",
+   "reason": "Snider Tire, Inc. is the only authorized distributor of WheelRight's Tyre Management System and Services in the U.S.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Turkey Lake Service Plaza, Florida's Turnpike, Ocoee, Florida",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2959,
+  "out": 276
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Schwarze",
+   "model": "SuperVac Updraft",
+   "part": "Street sweeper unit (hydraulic system, gutter broom, hopper, engine, dust control, sweeping head, safety equipment)",
+   "part_numbers": [
+    "206A35"
+   ],
+   "quantity": "1",
+   "price_usd": 95120.0,
+   "lead_time": null,
+   "sole_source_vendor": "Boyd Equipment & Supply LLC",
+   "reason": "Notice of intended single-source purchase, Department of Management Services (DMS)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3237,
+  "out": 1018
+ },
+ "model": "claude-sonnet-5"
+}

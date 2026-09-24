@@ -1,0 +1,111 @@
+{
+ "records": [
+  {
+   "manufacturer": "Roche Diagnostics",
+   "model": "COBAS\u00ae AmpliPrep/COBAS TaqMan\u00ae HIV-1 Test v2.0",
+   "part": "HIV-1 RNA testing reagent kit",
+   "part_numbers": [
+    "05212308190"
+   ],
+   "quantity": "1 year",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Roche Diagnostics Corporation",
+   "reason": "Roche Diagnostics is the sole manufacturer and supplier of the COBAS Ampliprep-Taqman HIV-1 RNA testing reagents and supplies.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Palm Beach County Health Department Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Roche Diagnostics",
+   "model": null,
+   "part": "System Wash Reagent",
+   "part_numbers": [
+    "03587797190"
+   ],
+   "quantity": "1 year",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Roche Diagnostics Corporation",
+   "reason": "Roche Diagnostics is the sole manufacturer and supplier of the COBAS Ampliprep-Taqman HIV-1 RNA testing reagents and supplies.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Palm Beach County Health Department Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Roche Diagnostics",
+   "model": null,
+   "part": "Input Tubes with Barcode Clips",
+   "part_numbers": [
+    "03137040001"
+   ],
+   "quantity": "1 year",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Roche Diagnostics Corporation",
+   "reason": "Roche Diagnostics is the sole manufacturer and supplier of the COBAS Ampliprep-Taqman HIV-1 RNA testing reagents and supplies.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Palm Beach County Health Department Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Roche Diagnostics",
+   "model": null,
+   "part": "K-tips",
+   "part_numbers": [
+    "03287343001"
+   ],
+   "quantity": "1 year",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Roche Diagnostics Corporation",
+   "reason": "Roche Diagnostics is the sole manufacturer and supplier of the COBAS Ampliprep-Taqman HIV-1 RNA testing reagents and supplies.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Palm Beach County Health Department Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Roche Diagnostics",
+   "model": null,
+   "part": "SPUs",
+   "part_numbers": [
+    "03755525001"
+   ],
+   "quantity": "1 year",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Roche Diagnostics Corporation",
+   "reason": "Roche Diagnostics is the sole manufacturer and supplier of the COBAS Ampliprep-Taqman HIV-1 RNA testing reagents and supplies.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Palm Beach County Health Department Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Roche Diagnostics",
+   "model": null,
+   "part": "K-tubes, rack",
+   "part_numbers": [
+    "03137082001"
+   ],
+   "quantity": "1 year",
+   "price_usd": 180000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Roche Diagnostics Corporation",
+   "reason": "Roche Diagnostics is the sole manufacturer and supplier of the COBAS Ampliprep-Taqman HIV-1 RNA testing reagents and supplies.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Palm Beach County Health Department Laboratory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3047,
+  "out": 2226
+ },
+ "model": "claude-sonnet-5"
+}

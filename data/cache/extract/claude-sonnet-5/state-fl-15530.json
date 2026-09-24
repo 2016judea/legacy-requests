@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hologic, Inc.",
+   "model": "Panther",
+   "part": "Annual maintenance service agreements for Hologic Panther instruments",
+   "part_numbers": [],
+   "quantity": "2 Years",
+   "price_usd": 2897905.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic, Inc.",
+   "reason": "Hologic, Inc. is the sole manufacturer and distributor for maintenance services, reagents, and testing supplies for the Hologic Panther instruments, which are currently owned and utilized by the BPHLs.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Department of Health laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic, Inc.",
+   "model": "Aptima GC/CT",
+   "part": "Aptima GC/CT test kits (reagents and testing supplies)",
+   "part_numbers": [],
+   "quantity": "2 Years",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic, Inc.",
+   "reason": "Hologic, Inc. is the sole manufacturer and distributor for maintenance services, reagents, and testing supplies for the Hologic Panther instruments, which are currently owned and utilized by the BPHLs.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Department of Health laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic, Inc.",
+   "model": "HIV NAAT",
+   "part": "HIV NAAT test kits (reagents and testing supplies)",
+   "part_numbers": [],
+   "quantity": "2 Years",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic, Inc.",
+   "reason": "Hologic, Inc. is the sole manufacturer and distributor for maintenance services, reagents, and testing supplies for the Hologic Panther instruments, which are currently owned and utilized by the BPHLs.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Department of Health laboratories",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic, Inc.",
+   "model": "HCV NAAT",
+   "part": "HCV NAAT test kits (reagents and testing supplies)",
+   "part_numbers": [],
+   "quantity": "2 Years",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic, Inc.",
+   "reason": "Hologic, Inc. is the sole manufacturer and distributor for maintenance services, reagents, and testing supplies for the Hologic Panther instruments, which are currently owned and utilized by the BPHLs.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Department of Health laboratories",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3046,
+  "out": 1750
+ },
+ "model": "claude-sonnet-5"
+}

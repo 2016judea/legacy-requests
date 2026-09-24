@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Swipe card-based access control system for Mainline Weigh in Motion cabinets at weigh stations",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": 56394.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "Currently, Control Technologies, Inc. is the only known vendor to provide this swipe card-based access control system compatible with the unique cabinets used by MCSAW.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "MCSAW weigh stations statewide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2635,
+  "out": 229
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "STaCS DNA, Inc.",
+   "model": "STaCS-DB Enterprise",
+   "part": "Annual maintenance and support to the DNA Database Sample Tracking and Control Software Database Enterprise (STaCS-DB)",
+   "part_numbers": [],
+   "quantity": "July 1, 2023 - June 30, 2028",
+   "price_usd": 480000.0,
+   "lead_time": null,
+   "sole_source_vendor": "STaCS DNA, Inc.",
+   "reason": "STaCS DNA, Inc. is the proprietary creator and owner of the programming code for this software. No other company can provide the necessary maintenance and support.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "FDLE/Tallahassee Regional Operations Center (TROC) DNA Database",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2859,
+  "out": 284
+ },
+ "model": "claude-sonnet-5"
+}

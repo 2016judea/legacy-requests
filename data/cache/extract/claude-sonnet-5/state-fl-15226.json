@@ -1,0 +1,33 @@
+{
+ "records": [
+  {
+   "manufacturer": "YSI Incorporated",
+   "model": "EXO",
+   "part": "EXO Advanced Multi-Parameter instruments, accessories, maintenance and repair",
+   "part_numbers": [
+    "EXO1",
+    "EXO2",
+    "EXO Handheld"
+   ],
+   "quantity": "Twelve (12) months",
+   "price_usd": 216000,
+   "lead_time": null,
+   "sole_source_vendor": "YSI Incorporated",
+   "reason": "YSI Incorporated, a wholly owned subsidiary of Xylem Corporation, is the sole manufacturer and provider of the line of instruments and sensors known as the \"EXO\", (e.g.: EXO1, EXO2, EXO Handheld).",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2936,
+  "out": 271
+ },
+ "model": "claude-sonnet-5"
+}

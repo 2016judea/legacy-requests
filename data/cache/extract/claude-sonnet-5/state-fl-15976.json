@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Spex Certiprep",
+   "model": null,
+   "part": "Quality control standards, calibration standards, and proficiency test samples for cannabis lab testing",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": 68545.55,
+   "lead_time": null,
+   "sole_source_vendor": "Spex Certiprep, LLC",
+   "reason": "Spex Certiprep LLC. is the manufacturer and the sole provider of Spex Certiprep chemicals and microorganisms.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2745,
+  "out": 396
+ },
+ "model": "claude-sonnet-5"
+}

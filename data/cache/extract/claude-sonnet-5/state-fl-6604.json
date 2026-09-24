@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Nippo Sangyo",
+   "model": "Dynamic Friction Tester (USB Version)",
+   "part": "Dynamic Friction Tester (USB Version) for measuring pavement skid resistance",
+   "part_numbers": [],
+   "quantity": "One",
+   "price_usd": 42300.0,
+   "lead_time": null,
+   "sole_source_vendor": "Shima American Corporation",
+   "reason": "The Dynamic Friction Tester was developed by and is solely manufactured by Nippo Sangyo in Japan. Shima American Corporation is the exclusive distributor in North America.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nippo Sangyo",
+   "model": "DFT Rubber Sliders",
+   "part": "DFT Rubber Sliders (replacement parts for Dynamic Friction Tester)",
+   "part_numbers": [],
+   "quantity": "10 sets (30 pieces)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Shima American Corporation",
+   "reason": "The Dynamic Friction Tester was developed by and is solely manufactured by Nippo Sangyo in Japan. Shima American Corporation is the exclusive distributor in North America.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2523,
+  "out": 726
+ },
+ "model": "claude-sonnet-5"
+}

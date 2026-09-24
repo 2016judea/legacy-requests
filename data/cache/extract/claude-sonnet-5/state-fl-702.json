@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Micro Systemation (MSAB)",
+   "model": "XRY",
+   "part": "License renewal for Micro Systemation (MSAB) XRY digital forensic software",
+   "part_numbers": [],
+   "quantity": "7/1/2022 \u2013 6/30/2023",
+   "price_usd": 51000.0,
+   "lead_time": null,
+   "sole_source_vendor": "MSAB Incorporated",
+   "reason": "The software is proprietary and as such, licenses, annual upgrades and training are not available from any other source or vendor.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3120,
+  "out": 213
+ },
+ "model": "claude-sonnet-5"
+}

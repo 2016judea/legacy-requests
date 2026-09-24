@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Agilent Technologies, Inc.",
+   "model": null,
+   "part": "Analytical Laboratory Instrumentation Maintenance and Repair Services",
+   "part_numbers": [],
+   "quantity": "7/01/2026 - 6/30/2029",
+   "price_usd": 457000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "Agilent Technologies, Inc. is the sole provider of the proprietary resources necessary to ensure the continued operational readiness and accuracy of these instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Environmental Assessment and Restoration (DEAR) / Chemistry Laboratory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2924,
+  "out": 272
+ },
+ "model": "claude-sonnet-5"
+}

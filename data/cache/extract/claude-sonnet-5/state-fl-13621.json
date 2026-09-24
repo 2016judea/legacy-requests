@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "CCI-Speer and Federal Cartridge Products",
+   "model": null,
+   "part": "Training and Duty Ammunition for law enforcement duty weapons, firearms training and recertifications",
+   "part_numbers": [],
+   "quantity": "3 years from date of award",
+   "price_usd": 530000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Bullet, Inc.",
+   "reason": "Florida Bullet, Inc is the is the only factory authorized Law Enforcement Distributor in the State of Florida for CCI-Speer and Federal Cartridge Products which is owned by The Kinetic Group.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3011,
+  "out": 452
+ },
+ "model": "claude-sonnet-5"
+}

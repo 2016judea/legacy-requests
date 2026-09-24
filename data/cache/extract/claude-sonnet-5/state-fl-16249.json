@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Environmental Systems Research Institute, Inc. (ESRI)",
+   "model": null,
+   "part": "Annual renewal of technical maintenance and support for ESRI products: Online, Desktop and Server",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 161154.13,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute, Inc. (ESRI)",
+   "reason": "Software maintenance needed to maintain the division's critical desktop, server and online GIS software used for spatially enabling critical datasets, analyzing potential impacts from disasters, analyzing damage assessments post disaster, and providing a common operational picture during and after disaster operations.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Florida Division of Emergency Management",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2280,
+  "out": 290
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "VMRD, INC",
+   "model": "eELISA",
+   "part": "Babesia caballi Antibody Test kit, eELISA",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "VMRD, INC",
+   "reason": "VMRD is the sole source manufacturer and supplier of the USDA licensed Babesia caballi Antibody Test kit, eELISA and Babesia equi Antibody test kit, eELISA for piroplasmosis test.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VMRD, INC",
+   "model": "eELISA",
+   "part": "Babesia equi Antibody test kit, eELISA",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "VMRD, INC",
+   "reason": "VMRD is the sole source manufacturer and supplier of the USDA licensed Babesia caballi Antibody Test kit, eELISA and Babesia equi Antibody test kit, eELISA for piroplasmosis test.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2721,
+  "out": 656
+ },
+ "model": "claude-sonnet-5"
+}

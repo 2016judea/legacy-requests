@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Aviation Fabricators (AvFab)",
+   "model": "King Air B350ER Mission Seating",
+   "part": "Mission seating for King Air B350ER search and rescue aircraft",
+   "part_numbers": [],
+   "quantity": "8",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AVIATION FABRICATORS",
+   "reason": "Aviation Fabricators (AvFab) is the only vendor capable of maufacturing the specialized mission seating as they are the designer and nanufacturer of the seating required in the Florida State Guard's King Air B350ER aircraft.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2773,
+  "out": 247
+ },
+ "model": "claude-sonnet-5"
+}

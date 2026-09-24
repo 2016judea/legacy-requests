@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Callyo",
+   "model": "Callyo 10-21 Video and Callyo Pro",
+   "part": "Annual software maintenance renewal for Callyo Undercover Phone System for use during criminal investigations",
+   "part_numbers": [],
+   "quantity": "12 months (7/1/2022 \u2013 6/30/2023)",
+   "price_usd": 44400.0,
+   "lead_time": null,
+   "sole_source_vendor": "Callyo 2009 Corp. (DBA \"Callyo\")",
+   "reason": "Callyo\u2122 system, including 10-21 Video and Callyo Pro, are proprietary products manufactured, sold, and distributed exclusively by Callyo.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3180,
+  "out": 260
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "DOWSIL",
+   "model": null,
+   "part": "Sealants, sealers, primers - DOWSIL\u00ae silicone pavement sealants and SSI XJS Joint System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 350000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Coastal Construction Products",
+   "reason": "Coastal Construction Products is the sole authorized provider for the DOWSIL\u00ae silicone pavement sealants and SSI XJS Joint System in the State of Florida.",
+   "equipment_class": "other equipment",
+   "installed_location": "bridges",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2675,
+  "out": 219
+ },
+ "model": "claude-sonnet-5"
+}

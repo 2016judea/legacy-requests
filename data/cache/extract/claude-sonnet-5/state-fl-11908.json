@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Overwatch Imaging",
+   "model": "TK-7",
+   "part": "NADIR oriented sensor payload / multispectral sensor system for wide-area mapping and ISR",
+   "part_numbers": [
+    "TK-7"
+   ],
+   "quantity": "QTY 4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Overwatch Imaging",
+   "reason": "Overwatch Imaging is the manufacturer for this product and therefore this is considered a single source product.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida State Guard aircraft",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2810,
+  "out": 215
+ },
+ "model": "claude-sonnet-5"
+}

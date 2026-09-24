@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Meggitt",
+   "model": "Target System",
+   "part": "MITs, MATs, SITs, SATs, and all components of Meggitt Target Systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 225000.0,
+   "lead_time": null,
+   "sole_source_vendor": "InVeris Training Solutions",
+   "reason": "InVeris Training Solutions is the proprietary owner of Meggitt\u2019s Target System designs and has exclusive rights to the design and parts for our target system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Camp Blanding Joint Training Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2569,
+  "out": 218
+ },
+ "model": "claude-sonnet-5"
+}

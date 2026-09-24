@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "OMNIS Professional Titrator",
+   "part": "Purchase, installation, and service agreement, Robotic Multicomponent Titrator/ISE Analyzer (OMNIS Professional Titrator, Dosing Units, Robotic System)",
+   "part_numbers": [],
+   "quantity": "One-time equipment purchase, includes 3-year limited warranty and 2-years of service coverage after receipt and installation of the equipment.",
+   "price_usd": 137802.51,
+   "lead_time": null,
+   "sole_source_vendor": "Brinkmann Instruments Inc., dba Metrohm USA Inc.",
+   "reason": "All probes and dosing equipment must be manufactured in-house by the",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3219,
+  "out": 294
+ },
+ "model": "claude-sonnet-5"
+}

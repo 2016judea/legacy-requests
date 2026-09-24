@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Illumina",
+   "model": "MiSeq",
+   "part": "MiSeq reagent kits necessary to perform sequencing runs",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 75000,
+   "lead_time": null,
+   "sole_source_vendor": "Illumina, Inc.",
+   "reason": "Illumina, Inc. is the only manufacturer and global supplier capable of supplying the proprietary sequencing reagents, library preparation kits, indexing sets, and quality control materials required to operate the Division\u2019s Illumina MiSeq regulatory testing workflows.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Food Safety",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Illumina",
+   "model": "DNA Prep (M) Tagmentation",
+   "part": "Illumina DNA Prep (M) Tagmentation kits for preparing DNA libraries",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Illumina, Inc.",
+   "reason": "These materials are essential, non substitutable consumables designed exclusively by Illumina for use on their sequencing platforms",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Food Safety",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Illumina",
+   "model": null,
+   "part": "unique dual indexing kits for sample identification",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Illumina, Inc.",
+   "reason": "These materials are essential, non substitutable consumables designed exclusively by Illumina for use on their sequencing platforms",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Food Safety",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Illumina",
+   "model": "PhiX Control v3",
+   "part": "Illumina PhiX Control v3 used for run quality calibration",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Illumina, Inc.",
+   "reason": "These materials are essential, non substitutable consumables designed exclusively by Illumina for use on their sequencing platforms",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Food Safety",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Illumina",
+   "model": "MiSeq",
+   "part": "Illumina MiSeq sequencing instrument requiring proprietary consumables to operate",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Illumina, Inc.",
+   "reason": "required to operate the Division\u2019s Illumina MiSeq sequencing instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Food Safety",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3055,
+  "out": 2129
+ },
+ "model": "claude-sonnet-5"
+}

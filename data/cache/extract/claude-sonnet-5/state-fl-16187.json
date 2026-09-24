@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Evans CaseLoad Inc. d/b/a equivant",
+   "model": "Evans CaseLoad",
+   "part": "Case management system maintenance and support and server hosting and support, including complete end-to-end management of the software and associated server infrastructure",
+   "part_numbers": [],
+   "quantity": "36 Months (June 1, 2026 - May 31, 2029)",
+   "price_usd": 234426.6,
+   "lead_time": null,
+   "sole_source_vendor": "Evans CaseLoad Inc. d/b/a equivant",
+   "reason": "Equivant is the sole source for software maintenance and services for its products.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Reemployment Assistance Appeals Commission",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2819,
+  "out": 258
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "ACTION TARGET",
+   "model": null,
+   "part": "Maintenance, calibration, repair, services, and parts for Target Systems, Target Control Systems, Bullet Traps, Baffles",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 70000,
+   "lead_time": null,
+   "sole_source_vendor": "ACTION TARGET, INC.",
+   "reason": "ACTION TARGET, INC. is the sole, exclusive, and certified provider of maintenance, calibration, repair, and services for ACTION TARGET manufactured equipment and the sole provider of parts, targets and supplies for ACTION TARGET manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "Broward College",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ACTION TARGET",
+   "model": null,
+   "part": "Shooting Targets and Supplies",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 70000,
+   "lead_time": null,
+   "sole_source_vendor": "ACTION TARGET, INC.",
+   "reason": "The College further understands that no other gun/firing range equipment company is contracted to sell these items as they are currently configured.",
+   "equipment_class": "other equipment",
+   "installed_location": "Broward College",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3002,
+  "out": 432
+ },
+ "model": "claude-sonnet-5"
+}

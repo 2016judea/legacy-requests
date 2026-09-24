@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens",
+   "model": null,
+   "part": "Annual inspections, repairs and servicing of the fire alarm and HVAC control systems",
+   "part_numbers": [],
+   "quantity": "FY 25/26, FY 26/27, FY 27/28",
+   "price_usd": 600000,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "Siemens Industry, Inc. is the only vendor capable of repairing and maintaining the existing control systems installed at our headquarters location and other statewide facilities. Siemens Industry, Inc. is the original equipment manufacturer of these control systems and is the only authorized vendor who can maintain the proprietary Siemens brand equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Neil Kirkman Building (NKB) and other statewide facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3097,
+  "out": 414
+ },
+ "model": "claude-sonnet-5"
+}

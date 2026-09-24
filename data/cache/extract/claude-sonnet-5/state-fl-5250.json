@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Fiocchi of America",
+   "model": null,
+   "part": "Law enforcement ammunition",
+   "part_numbers": [],
+   "quantity": "1 year from the date of Award",
+   "price_usd": 101655,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Bullet, Inc.",
+   "reason": "Florida Bullet, Inc. is the only factory authorized law enforcement ammunition distributor in the State of Florida for Fiocchi of America.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3106,
+  "out": 193
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "MM-2MX-KC",
+   "part": "Marsh Master amphibious mowing unit with Kohler engine, hi/low flow pumps, rear hitch, O/H basket, jack, catwalk cab fans, camera, fire suppression system, poly tanks, front hitch addition, brush blade, rotary cutter attachment, spray rig, and trailer",
+   "part_numbers": [
+    "MM-2MX-KC"
+   ],
+   "quantity": "1",
+   "price_usd": 273194.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "District mitigation sites require a low-ground pressure amphibious mowing unit to minimize soil disturbance and site degradation which are critical factors for ground cover restoration.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "District mitigation lands",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2968,
+  "out": 297
+ },
+ "model": "claude-sonnet-5"
+}

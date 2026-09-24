@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sutron",
+   "model": "XLink 500",
+   "part": "Data logger with North American 4G LTE for remote hydrologic data logging",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "OTT HydroMet",
+   "reason": "XLink 500 units have removable modems that can accept provisioned SIM cards and allows interchangeability between units.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "OTT Hydromet",
+   "model": "SatLink 3",
+   "part": "Logger/Transmitter using the GOES Satellite Network with an assigned and unique address",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "OTT HydroMet",
+   "reason": "The SatLink 3 units also use the LinkComm software for data download and programming.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "OTT/Sutron",
+   "model": "EcoLog 1000",
+   "part": "Logger/Transmitter accepting a uniquely assigned Verizon SIM card",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "OTT HydroMet",
+   "reason": "The EcoLog 1000 is able to accept a uniquely assigned Verizon SIM card which can be transferred between any EcoLog 1000 unit.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2877,
+  "out": 690
+ },
+ "model": "claude-sonnet-5"
+}

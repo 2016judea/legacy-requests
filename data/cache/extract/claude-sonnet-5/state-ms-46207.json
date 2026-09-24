@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Metasys",
+   "part": "Metasys server modernization",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "sole source certification to provide Metasys server and network automation engine modernizations for the University of Mississippi.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "University of Mississippi",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Metasys",
+   "part": "network automation engine modernization",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "sole source certification to provide Metasys server and network automation engine modernizations for the University of Mississippi.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "University of Mississippi",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1955,
+  "out": 832
+ },
+ "model": "claude-sonnet-5"
+}

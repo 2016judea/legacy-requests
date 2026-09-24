@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "AASHTOWare",
+   "part": "Specialized software suite for transportation design, inspection, and management projects (Bridge Rating, Bridge Management Inspection, Pavement ME Design, PermitRoute, Project Civil Rights & Labor/Field Interviewer, Project Mobile Inspector, Construction & Materials, Mobile Tester, Data Analytics, and Preconstruction)",
+   "part_numbers": [],
+   "quantity": "1 year (7/1/2025 - 6/30/2026)",
+   "price_usd": 3310300.0,
+   "lead_time": null,
+   "sole_source_vendor": "AASHTO",
+   "reason": "There are no other vendors or distributors of AASHTOWare software and no other known vendors that can perform maintenance on this software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2678,
+  "out": 344
+ },
+ "model": "claude-sonnet-5"
+}

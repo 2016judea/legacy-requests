@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Qiagen",
+   "model": null,
+   "part": "Reagents, kits, supplies, and preventative maintenance for laboratory instrument systems used for DNA/RNA extractions, bioterrorism threat agents, blood collection kits, tuberculosis, microbiology testing",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 525000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Qiagen, LLC.",
+   "reason": "The Qiagen instrument systems, are existing instruments used by all the Department of Health, Bureau of Public Health Laboratories. Qiagen, LLC. is the exclusive authorized service provider for Roche laboratory instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Department of Health, Bureau of Public Health Laboratories (BPHL)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2626,
+  "out": 306
+ },
+ "model": "claude-sonnet-5"
+}

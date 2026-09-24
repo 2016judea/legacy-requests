@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Inventech Marine Solutions",
+   "model": "F.A.S.T. TPU 2051",
+   "part": "F.A.S.T. TPU 2051 Collar System 80%/20% Foam/Air Hybrid to be procured and installed on FWC Vessels",
+   "part_numbers": [
+    "US-20180334231-A1"
+   ],
+   "quantity": "3 Years from issuance of purchase order",
+   "price_usd": 400000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Inventech Marine Solutions",
+   "reason": "Inventech Marine Solutions is the sole manufacturer of a patented technology for collar design.",
+   "equipment_class": "other equipment",
+   "installed_location": "FWC Vessels (excluding Brunswick 750's and 850's)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3084,
+  "out": 270
+ },
+ "model": "claude-sonnet-5"
+}

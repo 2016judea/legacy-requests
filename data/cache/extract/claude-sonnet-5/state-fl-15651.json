@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens Industry, Inc.",
+   "model": "SIPASS",
+   "part": "Card reader access control system installation: hardware & software for card readers, video intercom, and components for new entry & exit gates",
+   "part_numbers": [],
+   "quantity": "4 interior doors, 2 security gates",
+   "price_usd": 72035.0,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "The card reader system (SIPASS) used in the Florida Department of Transportation's (FDOT) District 2 State Materials Office was created by Siemens Industry, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": "District 2, State Materials Office facility in Gainesville, Fl",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2450,
+  "out": 397
+ },
+ "model": "claude-sonnet-5"
+}

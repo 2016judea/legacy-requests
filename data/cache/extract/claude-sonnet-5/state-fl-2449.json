@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "YSI Incorporated",
+   "model": "EXO Data Sondes",
+   "part": "Purchase of EXO Data Sondes, Sensors and Components to conduct water quality assessments.",
+   "part_numbers": [],
+   "quantity": "12 months",
+   "price_usd": 51254.58,
+   "lead_time": null,
+   "sole_source_vendor": "YSI Incorporated",
+   "reason": "Xylem/YSI Incorporated is the sole manufacturer and distributor of sensors that are compatible with the YSI Datasondes that are already deployed by DEP in the Florida Keys.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Florida Keys National Marine Sanctuary and Florida Keys Aquatic Preserves",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3187,
+  "out": 267
+ },
+ "model": "claude-sonnet-5"
+}

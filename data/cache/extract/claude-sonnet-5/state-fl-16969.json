@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "IBML",
+   "model": "Fusion 8300",
+   "part": "Scanner with proprietary software along with annual software and hardware maintenance for IBML Capture Suite (CS) and associated scanning equipment",
+   "part_numbers": [],
+   "quantity": "1 Year",
+   "price_usd": 309606,
+   "lead_time": null,
+   "sole_source_vendor": "Fairfax Software",
+   "reason": "The IBML Fusion 8300 scanner is uniquely compatible with the Department\u2019s Fairfax Quick Modules system and fully supports current workflow needs.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "ImageTrac 6-Lite (IT6)",
+   "part": "Current scanner being replaced, at end of life (EOL) and will no longer be supported",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "replace a current scanner (ImageTrac 6-Lite (IT6)) which is at end of life (EOL) and will no longer be supported",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2731,
+  "out": 410
+ },
+ "model": "claude-sonnet-5"
+}

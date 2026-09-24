@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hyland",
+   "model": "AnyDoc",
+   "part": "Software keys, licenses, hardware and software maintenance, miscellaneous repairs and parts, support and upgrade of Hyland AnyDoc software",
+   "part_numbers": [],
+   "quantity": "Date of Execution thru June 30, 2023",
+   "price_usd": 44062.3,
+   "lead_time": null,
+   "sole_source_vendor": "IMAGESOFT, INC.",
+   "reason": "Imagesoft, Inc., is the authorized and certified Hyland AnyDoc reseller for the Florida Department of Agriculture and Consumer Services and is, therefore, the only reseller able to sell and support the AnyDoc products to the Department.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Division of Licensing\u2019s Tallahassee main office and regional offices throughout the state",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2729,
+  "out": 1053
+ },
+ "model": "claude-sonnet-5"
+}
