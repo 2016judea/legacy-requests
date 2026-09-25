@@ -114,13 +114,7 @@ def mfr_match(record_mfr: str, listing: dict) -> bool:
 
 
 def match(record: dict, listing: dict) -> bool:
-    if not record.get("manufacturer") or not record.get("model"):
-        return False
-    if PARTS_CONTRACT.search(record.get("part") or ""):
-        return False
-    want = part_tokens(record["model"])
-    for pn in record.get("part_numbers") or []:  # verbatim catalog numbers, when the extract found them
-        want |= part_tokens(pn)
+    want = record_tokens(record)  # model + verbatim catalog numbers, when the extract found them
     if not want:
         return False
     have = part_tokens(" ".join(str(listing.get(k) or "") for k in ("part_number", "model", "title")))
@@ -155,10 +149,30 @@ def load_records() -> list[dict]:
     return [json.loads(l) for l in (ROOT / "data" / "records.jsonl").read_text().splitlines() if l.strip()]
 
 
+def record_tokens(record: dict) -> set[str]:
+    """The part tokens a record can be matched on; empty when the rule rules it out."""
+    if not record.get("manufacturer") or not record.get("model"):
+        return set()
+    if PARTS_CONTRACT.search(record.get("part") or ""):
+        return set()
+    want = part_tokens(record["model"])
+    for pn in record.get("part_numbers") or []:
+        want |= part_tokens(pn)
+    return want
+
+
 def join(records: list[dict], listings: list[dict]) -> dict[str, list[dict]]:
+    """Same rule as match(), indexed: each listing's part tokens are computed once into a dict, so a record
+    only meets the listings that share a token. The nested loop re-tokenised every listing for every record
+    (records x listings calls); 2026-09-25 it took 46.5s on 7,055 x 1,645 and grew with both."""
+    by_token: dict[str, list[int]] = {}
+    for i, l in enumerate(listings):
+        for t in part_tokens(" ".join(str(l.get(k) or "") for k in ("part_number", "model", "title"))):
+            by_token.setdefault(t, []).append(i)
     out: dict[str, list[dict]] = {}
     for r in records:
-        hits = [l for l in listings if match(r, l)]
+        cand = sorted({i for t in record_tokens(r) for i in by_token.get(t, ())})
+        hits = [listings[i] for i in cand if mfr_match(r["manufacturer"], listings[i])]
         if hits:
             seen, uniq = set(), []
             for l in hits:

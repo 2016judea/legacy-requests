@@ -64,8 +64,13 @@ static page anyone can search.
   unauthenticated APIs, keep the items whose own text uses sole-source language or buys
   named hardware, and cache those items' PDFs under `data/cache/<platform>/`. Tenants
   are listed at the top of each script; add a row to add an agency.
-- `scripts/build_site.py` writes the page. Search runs in the browser over the
-  embedded JSON; no framework, no build step.
+- `scripts/build_site.py` writes the page. The first page of the default view is
+  inline (~100KB); `site/data.json` (every record, page fields only) loads right
+  after first paint and search runs over it in the browser; `site/records.json` is
+  the full download. No framework, no build step.
+- `extract.py` keeps a row only if its `reason` states a sole-source, proprietary,
+  standardization or obsolescence justification (`JUSTIFY_RE`); full board packets
+  (Metrolink, Caltrain) otherwise leak capital-budget list items into the index.
 
 ## Record fields
 

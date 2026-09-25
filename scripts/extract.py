@@ -200,20 +200,59 @@ def qualifies(matter: dict) -> bool:
     return any(KEYWORD_RE.search(attachment_text(a)) for a in matter.get("attachments", []))
 
 
+# A row's `reason` must say WHY only one supplier could sell it: sole/single source, proprietary, standardized or
+# compatible with what is installed, or obsolete. Two feeds need this: OCSD's monthly 'approved purchases AND
+# additions to the sole source list' mixes Informal Bid / Sourcewell rows into one table, and Metrolink's and
+# Caltrain's full board packets (Granicus) carry capital-budget lists whose "reason" is a project status
+# ("WMS Upgrade ... by Dec 2024"). First applied 2026-09-25. The vocabulary is broad on
+# purpose — the model often paraphrases a real justification ("sold only through the manufacturer", "the City uses
+# Calix equipment"), and dropping a real row costs more than keeping a packet row. Widen it, don't narrow it.
+JUSTIFY_RE = re.compile(
+    # sole / single / only one
+    r"\bsole\b|\bsole[- ]?sourc|single[- ]?(source|vendor|supplier|provider|manufacturer|brand|distributor)"
+    r"|\bonly\b|\bexclusiv|\bno other\b|not available (from|through) any|unavailable from|not (be )?obtainable"
+    r"|cannot be (obtained|purchased|procured|serviced)|anywhere else|\belsewhere\b|continuity"
+    r"|\banother (vendor|supplier|source|manufacturer|company|provider)"
+    r"|other (providers|vendors|suppliers|manufacturers|companies)\b.{0,40}\b(cannot|can not|do not|don't|are unable)"
+    r"|\bother (manufacturers|vendors|suppliers|companies|providers|brands|distributors)\b|replac\w* the (manufacturer|vendor|system)"
+    r"|\bspecifies\b|specified by|required by|\b(rule|regulation|statute|code|ordinance|F\.A\.C\.)\b.{0,40}\b(requires|specif)"
+    r"|\bto match\b|\bmatch\w* (the |our )?(other|current)\b|\bcomparable\b|equivalent|maintains licens|(ongoing|future) (maintenance|repairs?|capital)|re-?cabl|re-?engineer|redesign"
+    r"|\blimited (vendors|sources?|suppliers?)|\bone (vendor|supplier|source|manufacturer|company|provider|distributor)\b"
+    r"|non-?competitive|without competition|\bunique"
+    # proprietary / OEM / manufacturer-direct / standardized on what is installed
+    r"|proprietary|trade secret|\bpatent|copyright|trademark|\bOEMs?\b|original equipment|authori[sz]"
+    r"|factory[- ](certified|trained)|certified (by|as)|\bowns\b|\bowner\b"
+    r"|direct (manufacturer|distributor|source)|manufactured (and sold )?by|sold (only )?(directly )?(by|through)"
+    r"|\bbrand\b|\bstandardi[sz]|\bstandard (equipment|for)|compatib|interoperab"
+    r"|\bexisting\b.{0,80}\b(integrat|compatib|match|interface|connect)|\b(integrat|interface|connect|match)\w*.{0,60}\bexisting\b"
+    r"|\bexisting\b.{0,40}\b(system|equipment|infrastructure|platform|software|units?|fleet|network|hardware)s?\b"
+    r"|\b(uses|utilizes|standardized on)\b .{0,40}\b(equipment|systems?|products|platform)\b"
+    r"|continu\w* (the )?(use|using)|installed base|currently (installed|in use|use|uses|using|utiliz)"
+    r"|already (installed|in use|owns|uses)|significant investment"
+    r"|warrant(y|ies)|intellectual property|source code|licensed|spare parts|replacement parts"
+    # obsolescence
+    r"|obsole|no longer|discontinu|end[- ]of[- ](life|support|sale|service|release)|\bEOL\b|unsupported|not supported"
+    r"|\blegacy\b|outdated|out of production|phased? out|(release|vendor|manufacturer) support"
+    r"|support (for|of) .{0,60}\bend|\b(end|ended|ending|cease\w*) (of )?support|(useful|design|service) life"
+    r"|end of (its |their )?(operational |useful |service )?life|operational life|\baging\b|\baged\b", re.I)
+
+
 COMPETITIVE_RE = re.compile(
     r"\b(informal bid|formal bid|specification no|request for (proposals?|bids?|quotes?)|rfp|rfq|ifb|sourcewell|naspo|buyboard"
     r"|omnia|cooperative (contract|purchas\w*)|piggyback|lowest responsi\w*|competitive(ly)? (bid|procure)\w*)\b", re.I)
 SOLE_RE = re.compile(
-    r"sole[- ]source|single[- ]source|proprietary|\bOEM\b|original equipment|obsolete|no longer|discontinued"
+    r"sole[- ]source|\bsole\b|single[- ]source|proprietary|\bOEM\b|original equipment|obsolete|no longer|discontinued"
     r"|only (authorized|approved|known|available|qualified)|limited vendors|no other (vendor|supplier|source)|exclusive", re.I)
 
 
 def is_sole_source(r: dict) -> bool:
-    """OCSD's monthly 'approved purchases AND additions to the sole source list' mixes competitively bid
-    items (Informal Bid, Specification No., Sourcewell/NASPO cooperative contracts) into the same table.
-    A row whose stated reason is a bid or a cooperative contract, with no sole-source language, is not ours."""
+    """True when the row's own reason states a sole-source, proprietary or obsolescence justification — and is
+    not a bid or cooperative contract ("authorized Generac dealer ... per the Sourcewell agreement") unless it
+    also says sole/single source outright."""
     reason = r.get("reason") or ""
-    return not (COMPETITIVE_RE.search(reason) and not SOLE_RE.search(reason))
+    if COMPETITIVE_RE.search(reason) and not SOLE_RE.search(reason):
+        return False
+    return bool(JUSTIFY_RE.search(reason))
 
 
 def dedupe(records: list[dict]) -> list[dict]:
@@ -299,7 +338,7 @@ def main():
         n_dup = before - len(all_records)
         all_records = [r for r in all_records if is_sole_source(r)]
         write_store(all_records)
-        print(f"TOTAL {len(all_records)} records ({n_dup} duplicates, {before - n_dup - len(all_records)} competitively bid rows dropped); "
+        print(f"TOTAL {len(all_records)} records ({n_dup} duplicates, {before - n_dup - len(all_records)} rows with no sole-source reason dropped); "
               f"tokens in={tok_in:,} out={tok_out:,}")
         # $3 / $15 per million tokens (claude-sonnet-5 list price)
         print(f"THIS RUN: {n_new} new model calls, in={new_in:,} out={new_out:,}, "

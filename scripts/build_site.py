@@ -1,8 +1,14 @@
 #!/usr/bin/env python3
-"""Generate site/index.html (and site/records.json) from data/records.jsonl.
+"""Generate site/index.html, site/data.json and site/records.json from data/records.jsonl.
 
-The page is static: every record is embedded as JSON and searched in the
-browser. This file is the only source of the HTML — never hand-edit the output.
+The page is static and searched in the browser. First paint carries only the
+default view (the first page of physical rows, most expensive first) inline;
+site/data.json holds every record in the fields the page draws, fetched right
+after first paint, and every search runs over it. records.json is the full
+download. This file is the only source of all three — never hand-edit the output.
+
+Why split: at 7,055 records the page embedded everything and weighed 8.8MB,
+for a phone. 2026-09-25.
 """
 import json
 import re
@@ -112,6 +118,24 @@ HARDWARE = ["pump", "valve", "motor/drive", "electrical/switchgear/transformer",
 SOFT = ["SCADA/controls/software", "service/maintenance contract"]
 
 
+PAGE = 100
+# What the page draws; data.json carries only these (no id, title or legistar_url).
+PAGE_FIELDS = ["manufacturer", "model", "part_numbers", "part", "quantity", "price_usd", "lead_time", "sole_source_vendor",
+               "reason", "equipment_class", "installed_location", "is_obsolete", "agency", "state", "date", "source_url",
+               "supply", "is_physical"]
+
+
+def slim(recs: list[dict]) -> list[dict]:
+    return [{k: r[k] for k in PAGE_FIELDS} for r in recs]
+
+
+def default_view(recs: list[dict]) -> list[dict]:
+    """The rows the page shows before anyone touches it: physical, price descending, nulls last.
+    sorted() is stable, like the browser's Array.sort, so ties keep file order in both."""
+    phys = [r for r in recs if r["is_physical"]]
+    return sorted(phys, key=lambda r: (r["price_usd"] is None, -(r["price_usd"] or 0)))
+
+
 def render(recs: list[dict]) -> str:
     agencies = sorted({r["agency"] for r in recs})
     n_hw = sum(1 for r in recs if r["is_physical"])
@@ -121,7 +145,9 @@ def render(recs: list[dict]) -> str:
     n_mfr = len({(r["manufacturer"] or "").lower() for r in recs if r["manufacturer"]})
     n_price = sum(1 for r in recs if r["price_usd"])
     dates = sorted(r["date"] for r in recs if r["date"])
-    data = json.dumps(recs, separators=(",", ":")).replace("</", "<\\/")
+    first = default_view(recs)
+    data = json.dumps(slim(first[:PAGE]), separators=(",", ":")).replace("</", "<\\/")
+    meta = json.dumps({"total": len(recs), "n_default": len(first), "sum_default": sum(r["price_usd"] or 0 for r in first)})
     n_sup = sum(1 for r in recs if r["supply"] and r["is_physical"])
     n_list = len({l["url"] for r in recs for l in r["supply"]})
     sources = sorted({l["source"] for r in recs for l in r["supply"]})
@@ -224,18 +250,29 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
 <footer>Built from the Legistar public API (sole-source, single-source, proprietary and obsolete-equipment matters introduced since 2024-01-01) and the state sole-source notice boards of Florida (Vendor Bid System, since 2022) and Mississippi, extracted with Claude, never typed by hand. "Who has one" listings come from public surplus auctions and surplus dealers, searched for each record's manufacturer and part number, and count only when both agree; a listing can end or sell after the date it was seen. A field is blank when the agency's document did not state it. Regenerated {date.today().isoformat()}.</footer>
 <script id="data" type="application/json">{data}</script>
 <script>
-const R=JSON.parse(document.getElementById('data').textContent);
+let R=JSON.parse(document.getElementById('data').textContent),full=false;
+const META={meta};
 const $=s=>document.querySelector(s);
 const q=$('#q'),mfr=$('#mfr'),ag=$('#agency'),obs=$('#obs'),sup=$('#sup'),soft=$('#soft'),rows=$('#rows'),count=$('#count'),more=$('#more');
 const SRC={json.dumps(SOURCE_NAMES)};
 const SOFT=new Set({json.dumps(SOFT)});
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}}[c]));
 const money=v=>v==null?'':'$'+Math.round(v).toLocaleString();
-let cls=new Set(),sortK='price_usd',sortD=-1,page=1;const PAGE=100;
-// manufacturers, most frequent first
-const mc={{}};R.forEach(r=>{{if(r.manufacturer)mc[r.manufacturer]=(mc[r.manufacturer]||0)+1}});
-Object.entries(mc).sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0])).forEach(([m,n])=>{{const o=document.createElement('option');o.value=m;o.textContent=`${{m}} (${{n}})`;mfr.append(o)}});
-R.forEach(r=>r._h=[r.manufacturer,r.model,(r.part_numbers||[]).join(' '),r.part,r.sole_source_vendor,r.agency,r.state,r.reason,r.installed_location,r.equipment_class].join(' ').toLowerCase());
+let cls=new Set(),sortK='price_usd',sortD=-1,page=1;const PAGE={PAGE};
+const hay=r=>r._h=[r.manufacturer,r.model,(r.part_numbers||[]).join(' '),r.part,r.sole_source_vendor,r.agency,r.state,r.reason,r.installed_location,r.equipment_class].join(' ').toLowerCase();
+R.forEach(hay);
+// the inline rows are only the default view; every record arrives in data.json right after first paint
+const isDefault=()=>!q.value.trim()&&!mfr.value&&!ag.value&&!obs.checked&&!sup.checked&&!soft.checked&&!cls.size&&sortK==='price_usd'&&sortD===-1;
+function loadAll(){{
+  fetch('data.json').then(r=>{{if(!r.ok)throw r.status;return r.json()}}).then(d=>{{
+    R=d;R.forEach(hay);full=true;
+    // manufacturers, most frequent first
+    const mc={{}};R.forEach(r=>{{if(r.manufacturer)mc[r.manufacturer]=(mc[r.manufacturer]||0)+1}});
+    const want=new URL(location).searchParams.get('mfr')||mfr.value;
+    Object.entries(mc).sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0])).forEach(([m,n])=>{{const o=document.createElement('option');o.value=m;o.textContent=`${{m}} (${{n}})`;mfr.append(o)}});
+    mfr.value=want;draw(false);
+  }}).catch(()=>{{count.textContent='Could not load the full index. Reload to try again.'}});
+}}
 function filtered(){{
   const terms=q.value.toLowerCase().split(/\\s+/).filter(Boolean);
   return R.filter(r=>(!mfr.value||r.manufacturer===mfr.value)&&(!ag.value||r.agency===ag.value)&&(!obs.checked||r.is_obsolete)&&(!sup.checked||r.supply.length)&&(cls.size?cls.has(r.equipment_class):(soft.checked||r.is_physical))&&terms.every(t=>r._h.includes(t)))
@@ -250,10 +287,15 @@ function row(r){{
 function draw(reset){{
   if(reset)page=1;
   const f=filtered(),show=f.slice(0,page*PAGE);
-  rows.innerHTML=show.map(row).join('')||`<tr><td colspan="8" class="empty">Nothing matches. Try fewer words.</td></tr>`;
-  const sum=f.reduce((s,r)=>s+(r.price_usd||0),0);
-  count.textContent=`${{f.length.toLocaleString()}} of ${{R.length.toLocaleString()}} records${{sum?` · ${{money(sum)}} stated`:''}}`;
-  more.hidden=show.length>=f.length;
+  rows.innerHTML=show.map(row).join('')||(full?`<tr><td colspan="8" class="empty">Nothing matches. Try fewer words.</td></tr>`:'');
+  if(full){{
+    const sum=f.reduce((s,r)=>s+(r.price_usd||0),0);
+    count.textContent=`${{f.length.toLocaleString()}} of ${{R.length.toLocaleString()}} records${{sum?` · ${{money(sum)}} stated`:''}}`;
+    more.hidden=show.length>=f.length;
+  }}else{{
+    count.textContent=isDefault()?`${{META.n_default.toLocaleString()}} of ${{META.total.toLocaleString()}} records · ${{money(META.sum_default)}} stated`:`Searching all ${{META.total.toLocaleString()}} records…`;
+    more.hidden=true;
+  }}
   const u=new URL(location);['q','mfr','agency'].forEach((k,i)=>{{const v=[q,mfr,ag][i].value;v?u.searchParams.set(k,v):u.searchParams.delete(k)}});
   obs.checked?u.searchParams.set('obs','1'):u.searchParams.delete('obs');sup.checked?u.searchParams.set('sale','1'):u.searchParams.delete('sale');cls.size?u.searchParams.set('class',[...cls].join('|')):u.searchParams.delete('class');
   history.replaceState(null,'',u);
@@ -266,6 +308,7 @@ more.addEventListener('click',()=>{{page++;draw(false)}});
 const p=new URL(location).searchParams;q.value=p.get('q')||'';mfr.value=p.get('mfr')||'';ag.value=p.get('agency')||'';obs.checked=p.get('obs')==='1';sup.checked=p.get('sale')==='1';
 (p.get('class')||'').split('|').filter(Boolean).forEach(c=>{{cls.add(c);const b=document.querySelector(`.chip[data-c="${{c}}"]`);if(b)b.setAttribute('aria-pressed','true')}});
 draw(true);
+loadAll();
 </script>
 </body>
 </html>
@@ -276,12 +319,13 @@ def main():
     recs = load()
     SITE.mkdir(exist_ok=True)
     (SITE / "index.html").write_text(render(recs))
-    (SITE / "records.json").write_text(json.dumps(recs, indent=0))
+    (SITE / "data.json").write_text(json.dumps(slim(recs), separators=(",", ":")))
+    (SITE / "records.json").write_text(json.dumps(recs, separators=(",", ":")))
     core = {"pump", "valve", "motor/drive", "electrical/switchgear/transformer", "generator"}
     print(f"site/index.html: {len(recs)} records, {len({r['agency'] for r in recs})} agencies, "
           f"{sum(r['is_physical'] for r in recs)} physical, "
           f"{sum(r['equipment_class'] in core for r in recs)} pump/valve/motor/electrical/generator, "
-          f"{(SITE / 'index.html').stat().st_size // 1024} KB")
+          f"index.html {(SITE / 'index.html').stat().st_size // 1024} KB, data.json {(SITE / 'data.json').stat().st_size // 1024} KB")
 
 
 if __name__ == "__main__":
