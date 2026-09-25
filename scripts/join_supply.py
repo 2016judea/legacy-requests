@@ -29,6 +29,9 @@ credibility. A listing matches a record only when BOTH hold:
   1. Manufacturer: a distinctive word of the record's manufacturer (or a known
      alias: Allen-Bradley <-> Rockwell) appears in the listing's manufacturer or
      title.
+  0. Neither side is a vehicle: a record classed vehicle/fleet and a listing
+     that is itself a vehicle (pickup, crew cab, 4WD...) never join. A make and
+     model ("F-350") is not a part number.
   2. Part number: a part-number-shaped token from the record's model field (or its part_numbers list)
      equals a token in the listing's part_number, model or title, after
      dropping separators ("1756-IB16" == "1756 IB16" == "1756IB16"). A token is
@@ -66,6 +69,15 @@ MODEL_SPLIT = re.compile(r"[\s,;/()\[\]#&+|]+")
 # fit, not the thing bought, so a surplus F-350 truck is not "one". First live
 # run (2026-09-24) matched 89 whole GovDeals trucks to exactly that record.
 PARTS_CONTRACT = re.compile(r"\bparts\b", re.I)
+# A vehicle's make/model is not a part number. Solano County's surplus "Ford
+# F-350" pickup (equipment_class vehicle/fleet, part "pickup truck") still
+# matched the same 89 trucks, because "F350" is part-number-shaped. So no
+# vehicle record joins, and no listing that is itself a vehicle (model year +
+# body words) joins anything. Fixed 2026-09-25.
+VEHICLE_CLASS = re.compile(r"vehicle|fleet", re.I)
+VEHICLE_LISTING = re.compile(
+    r"\b(?:pick-?up|truck|crew cab|reg(?:ular)? cab|ext(?:ended)? cab|super ?cab|super ?duty|sedan|suv|minivan|"
+    r"van|coupe|wagon|4x4|4x2|4wd|2wd|awd|chassis cab|cab ?& ?chassis|motorcycle|trailer|bus|ambulance)\b", re.I)
 
 
 def norm(s: str) -> str:
@@ -113,11 +125,21 @@ def mfr_match(record_mfr: str, listing: dict) -> bool:
     return bool(want & have)
 
 
+def is_vehicle_listing(listing: dict) -> bool:
+    return bool(VEHICLE_LISTING.search(" ".join(str(listing.get(k) or "") for k in ("title", "model"))))
+
+
+def listing_tokens(listing: dict) -> set[str]:
+    if is_vehicle_listing(listing):
+        return set()
+    return part_tokens(" ".join(str(listing.get(k) or "") for k in ("part_number", "model", "title")))
+
+
 def match(record: dict, listing: dict) -> bool:
     want = record_tokens(record)  # model + verbatim catalog numbers, when the extract found them
     if not want:
         return False
-    have = part_tokens(" ".join(str(listing.get(k) or "") for k in ("part_number", "model", "title")))
+    have = listing_tokens(listing)
     return bool(want & have) and mfr_match(record["manufacturer"], listing)
 
 
@@ -155,6 +177,8 @@ def record_tokens(record: dict) -> set[str]:
         return set()
     if PARTS_CONTRACT.search(record.get("part") or ""):
         return set()
+    if VEHICLE_CLASS.search(record.get("equipment_class") or ""):
+        return set()
     want = part_tokens(record["model"])
     for pn in record.get("part_numbers") or []:
         want |= part_tokens(pn)
@@ -167,7 +191,7 @@ def join(records: list[dict], listings: list[dict]) -> dict[str, list[dict]]:
     (records x listings calls); 2026-09-25 it took 46.5s on 7,055 x 1,645 and grew with both."""
     by_token: dict[str, list[int]] = {}
     for i, l in enumerate(listings):
-        for t in part_tokens(" ".join(str(l.get(k) or "") for k in ("part_number", "model", "title"))):
+        for t in listing_tokens(l):
             by_token.setdefault(t, []).append(i)
     out: dict[str, list[dict]] = {}
     for r in records:

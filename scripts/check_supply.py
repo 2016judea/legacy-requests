@@ -34,6 +34,11 @@ CASES = [
     ({"id": "f", "manufacturer": "Ford Motor Company", "model": "Ford F-350/450/550",
       "part": "Light Truck OEM Parts for Ford light trucks"},
      L("2014 Ford F-350 SD XL Crew Cab 4WD", model="F-350 SD"), False, "a parts contract is not the machine"),
+    # 2026-09-25: the live Solano County record (a surplus pickup, no "parts" in it) matched 89 GovDeals trucks
+    ({"id": "v", "manufacturer": "Ford", "model": "F-350", "part": "pickup truck", "equipment_class": "vehicle/fleet"},
+     L("2014 Ford F-350 SD XL Crew Cab 4WD", model="F-350 SD"), False, "a vehicle record is not a part"),
+    ({"id": "v2", "manufacturer": "Ford", "model": "F-350", "part": "dump body", "equipment_class": "other"},
+     L("2003 Ford F-350 Super Duty Crew Cab Pickup 4x4 Chassis Truck"), False, "a vehicle listing is not a part"),
     ({"id": "p", "manufacturer": "Allen Bradley", "model": "Powerflex 755"},
      L("Allen-Bradley PowerFlex 755 20G11 drive"), True, "family name + number joined"),
     ({"id": "p", "manufacturer": "Allen Bradley", "model": "Powerflex 755"},
@@ -70,6 +75,10 @@ def main():
             if not match(by_id[rid], l):
                 bad += 1
                 print(f"FAIL {rid} does not re-match {l['url']}")
+    solano = [rid for rid in matches if by_id[rid].get("agency") == "County of Solano" and "F-350" in (by_id[rid].get("model") or "")]
+    if solano:
+        bad += 1
+        print(f"FAIL Solano County F-350 still joins surplus trucks: {solano}")
     print(f"live: {len(listings)} listings, {len(matches)} of {len(records)} records matched")
     for rid, ls in sorted(matches.items()):
         r = by_id[rid]
