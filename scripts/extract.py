@@ -261,7 +261,10 @@ def main():
         d = json.loads((ROOT / "data" / "matters" / f"{slug}.json").read_text())
         meta = {"agency": slug, "state": "", "platform": "legistar", **CLIENTS.get(slug, {}),
                 **{k: d[k] for k in ("agency", "state", "platform") if d.get(k)}}
-        matters = [m for m in d["matters"] if qualifies(m)]
+        # A cached response means the matter qualified when it was sent. Re-testing it would read PDFs that are
+        # gitignored and absent in a fresh worktree, and silently drop another agent's records from the rebuild.
+        cached = lambda m: (CACHE / "extract" / a.model / f"{slug}-{m['matter_id']}.json").exists()
+        matters = [m for m in d["matters"] if cached(m) or qualifies(m)]
         if a.limit:
             matters = matters[: a.limit]
         n_rec = 0
