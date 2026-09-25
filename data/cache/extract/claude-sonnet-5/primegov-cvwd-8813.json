@@ -1,0 +1,101 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "SCADA Integration Services covering Sodium Hypochlorite Conversion, RTOP Enhancements, and TOU Enhancements",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 175000,
+   "lead_time": null,
+   "sole_source_vendor": "Northern Digital, Inc.",
+   "reason": "NDI previously developed the Coachella Valley Water District\u2019s (CVWD) SCADA Instrumentation Master Plan, which established CVWD\u2019s long-term SCADA strategy, standards, and implementation framework.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Sodium Hypochlorite Dosing System Support for 10 Wells - AVEVA SCADA integration, engineering review, remote programming support, startup assistance, and PID tuning",
+   "part_numbers": [],
+   "quantity": "10 wells",
+   "price_usd": 118320,
+   "lead_time": null,
+   "sole_source_vendor": "Northern Digital, Inc.",
+   "reason": "Selecting NDI as a sole source provider ensures consistency with the existing SCADA architecture, programming standards, and operational objectives while minimizing implementation risk and reducing overall project costs.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "W4628, W5659, W5624, W5672, W5656, W5657, W5679, W5632, W5682, and W5669",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Prominent",
+   "model": "CL2 analyzer",
+   "part": "Chlorine (CL2) analyzer used in the standardized sodium hypochlorite dosing system at each well site",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The ten sites will utilize the standardized I/O, AVEVA objects, PLC programming, HMI configuration, Prominent CL2 analyzer, and Grundfos DDA 7.5-16 dosing pump identified by CVWD.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Ten Domestic Well Sites",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Grundfos",
+   "model": "DDA 7.5-16",
+   "part": "Sodium hypochlorite dosing pump used in the standardized dosing system at each well site",
+   "part_numbers": [
+    "DDA 7.5-16"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The ten sites will utilize the standardized I/O, AVEVA objects, PLC programming, HMI configuration, Prominent CL2 analyzer, and Grundfos DDA 7.5-16 dosing pump identified by CVWD.",
+   "equipment_class": "pump",
+   "installed_location": "Ten Domestic Well Sites",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "RTOP (Reservoir Top-off Program)",
+   "part": "Modifications to RTOP pump sorting/selection logic and HOA permissive logic for domestic well and booster pumps",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 15028,
+   "lead_time": "1 month from the date of Notice to Proceed",
+   "sole_source_vendor": "Northern Digital, Inc.",
+   "reason": "NDI previously developed the Coachella Valley Water District\u2019s (CVWD) SCADA Instrumentation Master Plan, which established CVWD\u2019s long-term SCADA strategy, standards, and implementation framework.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "AVEVA",
+   "model": "Time-of-Use (TOU)",
+   "part": "Enhancements to existing AVEVA Time-of-Use functionality to support IID's updated seasonal TOU requirements",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northern Digital, Inc.",
+   "reason": "This project enhances the existing AVEVA Time-of-Use (TOU) functionality to support IID's updated seasonal TOU requirements.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9680,
+  "out": 5542
+ },
+ "model": "claude-sonnet-5"
+}

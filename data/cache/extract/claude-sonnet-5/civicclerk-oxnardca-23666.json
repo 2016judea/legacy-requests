@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Two-way radios and associated equipment for emergency response vehicles (purchase, installation, repair, maintenance)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Petroleum Telcom, Inc. dba Telcom, Inc.",
+   "reason": "Telcom is the only Kenwood and Motorola authorized dealer for support and service in the area",
+   "equipment_class": "communications/radio",
+   "installed_location": "Public Works and emergency response vehicles (Fire and Police Departments)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "JVC Kenwood",
+   "model": null,
+   "part": "Two-way radios and associated equipment for emergency response vehicles (purchase, installation, repair, maintenance)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Petroleum Telcom, Inc. dba Telcom, Inc.",
+   "reason": "Telcom is the only Kenwood and Motorola authorized dealer for support and service in the area",
+   "equipment_class": "communications/radio",
+   "installed_location": "Public Works and emergency response vehicles (Fire and Police Departments)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Antennas and associated equipment installed on Public Works and emergency response vehicles",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Petroleum Telcom, Inc. dba Telcom, Inc.",
+   "reason": "These services include equipment such as two-way radios, antennas and associated equipment that is installed on Public Works and emergency response vehicles",
+   "equipment_class": "communications/radio",
+   "installed_location": "Public Works and emergency response vehicles",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Mobile Radio Equipment, Parts and Accessories; and Installation, Repair and Maintenance Services (on-call/as-needed agreement)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 900000,
+   "lead_time": null,
+   "sole_source_vendor": "Petroleum Telcom, Inc. dba Telcom, Inc.",
+   "reason": "it is necessary to obtain these services and OEM parts from Telcom, Inc.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City of Oxnard fleet vehicles",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11446,
+  "out": 1210
+ },
+ "model": "claude-sonnet-5"
+}

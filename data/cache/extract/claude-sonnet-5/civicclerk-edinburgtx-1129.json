@@ -1,0 +1,117 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kamstrup",
+   "model": "FlowIQ 2250",
+   "part": "5/8X3/4 FLOWIQ 2250 AMI METER",
+   "part_numbers": [
+    "2907IQ2250",
+    "02-A-01-D-1-8B-8-US"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 286.0,
+   "lead_time": null,
+   "sole_source_vendor": "Aguaworks Pipe & Supply, LLC",
+   "reason": "The above-named company or firm is the sole source of the following items and there are no other items available in the marketplace that have the same fit, form, and function of the items listed below: Kamstrup Metering Systems",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Edinburg",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "FlowIQ 2250",
+   "part": "1\" FLOWIQ 2250 AMI WATER METER",
+   "part_numbers": [
+    "2910IQ2250",
+    "02-C-01-D-0-8D-8-US"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 414.72,
+   "lead_time": null,
+   "sole_source_vendor": "Aguaworks Pipe & Supply, LLC",
+   "reason": "The above-named company or firm is the sole source of the following items and there are no other items available in the marketplace that have the same fit, form, and function of the items listed below: Kamstrup Metering Systems",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Edinburg",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "IQ 3200",
+   "part": "1-1/2\" #3200 AMR/AMI FLG METER",
+   "part_numbers": [
+    "2915IQ3200",
+    "02-L-02-D-1-8F-8-UB"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 1027.35,
+   "lead_time": null,
+   "sole_source_vendor": "Aguaworks Pipe & Supply, LLC",
+   "reason": "The above-named company or firm is the sole source of the following items and there are no other items available in the marketplace that have the same fit, form, and function of the items listed below: Kamstrup Metering Systems",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Edinburg",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "IQ 3200",
+   "part": "2\" 3200 AMR/AMI FLG METER",
+   "part_numbers": [
+    "2920IQ3200",
+    "02-L-02-D-1-8H-8-UB"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 1442.1,
+   "lead_time": null,
+   "sole_source_vendor": "Aguaworks Pipe & Supply, LLC",
+   "reason": "The above-named company or firm is the sole source of the following items and there are no other items available in the marketplace that have the same fit, form, and function of the items listed below: Kamstrup Metering Systems",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Edinburg",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "IQ 3200",
+   "part": "3\" IQ #3200 AMR/AMI FLG METER",
+   "part_numbers": [
+    "2930IQ3200",
+    "02-L-02-D-1-8K-8-UB"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 2181.5,
+   "lead_time": null,
+   "sole_source_vendor": "Aguaworks Pipe & Supply, LLC",
+   "reason": "The above-named company or firm is the sole source of the following items and there are no other items available in the marketplace that have the same fit, form, and function of the items listed below: Kamstrup Metering Systems",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Edinburg",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "IQ 3200",
+   "part": "4\" IQ 3200 AMR/AMI FLG METER",
+   "part_numbers": [
+    "2940IQ3200",
+    "02-L-02-D-1-8P-8-UB"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 3129.98,
+   "lead_time": null,
+   "sole_source_vendor": "Aguaworks Pipe & Supply, LLC",
+   "reason": "The above-named company or firm is the sole source of the following items and there are no other items available in the marketplace that have the same fit, form, and function of the items listed below: Kamstrup Metering Systems",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Edinburg",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7104,
+  "out": 2014
+ },
+ "model": "claude-sonnet-5"
+}

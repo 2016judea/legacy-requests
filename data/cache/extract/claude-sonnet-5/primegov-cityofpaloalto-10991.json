@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ABB Inc.",
+   "model": "VHK",
+   "part": "Retrofit of ten (10) 12kV, 1200Amp magnetic-actuator type power circuit breakers for Maybell Substation, including installation, training and commissioning",
+   "part_numbers": [],
+   "quantity": "10",
+   "price_usd": 354420,
+   "lead_time": null,
+   "sole_source_vendor": "ABB Inc.",
+   "reason": "Staff has determined that the only viable and cost-effective option for replacing the circuit breakers in Maybell Substation is to use retrofitted breakers manufactured by ABB Inc., which is the successor company to the original manufacturer.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Maybell Electric Substation",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3743,
+  "out": 271
+ },
+ "model": "claude-sonnet-5"
+}

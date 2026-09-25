@@ -1,0 +1,59 @@
+{
+ "records": [
+  {
+   "manufacturer": "SEL",
+   "model": "SEL 400G",
+   "part": "SEL 400G Generator Protection Relay for generator relay upgrade at Sub-H",
+   "part_numbers": [
+    "0400G126X11B6XXH624XXXX"
+   ],
+   "quantity": "2",
+   "price_usd": 53443.68,
+   "lead_time": "1 \u2013 2 months",
+   "sole_source_vendor": "GE Vernova (GE Grid Solutions LLC)",
+   "reason": "GE is the original equipment manufacturer (OEM) and has experience with the software and hardware to ensure seamless integration.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Sub-H",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Adapter Plate to install two new SEL 400G relays on existing panel",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 923.08,
+   "lead_time": "1 \u2013 2 months",
+   "sole_source_vendor": "GE Vernova (GE Grid Solutions LLC)",
+   "reason": "GE is the original equipment manufacturer (OEM) and has experience with the software and hardware to ensure seamless integration.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sub-H",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GE Vernova",
+   "model": null,
+   "part": "Engineering, field service, and installation services for SEL relay generator protection upgrade",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 60055.0,
+   "lead_time": null,
+   "sole_source_vendor": "GE Vernova (GE Grid Solutions LLC)",
+   "reason": "GE is the original equipment manufacturer (OEM) and has experience with the software and hardware to ensure seamless integration.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Sub-H",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9220,
+  "out": 2111
+ },
+ "model": "claude-sonnet-5"
+}

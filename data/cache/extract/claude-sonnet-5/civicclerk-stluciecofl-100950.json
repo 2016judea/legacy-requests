@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ebara",
+   "model": null,
+   "part": "Ebara pumps, parts, and service for lift stations and plants",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Tom Evans Environmental, Inc",
+   "reason": "Tom Evans Environmental, Inc is the sole authorized municipal distributor for all Ebara pumps Americas Corporation products, parts, and service in St Lucie County, Florida.",
+   "equipment_class": "pump",
+   "installed_location": "lift stations and plants",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6789,
+  "out": 931
+ },
+ "model": "claude-sonnet-5"
+}

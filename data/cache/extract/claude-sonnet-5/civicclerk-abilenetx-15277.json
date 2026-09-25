@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Duperon Corporation",
+   "model": "FlexRake",
+   "part": "New Washer Compactor with Chute for Duperon Headworks Screen at Buck Creek Pump Station",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 115000.0,
+   "lead_time": "6-8 Weeks from Receipt of Order",
+   "sole_source_vendor": "Vision Equipment",
+   "reason": "Vision Equipment is the sole and exclusive distributor for Duperon Corporation in Texas.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Buck Creek Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Duperon Corporation",
+   "model": "FlexRake",
+   "part": "Bearing Set for Duperon Screen",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 4000.0,
+   "lead_time": "6-8 Weeks from Receipt of Order",
+   "sole_source_vendor": "Vision Equipment",
+   "reason": "Vision Equipment is the sole and exclusive distributor for Duperon Corporation in Texas.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Buck Creek Pump Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5768,
+  "out": 960
+ },
+ "model": "claude-sonnet-5"
+}

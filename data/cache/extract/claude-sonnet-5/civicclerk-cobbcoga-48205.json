@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Flyover 1 (FY 2024) - digital aerial imagery flyover and cloud GIS software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 231070.65,
+   "lead_time": null,
+   "sole_source_vendor": "Pictometry International Corp.",
+   "reason": "approved as meeting the criteria for sole source procurement",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Cobb County Geographic Information System (GIS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Flyover 2 (FY 2025) - digital aerial imagery flyover and cloud GIS software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 231070.65,
+   "lead_time": null,
+   "sole_source_vendor": "Pictometry International Corp.",
+   "reason": "approved as meeting the criteria for sole source procurement",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Cobb County Geographic Information System (GIS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Planimetric data collection (FY 2025)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 243347.25,
+   "lead_time": null,
+   "sole_source_vendor": "Pictometry International Corp.",
+   "reason": "approved as meeting the criteria for sole source procurement",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Cobb County Geographic Information System (GIS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Flyover 3 (FY 2026) - digital aerial imagery flyover and cloud GIS software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 231070.65,
+   "lead_time": null,
+   "sole_source_vendor": "Pictometry International Corp.",
+   "reason": "approved as meeting the criteria for sole source procurement",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Cobb County Geographic Information System (GIS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "LiDAR, Contours (FY 2026)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 170559.2,
+   "lead_time": null,
+   "sole_source_vendor": "Pictometry International Corp.",
+   "reason": "approved as meeting the criteria for sole source procurement",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Cobb County Geographic Information System (GIS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Flyover 4 (FY 2027) - digital aerial imagery flyover and cloud GIS software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 231070.65,
+   "lead_time": null,
+   "sole_source_vendor": "Pictometry International Corp.",
+   "reason": "approved as meeting the criteria for sole source procurement",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Cobb County Geographic Information System (GIS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Flyover 5 (FY 2028) - digital aerial imagery flyover and cloud GIS software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 231070.65,
+   "lead_time": null,
+   "sole_source_vendor": "Pictometry International Corp.",
+   "reason": "approved as meeting the criteria for sole source procurement",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Cobb County Geographic Information System (GIS)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4598,
+  "out": 2704
+ },
+ "model": "claude-sonnet-5"
+}

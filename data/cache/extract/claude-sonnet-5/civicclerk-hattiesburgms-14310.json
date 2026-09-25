@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Setcom",
+   "model": "SBE-1MZ4",
+   "part": "Bluetooth SpeakerMic PO Wireless Receiver",
+   "part_numbers": [
+    "SBE-1MZ4"
+   ],
+   "quantity": "10",
+   "price_usd": 8720.0,
+   "lead_time": "Two Weeks",
+   "sole_source_vendor": "Rugged Solutions America, LLC dba Setcom Corporation",
+   "reason": "Setcom is the sole manufacturer and exclusive distributer of this product that is compatible with our current motorcycle equipment and radios.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hattiesburg Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Setcom",
+   "model": "MBH-31",
+   "part": "Bluetooth Wireless PTT Transmitter For Harley-Davidson Motorcycle",
+   "part_numbers": [
+    "MBH-31"
+   ],
+   "quantity": "10",
+   "price_usd": 3520.0,
+   "lead_time": "Two Weeks",
+   "sole_source_vendor": "Rugged Solutions America, LLC dba Setcom Corporation",
+   "reason": "Setcom is the sole manufacturer and exclusive distributer of this product that is compatible with our current motorcycle equipment and radios.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hattiesburg Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4811,
+  "out": 465
+ },
+ "model": "claude-sonnet-5"
+}

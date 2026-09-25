@@ -1,0 +1,175 @@
+{
+ "records": [
+  {
+   "manufacturer": "JCS Industries Inc",
+   "model": "Robo Control",
+   "part": "Chlorination Equipment and Parts",
+   "part_numbers": [
+    "RCTVR"
+   ],
+   "quantity": "22.00",
+   "price_usd": 117810.0,
+   "lead_time": null,
+   "sole_source_vendor": "JCS Industries Inc",
+   "reason": "JCS Industries Inc is the only manufacturer of Robo Control equipment, which has been found to be compatible for replacement at the plant.",
+   "equipment_class": "valve",
+   "installed_location": "Hollywood Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "JCS Industries Inc",
+   "model": "Robo Control",
+   "part": "Chlorination Equipment and Parts",
+   "part_numbers": [
+    "RCP006RCC"
+   ],
+   "quantity": "4.00",
+   "price_usd": 8640.0,
+   "lead_time": null,
+   "sole_source_vendor": "JCS Industries Inc",
+   "reason": "JCS Industries Inc is the only manufacturer of Robo Control equipment, which has been found to be compatible for replacement at the plant.",
+   "equipment_class": "valve",
+   "installed_location": "Hollywood Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "JCS Industries Inc",
+   "model": "Robo Control",
+   "part": "Chlorination Equipment and Parts",
+   "part_numbers": [
+    "RPB001"
+   ],
+   "quantity": "4.00",
+   "price_usd": 1152.0,
+   "lead_time": null,
+   "sole_source_vendor": "JCS Industries Inc",
+   "reason": "JCS Industries Inc is the only manufacturer of Robo Control equipment, which has been found to be compatible for replacement at the plant.",
+   "equipment_class": "valve",
+   "installed_location": "Hollywood Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "JCS Industries Inc",
+   "model": "Robo Control",
+   "part": "Chlorination Equipment and Parts",
+   "part_numbers": [
+    "CA004"
+   ],
+   "quantity": "600.00",
+   "price_usd": 1866.0,
+   "lead_time": null,
+   "sole_source_vendor": "JCS Industries Inc",
+   "reason": "JCS Industries Inc is the only manufacturer of Robo Control equipment, which has been found to be compatible for replacement at the plant.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Hollywood Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "JCS Industries Inc",
+   "model": "Robo Control",
+   "part": "Chlorination Equipment and Parts",
+   "part_numbers": [
+    "4500-D-CL"
+   ],
+   "quantity": "3.00",
+   "price_usd": 11070.0,
+   "lead_time": null,
+   "sole_source_vendor": "JCS Industries Inc",
+   "reason": "JCS Industries Inc is the only manufacturer of Robo Control equipment, which has been found to be compatible for replacement at the plant.",
+   "equipment_class": "valve",
+   "installed_location": "Hollywood Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "JCS Industries Inc",
+   "model": "Robo Control",
+   "part": "Chlorination Equipment and Parts",
+   "part_numbers": [
+    "45-S-CL"
+   ],
+   "quantity": "1.00",
+   "price_usd": 2520.0,
+   "lead_time": null,
+   "sole_source_vendor": "JCS Industries Inc",
+   "reason": "JCS Industries Inc is the only manufacturer of Robo Control equipment, which has been found to be compatible for replacement at the plant.",
+   "equipment_class": "valve",
+   "installed_location": "Hollywood Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "JCS Industries Inc",
+   "model": "Robo Control",
+   "part": "Chlorination Equipment and Parts",
+   "part_numbers": [
+    "4500-S-SO"
+   ],
+   "quantity": "1.00",
+   "price_usd": 2520.0,
+   "lead_time": null,
+   "sole_source_vendor": "JCS Industries Inc",
+   "reason": "JCS Industries Inc is the only manufacturer of Robo Control equipment, which has been found to be compatible for replacement at the plant.",
+   "equipment_class": "valve",
+   "installed_location": "Hollywood Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "JCS Industries Inc",
+   "model": "Robo Control",
+   "part": "Chlorination Equipment and Parts",
+   "part_numbers": [
+    "MISC ALARM"
+   ],
+   "quantity": "2.00",
+   "price_usd": 1000.0,
+   "lead_time": null,
+   "sole_source_vendor": "JCS Industries Inc",
+   "reason": "JCS Industries Inc is the only manufacturer of Robo Control equipment, which has been found to be compatible for replacement at the plant.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Hollywood Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "JCS Industries Inc",
+   "model": "Robo Control",
+   "part": "Chlorination Equipment and Parts",
+   "part_numbers": [
+    "MIS VISUAL ALARM"
+   ],
+   "quantity": "2.00",
+   "price_usd": 1000.0,
+   "lead_time": null,
+   "sole_source_vendor": "JCS Industries Inc",
+   "reason": "JCS Industries Inc is the only manufacturer of Robo Control equipment, which has been found to be compatible for replacement at the plant.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Hollywood Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "JCS Industries Inc",
+   "model": null,
+   "part": "Shipping, Handling & Misc Fees - Install and Startup",
+   "part_numbers": [
+    "INSTALL AND STARTUP"
+   ],
+   "quantity": "1.00",
+   "price_usd": 10000.0,
+   "lead_time": null,
+   "sole_source_vendor": "JCS Industries Inc",
+   "reason": "JCS Industries Inc is the only manufacturer of Robo Control equipment, which has been found to be compatible for replacement at the plant.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Hollywood Wastewater Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5747,
+  "out": 3395
+ },
+ "model": "claude-sonnet-5"
+}

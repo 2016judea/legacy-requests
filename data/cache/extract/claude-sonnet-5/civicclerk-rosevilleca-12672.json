@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Howden Roots",
+   "model": "1216 RGS",
+   "part": "Rotary lobe vapor compressor for onsite backup inventory, Zero Liquid Discharge (ZLD) system",
+   "part_numbers": [
+    "UNIT 1216 RGS J STM V N PL 71 B L GE SCS LAG"
+   ],
+   "quantity": "2",
+   "price_usd": 341314.92,
+   "lead_time": "18-20 weeks, ARO",
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "American Compressor Company is the sole factory authorized distributor of the vapor compressor model used in the REP Zero Liquid Discharge process.",
+   "equipment_class": "pump",
+   "installed_location": "Roseville Energy Park (REP)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4005,
+  "out": 265
+ },
+ "model": "claude-sonnet-5"
+}

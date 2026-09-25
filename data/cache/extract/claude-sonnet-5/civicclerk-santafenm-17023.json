@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Andritz",
+   "model": "Centrifuge",
+   "part": "Service, repair, inspection, and ongoing maintenance for Andritz centrifuge equipment at WTP, including disassembly, transport to OEM factory for service, and reassembly",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 104905.0,
+   "lead_time": null,
+   "sole_source_vendor": "Andritz Separation, Inc.",
+   "reason": "The BDD facility requires specialized repair services by the OEM, under a State of New Mexico Sole Source determination, for continued WTP operation and compliance status.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Treatment Plant (WTP)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7420,
+  "out": 272
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Golden Bell Products, Inc.",
+   "model": "Insecta",
+   "part": "Roach control services for sanitary sewer manholes (coating with EPA-approved latex paint-based insecticide)",
+   "part_numbers": [
+    "45600-1"
+   ],
+   "quantity": "up to 8,200 manholes per year",
+   "price_usd": 200900,
+   "lead_time": null,
+   "sole_source_vendor": "Golden Bell Products, Inc.",
+   "reason": "Golden Bell Products, Inc., is the current sole service provider for the application and distribution of Insecta\u00ae within the State of California. Insecta\u00ae is EPA-approved and is the only registered product of its type and active ingredient labeled for use in sewer manholes.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "sanitary sewer manholes throughout the City of Long Beach",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6896,
+  "out": 309
+ },
+ "model": "claude-sonnet-5"
+}

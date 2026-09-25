@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Carmanah",
+   "model": "R920-MX",
+   "part": "Solar RRFB w/Dual Lightbars, 2\" Top Mount, Bulldog PPB (Green), MX-100 Power Module, 2x7Ahr Batteries & 3 Year MX Lite Sub",
+   "part_numbers": [],
+   "quantity": "36",
+   "price_usd": 147600.0,
+   "lead_time": null,
+   "sole_source_vendor": "JAM Services, Inc.",
+   "reason": "the sole local Carmanah-authorized vendor in the Central Valley\u2014JAM Services of Livermore, CA.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Carmanah",
+   "model": "R920-MX",
+   "part": "Solar RRFB w/Single Lightbar, 2\" Top Mount, MX-100 Power Module, 2x7Ahr Batteries & 3 Year MX Lite Sub (No Pushbuttons)",
+   "part_numbers": [],
+   "quantity": "36",
+   "price_usd": 106200.0,
+   "lead_time": null,
+   "sole_source_vendor": "JAM Services, Inc.",
+   "reason": "the sole local Carmanah-authorized vendor in the Central Valley\u2014JAM Services of Livermore, CA.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 3,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8181,
+  "out": 1061
+ },
+ "model": "claude-sonnet-5"
+}

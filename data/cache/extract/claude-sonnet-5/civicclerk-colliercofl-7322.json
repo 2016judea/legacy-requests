@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Xylem",
+   "model": null,
+   "part": "Mixers, pumps and related equipment, products, and services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2360000,
+   "lead_time": null,
+   "sole_source_vendor": "Xylem Water Solutions U.S.A., Inc.",
+   "reason": "single source purchase of mixers, pumps and related equipment, products, and services",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 3,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10027,
+  "out": 1212
+ },
+ "model": "claude-sonnet-5"
+}

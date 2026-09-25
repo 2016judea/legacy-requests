@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "ABB",
+   "model": "ACS880",
+   "part": "ACS880 Drive Cabinet Drive - Ultra Low Harmonic (37). Input Voltage 480 VAC. 749A LD, 583A HD. IP42 - UL type 1 +B054. Frame Size -1xR8i+1xR8i",
+   "part_numbers": [
+    "ACS880-37-0780A-5+B054+C129+G328+G329+K475+V112+V998"
+   ],
+   "quantity": "1",
+   "price_usd": 107449.55,
+   "lead_time": null,
+   "sole_source_vendor": "Logic Inc",
+   "reason": "Logic Inc. is the exclusive authorized distributor for ABB variable frequency drives and related accessories for the water/wastewater market in Kansas and western Missouri, including the City of Independence.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Rock Creek Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ABB",
+   "model": "ACS880",
+   "part": "ACS880 Drive Cabinet Drive - Ultra Low Harmonic (37). Input Voltage 480 VAC. 483A LD, 483A HD. IP42 - UL type 1 +B054. Frame Size -R11",
+   "part_numbers": [
+    "ACS880-37-0503A-5+B054+C129+G328+G329+K475+V112"
+   ],
+   "quantity": "2",
+   "price_usd": 69162.92,
+   "lead_time": null,
+   "sole_source_vendor": "Logic Inc",
+   "reason": "Logic Inc. is the exclusive authorized distributor for ABB variable frequency drives and related accessories for the water/wastewater market in Kansas and western Missouri, including the City of Independence.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Rock Creek Pump Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5669,
+  "out": 1085
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,63 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sensus",
+   "model": "IPERL",
+   "part": "1\" IPERL TRPL RECLAIM 8WHLUSG meter",
+   "part_numbers": [
+    "I50TRRC"
+   ],
+   "quantity": "1200 EA",
+   "price_usd": 226476.0,
+   "lead_time": null,
+   "sole_source_vendor": "Aqua Metric",
+   "reason": "Staff is recommending the purchase from Aqua Metric, which is a single source vendor",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sensus",
+   "model": "MXU 520 M",
+   "part": "MXU 520 M Single port T/C",
+   "part_numbers": [
+    "MXU520MSP"
+   ],
+   "quantity": "310 EA",
+   "price_usd": 31027.9,
+   "lead_time": null,
+   "sole_source_vendor": "Aqua Metric",
+   "reason": "Staff is recommending the purchase from Aqua Metric, which is a single source vendor",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sensus",
+   "model": "Omni R2",
+   "part": "2\" Omni R2 Reclaim 8 WHL USG meter",
+   "part_numbers": [
+    "OMNIR2RC"
+   ],
+   "quantity": "10 EA",
+   "price_usd": 5965.1,
+   "lead_time": null,
+   "sole_source_vendor": "Aqua Metric",
+   "reason": "Staff is recommending the purchase from Aqua Metric, which is a single source vendor",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8705,
+  "out": 1176
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "B&C Transit Company, Inc.",
+   "model": null,
+   "part": "Software, hardware, and ongoing system support for Supervisory Control and Data Acquisition System (SCADA) services for OKC Streetcar",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 100000,
+   "lead_time": null,
+   "sole_source_vendor": "B&C Transit Company, Inc.",
+   "reason": "B&C is the only firm authorized to offer software, hardware, maintenance, and technical support services for OKC Streetcar\u2019s SCADA system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "OKC Streetcar",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5473,
+  "out": 238
+ },
+ "model": "claude-sonnet-5"
+}

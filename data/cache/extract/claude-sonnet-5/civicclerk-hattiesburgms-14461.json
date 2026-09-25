@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Wright Manufacturing",
+   "model": "Autonomous Stander ZK",
+   "part": "Autonomous Stander ZK 72\" mower",
+   "part_numbers": [
+    "WSZK72M61G8E2BR"
+   ],
+   "quantity": "1",
+   "price_usd": 44570.4,
+   "lead_time": null,
+   "sole_source_vendor": "Groundworks Distribution",
+   "reason": "there are no comparable items or products available that fulfill the same purpose or function as the Autonomous Stander ZK",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10116,
+  "out": 211
+ },
+ "model": "claude-sonnet-5"
+}

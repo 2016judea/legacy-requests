@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Millennium Access Control Technology Inc.",
+   "model": "MPACS 100/200",
+   "part": "Frame and Tray Assembly for fix food box on the inmate jail cells",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Millennium Access Control Technology Inc.",
+   "reason": "Millennium Access Control Technology, Inc. is the one and only manufacturer of the Millennium Patented Access Control System (MPACS).",
+   "equipment_class": "other equipment",
+   "installed_location": "inmate jail cells",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6000,
+  "out": 219
+ },
+ "model": "claude-sonnet-5"
+}

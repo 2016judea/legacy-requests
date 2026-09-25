@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "F5LA",
+   "part": "replace STG-1 buckets unstack restack and balance rotor",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 401513.09,
+   "lead_time": null,
+   "sole_source_vendor": "Allied Power Group",
+   "reason": "TIME - able to complete repairs faster than OEM and allow us to get J-2 into the SPP pool",
+   "equipment_class": "generator",
+   "installed_location": "J-2 substation, Power & Light Department (IPL)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "F5LA",
+   "part": "Change order for additional rotor repairs due to misalignment (stage-2 buckets and other rotating components), including machining surfaces, replacement of hardware destroyed during disassembly, and shipping",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 74400.0,
+   "lead_time": null,
+   "sole_source_vendor": "Allied Power Group",
+   "reason": "Additional, unanticipated damage was found to the stage-2 (stg-2) buckets and other rotating components of the rotor that are currently being repaired by APG.",
+   "equipment_class": "generator",
+   "installed_location": "J-2 substation, Power & Light Department (IPL)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8860,
+  "out": 1745
+ },
+ "model": "claude-sonnet-5"
+}

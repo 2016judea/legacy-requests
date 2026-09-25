@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Square D",
+   "model": null,
+   "part": "480V Variable Frequency Drive (VFD) for 34th Street Pump Station",
+   "part_numbers": [],
+   "quantity": "1 ea",
+   "price_usd": 100907.11,
+   "lead_time": null,
+   "sole_source_vendor": "Cain Electrical Supply",
+   "reason": "the proposed VFD is proprietary and sole source because the other units in the pump station are Square D units, with Cain Electric serving as the regional distributor",
+   "equipment_class": "motor/drive",
+   "installed_location": "34th Street Pump Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3119,
+  "out": 208
+ },
+ "model": "claude-sonnet-5"
+}

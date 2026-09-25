@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": "Explorer Interceptor / Police Interceptor Utility",
+   "part": "Two Ford Explorer Interceptors purchased as replacement squad vehicles",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 91576.0,
+   "lead_time": null,
+   "sole_source_vendor": "Morrow Brothers Ford",
+   "reason": "Approve a Sole Source Purchase of Two Ford Explorer Interceptors from a No-Bid Procurement Source (Morrow Brothers Ford on an Illinois Government Contract)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Peoria Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Parts and Labor to have the Vehicles Equipped with all necessary police equipment",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 40000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Morrow Brothers Ford",
+   "reason": "Approve the Purchase of Parts and Labor Estimated at $40,000.00 to have the Vehicles Equipped with all",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Peoria Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 13764,
+  "out": 1789
+ },
+ "model": "claude-sonnet-5"
+}

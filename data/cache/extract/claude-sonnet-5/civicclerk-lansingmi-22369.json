@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Orbinox",
+   "model": "CC-CHANNEL PENSTOCK",
+   "part": "Stainless-Steel Slide Gate for Ultraviolet Disinfection Channel No. 3 (58X90\" Orbinox CC Penstock/Sluice Gate)",
+   "part_numbers": [
+    "58X90\" Orbinox CC"
+   ],
+   "quantity": "1",
+   "price_usd": 31375.0,
+   "lead_time": "16-18 weeks ARO. 2-3 weeks for approval drawings.",
+   "sole_source_vendor": "Hamlett Environmental Technologies Co.",
+   "reason": "The distributor, Hamlet Environmental Technologies Co., is the sole municipal representative of Orbinox in the State of Michigan.",
+   "equipment_class": "valve",
+   "installed_location": "Ultraviolet Disinfection Building, Wastewater Treatment Facility, Channel No. 3",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6537,
+  "out": 320
+ },
+ "model": "claude-sonnet-5"
+}

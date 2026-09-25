@@ -1,0 +1,49 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stalker Radar",
+   "model": "DSR 2 Antenna Radar",
+   "part": "Stalker DSR radar equipment for seven Dodge Chargers patrol vehicles",
+   "part_numbers": [
+    "806-0022-00",
+    "200-0999-40",
+    "200-1000-40",
+    "200-1468-00*",
+    "200-0921-00",
+    "200-0769-00",
+    "200-0770-00",
+    "200-0243-00",
+    "200-0886-00",
+    "200-0245-00",
+    "200-0648-00",
+    "155-2591-08",
+    "155-2591-20",
+    "200-0622-00",
+    "200-0821-00",
+    "035-0361-00",
+    "060-1000-36",
+    "155-2211-00",
+    "005-8038-00"
+   ],
+   "quantity": "7",
+   "price_usd": 16482.0,
+   "lead_time": "35 working days",
+   "sole_source_vendor": "Applied Concepts, Inc.",
+   "reason": "Stalker Radar is the sole manufacturer and exclusive distributor of this product.",
+   "equipment_class": "other equipment",
+   "installed_location": "Hattiesburg Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7280,
+  "out": 344
+ },
+ "model": "claude-sonnet-5"
+}

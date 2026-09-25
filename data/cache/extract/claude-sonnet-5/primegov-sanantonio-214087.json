@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "H125",
+   "part": "Extended 24/7 Service, Support and Training for Helicopter Video Down Link System (Aircraft N1603M)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 20405.48,
+   "lead_time": null,
+   "sole_source_vendor": "CNC Technologies, LLC",
+   "reason": "citing a requirement for brand specificity in order to enable SAPD to interact with the video transmissions of the Texas Department of Public Safety, Dallas Police Department, Fort Worth Police Department aircraft and the Bexar County Sheriff\u2019s Departments Emergency Operations Center.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "San Antonio Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "H125",
+   "part": "Extended 24/7 Service, Support and Training for Helicopter Video Down Link System (Aircraft N382BM)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 20405.48,
+   "lead_time": null,
+   "sole_source_vendor": "CNC Technologies, LLC",
+   "reason": "citing a requirement for brand specificity in order to enable SAPD to interact with the video transmissions of the Texas Department of Public Safety, Dallas Police Department, Fort Worth Police Department aircraft and the Bexar County Sheriff\u2019s Departments Emergency Operations Center.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "San Antonio Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "H125",
+   "part": "Extended 24/7 Service, Support and Training for Helicopter Video Down Link System (Aircraft N582RM)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 16715.0,
+   "lead_time": null,
+   "sole_source_vendor": "CNC Technologies, LLC",
+   "reason": "citing a requirement for brand specificity in order to enable SAPD to interact with the video transmissions of the Texas Department of Public Safety, Dallas Police Department, Fort Worth Police Department aircraft and the Bexar County Sheriff\u2019s Departments Emergency Operations Center.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "San Antonio Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CNC Technologies",
+   "model": "RX Site",
+   "part": "Extended 24/7 Service, Support and Training for Ground Receive System (GRS) Diversity Antenna Receive Site",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 15408.22,
+   "lead_time": null,
+   "sole_source_vendor": "CNC Technologies, LLC",
+   "reason": "citing a requirement for brand specificity in order to enable SAPD to interact with the video transmissions of the Texas Department of Public Safety, Dallas Police Department, Fort Worth Police Department aircraft and the Bexar County Sheriff\u2019s Departments Emergency Operations Center.",
+   "equipment_class": "communications/radio",
+   "installed_location": "San Antonio Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CNC Technologies",
+   "model": "CNC.Live",
+   "part": "Extended 24/7 Service, Support and Training for CNC.Live video downlink software service",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 4164.38,
+   "lead_time": null,
+   "sole_source_vendor": "CNC Technologies, LLC",
+   "reason": "citing a requirement for brand specificity in order to enable SAPD to interact with the video transmissions of the Texas Department of Public Safety, Dallas Police Department, Fort Worth Police Department aircraft and the Bexar County Sheriff\u2019s Departments Emergency Operations Center.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "San Antonio Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11842,
+  "out": 2759
+ },
+ "model": "claude-sonnet-5"
+}

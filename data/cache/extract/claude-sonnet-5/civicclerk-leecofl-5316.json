@@ -1,0 +1,73 @@
+{
+ "records": [
+  {
+   "manufacturer": "Flygt",
+   "model": null,
+   "part": "Submersible sewage pumps, parts and repair services (single/sole source)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 737349.37,
+   "lead_time": null,
+   "sole_source_vendor": "Xylem Water Solutions U.S.A., Inc.",
+   "reason": "Xylem Water Solutions U.S.A, Inc. is the only authorized vendor for Flygt Products and is the only authorized service repair and warranty organization in the State of Florida",
+   "equipment_class": "pump",
+   "installed_location": "Lee County Utilities - Wastewater Collection",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Flygt",
+   "model": "4901 Mix Flush Valve",
+   "part": "4901 Mix Flush Valve",
+   "part_numbers": [
+    "5565101"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Xylem Water Solutions U.S.A., Inc.",
+   "reason": "The 4901 Mix Flush Valve FLYGT P/N 5565101 is a proprietary FLYGT product.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Flygt",
+   "model": null,
+   "part": "100 horse power pump (estimate) - pending need",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 90000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Xylem Water Solutions U.S.A., Inc.",
+   "reason": "Xylem Water Solutions U.S.A, Inc. is the only authorized vendor for Flygt Products and is the only authorized service repair and warranty organization in the State of Florida",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Flygt",
+   "model": null,
+   "part": "Needed orders (26 pumps/ $15k average) - pending need",
+   "part_numbers": [],
+   "quantity": "26",
+   "price_usd": 390000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Xylem Water Solutions U.S.A., Inc.",
+   "reason": "Xylem Water Solutions U.S.A, Inc. is the only authorized vendor for Flygt Products and is the only authorized service repair and warranty organization in the State of Florida",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12800,
+  "out": 1994
+ },
+ "model": "claude-sonnet-5"
+}

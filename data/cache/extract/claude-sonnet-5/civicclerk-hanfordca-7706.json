@@ -1,0 +1,38 @@
+{
+ "records": [
+  {
+   "manufacturer": "Carmanah",
+   "model": "Speedcheck-MX",
+   "part": "Solar Powered Radar Speed Sign",
+   "part_numbers": [
+    "92683",
+    "92661",
+    "92750",
+    "37912",
+    "74387",
+    "92749",
+    "90458",
+    "91842"
+   ],
+   "quantity": "16",
+   "price_usd": 94827.0,
+   "lead_time": null,
+   "sole_source_vendor": "JAM Services, Inc.",
+   "reason": "JAM Services of Livermore is the only local authorized Carmanah vendor in the Central Valley, which supports timely procurement and technical support.",
+   "equipment_class": "other equipment",
+   "installed_location": "MLK School, Pioneer School, Washington School, Hamilton School, Hanford High, Woodrow School, Jefferson School",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5962,
+  "out": 258
+ },
+ "model": "claude-sonnet-5"
+}

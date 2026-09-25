@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Envirosight",
+   "model": null,
+   "part": "Manufacturer-authorized replacement OEM parts and services for video pipeline inspection equipment (CCTV vehicles)",
+   "part_numbers": [],
+   "quantity": "5 CCTV vehicles",
+   "price_usd": 200000,
+   "lead_time": null,
+   "sole_source_vendor": "Haaker Equipment Company",
+   "reason": "Haaker Equipment Company is the exclusive sales and support partner for all Envirosight video pipeline inspection equipment",
+   "equipment_class": "other equipment",
+   "installed_location": "Long Beach Public Utilities Department fleet",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vactor",
+   "model": null,
+   "part": "Manufacturer-authorized replacement OEM parts and services for high-pressure jetting systems equipment (sewer cleaning trucks)",
+   "part_numbers": [],
+   "quantity": "5 sewer cleaning trucks",
+   "price_usd": 200000,
+   "lead_time": null,
+   "sole_source_vendor": "Haaker Equipment Company",
+   "reason": "the only authorized dealer of OEM parts and services for Vactor high-pressure jetting systems",
+   "equipment_class": "other equipment",
+   "installed_location": "Long Beach Public Utilities Department fleet",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Elgin",
+   "model": null,
+   "part": "Manufacturer-authorized replacement OEM parts and services for vehicle broom sweeper equipment (mechanical sweeper)",
+   "part_numbers": [],
+   "quantity": "1 mechanical sweeper",
+   "price_usd": 200000,
+   "lead_time": null,
+   "sole_source_vendor": "Haaker Equipment Company",
+   "reason": "the only authorized dealer of OEM parts and services for Elgin broom sweepers in the southern portions of California",
+   "equipment_class": "other equipment",
+   "installed_location": "Long Beach Public Utilities Department fleet",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7210,
+  "out": 655
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Upper control arm, driver side (roadside), replacement for Fire Engine #164 suspension",
+   "part_numbers": [
+    "CS-PNT-0079"
+   ],
+   "quantity": "1.00",
+   "price_usd": 7584.34,
+   "lead_time": null,
+   "sole_source_vendor": "Betts Truck Parts & Service",
+   "reason": "Betts Truck Parts & Service is the only vendor in our area with the capability to disassemble and reinstall heavy-duty suspension components on fire apparatus, including Fire Truck #164.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Engine #164, City of Hanford",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "TAK4",
+   "part": "Control arm assembly, lower, TAK4 suspension, replaced on both roadside and curbside",
+   "part_numbers": [
+    "CS-PNT0078"
+   ],
+   "quantity": "2.00",
+   "price_usd": 15486.94,
+   "lead_time": null,
+   "sole_source_vendor": "Betts Truck Parts & Service",
+   "reason": "Betts Truck Parts & Service is the only vendor in our area with the capability to disassemble and reinstall heavy-duty suspension components on fire apparatus, including Fire Truck #164.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Engine #164, City of Hanford",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "KONI",
+   "model": "91-SERIES TAK-4",
+   "part": "Shock absorber, front, 91-series TAK-4 with rubber bushing, replaced on both sides",
+   "part_numbers": [
+    "3305443"
+   ],
+   "quantity": "2.00",
+   "price_usd": 1406.12,
+   "lead_time": null,
+   "sole_source_vendor": "Betts Truck Parts & Service",
+   "reason": "Betts Truck Parts & Service is the only vendor in our area with the capability to disassemble and reinstall heavy-duty suspension components on fire apparatus, including Fire Truck #164.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Engine #164, City of Hanford",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "TAK4",
+   "part": "Control arm assembly, upper, TAK4 suspension, curbside replacement with new updated design",
+   "part_numbers": [
+    "CS-PNT0080"
+   ],
+   "quantity": "1.00",
+   "price_usd": 11134.11,
+   "lead_time": null,
+   "sole_source_vendor": "Betts Truck Parts & Service",
+   "reason": "Betts Truck Parts & Service is the only vendor in our area with the capability to disassemble and reinstall heavy-duty suspension components on fire apparatus, including Fire Truck #164.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Engine #164, City of Hanford",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6572,
+  "out": 2139
+ },
+ "model": "claude-sonnet-5"
+}

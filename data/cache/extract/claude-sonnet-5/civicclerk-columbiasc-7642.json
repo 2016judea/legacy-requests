@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Badger Meter",
+   "model": null,
+   "part": "AMI Meters, Fire Service Assembly Meters, Registers, Endpoints, and Endpoint Guard Kits",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 71821.66,
+   "lead_time": "3-to-4-month lead time on meter orders",
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "Sole Source Agreement",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Columbia Water service area",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4575,
+  "out": 202
+ },
+ "model": "claude-sonnet-5"
+}

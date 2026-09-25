@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Southern Manufacturing",
+   "model": null,
+   "part": "Internally Illuminated Street Name Signs (IISNS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 160000,
+   "lead_time": null,
+   "sole_source_vendor": "JTB Supply Company",
+   "reason": "JTB Supply Company is the exclusive distributor and only authorized service center for Southern Manufacturing\u2019s IISNS in Southern California.",
+   "equipment_class": "other equipment",
+   "installed_location": "Rancho Cucamonga",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5541,
+  "out": 199
+ },
+ "model": "claude-sonnet-5"
+}

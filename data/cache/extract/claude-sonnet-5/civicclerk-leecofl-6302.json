@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Evoqua Water Technologies LLC",
+   "model": "Envirex Type H Tow-Bro",
+   "part": "Envirex Type H Tow-Bro stainless steel header assembly and hardware for clarifier rehabilitation",
+   "part_numbers": [
+    "45415-212-100",
+    "45415-212-101",
+    "W3T636158",
+    "W3T379677",
+    "W3T207972",
+    "W2T119874",
+    "W3T490094",
+    "W3T61387",
+    "W2T117977",
+    "W2T122323",
+    "W2T122482",
+    "W2T122467",
+    "W2T122323",
+    "W3T361193",
+    "W2T122470",
+    "W2T117145",
+    "W2T120824",
+    "W2T329800",
+    "W2T118929",
+    "W2T117616",
+    "W2T269590",
+    "W2T117528",
+    "W2T119899",
+    "W2T119218",
+    "W2T117977",
+    "W2T122467",
+    "W2T122482"
+   ],
+   "quantity": "27 line items (qty per item as listed)",
+   "price_usd": 89743,
+   "lead_time": "18 to 20 weeks",
+   "sole_source_vendor": "Evoqua Water Technologies LLC",
+   "reason": "Evoqua Water Technologies LLC is the only company that can provide Lee County Utilities with OEM equipment, replacement parts, retrofits, rehabs and field services for the companies noted herein.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Fiesta Village Water Reclamation Facility, East (Standalone) Clarifier",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies LLC",
+   "model": null,
+   "part": "Demo/Install and Field Painting of clarifier header and internals",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 192353,
+   "lead_time": "12 to 14 weeks after equipment delivery",
+   "sole_source_vendor": "Evoqua Water Technologies LLC",
+   "reason": "Evoqua Water Technologies LLC is the only company that can provide Lee County Utilities with OEM equipment, replacement parts, retrofits, rehabs and field services for the companies noted herein.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fiesta Village Water Reclamation Facility, East (Standalone) Clarifier",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies LLC",
+   "model": null,
+   "part": "Freight for Tow-Bro header parts shipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2200,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies LLC",
+   "reason": "Evoqua Water Technologies LLC is the only company that can provide Lee County Utilities with OEM equipment, replacement parts, retrofits, rehabs and field services for the companies noted herein.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fiesta Village Water Reclamation Facility, East (Standalone) Clarifier",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 15044,
+  "out": 3220
+ },
+ "model": "claude-sonnet-5"
+}

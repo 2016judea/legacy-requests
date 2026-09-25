@@ -1,0 +1,45 @@
+{
+ "records": [
+  {
+   "manufacturer": "Patterson",
+   "model": "10x8x17",
+   "part": "Purchase of 3 Patterson Reuse Pumps for DB Lee Water Reclamation Facility",
+   "part_numbers": [
+    "C0108207-01"
+   ],
+   "quantity": "3",
+   "price_usd": 263354.0,
+   "lead_time": "14-16 weeks",
+   "sole_source_vendor": "RC Beach & Assoc. Inc. /Patterson Pump",
+   "reason": "RC Beach & Assoc. is sole source for Patterson",
+   "equipment_class": "pump",
+   "installed_location": "DB Lee Water Reclamation Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ABB",
+   "model": null,
+   "part": "Motor for reuse pump replacement, 250hp",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": "14-16 weeks",
+   "sole_source_vendor": "RC Beach & Assoc. Inc. /Patterson Pump",
+   "reason": "Functional Replacement for C0108207-01",
+   "equipment_class": "motor/drive",
+   "installed_location": "DB Lee Water Reclamation Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8050,
+  "out": 394
+ },
+ "model": "claude-sonnet-5"
+}

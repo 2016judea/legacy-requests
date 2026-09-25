@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Cellebrite",
+   "part": "Licensed software that allows investigators to bypass passcodes, once a search warrant has been obtained, on Apple and Android products for the purpose of collecting potential evidence",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Insight Public Sector",
+   "reason": "Insight Public Sector is currently under New York State Contract as the single source provider of Cellebrite.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3965,
+  "out": 210
+ },
+ "model": "claude-sonnet-5"
+}

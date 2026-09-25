@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Endress+Hauser",
+   "model": null,
+   "part": "Monitoring and transmitting equipment and parts for SCADA network and automation systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": "Rust Automation and Controls Inc",
+   "reason": "The Environmental Utilities Department has standardized on high-performance transmitting and monitoring sensors with Endress+Hauser equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4304,
+  "out": 204
+ },
+ "model": "claude-sonnet-5"
+}

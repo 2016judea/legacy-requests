@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Badger Meter",
+   "model": null,
+   "part": "AMI Capable Water Meters, sizes ranging from 3/4\" up to 6\", including 3/4\" and 1\" meters for ADUs",
+   "part_numbers": [],
+   "quantity": "estimated 636 AMI capable meters (sizes 3/4\" up to 6\") plus 200 3/4\" and 50 1-inch meters for ADUs",
+   "price_usd": 975000,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "A negotiated single-source purchase order is necessary with Badger Meters, Inc to ensure future compatibility when the AMI meters are installed.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Oxnard water distribution system",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3478,
+  "out": 289
+ },
+ "model": "claude-sonnet-5"
+}

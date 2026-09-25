@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sensus",
+   "model": "SRII",
+   "part": "Repair or replace and install up to 2,500 water meters (meter and radio functionality, meter box and lid) due to component failures",
+   "part_numbers": [],
+   "quantity": "up to 2,500 meters",
+   "price_usd": 735188.7,
+   "lead_time": null,
+   "sole_source_vendor": "Aqua Metric Sales Company",
+   "reason": "Aqua Metric Sales Company, the sole source provider for the meters, has provided a proposal to repair or replace and install up to 2,500 meters",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Rowlett water distribution system",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sensus",
+   "model": "FlexNet",
+   "part": "SmartPoint radio communication modules maintained/repaired/replaced alongside meters",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Aqua Metric Sales Company",
+   "reason": "Company is the authorized and exclusive reseller of certain product(s), hardware, software, and services related to the technology manufactured by Sensus USA, Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Rowlett water distribution system",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sensus",
+   "model": null,
+   "part": "4,515 residential SRII meters replaced due to magnet component causing failures and understated usage",
+   "part_numbers": [],
+   "quantity": "4,515",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Aqua Metric Sales Company",
+   "reason": "the manufacturer agreed to replace 4,515 residential SRII meters that included a magnet component identified as a likely cause of meter failures and understated measure of water usage",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Rowlett water distribution system",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10597,
+  "out": 661
+ },
+ "model": "claude-sonnet-5"
+}

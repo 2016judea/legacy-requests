@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Mako",
+   "model": null,
+   "part": "Breathing Air Compressors for Station 8, Station 9 and Fire Training Center",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 238534.69,
+   "lead_time": null,
+   "sole_source_vendor": "Great Lakes Breathing Air LLC",
+   "reason": "Great Lakes Breathing Air, LLC of Allendale, Michigan is the only authorized distributor sanctioned by us to represent our MAKO breathing air products in the municipal fire and safety markets in the entire state of Michigan.",
+   "equipment_class": "other equipment",
+   "installed_location": "Station 8, Station 9 and Fire Training Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Mako",
+   "model": null,
+   "part": "Mako Equipment for Fire Station 8, 9 and Fire Training",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 224594.07,
+   "lead_time": null,
+   "sole_source_vendor": "Great Lakes Breathing Air LLC",
+   "reason": "Great Lakes Breathing Air is the only approved company for new unit sales, OEM spare parts, warranty / service for any MAKO breathing air product located within the state of Michigan.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fire Station 8, 9 and Fire Training",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3613,
+  "out": 467
+ },
+ "model": "claude-sonnet-5"
+}

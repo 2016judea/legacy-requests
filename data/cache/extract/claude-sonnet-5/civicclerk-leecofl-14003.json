@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Genfare",
+   "model": null,
+   "part": "Smart Cards and Media Fare (fare media/tickets) compatible with LeeTran's Genfare Automatic Fare Collection System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 120000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Genfare, LLC",
+   "reason": "The system exclusively utilizes smart cards and fare media distributed by Genfare LLC.",
+   "equipment_class": "other equipment",
+   "installed_location": "LeeTran",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5556,
+  "out": 200
+ },
+ "model": "claude-sonnet-5"
+}

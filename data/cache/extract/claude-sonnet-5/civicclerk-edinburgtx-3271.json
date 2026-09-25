@@ -1,0 +1,157 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kamstrup",
+   "model": "FLOWIQ 2250",
+   "part": "5/8\" x 3/4\" FLOWIQ 2250 AMI METER",
+   "part_numbers": [
+    "2907IQ2250",
+    "02-A-01-D-1-8B-8-US",
+    "801-24-002-0000-4-3-3-3-01-220-1-3-01003"
+   ],
+   "quantity": "1",
+   "price_usd": 320.0,
+   "lead_time": null,
+   "sole_source_vendor": "Aguaworks Pipe & Supply, LLC",
+   "reason": "The following company has the sole source distribution and reselling rights for Kamstrup North American water products in the distribution area listed below",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Edinburg",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "IQ 2200",
+   "part": "1\" IQ 2200 ALD/AMI/AMR WTR MTR",
+   "part_numbers": [
+    "2910IQ2200",
+    "02-L-02-D-1-8D-8-UB",
+    "810-24-002-0010-3-3-3-6-04-220-1-3-01004"
+   ],
+   "quantity": "1",
+   "price_usd": 431.0,
+   "lead_time": null,
+   "sole_source_vendor": "Aguaworks Pipe & Supply, LLC",
+   "reason": "The following company has the sole source distribution and reselling rights for Kamstrup North American water products in the distribution area listed below",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Edinburg",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "IQ 3200",
+   "part": "2\" 3200 AMR/AMI FLG METER",
+   "part_numbers": [
+    "2920IQ3200",
+    "02-L-02-D-1-8H-8-UB",
+    "801-24-002-0000-4-3-3-3-01-212-1-3-01003"
+   ],
+   "quantity": "1",
+   "price_usd": 1168.45,
+   "lead_time": null,
+   "sole_source_vendor": "Aguaworks Pipe & Supply, LLC",
+   "reason": "The following company has the sole source distribution and reselling rights for Kamstrup North American water products in the distribution area listed below",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Edinburg",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "IQ 3200",
+   "part": "1-1/2\" #3200 AMR/AMI FLG METER",
+   "part_numbers": [
+    "2915IQ3200",
+    "02-L-02-D-1-8F-8-UB",
+    "801-24-002-0000-4-3-3-3-01-212-1-3-01003"
+   ],
+   "quantity": "1",
+   "price_usd": 1027.0,
+   "lead_time": null,
+   "sole_source_vendor": "Aguaworks Pipe & Supply, LLC",
+   "reason": "The following company has the sole source distribution and reselling rights for Kamstrup North American water products in the distribution area listed below",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Edinburg",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "IQ 3200",
+   "part": "3\" IQ #3200 AMR/AMI FLG METER",
+   "part_numbers": [
+    "2930IQ3200",
+    "02-L-02-D-1-8K-8-UB",
+    "801-24-002-0000-4-3-3-3-01-200-1-3-01003"
+   ],
+   "quantity": "1",
+   "price_usd": 2186.5,
+   "lead_time": null,
+   "sole_source_vendor": "Aguaworks Pipe & Supply, LLC",
+   "reason": "The following company has the sole source distribution and reselling rights for Kamstrup North American water products in the distribution area listed below",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Edinburg",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "IQ 3200",
+   "part": "4\" IQ 3200 AMR/AMI FLG METER",
+   "part_numbers": [
+    "2940IQ3200",
+    "02-L-02-D-1-8P-8-UB",
+    "801-24-002-0000-4-3-3-3-01-200-1-3-01003"
+   ],
+   "quantity": "1",
+   "price_usd": 3129.98,
+   "lead_time": null,
+   "sole_source_vendor": "Aguaworks Pipe & Supply, LLC",
+   "reason": "The following company has the sole source distribution and reselling rights for Kamstrup North American water products in the distribution area listed below",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Edinburg",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "IQ 4200",
+   "part": "6\" IQ 4200 AMR/AMI WATER METER",
+   "part_numbers": [
+    "2960IQ4200",
+    "02-E-02-G-1-FR-8US2"
+   ],
+   "quantity": "1",
+   "price_usd": 5200.0,
+   "lead_time": null,
+   "sole_source_vendor": "Aguaworks Pipe & Supply, LLC",
+   "reason": "The following company has the sole source distribution and reselling rights for Kamstrup North American water products in the distribution area listed below",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Edinburg",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "IQ 4200",
+   "part": "8\" IQ 4200 AMR/AMI WATER METER",
+   "part_numbers": [
+    "2980IQ4200",
+    "02-E-02-G-1-GA-8US"
+   ],
+   "quantity": "1",
+   "price_usd": 7113.6,
+   "lead_time": null,
+   "sole_source_vendor": "Aguaworks Pipe & Supply, LLC",
+   "reason": "The following company has the sole source distribution and reselling rights for Kamstrup North American water products in the distribution area listed below",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Edinburg",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5800,
+  "out": 3054
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Allen Bradley/Rockwell Automation",
+   "model": null,
+   "part": "250HP Reuse Distribution Variable Frequency Drives (VFDs)",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": "10 to 12 weeks",
+   "sole_source_vendor": "Rexel USA, Inc.",
+   "reason": "Rexel USA, Inc. is sole source for Allen Bradley/Rockwell Automation",
+   "equipment_class": "motor/drive",
+   "installed_location": "DB Lee WR facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allen Bradley/Rockwell Automation",
+   "model": null,
+   "part": "200HP Aerator Variable Frequency Drive (VFD)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "10 to 12 weeks",
+   "sole_source_vendor": "Rexel USA, Inc.",
+   "reason": "Rexel USA, Inc. is sole source for Allen Bradley/Rockwell Automation",
+   "equipment_class": "motor/drive",
+   "installed_location": "DB Lee WR facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allen Bradley/Rockwell Automation",
+   "model": null,
+   "part": "250HP Deep Well Variable Frequency Drives (VFDs)",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": "10 to 12 weeks",
+   "sole_source_vendor": "Rexel USA, Inc.",
+   "reason": "Rexel USA, Inc. is sole source for Allen Bradley/Rockwell Automation",
+   "equipment_class": "motor/drive",
+   "installed_location": "Grant Street WR facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8751,
+  "out": 877
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,111 @@
+{
+ "records": [
+  {
+   "manufacturer": "THERN",
+   "model": "5PT10S316-M3",
+   "part": "SS CRANE WITH SPUR GEAR HAND WINCH",
+   "part_numbers": [
+    "5PT10S316-M3"
+   ],
+   "quantity": "14 EA",
+   "price_usd": 76446.16,
+   "lead_time": "75 days",
+   "sole_source_vendor": "W.W. Grainger Inc.",
+   "reason": "Quoted via Contract: Sourcewell \u2013 MRO #091422-WWG",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "THERN",
+   "model": "5BP10S316",
+   "part": "PEDASTAL BASE",
+   "part_numbers": [
+    "5BP10S316"
+   ],
+   "quantity": "14 EA",
+   "price_usd": 21283.22,
+   "lead_time": "75 days",
+   "sole_source_vendor": "W.W. Grainger Inc.",
+   "reason": "Quoted via Contract: Sourcewell \u2013 MRO #091422-WWG",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "THERN",
+   "model": "5PT10BRG-SS316",
+   "part": "ROLLER BALL BEARING FOR 5PT10 SERIES",
+   "part_numbers": [
+    "5PT10BRG-SS316"
+   ],
+   "quantity": "14 EA",
+   "price_usd": 15946.42,
+   "lead_time": "75 days",
+   "sole_source_vendor": "W.W. Grainger Inc.",
+   "reason": "Quoted via Contract: Sourcewell \u2013 MRO #091422-WWG",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "THERN",
+   "model": "5PT20S316-M3",
+   "part": "SS CRANE WITH SPUR GEAR HAND WINCH",
+   "part_numbers": [
+    "5PT20S316-M3"
+   ],
+   "quantity": "7 EA",
+   "price_usd": 58709.77,
+   "lead_time": "75 days",
+   "sole_source_vendor": "W.W. Grainger Inc.",
+   "reason": "Quoted via Contract: Sourcewell \u2013 MRO # 091422-WWG",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "THERN",
+   "model": "5BP20S316",
+   "part": "PEDASTAL BASE",
+   "part_numbers": [
+    "5BP20S316"
+   ],
+   "quantity": "7 EA",
+   "price_usd": 13474.23,
+   "lead_time": "75 days",
+   "sole_source_vendor": "W.W. Grainger Inc.",
+   "reason": "Quoted via Contract: Sourcewell \u2013 MRO # 091422-WWG",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "THERN",
+   "model": "5PT20BRG-SS316",
+   "part": "ROLLER BALL BEARING FOR 5PT20 SERIES",
+   "part_numbers": [
+    "5PT20BRG-SS316"
+   ],
+   "quantity": "7 EA",
+   "price_usd": 12305.93,
+   "lead_time": "75 days",
+   "sole_source_vendor": "W.W. Grainger Inc.",
+   "reason": "Quoted via Contract: Sourcewell \u2013 MRO # 091422-WWG",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8896,
+  "out": 1566
+ },
+ "model": "claude-sonnet-5"
+}

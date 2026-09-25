@@ -1,0 +1,73 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hoover Pumping Systems Corporation",
+   "model": null,
+   "part": "Hoover irrigation pump systems design, installation, service, repairs, and replacements",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 300000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hoover Pumping Systems Corporation",
+   "reason": "Hoover Pumping Systems is the only repair facility authorized and qualified to service its Pumping Systems. Work performed by other technicians may void Hoover's warranties of the systems.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hoover",
+   "model": "HCF-10PDV-230/3-HMR3L-E24-Z",
+   "part": "10 HP Single Centrifugal Variable Frequency Drive (VFD) Hoover-flow Pump Station replacement pump for station ID 3422",
+   "part_numbers": [
+    "HCF-10PDV-230/3-HMR3L-E24-Z"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hoover Pumping Systems",
+   "reason": "Hoover Pumping Systems' products are not available through any distribution network; but only directly from our factory in Pompano Beach, Florida.",
+   "equipment_class": "pump",
+   "installed_location": "Headquarters (North Regional) Library, station ID 3422",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hoover",
+   "model": null,
+   "part": "Flowguard remote monitoring and pump control software for irrigation pump stations",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hoover Pumping Systems",
+   "reason": "The Flowguard water management tool was developed and designed solely by Hoover. No other manufacturer offers a comparable product for real time and historical data along with integrated logic controls for optimal pump station functionality and efficiency.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hoover",
+   "model": null,
+   "part": "Fiberglass enclosed irrigation pump station (lake backup replacement, Site ID 6144)",
+   "part_numbers": [],
+   "quantity": "1.00 EA",
+   "price_usd": 98524.63,
+   "lead_time": null,
+   "sole_source_vendor": "Hoover Pumping Systems Corporation",
+   "reason": "Hoover Pumping Systems' products are not available through any distribution network; but only directly from our factory in Pompano Beach, Florida.",
+   "equipment_class": "pump",
+   "installed_location": "Collier County Government Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14294,
+  "out": 1135
+ },
+ "model": "claude-sonnet-5"
+}

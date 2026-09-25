@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "Badger Meter, Inc.",
+   "model": "Orion Cellular LTE Service Unit",
+   "part": "ORION CELLULAR LTE SERV UNIT",
+   "part_numbers": [
+    "68886-104"
+   ],
+   "quantity": "0.620",
+   "price_usd": 189791.92,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter, Inc.",
+   "model": "Beacon Mobile Hosting Service Unit",
+   "part": "BEACON MBL HOSTING SERV UNIT",
+   "part_numbers": [
+    "68886-301"
+   ],
+   "quantity": "0.030",
+   "price_usd": 71244.24,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter, Inc.",
+   "model": "Mobile Read Module Service Units",
+   "part": "MOBILE READ MODULE SERVICE UNITS",
+   "part_numbers": [
+    "68886-501"
+   ],
+   "quantity": "14",
+   "price_usd": 3966.62,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter, Inc.",
+   "model": "User Login Annual License Service Units",
+   "part": "USER LOGIN ANNUAL LICENSE SERVICE UNITS",
+   "part_numbers": [
+    "68886-502"
+   ],
+   "quantity": "394",
+   "price_usd": 11820.0,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7817,
+  "out": 1424
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Standard Cutaway and Minibus Chassis Type Transit Vehicles",
+   "part": "Purchase of Standard Cutaway Buses",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1500000.0,
+   "lead_time": "ninety (90) days from receipt of chassis or purchase order, whichever occurs last",
+   "sole_source_vendor": "Matthews Bus Alliance, Inc.",
+   "reason": "the terms and conditions of the Agreement can be used by the COUNTY without further negotiation and with only administrative changes",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Pasco County Public Transportation (GoPasco)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11552,
+  "out": 1064
+ },
+ "model": "claude-sonnet-5"
+}

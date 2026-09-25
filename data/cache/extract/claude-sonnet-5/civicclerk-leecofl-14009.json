@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Anatomage",
+   "model": "Anatomage Virtual Cadaver Table (Convertible)",
+   "part": "Anatomage Virtual Cadaver Table with 5 real-human cadavers, 1,500+ real-patient cases, Histology Slides, Prosections, 309 Animal CT/MRI, segmented Dog, Cat, Frog, Mouse, and Monkey",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 79500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Anatomage, Inc.",
+   "reason": "Anatomage, Inc is the only provider of this type of virtual dissection table which utilizes the imaging of real human cadavers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Lee County Medical Examiner's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Anatomage",
+   "model": "Anatomage Table Convertible",
+   "part": "4 Year Extended Warranty, Software Upgrade, Tech Support",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 21840.0,
+   "lead_time": null,
+   "sole_source_vendor": "Anatomage, Inc.",
+   "reason": "Anatomage, Inc is the only provider of this type of virtual dissection table which utilizes the imaging of real human cadavers.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Lee County Medical Examiner's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Anatomage",
+   "model": "Anatomage Table Convertible",
+   "part": "Shipping crate for the Table Convertible/Table Science",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 875.0,
+   "lead_time": null,
+   "sole_source_vendor": "Anatomage, Inc.",
+   "reason": "Anatomage, Inc is the only provider of this type of virtual dissection table which utilizes the imaging of real human cadavers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Lee County Medical Examiner's Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6534,
+  "out": 701
+ },
+ "model": "claude-sonnet-5"
+}

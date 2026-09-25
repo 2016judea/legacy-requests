@@ -1,0 +1,67 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens Industry, Inc.",
+   "model": "APOGEE",
+   "part": "County-Wide Energy Management System (APOGEE automated temperature control/building control system) - service, repair, upgrades, and expansion",
+   "part_numbers": [],
+   "quantity": "22 APOGEE installations",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Industry, Inc.",
+   "reason": "APOGEE software and hardware is only sold and supported through factory-owned offices of Siemens. No other third-party companies or distributors are authorized to service or install the APOGEE hardware and software systems.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Twenty-two (22) APOGEE installations throughout St. Lucie County facilities, centrally monitored at the Central Services Maintenance Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Willo Products Company",
+   "model": "EM, IEK, E1, E2, SD88, VH1, HP3",
+   "part": "Complete locking devices and component parts for the Willo EM, IEK, E1, E2, SD88, VH1, and HP3 locking devices",
+   "part_numbers": [
+    "EM",
+    "IEK",
+    "E1",
+    "E2",
+    "SD88",
+    "VH1",
+    "HP3"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Willo Products Company",
+   "reason": "The Willo EM, IEK, E1, E2, SD88m VH1, and HP3 Locking devices and component parts are manufactured solely by Willo Products Co. and are not available for purchase through any other entity.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "TriDim Filter Corporation",
+   "model": "Tri-Dek 15/40 3-Ply Panel and Link Filters",
+   "part": "HVAC air filtration products - custom-size panel filters",
+   "part_numbers": [
+    "Tri-Dek\u00ae 15/40 3-Ply Panel and Link Filters"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Carolina Filter Supply",
+   "reason": "Carolina Filter Supply, located in Stuart, FL, is a sole source provider for Tri-Dek\u00ae panel filters, a registered trademark of TriDim Filter Corporation.",
+   "equipment_class": "HVAC",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8480,
+  "out": 2171
+ },
+ "model": "claude-sonnet-5"
+}

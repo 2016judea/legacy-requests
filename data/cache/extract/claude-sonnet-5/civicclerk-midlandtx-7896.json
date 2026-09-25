@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Mifram Security",
+   "model": "MVB3X",
+   "part": "Mobile Vehicle Barrier System, including all certifications, designations, linked components, pivot/wheel/storage accessories, and integrated packages",
+   "part_numbers": [
+    "AST3X-48/48-240206-00"
+   ],
+   "quantity": "2",
+   "price_usd": 263538.0,
+   "lead_time": "8-10 weeks ARO",
+   "sole_source_vendor": "Advanced Security Technologies LLC",
+   "reason": "is only available for purchase through a sole-source provider",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6799,
+  "out": 217
+ },
+ "model": "claude-sonnet-5"
+}

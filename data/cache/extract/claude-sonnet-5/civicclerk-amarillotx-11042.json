@@ -1,0 +1,33 @@
+{
+ "records": [
+  {
+   "manufacturer": "Evoqua",
+   "model": "Zimpro Screw Pump",
+   "part": "ELP LOWER BRG ASSY LB800-38",
+   "part_numbers": [
+    "W3T479306",
+    "3200480802",
+    "32-4808-02"
+   ],
+   "quantity": "2",
+   "price_usd": 83914.52,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Improvements, Inc.",
+   "reason": "their components are proprietary to Evoqua, the exclusive manufacturer of Zimpro screw pump parts",
+   "equipment_class": "pump",
+   "installed_location": "Hollywood Wastewater Treatment Plant headworks building",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4465,
+  "out": 227
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,45 @@
+{
+ "records": [
+  {
+   "manufacturer": "Flygt",
+   "model": "NP-3127.060",
+   "part": "Flygt Model NP-3127.060 3\" volute Submersible pump equipped with 460V/3ph/60Hz 11 HP motor for lift station",
+   "part_numbers": [
+    "NP-3127.060"
+   ],
+   "quantity": "3",
+   "price_usd": 49001.04,
+   "lead_time": "Approx. 10-12 working weeks after receipt of order.",
+   "sole_source_vendor": "Xylem Water Solutions USA, Inc.",
+   "reason": "The above-named company or firm is the sole source of the following items and there are no other items available in the marketplace that have the same fit, form, and function of the items listed below: Flygt Pumps, mixers, service, and repair parts",
+   "equipment_class": "pump",
+   "installed_location": "Lakeside Ranch lift station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Flygt",
+   "model": null,
+   "part": "CONNECTION,DISCH 3X3\" CI - discharge connection for submersible pump",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 2101.28,
+   "lead_time": "Approx. 10-12 working weeks after receipt of order.",
+   "sole_source_vendor": "Xylem Water Solutions USA, Inc.",
+   "reason": "The above-named company or firm is the sole source of the following items and there are no other items available in the marketplace that have the same fit, form, and function of the items listed below: Flygt Pumps, mixers, service, and repair parts",
+   "equipment_class": "pump",
+   "installed_location": "Lakeside Ranch lift station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6212,
+  "out": 982
+ },
+ "model": "claude-sonnet-5"
+}

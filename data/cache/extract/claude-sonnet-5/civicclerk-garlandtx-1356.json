@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Mitsubishi Electric Power Products, Inc.",
+   "model": null,
+   "part": "As-needed circuit breakers for use in GP&L and TMPA substations",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 7000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mitsubishi Electric Power Products, Inc.",
+   "reason": "Sole Source based on Captive Replacement Parts/Components",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "GP&L and TMPA substations",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2553,
+  "out": 209
+ },
+ "model": "claude-sonnet-5"
+}

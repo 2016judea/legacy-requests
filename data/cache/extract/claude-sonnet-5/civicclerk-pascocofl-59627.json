@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Crane Pumps & Systems",
+   "model": "Barnes",
+   "part": "Pumps and Replacement Parts, Various Models/Part Numbers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 330000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Southeastern Pump",
+   "reason": "Southeastern Pump is Crane Pumps & Systems (CP&S) Sole Sourced Municipal Distributor for Pasco County.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7265,
+  "out": 200
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rotork",
+   "model": "Remote Hand Station",
+   "part": "Remote Hand Station Electric Intelligent Actuators for mounting at ground level to control backwash systems of GAC filters",
+   "part_numbers": [
+    "RHS/WT",
+    "MOD11N"
+   ],
+   "quantity": "32",
+   "price_usd": 106395.84,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Improvements, Inc.",
+   "reason": "The above-named company or firm is the sole source of the following items and there are no other items available in the marketplace that have the same fit, form, and function of the items listed below: Rotork Electric Actuators",
+   "equipment_class": "valve",
+   "installed_location": "groundwater treatment building",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6630,
+  "out": 250
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Schneider",
+   "model": "Modicon",
+   "part": "Modicon Programmable Logic Controller (PLC) hardware and installation for Carson County Pump Station",
+   "part_numbers": [],
+   "quantity": "1 ea",
+   "price_usd": 93750.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cain Electrical",
+   "reason": "Cain Electrical is the only local distributor of the Schneider products needed for the existing system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Carson County Pump Station",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "SQD",
+   "model": null,
+   "part": "SQD Recommended Spare Parts for Modicon PLC system",
+   "part_numbers": [],
+   "quantity": "1 ea",
+   "price_usd": 9752.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cain Electrical",
+   "reason": "Cain Electrical is the only local distributor of the Schneider products needed for the existing system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Carson County Pump Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3003,
+  "out": 472
+ },
+ "model": "claude-sonnet-5"
+}

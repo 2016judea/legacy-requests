@@ -1,0 +1,73 @@
+{
+ "records": [
+  {
+   "manufacturer": "Blue Star Power Systems",
+   "model": "JD200-01",
+   "part": "200KW Diesel Generator",
+   "part_numbers": [
+    "JD200-01",
+    "LV-III-AL-150-250",
+    "PMG",
+    "CD Extension"
+   ],
+   "quantity": "1",
+   "price_usd": 75427.0,
+   "lead_time": "40-46 Weeks (Contingent on component availability)",
+   "sole_source_vendor": "Mid Florida Diesel, Inc.",
+   "reason": "Replacing 3 existing generators and adding 1 new generator for the interest of public health and safety during power outages or emergency management situations.",
+   "equipment_class": "generator",
+   "installed_location": "LS Ivy Lakes",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Blue Star Power Systems",
+   "model": "JD300-02",
+   "part": "300KW Diesel Generator",
+   "part_numbers": [
+    "JD300-02",
+    "LV-III-AL-300-400",
+    "PMG",
+    "CD Extension"
+   ],
+   "quantity": "1",
+   "price_usd": 98599.0,
+   "lead_time": "40-46 Weeks (Contingent on component availability)",
+   "sole_source_vendor": "Mid Florida Diesel, Inc.",
+   "reason": "Replacing 3 existing generators and adding 1 new generator for the interest of public health and safety during power outages or emergency management situations.",
+   "equipment_class": "generator",
+   "installed_location": "LS 1-286 North Central",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Blue Star Power Systems",
+   "model": "VD500-01",
+   "part": "500KW Diesel Generator",
+   "part_numbers": [
+    "VD500-01",
+    "LV-III-AL-350-600",
+    "FL DEP Tank",
+    "PMG",
+    "CD Extension"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "40-46 Weeks (Contingent on component availability)",
+   "sole_source_vendor": "Mid Florida Diesel, Inc.",
+   "reason": "Replacing 3 existing generators and adding 1 new generator for the interest of public health and safety during power outages or emergency management situations.",
+   "equipment_class": "generator",
+   "installed_location": "LS 2-292 Sun Lake",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18374,
+  "out": 3459
+ },
+ "model": "claude-sonnet-5"
+}

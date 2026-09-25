@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "As-Needed Fire and Ambulance Apparatus, Equipment, Parts and Repair Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 75000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Matheny Motor Truck Company, Incorporated d/b/a Matheny Fire & Emergency",
+   "reason": "Matheny is the current vendor under contract which is set to expire at the end of FY26. Pasco County is looking to enter into a new contract beginning in FY27, as we currently has multiple pre-build orders with them scheduled for delivery over the next few years.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10425,
+  "out": 264
+ },
+ "model": "claude-sonnet-5"
+}

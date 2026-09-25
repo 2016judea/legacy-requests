@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Purchase of equipment and installation of an upgraded access control system (Phase II) at various City and Fire District facilities",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 429549,
+   "lead_time": null,
+   "sole_source_vendor": "ASSI Security",
+   "reason": "ASSI Security is uniquely positioned to offer the specialized support and seamless integration required to resolve these issues.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Various City and Fire District facilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Wireless card readers with integrated keypads (upgraded, compatible equipment for Fire District facilities)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 62100,
+   "lead_time": null,
+   "sole_source_vendor": "ASSI Security",
+   "reason": "it was discovered that the wireless card readers with integrated keypads have become obsolete and need to be upgraded to be compatible with the new system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fire District facilities",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6455,
+  "out": 724
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cooper",
+   "model": "Desert Storm Cabinets",
+   "part": "15KV distribution switchgear cabinets (Desert Storm Cabinets), replacement for failing unit in service",
+   "part_numbers": [
+    "KP01003640"
+   ],
+   "quantity": "4 EA",
+   "price_usd": 246670.52,
+   "lead_time": "40 WEEKS",
+   "sole_source_vendor": "Graybar Electric",
+   "reason": "Graybar Electric is the limited-source distributor for the currently used switchgear and is a known vendor that meets our specifications.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Power & Light Department - Transmission and Distribution Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7944,
+  "out": 247
+ },
+ "model": "claude-sonnet-5"
+}

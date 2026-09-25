@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Installation of an HVAC control system (server and communication hardware), and control upgrades for the AC units, hot water system, variable air volume boxes and exhaust fans",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 325550,
+   "lead_time": null,
+   "sole_source_vendor": "Western Allied Corporation",
+   "reason": "This company is already familiar with the existing HVAC system and can complete the work without further assessment.",
+   "equipment_class": "HVAC",
+   "installed_location": "Police Department Headquarters",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Zone heating and hot water valves replacement",
+   "part_numbers": [],
+   "quantity": "Up to 80",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Western Allied Corporation",
+   "reason": "This company is already familiar with the existing HVAC system and can complete the work without further assessment.",
+   "equipment_class": "valve",
+   "installed_location": "Police Department Headquarters",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11755,
+  "out": 1026
+ },
+ "model": "claude-sonnet-5"
+}

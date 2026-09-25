@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trench",
+   "model": "TEVF72.5",
+   "part": "Capacitor Voltage Transformer (CCVT) replacements, 69kV bus support",
+   "part_numbers": [
+    "TEVF72.5"
+   ],
+   "quantity": "12",
+   "price_usd": 128928.0,
+   "lead_time": "38-40 weeks",
+   "sole_source_vendor": "Trench Limited",
+   "reason": "Trench Limited is the limited-source distributor due to the Sub M 69kV bus height design of Trench CCVT\u2019s specifications currently in service.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Substation M",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10579,
+  "out": 226
+ },
+ "model": "claude-sonnet-5"
+}

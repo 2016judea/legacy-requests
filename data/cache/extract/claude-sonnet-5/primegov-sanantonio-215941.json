@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rotobec",
+   "model": "Grappler",
+   "part": "Cylinders (OEM part) for City-owned grapplers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Waste Systems Equipment, Inc.",
+   "reason": "This annual contract will provide Rotobec Grappler original equipment manufacturer (OEM) parts for the Solid Waste Management Department.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Solid Waste Management Department (SWMD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rotobec",
+   "model": "Grappler",
+   "part": "Seal kits (OEM part) for City-owned grapplers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Waste Systems Equipment, Inc.",
+   "reason": "These parts include cylinders, seal kits, and hydraulic motors which are essential for performing in-house repairs and maintaining City-owned grapplers used in daily operations.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Solid Waste Management Department (SWMD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rotobec",
+   "model": "Grappler",
+   "part": "Hydraulic motors (OEM part) for City-owned grapplers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Waste Systems Equipment, Inc.",
+   "reason": "These parts include cylinders, seal kits, and hydraulic motors which are essential for performing in-house repairs and maintaining City-owned grapplers used in daily operations.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Solid Waste Management Department (SWMD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rotobec USA, Inc",
+   "model": "Grappler Parts",
+   "part": "Rotobec Grappler Parts annual contract award",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 80000,
+   "lead_time": null,
+   "sole_source_vendor": "Waste Systems Equipment, Inc.",
+   "reason": "Waste Systems Equipment, Inc. Price List includes 45% upcharge",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Solid Waste Management Department (SWMD)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3624,
+  "out": 1721
+ },
+ "model": "claude-sonnet-5"
+}

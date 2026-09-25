@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "GE",
+   "model": "Frame 5LA",
+   "part": "Major offsite repair of J-2 substation combustion turbine rotor (disassembly, inspection, repair, assembly)",
+   "part_numbers": [],
+   "quantity": "1 rotor",
+   "price_usd": 425000.0,
+   "lead_time": "8 weeks excluding holidays",
+   "sole_source_vendor": "Allied Power Group",
+   "reason": "APG is a firm that is highly recommended by other local utilities.",
+   "equipment_class": "generator",
+   "installed_location": "J-2 substation, Independence Power & Light",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10044,
+  "out": 800
+ },
+ "model": "claude-sonnet-5"
+}

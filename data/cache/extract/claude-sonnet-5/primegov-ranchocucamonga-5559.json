@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "LION",
+   "model": null,
+   "part": "Six sets of firefighting turnout gear (coat and pant components)",
+   "part_numbers": [],
+   "quantity": "6 sets",
+   "price_usd": 25470,
+   "lead_time": null,
+   "sole_source_vendor": "AllStar Fire Equipment, Inc.",
+   "reason": "staff recommends utilizing another single source purchase with AllStar Fire Equipment, Inc. for the purchase of the additional LION brand turnout gear for current FY 2023-24.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3839,
+  "out": 209
+ },
+ "model": "claude-sonnet-5"
+}

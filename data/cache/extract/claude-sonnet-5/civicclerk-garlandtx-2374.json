@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Dis-Tran",
+   "model": null,
+   "part": "Packaged substation for the low side of the 138kV/12.5kV transformer at GP&L Ben Davis Substation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 501000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Keasler Sales, LLC",
+   "reason": "Keasler Sales, LLC is the Sole Source provider for the specified Dis-Tran packaged substation.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "GP&L Ben Davis Substation",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2548,
+  "out": 222
+ },
+ "model": "claude-sonnet-5"
+}

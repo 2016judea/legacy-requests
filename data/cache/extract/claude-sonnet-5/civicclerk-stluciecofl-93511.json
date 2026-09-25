@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Purchase, install, and update radios for all transit vehicles",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 386727.19,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "The hardware,software, and system design is proprietary; therefore, all other vendors that provide this type of service requires the agency to purchase their hardware and software.",
+   "equipment_class": "communications/radio",
+   "installed_location": "St. Lucie County Transit vehicles",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6057,
+  "out": 201
+ },
+ "model": "claude-sonnet-5"
+}

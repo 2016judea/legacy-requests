@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "KECO",
+   "model": null,
+   "part": "Dockside sanitary pump-out stations (replacement units) at Small Craft Harbor/Marina",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "KECO Pump and Equipment",
+   "reason": "KECO is the sole source manufacturer for these specific compatible replacement units.",
+   "equipment_class": "pump",
+   "installed_location": "Gulfport Small Craft Harbor/Marina",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4255,
+  "out": 193
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Chevrolet",
+   "model": "1/2 Ton Crew Cab SSV Pickup",
+   "part": "Purchase of 1/2 ton Crew Cab SSV Pickup for daily use in the OEM Department",
+   "part_numbers": [],
+   "quantity": "1 ea",
+   "price_usd": 50775.0,
+   "lead_time": null,
+   "sole_source_vendor": "Caldwell Country Chevrolet II LLC",
+   "reason": "This purchase will be on BuyBoard Contract # 724-23. Contract assures discounted governmental pricing and a quicker delivery schedule.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "OEM Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2909,
+  "out": 245
+ },
+ "model": "claude-sonnet-5"
+}

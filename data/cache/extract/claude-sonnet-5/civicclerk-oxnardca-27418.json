@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Programming, commissioning, and start-up of the new Water System SCADA system (integration services)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 237348.0,
+   "lead_time": null,
+   "sole_source_vendor": "Northern Digital, Inc.",
+   "reason": "A negotiated sole source contract is requested as NDI is the most reasonable source for this work due to their extensive involvement with the City\u2019s facilities, programming and control logic, ongoing coordination with the construction contractor, and professional liability as the City\u2019s on-call integrator.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Water Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9002,
+  "out": 810
+ },
+ "model": "claude-sonnet-5"
+}

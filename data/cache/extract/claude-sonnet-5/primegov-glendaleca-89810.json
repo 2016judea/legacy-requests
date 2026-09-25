@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Mitsubishi Electric",
+   "model": null,
+   "part": "Proprietary maintenance and repairs of Mitsubishi elevators at Police Building and Central Library",
+   "part_numbers": [],
+   "quantity": "2 elevators",
+   "price_usd": 200000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mitsubishi Electric US, Inc.",
+   "reason": "Mitsubishi elevators and its parts are proprietary equipment and Mitsubishi technicians are uniquely qualified to service Mitsubishi elevators and to work on Mitsubishi manufactured elevator parts",
+   "equipment_class": "other equipment",
+   "installed_location": "Police Building and Central Library",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Mitsubishi",
+   "model": null,
+   "part": "Door operator system for elevator at Police Building Parking Structure, added to Mitsubishi maintenance contract scope",
+   "part_numbers": [],
+   "quantity": "1 elevator door operator system",
+   "price_usd": 50000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mitsubishi Electric US, Inc.",
+   "reason": "Since AZ Tech is unable to procure Mitsubishi parts, they proposed to replace the system with a non-OEM product.",
+   "equipment_class": "other equipment",
+   "installed_location": "Police Building Parking Structure",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8285,
+  "out": 744
+ },
+ "model": "claude-sonnet-5"
+}

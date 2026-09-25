@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Badger Meter",
+   "model": null,
+   "part": "AMI meters, AMI Fire Service Assembly Meters, Registers, Endpoints (cellular communication devices), and Endpoint Guard Kits",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1701739.29,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "using any other AMI software besides Badger Meter increases the risk of losing communication services and is costly for the City",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8215,
+  "out": 604
+ },
+ "model": "claude-sonnet-5"
+}

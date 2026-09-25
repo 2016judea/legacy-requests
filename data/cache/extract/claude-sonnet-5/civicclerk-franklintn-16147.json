@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Microsoft",
+   "model": null,
+   "part": "Unified (Premier) Services Support & Technical Account Manager",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 87420.0,
+   "lead_time": null,
+   "sole_source_vendor": "Microsoft",
+   "reason": "Our Purchasing Dept. has advised this is a Sole-Source Purchase.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2445,
+  "out": 171
+ },
+ "model": "claude-sonnet-5"
+}

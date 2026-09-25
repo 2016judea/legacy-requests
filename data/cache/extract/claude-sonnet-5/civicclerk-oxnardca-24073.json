@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "On-call stationary generator maintenance and minor repair services (PMCS, load bank testing, unscheduled repairs) for City-owned generators",
+   "part_numbers": [],
+   "quantity": "27",
+   "price_usd": 420000,
+   "lead_time": null,
+   "sole_source_vendor": "Quinn Company dba. Quinn Power Systems",
+   "reason": "The City received zero responsive bids. Following City purchasing policies for requirements to secure a Sole Source Agreement, City staff obtained pricing from Quinn.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "various locations throughout the City (water, wastewater, fire, and police divisions)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9647,
+  "out": 404
+ },
+ "model": "claude-sonnet-5"
+}

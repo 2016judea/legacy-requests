@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "908 Devices",
+   "model": "XplorIR",
+   "part": "XplorIR handheld FT-IR Spectrometer Unit (HazMat Meter)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 62600.0,
+   "lead_time": null,
+   "sole_source_vendor": "908 Devices",
+   "reason": "Sole-source procurements, where the proposed purchase is manufactured by only one company or where a sole company's product offers proprietary features or technology necessary for the City's requirements.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "152 Fire Rescue",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2374,
+  "out": 501
+ },
+ "model": "claude-sonnet-5"
+}

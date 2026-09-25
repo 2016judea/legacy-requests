@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Veolia WTS Services USA, Inc.",
+   "model": null,
+   "part": "Repair parts and replacement equipment for the Influent Climber Screens (mechanical bar screens)",
+   "part_numbers": [],
+   "quantity": "5 climber screens",
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": "Veolia WTS Services USA, Inc.",
+   "reason": "Veolia WTS Services USA Inc. is the original equipment manufacturer and sole provider of repair parts and replacement equipment for the climber units.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Dry Creek Wastewater Treatment Plant and Pleasant Grove Wastewater Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4157,
+  "out": 283
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Equipment related to a conventional analog UHF/VHF radio system upgrade, inclusive of communications equipment and services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1172026,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "the City's over 30-year-old analog radio system is no longer supported by Motorola Solutions, Inc.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Citywide",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9370,
+  "out": 202
+ },
+ "model": "claude-sonnet-5"
+}

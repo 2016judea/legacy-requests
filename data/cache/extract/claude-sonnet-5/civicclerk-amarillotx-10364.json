@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Two replacement blowers for landfill flare gas collection and control system",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Parnel Biogas Inc",
+   "reason": "This purchase qualifies for sole source due to proprietary factors with our existing equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "City of Amarillo Landfill Flare",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Expansion boots (5\u201d and 6\u201d)",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Parnel Biogas Inc",
+   "reason": "This purchase qualifies for sole source due to proprietary factors with our existing equipment.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "City of Amarillo Landfill Flare",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rental of a temporary blower to maintain TCEQ compliance during replacement",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Parnel Biogas Inc",
+   "reason": "Due to the long lead time for the replacement blowers, it is necessary to install a temporary blower to be in compliance with the landfill's TCEQ permit until the replacement blowers are installed.",
+   "equipment_class": "other equipment",
+   "installed_location": "City of Amarillo Landfill Flare",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12070,
+  "out": 1620
+ },
+ "model": "claude-sonnet-5"
+}

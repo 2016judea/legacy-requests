@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Powell Industries",
+   "model": "PowerVac",
+   "part": "Additional 15kV switchgear section (line-up) with vacuum circuit breakers added onto existing 15kV switchgear at RPEAK",
+   "part_numbers": [],
+   "quantity": "1 section/line-up",
+   "price_usd": 186030,
+   "lead_time": null,
+   "sole_source_vendor": "Powell Industries",
+   "reason": "Powell is the original equipment manufacturer (OEM) of the existing 15KV switchgear at the RPEAK site and is the only company who can supply the equipment needed to perform the necessary modification in order to assure proper fitment, function, safety and maintain associated warranties.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Roseville Peaker Plant (RPEAK)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric",
+   "model": "TM2500",
+   "part": "Evaporative coolers and natural gas compression installation on generators to improve efficiency",
+   "part_numbers": [],
+   "quantity": "2 generators",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The installation of natural gas compression will increase the pressure of the incoming natural gas from the local distribution system to the pressure the TM2500 generators were designed to run at for full nameplate capability.",
+   "equipment_class": "generator",
+   "installed_location": "Roseville State Power Augmentation Project, 5120 Phillip Road, Roseville, CA",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5432,
+  "out": 513
+ },
+ "model": "claude-sonnet-5"
+}

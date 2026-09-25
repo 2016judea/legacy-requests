@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Komline Sanderson",
+   "model": null,
+   "part": "Belt press replacement rollers to replace end-of-life parts currently being used",
+   "part_numbers": [],
+   "quantity": "1 ea",
+   "price_usd": 50741.0,
+   "lead_time": null,
+   "sole_source_vendor": "Komline Sanderson",
+   "reason": "Komline Sanderson are the Original Equipment Manufacturer (OEM) of the needed rollers. Komline has no authorized parts distributions, thereby, are the sole source of genuine replacement parts for the belt press.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Hollywood Wastewater Treatment Plant",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2953,
+  "out": 260
+ },
+ "model": "claude-sonnet-5"
+}

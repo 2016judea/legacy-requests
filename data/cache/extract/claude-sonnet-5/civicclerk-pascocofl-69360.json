@@ -1,0 +1,112 @@
+{
+ "records": [
+  {
+   "manufacturer": "Badger Meter",
+   "model": "Orion",
+   "part": "Orion Cellular LTE Service Unit",
+   "part_numbers": [
+    "68886-104"
+   ],
+   "quantity": "324000",
+   "price_usd": 200880.0,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Beacon Mobile License, Beacon Mobile Read User Service Units, Beacon Mobile Hosting Service Units, and Orion Cellular LTE Service Units",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "Beacon",
+   "part": "Beacon Mobile Hosting Service Unit",
+   "part_numbers": [
+    "68886-301"
+   ],
+   "quantity": "2100000",
+   "price_usd": 63000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Beacon Mobile License, Beacon Mobile Read User Service Units, Beacon Mobile Hosting Service Units, and Orion Cellular LTE Service Units",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "Beacon",
+   "part": "Mobile Read Module Service Units",
+   "part_numbers": [
+    "68886-501"
+   ],
+   "quantity": "12",
+   "price_usd": 3399.96,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Beacon Mobile License, Beacon Mobile Read User Service Units, Beacon Mobile Hosting Service Units, and Orion Cellular LTE Service Units",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "Beacon",
+   "part": "User Login Annual License Service Units",
+   "part_numbers": [
+    "68886-502"
+   ],
+   "quantity": "264",
+   "price_usd": 7920.0,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Beacon Mobile License, Beacon Mobile Read User Service Units, Beacon Mobile Hosting Service Units, and Orion Cellular LTE Service Units",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MB-A5-RM-XX",
+   "part": "Mobile Data Collect, Access 4 CE/ME MISR, CE/ME Recvr kit 4 MISR",
+   "part_numbers": [
+    "112-7742",
+    "MB-A5-RM-XX"
+   ],
+   "quantity": "5",
+   "price_usd": 60913.7,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Beacon Mobile License, Beacon Mobile Read User Service Units, Beacon Mobile Hosting Service Units, and Orion Cellular LTE Service Units",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": null,
+   "part": "IR Communication Device Kit - LTE",
+   "part_numbers": [
+    "68891-001"
+   ],
+   "quantity": "12",
+   "price_usd": 1458.48,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Beacon Mobile License, Beacon Mobile Read User Service Units, Beacon Mobile Hosting Service Units, and Orion Cellular LTE Service Units",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12122,
+  "out": 3075
+ },
+ "model": "claude-sonnet-5"
+}

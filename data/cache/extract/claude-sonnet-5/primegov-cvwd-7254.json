@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vaughan",
+   "model": "S8N",
+   "part": "Vaughan Submersible Chopper Pump for Lift Station No. 81-01",
+   "part_numbers": [
+    "S8N"
+   ],
+   "quantity": "1",
+   "price_usd": 117631.63,
+   "lead_time": "18 - 20 WEEKS",
+   "sole_source_vendor": "Rockwell Engineering & Equipment",
+   "reason": "Rockwell Engineering & Equipment is the exclusive sole source provider/vendor for southern California.",
+   "equipment_class": "pump",
+   "installed_location": "Lift Station No. 81-01",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7707,
+  "out": 213
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Caterpillar",
+   "model": "836K",
+   "part": "Caterpillar Certified Powertrain and Hydraulic System Rebuild for the County-owned Caterpillar 836K Compactor",
+   "part_numbers": [
+    "63817"
+   ],
+   "quantity": "1",
+   "price_usd": 853717.28,
+   "lead_time": null,
+   "sole_source_vendor": "Thompson Tractor Company, Inc.",
+   "reason": "Purchasing a CAT Certified Rebuild (CCR) is recommended over a new unit due to significant cost savings ($853,717 vs $1.39M for new).",
+   "equipment_class": "other equipment",
+   "installed_location": "Perdido Landfill",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11160,
+  "out": 241
+ },
+ "model": "claude-sonnet-5"
+}

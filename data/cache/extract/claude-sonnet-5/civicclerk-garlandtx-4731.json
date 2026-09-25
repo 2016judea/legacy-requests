@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pascor Atlantic, Inc.",
+   "model": null,
+   "part": "Disconnect switches and associated hardware for GP&L Newman Substation Expansion CIP project",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 913501.6,
+   "lead_time": null,
+   "sole_source_vendor": "Pascor Atlantic, Inc.",
+   "reason": "Pastor Atlantic, Inc. is the manufacturer and Sole Source provider of the specified disconnect switches and associated hardware.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "GP&L Newman Substation",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2526,
+  "out": 231
+ },
+ "model": "claude-sonnet-5"
+}

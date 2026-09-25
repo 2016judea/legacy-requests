@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pierce Manufacturing, Inc.",
+   "model": "Pierce Enforcer, 100' Mid-Mount Aerial Platform",
+   "part": "Purchase of a 100' Pierce Enforcer Mid-Mount Aerial Platform (Quint Fire Apparatus)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 2351312.0,
+   "lead_time": null,
+   "sole_source_vendor": "Siddons-Martin Emergency Group",
+   "reason": "SINGLE SOURCE MANUFACTURER Pierce Manufacturing, Inc. provides an integrated approach to the design and manufacture of our products that delivers superior apparatus and a dedicated support team.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Central Fire Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 16313,
+  "out": 1030
+ },
+ "model": "claude-sonnet-5"
+}

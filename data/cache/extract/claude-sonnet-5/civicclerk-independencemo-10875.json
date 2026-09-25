@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "GE Vernova",
+   "model": null,
+   "part": "Stage-1 (stg-1) turbine buckets that were slated to be replaced due to bearing misalignment damage",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GE Vernova",
+   "reason": "GE Vernova, the original equipment manufacturer and sole source provider.",
+   "equipment_class": "generator",
+   "installed_location": "J-2 substation combustion turbine",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GE Vernova",
+   "model": null,
+   "part": "Stage-2 (stg-2) turbine buckets discovered damaged and being repaired",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GE Vernova",
+   "reason": "GE Vernova, the original equipment manufacturer and sole source provider.",
+   "equipment_class": "generator",
+   "installed_location": "J-2 substation combustion turbine",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GE Vernova",
+   "model": null,
+   "part": "Bearing alignment including onsite assembly, bolting up and disassembly of the turbine case and bearing covers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GE Vernova",
+   "reason": "A bearing alignment will include onsite assembly, bolting up and disassembly of the turbine case and bearing covers by a specialized group from GE Vernova, the original equipment manufacturer and sole source provider.",
+   "equipment_class": "generator",
+   "installed_location": "J-2 substation combustion turbine",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Crane service for alignment and reassembly of the J-2 substation combustion turbine (setup 80 Ton and 100 Ton cranes, hoisting, rotor install assistance)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 95101,
+   "lead_time": null,
+   "sole_source_vendor": "Belger Cartage Service",
+   "reason": "Belger Cartage is a preferred vendor with a current price agreement.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "J-2 substation",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9447,
+  "out": 1770
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": "APX 8000",
+   "part": "Handheld radios and miscellaneous related equipment (Phase Two completion purchase)",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": 28390,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "The radios issued as part of this re-banding are exclusively Motorola. The County of San Bernardino Information Services Department (ISD) is the administrator of this program. The Fire District has a contract with the County (ISD) for Monthly radio access and maintenance. County ISD solely maintains and programs Motorola radios.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Rancho Cucamonga Fire District",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4005,
+  "out": 272
+ },
+ "model": "claude-sonnet-5"
+}

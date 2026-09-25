@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Mako",
+   "model": null,
+   "part": "Make Air Compressors for new fire stations and fire training building",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Great Lakes Breathing Air LLC",
+   "reason": "Only authorized dealer in the state of Michigan",
+   "equipment_class": "other equipment",
+   "installed_location": "new fire stations and fire training building",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Mako",
+   "model": null,
+   "part": "Breathing air compressor to replace aging units, two of three current compressors are 30+ years old",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Great Lakes Breathing Air",
+   "reason": "Only authorized dealer that can perform service for the 5-year warranty to be valid",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6102,
+  "out": 333
+ },
+ "model": "claude-sonnet-5"
+}

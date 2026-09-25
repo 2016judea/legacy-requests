@@ -1,0 +1,151 @@
+{
+ "records": [
+  {
+   "manufacturer": "BECS Technology Inc",
+   "model": "BECSys Controller line",
+   "part": "Chemical controllers, parts, and service for pool chemical control systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Commercial Energy Specialists, LLC",
+   "reason": "BECS Technologies distributes its BECSys systems through a network of regional partners. In Florida and the Caribbean region, Commercial Energy Specialists, LLC is the exclusive authorized provider for sales, service, and warranty administration.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Golden Gate Community Park, Sun-N-Fun Lagoon, Eagles Lakes Community Park, Big Corkscrew Island Regional Park and the Immokalee Sports Complex",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BECS Technologies",
+   "model": "BECSys7 Chemical Controller",
+   "part": "Upgrade to BECSys7 chemical controller system",
+   "part_numbers": [
+    "BECSys7"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Commercial Energy Specialists, LLC",
+   "reason": "in 2014, the Immokalee Sports Complex was upgraded to the BECSys7 Chemical Controller system.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Immokalee Sports Complex",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BECS Technologies",
+   "model": "Stranco-Strantrol System",
+   "part": "Original aquatic chemical controller system, discontinued and superseded",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Commercial Energy Specialists, LLC",
+   "reason": "In 2005, BECS Technologies discontinued the supply of aquatic controllers and replacement parts through Stranco-Strantrol and introduced the BECSys line of aquatic controllers.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Sun-N-Fun Lagoon Water Park at North Collier Regional Park",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Neptune-Benson, a Xylem Company",
+   "model": "Defender Regenerative Media Filter and Wafer UV",
+   "part": "Regenerative media filter and UV disinfection system for pool purification",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Commercial Energy Specialists, LLC",
+   "reason": "Commercial Energy Specialists is the exclusive authorized provider for sales, service, and warranty administration for all of the above-listed manufacturers within the Florida region.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hexagone Manufacture SASU",
+   "model": "Enduro-TurboClean",
+   "part": "Pool vacuum system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Commercial Energy Specialists, LLC",
+   "reason": "Commercial Energy Specialists is the exclusive authorized provider for sales, service, and warranty administration for all of the above-listed manufacturers within the Florida region.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Yaskawa America Inc.",
+   "model": "Precision Control PFD Motor Control VFD, iQPump, P1000/V1000",
+   "part": "Variable frequency drives (VFDs) for filter control",
+   "part_numbers": [
+    "P1000",
+    "V1000"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Commercial Energy Specialists, LLC",
+   "reason": "Commercial Energy Specialists is the exclusive authorized provider for sales, service, and warranty administration for all of the above-listed manufacturers within the Florida region.",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "EPD USA Inc.",
+   "model": null,
+   "part": "Media filtration systems for commercial pools",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Commercial Energy Specialists, LLC",
+   "reason": "There are others, but they do not offer 100 psi pressure rating that is preferred in a commercial/industrial setting.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fluidra USA",
+   "model": "Commercial Pool AMF, Poltank, EKO3, and Aster filter systems",
+   "part": "Commercial pool filters",
+   "part_numbers": [
+    "AMF",
+    "Poltank",
+    "EKO3",
+    "Aster"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Commercial Energy Specialists, LLC",
+   "reason": "There are others, but they do not offer 100 psi pressure rating that is preferred in a commercial/industrial setting.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "EKO3 Systems",
+   "model": null,
+   "part": "Diaphragm backwash valves, pool filtration systems, chemical feed systems, and vacuums",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Commercial Energy Specialists, LLC",
+   "reason": "There are others, but they do not offer 100 psi pressure rating that is preferred in a commercial/industrial setting.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 16580,
+  "out": 6196
+ },
+ "model": "claude-sonnet-5"
+}

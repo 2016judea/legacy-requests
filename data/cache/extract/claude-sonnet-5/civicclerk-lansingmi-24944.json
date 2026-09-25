@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rotork",
+   "model": "IQTM1000-FA12",
+   "part": "Slide-gate actuators for South Aeration Air Flow Control valve",
+   "part_numbers": [
+    "IQTM1000-FA12"
+   ],
+   "quantity": "3",
+   "price_usd": 32655.0,
+   "lead_time": "6-8 weeks ARO",
+   "sole_source_vendor": "System Specialties",
+   "reason": "Systems Specialties, the sole source Agent/Distributor for Rotork Controls, Inc. in the State of Michigan for the Municipal Water and Wastewater Market.",
+   "equipment_class": "valve",
+   "installed_location": "South Aeration Tanks, Lansing WWTP",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5897,
+  "out": 243
+ },
+ "model": "claude-sonnet-5"
+}

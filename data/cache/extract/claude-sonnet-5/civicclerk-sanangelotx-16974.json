@@ -1,0 +1,143 @@
+{
+ "records": [
+  {
+   "manufacturer": "Neptune",
+   "model": "MACH10 GAL R900i V5",
+   "part": "5/8X3/4 MACH10 GAL R900I V5 6' ANT water meter",
+   "part_numbers": [
+    "EU1B5G1SG89"
+   ],
+   "quantity": "7072",
+   "price_usd": 2404480.0,
+   "lead_time": null,
+   "sole_source_vendor": "Core & Main, Inc.",
+   "reason": "Consider approving the sole source purchase of water meters from Core & Main, Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Neptune",
+   "model": "MACH10 GAL R900i V5",
+   "part": "1 MACH10 GAL R900I V5 W/6' ANTENNA water meter",
+   "part_numbers": [
+    "EU1F5G1S2423"
+   ],
+   "quantity": "802",
+   "price_usd": 344860.0,
+   "lead_time": null,
+   "sole_source_vendor": "Core & Main, Inc.",
+   "reason": "Consider approving the sole source purchase of water meters from Core & Main, Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Neptune",
+   "model": "MACH10 FLG GAL R900i V5",
+   "part": "2X10 MACH10 FLG GAL R900I V5 W/6' ANT water meter",
+   "part_numbers": [
+    "EU2F5G1SG89"
+   ],
+   "quantity": "1000",
+   "price_usd": 1075000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Core & Main, Inc.",
+   "reason": "Consider approving the sole source purchase of water meters from Core & Main, Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Neptune",
+   "model": "MACH10 FLG GAL R900i V5",
+   "part": "2X15-1/4 MACH10 FLG GAL R900I V5 W/6' ANT water meter",
+   "part_numbers": [
+    "EU2G5G1SG89"
+   ],
+   "quantity": "91",
+   "price_usd": 97825.0,
+   "lead_time": null,
+   "sole_source_vendor": "Core & Main, Inc.",
+   "reason": "Consider approving the sole source purchase of water meters from Core & Main, Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Neptune",
+   "model": "MACH10 R900i V4 USG",
+   "part": "3X12 MACH10 R900I V4 USG W/20' ANT water meter",
+   "part_numbers": [
+    "EU3A2G1SG90"
+   ],
+   "quantity": "61",
+   "price_usd": 186050.0,
+   "lead_time": null,
+   "sole_source_vendor": "Core & Main, Inc.",
+   "reason": "Consider approving the sole source purchase of water meters from Core & Main, Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Neptune",
+   "model": "MACH10 R900i V5 USG",
+   "part": "4X14 MACH10 R900I V5 USG W/20' ANT water meter",
+   "part_numbers": [
+    "EU3C5G1SG90"
+   ],
+   "quantity": "31",
+   "price_usd": 115785.0,
+   "lead_time": null,
+   "sole_source_vendor": "Core & Main, Inc.",
+   "reason": "Consider approving the sole source purchase of water meters from Core & Main, Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Neptune",
+   "model": "MACH10 R900i V5 CF",
+   "part": "4X20 MACH10 R900I V5 CF W/20' ANT water meter",
+   "part_numbers": [
+    "EU3D5F1SG90"
+   ],
+   "quantity": "10",
+   "price_usd": 38340.0,
+   "lead_time": null,
+   "sole_source_vendor": "Core & Main, Inc.",
+   "reason": "Consider approving the sole source purchase of water meters from Core & Main, Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Neptune",
+   "model": "MACH10 R900i V4 USG",
+   "part": "6X18 MACH10 R900I V4 USG W/20' ANT water meter",
+   "part_numbers": [
+    "EU3E2G1SG90"
+   ],
+   "quantity": "6",
+   "price_usd": 37656.0,
+   "lead_time": null,
+   "sole_source_vendor": "Core & Main, Inc.",
+   "reason": "Consider approving the sole source purchase of water meters from Core & Main, Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4935,
+  "out": 2331
+ },
+ "model": "claude-sonnet-5"
+}

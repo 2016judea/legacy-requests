@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "iSTAR",
+   "part": "iSTAR security panel upgrade kits (I-tools upgrade kits) to replace airport terminal's security panel boards",
+   "part_numbers": [],
+   "quantity": "7",
+   "price_usd": 79384.0,
+   "lead_time": null,
+   "sole_source_vendor": "Firetrol Protection Systems",
+   "reason": "security panel boards that are beyond end of life and no longer supported by the manufacturer",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Airport terminal",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2780,
+  "out": 200
+ },
+ "model": "claude-sonnet-5"
+}

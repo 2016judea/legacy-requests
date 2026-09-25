@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": "Minsait ACS",
+   "model": "PRISM SCADA platform",
+   "part": "SCADA system hardware and software components (servers, RTUs, communication nodes, network hardware, operating software)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1000000,
+   "lead_time": null,
+   "sole_source_vendor": "Minsait Advanced Control Systems (ACS)",
+   "reason": "Due to the proprietary nature of the system, third-party vendors cannot provide compatible components or support without significant operational and cybersecurity risk.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City's electric, water, and gas substations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Minsait ACS",
+   "model": null,
+   "part": "SCADA System Software Licensing and Support (5-year contract, basic and additional services)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 439450,
+   "lead_time": "5 years",
+   "sole_source_vendor": "Minsait Advanced Control Systems (ACS)",
+   "reason": "ACS has been the sole provider of the City's SCADA system since 1997.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Utility Control Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Minsait ACS",
+   "model": null,
+   "part": "New reporting app for operational intelligence",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Minsait Advanced Control Systems (ACS)",
+   "reason": "Due to the proprietary nature of the system, third-party vendors cannot provide compatible components or support without significant operational and cybersecurity risk.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Minsait ACS",
+   "model": null,
+   "part": "Firewall intrusion detection system upgrades",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Minsait Advanced Control Systems (ACS)",
+   "reason": "Due to the proprietary nature of the system, third-party vendors cannot provide compatible components or support without significant operational and cybersecurity risk.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Minsait ACS",
+   "model": null,
+   "part": "Proxy server and patch management updates",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Minsait Advanced Control Systems (ACS)",
+   "reason": "Due to the proprietary nature of the system, third-party vendors cannot provide compatible components or support without significant operational and cybersecurity risk.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Minsait ACS",
+   "model": "RTU",
+   "part": "RTU replacements and upgrades at substations",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Minsait Advanced Control Systems (ACS)",
+   "reason": "Due to the proprietary nature of the system, third-party vendors cannot provide compatible components or support without significant operational and cybersecurity risk.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "substations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Minsait ACS",
+   "model": null,
+   "part": "Two-factor authentication security enhancements",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Minsait Advanced Control Systems (ACS)",
+   "reason": "Due to the proprietary nature of the system, third-party vendors cannot provide compatible components or support without significant operational and cybersecurity risk.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Minsait ACS",
+   "model": null,
+   "part": "Backup server provisioning for operational resiliency",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Minsait Advanced Control Systems (ACS)",
+   "reason": "Due to the proprietary nature of the system, third-party vendors cannot provide compatible components or support without significant operational and cybersecurity risk.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10788,
+  "out": 2437
+ },
+ "model": "claude-sonnet-5"
+}

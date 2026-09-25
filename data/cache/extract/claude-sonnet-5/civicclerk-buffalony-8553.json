@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Berla",
+   "model": "iVe Toolkit",
+   "part": "iVe Toolkit software for maintenance, repair, and replacement parts, used by CCU detectives for intimate partner violence cases",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Berla Corporation",
+   "reason": "The iVe Toolkit is developed and manufactured solely by Berla and the Corporation is the sole source provider for maintenance, repair, and replacement parts.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3999,
+  "out": 222
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,107 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": "APX 8000 Series APX8000XE",
+   "part": "Portable radio APX 8000 all band model 3.5 with digital operation, trunking, rugged housing, encryption, OTAR and OTAP options",
+   "part_numbers": [
+    "H91TGD9PW7AN",
+    "Q806CB",
+    "Q361AN",
+    "QA02006AC",
+    "QA05509AA",
+    "H38BS",
+    "Q629AH",
+    "QA05100AA",
+    "QA01427AG",
+    "Q498AU",
+    "QA09113AB",
+    "G996AP",
+    "QA05508AA"
+   ],
+   "quantity": "18",
+   "price_usd": 113674.14,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "The radios issued as part of this re-banding are exclusively Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire District\u2019s wildland apparatus",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "IMPRES 2 Li-Ion",
+   "part": "Portable radio battery IMPRES 2 Li-Ion UL2054 DIV2 R IP68 3400T",
+   "part_numbers": [
+    "PMNN4504A"
+   ],
+   "quantity": "18",
+   "price_usd": 3222.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "County ISD solely maintains and programs Motorola radios.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "RSM XE500",
+   "part": "Portable RSM XE500 Green, IP68, No Knob",
+   "part_numbers": [
+    "PMMN4107C"
+   ],
+   "quantity": "18",
+   "price_usd": 8357.04,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "County ISD solely maintains and programs Motorola radios.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "IMPRES 2",
+   "part": "Charger, single-unit, IMPRES 2, 3A, 115VAC, US/NA",
+   "part_numbers": [
+    "NNTN8860B"
+   ],
+   "quantity": "10",
+   "price_usd": 1456.8,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "County ISD solely maintains and programs Motorola radios.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "IMPRES 2",
+   "part": "Charger, desktop multi unit 6 w/display, IMPRES 2 US",
+   "part_numbers": [
+    "NNTN8844B"
+   ],
+   "quantity": "1",
+   "price_usd": 1331.93,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "County ISD solely maintains and programs Motorola radios.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5916,
+  "out": 2074
+ },
+ "model": "claude-sonnet-5"
+}

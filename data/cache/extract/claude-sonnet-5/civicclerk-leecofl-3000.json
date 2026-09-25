@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "BECS Technology",
+   "model": "BECSys Controller",
+   "part": "Diagnostic, support, service, repair, parts, and replacement of BECS controllers",
+   "part_numbers": [
+    "BECSys7",
+    "BECSys5",
+    "BECSys3",
+    "BECSys2"
+   ],
+   "quantity": "12",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Commercial Energy Specialists, Inc.",
+   "reason": "Commercial Energy Specialists, Inc. is the sole source for BECS Technology in Florida and the Caribbean",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Lee County Parks and Recreation aquatic facilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Yaskawa",
+   "model": "Precision Control PFD Motor Control VFD (MCC-VFD)",
+   "part": "Diagnostic, support, service, repair, parts, and replacement of Yaskawa variable frequency drives (VFD)",
+   "part_numbers": [
+    "iQPUMP",
+    "P1000N1000"
+   ],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Commercial Energy Specialists, Inc.",
+   "reason": "CES - Commercial Energy Specialists is our only authorized distributor serving the recreational and entertainment water industry with complete solutions using the Precision Control PFD Motor Control VFD (MCC-VFD) line",
+   "equipment_class": "motor/drive",
+   "installed_location": "Lee County Parks and Recreation aquatic facilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ChlorKing",
+   "model": "NEXGEN",
+   "part": "Diagnostic, support, service, repair, parts, and replacement of ChlorKing NEXGEN on-site salt generators",
+   "part_numbers": [],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Commercial Energy Specialists, Inc.",
+   "reason": "ChlorKing Inc. has appointed Commercial Energy Specialists out of Jupiter, Florida, as the sole distributor for our products in the State of Florida.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Lee County Parks and Recreation aquatic facilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ChlorKing",
+   "model": "SENTRY",
+   "part": "Diagnostic, support, service, repair, parts, and replacement of SENTRY ultraviolet systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Commercial Energy Specialists, Inc.",
+   "reason": "ChlorKing Inc. has appointed Commercial Energy Specialists out of Jupiter, Florida, as the sole distributor for our products in the State of Florida.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Lee County Parks and Recreation aquatic facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8004,
+  "out": 1948
+ },
+ "model": "claude-sonnet-5"
+}

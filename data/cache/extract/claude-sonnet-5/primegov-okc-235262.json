@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "IDEXX Laboratories, Inc.",
+   "model": null,
+   "part": "Sole source purchase of IDEXX laboratory products for water quality testing (reagents, test kits, incubators, sealers, vessels, and related instrumentation)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 125000,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Distribution, Inc.",
+   "reason": "IDEXX is considered a sole source vendor because there are no other equivalent products on the market, and IDEXX does not sell its products for environmental testing in the United States through third-party vendors.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Hefner Water Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12117,
+  "out": 1505
+ },
+ "model": "claude-sonnet-5"
+}

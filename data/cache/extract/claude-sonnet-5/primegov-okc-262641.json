@@ -1,0 +1,159 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kusch+Co GmbH",
+   "model": "VTRAVEL BENCH 3U",
+   "part": "Hold room bench seating, Gate 20 - Common Use Gates & Ticket Counters project",
+   "part_numbers": [
+    "E-AA/POL BS-CT-AN1463 AI-J2-POL AE-J2-POL GDN FFR2 ASM-U FSC"
+   ],
+   "quantity": "1.00",
+   "price_usd": 2581.94,
+   "lead_time": null,
+   "sole_source_vendor": "Office Interiors, LLC",
+   "reason": "Office Interiors, LLC is currently the sole authorized distributor in the State of Oklahoma authorized by Kusch+Co GmbH to purchase, resell, install, and maintain their products.",
+   "equipment_class": "other equipment",
+   "installed_location": "Gate 20, OKC Will Rogers International Airport (Tag: TS3)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kusch+Co GmbH",
+   "model": "VTRAVEL BENCH 4U",
+   "part": "Hold room bench seating with media/power port, Gate 20 - Common Use Gates & Ticket Counters project",
+   "part_numbers": [
+    "E-AA/POL BS-CT-AN1463 AI-J3-POL AE-J2-POL J2-BS-YKU2MR-US BO-L GDN FFR2 ASM-U FSCMIX"
+   ],
+   "quantity": "2.00",
+   "price_usd": 8655.56,
+   "lead_time": null,
+   "sole_source_vendor": "Office Interiors, LLC",
+   "reason": "Office Interiors, LLC is currently the sole authorized distributor in the State of Oklahoma authorized by Kusch+Co GmbH to purchase, resell, install, and maintain their products.",
+   "equipment_class": "other equipment",
+   "installed_location": "Gate 20, OKC Will Rogers International Airport (Tag: TS4 E-L)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kusch+Co GmbH",
+   "model": "VTRAVEL BENCH 5U",
+   "part": "Hold room bench seating, Gate 20 - Common Use Gates & Ticket Counters project",
+   "part_numbers": [
+    "E-AA/POL BS-CT-AN1463 AI-J4-POL AE-J2-POL GDN FFR2 ASM-U FSC"
+   ],
+   "quantity": "1.00",
+   "price_usd": 4902.78,
+   "lead_time": null,
+   "sole_source_vendor": "Office Interiors, LLC",
+   "reason": "Office Interiors, LLC is currently the sole authorized distributor in the State of Oklahoma authorized by Kusch+Co GmbH to purchase, resell, install, and maintain their products.",
+   "equipment_class": "other equipment",
+   "installed_location": "Gate 20, OKC Will Rogers International Airport (Tag: TS5)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kusch+Co GmbH",
+   "model": "VTRAVEL BENCH PRM 5U",
+   "part": "ADA-compliant hold room bench seating, Gate 20 - Common Use Gates & Ticket Counters project",
+   "part_numbers": [
+    "E-AA/POL BS-CT-AN1463 PRM-A-BS-CT-AN1463 LOGO AI-J4-POL AE-J2-POL GDN FFR2 ASM-U FSC"
+   ],
+   "quantity": "1.00",
+   "price_usd": 5530.16,
+   "lead_time": null,
+   "sole_source_vendor": "Office Interiors, LLC",
+   "reason": "Office Interiors, LLC is currently the sole authorized distributor in the State of Oklahoma authorized by Kusch+Co GmbH to purchase, resell, install, and maintain their products.",
+   "equipment_class": "other equipment",
+   "installed_location": "Gate 20, OKC Will Rogers International Airport (Tag: TS5 ADA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kusch+Co GmbH",
+   "model": "VTRAVEL BENCH BBC 6U E-L",
+   "part": "Back-to-back hold room bench seating with media/power port, Gate 20 - Common Use Gates & Ticket Counters project",
+   "part_numbers": [
+    "E-AA/POL BS-CT-AN1463 AI-J2-POL AE-J2-POL J2-BS-YKU2MR-US BO-L GDN FFR2 ASM-U FSCMIX"
+   ],
+   "quantity": "1.00",
+   "price_usd": 6350.0,
+   "lead_time": null,
+   "sole_source_vendor": "Office Interiors, LLC",
+   "reason": "Office Interiors, LLC is currently the sole authorized distributor in the State of Oklahoma authorized by Kusch+Co GmbH to purchase, resell, install, and maintain their products.",
+   "equipment_class": "other equipment",
+   "installed_location": "Gate 20, OKC Will Rogers International Airport (Tag: TS3C-E-L)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kusch+Co GmbH",
+   "model": "VTRAVEL BENCH BBC 8U E-L",
+   "part": "Back-to-back hold room bench seating with media/power port, Gate 20 - Common Use Gates & Ticket Counters project",
+   "part_numbers": [
+    "E-AA/POL BS-CT-AN1463 AI-J3-POL AE-J2-POL J2-BS-YKU2MR-US BO-L GDN FFR2 ASM-U FSCMIX"
+   ],
+   "quantity": "1.00",
+   "price_usd": 8733.33,
+   "lead_time": null,
+   "sole_source_vendor": "Office Interiors, LLC",
+   "reason": "Office Interiors, LLC is currently the sole authorized distributor in the State of Oklahoma authorized by Kusch+Co GmbH to purchase, resell, install, and maintain their products.",
+   "equipment_class": "other equipment",
+   "installed_location": "Gate 20, OKC Will Rogers International Airport (Tag: TS4C-E-L)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kusch+Co GmbH",
+   "model": "VTRAVEL BENCH BBC 10U E-L",
+   "part": "Back-to-back hold room bench seating with media/power port, Gate 20 - Common Use Gates & Ticket Counters project",
+   "part_numbers": [
+    "E-AA/POL BS-CT-AN1463 AI-J4-POL AE-J2-POL J2-BS-YKU2MR-US BO-L GDN FFR2 ASM-U FSCMIX"
+   ],
+   "quantity": "4.00",
+   "price_usd": 43994.44,
+   "lead_time": null,
+   "sole_source_vendor": "Office Interiors, LLC",
+   "reason": "Office Interiors, LLC is currently the sole authorized distributor in the State of Oklahoma authorized by Kusch+Co GmbH to purchase, resell, install, and maintain their products.",
+   "equipment_class": "other equipment",
+   "installed_location": "Gate 20, OKC Will Rogers International Airport (Tag: TS5C-E-L)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kusch+Co GmbH",
+   "model": "VTRAVEL BENCH BBC 8U E 2XADA",
+   "part": "Back-to-back hold room bench seating with dual ADA seats and media/power port, Gate 20 - Common Use Gates & Ticket Counters project",
+   "part_numbers": [
+    "E-AA/POL BS-CT-AN1463 AI-J3-POL AE-J2-POL J2-BS-YKU2MR-US BO-L GDN FFR2 ASM-U FSCMIX"
+   ],
+   "quantity": "1.00",
+   "price_usd": 9011.11,
+   "lead_time": null,
+   "sole_source_vendor": "Office Interiors, LLC",
+   "reason": "Office Interiors, LLC is currently the sole authorized distributor in the State of Oklahoma authorized by Kusch+Co GmbH to purchase, resell, install, and maintain their products.",
+   "equipment_class": "other equipment",
+   "installed_location": "Gate 20, OKC Will Rogers International Airport (Tag: TS4C-E-L-2xADA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kusch+Co GmbH",
+   "model": "VTRAVEL BENCH BBL PRM 10U",
+   "part": "Back-to-back hold room bench seating, Gate 20 - Common Use Gates & Ticket Counters project (line item truncated in source document)",
+   "part_numbers": [
+    "E-AA/POL BS-C"
+   ],
+   "quantity": "2.00",
+   "price_usd": 22552.78,
+   "lead_time": null,
+   "sole_source_vendor": "Office Interiors, LLC",
+   "reason": "Office Interiors, LLC is currently the sole authorized distributor in the State of Oklahoma authorized by Kusch+Co GmbH to purchase, resell, install, and maintain their products.",
+   "equipment_class": "other equipment",
+   "installed_location": "Gate 20, OKC Will Rogers International Airport",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12288,
+  "out": 6361
+ },
+ "model": "claude-sonnet-5"
+}

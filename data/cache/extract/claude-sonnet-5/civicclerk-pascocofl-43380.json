@@ -1,0 +1,191 @@
+{
+ "records": [
+  {
+   "manufacturer": "Harris",
+   "model": "XL45P",
+   "part": "Port-Harris-XL45P-7/800Mhz-Gray-P25Trk",
+   "part_numbers": [
+    "Port-Harris-XL45P-7/800Mhz-Gray-P25Trk"
+   ],
+   "quantity": "74.00",
+   "price_usd": 120472.0,
+   "lead_time": null,
+   "sole_source_vendor": "WILLIAMS COMMUNICATIONS INC",
+   "reason": "Exempt per Section 2-96(c) Purchasing Ordinance",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pasco County Jail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harris",
+   "model": "XL45P",
+   "part": "Operation-Harris-Load NIFOG Personality",
+   "part_numbers": [
+    "Operation-Harris-Load NIFOG Personality"
+   ],
+   "quantity": "74.00",
+   "price_usd": 0.74,
+   "lead_time": null,
+   "sole_source_vendor": "WILLIAMS COMMUNICATIONS INC",
+   "reason": "Exempt per Section 2-96(c) Purchasing Ordinance",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pasco County Jail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harris",
+   "model": "XL45P",
+   "part": "Feature-XL45P-P25 PH2 TDMA",
+   "part_numbers": [
+    "Feature-XL45P-P25 PH2 TDMA"
+   ],
+   "quantity": "74.00",
+   "price_usd": 13690.0,
+   "lead_time": null,
+   "sole_source_vendor": "WILLIAMS COMMUNICATIONS INC",
+   "reason": "Exempt per Section 2-96(c) Purchasing Ordinance",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pasco County Jail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harris",
+   "model": "XL45P",
+   "part": "Feature-XL45P-Encryption Lite",
+   "part_numbers": [
+    "Feature-XL45P-Encryption Lite"
+   ],
+   "quantity": "74.00",
+   "price_usd": 0.74,
+   "lead_time": null,
+   "sole_source_vendor": "WILLIAMS COMMUNICATIONS INC",
+   "reason": "Exempt per Section 2-96(c) Purchasing Ordinance",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pasco County Jail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harris",
+   "model": "XL45P",
+   "part": "Feature-XL45P-Encryption-Single Key AES",
+   "part_numbers": [
+    "Feature-XL45P-Encryption-Single Key AES"
+   ],
+   "quantity": "74.00",
+   "price_usd": 0.74,
+   "lead_time": null,
+   "sole_source_vendor": "WILLIAMS COMMUNICATIONS INC",
+   "reason": "Exempt per Section 2-96(c) Purchasing Ordinance",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pasco County Jail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harris",
+   "model": "XL45P",
+   "part": "Feature-XL45P-Encryption-Single Key DES",
+   "part_numbers": [
+    "Feature-XL45P-Encryption-Single Key DES"
+   ],
+   "quantity": "74.00",
+   "price_usd": 0.74,
+   "lead_time": null,
+   "sole_source_vendor": "WILLIAMS COMMUNICATIONS INC",
+   "reason": "Exempt per Section 2-96(c) Purchasing Ordinance",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pasco County Jail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harris",
+   "model": "XL45P",
+   "part": "Battery-L3H XL45P-Li-Ion 3100M-Both CH",
+   "part_numbers": [
+    "Battery-L3H XL45P-Li-Ion 3100M-Both CH"
+   ],
+   "quantity": "148.00",
+   "price_usd": 14785.2,
+   "lead_time": null,
+   "sole_source_vendor": "WILLIAMS COMMUNICATIONS INC",
+   "reason": "Exempt per Section 2-96(c) Purchasing Ordinance",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pasco County Jail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harris",
+   "model": "XL45P",
+   "part": "Ante-XL45P-1/2Wv Whip-7/800 Mhz",
+   "part_numbers": [
+    "Ante-XL45P-1/2Wv Whip-7/800 Mhz"
+   ],
+   "quantity": "148.00",
+   "price_usd": 4928.4,
+   "lead_time": null,
+   "sole_source_vendor": "WILLIAMS COMMUNICATIONS INC",
+   "reason": "Exempt per Section 2-96(c) Purchasing Ordinance",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pasco County Jail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harris",
+   "model": "XL45P",
+   "part": "Mic-Spk-L3H XL45P-Rugged-Coiled",
+   "part_numbers": [
+    "Mic-Spk-L3H XL45P-Rugged-Coiled"
+   ],
+   "quantity": "74.00",
+   "price_usd": 14237.6,
+   "lead_time": null,
+   "sole_source_vendor": "WILLIAMS COMMUNICATIONS INC",
+   "reason": "Exempt per Section 2-96(c) Purchasing Ordinance",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pasco County Jail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harris",
+   "model": "XL45P",
+   "part": "Case-L3H XL45P-Leather-Premium-D Post",
+   "part_numbers": [
+    "Case-L3H XL45P-Leather-Premium-D Post"
+   ],
+   "quantity": "74.00",
+   "price_usd": 3833.2,
+   "lead_time": null,
+   "sole_source_vendor": "WILLIAMS COMMUNICATIONS INC",
+   "reason": "Exempt per Section 2-96(c) Purchasing Ordinance",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pasco County Jail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harris",
+   "model": "XL45",
+   "part": "Charger-L3H XL45-Desk 1 Bay-Tri-Chem",
+   "part_numbers": [
+    "Charger-L3H XL45-Desk 1 Bay-Tri-Chem"
+   ],
+   "quantity": "74.00",
+   "price_usd": 8214.0,
+   "lead_time": null,
+   "sole_source_vendor": "WILLIAMS COMMUNICATIONS INC",
+   "reason": "Exempt per Section 2-96(c) Purchasing Ordinance",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pasco County Jail",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5228,
+  "out": 3582
+ },
+ "model": "claude-sonnet-5"
+}

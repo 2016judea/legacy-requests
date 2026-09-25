@@ -1,0 +1,171 @@
+{
+ "records": [
+  {
+   "manufacturer": "Automated Logic",
+   "model": "WebCTRL",
+   "part": "Building Automation System version upgrade from current version 6.5 to latest version 8, enterprise, adv_alarming, adv_reporting",
+   "part_numbers": [
+    "W200801424"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ES2",
+   "reason": "Automated Logic Controls is uis a sole source product",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City Hall",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Automated Logic",
+   "model": "G5CE",
+   "part": "Bacnet/IP gateway installed in existing enclosure, replacing demoed JCI NAE",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ES2",
+   "reason": "Automated Logic Controls is uis a sole source product",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City Hall",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Automated Logic",
+   "model": "Optiflex",
+   "part": "Controllers for Variable Air Volume AHUs, replacing existing JCI controllers",
+   "part_numbers": [],
+   "quantity": "7",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ES2",
+   "reason": "Automated Logic Controls is uis a sole source product",
+   "equipment_class": "HVAC",
+   "installed_location": "City Hall",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Automated Logic",
+   "model": "SE controller",
+   "part": "Controller for AHU 3A/3T Constant Volume Unit, replacing existing JCI controllers, with new zone temp/hum/CO2 sensor",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ES2",
+   "reason": "Automated Logic Controls is uis a sole source product",
+   "equipment_class": "HVAC",
+   "installed_location": "City Hall (Auditorium 3T / Foyer 3A)",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Automated Logic",
+   "model": null,
+   "part": "Controller for Make Up Air Unit scheduling enable and status of unit fan",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ES2",
+   "reason": "Automated Logic Controls is uis a sole source product",
+   "equipment_class": "HVAC",
+   "installed_location": "City Hall",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Automated Logic",
+   "model": "VAV controller",
+   "part": "Terminal unit controllers for VSV with hydronic reheat, replacing JCI VAV controllers, with new zone temp sensor with display and discharge air sensor",
+   "part_numbers": [],
+   "quantity": "69",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ES2",
+   "reason": "Automated Logic Controls is uis a sole source product",
+   "equipment_class": "HVAC",
+   "installed_location": "City Hall",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Automated Logic",
+   "model": "Optiflex",
+   "part": "Water Systems Manager Panel controllers for CHW system (chillers, primary/secondary pumps), replacing existing JCI controllers",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ES2",
+   "reason": "Automated Logic Controls is uis a sole source product",
+   "equipment_class": "HVAC",
+   "installed_location": "City Hall",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Automated Logic",
+   "model": null,
+   "part": "HW Systems Manager Panel controllers for boilers and hot water pumps",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ES2",
+   "reason": "Automated Logic Controls is uis a sole source product",
+   "equipment_class": "HVAC",
+   "installed_location": "City Hall",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Automated Logic",
+   "model": "SE controller",
+   "part": "Lighting control and scheduling controller replacing existing JCI controller, for ceiling globes, nite lighting, NE entry exterior, 4th fl mech lights",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ES2",
+   "reason": "Automated Logic Controls is uis a sole source product",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "City Hall",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Automated Logic",
+   "model": null,
+   "part": "Exhaust fan scheduled controllers for fan enable and fan status",
+   "part_numbers": [],
+   "quantity": "7",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ES2",
+   "reason": "Automated Logic Controls is uis a sole source product",
+   "equipment_class": "HVAC",
+   "installed_location": "City Hall",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ES2",
+   "model": null,
+   "part": "Upgrade of HVAC controls at City Hall including project management, programming, installation, training, and warranty",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 197200,
+   "lead_time": null,
+   "sole_source_vendor": "ES2",
+   "reason": "ES2 currently serves as the provider for all locations, with the exception of the south side of City Hall. Integrating the existing system into ES2 would enable centralized management across a unified platform.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City Hall",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5145,
+  "out": 2165
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Walker Process Equipment",
+   "model": "SWP (Sightwell Circular Collector Mechanism)",
+   "part": "Pier-Supported Suction Pipe Collector Mechanism for 90' diameter x 15' S.W.D. secondary clarifier tank, including catwalk, center pier, drive cage, sludge sight box, energy dissipating inlet, influent well, rake arms, skimmer assembly, fasteners and anchorage",
+   "part_numbers": [
+    "22-S-067-REV1"
+   ],
+   "quantity": "1",
+   "price_usd": 498658.54,
+   "lead_time": "Submittal of approval of drawings 20-22 weeks, Shipment after approval 36-38 weeks",
+   "sole_source_vendor": "MuniQuip, LLC",
+   "reason": "the existing secondary clarifier mechanism was originally furnished by Walker Process Equipment, and procurement of replacement equipment from the original equipment manufacturer will ensure compatibility with the existing facility",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "West Secondary Clarifier, WWTF, Yuba City",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11953,
+  "out": 416
+ },
+ "model": "claude-sonnet-5"
+}

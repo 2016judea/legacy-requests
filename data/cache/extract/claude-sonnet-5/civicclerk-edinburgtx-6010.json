@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kamstrup",
+   "model": "FLOWIQ 2200",
+   "part": "5/8X3/4 FLOWIQ 2200 ALD METER - Automated Metering Infrastructure (AMI) Meters",
+   "part_numbers": [
+    "#02-K-02-D-1-8B-8-UB",
+    "810-24-002-0010-3-3-3-6-04-21-0-1-3-01004"
+   ],
+   "quantity": "156",
+   "price_usd": 49920.0,
+   "lead_time": null,
+   "sole_source_vendor": "Aguaworks Pipe & Supply, LLC",
+   "reason": "The above-named company or firm is the sole source of the following items and there are no other items available in the marketplace that have the same fit, form, and function of the items listed below",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6049,
+  "out": 287
+ },
+ "model": "claude-sonnet-5"
+}

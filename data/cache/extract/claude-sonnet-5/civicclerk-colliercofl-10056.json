@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hoover Pumping Systems",
+   "model": null,
+   "part": "Hoover Irrigation Pump Systems, including design, installation, service, repairs, and replacements",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": "Hoover Pumping Systems Corporation",
+   "reason": "Hoover Pumping Systems offers specialized products and services which provide single source, comprehensive pump system solutions.",
+   "equipment_class": "pump",
+   "installed_location": "Collier County Parks and Recreation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hoover Pumping Systems",
+   "model": "Flowguard",
+   "part": "Flowguard water management tool for pump station monitoring and control",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hoover Pumping Systems Corporation",
+   "reason": "The Flowguard water management tool was developed and designed solely by Hoover. No other manufacturer offers a comparable product for real time and historical data along with integrated logic controls for optimal pump station functionality and efficiency.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12097,
+  "out": 430
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Accuracy International",
+   "model": null,
+   "part": "Sniper Rifles & Repairs (rifle replacement and repairs for SWAT Team)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 37704,
+   "lead_time": null,
+   "sole_source_vendor": "Mile High Shooting Accessories",
+   "reason": "Mile High Shooting Accessories is the only authorized independent service center in the United States for Accuracy International products",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5477,
+  "out": 196
+ },
+ "model": "claude-sonnet-5"
+}

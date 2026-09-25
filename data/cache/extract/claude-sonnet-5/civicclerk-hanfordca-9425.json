@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "McNeilus",
+   "model": "Meridian",
+   "part": "40 Yard Meridian Front Loader Mounted on a 2027 Peterbilt 520 Chassis - New Front Load Refuse Truck",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 497506.79,
+   "lead_time": null,
+   "sole_source_vendor": "Haaker Refuse",
+   "reason": "Approval of a sole source purchase of one (1) 2027 Front Load Refuse truck from Haaker Refuse of Tulare, Ca in the amount of $497,506.79 utilizing Sourcewell contract 110223-MCN",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "City of Hanford Refuse Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5962,
+  "out": 268
+ },
+ "model": "claude-sonnet-5"
+}

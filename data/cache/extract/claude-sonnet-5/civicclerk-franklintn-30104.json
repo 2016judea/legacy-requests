@@ -1,0 +1,75 @@
+{
+ "records": [
+  {
+   "manufacturer": "Durham",
+   "model": "APMP Series",
+   "part": "Pad-mount primary metering cabinet approved for bidding",
+   "part_numbers": [
+    "APX3622522"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The approved cabinets are the Durham APX3622522 and the Hubbell ME321166XXXXGMMTN1, and I will include both options in the bid process. These are the only two types of cabinets that MTE maintains on their system.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Franklin Wastewater Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hubbell",
+   "model": null,
+   "part": "Pad-mount primary metering cabinet approved for bidding, may require custom floor on metering side",
+   "part_numbers": [
+    "ME321166XXXXGMMTN1"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The Hubbell cabinet may need to be custom ordered, as it does not appear to come standard with a floor on the metering side. If Hubbell can provide a custom cabinet with a floor on the metering side, it will remain a viable option.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Franklin Wastewater Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Oldcastle",
+   "model": null,
+   "part": "Concrete ground sleeve for primary metering cabinet",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Oldcastle",
+   "reason": "We prefer to use Oldcastle for our concrete structures, so Oldcastle will provide the ground sleeve.",
+   "equipment_class": "other equipment",
+   "installed_location": "Franklin Wastewater Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Labor and material for transition of metering from poles to metering cabinets",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 50000,
+   "lead_time": null,
+   "sole_source_vendor": "Middle Tennessee Electric",
+   "reason": "MTE is the sole-source provider of material and work.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City of Franklin Water Management",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10353,
+  "out": 2743
+ },
+ "model": "claude-sonnet-5"
+}

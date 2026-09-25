@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Chemical Identification Analyzer",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 190000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the new Chemical Identification Analyzer will replace our older, inefficient equipment and provide the HazMat team with the ability to quickly identify over 13,000 chemicals",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Fremont Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Handheld Thermal Imaging Cameras",
+   "part_numbers": [],
+   "quantity": "20",
+   "price_usd": 120000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Newer TICs will provide enhanced visual clarity in challenging environments, such as smoke-filled rooms, and enable faster, more informed decision-making during emergencies.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fremont Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10457,
+  "out": 752
+ },
+ "model": "claude-sonnet-5"
+}

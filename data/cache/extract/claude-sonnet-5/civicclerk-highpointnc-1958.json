@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Itron",
+   "model": null,
+   "part": "Stock electric meters for Metering Division meter change outs",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 138501.72,
+   "lead_time": null,
+   "sole_source_vendor": "Border States Industries, Inc.",
+   "reason": "Border States is the sole source vendor for Itron electric meters for Municipal Electric Power systems in North and South Carolina.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of High Point Electric Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3203,
+  "out": 194
+ },
+ "model": "claude-sonnet-5"
+}

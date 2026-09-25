@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pascor Atlantic, Inc.",
+   "model": null,
+   "part": "Air switches (disconnect switches) and associated hardware for GP&L Keen Creek Substation",
+   "part_numbers": [],
+   "quantity": "All",
+   "price_usd": 1169806.0,
+   "lead_time": null,
+   "sole_source_vendor": "Pascor Atlantic, Inc.",
+   "reason": "Pastor Atlantic, Inc. is the manufacturer and Sole Source provider of the specified disconnect switches and associated hardware.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "GP&L Keen Creek Substation",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2535,
+  "out": 235
+ },
+ "model": "claude-sonnet-5"
+}

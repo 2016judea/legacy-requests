@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tesla",
+   "model": "Model Y",
+   "part": "Fully upfitted EV Patrol Unit vehicle for Glendale Police Department",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 127758,
+   "lead_time": null,
+   "sole_source_vendor": "Unplugged Performance Inc.",
+   "reason": "This vendor is uniquely qualified to furnish this equipment because they have extensive experience performing this type of work, and are solely authorized by Tesla Motors to upfit their vehicles",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Glendale Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7825,
+  "out": 224
+ },
+ "model": "claude-sonnet-5"
+}

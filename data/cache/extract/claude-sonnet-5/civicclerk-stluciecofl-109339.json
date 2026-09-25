@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Neptune Technology Group",
+   "model": null,
+   "part": "Water Metering Products to provide St. Lucie County Utilities customer field servicing",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ferguson Enterprises LLC.",
+   "reason": "Ferguson Enterprises LLC. is the sole authorized Neptune Distributor with resell supply agreement in the State of Florida.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "St. Lucie County Utilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5959,
+  "out": 215
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Smith & Loveless, Inc.",
+   "model": "Model 15 Pista Grit Screw Conveyor",
+   "part": "Replacement parts: screw (9\" diameter, 15' long), conveyor drive gear reducer with brackets, 250 GPM 2-piece Ni-Hard Pista Grit Concentrator",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 55510.77,
+   "lead_time": "18-20 weeks",
+   "sole_source_vendor": "Newman Regency Group",
+   "reason": "Newman Regency Group is the sole authorized representative for Smith & Loveless, Inc. in this region and can supply the necessary replacement parts",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Buck Creek Lift Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9199,
+  "out": 297
+ },
+ "model": "claude-sonnet-5"
+}

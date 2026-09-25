@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "In-Pipe Technology",
+   "model": "AOP-16",
+   "part": "4-unit AOP-16 vapor-phase odor control unit (Advanced Oxidation Process) at Rowlett Road Lift Station",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": 140000,
+   "lead_time": "6-8 Weeks ARO",
+   "sole_source_vendor": "In-Pipe Technology Company, Inc.",
+   "reason": "This letter is to confirm that the proprietary lift station odor control method used by In-Pipe Technology is a sole source service, provided exclusively by In-Pipe Technology.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Rowlett Road Lift Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "In-Pipe Technology",
+   "model": "Lift Station Dosing Unit (LSDU)",
+   "part": "Biological dosing units installed at four upstream lift stations to introduce microbial formulation into wet wells",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "In-Pipe Technology Company, Inc.",
+   "reason": "This letter is to confirm that the proprietary lift station odor control method used by In-Pipe Technology is a sole source service, provided exclusively by In-Pipe Technology.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Four upstream lift stations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "In-Pipe Technology",
+   "model": null,
+   "part": "Proprietary microbial solution (Bacillus-based bacteria blend) for biological dosing program, shipped in two-liter bottles",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "In-Pipe Technology Company, Inc.",
+   "reason": "We are not aware of any similar or like service available that would serve the same purpose or function.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Four upstream lift stations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "In-Pipe Technology",
+   "model": "AOP-16",
+   "part": "Anticipated annual maintenance service for the AOP-16 system as installed",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 16000,
+   "lead_time": null,
+   "sole_source_vendor": "In-Pipe Technology Company, Inc.",
+   "reason": "Anticipated maintenance costs of the AOP-16 system as installed is $16,000 annually (to be procured separately).",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Rowlett Road Lift Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11078,
+  "out": 956
+ },
+ "model": "claude-sonnet-5"
+}

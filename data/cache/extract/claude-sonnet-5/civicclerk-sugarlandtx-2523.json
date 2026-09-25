@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "On-Call Pump and Motor Repairs and Replacement Contract",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hahn Equipment Company, Inc.",
+   "reason": "On Call Pump and Motor Repairs and Replacement in the amount of $200,000.00, per year with the option to renew for four additional years with an overall total of $1,000,000.00",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Flygt",
+   "model": null,
+   "part": "Flygt pumps, parts and repair services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hahn Equipment Company",
+   "reason": "Hahn Equipment Company located at 5636 Kansas Houston TX is the only authorized Flygt distributor for the sale of Flygt pumps in SE Texas",
+   "equipment_class": "pump",
+   "installed_location": "Lift Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Flygt",
+   "model": "Multismart",
+   "part": "Flygt Multismart controllers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hahn Equipment Company",
+   "reason": "RE; Flygt pumps, Flygt Multismart controllers, Flygt control panels, parts and repair services",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Flygt",
+   "model": null,
+   "part": "Flygt control panels",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hahn Equipment Company",
+   "reason": "RE; Flygt pumps, Flygt Multismart controllers, Flygt control panels, parts and repair services",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12813,
+  "out": 931
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Chevrolet",
+   "model": null,
+   "part": "OEM replacement parts and on-call repair services for approximately 400 Chevrolet brand vehicles",
+   "part_numbers": [],
+   "quantity": "400 vehicles",
+   "price_usd": 1500000,
+   "lead_time": null,
+   "sole_source_vendor": "Tejas Chevrolet Company, LLC",
+   "reason": "This contract is necessary to address the unpredictable nature of vehicle breakdowns and accidents by providing timely access to parts and repairs to maintain operational readiness for the City fleet.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "City of San Antonio Fleet / BESD Fleet Service Centers",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3874,
+  "out": 255
+ },
+ "model": "claude-sonnet-5"
+}

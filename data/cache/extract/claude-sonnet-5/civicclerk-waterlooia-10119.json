@@ -1,0 +1,173 @@
+{
+ "records": [
+  {
+   "manufacturer": "Flygt",
+   "model": "NT3153-434MT",
+   "part": "Dry pit submersible pump for Garden Lift Station retrofit",
+   "part_numbers": [
+    "NT3153-434MT"
+   ],
+   "quantity": "2",
+   "price_usd": 112500.0,
+   "lead_time": "10 \u2013 15 Weeks",
+   "sole_source_vendor": "Electric Pump",
+   "reason": "Replace valves and motors that are obsolete.",
+   "equipment_class": "pump",
+   "installed_location": "Garden Lift Station \u2013 Dry Pit",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "6\" Swing Arm Check Valve",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Electric Pump",
+   "reason": "Replace valves and motors that are obsolete.",
+   "equipment_class": "valve",
+   "installed_location": "Garden Lift Station \u2013 Dry Pit",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "6\" Gate Valve",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Electric Pump",
+   "reason": "Replace valves and motors that are obsolete.",
+   "equipment_class": "valve",
+   "installed_location": "Garden Lift Station \u2013 Dry Pit",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "6\" DIP \u2013 24\" FLxFL Spool",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Electric Pump",
+   "reason": "Replace valves and motors that are obsolete.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Garden Lift Station \u2013 Dry Pit",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "6\" DIP \u2013 48\" FLxFL Spool",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Electric Pump",
+   "reason": "Replace valves and motors that are obsolete.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Garden Lift Station \u2013 Dry Pit",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "6\" Uni-flange",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Electric Pump",
+   "reason": "Replace valves and motors that are obsolete.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Garden Lift Station \u2013 Dry Pit",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "6\" B&G Kit",
+   "part_numbers": [],
+   "quantity": "14",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Electric Pump",
+   "reason": "Replace valves and motors that are obsolete.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Garden Lift Station \u2013 Dry Pit",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "8\" Uni-flange",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Electric Pump",
+   "reason": "Replace valves and motors that are obsolete.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Garden Lift Station \u2013 Dry Pit",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "8\" B&G Kit",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Electric Pump",
+   "reason": "Replace valves and motors that are obsolete.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Garden Lift Station \u2013 Dry Pit",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "10\" B&G Kit",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Electric Pump",
+   "reason": "Replace valves and motors that are obsolete.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Garden Lift Station \u2013 Dry Pit",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Schneider Electric",
+   "model": "ATV630",
+   "part": "VFD for pump motor control",
+   "part_numbers": [
+    "ATV630D15M3"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Electric Pump",
+   "reason": "Replace valves and motors that are obsolete.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Garden Lift Station \u2013 Dry Pit",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5805,
+  "out": 2521
+ },
+ "model": "claude-sonnet-5"
+}

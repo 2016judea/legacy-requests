@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rotork",
+   "model": "Slide-gate actuator",
+   "part": "12 Rotork slide-gate actuators for the Screen Building to replace 12 existing slide-gate actuators",
+   "part_numbers": [],
+   "quantity": "12",
+   "price_usd": 145116.0,
+   "lead_time": null,
+   "sole_source_vendor": "Systems Specialties",
+   "reason": "The quote from Systems Specialties and a letter from Rotork Controls, Inc. stating that Systems Specialties is the sole source agent and distributor for Rotork are attached.",
+   "equipment_class": "valve",
+   "installed_location": "Screen Building, WWTP",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4838,
+  "out": 229
+ },
+ "model": "claude-sonnet-5"
+}

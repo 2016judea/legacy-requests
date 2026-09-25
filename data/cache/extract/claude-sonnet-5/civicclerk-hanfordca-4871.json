@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pierce Manufacturing, Inc.",
+   "model": "Impel 1500 GPM PUC\u2122 Pumper",
+   "part": "One (1) Pierce Manufacturing, Inc. Impel 1500 GPM PUC\u2122 Pumper (Fire Engine)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 960524.24,
+   "lead_time": "46 to 49 MONTHS",
+   "sole_source_vendor": "Golden State Fire Apparatus, Inc.",
+   "reason": "staff reached out to the dealer of Pierce Fire Engines which is the manufacturer of existing Fire apparatus for the City",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9521,
+  "out": 263
+ },
+ "model": "claude-sonnet-5"
+}

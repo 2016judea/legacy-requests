@@ -1,0 +1,59 @@
+{
+ "records": [
+  {
+   "manufacturer": "Barnes",
+   "model": "6ESCDK60044",
+   "part": "60 HP 460/3/60 Chopper Pumps w/ 50' Cables",
+   "part_numbers": [
+    "6ESCDK60044"
+   ],
+   "quantity": "Two (2)",
+   "price_usd": 87775,
+   "lead_time": null,
+   "sole_source_vendor": "Southern Sales Company",
+   "reason": "Southern Sales Company is the Sole Sourced-Authorized Crane Municipal distributor for the City of Franklin TN which resides in Williamson County TN.",
+   "equipment_class": "pump",
+   "installed_location": "Founders Point",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Barnes",
+   "model": null,
+   "part": "Relays for the existing control panel",
+   "part_numbers": [],
+   "quantity": "Two (2)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Southern Sales Company",
+   "reason": "Southern Sales Company is the Sole Sourced-Authorized Crane Municipal distributor for the City of Franklin TN which resides in Williamson County TN.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Founders Point",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Barnes",
+   "model": null,
+   "part": "Retro-Fit Brackets if needed",
+   "part_numbers": [],
+   "quantity": "Two (2)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Southern Sales Company",
+   "reason": "Southern Sales Company is the Sole Sourced-Authorized Crane Municipal distributor for the City of Franklin TN which resides in Williamson County TN.",
+   "equipment_class": "other equipment",
+   "installed_location": "Founders Point",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6896,
+  "out": 2167
+ },
+ "model": "claude-sonnet-5"
+}

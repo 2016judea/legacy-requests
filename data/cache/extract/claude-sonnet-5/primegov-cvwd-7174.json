@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Sole source contract with InfoSend, Inc. for data processing, print, and mail services integrated with CVWD billing system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 200000,
+   "lead_time": null,
+   "sole_source_vendor": "InfoSend, Inc.",
+   "reason": "InfoSend is highly integrated with the CVWD billing system. Billing data is transmitted daily through a series of data exchanges established between InfoSend, Central Square and Paymentus.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12579,
+  "out": 442
+ },
+ "model": "claude-sonnet-5"
+}

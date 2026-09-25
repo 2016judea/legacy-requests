@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola Solutions",
+   "model": "ASTRO 25",
+   "part": "ASTRO 25 System Support Services - Advanced Plus Package with SUAII (radio system maintenance agreement)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2620681.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "The Police Technology Unit has reviewed this agreement to ensure it covers all the System Maintenance needs.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Eastern Jackson County (EJC) Radio System / MARRS",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions",
+   "model": null,
+   "part": "Tower & Microwave Support services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2333458.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "This proposal of services includes the delivery of a number of supportive centralized services focused on ASTRO25 networks and MPLS Microwave equipment.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Eastern Jackson County (EJC) Radio System / MARRS",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nokia",
+   "model": null,
+   "part": "NOKIA MPLS Hardware/Software supporting the radio network",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "3.5 NOKIA MPLS Hardware/Software",
+   "equipment_class": "communications/radio",
+   "installed_location": "Eastern Jackson County (EJC) Radio System / MARRS",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement of RF Subsite Generators (2 units)",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 432139.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "The existing units are aging out (most have been in use for more than 14 years), and parts are becoming difficult to obtain.",
+   "equipment_class": "generator",
+   "installed_location": "Eastern Jackson County (EJC) Radio System RF Subsites",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement of RF Subsite HVAC Units (2 units)",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Both Generators and HVAC have become an intensive maintenance issue in the last few years, and these are critical components of the system.",
+   "equipment_class": "HVAC",
+   "installed_location": "Eastern Jackson County (EJC) Radio System RF Subsites",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Tower Site Lighting Coverage",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "3.2 Tower Site Lighting Coverage",
+   "equipment_class": "other equipment",
+   "installed_location": "Eastern Jackson County (EJC) Radio System tower sites",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Tower Lighting System Replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "3.3 Tower Lighting System Replacement",
+   "equipment_class": "other equipment",
+   "installed_location": "Eastern Jackson County (EJC) Radio System tower sites",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions",
+   "model": null,
+   "part": "Managed Detection and Response / Cybersecurity monitoring service for networked radio system components",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Cybersecurity monitoring has been added to the agreement. This addition includes 24/7/365 monitoring by Motorola of all networked components of the Radio System, and any intervention/remediation required in the event of a breach.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Eastern Jackson County (EJC) Radio System / MARRS",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9415,
+  "out": 4115
+ },
+ "model": "claude-sonnet-5"
+}

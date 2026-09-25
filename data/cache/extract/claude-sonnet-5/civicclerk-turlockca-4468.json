@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Contracted maintenance of the radio system (main radio infrastructure)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 790735,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "sole sourcing is justified when the supplies, materials, equipment, or services can be obtained from only one (1) vendor.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Sole source procurement of radio system equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola",
+   "reason": "Due to Motorola being the sole provider for this equipment, this would delay the contract approval with the same vendor being awarded the bid.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3173,
+  "out": 342
+ },
+ "model": "claude-sonnet-5"
+}

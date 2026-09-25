@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Programmable Logic Controller (PLC) Panels for PLC Upgrade Project, Phase III (NDI portion)",
+   "part_numbers": [],
+   "quantity": "20 PLC panels",
+   "price_usd": 325709,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Procurement determined that it is in CVWD\\u2019s best interest to split the award between the two lowest bidders to maximize the number of panels that could be purchased with the project budget.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "24 booster stations, 14 well sites, 6 reservoirs, and 6 pressure reducing stations, including 4 booster/reservoir combination sites",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Programmable Logic Controller (PLC) Panels for PLC Upgrade Project, Phase III (IPS portion)",
+   "part_numbers": [],
+   "quantity": "30 PLC panels",
+   "price_usd": 377248,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Procurement determined that it is in CVWD\\u2019s best interest to split the award between the two lowest bidders to maximize the number of panels that could be purchased with the project budget.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "24 booster stations, 14 well sites, 6 reservoirs, and 6 pressure reducing stations, including 4 booster/reservoir combination sites",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Professional Consulting Services (PSA) for SCADA/PLC programming support tied to PLC Upgrade Project Phase III",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 273920,
+   "lead_time": null,
+   "sole_source_vendor": "Northern Digital, Inc. (NDI)",
+   "reason": "Selecting NDI as a single/sole source provider ensures consistency with SCADA System implementation and its system design standards while enhancing usability and navigation and reducing overall costs.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "SCADA integration/programming for cutover of 22 Retired ADR Panels at Domestic Sites to NDI PLCs",
+   "part_numbers": [],
+   "quantity": "22 Domestic Sites (20 wells, 2 Booster/Reservoir stations)",
+   "price_usd": 155640,
+   "lead_time": null,
+   "sole_source_vendor": "Northern Digital, Inc. (NDI)",
+   "reason": "Selecting NDI as a single/sole source provider ensures consistency with SCADA System implementation and its system design standards while enhancing usability and navigation and reducing overall costs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "22 Domestic Sites including well sites and Booster/Reservoir stations (e.g., W 4519, W 4521, B 05504, B 06630)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "SCADA programming to calculate statistical generator run time data (Generator Runtime Report)",
+   "part_numbers": [],
+   "quantity": "75 Generators (of 129 total)",
+   "price_usd": 94760,
+   "lead_time": null,
+   "sole_source_vendor": "Northern Digital, Inc. (NDI)",
+   "reason": "Selecting NDI as a single/sole source provider ensures consistency with SCADA System implementation and its system design standards while enhancing usability and navigation and reducing overall costs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Time of Use (TOU) SCADA programming to optimize CVWD's Domestic pumps by limiting on-peak run time",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northern Digital, Inc. (NDI)",
+   "reason": "Selecting NDI as a single/sole source provider ensures consistency with SCADA System implementation and its system design standards while enhancing usability and navigation and reducing overall costs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11932,
+  "out": 2930
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Komline-Sanderson",
+   "model": "Kompress\u00ae Belt Filter Press",
+   "part": "Belt Press Equipment, Parts, and Services (dewatering equipment) for NCWRF and SCWRF sludge dewatering",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Komline-Sanderson Corporation",
+   "reason": "K-S does not have any authorized filter parts distributors thereby, we are the sole source of genuine replacement parts which are designed to the original specifications to keep your filter running at optimum performance.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "NCWRF and SCWRF",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 19968,
+  "out": 286
+ },
+ "model": "claude-sonnet-5"
+}

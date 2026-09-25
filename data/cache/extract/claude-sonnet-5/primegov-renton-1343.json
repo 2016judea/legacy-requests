@@ -1,0 +1,73 @@
+{
+ "records": [
+  {
+   "manufacturer": "Persistent Systems",
+   "model": "MPU5",
+   "part": "Mobile Ad Hoc Networking (MANET) Radio system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 166005.8,
+   "lead_time": null,
+   "sole_source_vendor": "Persistent Systems, LLC",
+   "reason": "Persistent Systems, LLC, CAGE Code: 4YBU2, UIE: NPJTWLK75ZY1, is the developer and sole manufacturer of the MPU5 Mobile Ad Hoc Networking (MANET) Radio system",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Persistent Systems",
+   "model": "Integrated Sector Antenna",
+   "part": "High gain antenna array with built in Wave Relay form factor for mesh networking",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Persistent Systems, LLC",
+   "reason": "These features are proprietary to the MPU5 and are protected under Persistent Systems' intellectual property. No other product on the market integrates such comprehensive functionality into a single device.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Persistent Systems",
+   "model": "PT5",
+   "part": "LTE/5G Gateway multiband cellular gateway integrating LTE and 5G connectivity into Wave Relay MANET",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Persistent Systems, LLC",
+   "reason": "The PT5 integrates natively with the MPU5 ecosystem and Wave Relay firmware with no third-party adapters required.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Persistent Systems",
+   "model": "CBL-AUD-2018",
+   "part": "Cable for integrating with Motorola-manufactured equipment for Advanced RoIP capabilities",
+   "part_numbers": [
+    "CBL-AUD-2018"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Persistent Systems, LLC",
+   "reason": "Buyer(s) purchasing CBL-AUD-2018 acknowledge and agree that use of Advanced RoIP capabilities when integrating CBL-AUD-2018 with Motorola- manufactured equipment requires a license from Motorola",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11019,
+  "out": 896
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "GE Vernova",
+   "model": null,
+   "part": "Major inspection (onsite disassembly, inspection, use of consumable materials and reassembly) of J-2 substation combustion turbine, Unit Serial 179345",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2015015.33,
+   "lead_time": null,
+   "sole_source_vendor": "GE Vernova",
+   "reason": "The inspection will be conducted onsite by GE Vernova, the original equipment manufacturer and sole source provider.",
+   "equipment_class": "generator",
+   "installed_location": "J-2 substation, Blue Valley & Subs, Power & Light Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GE Vernova",
+   "model": null,
+   "part": "Stg-1 buckets replacement for combustion turbine rotor",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GE Vernova",
+   "reason": "A borescopic inspection on the turbine rotor performed in 2024 recommended replacing the Stg-1 buckets that were found to have varying degrees of damage that could contribute to a failure.",
+   "equipment_class": "generator",
+   "installed_location": "J-2 substation, Blue Valley & Subs, Power & Light Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GE Vernova",
+   "model": null,
+   "part": "Offsite Repair Services for gas turbine components",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GE Vernova",
+   "reason": "The inspection will be conducted onsite by GE Vernova, the original equipment manufacturer and sole source provider.",
+   "equipment_class": "generator",
+   "installed_location": "J-2 substation, Blue Valley & Subs, Power & Light Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Buyer supplied gearbox installation and alignment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Install Buyer supplied gearbox",
+   "equipment_class": "motor/drive",
+   "installed_location": "J-2 substation, Blue Valley & Subs, Power & Light Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8965,
+  "out": 784
+ },
+ "model": "claude-sonnet-5"
+}

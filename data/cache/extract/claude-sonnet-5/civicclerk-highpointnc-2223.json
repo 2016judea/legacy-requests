@@ -1,0 +1,143 @@
+{
+ "records": [
+  {
+   "manufacturer": "FIAlab Instruments, Inc.",
+   "model": "FIAlyzer-FLEX",
+   "part": "One-channel flow injection analyzer, 120V, includes FIAsoft software license and 2 days training/installation",
+   "part_numbers": [
+    "793631"
+   ],
+   "quantity": "1",
+   "price_usd": 32912.9,
+   "lead_time": null,
+   "sole_source_vendor": "FIAlab Instruments, Inc.",
+   "reason": "This letter is to confirm that the FIAlab Instruments, Inc. is the sole of provider of the FIAlyzer-1000 and FIAlyzer-FLEX Flow Injection Analyzers in the United States.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FIAlab Instruments, Inc.",
+   "model": null,
+   "part": "Standalone high-precision peristaltic pump, 6 channels, in grey aluminum enclosure, for use with FIAlyzer-FLEX",
+   "part_numbers": [
+    "41045"
+   ],
+   "quantity": "1",
+   "price_usd": 3940.07,
+   "lead_time": null,
+   "sole_source_vendor": "FIAlab Instruments, Inc.",
+   "reason": "All accessories are not available through any other distributor.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cetac",
+   "model": "ASX-280",
+   "part": "2-rack (120 position) autosampler",
+   "part_numbers": [
+    "61000"
+   ],
+   "quantity": "1",
+   "price_usd": 10881.68,
+   "lead_time": null,
+   "sole_source_vendor": "FIAlab Instruments, Inc.",
+   "reason": "All accessories are not available through any other distributor.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Desktop computer and 19\" monitor",
+   "part_numbers": [
+    "79301"
+   ],
+   "quantity": "1",
+   "price_usd": 2156.57,
+   "lead_time": null,
+   "sole_source_vendor": "FIAlab Instruments, Inc.",
+   "reason": "All accessories are not available through any other distributor.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FIAlab Instruments, Inc.",
+   "model": "FLEX Module",
+   "part": "FLEX Module: Ammonia / TKN w/ Gas Diffusion EPA 350.1./EPA 351.2 (Customer to utilize CN manifold)",
+   "part_numbers": [
+    "796015"
+   ],
+   "quantity": "1",
+   "price_usd": 2701.82,
+   "lead_time": null,
+   "sole_source_vendor": "FIAlab Instruments, Inc.",
+   "reason": "Must be capable of EPA-approved fluorescence method for TKN & Ammonia without the need to switchover manifolds",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FIAlab Instruments, Inc.",
+   "model": null,
+   "part": "In-line digester for total cyanide by ISO method",
+   "part_numbers": [
+    "794111"
+   ],
+   "quantity": "1",
+   "price_usd": 5535.44,
+   "lead_time": null,
+   "sole_source_vendor": "FIAlab Instruments, Inc.",
+   "reason": "All accessories are not available through any other distributor.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lachat",
+   "model": null,
+   "part": "Lachat Trade-in Credit",
+   "part_numbers": [
+    "83109"
+   ],
+   "quantity": null,
+   "price_usd": -1500.0,
+   "lead_time": null,
+   "sole_source_vendor": "FIAlab Instruments, Inc.",
+   "reason": "All accessories are not available through any other distributor.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FIAlab Instruments, Inc.",
+   "model": null,
+   "part": "Service Plan - Silver - 2yr new FIA instrument - additional channel at location",
+   "part_numbers": [
+    "810141"
+   ],
+   "quantity": "1",
+   "price_usd": 2648.68,
+   "lead_time": null,
+   "sole_source_vendor": "FIAlab Instruments, Inc.",
+   "reason": "All FIAlab instrumentation is installed and serviced by qualified FIAlab technicians, and all training of FIAlab instrumentation is performed by qualified FIAlab technicians.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4046,
+  "out": 2908
+ },
+ "model": "claude-sonnet-5"
+}

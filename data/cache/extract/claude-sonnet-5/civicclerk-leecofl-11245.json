@@ -1,0 +1,73 @@
+{
+ "records": [
+  {
+   "manufacturer": "Schneider Electric",
+   "model": "SCADAPack",
+   "part": "SCADA Pack telemetry equipment, support, and maintenance services",
+   "part_numbers": [
+    "20742948730",
+    "OD5360148700",
+    "OD5360248700",
+    "OD5360448700",
+    "OD5360548700",
+    "OD5361448700",
+    "OD5361548700",
+    "OD5361848700",
+    "OD5361948700",
+    "OD5362448700",
+    "OD5362748700",
+    "OD5362848700",
+    "OD5362948700",
+    "OD5363148700",
+    "OD5365148700"
+   ],
+   "quantity": null,
+   "price_usd": 200000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Power RICH Systems, LLC",
+   "reason": "Power RICH Systems, LLC is the sole Registered Schneider Electric Alliance Partner, SEAP# 4038US, for SCADAPack RTUs and EcoStruxture GeoSCADA Expert software in the state of Florida.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Lee County Utilities lift stations and remote sites",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Schneider Electric",
+   "model": "EcoStruxture GeoSCADA Expert",
+   "part": "GeoSCADA remote monitoring software that manages the remote SCADA Pack units",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Power RICH Systems, LLC",
+   "reason": "Power RICH Systems, LLC is the sole Registered Schneider Electric Alliance Partner, SEAP# 4038US, for SCADAPack RTUs and EcoStruxture GeoSCADA Expert software in the state of Florida.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Lee County Utilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Schneider Electric",
+   "model": "Remote Operations (TRSS)",
+   "part": "Remote Operations (TRSS) products",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Power RICH Systems, LLC",
+   "reason": "Schneider Electric Systems USA, Inc the sole manufacturer of the SCADAPack RTUs, EcoStruxture GeoSCADA Expert software, and all Remote Operations (TRSS) products, are offered and supported by Power RICH Systems, LLC.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5793,
+  "out": 1786
+ },
+ "model": "claude-sonnet-5"
+}

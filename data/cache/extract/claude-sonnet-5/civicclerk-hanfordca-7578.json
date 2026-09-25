@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": "F-150",
+   "part": "F-150 pickup trucks",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": "6-8 months (local); 2 months (recommended vendor)",
+   "sole_source_vendor": "National Auto Fleet Group",
+   "reason": "The local Ford vendor will not have any trucks in stock for a minimum of 6-8 months, as opposed to the vendor recommended that can have the trucks in as little as two months.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": "F-150 Lightning",
+   "part": "F-150 Lightning EV pickup trucks",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "National Auto Fleet Group",
+   "reason": "it was determined that the purchase of the F-150 Lightning EV pickups will allow us to maintain a plan of compliance, avoiding any potential hefty fines from the California Airboard",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dodge",
+   "model": "Durango Pursuit",
+   "part": "Dodge Durango Pursuit Vehicles",
+   "part_numbers": [],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "National Auto Fleet Group",
+   "reason": "Dodge was unable to provide a local quote.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Upfitting of vehicles (three F-150, two F-150 Lightning EV, five Dodge Durango Pursuit)",
+   "part_numbers": [],
+   "quantity": "10",
+   "price_usd": 343094.13,
+   "lead_time": "1-2 months",
+   "sole_source_vendor": "Cooks Communications",
+   "reason": "By going with National Auto Fleet group, the timeline for a vehicle on the street is reduced by a projected 4-6 months, unfitting of vehicles may take 1-2 months.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3201,
+  "out": 774
+ },
+ "model": "claude-sonnet-5"
+}

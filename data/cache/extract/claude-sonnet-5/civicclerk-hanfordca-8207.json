@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": "Internalift Screw Pump",
+   "part": "One (1) new 72\" Diameter Internalift Screw Pump Body, to replace Internal Lift Screw Pump #1 at WWTF headworks",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 925000,
+   "lead_time": "Approximately 12 months (34-36 weeks shipment after drawing approval, plus 14-16 weeks for submittal drawings)",
+   "sole_source_vendor": "Evoqua Water Technologies LLC",
+   "reason": "Procurement of this internal lift screw pump is a sole source purchase from Evoque Water Technologies since they are the sole manufacturer and provider of the primary pumps currently in use at the headworks facility.",
+   "equipment_class": "pump",
+   "installed_location": "Wastewater Treatment Facility (WWTF) Headworks Wet Well",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": "Internalift Screw Pump",
+   "part": "Removal & Installation Services (One Mobilization) for new screw pump",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 340000,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies LLC",
+   "reason": "Procurement of this internal lift screw pump is a sole source purchase from Evoque Water Technologies since they are the sole manufacturer and provider of the primary pumps currently in use at the headworks facility.",
+   "equipment_class": "pump",
+   "installed_location": "Wastewater Treatment Facility (WWTF) Headworks Wet Well",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": "Internalift Screw Pump",
+   "part": "Adder: Two additional mobilizations for removal and installation",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 60000,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies LLC",
+   "reason": "Procurement of this internal lift screw pump is a sole source purchase from Evoque Water Technologies since they are the sole manufacturer and provider of the primary pumps currently in use at the headworks facility.",
+   "equipment_class": "pump",
+   "installed_location": "Wastewater Treatment Facility (WWTF) Headworks Wet Well",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": "Internalift Screw Pump",
+   "part": "Internal Lift Screw Pump #3 (previously authorized, currently being manufactured)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies LLC",
+   "reason": "City Council authorized the procurement of the Internal Lift Screw Pump (Pump #3) from Evoque Water Technologies LLC at the December 3, 2024 City Council meeting.",
+   "equipment_class": "pump",
+   "installed_location": "Wastewater Treatment Facility (WWTF) Headworks Wet Well",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Emergency standby pump serving as temporary backup for internal lift screw pumps",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This standby pump is critical to the operations of the WWTF should the primary internal lift screw pump(s) fail resulting in a catastrophic spill.",
+   "equipment_class": "pump",
+   "installed_location": "Wastewater Treatment Facility (WWTF) Headworks",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11538,
+  "out": 1246
+ },
+ "model": "claude-sonnet-5"
+}

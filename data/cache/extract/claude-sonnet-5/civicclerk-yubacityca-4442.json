@@ -1,0 +1,87 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bredel",
+   "model": "Bredel 10",
+   "part": "Bredel 10 Peristaltic Pump Assembly- Lime Slurry",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 9870.0,
+   "lead_time": "8-10 weeks",
+   "sole_source_vendor": "Misco Water",
+   "reason": "the pumps are proprietary equipment uniquely suited for the City\u2019s water treatment plant infrastructure and solely available from said vendor",
+   "equipment_class": "pump",
+   "installed_location": "City of Yuba City Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bredel",
+   "model": "Bredel 15",
+   "part": "Bredel 15 Peristaltic Pump Assembly - Lime Slurry",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 11685.0,
+   "lead_time": "8-10 weeks",
+   "sole_source_vendor": "Misco Water",
+   "reason": "the pumps are proprietary equipment uniquely suited for the City\u2019s water treatment plant infrastructure and solely available from said vendor",
+   "equipment_class": "pump",
+   "installed_location": "City of Yuba City Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Danfoss/Vacon",
+   "model": "Vacon 20",
+   "part": "Control Panel with 0.5 HP VFD \u2013 One Bredel 10 Control Panel",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 17745.0,
+   "lead_time": "16-18 weeks",
+   "sole_source_vendor": "Misco Water",
+   "reason": "the pumps are proprietary equipment uniquely suited for the City\u2019s water treatment plant infrastructure and solely available from said vendor",
+   "equipment_class": "motor/drive",
+   "installed_location": "City of Yuba City Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Danfoss/Vacon",
+   "model": "Vacon 20",
+   "part": "Control Panel with 0.75 HP VFD \u2013 One Bredel 15 Control Panel",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 17845.0,
+   "lead_time": "16-18 weeks",
+   "sole_source_vendor": "Misco Water",
+   "reason": "the pumps are proprietary equipment uniquely suited for the City\u2019s water treatment plant infrastructure and solely available from said vendor",
+   "equipment_class": "motor/drive",
+   "installed_location": "City of Yuba City Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cleveland Mixer",
+   "model": "GCDO-6",
+   "part": "Lime Mixer, 5HP",
+   "part_numbers": [
+    "GCDO-6"
+   ],
+   "quantity": "1",
+   "price_usd": 13353.0,
+   "lead_time": "9 Weeks from our receipt of approved drawings",
+   "sole_source_vendor": "Cleveland Mixer",
+   "reason": "the mixer is proprietary equipment uniquely suited for the City\u2019s water treatment plant infrastructure and solely available from said vendor",
+   "equipment_class": "other equipment",
+   "installed_location": "City of Yuba City Water Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12203,
+  "out": 2067
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sutphen Corporation",
+   "model": null,
+   "part": "Repairs to Fire Truck 1 (T-1) - damage to aerial device and ladder",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 95000,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a Midwest certified dealer and service repair for Sutphen Corporation and Sutphen towers.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2206,
+  "out": 219
+ },
+ "model": "claude-sonnet-5"
+}

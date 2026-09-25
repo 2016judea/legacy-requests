@@ -1,0 +1,219 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "pole-mount and pad-mount transformers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 500000,
+   "lead_time": null,
+   "sole_source_vendor": "Arkansas Electric Cooperative Corporation",
+   "reason": "Arkansas Electric Cooperative Corporation was the only identified American supplier capable of meeting IPL\u2019s required schedule and operational delivery requirements.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "25 KVA pad-mount transformer",
+   "part_numbers": [
+    "15-025-02"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Arkansas Electric Cooperative Corporation",
+   "reason": "IPL is currently experiencing about an 18\u201324-month lead time with contracted vendors.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "37.5 KVA pad-mount transformer",
+   "part_numbers": [
+    "15-037-02"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Arkansas Electric Cooperative Corporation",
+   "reason": "IPL is currently experiencing about an 18\u201324-month lead time with contracted vendors.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "50 KVA pad-mount transformer",
+   "part_numbers": [
+    "15-050-02"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Arkansas Electric Cooperative Corporation",
+   "reason": "IPL is currently experiencing about an 18\u201324-month lead time with contracted vendors.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "150 kVA 3-phase pad transformer",
+   "part_numbers": [
+    "16-150-01"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Arkansas Electric Cooperative Corporation",
+   "reason": "IPL is currently experiencing about an 18\u201324-month lead time with contracted vendors.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "300 kVA transformer",
+   "part_numbers": [
+    "16-300-04"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Arkansas Electric Cooperative Corporation",
+   "reason": "IPL is currently experiencing about an 18\u201324-month lead time with contracted vendors.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "167 kVA pad transformer",
+   "part_numbers": [
+    "15-167-02"
+   ],
+   "quantity": "2",
+   "price_usd": 25956.45,
+   "lead_time": null,
+   "sole_source_vendor": "Arkansas Electric Cooperative Corporation",
+   "reason": "IPL is currently experiencing about an 18\u201324-month lead time with contracted vendors.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "75 KVA pad-mount transformer",
+   "part_numbers": [
+    "15-075-02"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Arkansas Electric Cooperative Corporation",
+   "reason": "IPL is currently experiencing about an 18\u201324-month lead time with contracted vendors.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "100 KVA pad-mount transformer",
+   "part_numbers": [
+    "15-100-02"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Arkansas Electric Cooperative Corporation",
+   "reason": "IPL is currently experiencing about an 18\u201324-month lead time with contracted vendors.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "1500 kVA 3-phase pad transformer",
+   "part_numbers": [
+    "16-999-15"
+   ],
+   "quantity": "1",
+   "price_usd": 50100.4,
+   "lead_time": null,
+   "sole_source_vendor": "Arkansas Electric Cooperative Corporation",
+   "reason": "IPL is currently experiencing about an 18\u201324-month lead time with contracted vendors.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "WEG",
+   "model": "Three Phase Pad-Mount Transformer",
+   "part": "750 kVA three phase pad-mount transformer",
+   "part_numbers": [
+    "M0192491-0101"
+   ],
+   "quantity": "1",
+   "price_usd": 27328,
+   "lead_time": "22 TO 24 WEEKS AFTER RECEIPT OF ORDER",
+   "sole_source_vendor": null,
+   "reason": "IPL is currently experiencing about an 18\u201324-month lead time with contracted vendors.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Independence, MO",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "WEG",
+   "model": "Three Phase Pad-Mount Transformer",
+   "part": "1000 kVA three phase pad-mount transformer",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 34110,
+   "lead_time": "26 TO 28 WEEKS AFTER RECEIPT OF ORDER",
+   "sole_source_vendor": null,
+   "reason": "IPL is currently experiencing about an 18\u201324-month lead time with contracted vendors.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Independence, MO",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "WEG",
+   "model": "Three Phase Pad-Mount Transformer",
+   "part": "1500 kVA three phase pad-mount transformer",
+   "part_numbers": [
+    "M0192529-01"
+   ],
+   "quantity": "1",
+   "price_usd": 44633,
+   "lead_time": "26 TO 28 WEEKS AFTER RECEIPT OF ORDER",
+   "sole_source_vendor": null,
+   "reason": "IPL is currently experiencing about an 18\u201324-month lead time with contracted vendors.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Independence, MO",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10819,
+  "out": 7338
+ },
+ "model": "claude-sonnet-5"
+}

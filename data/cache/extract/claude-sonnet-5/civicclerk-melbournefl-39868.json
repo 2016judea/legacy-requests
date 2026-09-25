@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Badger Meter, Inc.",
+   "model": "Beacon",
+   "part": "Beacon Mobile Hosting and Cellular Fees software used to convert water meter usage data into billable amounts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 600000,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "Beacon Software is developed and maintained by Badger Meter, Inc. and is unavailable from other vendors.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Melbourne",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7402,
+  "out": 216
+ },
+ "model": "claude-sonnet-5"
+}

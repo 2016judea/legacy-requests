@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Engine replacement (rebuilt engine install) for Fire Engine #164",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 66251.55,
+   "lead_time": "projected 3-month time frame",
+   "sole_source_vendor": "Golden State Peterbilt of Porterville, CA",
+   "reason": "Golden State Peterbilt is the local authorized Cummings motor repair vendor in this area and traditionally has made any repairs to our safety equipment a priority.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Engine #164",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cummings",
+   "model": "ISL 8.9 13 B 380@2000",
+   "part": "Engine, ISL 8.9 13 B 380@2000 (Core: $7,312.50)",
+   "part_numbers": [],
+   "quantity": "1.0",
+   "price_usd": 45018.34,
+   "lead_time": null,
+   "sole_source_vendor": "Golden State Peterbilt of Porterville, CA",
+   "reason": "Golden State Peterbilt is the local authorized Cummings motor repair vendor in this area and traditionally has made any repairs to our safety equipment a priority.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Engine #164",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "KIT, EXHAUST MANIFOLD",
+   "part_numbers": [],
+   "quantity": "1.0",
+   "price_usd": 1559.19,
+   "lead_time": null,
+   "sole_source_vendor": "Golden State Peterbilt of Porterville, CA",
+   "reason": "Golden State Peterbilt is the local authorized Cummings motor repair vendor in this area and traditionally has made any repairs to our safety equipment a priority.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Engine #164",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "MISC BELTS/HOSES/GASKETS/ECT..",
+   "part_numbers": [],
+   "quantity": "1.0",
+   "price_usd": 1000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Golden State Peterbilt of Porterville, CA",
+   "reason": "Golden State Peterbilt is the local authorized Cummings motor repair vendor in this area and traditionally has made any repairs to our safety equipment a priority.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Engine #164",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Cooling System Repair - Split and Clean",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 780.0,
+   "lead_time": null,
+   "sole_source_vendor": "Golden State Peterbilt of Porterville, CA",
+   "reason": "Golden State Peterbilt is the local authorized Cummings motor repair vendor in this area and traditionally has made any repairs to our safety equipment a priority.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Engine #164",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7913,
+  "out": 3630
+ },
+ "model": "claude-sonnet-5"
+}

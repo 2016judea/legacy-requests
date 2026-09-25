@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Schneider Electric",
+   "model": "SCADAPack",
+   "part": "SCADA Pack telemetry equipment used to monitor and control lift stations and remote facilities",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 125000,
+   "lead_time": null,
+   "sole_source_vendor": "Power RICH Systems, LLC",
+   "reason": "Power RICH Systems, LLC is the sole Registered Schneider Electric Alliance Partner, SEAP# 4038US, for SCADAPack RTUs and EcoStruxture GeoSCADA Expert software in the state of Florida.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Lee County Utilities lift stations and remote facilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Schneider Electric",
+   "model": "EcoStruxure GeoSCADA Expert",
+   "part": "GeoSCADA remote monitoring software that manages and monitors the remote SCADA Pack units",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Power RICH Systems, LLC",
+   "reason": "Power RICH Systems, LLC is the sole Registered Schneider Electric Alliance Partner, SEAP# 4038US, for SCADAPack RTUs and EcoStruxture GeoSCADA Expert software in the state of Florida.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Lee County Utilities remote facilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Schneider Electric",
+   "model": "TRSS",
+   "part": "TRSS products supporting SCADA/telemetry system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Power RICH Systems, LLC",
+   "reason": "Schneider Electric Systems USA, Inc the sole manufacturer of the SCADAPack RTUs, EcoStruxture GeoSCADA Expert software, and all TRSS products, are offered and supported by Power RICH Systems, LLC.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Lee County Utilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Schneider Electric",
+   "model": "ClearSCADA",
+   "part": "CLEAR SCADA SOFTWARE SUPPORT for multiple Lee County Utilities sites",
+   "part_numbers": [],
+   "quantity": "14 locations",
+   "price_usd": 328.57,
+   "lead_time": null,
+   "sole_source_vendor": "Power RICH Systems, LLC",
+   "reason": "Power RICH Systems, LLC is the sole Registered Schneider Electric Alliance Partner, SEAP# 4038US, for SCADAPack RTUs and EcoStruxture GeoSCADA Expert software in the state of Florida.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Lee County Utilities (multiple sites)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10702,
+  "out": 2617
+ },
+ "model": "claude-sonnet-5"
+}

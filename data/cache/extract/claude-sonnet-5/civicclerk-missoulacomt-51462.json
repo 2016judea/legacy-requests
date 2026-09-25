@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ram",
+   "model": "2500 WT",
+   "part": "Purchase of 2025 Ram 2500 truck for wildfire/All-Hazard response capacity",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 47000,
+   "lead_time": "3-4 months",
+   "sole_source_vendor": "Rogers Motors",
+   "reason": "Vehicle will be purchased from Rogers Motors as selected by the State of Montana 2025 vehicle solicitation.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Missoula County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3397,
+  "out": 207
+ },
+ "model": "claude-sonnet-5"
+}

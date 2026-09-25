@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Mobile marine septage pump out vessel",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 116250.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff determined that the best way to address both the number and distribution of available marine septage pump out stations would be to offer such services through an on-water mobile septage pump out vessel.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Indian River Lagoon, Indian River County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9332,
+  "out": 1125
+ },
+ "model": "claude-sonnet-5"
+}

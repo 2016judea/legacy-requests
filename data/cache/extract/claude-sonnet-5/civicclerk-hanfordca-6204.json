@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Electrical Switchgear for Solar Photovoltaic Project",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 400000,
+   "lead_time": "nine to twelve months",
+   "sole_source_vendor": null,
+   "reason": "Procurement of the Switchgear has been identified as the critical path of the Solar project\u2019s schedule.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Wastewater Treatment Facility (WWTF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Design and construction of Solar Photovoltaic Project and Energy-Related Upgrades at the Wastewater Treatment Facility",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 53461828,
+   "lead_time": null,
+   "sole_source_vendor": "Engie Energy Services U.S.",
+   "reason": "Engie has also completed numerous energy-related projects throughout the Central Valley amounting to $300M in energy projects including the Solar Facility currently in operation at the City\u2019s WTTF.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Wastewater Treatment Facility (WWTF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "845kW fixed solar photovoltaic facility",
+   "part_numbers": [],
+   "quantity": "845kW",
+   "price_usd": 4195000,
+   "lead_time": null,
+   "sole_source_vendor": "Engie Energy Services U.S.",
+   "reason": "The proposed project is comprised a 845kW fixed solar photovoltaic facility and both energy and operational upgrades to the WTTF.",
+   "equipment_class": "other equipment",
+   "installed_location": "Wastewater Treatment Facility (WWTF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "New 4MGD Oxidation Ditch",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Engie Energy Services U.S.",
+   "reason": "Upgrades include adding a new 4MGD Oxidation Ditch, Retrofit and Increase Capacity to the existing Oxidation Ditch, and a new 85-foot diameter Secondary Clarifier.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Wastewater Treatment Facility (WWTF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Retrofit and Increase Capacity to the existing Oxidation Ditch",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Engie Energy Services U.S.",
+   "reason": "Upgrades include adding a new 4MGD Oxidation Ditch, Retrofit and Increase Capacity to the existing Oxidation Ditch, and a new 85-foot diameter Secondary Clarifier.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Wastewater Treatment Facility (WWTF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "New 85-foot diameter Secondary Clarifier",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Engie Energy Services U.S.",
+   "reason": "Upgrades include adding a new 4MGD Oxidation Ditch, Retrofit and Increase Capacity to the existing Oxidation Ditch, and a new 85-foot diameter Secondary Clarifier.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Wastewater Treatment Facility (WWTF)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6105,
+  "out": 3036
+ },
+ "model": "claude-sonnet-5"
+}

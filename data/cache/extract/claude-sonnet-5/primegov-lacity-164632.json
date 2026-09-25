@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": "Solar Turbines",
+   "model": "Mercury 50",
+   "part": "Five-year contract for service, maintenance, and repairs for two Mercury 50 Gas Turbines located at the Central Utility Plant",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 16000000,
+   "lead_time": null,
+   "sole_source_vendor": "Solar Turbines Incorporated",
+   "reason": "Solar Turbines manufactured the installed turbines, and the company has neither recognized any third party as authorized to repair or overhaul these turbines nor licensed their intellectual property relative to these turbines to any third party.",
+   "equipment_class": "generator",
+   "installed_location": "Central Utility Plant at Los Angeles International Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Solar Turbines",
+   "model": "Mercury 50",
+   "part": "Beneficial Use Service Agreement (BUSA)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 4865910.78,
+   "lead_time": null,
+   "sole_source_vendor": "Solar Turbines Incorporated",
+   "reason": "Currently, there are no personnel certified to service and repair the Mercury-50 turbines other than Solar-certified mechanics.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Central Utility Plant at Los Angeles International Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Solar Turbines",
+   "model": "Mercury 50",
+   "part": "Oil Change / Cleaning",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 338559.03,
+   "lead_time": null,
+   "sole_source_vendor": "Solar Turbines Incorporated",
+   "reason": "Solar Turbines is the original equipment manufacturer and the only authorized provider of specialized parts, service, and maintenance for the equipment currently in use.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Central Utility Plant at Los Angeles International Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Solar Turbines",
+   "model": "Mercury 50",
+   "part": "Turbine Removal & Install / Overhaul",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 363664.29,
+   "lead_time": null,
+   "sole_source_vendor": "Solar Turbines Incorporated",
+   "reason": "Solar Turbines is the original equipment manufacturer and the only authorized provider of specialized parts, service, and maintenance for the equipment currently in use.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Central Utility Plant at Los Angeles International Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Solar Turbines",
+   "model": "Mercury 50",
+   "part": "Turbine Overhaul",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 4360200.0,
+   "lead_time": null,
+   "sole_source_vendor": "Solar Turbines Incorporated",
+   "reason": "Solar Turbines is the original equipment manufacturer and the only authorized provider of specialized parts, service, and maintenance for the equipment currently in use.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Central Utility Plant at Los Angeles International Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Solar Turbines",
+   "model": "Mercury 50",
+   "part": "Recuperator Assembly",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3306249.74,
+   "lead_time": null,
+   "sole_source_vendor": "Solar Turbines Incorporated",
+   "reason": "Solar Turbines is the original equipment manufacturer and the only authorized provider of specialized parts, service, and maintenance for the equipment currently in use.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Central Utility Plant at Los Angeles International Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Solar Turbines",
+   "model": "Mercury 50",
+   "part": "Recuperator Removal & Installation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 363664.29,
+   "lead_time": null,
+   "sole_source_vendor": "Solar Turbines Incorporated",
+   "reason": "Solar Turbines is the original equipment manufacturer and the only authorized provider of specialized parts, service, and maintenance for the equipment currently in use.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Central Utility Plant at Los Angeles International Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Solar Turbines",
+   "model": "Mercury 50",
+   "part": "Generator Major Repair",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1116160.06,
+   "lead_time": null,
+   "sole_source_vendor": "Solar Turbines Incorporated",
+   "reason": "Solar Turbines is the original equipment manufacturer and the only authorized provider of specialized parts, service, and maintenance for the equipment currently in use.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Central Utility Plant at Los Angeles International Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Solar Turbines",
+   "model": "Mercury 50",
+   "part": "Medium Voltage Electrical Support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 94932.46,
+   "lead_time": null,
+   "sole_source_vendor": "Solar Turbines Incorporated",
+   "reason": "Solar Turbines is the original equipment manufacturer and the only authorized provider of specialized parts, service, and maintenance for the equipment currently in use.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Central Utility Plant at Los Angeles International Airport",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11751,
+  "out": 1913
+ },
+ "model": "claude-sonnet-5"
+}

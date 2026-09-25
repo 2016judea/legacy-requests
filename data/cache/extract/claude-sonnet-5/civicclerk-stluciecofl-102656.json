@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "I-CON Systems Inc.",
+   "model": null,
+   "part": "I-CON plumbing parts that are used to repair I-CON systems located at the St Lucie County Jail",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "I-CON Systems Inc.",
+   "reason": "There is no other like item or product available for purchase that would serve the same function or meet the same specifications as the Product.",
+   "equipment_class": "other equipment",
+   "installed_location": "St Lucie County Jail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "E2Walls",
+   "model": "Series 225 Movable Wall System",
+   "part": "Series 225 Movable Wall System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "E2Walls, Inc.",
+   "reason": "The products is manufactured, installed and serviced solely by E2Walls, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "UTEM (Utility Truck Equipment Mfg.)",
+   "model": null,
+   "part": "Inspections and repairs on UTEM range of aerial devices",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stamm mfg, A Division of World Industrial Equipment, Inc.",
+   "reason": "Stamm Mfg. located at 4850 Orange Ave, Fort Pierce, FL 34947 is the Sole Source Distributor for the UTEM (Utility Truck Equipment Mfg.) range of aerial devices for St. Lucie County Florida.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "St. Lucie County Florida",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5376,
+  "out": 678
+ },
+ "model": "claude-sonnet-5"
+}

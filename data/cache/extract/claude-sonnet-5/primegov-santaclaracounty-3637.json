@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Exemplar Human Services, LLC",
+   "model": null,
+   "part": "Reporting tools and services (customized productivity reports for CalSAWS/CalWIN case management system)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 595000,
+   "lead_time": null,
+   "sole_source_vendor": "Exemplar Human Services, LLC",
+   "reason": "Exemplar is the only vendor that provides a highly customizable reporting services solution via their clients\\u2019 preferred method of delivery, with development input and oversight by Exemplar\\u2019s human services policy and practice experts.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Employment and Benefit Services (DEBS)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14592,
+  "out": 262
+ },
+ "model": "claude-sonnet-5"
+}

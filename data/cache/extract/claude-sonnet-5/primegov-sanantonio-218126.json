@@ -1,0 +1,157 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trane",
+   "model": "20-Ton Trane Precedent Unit",
+   "part": "20-ton Mobile Air Conditioning Unit with built-in 54-Kilowatt Heater Unit, mounted on mobile trailers",
+   "part_numbers": [
+    "TSK240A4500"
+   ],
+   "quantity": "3",
+   "price_usd": 67724.0,
+   "lead_time": "120 Calendar Days",
+   "sole_source_vendor": "HVAC Mechanical Services of Texas, LTD.",
+   "reason": "In the past, SAFD used rented stationary heating and cooling units that were financially unsustainable and operationally insufficient.",
+   "equipment_class": "HVAC",
+   "installed_location": "San Antonio Fire Department (SAFD) - Emergency Operations Center (EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trane",
+   "model": "30-Ton Trane Voyager Unit",
+   "part": "30-ton mobile Air Conditioning Unit with built-in 72-Kilowatt Heater Unit, mounted upon mobile trailers",
+   "part_numbers": [
+    "TCH360D40"
+   ],
+   "quantity": "2",
+   "price_usd": 102889.0,
+   "lead_time": "120 Calendar Days",
+   "sole_source_vendor": "HVAC Mechanical Services of Texas, LTD.",
+   "reason": "In the past, SAFD used rented stationary heating and cooling units that were financially unsustainable and operationally insufficient.",
+   "equipment_class": "HVAC",
+   "installed_location": "San Antonio Fire Department (SAFD) - Emergency Operations Center (EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trane",
+   "model": "50-Ton Trane Voyager Unit",
+   "part": "50-ton mobile Air Conditioning Unit with built-in 108-Kilowatt Heater Unit, mounted upon mobile trailers",
+   "part_numbers": [
+    "TC600D40"
+   ],
+   "quantity": "2",
+   "price_usd": 138712.0,
+   "lead_time": "120 Calendar Days",
+   "sole_source_vendor": "HVAC Mechanical Services of Texas, LTD.",
+   "reason": "In the past, SAFD used rented stationary heating and cooling units that were financially unsustainable and operationally insufficient.",
+   "equipment_class": "HVAC",
+   "installed_location": "San Antonio Fire Department (SAFD) - Emergency Operations Center (EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "125-KW Generator",
+   "part": "125-Kilowatt Mobile Generator on Trailer",
+   "part_numbers": [
+    "MFGANA150KVATAF"
+   ],
+   "quantity": "2",
+   "price_usd": 161653.0,
+   "lead_time": "120 Calendar Days",
+   "sole_source_vendor": "HVAC Mechanical Services of Texas, LTD.",
+   "reason": "In the past, SAFD used rented stationary heating and cooling units that were financially unsustainable and operationally insufficient.",
+   "equipment_class": "generator",
+   "installed_location": "San Antonio Fire Department (SAFD) - Emergency Operations Center (EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "100-KW Generator",
+   "part": "100-Kilowatt Mobile Generator on Trailer",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": 132176.0,
+   "lead_time": "120 Calendar Days",
+   "sole_source_vendor": "HVAC Mechanical Services of Texas, LTD.",
+   "reason": "In the past, SAFD used rented stationary heating and cooling units that were financially unsustainable and operationally insufficient.",
+   "equipment_class": "generator",
+   "installed_location": "San Antonio Fire Department (SAFD) - Emergency Operations Center (EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "100'X20\" DIA-1302HD Lay Flat Duct",
+   "part": "Interior Use Ductwork",
+   "part_numbers": [
+    "W/2 Office Dispersion"
+   ],
+   "quantity": "20",
+   "price_usd": 469.0,
+   "lead_time": "120 Calendar Days",
+   "sole_source_vendor": "HVAC Mechanical Services of Texas, LTD.",
+   "reason": "In the past, SAFD used rented stationary heating and cooling units that were financially unsustainable and operationally insufficient.",
+   "equipment_class": "other equipment",
+   "installed_location": "San Antonio Fire Department (SAFD) - Emergency Operations Center (EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "25'x20\"DIA Flexible Yello PVC",
+   "part": "Exterior Use Ductwork",
+   "part_numbers": [
+    "Polester Duct"
+   ],
+   "quantity": "15",
+   "price_usd": 240.0,
+   "lead_time": "120 Calendar Days",
+   "sole_source_vendor": "HVAC Mechanical Services of Texas, LTD.",
+   "reason": "In the past, SAFD used rented stationary heating and cooling units that were financially unsustainable and operationally insufficient.",
+   "equipment_class": "other equipment",
+   "installed_location": "San Antonio Fire Department (SAFD) - Emergency Operations Center (EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "4/0 Type W BLK 50' W/BLK",
+   "part": "Male and Female Type W Cams",
+   "part_numbers": [
+    "M&F CAMS"
+   ],
+   "quantity": "28",
+   "price_usd": 551.0,
+   "lead_time": "120 Calendar Days",
+   "sole_source_vendor": "HVAC Mechanical Services of Texas, LTD.",
+   "reason": "In the past, SAFD used rented stationary heating and cooling units that were financially unsustainable and operationally insufficient.",
+   "equipment_class": "other equipment",
+   "installed_location": "San Antonio Fire Department (SAFD) - Emergency Operations Center (EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "4/0 Type W Blk Femail Tail",
+   "part": "Female Tail with Type F Cams",
+   "part_numbers": [
+    "W/BLKFCAMS"
+   ],
+   "quantity": "8",
+   "price_usd": 246.0,
+   "lead_time": "120 Calendar Days",
+   "sole_source_vendor": "HVAC Mechanical Services of Texas, LTD.",
+   "reason": "In the past, SAFD used rented stationary heating and cooling units that were financially unsustainable and operationally insufficient.",
+   "equipment_class": "other equipment",
+   "installed_location": "San Antonio Fire Department (SAFD) - Emergency Operations Center (EOC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4471,
+  "out": 2958
+ },
+ "model": "claude-sonnet-5"
+}

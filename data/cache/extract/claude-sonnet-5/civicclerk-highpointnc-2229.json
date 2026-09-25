@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lamson",
+   "model": "855-ADGI",
+   "part": "Replacement Multistage Centrifugal Air Blower and associated appurtenances",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 112405.0,
+   "lead_time": "16 Weeks",
+   "sole_source_vendor": "DXP Enterprises, Inc. dba Premier Water, a DXP Company",
+   "reason": "Premier Water, Inc. is the authorized representative for Hoffman & Lamson multistage centrifugal blowers for the municipal wastewater market segment in the State of North Carolina and South Carolina for Gardner Denver NASH.",
+   "equipment_class": "other equipment",
+   "installed_location": "Ward Water Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6405,
+  "out": 265
+ },
+ "model": "claude-sonnet-5"
+}

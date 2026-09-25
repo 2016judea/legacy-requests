@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Alexis",
+   "model": "Spartan Chassis Crane Heavy Rescue Truck",
+   "part": "New 2025/26 Alexis Spartan Chassis Crane Heavy Rescue Truck for the Fire Department",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 1986427.0,
+   "lead_time": "18-24 month lead time",
+   "sole_source_vendor": "SMJ Equipment, LLC",
+   "reason": "This new apparatus will replace a heavy rescue unit that was purchased in 1992, refurbished in 2008, is obsolete and has reached the end of its useful life.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Department",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 20165,
+  "out": 265
+ },
+ "model": "claude-sonnet-5"
+}

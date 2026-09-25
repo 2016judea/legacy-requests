@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "New Flyer",
+   "model": null,
+   "part": "Manufacture and delivery of sixteen (16) CNG 40-FT rapid transit buses, with option for eighteen (18) additional buses",
+   "part_numbers": [],
+   "quantity": "16 (option for additional 18)",
+   "price_usd": 15000000.0,
+   "lead_time": "5-year agreement when awarded",
+   "sole_source_vendor": "New Flyer",
+   "reason": "Only one proposal was received in response to the solicitation issued on April 15, 2026. After review and evaluation, the Recipient has determined that awarding to New Flyer is appropriate and compliant with federal requirements.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8465,
+  "out": 257
+ },
+ "model": "claude-sonnet-5"
+}

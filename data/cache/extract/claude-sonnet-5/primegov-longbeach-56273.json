@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Knox Company",
+   "model": "Knox Keysecure",
+   "part": "Knox Keysecure parts, equipment, installation services, and a 5-year KnoxConnect cloud software license for LBFD's fleet of fire apparatus",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 225130,
+   "lead_time": null,
+   "sole_source_vendor": "Knox Associates, Inc. dba the Knox Company",
+   "reason": "Knox Company is authorized as the sole source vendor who holds patent rights and manufactures all Knox Keysecure and KnoxConnect products",
+   "equipment_class": "other equipment",
+   "installed_location": "Long Beach Fire Department fleet of fire apparatus",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11989,
+  "out": 256
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Lift station pump for Bayside Sewer Lift Station (250HP)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 156000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Xylem Water Solutions USA, Inc.",
+   "reason": "Xylem Water Solutions USA, Inc., a sole source provider, provided a price quote for the purchase, on an emergency basis, of the required pump",
+   "equipment_class": "pump",
+   "installed_location": "Bayside Sewer Lift Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4317,
+  "out": 210
+ },
+ "model": "claude-sonnet-5"
+}

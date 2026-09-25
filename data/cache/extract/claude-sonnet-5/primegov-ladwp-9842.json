@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "GE Vernova",
+   "model": null,
+   "part": "Gas turbine and generator equipment manufacturing slot reservation for Scattergood Generating Station Units 1 and 2 Green Hydrogen-Ready Modernization Project",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 15000000,
+   "lead_time": null,
+   "sole_source_vendor": "GE Vernova Operations LLC",
+   "reason": "GE Vernova was the only vendor willing to offer a manufacturing slot for LADWP, despite high market demand.",
+   "equipment_class": "generator",
+   "installed_location": "Scattergood Generating Station Units 1 and 2",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6931,
+  "out": 245
+ },
+ "model": "claude-sonnet-5"
+}

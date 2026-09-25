@@ -1,0 +1,101 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tarpomatic, Inc.",
+   "model": "Gen IV",
+   "part": "40' Automatic Tarping Machine (Gen IV) with one New Spiral Tarp Spool and Hydraulic Top Spool Locks",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 59000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Tarpomatic, Inc.",
+   "reason": "Tarpomatic, Inc. is the sole source for any and all Tarpomatic products.",
+   "equipment_class": "other equipment",
+   "installed_location": "Kersey Valley Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tarpomatic, Inc.",
+   "model": null,
+   "part": "40' X 100' Tarp with 3/8\" chain in 100' side pockets and 10 cable ready crossing pockets, installed on tarp spool",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": 12300.0,
+   "lead_time": null,
+   "sole_source_vendor": "Tarpomatic, Inc.",
+   "reason": "Tarpomatic, Inc. is the sole source for any and all Tarpomatic products.",
+   "equipment_class": "other equipment",
+   "installed_location": "Kersey Valley Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tarpomatic, Inc.",
+   "model": "CK040",
+   "part": "40ft Cable Assembly for Tarpomatic Tarps with Patented Cable Keepers and Screw Clips, installed into 10 crossing pockets per tarp",
+   "part_numbers": [
+    "CK040"
+   ],
+   "quantity": "30",
+   "price_usd": 5100.0,
+   "lead_time": null,
+   "sole_source_vendor": "Tarpomatic, Inc.",
+   "reason": "Tarpomatic, Inc. is the sole source for any and all Tarpomatic products.",
+   "equipment_class": "other equipment",
+   "installed_location": "Kersey Valley Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tarpomatic, Inc.",
+   "model": "Remote II",
+   "part": "Complete Remote II System (Blue Transmitter & Receiver)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 3680.0,
+   "lead_time": null,
+   "sole_source_vendor": "Tarpomatic, Inc.",
+   "reason": "Tarpomatic, Inc. is the sole source for any and all Tarpomatic products.",
+   "equipment_class": "other equipment",
+   "installed_location": "Kersey Valley Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tarpomatic, Inc.",
+   "model": null,
+   "part": "Fabricate Adjustable Lifting Brackets",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 2950.0,
+   "lead_time": null,
+   "sole_source_vendor": "Tarpomatic, Inc.",
+   "reason": "Tarpomatic, Inc. is the sole source for any and all Tarpomatic products.",
+   "equipment_class": "other equipment",
+   "installed_location": "Kersey Valley Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tarpomatic, Inc.",
+   "model": null,
+   "part": "Camera on drive end, to line up spool and engage drive shaft",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 950.0,
+   "lead_time": null,
+   "sole_source_vendor": "Tarpomatic, Inc.",
+   "reason": "Tarpomatic, Inc. is the sole source for any and all Tarpomatic products.",
+   "equipment_class": "other equipment",
+   "installed_location": "Kersey Valley Landfill",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4822,
+  "out": 2111
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,207 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": "APX 8000",
+   "part": "PORTABLE RADIO APX 8000 ALL BAND MODEL 3.5",
+   "part_numbers": [
+    "H91TGD9PW7AN"
+   ],
+   "quantity": "50",
+   "price_usd": 315761.5,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "which contains proprietary hardware and software components that are only available through Motorola",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": "APX 8000",
+   "part": "SOFTWARE LICENSE ENH: MULTIKEY",
+   "part_numbers": [
+    "H869BW"
+   ],
+   "quantity": "50",
+   "price_usd": 14162.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "which contains proprietary hardware and software components that are only available through Motorola",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": "APX 8000",
+   "part": "ADD: ASTRO DIGITAL CAI OPERATION",
+   "part_numbers": [
+    "Q806CB"
+   ],
+   "quantity": "50",
+   "price_usd": 22155.5,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "which contains proprietary hardware and software components that are only available through Motorola",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": "APX 8000",
+   "part": "ADD: P25 9600 BAUD TRUNKING",
+   "part_numbers": [
+    "Q361AN"
+   ],
+   "quantity": "50",
+   "price_usd": 12884.5,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "which contains proprietary hardware and software components that are only available through Motorola",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": "APX 8000",
+   "part": "ADD: 3Y ESSENTIAL SERVICE",
+   "part_numbers": [
+    "Q58AL"
+   ],
+   "quantity": "50",
+   "price_usd": 9200.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "which contains proprietary hardware and software components that are only available through Motorola",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": "APX 8000",
+   "part": "ADD: SMARTZONE OPERATION",
+   "part_numbers": [
+    "H38BS"
+   ],
+   "quantity": "50",
+   "price_usd": 64459.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "which contains proprietary hardware and software components that are only available through Motorola",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": "APX 8000",
+   "part": "ADD: BASELINE RELEASE SW",
+   "part_numbers": [
+    "QA09113AB"
+   ],
+   "quantity": "50",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "which contains proprietary hardware and software components that are only available through Motorola",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": "APX 8000",
+   "part": "ADD: PROGRAMMING OVER P25 (OTAP)",
+   "part_numbers": [
+    "G996AP"
+   ],
+   "quantity": "50",
+   "price_usd": 4307.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "which contains proprietary hardware and software components that are only available through Motorola",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": "APX 8000",
+   "part": "SOFTWARE LICENSE ENH: AES ENCRYPTION AND ADP",
+   "part_numbers": [
+    "Q629AH"
+   ],
+   "quantity": "50",
+   "price_usd": 20440.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "which contains proprietary hardware and software components that are only available through Motorola",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": "APX 8000",
+   "part": "EARPIECE, RECEIVE ONLY, TRANSLUCET TUBE, 3.5MM",
+   "part_numbers": [
+    "RLN4941A"
+   ],
+   "quantity": "50",
+   "price_usd": 3285.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "which contains proprietary hardware and software components that are only available through Motorola",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": "APX 8000",
+   "part": "CHARGER, DESKTOP SINGLE UNIT IMPRES 2, FAST US/NA",
+   "part_numbers": [
+    "NNTN8860B"
+   ],
+   "quantity": "50",
+   "price_usd": 7483.5,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "which contains proprietary hardware and software components that are only available through Motorola",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": "APX 8000",
+   "part": "AUDIO ACCESSORY-REMOTE SPEAKER MICROPHONE, IP68 REMOTE SPEAKER MICROPHONE, 3.5MM, UL",
+   "part_numbers": [
+    "PMMN4099DL"
+   ],
+   "quantity": "50",
+   "price_usd": 6101.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "which contains proprietary hardware and software components that are only available through Motorola",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5085,
+  "out": 3354
+ },
+ "model": "claude-sonnet-5"
+}

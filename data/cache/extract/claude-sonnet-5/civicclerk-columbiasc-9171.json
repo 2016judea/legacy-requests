@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vaughan",
+   "model": "Vaughn Mix Pump",
+   "part": "1 new digester mix pump for spare, utilizing existing pump base plates, coupling, electric motors, and mounting stools",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Templeton and Associates",
+   "reason": "Templeton and Associates is the sole source provider for Vaughn Mix Pumps in South Carolina.",
+   "equipment_class": "pump",
+   "installed_location": "Metro Wastewater Treatment Plant Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vaughan",
+   "model": "Vaughn Mix Pump",
+   "part": "Rebuild of an existing remix pump for the solids Digesters",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Templeton and Associates",
+   "reason": "Templeton and Associates is the sole source provider for Vaughn Mix Pumps in South Carolina.",
+   "equipment_class": "pump",
+   "installed_location": "Metro Wastewater Treatment Plant Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Comprehensive medium voltage electrical testing of the facility's electrical distribution system, including high-service pumps, raw water pumps, treatment equipment, chemical feed systems, transformers, circuit breakers and protective relays",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 91999.8,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This testing is required on a three-year maintenance cycle to ensure the continued safe and reliable operation of the City's drinking water infrastructure and to meet OSHA requirements.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Canal Water Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9220,
+  "out": 1277
+ },
+ "model": "claude-sonnet-5"
+}

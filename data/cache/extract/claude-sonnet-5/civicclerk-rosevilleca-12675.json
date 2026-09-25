@@ -1,0 +1,63 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hornady",
+   "model": null,
+   "part": "HORN 9mm +P 124gr CRIT DUTY 500 RDS",
+   "part_numbers": [
+    "90215C"
+   ],
+   "quantity": "386",
+   "price_usd": 131387.54,
+   "lead_time": null,
+   "sole_source_vendor": "Miwall Corporation",
+   "reason": "Miwall Corporation is the exclusive distributor for Hornady 9mm ammunition",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Speer",
+   "model": "Gold Dot",
+   "part": "SPEER GOLD DOT .223 62GR GDSP",
+   "part_numbers": [
+    "CCI-24445SP"
+   ],
+   "quantity": "250 CS/500",
+   "price_usd": 87538.79,
+   "lead_time": null,
+   "sole_source_vendor": "San Diego Police Equipment",
+   "reason": "San Diego Police is the exclusive distributor for Speer .223 and Federal .308 ammunition",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Federal",
+   "model": "Tactical Tip MatchKing",
+   "part": "FEDERAL TRU .308 168GR TACTICAL TIP MATCHKING",
+   "part_numbers": [
+    "FED-T308T"
+   ],
+   "quantity": "12 CS/500",
+   "price_usd": 8462.27,
+   "lead_time": null,
+   "sole_source_vendor": "San Diego Police Equipment",
+   "reason": "San Diego Police is the exclusive distributor for Speer .223 and Federal .308 ammunition",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3637,
+  "out": 797
+ },
+ "model": "claude-sonnet-5"
+}

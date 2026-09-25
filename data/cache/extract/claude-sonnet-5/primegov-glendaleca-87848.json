@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trane",
+   "model": "CenTraVac",
+   "part": "Overhaul of both circuit 1 and 2 compressors (chiller overhaul using Trane CenTraVac R'newal Service Program)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 504520,
+   "lead_time": null,
+   "sole_source_vendor": "Trane U.S. Inc.",
+   "reason": "Trane, being the original equipment manufacturer (OEM) of the Unit 9 chiller, has factory-trained and certified technicians who have proprietary access to the Trane software and controls",
+   "equipment_class": "HVAC",
+   "installed_location": "Grayson Power Plant (GPP) Unit 9",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trane",
+   "model": null,
+   "part": "Addition of a refrigerant clean-up kit to the circuit 1 compressor",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 14012,
+   "lead_time": null,
+   "sole_source_vendor": "Trane U.S. Inc.",
+   "reason": "Circuit 1 compressor oil was found to be very dark in color and have a high acid content which is likely caused by motor burnout and a clean-up kit that was never added to filter the refrigerant",
+   "equipment_class": "HVAC",
+   "installed_location": "Grayson Power Plant (GPP) Unit 9",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement of the refrigerant monitor",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 13710,
+   "lead_time": null,
+   "sole_source_vendor": "Trane U.S. Inc.",
+   "reason": "A malfunctioning refrigerant monitor that is past its life expectancy.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Grayson Power Plant (GPP) Unit 9",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Trane",
+   "model": null,
+   "part": "Refurbishment and speed balancing of both compressor motors at Trane motor shop",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Trane U.S. Inc.",
+   "reason": "both compressor motors will be sent to the Trane motor shop in Charlotte, North Carolina for refurbishment and speed balancing",
+   "equipment_class": "motor/drive",
+   "installed_location": "Grayson Power Plant (GPP) Unit 9",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trane",
+   "model": "CenTraVac",
+   "part": "Five-year Service Agreement for preventative maintenance and service of the Unit 9 chiller (annual and quarterly inspections, controls support, system analysis)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 197294,
+   "lead_time": "five years",
+   "sole_source_vendor": "Trane U.S. Inc.",
+   "reason": "Trane, being the original equipment manufacturer (OEM) of the Unit 9 chiller, has factory-trained and certified technicians who have proprietary access to the Trane software and controls, and the engineering support necessary to provide the full service/support",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Grayson Power Plant (GPP) Unit 9",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8174,
+  "out": 2022
+ },
+ "model": "claude-sonnet-5"
+}

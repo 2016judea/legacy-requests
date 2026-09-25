@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "SCADA System Upgrade purchase and installation, including appropriate hardware and security upgrades",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 271985,
+   "lead_time": null,
+   "sole_source_vendor": "Electrical Installations, LLC",
+   "reason": "Currently the wastewater facility uses Electrical Installations, LLC for all of our SCADA needs. They have the most up to date program and have performed all integrations for the current and past projects, dating back the last seven years.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Wastewater Treatment Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3551,
+  "out": 238
+ },
+ "model": "claude-sonnet-5"
+}

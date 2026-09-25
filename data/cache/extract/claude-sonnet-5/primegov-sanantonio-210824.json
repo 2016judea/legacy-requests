@@ -1,0 +1,539 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther",
+   "part": "Aptima Combo 2, 250 Test Kit Panther Updated",
+   "part_numbers": [
+    "PRD-05571"
+   ],
+   "quantity": "52",
+   "price_usd": 1750.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther",
+   "part": "Panther Upgrade Continuous Fluid and Waste + MTU Expansion Module (Completed)",
+   "part_numbers": [
+    "PRD-05576"
+   ],
+   "quantity": "15",
+   "price_usd": 700.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": null,
+   "part": "Kit, APTIMA COMBO 2 Urine Spec Coll",
+   "part_numbers": [
+    "301040"
+   ],
+   "quantity": "150",
+   "price_usd": 62.5,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": null,
+   "part": "Kit, APTIMA COMBO 2 Swab Spec Coll",
+   "part_numbers": [
+    "301041"
+   ],
+   "quantity": "3",
+   "price_usd": 62.5,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": null,
+   "part": "Aptima Multitest Swab Collection",
+   "part_numbers": [
+    "PRD-03546"
+   ],
+   "quantity": "150",
+   "price_usd": 62.5,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": null,
+   "part": "Kit, APTIMA LPT-IVD Sales BOM",
+   "part_numbers": [
+    "301154C"
+   ],
+   "quantity": "1",
+   "price_usd": 120.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": null,
+   "part": "APTIMA Urine Collection Tubes",
+   "part_numbers": [
+    "105575"
+   ],
+   "quantity": "1",
+   "price_usd": 120.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "500/PK, PIPETTE, TRANS, DISPO, 5ML",
+   "part_numbers": [
+    "MLT-02093"
+   ],
+   "quantity": "1",
+   "price_usd": 40.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther",
+   "part": "Run Kit, PANTHER",
+   "part_numbers": [
+    "303096"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": null,
+   "part": "Aptima Assay Fluids Kit (1000 tests)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": null,
+   "part": "Aptima Auto Detect Kit (1000 tests)",
+   "part_numbers": [
+    "303013"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": null,
+   "part": "Multi-tube units (MTUs)",
+   "part_numbers": [
+    "104772-02"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther",
+   "part": "Panther Waste Bag Kit",
+   "part_numbers": [
+    "902731"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther",
+   "part": "Panther Waste Bin Cover",
+   "part_numbers": [
+    "504405"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": null,
+   "part": "Caps, TCR/SEL.(CL0038) DIAG",
+   "part_numbers": [
+    "CL0040"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": null,
+   "part": "Caps, AMP/P.R.S.(CL0045) DIAG.",
+   "part_numbers": [
+    "CL0041"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": null,
+   "part": "Kit, Penetrable Caps",
+   "part_numbers": [
+    "105668"
+   ],
+   "quantity": "2",
+   "price_usd": 100.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": null,
+   "part": "Lbld, Advanced Cleaning Solution, 255 mL",
+   "part_numbers": [
+    "303085"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": null,
+   "part": "Spare Caps, PP, 60mL, TCR APTIMA 2x50",
+   "part_numbers": [
+    "501604"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": null,
+   "part": "Spare Caps, 30mL tube Diagnostics",
+   "part_numbers": [
+    "501213"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": null,
+   "part": "APTIMA CT/GC Cntrls Kit (1 tray) IVD",
+   "part_numbers": [
+    "301110"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "1000-UL Disposable Tips with Filter (Conductive)",
+   "part_numbers": [
+    "MME-04128"
+   ],
+   "quantity": "5",
+   "price_usd": 814.24,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther Fusion",
+   "part": "Fusion Fluids - Oil Reagent (1920 Tests)",
+   "part_numbers": [
+    "PRD-04335"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther Fusion",
+   "part": "Fusion Fluids - Recon Buffer (1920 Tests)",
+   "part_numbers": [
+    "PRD-04333"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther Fusion",
+   "part": "Fusion Fluids - Elution Buffer (2400 Tests)",
+   "part_numbers": [
+    "PRD-04334"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther Fusion",
+   "part": "Panther Fusion Extraction Reagent-S Box",
+   "part_numbers": [
+    "PRD-04331"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther Fusion",
+   "part": "Panther Fusion Internal Control Envelope",
+   "part_numbers": [
+    "PRD-04332"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther Fusion",
+   "part": "Panther Fusion Specimen Lysis Tubes",
+   "part_numbers": [
+    "PRD-04339"
+   ],
+   "quantity": "1",
+   "price_usd": 125.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther Fusion",
+   "part": "Panther Fusion Tube Trays Box",
+   "part_numbers": [
+    "PRD-04000"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther",
+   "part": "Panther Instrument System, DX",
+   "part_numbers": [
+    "303095"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther",
+   "part": "Panther Upgrade Continuous Fluid and Waste + MTU Expansion Module (Completed)",
+   "part_numbers": [
+    "PRD-05844"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther Fusion",
+   "part": "PANTHER FUSION MODULE ONLY",
+   "part_numbers": [
+    "PRD-04173"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "in compliance with the adopted test platform and analytical method selected for use in the Texas Public Health Laboratory System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther",
+   "part": "maintenance and support of the Hologic equipment and platform",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC.",
+   "reason": "This contract will also provide maintenance and support of the Hologic equipment and platform.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "San Antonio Metro Health District (SAMHD)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5672,
+  "out": 9573
+ },
+ "model": "claude-sonnet-5"
+}

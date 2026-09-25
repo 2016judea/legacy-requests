@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Caterpillar",
+   "model": null,
+   "part": "Caterpillar Emergency Generator Maintenance & Repair Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1710000,
+   "lead_time": null,
+   "sole_source_vendor": "Ring Power Corporation",
+   "reason": "This is a sole source purchase.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "various Water Production locations, both Water Reclamation Facilities, the City Hall building, the Fleet Maintenance building, the Streets/Parks building, and the Joseph Pellicano Law Enforcement Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8382,
+  "out": 678
+ },
+ "model": "claude-sonnet-5"
+}

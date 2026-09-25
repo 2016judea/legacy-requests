@@ -1,0 +1,49 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ferrara",
+   "model": "Custom Cinder Pumper",
+   "part": "2025 Ferrara Custom Cinder Fire Engine/Pumper with shelving",
+   "part_numbers": [
+    "H7195",
+    "CES-13",
+    "FMP-35-100"
+   ],
+   "quantity": "1",
+   "price_usd": 980043.0,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment, LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Operations Division, Santa Fe Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FoamPro",
+   "model": "FoamPro 2001",
+   "part": "Add Foam System",
+   "part_numbers": [
+    "517"
+   ],
+   "quantity": "1",
+   "price_usd": 24909.0,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment, LLC",
+   "reason": "Add Foam System, Foam Pro 2001",
+   "equipment_class": "other equipment",
+   "installed_location": "Operations Division, Santa Fe Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9515,
+  "out": 1388
+ },
+ "model": "claude-sonnet-5"
+}

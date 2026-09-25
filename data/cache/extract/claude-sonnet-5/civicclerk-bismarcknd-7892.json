@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Abi-Schmidt",
+   "model": "MB-4",
+   "part": "Auxiliary hydraulic pump system to correct low ribbon RPM at low speeds on snow blower",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 10051.99,
+   "lead_time": null,
+   "sole_source_vendor": "Abi-Schmidt MB",
+   "reason": "Only Abi-Schmidt MB supplies the pump system, making the purchase a sole source.",
+   "equipment_class": "pump",
+   "installed_location": "Airport",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2573,
+  "out": 197
+ },
+ "model": "claude-sonnet-5"
+}

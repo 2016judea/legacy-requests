@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": "ABB",
+   "model": "Entelliguard",
+   "part": "Spare 1600A Entelliguard Breaker",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 30760.0,
+   "lead_time": "10-12 Weeks",
+   "sole_source_vendor": "ABB Inc.",
+   "reason": "These components are only available from ABB or authorized ABB distributors and require factory-trained technicians for proper installation, calibration, and testing.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Ward Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ABB",
+   "model": "Entelliguard",
+   "part": "Spare 2000A Entelliguard Breaker",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 31660.0,
+   "lead_time": "10-12 Weeks",
+   "sole_source_vendor": "ABB Inc.",
+   "reason": "These components are only available from ABB or authorized ABB distributors and require factory-trained technicians for proper installation, calibration, and testing.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Ward Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ABB",
+   "model": "Entelliguard",
+   "part": "Spare 3200A Entelliguard Breaker",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 37601.0,
+   "lead_time": "10-12 Weeks",
+   "sole_source_vendor": "ABB Inc.",
+   "reason": "These components are only available from ABB or authorized ABB distributors and require factory-trained technicians for proper installation, calibration, and testing.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Ward Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ABB",
+   "model": "Entelliguard LSIGA",
+   "part": "Spare 1600A Entelliguard LSIGA Trip Unit",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 6473.0,
+   "lead_time": "18-20 Weeks",
+   "sole_source_vendor": "ABB Inc.",
+   "reason": "These components are only available from ABB or authorized ABB distributors and require factory-trained technicians for proper installation, calibration, and testing.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Ward Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ABB",
+   "model": "Entelliguard LSIGA",
+   "part": "Spare 2000A Entelliguard LSIGA Trip Unit",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 6473.0,
+   "lead_time": "18-20 Weeks",
+   "sole_source_vendor": "ABB Inc.",
+   "reason": "These components are only available from ABB or authorized ABB distributors and require factory-trained technicians for proper installation, calibration, and testing.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Ward Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ABB",
+   "model": "Entelliguard LSIGA",
+   "part": "Spare 3200A Entelliguard LSIGA Trip Unit",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 6473.0,
+   "lead_time": "18-20 Weeks",
+   "sole_source_vendor": "ABB Inc.",
+   "reason": "These components are only available from ABB or authorized ABB distributors and require factory-trained technicians for proper installation, calibration, and testing.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Ward Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ABB",
+   "model": "AKD-20",
+   "part": "Labor and Cleaning Supplies to Clean the Copper Bus in the existing LV Switchgear LU01",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 57016.0,
+   "lead_time": null,
+   "sole_source_vendor": "ABB Inc.",
+   "reason": "ABB, Inc. is the only authorized OEM repair and maintenance service provider for the ABB equipment and products installed at the Ward Water Treatment Plant.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Ward Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ABB",
+   "model": "EntelliGuard G",
+   "part": "Labor to Inspect Qty two (2) 3000A Frame EntelliGuard Breakers",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 11205.0,
+   "lead_time": null,
+   "sole_source_vendor": "ABB Inc.",
+   "reason": "ABB, Inc. is the only authorized OEM repair and maintenance service provider for the ABB equipment and products installed at the Ward Water Treatment Plant.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Ward Water Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12695,
+  "out": 2877
+ },
+ "model": "claude-sonnet-5"
+}

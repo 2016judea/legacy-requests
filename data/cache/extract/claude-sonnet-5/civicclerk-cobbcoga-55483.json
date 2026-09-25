@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "OpenGov",
+   "model": "Budget Management System",
+   "part": "Software Services for Budgeting & Planning and Open Data Portal Level III (SaaS subscription renewal)",
+   "part_numbers": [
+    "Q-08949"
+   ],
+   "quantity": null,
+   "price_usd": 1972070.19,
+   "lead_time": null,
+   "sole_source_vendor": "OpenGov, Inc.",
+   "reason": "OpenGov qualifies under County\u2019s Procurement Policies as a sole source provider of the Additional Services to be added to the MSA.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Cobb County Finance Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8190,
+  "out": 229
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Orbinox",
+   "model": null,
+   "part": "Stainless-steel slide gate for Ultraviolet Disinfection Channel No. 4",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 33175.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hamlett Environmental Technologies",
+   "reason": "A quote from Hamlett and a letter from the gate manufacturer, Orbinox, stating that Hamlett is its sole municipal representative in the State of Michigan are attached.",
+   "equipment_class": "valve",
+   "installed_location": "UV Channel No. 4, Lansing Wastewater Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7102,
+  "out": 233
+ },
+ "model": "claude-sonnet-5"
+}

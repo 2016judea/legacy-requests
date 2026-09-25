@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Spartan",
+   "model": "LT NXT 110 (Gladiator)",
+   "part": "Spartan Aerial Fire Apparatus (2027 Spartan-LT NXT 110 Aerial, Rear Mount Quint, Ladder L.T.C. 110')",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 2024386.0,
+   "lead_time": "850 Build Days",
+   "sole_source_vendor": "Delta Fire & Safety",
+   "reason": "PURSUANT TO A SOURCEWELL COOPERATIVE PURCHASING CONTRACT (113021-RVG)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fayetteville Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12389,
+  "out": 262
+ },
+ "model": "claude-sonnet-5"
+}

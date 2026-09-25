@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trojan Technologies",
+   "model": "Integra Module",
+   "part": "Complete 3000+ Integra Module Plug & Play w/ Existing System - replacement of various components of UV Disinfection System Channel One",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 445304.2,
+   "lead_time": null,
+   "sole_source_vendor": "Newman Regency Group, LLC",
+   "reason": "The above-named company or firm is the sole source of the following items and there are no other items available in the marketplace that have the same fit, form, and function of the items listed below: Complete 3000+ Integra Module Plug & Play w/ Existing System",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Wastewater Treatment Plant, Channel One",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8897,
+  "out": 288
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Handtevy",
+   "model": "Handtevy Mobile",
+   "part": "Annual access to Handtevy Mobile Medication Management Software, Unlimited Clinical Updates, Clinical and Technical support (three-year renewal)",
+   "part_numbers": [
+    "HMPA2025MY"
+   ],
+   "quantity": "3 (one per year, 2026-2028)",
+   "price_usd": 100698.92,
+   "lead_time": null,
+   "sole_source_vendor": "Pediatric Emergency Standards, Inc. dba Handtevy",
+   "reason": "This letter serves to confirm that Handtevy is the sole source provider of the Handtevy Mobile System.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Lee County Public Safety / EMS",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12383,
+  "out": 1044
+ },
+ "model": "claude-sonnet-5"
+}

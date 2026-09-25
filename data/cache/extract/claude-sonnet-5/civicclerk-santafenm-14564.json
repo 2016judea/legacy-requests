@@ -1,0 +1,62 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ferrara",
+   "model": "Custom Cinder",
+   "part": "2025 Ferrara Custom Cinder Fire Engine/Pumper (4-Door, 1500 GPM)",
+   "part_numbers": [
+    "CES-13",
+    "H7195"
+   ],
+   "quantity": "1",
+   "price_usd": 980043.0,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment, LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FoamPro",
+   "model": "2001",
+   "part": "Add Foam System, Foam Pro 2001",
+   "part_numbers": [
+    "517"
+   ],
+   "quantity": "1",
+   "price_usd": 24909.0,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment, LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "other equipment",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "411 Equipment Shelving for fire engine/pumper",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 30000.0,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment, LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "other equipment",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9515,
+  "out": 1489
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,95 @@
+{
+ "records": [
+  {
+   "manufacturer": "Safran",
+   "model": "SecureSync 2400",
+   "part": "SecureSync 2400 GPS -48VDC (GPS Master Oscillator)",
+   "part_numbers": [
+    "2406-413"
+   ],
+   "quantity": "9",
+   "price_usd": 51750.0,
+   "lead_time": null,
+   "sole_source_vendor": "Safran",
+   "reason": "We did not look at other options since we currently use the Safran SecureSync GPS at our radio sites.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Missoula County Public Safety Radio simulcast system (radio sites)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Safran",
+   "model": null,
+   "part": "Programable TTL Card",
+   "part_numbers": [
+    "1204-17"
+   ],
+   "quantity": "18",
+   "price_usd": 23400.0,
+   "lead_time": null,
+   "sole_source_vendor": "Safran",
+   "reason": "We did not look at other options since we currently use the Safran SecureSync GPS at our radio sites.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Missoula County Public Safety Radio simulcast system (radio sites)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Safran",
+   "model": null,
+   "part": "Alarm Card",
+   "part_numbers": [
+    "1204-0F"
+   ],
+   "quantity": "9",
+   "price_usd": 3150.0,
+   "lead_time": null,
+   "sole_source_vendor": "Safran",
+   "reason": "We did not look at other options since we currently use the Safran SecureSync GPS at our radio sites.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Missoula County Public Safety Radio simulcast system (radio sites)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Safran",
+   "model": null,
+   "part": "GPS Antenna",
+   "part_numbers": [
+    "8230"
+   ],
+   "quantity": "9",
+   "price_usd": 2970.0,
+   "lead_time": null,
+   "sole_source_vendor": "Safran",
+   "reason": "We did not look at other options since we currently use the Safran SecureSync GPS at our radio sites.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Missoula County Public Safety Radio simulcast system (radio sites)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Safran",
+   "model": null,
+   "part": "Programable TTL Card",
+   "part_numbers": [
+    "1204-17-SA"
+   ],
+   "quantity": "3",
+   "price_usd": 3900.0,
+   "lead_time": null,
+   "sole_source_vendor": "Safran",
+   "reason": "We did not look at other options since we currently use the Safran SecureSync GPS at our radio sites.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Missoula County Public Safety Radio simulcast system (radio sites)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8223,
+  "out": 1846
+ },
+ "model": "claude-sonnet-5"
+}

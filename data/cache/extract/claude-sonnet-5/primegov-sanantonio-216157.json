@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axnes, Inc",
+   "model": "MP50",
+   "part": "MP50 Handset, SW R2, Yellow Bundled w/0680 antenna",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": 47394.0,
+   "lead_time": null,
+   "sole_source_vendor": "Axnes, Inc",
+   "reason": "All component parts, including the integrated proprietary software, are designed, manufactured, and controlled exclusively by Axnes, Inc.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axnes, Inc",
+   "model": "MP50",
+   "part": "Adapter Lead, MP50 to US NATO-f 150mm",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": 1914.0,
+   "lead_time": null,
+   "sole_source_vendor": "Axnes, Inc",
+   "reason": "These devices are not available from any other source and are engineered to integrate solely with SAPD-specified aircraft.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axnes, Inc",
+   "model": "MP50",
+   "part": "Pouch, Molle for MP50, Black",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": 354.0,
+   "lead_time": null,
+   "sole_source_vendor": "Axnes, Inc",
+   "reason": "These devices are not available from any other source and are engineered to integrate solely with SAPD-specified aircraft.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axnes, Inc",
+   "model": "MP50",
+   "part": "Charger with AC power, desk stand for MP50, yellow",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": 3894.0,
+   "lead_time": null,
+   "sole_source_vendor": "Axnes, Inc",
+   "reason": "These devices are not available from any other source and are engineered to integrate solely with SAPD-specified aircraft.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8578,
+  "out": 712
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "EarPhone Connection",
+   "model": "EPC1089SC",
+   "part": "Replacement cable with 3.5mm right angle connector for portable radio earpiece transducer",
+   "part_numbers": [
+    "EPC1089SC"
+   ],
+   "quantity": "2,000",
+   "price_usd": 20000.0,
+   "lead_time": null,
+   "sole_source_vendor": "EarPhone Connection",
+   "reason": "only one vendor, EarPhone Connection, was identified as the sole manufacturer of this item",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6633,
+  "out": 201
+ },
+ "model": "claude-sonnet-5"
+}

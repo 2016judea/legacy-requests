@@ -1,0 +1,77 @@
+{
+ "records": [
+  {
+   "manufacturer": "LSC Environmental Products, LLC",
+   "model": "Posi-Shell",
+   "part": "Posi-Shell materials, to be used as an alternative landfill cover",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 185000,
+   "lead_time": null,
+   "sole_source_vendor": "LSC Environmental Products, LLC",
+   "reason": "LSC is the exclusive patent owner of Posi-Shell\u00ae. You will see enclosed sole source certificate.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Waste Services Perdido Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "LSC Environmental Products, LLC",
+   "model": "Posi-Shell Brown Base Mix",
+   "part": "Posi-Shell Brown Base Mix - 50lb Bag",
+   "part_numbers": [
+    "POSI-50-BR"
+   ],
+   "quantity": "900",
+   "price_usd": 34650,
+   "lead_time": null,
+   "sole_source_vendor": "LSC Environmental Products, LLC",
+   "reason": "LSC is the exclusive patent owner of Posi-Shell\u00ae. You will see enclosed sole source certificate.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Perdido Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "LSC Environmental Products, LLC",
+   "model": null,
+   "part": "Pallet Surcharge",
+   "part_numbers": [
+    "520014-PSC"
+   ],
+   "quantity": "15",
+   "price_usd": 75,
+   "lead_time": null,
+   "sole_source_vendor": "LSC Environmental Products, LLC",
+   "reason": "LSC is the exclusive patent owner of Posi-Shell\u00ae. You will see enclosed sole source certificate.",
+   "equipment_class": "other equipment",
+   "installed_location": "Perdido Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "LSC Environmental Products, LLC",
+   "model": null,
+   "part": "Product Shipping Charge",
+   "part_numbers": [
+    "520014"
+   ],
+   "quantity": "1",
+   "price_usd": 4680,
+   "lead_time": null,
+   "sole_source_vendor": "LSC Environmental Products, LLC",
+   "reason": "LSC is the exclusive patent owner of Posi-Shell\u00ae. You will see enclosed sole source certificate.",
+   "equipment_class": "other equipment",
+   "installed_location": "Perdido Landfill",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9954,
+  "out": 824
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Huber Technology Inc.",
+   "model": null,
+   "part": "Five-year service agreement for refurbishing and optimization services for all Huber screening control and operating units",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2035448.24,
+   "lead_time": null,
+   "sole_source_vendor": "Huber Technology, Inc.",
+   "reason": "Huber Technology, Inc., is the sole source for refurbishing and optimization services on Huber screening systems",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Water Reclamation Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Huber Technology Inc.",
+   "model": null,
+   "part": "Control Panel Retrofit Kit \u2013 Replacement of outdated control and switchgear units with new, pre-programmed systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Huber Technology, Inc.",
+   "reason": "Huber Technology, Inc., is the sole source for refurbishing and optimization services on Huber screening systems",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Water Reclamation Facility",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Huber Technology Inc.",
+   "model": null,
+   "part": "Performance Optimization Package \u2013 Upgrade of screening baskets from 6 mm to 3 mm perforated plate",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Huber Technology, Inc.",
+   "reason": "Huber Technology, Inc., is the sole source for refurbishing and optimization services on Huber screening systems",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Reclamation Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Huber Technology Inc.",
+   "model": null,
+   "part": "High-Pressure Basket Cleaning System Retrofit \u2013 Installation of an automated cleaning system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Huber Technology, Inc.",
+   "reason": "Huber Technology, Inc., is the sole source for refurbishing and optimization services on Huber screening systems",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Reclamation Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Huber Technology Inc.",
+   "model": "RPPS",
+   "part": "Complete RPPS Refurbishment Package \u2013 Replacement of all major mechanical assemblies and wear components",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Huber Technology, Inc.",
+   "reason": "Huber Technology, Inc., is the sole source for refurbishing and optimization services on Huber screening systems",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Reclamation Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11804,
+  "out": 1969
+ },
+ "model": "claude-sonnet-5"
+}

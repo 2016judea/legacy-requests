@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Instrumentation devices for GP&L and TMPA substations (supplier contract)",
+   "part_numbers": [],
+   "quantity": "All",
+   "price_usd": 900000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Keasler Sales, LLC",
+   "reason": "Keasler Sales, LLC is the manufacturer's Sole Source distributor for the specified instrumentation devices.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "GP&L and TMPA substations",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2501,
+  "out": 201
+ },
+ "model": "claude-sonnet-5"
+}

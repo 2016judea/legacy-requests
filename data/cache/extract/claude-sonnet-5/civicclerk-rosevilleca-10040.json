@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lifecycle Technologies, LLC dba LCT Software",
+   "model": "DigEplan",
+   "part": "Cloud-based electronic plan review platform SaaS subscription (Custom Bundle including Avolve AI Submit, Avolve Insights, and Digital Certificates)",
+   "part_numbers": [],
+   "quantity": "1 subscription (unlimited user licenses for Roseville, CA and third-party contractors)",
+   "price_usd": 210193,
+   "lead_time": null,
+   "sole_source_vendor": "Lifecycle Technologies, LLC dba LCT Software",
+   "reason": "Staff recommends continuing with LCT Software on a sole-source basis because DigEplan is fully integrated with the City\\u2019s Accela permitting system and has become a critical component of the Department\\u2019s electronic plan review workflow.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Roseville Development Services Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10172,
+  "out": 341
+ },
+ "model": "claude-sonnet-5"
+}

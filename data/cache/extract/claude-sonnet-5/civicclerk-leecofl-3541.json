@@ -1,0 +1,214 @@
+{
+ "records": [
+  {
+   "manufacturer": "Harold Beck & Sons Inc.",
+   "model": "11-163 / 153",
+   "part": "Electric actuator for valves, 2-8\" valve size, Open/Close service",
+   "part_numbers": [
+    "11-163",
+    "153"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Harold Beck & Sons Inc.",
+   "reason": "Harold Beck & Sons, Inc. is the sole manufacturer and distributor of Beck drives in the United States and the only company that can provide the technical support, and/or service of Beck electric actuators.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Lee County water and wastewater treatment plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harold Beck & Sons Inc.",
+   "model": "11-169 / 159",
+   "part": "Electric actuator for valves, 2-8\" valve size, Modulating service",
+   "part_numbers": [
+    "11-169",
+    "159"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Harold Beck & Sons Inc.",
+   "reason": "Harold Beck & Sons, Inc. is the sole manufacturer and distributor of Beck drives in the United States and the only company that can provide the technical support, and/or service of Beck electric actuators.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Lee County water and wastewater treatment plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harold Beck & Sons Inc.",
+   "model": "11-263 / 203",
+   "part": "Electric actuator for valves, 8-12\" valve size, Open/Close service",
+   "part_numbers": [
+    "11-263",
+    "203"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Harold Beck & Sons Inc.",
+   "reason": "Harold Beck & Sons, Inc. is the sole manufacturer and distributor of Beck drives in the United States and the only company that can provide the technical support, and/or service of Beck electric actuators.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Lee County water and wastewater treatment plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harold Beck & Sons Inc.",
+   "model": "11-269 / 209",
+   "part": "Electric actuator for valves, 8-12\" valve size, Modulating service",
+   "part_numbers": [
+    "11-269",
+    "209"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Harold Beck & Sons Inc.",
+   "reason": "Harold Beck & Sons, Inc. is the sole manufacturer and distributor of Beck drives in the United States and the only company that can provide the technical support, and/or service of Beck electric actuators.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Lee County water and wastewater treatment plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harold Beck & Sons Inc.",
+   "model": "11-363 / 303",
+   "part": "Electric actuator for valves, 12-18\" valve size, Open/Close service",
+   "part_numbers": [
+    "11-363",
+    "303"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Harold Beck & Sons Inc.",
+   "reason": "Harold Beck & Sons, Inc. is the sole manufacturer and distributor of Beck drives in the United States and the only company that can provide the technical support, and/or service of Beck electric actuators.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Lee County water and wastewater treatment plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harold Beck & Sons Inc.",
+   "model": "11-369 / 309",
+   "part": "Electric actuator for valves, 12-18\" valve size, Modulating service",
+   "part_numbers": [
+    "11-369",
+    "309"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Harold Beck & Sons Inc.",
+   "reason": "Harold Beck & Sons, Inc. is the sole manufacturer and distributor of Beck drives in the United States and the only company that can provide the technical support, and/or service of Beck electric actuators.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Lee County water and wastewater treatment plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harold Beck & Sons Inc.",
+   "model": "11-463 / 403",
+   "part": "Electric actuator for valves, 18-36\" valve size, Open/Close service",
+   "part_numbers": [
+    "11-463",
+    "403"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Harold Beck & Sons Inc.",
+   "reason": "Harold Beck & Sons, Inc. is the sole manufacturer and distributor of Beck drives in the United States and the only company that can provide the technical support, and/or service of Beck electric actuators.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Lee County water and wastewater treatment plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harold Beck & Sons Inc.",
+   "model": "11-469 / 409",
+   "part": "Electric actuator for valves, 18-36\" valve size, Modulating service",
+   "part_numbers": [
+    "11-469",
+    "409"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Harold Beck & Sons Inc.",
+   "reason": "Harold Beck & Sons, Inc. is the sole manufacturer and distributor of Beck drives in the United States and the only company that can provide the technical support, and/or service of Beck electric actuators.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Lee County water and wastewater treatment plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harold Beck & Sons Inc.",
+   "model": "57-109 / 209",
+   "part": "Electric actuator for valves, 6-12\" valve size, Open/Close & Modulating service",
+   "part_numbers": [
+    "57-109",
+    "209"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Harold Beck & Sons Inc.",
+   "reason": "Harold Beck & Sons, Inc. is the sole manufacturer and distributor of Beck drives in the United States and the only company that can provide the technical support, and/or service of Beck electric actuators.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Lee County water and wastewater treatment plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harold Beck & Sons Inc.",
+   "model": "DCM-3",
+   "part": "Positioning Board spare part for Beck modulating electric actuators",
+   "part_numbers": [
+    "22-5014-59"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Harold Beck & Sons Inc.",
+   "reason": "The only recommended Spare Parts for the Beck Actuators are the Electronics for the Modulating equipment.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Lee County water and wastewater treatment plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harold Beck & Sons Inc.",
+   "model": "CPS-5",
+   "part": "Feedback Board spare part for Beck modulating electric actuators",
+   "part_numbers": [
+    "20-4400-09"
+   ],
+   "quantity": null,
+   "price_usd": 1140,
+   "lead_time": null,
+   "sole_source_vendor": "Harold Beck & Sons Inc.",
+   "reason": "The only recommended Spare Parts for the Beck Actuators are the Electronics for the Modulating equipment.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Lee County water and wastewater treatment plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harold Beck & Sons Inc.",
+   "model": null,
+   "part": "Supply, technical support, and/or service of Beck electric actuators used throughout Lee County water and wastewater treatment plants",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Harold Beck & Sons Inc.",
+   "reason": "Harold Beck & Sons, Inc. is the sole manufacturer and distributor of Beck drives in the United States and the only company that can provide the technical support, and/or service of Beck electric actuators.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Lee County water and wastewater treatment plants",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11684,
+  "out": 4132
+ },
+ "model": "claude-sonnet-5"
+}

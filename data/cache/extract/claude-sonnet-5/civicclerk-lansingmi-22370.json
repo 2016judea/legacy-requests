@@ -1,0 +1,61 @@
+{
+ "records": [
+  {
+   "manufacturer": "ABB Inc.",
+   "model": "Fischer & Porter Ultraviolet Disinfection System",
+   "part": "Ultraviolet disinfection lamps (includes install)",
+   "part_numbers": [
+    "G64T5L"
+   ],
+   "quantity": "576",
+   "price_usd": 19296.0,
+   "lead_time": "approx. 4 weeks after receipt of PO",
+   "sole_source_vendor": "Ironbrook UV Corp (Collcorp Inc.)",
+   "reason": "The distributor, Ironbrook UV, is the sole source distributor for ABB of products for the Fischer Porter Ultraviolet Disinfection Systems.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Ultraviolet Disinfection Building at the Wastewater Treatment Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ABB Inc.",
+   "model": "Fischer & Porter Ultraviolet Disinfection System",
+   "part": "Quartz sleeves for UV lamps",
+   "part_numbers": [
+    "TYPE 214"
+   ],
+   "quantity": "576",
+   "price_usd": 15552.0,
+   "lead_time": "approx. 4 weeks after receipt of PO",
+   "sole_source_vendor": "Ironbrook UV Corp (Collcorp Inc.)",
+   "reason": "The distributor, Ironbrook UV, is the sole source distributor for ABB of products for the Fischer Porter Ultraviolet Disinfection Systems.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Ultraviolet Disinfection Building at the Wastewater Treatment Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ABB Inc.",
+   "model": "Fischer & Porter Ultraviolet Disinfection System",
+   "part": "Installation of lamps already on site (2 Banks)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 3800.0,
+   "lead_time": null,
+   "sole_source_vendor": "Ironbrook UV Corp (Collcorp Inc.)",
+   "reason": "The distributor, Ironbrook UV, is the sole source distributor for ABB of products for the Fischer Porter Ultraviolet Disinfection Systems.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Ultraviolet Disinfection Building at the Wastewater Treatment Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6007,
+  "out": 1906
+ },
+ "model": "claude-sonnet-5"
+}

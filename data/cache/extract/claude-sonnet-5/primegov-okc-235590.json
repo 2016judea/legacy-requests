@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Scanna MSC, Inc.",
+   "model": "ScanX Scout",
+   "part": "ScanX Scout X-Ray system with battery",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": 84260.76,
+   "lead_time": "60-90 Days from receipt of written order",
+   "sole_source_vendor": "Scanna MSC, Inc.",
+   "reason": "Scanna MSC Inc. is the sole source provider of the Scanx Scout X-Ray systems",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Scanna MSC, Inc.",
+   "model": null,
+   "part": "PSP Plate 14\" x 17\"",
+   "part_numbers": [],
+   "quantity": "18",
+   "price_usd": 14108.4,
+   "lead_time": "60-90 Days from receipt of written order",
+   "sole_source_vendor": "Scanna MSC, Inc.",
+   "reason": "Scanna MSC Inc. is the sole source provider of the Scanx Scout X-Ray systems",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Scanna MSC, Inc.",
+   "model": null,
+   "part": "Plate Protector 14\" x 17\"",
+   "part_numbers": [],
+   "quantity": "18",
+   "price_usd": 438.84,
+   "lead_time": "60-90 Days from receipt of written order",
+   "sole_source_vendor": "Scanna MSC, Inc.",
+   "reason": "Scanna MSC Inc. is the sole source provider of the Scanx Scout X-Ray systems",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5558,
+  "out": 1286
+ },
+ "model": "claude-sonnet-5"
+}

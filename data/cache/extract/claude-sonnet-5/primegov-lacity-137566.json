@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Solar Turbines, Inc.",
+   "model": null,
+   "part": "Ongoing maintenance and repair of two cogeneration turbines and related equipment (Equipment Health Management services, remote monitoring, preventive maintenance, replacement parts, generator inspections, engine exchange/overhaul) at LAX Central Utility Plant",
+   "part_numbers": [],
+   "quantity": "2 cogeneration turbines",
+   "price_usd": 13227860,
+   "lead_time": null,
+   "sole_source_vendor": "Solar Turbines, Inc.",
+   "reason": "As Solar Turbines was determined to be the sole manufacturer of the installed turbines and since the company has not (a) recognized any third party as authorized to repair or overhaul these turbines or (b) licensed their intellectual property relative to these turbines to any third party, AUCU is obliged to continue its working relationship with Solar Turbines",
+   "equipment_class": "generator",
+   "installed_location": "Los Angeles International Airport - Central Utility Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11853,
+  "out": 352
+ },
+ "model": "claude-sonnet-5"
+}

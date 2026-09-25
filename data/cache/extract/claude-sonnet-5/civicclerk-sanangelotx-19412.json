@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tablet Command, Inc.",
+   "model": "Tablet Command (2-Way Enterprise)",
+   "part": "Sole-source purchase of Tablet Command software upgrade for existing incident command/response services, annual license",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 37550.0,
+   "lead_time": null,
+   "sole_source_vendor": "Tablet Command, Inc.",
+   "reason": "The above-named company or firm is the sole source of the following items and there are no other items available in the marketplace that have the same fit, form, and function of the items listed below: iOS, AVL Sharing, Incident Sharing, Device First, CAD Integration, etc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "San Angelo Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11146,
+  "out": 834
+ },
+ "model": "claude-sonnet-5"
+}

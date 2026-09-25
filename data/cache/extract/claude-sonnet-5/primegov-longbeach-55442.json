@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Seagrave",
+   "model": null,
+   "part": "Seagrave fire engine parts and repair services",
+   "part_numbers": [],
+   "quantity": "23 Seagrave fire engines",
+   "price_usd": 150000,
+   "lead_time": null,
+   "sole_source_vendor": "Derotic LLC dba Derotic Emergency Equipment",
+   "reason": "Derotic LLC is the sole authorized distributor of Seagrave fire engine parts and service in the region and the only authorized dealer in Southern California to perform warranty work on the Seagrave fire engines",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Long Beach Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9345,
+  "out": 236
+ },
+ "model": "claude-sonnet-5"
+}

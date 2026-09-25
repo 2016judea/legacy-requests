@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": "GTR8000",
+   "part": "Radio equipment and installation labor to upfit a mobile communications trailer, including six Motorola GTR8000 radio repeaters, combiner, multicoupler, antennas, transmission line, and other associated hardware",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": 166193.84,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions along with EMCI Wireless (a Motorola Solutions Channel Partner) has been St Lucie County's vendor and maintenance provider for the county's 800MHz radio system/s and prior radio systems dating back to 1980s.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Aluma Tower",
+   "model": "S6/T-10",
+   "part": "Aluminum telescopic mobile tower trailer",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 130189.25,
+   "lead_time": "150 days",
+   "sole_source_vendor": null,
+   "reason": "Out of the 91 companies notified, nine (9) received bid documents and only one (1) bid was received, from Aluma Tower with a bid price of $130,189.25.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "GTR8000",
+   "part": "6-Channel Conventional GTR8000 Repeaters including engineering, installation, configuration, and optimization",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": 166193.84,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions, as the sole source vendor of our current Public Safety Communications system will retrofit the tower trailer with communications equipment",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "6-Port Transmit (TX) Combiner",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "All necessary software, hardware, and installation services are included in this proposal to install 6 P25 conventional repeaters in 700 MHz",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "8-Port Receive (RX) Multicoupler",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "All necessary software, hardware, and installation services are included in this proposal to install 6 P25 conventional repeaters in 700 MHz",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "3dB Gain Omni Directional Antennas",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "All necessary software, hardware, and installation services are included in this proposal to install 6 P25 conventional repeaters in 700 MHz",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5139,
+  "out": 1158
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siebtechnik Tema",
+   "model": null,
+   "part": "Centrifuge dewatering equipment for Zero Liquid Discharge (ZLD) system, replacing existing belt filter press",
+   "part_numbers": [
+    "47881 Rev02-A"
+   ],
+   "quantity": "one centrifuge",
+   "price_usd": 636385.82,
+   "lead_time": "approximately 12 months",
+   "sole_source_vendor": "Siebtechnik Tema",
+   "reason": "Through the rigorous engineering and operational testing conducted onsite at the REP with multiple equipment types and vendors, centrifuge technology by Siebtechnik Tema was selected.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Roseville Energy Park",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5354,
+  "out": 1177
+ },
+ "model": "claude-sonnet-5"
+}

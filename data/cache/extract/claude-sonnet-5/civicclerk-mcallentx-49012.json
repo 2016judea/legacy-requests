@@ -1,0 +1,94 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": "APX6000 XE",
+   "part": "Portable radios (APX6000 XE) with accessories, charger, and remote speaker mic",
+   "part_numbers": [
+    "H98UCF9PW6BN",
+    "QA02006AA",
+    "QA01427AB",
+    "Q806BM",
+    "H38BT",
+    "Q361AR",
+    "QA01648AA",
+    "QA09113AB",
+    "Q629AK",
+    "H869BZ",
+    "HA00025AH",
+    "NNTN8860B",
+    "PMMN4107C"
+   ],
+   "quantity": "17",
+   "price_usd": 114747.28,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Replacement of obsolete and unsupported radios.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "APX6500 Enhanced",
+   "part": "Dual head mobile radios (APX6500 Enhanced) with software features, antennas, mounts, and accessories",
+   "part_numbers": [
+    "M25URS9PW1BN",
+    "G806BL",
+    "G51AU",
+    "G361AH",
+    "QA01648AA",
+    "G444AH",
+    "GA01693AA",
+    "G832AD",
+    "G628AC",
+    "G607AC",
+    "G174AD",
+    "GA00235AA",
+    "QA09113AB",
+    "G843AH",
+    "W969BG",
+    "QA03399AA",
+    "GA00249AE",
+    "GA00092BC",
+    "G201AA",
+    "G67DQ",
+    "GA00804AB",
+    "G892AB"
+   ],
+   "quantity": "10",
+   "price_usd": 65600.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Replacement of obsolete and unsupported radios.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Single-head mobile radios",
+   "part_numbers": [],
+   "quantity": "9",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Replacement of obsolete and unsupported radios.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7793,
+  "out": 3750
+ },
+ "model": "claude-sonnet-5"
+}

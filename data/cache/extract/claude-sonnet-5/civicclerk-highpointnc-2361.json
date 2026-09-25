@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sulzer",
+   "model": "MBC-12B-U",
+   "part": "Replacement Magnetic Bearing Drive Controller for HST Blower #2",
+   "part_numbers": [
+    "310010591200"
+   ],
+   "quantity": "1 each",
+   "price_usd": 43454.0,
+   "lead_time": null,
+   "sole_source_vendor": "Pete Duty & Associates, Inc.",
+   "reason": "Pete Duty & Associates, Inc. is the contracted Sulzer sole distributor for Sulzer (formerly ABS) wastewater products for the Municipal Wastewater Collection & Treatment, and Commercial Wastewater markets.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Westside Wastewater Treatment Plant (WWTP)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7395,
+  "out": 282
+ },
+ "model": "claude-sonnet-5"
+}

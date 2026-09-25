@@ -12,3 +12,6 @@ data/cache/supply/govdeals/
 data/cache/supply/publicsurplus/
 data/cache/granicus/
 data/cache/pdf/*.pages.json
+data/cache/civicclerk/
+data/cache/primegov/
+data/ingest_*.log

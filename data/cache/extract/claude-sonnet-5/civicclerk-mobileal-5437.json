@@ -1,0 +1,155 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pierce",
+   "model": "Enforcer",
+   "part": "Accident repairs to 2024 Pierce Enforcer aerial fire truck for MFRD",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 95322.63,
+   "lead_time": null,
+   "sole_source_vendor": "Emergency Equipment Professional, Inc",
+   "reason": "SOLE SOURCE TO PROVIDE REPAIRS TO RETAIN MANUFACTURER WARRANTIES",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "MFRD",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "T-17 / asset 77569; LABOR; PER ESTIMATE 223897 REPAIRS ARE TO INCLUDE REPLACEMENT OF EXHAUST SYSTEM PARTS AND FIRE PUMP REPLACEMENT DUE TO CRACKED CASING",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 22200.0,
+   "lead_time": null,
+   "sole_source_vendor": "Emergency Equipment Professional, Inc",
+   "reason": "SOLE SOURCE TO PROVIDE REPAIRS TO RETAIN MANUFACTURER WARRANTIES",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "FIRE CENTRAL SUPPLY",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Waterous",
+   "model": "CSUC22D",
+   "part": "WATEROUS PUMP CSUC22D; PER ESTIMATE 223897",
+   "part_numbers": [
+    "CSUC22D"
+   ],
+   "quantity": "1.00",
+   "price_usd": 33225.0,
+   "lead_time": null,
+   "sole_source_vendor": "Emergency Equipment Professional, Inc",
+   "reason": "FIRE PUMP IS TO BE REPLACED DUE TO CRACKED CASING.",
+   "equipment_class": "pump",
+   "installed_location": "FIRE CENTRAL SUPPLY",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rex",
+   "model": null,
+   "part": "CABLE, J1939 DATA, BRAND REX; PER ESTIMATE 223897",
+   "part_numbers": [
+    "PRC-SE-13026"
+   ],
+   "quantity": "15.00",
+   "price_usd": 8.1,
+   "lead_time": null,
+   "sole_source_vendor": "Emergency Equipment Professional, Inc",
+   "reason": "SOLE SOURCE TO PROVIDE REPAIRS TO RETAIN MANUFACTURER WARRANTIES",
+   "equipment_class": "other equipment",
+   "installed_location": "FIRE CENTRAL SUPPLY",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Deutsch",
+   "model": null,
+   "part": "DATA TEE, DEUTSCH CONNECTOR; PER ESTIMATE 223897",
+   "part_numbers": [
+    "PRC-64-6625-0001"
+   ],
+   "quantity": "1.00",
+   "price_usd": 21.85,
+   "lead_time": null,
+   "sole_source_vendor": "Emergency Equipment Professional, Inc",
+   "reason": "SOLE SOURCE TO PROVIDE REPAIRS TO RETAIN MANUFACTURER WARRANTIES",
+   "equipment_class": "other equipment",
+   "installed_location": "FIRE CENTRAL SUPPLY",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Deutsch",
+   "model": null,
+   "part": "CONNECTOR, DEUTSCH PLUG, DT SER; PER ESTIMATE 223897",
+   "part_numbers": [
+    "PRC-64-6620-0023"
+   ],
+   "quantity": "2.00",
+   "price_usd": 10.34,
+   "lead_time": null,
+   "sole_source_vendor": "Emergency Equipment Professional, Inc",
+   "reason": "SOLE SOURCE TO PROVIDE REPAIRS TO RETAIN MANUFACTURER WARRANTIES",
+   "equipment_class": "other equipment",
+   "installed_location": "FIRE CENTRAL SUPPLY",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Deutsch",
+   "model": null,
+   "part": "LOCK, SECONDARY, DEUTSCH DT SER; PER ESTIMATE 223897",
+   "part_numbers": [
+    "PRC-64-6624-0017"
+   ],
+   "quantity": "2.00",
+   "price_usd": 0.56,
+   "lead_time": null,
+   "sole_source_vendor": "Emergency Equipment Professional, Inc",
+   "reason": "SOLE SOURCE TO PROVIDE REPAIRS TO RETAIN MANUFACTURER WARRANTIES",
+   "equipment_class": "other equipment",
+   "installed_location": "FIRE CENTRAL SUPPLY",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Deutsch",
+   "model": null,
+   "part": "TERM, DEUTSCH SOCK #16, 18-16 GA; PER ESTIMATE 223897",
+   "part_numbers": [
+    "PRC-64-6623-0001"
+   ],
+   "quantity": "6.00",
+   "price_usd": 8.52,
+   "lead_time": null,
+   "sole_source_vendor": "Emergency Equipment Professional, Inc",
+   "reason": "SOLE SOURCE TO PROVIDE REPAIRS TO RETAIN MANUFACTURER WARRANTIES",
+   "equipment_class": "other equipment",
+   "installed_location": "FIRE CENTRAL SUPPLY",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Duramax",
+   "model": null,
+   "part": "ATF, DURAMAX, DEXIII, 5G; PER ESTIMATE 223897",
+   "part_numbers": [
+    "RDY-950390003000813"
+   ],
+   "quantity": "2.00",
+   "price_usd": 41.64,
+   "lead_time": null,
+   "sole_source_vendor": "Emergency Equipment Professional, Inc",
+   "reason": "SOLE SOURCE TO PROVIDE REPAIRS TO RETAIN MANUFACTURER WARRANTIES",
+   "equipment_class": "other equipment",
+   "installed_location": "FIRE CENTRAL SUPPLY",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11250,
+  "out": 2861
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Selectron Technologies, Inc.",
+   "model": "Relay Permits IVR",
+   "part": "Upgrade and migrate on-premise Selectron Relay Permits IVR software into vendor hosted cloud environment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 319830,
+   "lead_time": null,
+   "sole_source_vendor": "Selectron Technologies, Inc.",
+   "reason": "Selectron Technologies has SelecTXT, the only application for inspection scheduling via test messaging, and Atlas Insight, the only application for workforce efficiency monitoring, capable of interface with Accela.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Oklahoma City Municipal Facilities Authority",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Selectron Technologies, Inc.",
+   "model": "SelecTXT",
+   "part": "Upgrade and migrate on-premise SelecTXT software into vendor hosted cloud environment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 319830,
+   "lead_time": null,
+   "sole_source_vendor": "Selectron Technologies, Inc.",
+   "reason": "Selectron Technologies has SelecTXT, the only application for inspection scheduling via test messaging",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Oklahoma City Municipal Facilities Authority",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Selectron Technologies, Inc.",
+   "model": "Atlas Insight",
+   "part": "Upgrade and migrate on-premise Atlas Insight software into vendor hosted cloud environment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 319830,
+   "lead_time": null,
+   "sole_source_vendor": "Selectron Technologies, Inc.",
+   "reason": "Atlas Insight, the only application for workforce efficiency monitoring, capable of interface with Accela.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Oklahoma City Municipal Facilities Authority",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8724,
+  "out": 701
+ },
+ "model": "claude-sonnet-5"
+}

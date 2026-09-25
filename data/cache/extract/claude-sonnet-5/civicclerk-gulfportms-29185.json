@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Universal Concepts",
+   "model": "Baby Girl / Little Guy Octopus",
+   "part": "Custom 10' x 10' youth octopus displays (\"Baby Girl\" and \"Little Guy\") for Harbor Lights Winter Festival",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 19700,
+   "lead_time": null,
+   "sole_source_vendor": "Universal Concepts",
+   "reason": "These are custom pieces and proprietary illustrations provided by Universal Concepts and cannot be bid through the traditional informal bidding process.",
+   "equipment_class": "other equipment",
+   "installed_location": "Jones Park",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Universal Concepts",
+   "model": "RGB Kelp Garden",
+   "part": "RGB Kelp Garden display (approx 18'W x 12'H) accompanying octopus displays",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 13000,
+   "lead_time": null,
+   "sole_source_vendor": "Universal Concepts",
+   "reason": "These are custom pieces and proprietary illustrations provided by Universal Concepts and cannot be bid through the traditional informal bidding process.",
+   "equipment_class": "other equipment",
+   "installed_location": "Jones Park",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4167,
+  "out": 930
+ },
+ "model": "claude-sonnet-5"
+}

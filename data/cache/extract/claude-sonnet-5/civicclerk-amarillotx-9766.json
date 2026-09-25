@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "14FE7V",
+   "part": "2 STAGE 14FE7V BOWL ASSEMBLY COMPLETE PUMP 28' TPL",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 90130.0,
+   "lead_time": null,
+   "sole_source_vendor": "JAMES COOKE AND HOBSON INC",
+   "reason": "This is a sole source item, specific to the pumps and motors that are in current use, which are unique to each location.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "14HMO5V",
+   "part": "1 STAGE 14HMO5V BOWL ASSEMBLY COMPLETE PUMP 40'4\" TPL",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 94535.0,
+   "lead_time": null,
+   "sole_source_vendor": "JAMES COOKE AND HOBSON INC",
+   "reason": "This is a sole source item, specific to the pumps and motors that are in current use, which are unique to each location.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "14HMO5V",
+   "part": "2 STAGE 14HMO5V BOWL ASSEMBLY COMPLETE PUMP 37'9\" TPL",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 88660.0,
+   "lead_time": null,
+   "sole_source_vendor": "JAMES COOKE AND HOBSON INC",
+   "reason": "This is a sole source item, specific to the pumps and motors that are in current use, which are unique to each location.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "14HMO5V",
+   "part": "1 STAGE 14HMO5V BOWL ASSEMBLY COMPLETE PUMP 41'7\" TPL",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 86055.0,
+   "lead_time": null,
+   "sole_source_vendor": "JAMES COOKE AND HOBSON INC",
+   "reason": "This is a sole source item, specific to the pumps and motors that are in current use, which are unique to each location.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "14HMO5V",
+   "part": "3 STAGE 14HMO5V BOWL ASSEMBLY COMPLETE PUMP 64' TPL",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 117025.0,
+   "lead_time": null,
+   "sole_source_vendor": "JAMES COOKE AND HOBSON INC",
+   "reason": "This is a sole source item, specific to the pumps and motors that are in current use, which are unique to each location.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "14HMO5V",
+   "part": "2 STAGE 14HMO5V BOWL ASSEMBLY COMPLETE PUMP 69'3\" TPL",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 122855.0,
+   "lead_time": null,
+   "sole_source_vendor": "JAMES COOKE AND HOBSON INC",
+   "reason": "This is a sole source item, specific to the pumps and motors that are in current use, which are unique to each location.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "one spare motor for the Bennett Lake pump station",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "JCH (James, Cook, Hobson)",
+   "reason": "This is a sole source item, specific to the pumps and motors that are in current use, which are unique to each location.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Bennett Lake pump station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6020,
+  "out": 3438
+ },
+ "model": "claude-sonnet-5"
+}

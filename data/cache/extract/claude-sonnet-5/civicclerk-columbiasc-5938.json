@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "NearMap high-resolution 2D aerial imagery and oblique view imagery subscription (HyperCamera capture technology)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 53892.22,
+   "lead_time": null,
+   "sole_source_vendor": "Nearmap US, Inc.",
+   "reason": "NearMap offers unique high-resolution 2D aerial imagery and oblique view imagery with four directional perspectives using its patented HyperCamera capture technology and its processing techniques are unique to NearMap.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Nearmap Vertical Offline Copy - Subscription",
+   "part_numbers": [],
+   "quantity": "NA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Nearmap US, Inc.",
+   "reason": "NearMap offers unique high-resolution 2D aerial imagery and oblique view imagery with four directional perspectives using its patented HyperCamera capture technology and its processing techniques are unique to NearMap.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Public Display License for Government",
+   "part_numbers": [],
+   "quantity": "NA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Nearmap US, Inc.",
+   "reason": "NearMap offers unique high-resolution 2D aerial imagery and oblique view imagery with four directional perspectives using its patented HyperCamera capture technology and its processing techniques are unique to NearMap.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Delegated Authentication",
+   "part_numbers": [],
+   "quantity": "NA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Nearmap US, Inc.",
+   "reason": "NearMap offers unique high-resolution 2D aerial imagery and oblique view imagery with four directional perspectives using its patented HyperCamera capture technology and its processing techniques are unique to NearMap.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Repair of rotating assembly for Pump No. 2 (impeller cracked and significantly damaged)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 52731.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The manufacturer no longer produces this model, and a full replacement is not feasible because no modern pumps match the existing dimensions of the installation. As a result, repair of the rotating assembly is the only viable option.",
+   "equipment_class": "pump",
+   "installed_location": "Harden Street Pump Station \u2013 Columbia Canal Water Treatment Plant",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8711,
+  "out": 1041
+ },
+ "model": "claude-sonnet-5"
+}

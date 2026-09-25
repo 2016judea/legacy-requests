@@ -1,0 +1,73 @@
+{
+ "records": [
+  {
+   "manufacturer": "NTI",
+   "model": "Trinity LX400",
+   "part": "gas-fired condensing hot water boilers",
+   "part_numbers": [
+    "Trinity LX400"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vermont Mechanical Inc.",
+   "reason": "This new system will match the existing recent efficient replacement and will work seamlessly with the City\u2019s control system which is essential for both efficiency and safety.",
+   "equipment_class": "HVAC",
+   "installed_location": "City Hall, Burlington, Vermont",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Grundfos",
+   "model": "ECM",
+   "part": "circulator pumps to serve the needs of the boiler primary heating loop and associated piping",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vermont Mechanical Inc.",
+   "reason": "This new system will match the existing recent efficient replacement and will work seamlessly with the City\u2019s control system which is essential for both efficiency and safety.",
+   "equipment_class": "pump",
+   "installed_location": "City Hall, Burlington, Vermont",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "new hydronic expansion tank",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vermont Mechanical Inc.",
+   "reason": "This new system will match the existing recent efficient replacement and will work seamlessly with the City\u2019s control system which is essential for both efficiency and safety.",
+   "equipment_class": "HVAC",
+   "installed_location": "City Hall, Burlington, Vermont",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Contract for boiler replacement services, materials, and system upgrades at City Hall",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 105998,
+   "lead_time": null,
+   "sole_source_vendor": "Vermont Mechanical Inc.",
+   "reason": "In September of 2024 the City Facility Team received sole source approval from our CAO to have Vermont Mechanical complete this work.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City Hall, Burlington, Vermont",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4703,
+  "out": 1683
+ },
+ "model": "claude-sonnet-5"
+}

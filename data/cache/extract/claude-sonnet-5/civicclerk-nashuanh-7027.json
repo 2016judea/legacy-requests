@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kaeser",
+   "model": "SM15",
+   "part": "Kaeser SM15 duplex air compressor",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 37095,
+   "lead_time": null,
+   "sole_source_vendor": "Able Air",
+   "reason": "Able Air is the only supplier of this compressor in the region and is located in Hudson, NH.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fleet Maintenance Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2939,
+  "out": 174
+ },
+ "model": "claude-sonnet-5"
+}

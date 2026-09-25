@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Expanded 700 MHz Land Mobile Radio System inclusive of communications equipment and services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 13700104,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "the current portable/mobile radios can be seamlessly integrated with the existing and soon to be upgraded 700 MHz LMR system and similar upgrades throughout Los Angeles county were delivered by Motorola directly",
+   "equipment_class": "communications/radio",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "APX",
+   "part": "Existing mobile and portable radios integrated with expanded 700 MHz system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "the City\u2019s existing Motorola portable/mobile radios can be integrated seamlessly with the upgraded 700MHz system",
+   "equipment_class": "communications/radio",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Bi-directional amplifiers for indoor coverage enhancement at strategic City facilities",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "enhancing indoor coverage at strategic City facilities (to be determined) with bi-directional amplifiers",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Radio infrastructure replacement at Signal Hill radio site",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "replacing radio infrastructure at the Signal Hill radio site",
+   "equipment_class": "communications/radio",
+   "installed_location": "Signal Hill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Dispatch radio consoles reprogramming/fleet map creation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "assisting with creating a new fleet map/templates for the dispatch radio consoles, providing assistance with reprogramming of dispatch consoles and radios with the new radio template",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Next-generation radios supplied to TID staff for performance testing",
+   "part_numbers": [],
+   "quantity": "limited number",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "supplying a limited number of next-generation radios to select TID staff for performance testing for prospective future user scenarios",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "24/7 support and maintenance by Motorola after system acceptance, including extended four-year warranty and support services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "providing training to TID staff, and comprehensive 24/7 support and maintenance by Motorola after system acceptance",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11540,
+  "out": 1304
+ },
+ "model": "claude-sonnet-5"
+}

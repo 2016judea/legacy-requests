@@ -1,0 +1,161 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sutphen",
+   "model": "MT70",
+   "part": "Refurbishment and overhaul services for Fire Truck 3, a 2002 Sutphen MT70 70' aerial ladder truck",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 262946.11,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Davenport Fire Department - Truck 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FireTech",
+   "model": null,
+   "part": "4x6 LED Headlight Kit retrofit for Fire Truck 3",
+   "part_numbers": [],
+   "quantity": "1.00000",
+   "price_usd": 2008.99,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Davenport Fire Department - Truck 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Freedom 4",
+   "part": "71\" lightbar, 14 module with Opticom, installed on Fire Truck 3",
+   "part_numbers": [],
+   "quantity": "1.00000",
+   "price_usd": 5760.0,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Davenport Fire Department - Truck 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tomar",
+   "model": null,
+   "part": "Strobe bulb for light bar on Fire Truck 3",
+   "part_numbers": [],
+   "quantity": "1.00000",
+   "price_usd": 179.64,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Davenport Fire Department - Truck 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "NOSHOK",
+   "model": null,
+   "part": "Pump intake and discharge gauge, 0-400 PSI, 2.5\", replaced on Fire Truck 3",
+   "part_numbers": [],
+   "quantity": "7.00000",
+   "price_usd": 874.86,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Davenport Fire Department - Truck 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sutphen",
+   "model": null,
+   "part": "Leveling Cone, Platform, used in rebuild of bucket leveling cylinders on Fire Truck 3",
+   "part_numbers": [],
+   "quantity": "1.00000",
+   "price_usd": 486.34,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Davenport Fire Department - Truck 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "SP70",
+   "part": "Ladder slide kit, UHMW, used to replace all slide blocks on aerial ladder of Fire Truck 3",
+   "part_numbers": [
+    "KIT, SLIDES, LADDER, UHMW, SP70"
+   ],
+   "quantity": "1.00000",
+   "price_usd": 2847.48,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Davenport Fire Department - Truck 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Whelen",
+   "model": "600 Series",
+   "part": "Quad stack tail light housing and lights replaced on Fire Truck 3",
+   "part_numbers": [],
+   "quantity": "2.00000",
+   "price_usd": 3000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Davenport Fire Department - Truck 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Whelen",
+   "model": "600 Series",
+   "part": "Surface Mount Rota-Beam, Green, used to replace quad stack tail lights on Fire Truck 3",
+   "part_numbers": [
+    "6RBG"
+   ],
+   "quantity": "2.00000",
+   "price_usd": 946.11,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Davenport Fire Department - Truck 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Whelen",
+   "model": "600 Series",
+   "part": "Red body warning light replacing corroded units on Fire Truck 3",
+   "part_numbers": [
+    "6RBR"
+   ],
+   "quantity": "10.00000",
+   "price_usd": 3962.0,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Davenport Fire Department - Truck 3",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9758,
+  "out": 3805
+ },
+ "model": "claude-sonnet-5"
+}

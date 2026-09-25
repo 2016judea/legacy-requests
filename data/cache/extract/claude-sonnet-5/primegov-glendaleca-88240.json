@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "QCP Corp.",
+   "model": null,
+   "part": "60 concrete pedestrian safety landscape planters",
+   "part_numbers": [],
+   "quantity": "60",
+   "price_usd": 297008,
+   "lead_time": null,
+   "sole_source_vendor": "QCP Corp.",
+   "reason": "QCP is the only known vendor (manufacturer) who is able to provide the planters with the required specifications.",
+   "equipment_class": "other equipment",
+   "installed_location": "Brand Boulevard and Central Avenue Over-pass Bridges and Orange Street Alleyway",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7573,
+  "out": 500
+ },
+ "model": "claude-sonnet-5"
+}

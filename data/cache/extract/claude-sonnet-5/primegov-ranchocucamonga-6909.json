@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fire Alarm Monitoring, Installations, Inspections, and Testing (proprietary fire alarm panels)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 150000,
+   "lead_time": null,
+   "sole_source_vendor": "Enko Systems Inc.",
+   "reason": "These panels are proprietary, and Enko is the only authorized vendor in Southern California able to service them.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City and Fire District facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8397,
+  "out": 200
+ },
+ "model": "claude-sonnet-5"
+}

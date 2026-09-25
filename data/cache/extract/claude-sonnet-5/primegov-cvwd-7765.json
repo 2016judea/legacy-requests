@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Professional Consulting Services for the Programmable Logic Control (PLC) Upgrade Project",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 672306,
+   "lead_time": "11-12 months from the date of Notice to Proceed",
+   "sole_source_vendor": "Northern Digital, Inc.",
+   "reason": "NDI has previously developed a comprehensive SCADA Instrumentation Master Plan (SMP) for CVWD which helped define the support, maintenance, operational objectives and CVWD\u2019s infrastructure prioritization and implementation plan.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "SCADA Quick Panel & PLC Integration \u2013 11 Combination Sites (Well/Booster/PRS/Res)",
+   "part_numbers": [
+    "80012-57 Rev E"
+   ],
+   "quantity": "11 sites",
+   "price_usd": 248418,
+   "lead_time": "11-12 months from the date of Notice to Proceed",
+   "sole_source_vendor": "Northern Digital, Inc.",
+   "reason": "NDI has previously developed a comprehensive SCADA Instrumentation Master Plan (SMP) for CVWD which helped define the support, maintenance, operational objectives and CVWD\u2019s infrastructure prioritization and implementation plan.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "SCADA Quick Panel & PLC Integration \u2013 13 Booster Station Sites",
+   "part_numbers": [
+    "80012-57 Rev E"
+   ],
+   "quantity": "13 sites",
+   "price_usd": 162240,
+   "lead_time": "11-12 months from the date of Notice to Proceed",
+   "sole_source_vendor": "Northern Digital, Inc.",
+   "reason": "NDI has previously developed a comprehensive SCADA Instrumentation Master Plan (SMP) for CVWD which helped define the support, maintenance, operational objectives and CVWD\u2019s infrastructure prioritization and implementation plan.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "SCADA Quick Panel & PLC Integration \u2013 14 Well Sites",
+   "part_numbers": [
+    "80012-57 Rev E"
+   ],
+   "quantity": "14 sites",
+   "price_usd": 81060,
+   "lead_time": "11-12 months from the date of Notice to Proceed",
+   "sole_source_vendor": "Northern Digital, Inc.",
+   "reason": "NDI has previously developed a comprehensive SCADA Instrumentation Master Plan (SMP) for CVWD which helped define the support, maintenance, operational objectives and CVWD\u2019s infrastructure prioritization and implementation plan.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "SCADA Quick Panel & PLC Integration \u2013 6 Reservoir Sites",
+   "part_numbers": [
+    "80012-57 Rev E"
+   ],
+   "quantity": "6 sites",
+   "price_usd": 46980,
+   "lead_time": "11-12 months from the date of Notice to Proceed",
+   "sole_source_vendor": "Northern Digital, Inc.",
+   "reason": "NDI has previously developed a comprehensive SCADA Instrumentation Master Plan (SMP) for CVWD which helped define the support, maintenance, operational objectives and CVWD\u2019s infrastructure prioritization and implementation plan.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "SCADA Quick Panel & PLC Integration \u2013 6 Pressure Reducing Station Sites",
+   "part_numbers": [
+    "80012-57 Rev E"
+   ],
+   "quantity": "6 sites",
+   "price_usd": 32760,
+   "lead_time": "11-12 months from the date of Notice to Proceed",
+   "sole_source_vendor": "Northern Digital, Inc.",
+   "reason": "NDI has previously developed a comprehensive SCADA Instrumentation Master Plan (SMP) for CVWD which helped define the support, maintenance, operational objectives and CVWD\u2019s infrastructure prioritization and implementation plan.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Development of new CVWD PLC program template for new site configuration (Booster/Reservoir/Well)",
+   "part_numbers": [
+    "80012-57 Rev E"
+   ],
+   "quantity": "1",
+   "price_usd": 14950,
+   "lead_time": "11-12 months from the date of Notice to Proceed",
+   "sole_source_vendor": "Northern Digital, Inc.",
+   "reason": "NDI has previously developed a comprehensive SCADA Instrumentation Master Plan (SMP) for CVWD which helped define the support, maintenance, operational objectives and CVWD\u2019s infrastructure prioritization and implementation plan.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "SCADA-based Reservoir Top Off Program (RTOP) SCADA Integration engineering support for pump operations optimization",
+   "part_numbers": [
+    "80013-15"
+   ],
+   "quantity": null,
+   "price_usd": 123848,
+   "lead_time": "11-12 months from the date of Notice to Proceed",
+   "sole_source_vendor": "Northern Digital, Inc.",
+   "reason": "This effort represents a significant technical advancement from previous implementations and introduces deeper integration with CVWD\u2019s SCADA framework.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 13816,
+  "out": 5659
+ },
+ "model": "claude-sonnet-5"
+}

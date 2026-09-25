@@ -1,0 +1,109 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hoffman and Lamson",
+   "model": "815 ADOO",
+   "part": "Conventional air filter blower system with 75 HP motor",
+   "part_numbers": [
+    "815 ADOO"
+   ],
+   "quantity": "1",
+   "price_usd": 107792.16,
+   "lead_time": "16 to 19 weeks",
+   "sole_source_vendor": "McKenna Engineering and Equipment Co, Inc.",
+   "reason": "the air blower and motor equipment is proprietary equipment uniquely suited for the City\u2019s water treatment plant infrastructure and solely available from said vendor",
+   "equipment_class": "other equipment",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Endustra",
+   "model": null,
+   "part": "Inlet Filter/Silencer for air blower",
+   "part_numbers": [
+    "P09RJ-GD0415"
+   ],
+   "quantity": "1",
+   "price_usd": 3653.29,
+   "lead_time": "16 to 19 weeks",
+   "sole_source_vendor": "McKenna Engineering and Equipment Co, Inc.",
+   "reason": "the air blower and motor equipment is proprietary equipment uniquely suited for the City\u2019s water treatment plant infrastructure and solely available from said vendor",
+   "equipment_class": "other equipment",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Expansion Joint 8IN W/O Rods for blower piping",
+   "part_numbers": [
+    "AAD-755G"
+   ],
+   "quantity": "1",
+   "price_usd": 1731.51,
+   "lead_time": "16 to 19 weeks",
+   "sole_source_vendor": "McKenna Engineering and Equipment Co, Inc.",
+   "reason": "the air blower and motor equipment is proprietary equipment uniquely suited for the City\u2019s water treatment plant infrastructure and solely available from said vendor",
+   "equipment_class": "other equipment",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Check Valve, 8IN -125# Flange",
+   "part_numbers": [
+    "504-1330"
+   ],
+   "quantity": "1",
+   "price_usd": 5054.1,
+   "lead_time": "16 to 19 weeks",
+   "sole_source_vendor": "McKenna Engineering and Equipment Co, Inc.",
+   "reason": "the air blower and motor equipment is proprietary equipment uniquely suited for the City\u2019s water treatment plant infrastructure and solely available from said vendor",
+   "equipment_class": "valve",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Butterfly Valve, 8IN Double Flange, Metal Seat",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 5080.32,
+   "lead_time": "16 to 19 weeks",
+   "sole_source_vendor": "McKenna Engineering and Equipment Co, Inc.",
+   "reason": "the air blower and motor equipment is proprietary equipment uniquely suited for the City\u2019s water treatment plant infrastructure and solely available from said vendor",
+   "equipment_class": "valve",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Guardian One",
+   "part": "Surge monitoring device for blower system (RG110-SO)",
+   "part_numbers": [
+    "RG110-SO"
+   ],
+   "quantity": "1",
+   "price_usd": 11920.9,
+   "lead_time": "16 to 19 weeks",
+   "sole_source_vendor": "McKenna Engineering and Equipment Co, Inc.",
+   "reason": "the air blower and motor equipment is proprietary equipment uniquely suited for the City\u2019s water treatment plant infrastructure and solely available from said vendor",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6718,
+  "out": 2640
+ },
+ "model": "claude-sonnet-5"
+}

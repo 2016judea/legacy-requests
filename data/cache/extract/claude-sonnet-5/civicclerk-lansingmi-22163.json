@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ABB",
+   "model": "Fischer & Porter Ultraviolet Disinfection System",
+   "part": "UV disinfection bulbs, quartz sleeves and installation for maintenance of the plant's UV Disinfection System",
+   "part_numbers": [],
+   "quantity": "enough bulbs and sleeves to refit 1 of the 4 flow channels; installation of 2 Bank Lamps",
+   "price_usd": 38648,
+   "lead_time": null,
+   "sole_source_vendor": "Ironbrook UV",
+   "reason": "ABB owns the Fischer & Porter design, and that Ironbrook is the exclusive distributor.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Wastewater plant (Lansing)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4398,
+  "out": 281
+ },
+ "model": "claude-sonnet-5"
+}

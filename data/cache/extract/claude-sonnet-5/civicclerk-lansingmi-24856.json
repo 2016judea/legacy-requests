@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rotork",
+   "model": "IQTM3-Series",
+   "part": "Electronic valve actuators for existing 10\" Butterfly valve, South Plant Aeration Air valve",
+   "part_numbers": [
+    "IQTM1000-FA12"
+   ],
+   "quantity": "3",
+   "price_usd": 32655.0,
+   "lead_time": "6-8 weeks ARO",
+   "sole_source_vendor": "Systems Specialties",
+   "reason": "requests that Systems Specialties be designated as a Sole Source vendor for three Rotork slide gate actuators for the South Aeration Air Flow Control",
+   "equipment_class": "valve",
+   "installed_location": "South Plant \u2013 Aeration Air valve",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3874,
+  "out": 776
+ },
+ "model": "claude-sonnet-5"
+}

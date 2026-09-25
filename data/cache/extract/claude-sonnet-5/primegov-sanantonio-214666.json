@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Honeywell",
+   "model": "Comfort Point OPEN",
+   "part": "Building Automation System (BAS) controller devices (Direct Digital Controllers and associated field devices/ancillary components) to replace obsolete controllers for HVAC system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1071113.56,
+   "lead_time": null,
+   "sole_source_vendor": "Honeywell Building Solutions",
+   "reason": "Honeywell Building Solutions is the sole certified vendor of Honeywell Building Solutions EBI System installed at the Henry B. Gonzalez Convention Center.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Henry B. Gonzalez Convention Center and Lila Cockrell Theatre",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10237,
+  "out": 955
+ },
+ "model": "claude-sonnet-5"
+}

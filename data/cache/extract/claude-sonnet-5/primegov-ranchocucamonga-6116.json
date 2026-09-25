@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "C&D Technologies",
+   "model": null,
+   "part": "Substation battery system replacement (temporary power backup, removal/installation of batteries, racking cleaning, new batteries and accessory equipment, testing)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 51468,
+   "lead_time": null,
+   "sole_source_vendor": "American Power Systems, LLC",
+   "reason": "Changing the substation battery system will require additional analysis, a new racking system, and secondary containment.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Arbor Substation",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5449,
+  "out": 216
+ },
+ "model": "claude-sonnet-5"
+}

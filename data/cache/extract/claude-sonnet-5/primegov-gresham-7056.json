@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "CUES",
+   "model": null,
+   "part": "CCTV Van (inspection system including CCTV equipment, computer hardware and software, and van)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 335145,
+   "lead_time": null,
+   "sole_source_vendor": "CUES, Inc.",
+   "reason": "Per the City\u2019s operations superintendents, there are no competitive options that would satisfy the City\u2019s operational needs.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3349,
+  "out": 187
+ },
+ "model": "claude-sonnet-5"
+}

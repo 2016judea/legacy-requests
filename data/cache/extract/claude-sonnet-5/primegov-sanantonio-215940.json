@@ -1,0 +1,175 @@
+{
+ "records": [
+  {
+   "manufacturer": "Williams Control",
+   "model": null,
+   "part": "'07 Electronic Food Pedal Assembly for ISC, ISL, ISM Engines,",
+   "part_numbers": [
+    "308L-0057"
+   ],
+   "quantity": "10",
+   "price_usd": 362.25,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This annual contract will provide the Solid Waste Management Department with Battle Motors original equipment manufacturer (OEM) parts for its fleet of 31 heavy-duty automated sideload garbage trucks.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Solid Waste Management Department (SWMD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Battle Motors",
+   "model": null,
+   "part": "AIR CLNR STACK ASSY-OPTIAIR AIR CLNR, W/O PRECLNR",
+   "part_numbers": [
+    "143-0603"
+   ],
+   "quantity": "10",
+   "price_usd": 325.1,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This annual contract will provide the Solid Waste Management Department with Battle Motors original equipment manufacturer (OEM) parts for its fleet of 31 heavy-duty automated sideload garbage trucks.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Solid Waste Management Department (SWMD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Battle Motors",
+   "model": null,
+   "part": "Horn, Air-Dual Tone",
+   "part_numbers": [
+    "153-0031"
+   ],
+   "quantity": "5",
+   "price_usd": 277.83,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This annual contract will provide the Solid Waste Management Department with Battle Motors original equipment manufacturer (OEM) parts for its fleet of 31 heavy-duty automated sideload garbage trucks.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Solid Waste Management Department (SWMD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Battle Motors",
+   "model": null,
+   "part": "Cover Battery Box - Black Plastic",
+   "part_numbers": [
+    "063A-0109"
+   ],
+   "quantity": "5",
+   "price_usd": 205.41,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This annual contract will provide the Solid Waste Management Department with Battle Motors original equipment manufacturer (OEM) parts for its fleet of 31 heavy-duty automated sideload garbage trucks.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Solid Waste Management Department (SWMD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Battle Motors",
+   "model": null,
+   "part": "Battery Box - 2 Batteries for LET2",
+   "part_numbers": [
+    "032E-0246"
+   ],
+   "quantity": "5",
+   "price_usd": 750.47,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This annual contract will provide the Solid Waste Management Department with Battle Motors original equipment manufacturer (OEM) parts for its fleet of 31 heavy-duty automated sideload garbage trucks.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Solid Waste Management Department (SWMD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Battle Motors",
+   "model": null,
+   "part": "Armrest/Door Pull, Padded Vinyl, Black",
+   "part_numbers": [
+    "007-0174"
+   ],
+   "quantity": "10",
+   "price_usd": 224.07,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This annual contract will provide the Solid Waste Management Department with Battle Motors original equipment manufacturer (OEM) parts for its fleet of 31 heavy-duty automated sideload garbage trucks.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Solid Waste Management Department (SWMD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lucerix",
+   "model": null,
+   "part": "Mirror-Lucerix Convex Left-Handed Spot Mirror, 12V Heated, .75\" Arm",
+   "part_numbers": [
+    "211-0200"
+   ],
+   "quantity": "10",
+   "price_usd": 188.66,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This annual contract will provide the Solid Waste Management Department with Battle Motors original equipment manufacturer (OEM) parts for its fleet of 31 heavy-duty automated sideload garbage trucks.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Solid Waste Management Department (SWMD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sears",
+   "model": "C2",
+   "part": "Seat, Sears C2 Model, Asphalt Confetti Fabric, Formed Cushion (Fabriform)",
+   "part_numbers": [
+    "282A-0174"
+   ],
+   "quantity": "5",
+   "price_usd": 860.66,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This annual contract will provide the Solid Waste Management Department with Battle Motors original equipment manufacturer (OEM) parts for its fleet of 31 heavy-duty automated sideload garbage trucks.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Solid Waste Management Department (SWMD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nelson",
+   "model": null,
+   "part": "Tank, Power Steering Reservoir, 4QT with SAE Ports",
+   "part_numbers": [
+    "325-0203"
+   ],
+   "quantity": "5",
+   "price_usd": 390.04,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This annual contract will provide the Solid Waste Management Department with Battle Motors original equipment manufacturer (OEM) parts for its fleet of 31 heavy-duty automated sideload garbage trucks.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Solid Waste Management Department (SWMD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cleveland Tank",
+   "model": null,
+   "part": "Fuel Tank, 80GAL, 26\" Dia, Aluminum, with Brackets and Straps",
+   "part_numbers": [
+    "314-0213"
+   ],
+   "quantity": "5",
+   "price_usd": 3075.26,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This annual contract will provide the Solid Waste Management Department with Battle Motors original equipment manufacturer (OEM) parts for its fleet of 31 heavy-duty automated sideload garbage trucks.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Solid Waste Management Department (SWMD)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6331,
+  "out": 6804
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Caterpillar",
+   "model": null,
+   "part": "Replace multiple Generators at various Pasco County Facilities using Sourcewell Agreement 092222-CAT",
+   "part_numbers": [],
+   "quantity": "multiple",
+   "price_usd": 1000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Ring Power Corporation",
+   "reason": "Sourcewell Agreement 092222-CAT qualifies via Section 2-96 of the Purchasing Ordinance as an exempt purchase for the replacement of existing Generators as purchased by Ring Power.",
+   "equipment_class": "generator",
+   "installed_location": "various Pasco County Facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 15989,
+  "out": 242
+ },
+ "model": "claude-sonnet-5"
+}

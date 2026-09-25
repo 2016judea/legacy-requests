@@ -1,0 +1,48 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lane Shark",
+   "model": "LS-3",
+   "part": "New LANE SHARK LS-3 36\" HYDRAULIC CUTTER",
+   "part_numbers": [
+    "E020569",
+    "LS3-2549"
+   ],
+   "quantity": null,
+   "price_usd": 5199.0,
+   "lead_time": null,
+   "sole_source_vendor": "Parish Tractor Company",
+   "reason": "Parish Tractor Company is the sole source provider for the Lane Shark LS-4 implement required by the City of Hattiesburg for use with their Kubota tractor.",
+   "equipment_class": "other equipment",
+   "installed_location": "City of Hattiesburg Water and Sewer Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "WR Long",
+   "model": "VKKULA555",
+   "part": "New WR LONG VKKULA555 3RD FUNCTION FOR LA555 LOADER",
+   "part_numbers": [
+    "E026807"
+   ],
+   "quantity": null,
+   "price_usd": 1499.0,
+   "lead_time": null,
+   "sole_source_vendor": "Parish Tractor Company",
+   "reason": "Parish Tractor Company is the sole source provider for the Lane Shark LS-4 implement required by the City of Hattiesburg for use with their Kubota tractor.",
+   "equipment_class": "other equipment",
+   "installed_location": "City of Hattiesburg Water and Sewer Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7109,
+  "out": 2577
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Neptune Technology Group",
+   "model": "Neptune 360 AMR",
+   "part": "NEPTUNE 360 AMR 20001-50000 CONNECTED ENDPOINTS ANNUAL SUBSCRIPTION AMR READINGS",
+   "part_numbers": [
+    "14099-107"
+   ],
+   "quantity": "4677 EA",
+   "price_usd": 4349.61,
+   "lead_time": null,
+   "sole_source_vendor": "Core & Main LP",
+   "reason": "a one-year maintenance and license renewal for said system is available only from Core & Main LP",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Midland, TX",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Neptune Technology Group",
+   "model": "Neptune 360 AMI",
+   "part": "NEPTUNE 360 AMI 20001-50000 CONNECTED ENDPOINTS ANNUAL SUBSCRIPTION AMI READINGS",
+   "part_numbers": [
+    "14099-117"
+   ],
+   "quantity": "43628 EA",
+   "price_usd": 96854.16,
+   "lead_time": null,
+   "sole_source_vendor": "Core & Main LP",
+   "reason": "a one-year maintenance and license renewal for said system is available only from Core & Main LP",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Midland, TX",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5286,
+  "out": 698
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Donelson Construction Co., LLC",
+   "model": "MAQS-2",
+   "part": "Sole-source installation of PressurePave\u00ae-Modified Aggregate Quick Set (MAQS\u00ae) Surfacing System on various city streets",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 741565.8,
+   "lead_time": null,
+   "sole_source_vendor": "Donelson Construction Co., LLC",
+   "reason": "This item is being requested to be purchased as a sole-source because competition is precluded because of the existence of multiple patents.",
+   "equipment_class": "other equipment",
+   "installed_location": "Various streets, San Angelo, TX (S Irving St, S Oakes St, Concho Ave, Beauregard Ave, Twohig Ave)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6890,
+  "out": 1586
+ },
+ "model": "claude-sonnet-5"
+}

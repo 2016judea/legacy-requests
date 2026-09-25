@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Readiness Network, Inc. dba International Academy of Public Safety",
+   "model": "MAGNUSWorx Peak Performance and Wellness Application",
+   "part": "Sole source purchase of MAGNUSWorx Peak Performance and Wellness Application (SaaS wellness software)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 140000,
+   "lead_time": null,
+   "sole_source_vendor": "Readiness Network, Inc. dba International Academy of Public Safety",
+   "reason": "MAGNUSWorx Peak Performance and Wellness Application is a sole source and not available through other providers. This program has unique features built into the application that is unlike any other program available.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Oklahoma City Police Department Wellness Unit",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6748,
+  "out": 290
+ },
+ "model": "claude-sonnet-5"
+}

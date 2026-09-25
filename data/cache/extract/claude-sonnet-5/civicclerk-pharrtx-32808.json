@@ -1,0 +1,376 @@
+{
+ "records": [
+  {
+   "manufacturer": "Calix",
+   "model": "E9-2 NG1601 16 port line card",
+   "part": "E9-2 NG1601 16 port line card (4xQSFP28, 16x10GPON OIM)",
+   "part_numbers": [
+    "100-04494"
+   ],
+   "quantity": "1",
+   "price_usd": 15663.7,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": "E9-2 XG3201 line card",
+   "part": "E9-2 XG3201 line card (32 ports XGS-PON)",
+   "part_numbers": [
+    "100-05709"
+   ],
+   "quantity": "1",
+   "price_usd": 23680.0,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": "GigaPro GPR2032H wall mount bracket",
+   "part": "GigaPro GPR2032H wall mount bracket",
+   "part_numbers": [
+    "100-05833"
+   ],
+   "quantity": "2",
+   "price_usd": 40.0,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": "GigaPro GPR2032H pole mount bracket",
+   "part": "GigaPro GPR2032H pole mount bracket",
+   "part_numbers": [
+    "100-05837"
+   ],
+   "quantity": "23",
+   "price_usd": 874.0,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": "802.3bt PoE injector",
+   "part": "802.3bt PoE injector; 5Gbps WAN, 5Gbps LAN, AC Power Cord",
+   "part_numbers": [
+    "100-06005"
+   ],
+   "quantity": "25",
+   "price_usd": 1500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": "GP1100X GigaPoint",
+   "part": "GP1100X GigaPoint, 1 2.5GE, 1 POTS - AM Power Adapter (EXOS ONT)",
+   "part_numbers": [
+    "100-05463"
+   ],
+   "quantity": "3000",
+   "price_usd": 297000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": "GigaSpire u4.2 GS2029E",
+   "part": "GigaSpire u4.2, GS2029E, Dual band 2x2 Wi-Fi 6, 2.5GE WAN, 2.5GE LAN, 1 USB, AM Power Adapter",
+   "part_numbers": [
+    "100-06034"
+   ],
+   "quantity": "2000",
+   "price_usd": 205800.0,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": "GS2028E GigaSpire BLAST u4",
+   "part": "GS2028E, GigaSpire BLAST u4, Dual band 2x2 Wi-Fi 6, GE WAN, 2 GE LAN, 1 USB, AM Power Adapter",
+   "part_numbers": [
+    "000-01177",
+    "100-05493"
+   ],
+   "quantity": "2000",
+   "price_usd": 205800.0,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": "GigaPro p4 GPR1027E",
+   "part": "GigaPro p4, GPR1027E, dual band 2x2 Wi-Fi 6 PoE RG/Mesh, 2.5G LAN/WAN, AM power adapter",
+   "part_numbers": [
+    "100-05907"
+   ],
+   "quantity": "20",
+   "price_usd": 2704.0,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": "GigaSpire GS7 10GE Tri Gateway GS5239E",
+   "part": "GigaSpire GS7 10GE Tri Gateway, GS5239E, Triband Wi-Fi 7 RG/Mesh, AM PA",
+   "part_numbers": [
+    "100-05969"
+   ],
+   "quantity": "10",
+   "price_usd": 2925.0,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": "GigaPro GPR2032H Hardened Wi-Fi System",
+   "part": "GigaPro GPR2032H, GigaPro Hardened Wi-Fi System, Triband Wi-Fi 6E 2x2, 2.5GE WAN, 2.5GE LAN, 802.3bt PoE, AFC license",
+   "part_numbers": [
+    "100-05678"
+   ],
+   "quantity": "25",
+   "price_usd": 9562.5,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "We have included outdoor wifi access points to deploy at city parks for the new smart town solution which will provide a better experience to our subscribers and guest when visiting Pharr.",
+   "equipment_class": "communications/radio",
+   "installed_location": "City parks, Pharr",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": "XGS-PON XFP transceiver Class N2",
+   "part": "XGS-PON XFP, 10G/10G, Class N2, 1577/1270nm, Single Fiber Transceiver, 20km, C-Temp, OLT, E-Series",
+   "part_numbers": [
+    "100-05524"
+   ],
+   "quantity": "10",
+   "price_usd": 5950.0,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": "XGS-PON XFP transceiver Class E1",
+   "part": "XGS-PON XFP, 10G/10G, Class E1, 1577/1270nm, Single Fiber Transceiver, 20km, C-Temp, OLT, E-Series",
+   "part_numbers": [
+    "100-05644"
+   ],
+   "quantity": "10",
+   "price_usd": 8525.0,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": "GigaPoint Wall Mount Fiber Mgmt Bracket",
+   "part": "GigaPoint Wall Mount Fiber Mgmt Bracket - Quantity 50",
+   "part_numbers": [
+    "100-05537"
+   ],
+   "quantity": "60",
+   "price_usd": 10620.0,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": null,
+   "part": "Extended Warranty - Upfront - 5 years for E9-2 NG1601 line card",
+   "part_numbers": [
+    "110-01162",
+    "100-04494"
+   ],
+   "quantity": "1",
+   "price_usd": 274.8,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": null,
+   "part": "Extended Warranty - Upfront - 4 years for GigaSpire GS7 GS5239E",
+   "part_numbers": [
+    "110-01165",
+    "100-05969"
+   ],
+   "quantity": "10",
+   "price_usd": 201.6,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": null,
+   "part": "Extended Warranty - Upfront - 4 years for GP1100X GigaPoint ONT",
+   "part_numbers": [
+    "110-01165",
+    "100-05463"
+   ],
+   "quantity": "3000",
+   "price_usd": 60480.0,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": null,
+   "part": "Extended Warranty - Upfront - 4 years for GS2028E GigaSpire BLAST u4",
+   "part_numbers": [
+    "110-01165",
+    "100-05493"
+   ],
+   "quantity": "2000",
+   "price_usd": 40320.0,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": null,
+   "part": "Extended Warranty - Upfront - 4 years for GigaPro GPR2032H Hardened Wi-Fi System",
+   "part_numbers": [
+    "110-01165",
+    "100-05678"
+   ],
+   "quantity": "25",
+   "price_usd": 504.0,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "We have included outdoor wifi access points to deploy at city parks for the new smart town solution which will provide a better experience to our subscribers and guest when visiting Pharr.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City parks, Pharr",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": null,
+   "part": "Extended Warranty - Upfront - 5 years for E9-2 XG3201 line card",
+   "part_numbers": [
+    "110-01162",
+    "100-05709"
+   ],
+   "quantity": "1",
+   "price_usd": 274.8,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": null,
+   "part": "Extended Warranty - Upfront - 4 years for GigaPro p4 GPR1027E",
+   "part_numbers": [
+    "110-01165",
+    "100-05907"
+   ],
+   "quantity": "20",
+   "price_usd": 403.2,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calix",
+   "model": null,
+   "part": "Extended Warranty - Upfront - 4 years for GigaSpire u4.2 GS2029E",
+   "part_numbers": [
+    "110-01165",
+    "100-06034"
+   ],
+   "quantity": "2000",
+   "price_usd": 40320.0,
+   "lead_time": null,
+   "sole_source_vendor": "Calix, Inc",
+   "reason": "The City of Pharr uses Calix equipment for Pharr Connect services for our subscribers.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Pharr Connect",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5707,
+  "out": 5867
+ },
+ "model": "claude-sonnet-5"
+}

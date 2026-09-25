@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Gorman Rupp",
+   "model": null,
+   "part": "Suction Cover",
+   "part_numbers": [
+    "96832135"
+   ],
+   "quantity": "3.00",
+   "price_usd": 12213.0,
+   "lead_time": null,
+   "sole_source_vendor": "General Repair Service",
+   "reason": "General Repair Service is the only regional representative available in the Bismarck area who sells Gorman Rupp pumps and parts.",
+   "equipment_class": "pump",
+   "installed_location": "Washington Street Master Lift Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gorman Rupp",
+   "model": null,
+   "part": "Impeller Kit",
+   "part_numbers": [
+    "96832481"
+   ],
+   "quantity": "3.00",
+   "price_usd": 45222.0,
+   "lead_time": null,
+   "sole_source_vendor": "General Repair Service",
+   "reason": "General Repair Service is the only regional representative available in the Bismarck area who sells Gorman Rupp pumps and parts.",
+   "equipment_class": "pump",
+   "installed_location": "Washington Street Master Lift Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3132,
+  "out": 660
+ },
+ "model": "claude-sonnet-5"
+}

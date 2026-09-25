@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "PowerPlan, Inc.",
+   "model": "PowerPlan Cloud-Hosted Subscription",
+   "part": "Workday Implementation and Maintenance Services / subscription to PowerPlan's licensed software products for Business Asset Accounting and Depreciation System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 8200000.0,
+   "lead_time": null,
+   "sole_source_vendor": "PowerPlan, Inc.",
+   "reason": "A sole source agreement is necessary because PowerPlan has the proprietary knowledge, expertise and programming source code to maintain and integrate its software to Workday financial modules as part of LADWP's ERP solution.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "LADWP",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 15165,
+  "out": 283
+ },
+ "model": "claude-sonnet-5"
+}

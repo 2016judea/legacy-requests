@@ -1,0 +1,105 @@
+{
+ "records": [
+  {
+   "manufacturer": "Blue Star Power Systems",
+   "model": "JD80-02",
+   "part": "80kW Diesel Generator Set",
+   "part_numbers": [
+    "JD80-02",
+    "LV-III-AL-20-125",
+    "PMG",
+    "CD Extension"
+   ],
+   "quantity": "1",
+   "price_usd": 50567.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mid Florida Diesel, Inc.",
+   "reason": "Florida Sheriff Association Bid FSA23.0-EQU21.1 Item #151",
+   "equipment_class": "generator",
+   "installed_location": "4-471, Saddlebrook, 5225 Fox Hunt Dr.",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Blue Star Power Systems",
+   "model": "JD80-02",
+   "part": "80kW Diesel Generator Set",
+   "part_numbers": [
+    "JD80-02",
+    "LV-III-AL-20-125",
+    "PMG",
+    "CD Extension"
+   ],
+   "quantity": "1",
+   "price_usd": 50567.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mid Florida Diesel, Inc.",
+   "reason": "Florida Sheriff Association Bid FSA23.0-EQU21.1 Item #151",
+   "equipment_class": "generator",
+   "installed_location": "3-110, Rancho Del Rio, 9242 Via Segovia",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Blue Star Power Systems",
+   "model": "JD150-01",
+   "part": "150kW Standby Diesel Generator Set",
+   "part_numbers": [
+    "JD150-01",
+    "LV-III-AL-150-250",
+    "PMG",
+    "CD Extension"
+   ],
+   "quantity": "1",
+   "price_usd": 67862.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mid Florida Diesel, Inc.",
+   "reason": "Florida Sheriff Association Bid FSA23.0-EQU21.1 Item #151",
+   "equipment_class": "generator",
+   "installed_location": "1-168, Heritage Springs, 12038 Robert Trent Bvld.",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Blue Star Power Systems",
+   "model": "JD250-02",
+   "part": "250kW Standby Diesel Generator Set",
+   "part_numbers": [
+    "JD250-02",
+    "LV-III-AL-150-250",
+    "PMG",
+    "CD Extension"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mid Florida Diesel, Inc.",
+   "reason": "Florida Sheriff Association Bid FSA23.0-EQU21.1 Item #151",
+   "equipment_class": "generator",
+   "installed_location": "1-102, Beacon Woods MS, 9251 Hudson Ave",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Automatic Transfer Switch",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mid Florida Diesel, Inc.",
+   "reason": "Ten Blue Star Power Systems Diesel Generators and One Automatic Transfer Switch",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12707,
+  "out": 3100
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "OverDrive, Inc.",
+   "model": "Libby",
+   "part": "Subscription-based digital library services providing eBook and audiobook access through OverDrive's proprietary Libby platform, including hosting, maintenance, DRM, and integration with the County's ILS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 600000,
+   "lead_time": null,
+   "sole_source_vendor": "OverDrive, Inc.",
+   "reason": "OverDrive, Inc. is the only responsible source capable of providing the required digital library platform and associated services, making this a valid single source procurement.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "West Florida Public Libraries",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14581,
+  "out": 249
+ },
+ "model": "claude-sonnet-5"
+}

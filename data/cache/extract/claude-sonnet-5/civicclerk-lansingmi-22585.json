@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rotork",
+   "model": "IQ20-FA14",
+   "part": "Slide Gate Actuator replacement for Influent Slide Gates in Screen Building",
+   "part_numbers": [
+    "IQ20-FA14"
+   ],
+   "quantity": "12",
+   "price_usd": 145116.0,
+   "lead_time": "10-12 Weeks ARO",
+   "sole_source_vendor": "System Specialties",
+   "reason": "Rotork brand actuators sold through System Specialties are utilized throughout the plant (approx. 130) for standardized parts, service and Operational Technology (OT) programming.",
+   "equipment_class": "valve",
+   "installed_location": "Screen Building at the Wastewater Treatment Plant",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6652,
+  "out": 244
+ },
+ "model": "claude-sonnet-5"
+}

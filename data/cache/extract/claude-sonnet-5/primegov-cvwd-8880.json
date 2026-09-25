@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Data processing, print services, and postage for District billing statements",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2610000,
+   "lead_time": null,
+   "sole_source_vendor": "InfoSend, Inc.",
+   "reason": "InfoSend is highly integrated with CVWD\u2019s billing system.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12729,
+  "out": 418
+ },
+ "model": "claude-sonnet-5"
+}

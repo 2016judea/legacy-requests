@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Summit",
+   "model": "SJC 8X10-18",
+   "part": "Return Activated Sludge (RAS) pump, Size 8 X 10-18, Frame Size 4J, 18'' Impeller, HC600 construction",
+   "part_numbers": [
+    "SJC8X10-18HC600"
+   ],
+   "quantity": "1",
+   "price_usd": 52069.22,
+   "lead_time": "22 WEEKS",
+   "sole_source_vendor": "Carolina Seals, Inc.",
+   "reason": "This is a sole source purchase to maintain standardization across all three pumps.",
+   "equipment_class": "pump",
+   "installed_location": "Westside Wastewater Treatment Plant (WWTP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Flexaseal",
+   "model": "VTSMS3",
+   "part": "3.250'' Stationary multi-spring dual cartridge seal with pumping ring for SJC 8 X 10-18 4J HC600 pump",
+   "part_numbers": [
+    "FS62774M76"
+   ],
+   "quantity": "1",
+   "price_usd": 8200.0,
+   "lead_time": "22 WEEKS",
+   "sole_source_vendor": "Carolina Seals, Inc.",
+   "reason": "This is a sole source purchase to maintain standardization across all three pumps.",
+   "equipment_class": "pump",
+   "installed_location": "Westside Wastewater Treatment Plant (WWTP)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3850,
+  "out": 637
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stop Stick",
+   "model": "9' Stop Stick Kit w/Tray - Red",
+   "part": "9\" Stop Stick Kit w/Tray tire deflation system",
+   "part_numbers": [
+    "S3011K"
+   ],
+   "quantity": "22",
+   "price_usd": 10450.0,
+   "lead_time": null,
+   "sole_source_vendor": "Stop Stick Ltd.",
+   "reason": "This product is only available through Stop Stick due to the patent of the product being owned by this company.",
+   "equipment_class": "other equipment",
+   "installed_location": "Hattiesburg Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stop Stick",
+   "model": "9' Stop Stick Training Kit-w/Storage Bag",
+   "part": "Stop Stick Training Kit with Storage Bag (complimentary)",
+   "part_numbers": [
+    "S9004K"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Stop Stick Ltd.",
+   "reason": "Complimentary Training Kit with purchase 22 sets per Hugh",
+   "equipment_class": "other equipment",
+   "installed_location": "Hattiesburg Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 3,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8332,
+  "out": 407
+ },
+ "model": "claude-sonnet-5"
+}

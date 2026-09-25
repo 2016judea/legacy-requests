@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Cascade Filling and Compressor System (replacement) to enable filling of air cylinders",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 122736.0,
+   "lead_time": null,
+   "sole_source_vendor": "Municipal Emergency Services",
+   "reason": "where the price was determined pursuant to a competitively sourced Sourcewell contract.",
+   "equipment_class": "other equipment",
+   "installed_location": "Charleston Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3571,
+  "out": 183
+ },
+ "model": "claude-sonnet-5"
+}

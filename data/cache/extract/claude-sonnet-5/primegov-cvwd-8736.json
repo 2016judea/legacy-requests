@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "SCADA integration services for MP 97.1 Lateral Gate Auto Adjustment Fail Safe system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 76186,
+   "lead_time": null,
+   "sole_source_vendor": "Northern Digital, Inc.",
+   "reason": "It is considered undesirable, and high risk, to have different integrators concurrently providing services that impact the overall SCADA system, therefore CVWD wishes to sole source this additional SCADA software development to NDI",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "MP 97.1 Lateral / Oasis Reservoir",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Generator Runtime Report SCADA integration services for 19 individual generator sites",
+   "part_numbers": [],
+   "quantity": "19 generator sites",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northern Digital, Inc.",
+   "reason": "Selecting NDI as a single/sole source provider ensures consistency with SCADA System implementation and its system design standards while enhancing usability and navigation and reducing overall costs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9701,
+  "out": 1736
+ },
+ "model": "claude-sonnet-5"
+}

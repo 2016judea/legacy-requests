@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sutphen",
+   "model": null,
+   "part": "Repairs to Fire apparatus (Ladder 3)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 64003.42,
+   "lead_time": null,
+   "sole_source_vendor": "Sutphen Towers, Inc.",
+   "reason": "the repairs needed to be made by the manufacturer, namely Sutphen, in case any of the repairs would be covered under warranty",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fleet Division of the Streets Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2757,
+  "out": 203
+ },
+ "model": "claude-sonnet-5"
+}

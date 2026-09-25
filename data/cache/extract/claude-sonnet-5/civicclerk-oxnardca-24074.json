@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Mobile Radio Equipment, Parts and Accessories (two-way radios and associated equipment installed on vehicles)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Petroleum Telcom, Inc. dba Telcom, Inc.",
+   "reason": "Telcom is the only Kenwood and Motorola authorized dealer for support and service in the area.",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Oxnard Fleet vehicles (Public Works and emergency response vehicles)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "JVC Kenwood",
+   "model": null,
+   "part": "Mobile Radio Equipment, Parts and Accessories (two-way radios and associated equipment installed on vehicles)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Petroleum Telcom, Inc. dba Telcom, Inc.",
+   "reason": "Telcom, Inc. is an authorized Kenwood Communications Division dealer for parts, service and support",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Oxnard Fleet vehicles (Public Works and emergency response vehicles)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Installation, Repair and Maintenance Services for two-way radios, antennas and associated equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 900000,
+   "lead_time": null,
+   "sole_source_vendor": "Petroleum Telcom, Inc. dba Telcom, Inc.",
+   "reason": "All new equipment, installations, services, repairs and warranties are performed by authorized dealers and/or partners; therefore, it is necessary to obtain these services and OEM parts from Telcom, Inc.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City of Oxnard Fleet vehicles (Public Works and emergency response vehicles)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9979,
+  "out": 1217
+ },
+ "model": "claude-sonnet-5"
+}

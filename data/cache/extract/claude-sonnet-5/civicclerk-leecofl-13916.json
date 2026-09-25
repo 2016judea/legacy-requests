@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Beamex",
+   "model": null,
+   "part": "Calibration software, support, training, and related equipment and services (portable calibrators, pressure and temperature calibrators, calibration management software)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 90000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Beamex, Inc.",
+   "reason": "As sole source provider, Beamex, Inc. is the only manufacturer and company that provides support services for its systems nationwide.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "water and wastewater treatment facilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Beamex",
+   "model": null,
+   "part": "Yearly calibration services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 29950.0,
+   "lead_time": null,
+   "sole_source_vendor": "Beamex Inc",
+   "reason": "Beamex is the sole source provider, selling direct to the customer from the manufacturer, which includes all Beamex software, hardware, and accessories, including equipment service plans and software support agreements.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "LCU - Instrum/Electrical Maint",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Beamex",
+   "model": null,
+   "part": "Software support agreement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 40916.0,
+   "lead_time": null,
+   "sole_source_vendor": "Beamex Inc",
+   "reason": "Beamex is the sole source provider, selling direct to the customer from the manufacturer, which includes all Beamex software, hardware, and accessories, including equipment service plans and software support agreements.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "LCU - Instrum/Electrical Maint",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Beamex",
+   "model": null,
+   "part": "Minor equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 6075.0,
+   "lead_time": null,
+   "sole_source_vendor": "Beamex Inc",
+   "reason": "Beamex is the sole source provider, selling direct to the customer from the manufacturer, which includes all Beamex software, hardware, and accessories, including equipment service plans and software support agreements.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "LCU - Instrum/Electrical Maint",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Beamex",
+   "model": null,
+   "part": "Parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5355.0,
+   "lead_time": null,
+   "sole_source_vendor": "Beamex Inc",
+   "reason": "Beamex is the sole source provider, selling direct to the customer from the manufacturer, which includes all Beamex software, hardware, and accessories, including equipment service plans and software support agreements.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "LCU - Instrum/Electrical Maint",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12042,
+  "out": 1046
+ },
+ "model": "claude-sonnet-5"
+}

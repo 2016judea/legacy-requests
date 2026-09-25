@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Flygt",
+   "model": "Submersible vertical dry-pit pump",
+   "part": "Two Flygt Submersible vertical dry-pit pumps for East Jolly Road Pump Station",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 88950.0,
+   "lead_time": null,
+   "sole_source_vendor": "Kennedy Industries",
+   "reason": "Kennedy Industries, Inc. is Flygt's exclusive authorized sales, maintenance repair and service distributor in Lower Michigan for Flygt products.",
+   "equipment_class": "pump",
+   "installed_location": "East Jolly Road Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Paco",
+   "model": null,
+   "part": "Existing pumps at East Jolly Road Pump Station being replaced",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The existing Paco pumps in the East Jolly Road Pump Station were installed in the late 1970's, and are at the end of their useful life. They frequency need maintenance, and parts are no longer available.",
+   "equipment_class": "pump",
+   "installed_location": "East Jolly Road Pump Station",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4268,
+  "out": 427
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sensus",
+   "model": null,
+   "part": "Water meters and related parts",
+   "part_numbers": [],
+   "quantity": "approximately 56,000 meters in system",
+   "price_usd": 950000,
+   "lead_time": null,
+   "sole_source_vendor": "Thirkettle Corporation dba Aqua-Metric Sales Company",
+   "reason": "The only authorized local representative for Sensus meters is Thirkettle Corporation dba Aqua-Metric Sales Company, who provides excellent customer service and works closely with EU's water utility staff on all orders",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Roseville water distribution system",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sensus",
+   "model": null,
+   "part": "Replacement meters for existing malfunctioning meters and those no longer supported by the manufacturer",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 650000,
+   "lead_time": null,
+   "sole_source_vendor": "Thirkettle Corporation dba Aqua-Metric Sales Company",
+   "reason": "those no longer supported by the manufacturer",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Roseville water distribution system",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4642,
+  "out": 422
+ },
+ "model": "claude-sonnet-5"
+}

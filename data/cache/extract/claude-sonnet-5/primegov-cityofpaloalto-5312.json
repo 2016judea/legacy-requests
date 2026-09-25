@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Public safety radio maintenance for the Police and Fire Departments, maintaining three legacy channels, radio infrastructure and related equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 645000,
+   "lead_time": null,
+   "sole_source_vendor": "Telecommunications Engineering Associates (TEA)",
+   "reason": "TEA is the only provider capable to provide these services to the City for several reasons.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Police and Fire Departments",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Additional services contingency for unplanned replacement of parts or components of the radio system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 40000,
+   "lead_time": null,
+   "sole_source_vendor": "Telecommunications Engineering Associates (TEA)",
+   "reason": "An additional contingency of $40,000 is requested for unplanned replacement replace of any parts or components if required.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Police and Fire Departments",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 15028,
+  "out": 1050
+ },
+ "model": "claude-sonnet-5"
+}

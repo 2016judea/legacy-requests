@@ -1,0 +1,61 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axon Enterprises, Inc.",
+   "model": null,
+   "part": "Body worn cameras for Gulfport Police Department officers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc.",
+   "reason": "the Gulfport Police Department has requested to purchase the said body worn cameras from Axon Enterprises, Inc., as a sole source vendor",
+   "equipment_class": "other equipment",
+   "installed_location": "Gulfport Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon",
+   "model": "AXON FLEET - AIRGAIN ANTENNA",
+   "part": "In-car camera equipment - fleet antenna",
+   "part_numbers": [
+    "71200 AX0NFLEET-AIRGAINANT-5-IN-1 2LTE2W|F| 1GNSSBL"
+   ],
+   "quantity": "5",
+   "price_usd": 1245.0,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc.",
+   "reason": "Original equipment and items were previously purchased with sole source procurement guidelines and approved by council on January 4, 2022.",
+   "equipment_class": "other equipment",
+   "installed_location": "Gulfport Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon",
+   "model": "AXON FLEET - CRADLEPOINT IBR900",
+   "part": "In-car camera equipment - Cradlepoint router with NetCloud license",
+   "part_numbers": [
+    "IBR900-1200M-B-NPS+5YR"
+   ],
+   "quantity": "5",
+   "price_usd": 7245.0,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc.",
+   "reason": "Original equipment and items were previously purchased with sole source procurement guidelines and approved by council on January 4, 2022.",
+   "equipment_class": "other equipment",
+   "installed_location": "Gulfport Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5290,
+  "out": 1630
+ },
+ "model": "claude-sonnet-5"
+}

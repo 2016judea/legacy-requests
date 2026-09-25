@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "GE Vernova",
+   "model": null,
+   "part": "Bearing alignment (onsite assembly, bolting up and disassembly of turbine case and bearing covers) for J-2 substation combustion turbine, including major inspection change order",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 474360.98,
+   "lead_time": null,
+   "sole_source_vendor": "GE Vernova",
+   "reason": "GE is The OEM of the equipment ands has historically done the bulk of IPL on site work.",
+   "equipment_class": "generator",
+   "installed_location": "J-2 substation",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8356,
+  "out": 217
+ },
+ "model": "claude-sonnet-5"
+}

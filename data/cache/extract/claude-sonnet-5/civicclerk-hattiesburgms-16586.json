@@ -1,0 +1,239 @@
+{
+ "records": [
+  {
+   "manufacturer": "Meridian",
+   "model": "Archer Trailer Kit 1000",
+   "part": "Meridian Archer Trailer Kit 1000",
+   "part_numbers": [
+    "TRLKIT1000"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Meridian Rapid Defense Group Sales LLC",
+   "reason": "MERIDIAN is the sole manufacturer and supplier for the U.S. and internationally.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Meridian",
+   "model": "Archer T-1000",
+   "part": "Archer T-1000 Drop Deck Trailer",
+   "part_numbers": [
+    "T1000"
+   ],
+   "quantity": "1",
+   "price_usd": 34247.85,
+   "lead_time": null,
+   "sole_source_vendor": "Meridian Rapid Defense Group Sales LLC",
+   "reason": "MERIDIAN\u2019s unique products are transported and positioned using a specially designed Drop Deck Trailer.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Meridian",
+   "model": "Archer 1200",
+   "part": "Archer 1200 Barrier",
+   "part_numbers": [
+    "AB1200"
+   ],
+   "quantity": "8",
+   "price_usd": 52110.0,
+   "lead_time": null,
+   "sole_source_vendor": "Meridian Rapid Defense Group Sales LLC",
+   "reason": "No other product on the market meets this standard except the Archer 1200 Barrier.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Meridian",
+   "model": "Archer Manual Hauler 2.0",
+   "part": "Archer Manual Hauler 2.0",
+   "part_numbers": [
+    "AMHA003-2"
+   ],
+   "quantity": "1",
+   "price_usd": 1925.18,
+   "lead_time": null,
+   "sole_source_vendor": "Meridian Rapid Defense Group Sales LLC",
+   "reason": "MERIDIAN is the sole manufacturer and supplier for the U.S. and internationally.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Meridian",
+   "model": "Archer Field Tow Bar",
+   "part": "Archer Field Tow Bar",
+   "part_numbers": [
+    "AFTB001"
+   ],
+   "quantity": "2",
+   "price_usd": 1148.36,
+   "lead_time": null,
+   "sole_source_vendor": "Meridian Rapid Defense Group Sales LLC",
+   "reason": "MERIDIAN is the sole manufacturer and supplier for the U.S. and internationally.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Meridian",
+   "model": "Archer Arrestor Cable \u2013 4 ft.",
+   "part": "Archer Arrestor Cable \u2013 4 ft.",
+   "part_numbers": [
+    "AACN4F022"
+   ],
+   "quantity": "7",
+   "price_usd": 4019.26,
+   "lead_time": null,
+   "sole_source_vendor": "Meridian Rapid Defense Group Sales LLC",
+   "reason": "No other product on the market can be installed as a complete barrier system with MERIDIAN\u2019s 4-foot Arrestor Cables.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Meridian",
+   "model": "Archer Rapid Gate Kit",
+   "part": "Archer Rapid Gate Kit",
+   "part_numbers": [
+    "RG"
+   ],
+   "quantity": "1",
+   "price_usd": 12540.18,
+   "lead_time": null,
+   "sole_source_vendor": "Meridian Rapid Defense Group Sales LLC",
+   "reason": "MERIDIAN is the sole manufacturer and supplier for the U.S. and internationally.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Meridian",
+   "model": "Wayfinding Frame",
+   "part": "Wayfinding Frame",
+   "part_numbers": [
+    "AMB1200WS"
+   ],
+   "quantity": "8",
+   "price_usd": 4593.44,
+   "lead_time": null,
+   "sole_source_vendor": "Meridian Rapid Defense Group Sales LLC",
+   "reason": "A remaining unique feature of the Archer 1200 Barrier is that the unit allows for the installation of directional or informational signage.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Meridian",
+   "model": "Caution Sign - Road Closed",
+   "part": "Caution - Road Closed",
+   "part_numbers": [
+    "WF1RC"
+   ],
+   "quantity": "8",
+   "price_usd": 297.2,
+   "lead_time": null,
+   "sole_source_vendor": "Meridian Rapid Defense Group Sales LLC",
+   "reason": "MERIDIAN is the sole manufacturer and supplier for the U.S. and internationally.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Meridian",
+   "model": "Caution Sign - Stop",
+   "part": "Caution - Stop",
+   "part_numbers": [
+    "WF2STP"
+   ],
+   "quantity": "8",
+   "price_usd": 297.92,
+   "lead_time": null,
+   "sole_source_vendor": "Meridian Rapid Defense Group Sales LLC",
+   "reason": "MERIDIAN is the sole manufacturer and supplier for the U.S. and internationally.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Meridian",
+   "model": "Caution Sign - Caution",
+   "part": "Caution - Caution",
+   "part_numbers": [
+    "WF3C"
+   ],
+   "quantity": "8",
+   "price_usd": 297.92,
+   "lead_time": null,
+   "sole_source_vendor": "Meridian Rapid Defense Group Sales LLC",
+   "reason": "MERIDIAN is the sole manufacturer and supplier for the U.S. and internationally.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Meridian",
+   "model": "Caution Sign - Pedestrian Traffic Only",
+   "part": "Caution - Pedestrian Traffic Only",
+   "part_numbers": [
+    "WF4PTO"
+   ],
+   "quantity": "8",
+   "price_usd": 298.61,
+   "lead_time": null,
+   "sole_source_vendor": "Meridian Rapid Defense Group Sales LLC",
+   "reason": "MERIDIAN is the sole manufacturer and supplier for the U.S. and internationally.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Meridian",
+   "model": "3 Channel ADA Cable Protector",
+   "part": "3 Channel ADA Cable Protector (1 Piece)",
+   "part_numbers": [
+    "ACP001ADA"
+   ],
+   "quantity": "14",
+   "price_usd": 4019.26,
+   "lead_time": null,
+   "sole_source_vendor": "Meridian Rapid Defense Group Sales LLC",
+   "reason": "MERIDIAN is the sole manufacturer and supplier for the U.S. and internationally.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Meridian",
+   "model": null,
+   "part": "Annual Certified Training",
+   "part_numbers": [
+    "MCTR002"
+   ],
+   "quantity": "1",
+   "price_usd": 3995.0,
+   "lead_time": null,
+   "sole_source_vendor": "Meridian Rapid Defense Group Sales LLC",
+   "reason": "MERIDIAN provides the in-field training of the equipment to ensure the safety and effectiveness of the Archer 1200 Barrier.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9269,
+  "out": 3958
+ },
+ "model": "claude-sonnet-5"
+}

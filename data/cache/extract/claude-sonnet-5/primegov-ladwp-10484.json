@@ -1,0 +1,45 @@
+{
+ "records": [
+  {
+   "manufacturer": "GE Vernova",
+   "model": null,
+   "part": "Proprietary professional, technical, and repair services and parts for steam, gas, and wind turbine-generator units",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 250000000,
+   "lead_time": "5 years",
+   "sole_source_vendor": "GE Vernova International, LLC",
+   "reason": "GEVINT is the sole provider of the proprietary services and parts to be furnished under this Agreement.",
+   "equipment_class": "generator",
+   "installed_location": "LADWP electricity-generating facilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GE Vernova",
+   "model": null,
+   "part": "Stop-gap purchase order for proprietary professional, technical, and repair services and parts",
+   "part_numbers": [
+    "49849-7"
+   ],
+   "quantity": null,
+   "price_usd": 150000,
+   "lead_time": "2 months",
+   "sole_source_vendor": "GE Vernova International, LLC",
+   "reason": "GEVINT is the sole provider of the proprietary services and parts to be furnished under this Agreement.",
+   "equipment_class": "generator",
+   "installed_location": "LADWP electricity-generating facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 13918,
+  "out": 396
+ },
+ "model": "claude-sonnet-5"
+}

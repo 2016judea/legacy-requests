@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Evoqua Water Technologies, LLC",
+   "model": null,
+   "part": "2 sets of upper and lower bearings for the Metro WWTP Influent Pump Station Screw Pumps (400hp)",
+   "part_numbers": [],
+   "quantity": "2 sets (2 upper and 2 lower bearings)",
+   "price_usd": 316440.0,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies, LLC",
+   "reason": "These bearings are being requested for purchase so that the existing units would have parts readily available should they begin to fail.",
+   "equipment_class": "pump",
+   "installed_location": "Metro Wastewater Treatment Plant Influent Pump Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8247,
+  "out": 251
+ },
+ "model": "claude-sonnet-5"
+}

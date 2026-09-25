@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "On-Call Stationary Generator Maintenance and Minor Repair Services (PMCS, Load Bank Testing, unscheduled services/minor repairs) for 27 City-owned generators",
+   "part_numbers": [],
+   "quantity": "27 generators",
+   "price_usd": 420000,
+   "lead_time": null,
+   "sole_source_vendor": "Quinn Company dba. Quinn Power Systems",
+   "reason": "The City received zero responsive bids. Following City purchasing policies for requirements to secure a Sole Source Agreement, City staff obtained pricing from Quinn",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "various locations throughout the City of Oxnard",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11559,
+  "out": 675
+ },
+ "model": "claude-sonnet-5"
+}

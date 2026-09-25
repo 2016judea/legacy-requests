@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trojan Technologies Corp.",
+   "model": "Trojan 3000",
+   "part": "Repair parts and replacement components (lamps, sensors, ballasts, wiper mechanisms) for UV disinfection system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5000000,
+   "lead_time": null,
+   "sole_source_vendor": "Trojan Technologies Corp.",
+   "reason": "Trojan Technologies Corp. is the sole supplier of validated replacement parts required to maintain system performance and meet regulatory requirements.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Dry Creek Wastewater Treatment Plant and Pleasant Grove Wastewater Treatment Plant",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4448,
+  "out": 282
+ },
+ "model": "claude-sonnet-5"
+}

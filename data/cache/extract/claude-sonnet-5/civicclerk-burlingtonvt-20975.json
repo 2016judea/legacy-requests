@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "NTI",
+   "model": "Trinity LX400",
+   "part": "Furnish and install (2) NTI Trinity LX400 Hi-Eff. gas-fired condensing hot water boilers.",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vermont Mechanical Inc.",
+   "reason": "Vermont Mechanical completed the boiler replacement in 2023, so, by using them again the materials and work will match making the system more reliable.",
+   "equipment_class": "HVAC",
+   "installed_location": "City Hall",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Grundfos",
+   "model": "ECM",
+   "part": "Furnish and install (2) Grundfos ECM circulator pumps to serve the needs of the boiler primary heating loop and associated piping",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vermont Mechanical Inc.",
+   "reason": "Vermont Mechanical completed the boiler replacement in 2023, so, by using them again the materials and work will match making the system more reliable.",
+   "equipment_class": "pump",
+   "installed_location": "City Hall",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Furnish and install (1) new hydronic expansion tank.",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vermont Mechanical Inc.",
+   "reason": "Vermont Mechanical completed the boiler replacement in 2023, so, by using them again the materials and work will match making the system more reliable.",
+   "equipment_class": "HVAC",
+   "installed_location": "City Hall",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Contract with Vermont Mechanical Inc. for services related to the replacement of boilers in City Hall",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 105998,
+   "lead_time": null,
+   "sole_source_vendor": "Vermont Mechanical Inc.",
+   "reason": "In September of 2024 the City Facility Team received sole source approval from our CAO to have Vermont Mechanical complete this work.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City Hall",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4703,
+  "out": 1415
+ },
+ "model": "claude-sonnet-5"
+}

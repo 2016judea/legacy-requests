@@ -1,0 +1,61 @@
+{
+ "records": [
+  {
+   "manufacturer": "Altec",
+   "model": "LR8-56",
+   "part": "Articulating Overcenter Aerial Device with insulating lower/upper boom, ISO-Grip insulating system, mounted on chassis with chip dump body",
+   "part_numbers": [
+    "LR8-56"
+   ],
+   "quantity": "1",
+   "price_usd": 221962.0,
+   "lead_time": null,
+   "sole_source_vendor": "Altec Industries, Inc.",
+   "reason": "Cooperative Purchase \u2013 Altec Industries, Inc. \u2013 Aerial Truck \u2013 $221,962.00",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "D&E Garage, Pasco County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Altec",
+   "model": "Chip Dump Body",
+   "part": "Altec Chip Dump Body 14.5 cubic yard capacity, 96 inches wide x 60 inches high x 132 inches long with ladder box and single piece tailgate",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Altec Industries, Inc.",
+   "reason": "Cooperative Purchase \u2013 Altec Industries, Inc. \u2013 Aerial Truck \u2013 $221,962.00",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "D&E Garage, Pasco County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Altec",
+   "model": "T-66",
+   "part": "Altec T-66 Thru Box with curbside and streetside compartments",
+   "part_numbers": [
+    "T-66"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Altec Industries, Inc.",
+   "reason": "Cooperative Purchase \u2013 Altec Industries, Inc. \u2013 Aerial Truck \u2013 $221,962.00",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "D&E Garage, Pasco County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 21102,
+  "out": 1864
+ },
+ "model": "claude-sonnet-5"
+}

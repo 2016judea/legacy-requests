@@ -1,0 +1,75 @@
+{
+ "records": [
+  {
+   "manufacturer": "Caterpillar",
+   "model": "C18 PKAM",
+   "part": "New Caterpillar Diesel, Fixed Generator Set, Tier 4 Final, 500ekW, 60Hz, 3Ph, 277/480V, Sound Attenuated enclosure",
+   "part_numbers": [
+    "C18 PKAM"
+   ],
+   "quantity": "1",
+   "price_usd": 260901,
+   "lead_time": "20-24 weeks",
+   "sole_source_vendor": "QUINN Power Systems",
+   "reason": "Quinn Power Systems is the only vendor capable of providing the specialized equipment and support needed to meet these strict State and Federal requirements, including both the equipment itself and the ongoing maintenance and parts supply.",
+   "equipment_class": "generator",
+   "installed_location": "Water Well #52 / Public Works Corporation Yard",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ASCO",
+   "model": "7000 Series",
+   "part": "New ASCO ATS, Automatic Delayed transition transfer switch, 800 Amp, 480V, 3 Phase, 4 Wire, Solid Neutral, Open enclosure",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 16264,
+   "lead_time": "20-24 weeks",
+   "sole_source_vendor": "QUINN Power Systems",
+   "reason": "Quinn Power Systems is the only vendor capable of providing the specialized equipment and support needed to meet these strict State and Federal requirements, including both the equipment itself and the ongoing maintenance and parts supply.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Water Well #52 / Public Works Corporation Yard",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Caterpillar",
+   "model": "ATSGABN",
+   "part": "New Caterpillar ATSGABN, Automatic Transfer Switch",
+   "part_numbers": [
+    "ATSGABN"
+   ],
+   "quantity": "1",
+   "price_usd": 6743,
+   "lead_time": "20-24 weeks",
+   "sole_source_vendor": "QUINN Power Systems",
+   "reason": "Quinn Power Systems is the only vendor capable of providing the specialized equipment and support needed to meet these strict State and Federal requirements, including both the equipment itself and the ongoing maintenance and parts supply.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Water Well #52 / Public Works Corporation Yard",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "QUINN Power Systems",
+   "model": null,
+   "part": "Monthly maintenance and servicing contract for backup generators, including annual servicing and parts for repairs",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "QUINN Power Systems",
+   "reason": "The city has a current maintenance contract with QUINN Power Systems to provide monthly services to other backup generators.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9372,
+  "out": 1974
+ },
+ "model": "claude-sonnet-5"
+}

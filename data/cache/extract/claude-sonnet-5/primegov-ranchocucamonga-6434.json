@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement of all existing broadcast media equipment supporting the Council Chambers (hardware, software, controllers for internet streaming and TV broadcast)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 53100.0,
+   "lead_time": null,
+   "sole_source_vendor": "Media Control Systems, Inc.",
+   "reason": "Media Control Systems, Inc. supports current broadcast media equipment, and they are familiar with the interferes to our existing video production equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chambers",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Microsoft",
+   "model": "Windows 10",
+   "part": "Operating system component of broadcast media equipment reaching end-of-life/unsupported status",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The equipment currently in use was procured and installed in 2019 and has reached the effective end- of-life for most of the components, including Windows 10 that will become unsupported in October 2025.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chambers",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "5 (five) years of support and maintenance for new broadcast media equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Media Control Systems, Inc.",
+   "reason": "Staff negotiated a proposal with Media Control Systems to include 5 (five) years of support and maintenance, incorporating all foreseeable costs into the current project.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Council Chambers",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 13253,
+  "out": 611
+ },
+ "model": "claude-sonnet-5"
+}

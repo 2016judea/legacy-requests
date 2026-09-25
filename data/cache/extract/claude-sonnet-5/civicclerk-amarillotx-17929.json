@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ferrara",
+   "model": null,
+   "part": "Purchase of OEM automotive parts for Ferrara fleet fire apparatus",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 218500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Safe Industries",
+   "reason": "Safe Industries is the sole source provider for Ferrara OEM parts in the State of Texas.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Amarillo Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3018,
+  "out": 192
+ },
+ "model": "claude-sonnet-5"
+}

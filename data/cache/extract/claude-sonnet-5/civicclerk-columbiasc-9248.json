@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Caterpillar",
+   "model": null,
+   "part": "Upgrade of Generator Control Panel, Switchgear, and needed auxiliary equipment for existing onsite generator",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 282908.42,
+   "lead_time": null,
+   "sole_source_vendor": "Blanchard Machinery Company",
+   "reason": "The existing unit is obsolete and no longer supported for service and repair.",
+   "equipment_class": "generator",
+   "installed_location": "Saluda River Pump Station / Metro Wastewater Treatment Plant",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3146,
+  "out": 210
+ },
+ "model": "claude-sonnet-5"
+}

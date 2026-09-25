@@ -53,6 +53,11 @@ static page anyone can search.
   equipment; `scripts/ingest_state_ms.py` reads Mississippi's "Sole Source Notices"
   grid and its justification PDFs. Each writes `data/matters/state-<xx>.json`
   for `make extract`. Run them by hand; they are not in `make ingest`.
+- `scripts/ingest_civicclerk.py` and `scripts/ingest_primegov.py` (`make ingest-civicclerk`,
+  `make ingest-primegov`) read every agenda since 2024 off those two platforms' public,
+  unauthenticated APIs, keep the items whose own text uses sole-source language or buys
+  named hardware, and cache those items' PDFs under `data/cache/<platform>/`. Tenants
+  are listed at the top of each script; add a row to add an agency.
 - `scripts/build_site.py` writes the page. Search runs in the browser over the
   embedded JSON; no framework, no build step.
 

@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "MARS Company",
+   "model": "M3 Meter Management System",
+   "part": "Utility meter testing software / M3 Meter Management System Software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 760780.0,
+   "lead_time": null,
+   "sole_source_vendor": "OW Investors, LLC, d/b/a MARS Company",
+   "reason": "OW Investors, LLC, d/b/a MARS Company (\"MARS Company\") is the sole-source provider for the M3 Meter Management System Software and the MARS-designed Water Meter Test Bench Systems",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Utilities Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MARS Company",
+   "model": "MCC (Managed Care & Compliance)",
+   "part": "MCC platform ensuring AMI network security and compliance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 140457.0,
+   "lead_time": null,
+   "sole_source_vendor": "OW Investors, LLC, d/b/a MARS Company",
+   "reason": "OW Investors, LLC, d/b/a MARS Company (\"MARS Company\") is the sole-source provider for the M3 Meter Management System Software and the MARS-designed Water Meter Test Bench Systems",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Utilities Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MARS Company",
+   "model": "Water Meter Test Bench System",
+   "part": "MARS-designed Water Meter Test Bench Systems for automated meter accuracy testing",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "OW Investors, LLC, d/b/a MARS Company",
+   "reason": "OW Investors, LLC, d/b/a MARS Company (\"MARS Company\") is the sole-source provider for the M3 Meter Management System Software and the MARS-designed Water Meter Test Bench Systems",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Utilities Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10798,
+  "out": 1496
+ },
+ "model": "claude-sonnet-5"
+}

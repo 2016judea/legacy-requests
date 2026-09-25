@@ -1,0 +1,495 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": "APX N30",
+   "part": "APX N30 7/800 MODEL 2 PORTABLE",
+   "part_numbers": [
+    "H15UCF9PW6AN"
+   ],
+   "quantity": "27",
+   "price_usd": 43685.73,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "ENH: 3600 OR 9600 TRUNKING BAUD SINGLE SYSTEM",
+   "part_numbers": [
+    "QA02756AB"
+   ],
+   "quantity": "27",
+   "price_usd": 34039.17,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "ADD: HW KEY SUPPLEMENTAL DATA",
+   "part_numbers": [
+    "QA01648AA"
+   ],
+   "quantity": "27",
+   "price_usd": 118.26,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "ADD: CPS ENABLEMENT",
+   "part_numbers": [
+    "QA08853AA"
+   ],
+   "quantity": "27",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "ADD: NO ENCRYPTION, CLEAR RADIO (NO ADP) (US ONLY)",
+   "part_numbers": [
+    "QA05751AA"
+   ],
+   "quantity": "27",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "ADD: ENHANCED DATA",
+   "part_numbers": [
+    "QA03399AK"
+   ],
+   "quantity": "27",
+   "price_usd": 3252.15,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "APX NEXT",
+   "part": "APX NEXT PROVISIONING WITH CPS",
+   "part_numbers": [
+    "PSV01S03059A"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "APX N50/30 DMS ESSENTIAL W ACC DMG (5 year device management service)",
+   "part_numbers": [
+    "LSV01S03085A"
+   ],
+   "quantity": "27",
+   "price_usd": 13834.8,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "CHGR DESKTOP SINGLE UNIT IMPRES 2 EXT PS US",
+   "part_numbers": [
+    "PMPN4820A"
+   ],
+   "quantity": "27",
+   "price_usd": 1735.56,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "ENH: AES ENCRYPTION AND ADP",
+   "part_numbers": [
+    "Q629BD"
+   ],
+   "quantity": "2",
+   "price_usd": 763.58,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "APX N70",
+   "part": "APX N70 7/800 MODEL 4.5 PORTABLE",
+   "part_numbers": [
+    "H35UCT9PW8AN"
+   ],
+   "quantity": "2",
+   "price_usd": 6960.44,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "ADD: ASTRO DIGITAL CAI OPERATION",
+   "part_numbers": [
+    "Q806CH"
+   ],
+   "quantity": "2",
+   "price_usd": 827.82,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "ADD: SMARTZONE OPERATION",
+   "part_numbers": [
+    "H38DA"
+   ],
+   "quantity": "2",
+   "price_usd": 1927.2,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "ADD: SMARTZONE OMNILINK",
+   "part_numbers": [
+    "Q173CA"
+   ],
+   "quantity": "2",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "ADD: P25 9600 BAUD TRUNKING",
+   "part_numbers": [
+    "Q361CD"
+   ],
+   "quantity": "2",
+   "price_usd": 481.8,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "ADD: HW KEY SUPPLEMENTAL DATA",
+   "part_numbers": [
+    "QA01648AA"
+   ],
+   "quantity": "2",
+   "price_usd": 8.76,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "ADD: CPS ENABLEMENT",
+   "part_numbers": [
+    "QA08853AA"
+   ],
+   "quantity": "2",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "ADD: ENHANCED DATA",
+   "part_numbers": [
+    "QA03399AK"
+   ],
+   "quantity": "2",
+   "price_usd": 240.9,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "ADD: WIFI CAPABILITY",
+   "part_numbers": [
+    "QA09001AM"
+   ],
+   "quantity": "2",
+   "price_usd": 481.8,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "ENH: MULTIKEY",
+   "part_numbers": [
+    "H869DB"
+   ],
+   "quantity": "2",
+   "price_usd": 529.98,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "ADD: TDMA OPERATION",
+   "part_numbers": [
+    "QA00580BA"
+   ],
+   "quantity": "2",
+   "price_usd": 722.7,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "ADD: APX N70 APPLICATION BUNDLE PROMO+",
+   "part_numbers": [
+    "H636AA"
+   ],
+   "quantity": "2",
+   "price_usd": -600.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "ELIGIBLE FOR PROMO - CC AWARE STARTER+",
+   "part_numbers": [
+    "SSV01P01685B"
+   ],
+   "quantity": "2",
+   "price_usd": 0.0,
+   "lead_time": "1 YEAR",
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "SMARTCONNECT BYOS/WIFI PROMO+",
+   "part_numbers": [
+    "SSV01P02185A"
+   ],
+   "quantity": "2",
+   "price_usd": 150.0,
+   "lead_time": "1 YEAR",
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "SMARTLOCATE BYOS/WIFI PROMO+",
+   "part_numbers": [
+    "SSV01P02187A"
+   ],
+   "quantity": "2",
+   "price_usd": 150.0,
+   "lead_time": "1 YEAR",
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "SMARTMAPPING BYOS/WIFI PROMO+",
+   "part_numbers": [
+    "SSV01P02241A"
+   ],
+   "quantity": "2",
+   "price_usd": 150.0,
+   "lead_time": "1 YEAR",
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "VIQI VIRTUAL PARTNER BYOS/WIFI PROMO+",
+   "part_numbers": [
+    "SSV01P03275A"
+   ],
+   "quantity": "2",
+   "price_usd": 150.0,
+   "lead_time": "1 YEAR",
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "APX N70 DMS ESSENTIAL W ACC DMG (5 year device management service)",
+   "part_numbers": [
+    "LSV01S03061A"
+   ],
+   "quantity": "2",
+   "price_usd": 1329.6,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "XVP730",
+   "part": "XVP730 REMOTE SPEAKER MICROPHONE NO CHANNEL KNOB, FOR APX N RADIOS",
+   "part_numbers": [
+    "PMMN4142A"
+   ],
+   "quantity": "2",
+   "price_usd": 729.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "CHARGER, CHGR DESKTOP SINGLE UNIT IMPRES 2 EXT US",
+   "part_numbers": [
+    "PMPN4604A"
+   ],
+   "quantity": "2",
+   "price_usd": 310.72,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Their XTS radios have been discontinued and are no longer being supported by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Parks and Planning Departments, City of McAllen",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7136,
+  "out": 10466
+ },
+ "model": "claude-sonnet-5"
+}

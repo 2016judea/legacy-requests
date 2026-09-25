@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "Goulds",
+   "model": "16X18-26EC",
+   "part": "In Shop Repair of Goulds Pump, including lot of repair parts (cartridge slurry seal, weld/sandblast/coat/balance impeller, sleeve bearing housing, shaft) and shop labor for teardown and reassembly",
+   "part_numbers": [
+    "23427",
+    "22566"
+   ],
+   "quantity": "1",
+   "price_usd": 35071.0,
+   "lead_time": null,
+   "sole_source_vendor": "Minnesota Pump Works",
+   "reason": "The pump was sent to a qualified distributor as there are custom seals on the pump which will need to be replaced after repairs are complete.",
+   "equipment_class": "pump",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3164,
+  "out": 261
+ },
+ "model": "claude-sonnet-5"
+}

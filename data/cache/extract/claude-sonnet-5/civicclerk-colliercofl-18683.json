@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": "Itron, Inc.",
+   "model": "Itron Total AMI - Fixed Network Software",
+   "part": "Fixed Network Software required to read AMI meters and bill new customers of Golden Gate City",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Itron, Inc.",
+   "reason": "Itron Total AMI - Fixed Network Software and Itron Total AMI - Itron Analytics Software is proprietary software to Itron and required to read AMI meter technology.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Golden Gate City",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Itron, Inc.",
+   "model": "Itron Total AMI - Itron Analytics Software",
+   "part": "Itron Analytics Software required as part of the FGUA acquisition to read AMI meters and bill new customers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Itron, Inc.",
+   "reason": "Itron Total AMI - Fixed Network Software and Itron Total AMI - Itron Analytics Software is proprietary software to Itron and required to read AMI meter technology.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Golden Gate City",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Itron, Inc.",
+   "model": "Mobile Collector 3 (MC3)",
+   "part": "Automatic meter reading (AMR) device",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Itron, Inc.",
+   "reason": "no distributor or other entity is authorized, by Itron, to sell Itron\\u2019s Mobile Collector 3 (MC3), Mobile Collector 3Lite (MC3 Lite), FC300\\u2019s, and AMR/AMI modules (100W+ and Riva)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Itron, Inc.",
+   "model": "Mobile Collector 3Lite (MC3 Lite)",
+   "part": "Automatic meter reading (AMR) device",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Itron, Inc.",
+   "reason": "no distributor or other entity is authorized, by Itron, to sell Itron\\u2019s Mobile Collector 3 (MC3), Mobile Collector 3Lite (MC3 Lite), FC300\\u2019s, and AMR/AMI modules (100W+ and Riva)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Itron, Inc.",
+   "model": "FC300",
+   "part": "Automatic meter reading (AMR) device",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Itron, Inc.",
+   "reason": "no distributor or other entity is authorized, by Itron, to sell Itron\\u2019s Mobile Collector 3 (MC3), Mobile Collector 3Lite (MC3 Lite), FC300\\u2019s, and AMR/AMI modules (100W+ and Riva)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Itron, Inc.",
+   "model": "AMR/AMI modules (100W+ and Riva)",
+   "part": "AMR/AMI meter modules, Itron\\u2019s latest generation of automatic meter reading devices",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Itron, Inc.",
+   "reason": "no distributor or other entity is authorized, by Itron, to sell Itron\\u2019s Mobile Collector 3 (MC3), Mobile Collector 3Lite (MC3 Lite), FC300\\u2019s, and AMR/AMI modules (100W+ and Riva)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Itron, Inc.",
+   "model": "MV-RS Open Communication Interface System",
+   "part": "RF technology system supporting Off-Site Meter Reading, Mobile Automatic Meter Reading and Automatic Meter Reading",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Itron, Inc.",
+   "reason": "the MV-RS Open Communication Interface System that supports Itron\\u2019 s RF technology for Off-Site Meter Reading, Mobile Automatic Meter Reading and Automatic Meter Reading is at its End of Life and will not be supported by Itron after December 31, 2022",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Itron, Inc.",
+   "model": "Temetra",
+   "part": "Web-based interface platform for automated meter reading system migration",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Itron, Inc.",
+   "reason": "the Parties wish to amend the Agreement to allow the Customer to migrate to Itron' s new Temetra web-based interface platform",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Itron, Inc.",
+   "model": null,
+   "part": "Parts, repairs, and software support services for Itron AMI equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "United Systems and Software, Inc.",
+   "reason": "United Systems and Software, Inc. is Itron's designated representative for parts, repairs, and software support on site.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 17976,
+  "out": 3603
+ },
+ "model": "claude-sonnet-5"
+}

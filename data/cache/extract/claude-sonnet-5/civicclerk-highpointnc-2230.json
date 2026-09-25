@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Summit",
+   "model": "SJC8X10-18HC600",
+   "part": "RAS (Return Activated Sludge) pump",
+   "part_numbers": [
+    "SJC8X10-18HC600"
+   ],
+   "quantity": "1",
+   "price_usd": 52069.22,
+   "lead_time": "22 WEEKS",
+   "sole_source_vendor": "Carolina Seals, Inc.",
+   "reason": "This is a sole source purchase to maintain standardization across all three pumps.",
+   "equipment_class": "pump",
+   "installed_location": "Westside Wastewater Treatment Plant (WWTP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Flexaseal",
+   "model": "VTSMS3",
+   "part": "Stationary multi-spring dual cartridge seal for RAS pump",
+   "part_numbers": [
+    "FS62774M76"
+   ],
+   "quantity": "1",
+   "price_usd": 8200.0,
+   "lead_time": "22 WEEKS",
+   "sole_source_vendor": "Carolina Seals, Inc.",
+   "reason": "This is a sole source purchase to maintain standardization across all three pumps.",
+   "equipment_class": "pump",
+   "installed_location": "Westside Wastewater Treatment Plant (WWTP)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3836,
+  "out": 553
+ },
+ "model": "claude-sonnet-5"
+}

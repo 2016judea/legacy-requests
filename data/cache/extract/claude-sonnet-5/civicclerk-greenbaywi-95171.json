@@ -1,0 +1,94 @@
+{
+ "records": [
+  {
+   "manufacturer": "Poclain",
+   "model": "A35444B / MS35-9-189-R35-2A50-5BDEJM",
+   "part": "Hydraulic Motors for bridge hydraulic rehabilitation",
+   "part_numbers": [
+    "A35444B",
+    "MS35-9-189-R35-2A50-5BDEJM"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GS Global Resources",
+   "reason": "There is no shelf ready comparable model and there is a significant lead time for fabrication of the equipment.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Ray Nitschke Memorial Bridge",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Poclain",
+   "model": "FRE-ARB-M235-F50",
+   "part": "Brake Shaft used to modify a motor to serve as a shaft extension",
+   "part_numbers": [
+    "FRE-ARB-M235-F50"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GS Global Resources",
+   "reason": "There is no shelf ready comparable model and there is a significant lead time for fabrication of the equipment.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Ray Nitschke Memorial Bridge",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Poclain",
+   "model": null,
+   "part": "Brake Bushing Kit",
+   "part_numbers": [
+    "877449H"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GS Global Resources",
+   "reason": "There is no shelf ready comparable model and there is a significant lead time for fabrication of the equipment.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Ray Nitschke Memorial Bridge",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Poclain",
+   "model": null,
+   "part": "O-Ring Kit",
+   "part_numbers": [
+    "876141L"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GS Global Resources",
+   "reason": "There is no shelf ready comparable model and there is a significant lead time for fabrication of the equipment.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Ray Nitschke Memorial Bridge",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Poclain",
+   "model": null,
+   "part": "Inspection and repair of an existing hydraulic motor to serve as spare equipment",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GS Global Resources",
+   "reason": "An existing motor will be inspected and repaired by the manufacturer to serve as spare equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Ray Nitschke Memorial Bridge",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4209,
+  "out": 1536
+ },
+ "model": "claude-sonnet-5"
+}

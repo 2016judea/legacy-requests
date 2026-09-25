@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Substation A 69kV Reconfiguration Engineer-Procure-Construct (EPC) Phase 1 design services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 350249,
+   "lead_time": null,
+   "sole_source_vendor": "Burns & McDonnell (B&M)",
+   "reason": "B&M is currently the EPC vendor working within Substation A and has extensive, ongoing experience with the facility during this outage timeframe.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Substation A",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9328,
+  "out": 2102
+ },
+ "model": "claude-sonnet-5"
+}

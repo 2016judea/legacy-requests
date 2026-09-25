@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Honeywell",
+   "model": "Elster",
+   "part": "Gas meters and other services and parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 800000,
+   "lead_time": null,
+   "sole_source_vendor": "Measurement Control Systems",
+   "reason": "Measurement Control Systems is the sole authorized distributor for Honeywell meters",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Long Beach and Signal Hill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Itron",
+   "model": null,
+   "part": "Gas meters and regulators and other services and parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 800000,
+   "lead_time": null,
+   "sole_source_vendor": "Meter, Valve & Control, Inc.",
+   "reason": "Meter, Valve & Control, Inc. is the sole manufacturer and distributor of Itron meters and regulators used for light-duty commercial and residential customers",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Long Beach and Signal Hill",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8797,
+  "out": 374
+ },
+ "model": "claude-sonnet-5"
+}

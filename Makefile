@@ -1,5 +1,5 @@
 PY=.venv/bin/python
-.PHONY: ingest ingest-granicus extract site deploy all supply join check
+.PHONY: ingest ingest-granicus ingest-civicclerk ingest-primegov extract site deploy all supply join check
 
 .venv:
 	uv venv .venv && VIRTUAL_ENV= uv pip install --python .venv/bin/python -r requirements.txt
@@ -9,6 +9,12 @@ ingest:      ## pull matters + PDFs off Legistar into data/cache (never re-downl
 
 ingest-granicus: ## walk every granicus.json agenda site since 2024 for sole-source items (cached; no login)
 	$(PY) scripts/ingest_granicus.py
+
+ingest-civicclerk: ## CivicClerk public OData API -> data/matters/civicclerk-*.json (PDFs in data/cache/civicclerk)
+	$(PY) scripts/ingest_civicclerk.py
+
+ingest-primegov: ## PrimeGov public portals -> data/matters/primegov-*.json (PDFs in data/cache/primegov)
+	$(PY) scripts/ingest_primegov.py
 
 extract:     ## Claude turns each matter into records -> data/records.db + records.jsonl
 	$(PY) scripts/extract.py

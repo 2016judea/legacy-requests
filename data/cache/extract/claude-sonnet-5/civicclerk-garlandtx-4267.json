@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Factory-Built Substation (prefabricated station with distribution bus and distribution breaker bays preassembled with mounted disconnects)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 1530800.0,
+   "lead_time": null,
+   "sole_source_vendor": "Dis-Tran Packaged Substations",
+   "reason": "Dis-Tran Packaged Substations is designated as the sole source provider of the Factory-Built Substation due to patents and copyrights.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "GP&L Oates Substation",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2560,
+  "out": 230
+ },
+ "model": "claude-sonnet-5"
+}

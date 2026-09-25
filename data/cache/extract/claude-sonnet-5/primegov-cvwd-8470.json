@@ -1,0 +1,205 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "28MKM-2",
+   "part": "Two stage complete replacement bowl assembly for vertical turbine pump rehabilitation",
+   "part_numbers": [
+    "90000006"
+   ],
+   "quantity": "1.00EA",
+   "price_usd": 126420.0,
+   "lead_time": "23-24 weeks",
+   "sole_source_vendor": "Rockwell Engineering and Equipment",
+   "reason": "the full scope of repair and rebuilding costs cannot be accurately determined until the pump is pulled from service and undergoes a complete disassembly and internal inspection",
+   "equipment_class": "pump",
+   "installed_location": "Mid-valley Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "28MKM-2",
+   "part": "Additional pump parts required includes: bearings, shafts, couplings, keys and hardware",
+   "part_numbers": [
+    "90000006"
+   ],
+   "quantity": "1.00EA",
+   "price_usd": 84260.0,
+   "lead_time": null,
+   "sole_source_vendor": "Rockwell Engineering and Equipment",
+   "reason": "the full scope of repair and rebuilding costs cannot be accurately determined until the pump is pulled from service and undergoes a complete disassembly and internal inspection",
+   "equipment_class": "pump",
+   "installed_location": "Mid-valley Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "28MKM-2",
+   "part": "Stuffing Box Bearing - Bronze",
+   "part_numbers": [
+    "549390-1423"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "11 Weeks",
+   "sole_source_vendor": "Rockwell Engineering and Equipment",
+   "reason": "the full scope of repair and rebuilding costs cannot be accurately determined until the pump is pulled from service and undergoes a complete disassembly and internal inspection",
+   "equipment_class": "pump",
+   "installed_location": "Mid-valley Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "28MKM-2",
+   "part": "Line Shaft Bearings - Rubber",
+   "part_numbers": [
+    "551695-256"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "7 Weeks",
+   "sole_source_vendor": "Rockwell Engineering and Equipment",
+   "reason": "the full scope of repair and rebuilding costs cannot be accurately determined until the pump is pulled from service and undergoes a complete disassembly and internal inspection",
+   "equipment_class": "pump",
+   "installed_location": "Mid-valley Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "28MKM-2",
+   "part": "Top Line Shaft Keyed - 416 SS, chrome plating included",
+   "part_numbers": [
+    "10003775-701-09650-2750"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "15-16 Weeks",
+   "sole_source_vendor": "Rockwell Engineering and Equipment",
+   "reason": "the full scope of repair and rebuilding costs cannot be accurately determined until the pump is pulled from service and undergoes a complete disassembly and internal inspection",
+   "equipment_class": "pump",
+   "installed_location": "Mid-valley Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "28MKM-2",
+   "part": "Intermediate Line Shafts - 416 SS, chrome plating included",
+   "part_numbers": [
+    "2000336-701-06000-1725"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "15-16 Weeks",
+   "sole_source_vendor": "Rockwell Engineering and Equipment",
+   "reason": "the full scope of repair and rebuilding costs cannot be accurately determined until the pump is pulled from service and undergoes a complete disassembly and internal inspection",
+   "equipment_class": "pump",
+   "installed_location": "Mid-valley Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "28MKM-2",
+   "part": "Keyed Line Shaft Coupling - 416 SS",
+   "part_numbers": [
+    "540810-1097"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": "5 Weeks",
+   "sole_source_vendor": "Rockwell Engineering and Equipment",
+   "reason": "the full scope of repair and rebuilding costs cannot be accurately determined until the pump is pulled from service and undergoes a complete disassembly and internal inspection",
+   "equipment_class": "pump",
+   "installed_location": "Mid-valley Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "28MKM-2",
+   "part": "Keyed Coupling Split Thrust Ring",
+   "part_numbers": [
+    "540811-1097"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": "5 Weeks",
+   "sole_source_vendor": "Rockwell Engineering and Equipment",
+   "reason": "the full scope of repair and rebuilding costs cannot be accurately determined until the pump is pulled from service and undergoes a complete disassembly and internal inspection",
+   "equipment_class": "pump",
+   "installed_location": "Mid-valley Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "28MKM-2",
+   "part": "Keyed Coupling Axial Key",
+   "part_numbers": [
+    "540812-1097"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": "5 Weeks",
+   "sole_source_vendor": "Rockwell Engineering and Equipment",
+   "reason": "the full scope of repair and rebuilding costs cannot be accurately determined until the pump is pulled from service and undergoes a complete disassembly and internal inspection",
+   "equipment_class": "pump",
+   "installed_location": "Mid-valley Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "28MKM-2",
+   "part": "Keyed Coupling Gib Key",
+   "part_numbers": [
+    "2000332-1097"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": "5 Weeks",
+   "sole_source_vendor": "Rockwell Engineering and Equipment",
+   "reason": "the full scope of repair and rebuilding costs cannot be accurately determined until the pump is pulled from service and undergoes a complete disassembly and internal inspection",
+   "equipment_class": "pump",
+   "installed_location": "Mid-valley Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "28MKM-2",
+   "part": "Keyed Coupling Set Screw",
+   "part_numbers": [
+    "100615-107-06"
+   ],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": "7 Weeks",
+   "sole_source_vendor": "Rockwell Engineering and Equipment",
+   "reason": "the full scope of repair and rebuilding costs cannot be accurately determined until the pump is pulled from service and undergoes a complete disassembly and internal inspection",
+   "equipment_class": "pump",
+   "installed_location": "Mid-valley Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "28MKM 2 STG - SN 80172-1-2",
+   "part": "Rehabilitation (rebuild/repair) of a vertical turbine pump, 800-horsepower, 32 CFS / 14,700 GPM capacity, at Mid-valley Pump Station",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 252714.5,
+   "lead_time": "23-24 weeks",
+   "sole_source_vendor": "Rockwell Engineering and Equipment",
+   "reason": "Authorize an emergency procurement the rehabilitation of a vertical turbine pump (Project) for the Mid-valley Pump Station by Rockwell Engineering and Equipment (Rockwell) in the amount of $252,715",
+   "equipment_class": "pump",
+   "installed_location": "Mid-valley Pump Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6448,
+  "out": 3948
+ },
+ "model": "claude-sonnet-5"
+}

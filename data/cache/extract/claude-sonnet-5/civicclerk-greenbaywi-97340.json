@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Controls installation and programming for the Main Street Bridge west leaf hydraulic rehabilitation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 48287.0,
+   "lead_time": null,
+   "sole_source_vendor": "Faith Technologies, Inc.",
+   "reason": "Historically, the City has utilized Faith Technologies for all controls and programming on the bridge and Faith Technologies maintains the program and passwords for the City.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Main Street Bridge (Ray Nitschke Memorial Bridge) west leaf",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Analog Amplifier Cards and Card Holders for Rebuilt Pump Assemblys",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 9102.0,
+   "lead_time": null,
+   "sole_source_vendor": "Faith Technologies, Inc.",
+   "reason": "Faith Technologies is familiar with these settings and can modify the Main Street Bridge PLC without affecting the remote operations with the Walnut Street Bridge.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Main Street Bridge (Ray Nitschke Memorial Bridge) west leaf",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Hydraulic Sensors for Filter Replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 6277.0,
+   "lead_time": null,
+   "sole_source_vendor": "Faith Technologies, Inc.",
+   "reason": "Faith Technologies is familiar with these settings and can modify the Main Street Bridge PLC without affecting the remote operations with the Walnut Street Bridge.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Main Street Bridge (Ray Nitschke Memorial Bridge) west leaf",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Power and Controls for Hydraulic Fluid Conditioning System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 19599.0,
+   "lead_time": null,
+   "sole_source_vendor": "Faith Technologies, Inc.",
+   "reason": "Faith Technologies is familiar with these settings and can modify the Main Street Bridge PLC without affecting the remote operations with the Walnut Street Bridge.",
+   "equipment_class": "other equipment",
+   "installed_location": "Main Street Bridge (Ray Nitschke Memorial Bridge) west leaf",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Hydraulic Oil Level Sensors",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 4789.0,
+   "lead_time": null,
+   "sole_source_vendor": "Faith Technologies, Inc.",
+   "reason": "Faith Technologies is familiar with these settings and can modify the Main Street Bridge PLC without affecting the remote operations with the Walnut Street Bridge.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Main Street Bridge (Ray Nitschke Memorial Bridge) west leaf",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4733,
+  "out": 2129
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Eaton",
+   "model": null,
+   "part": "Electrical Switchgear for WTTF Solar Project (SWBDs and Digital Meter per Eaton BOM)",
+   "part_numbers": [],
+   "quantity": "Lot",
+   "price_usd": 130528.85,
+   "lead_time": "SWBDs 50+ wks; Digital Meter 8-10wks",
+   "sole_source_vendor": "OneSource Distributors",
+   "reason": "The Switchgear has a delivery lead time of nine to twelve months making it a critical path item in meeting the April 2026 deadline.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Wastewater Treatment Facility (WTTF)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12012,
+  "out": 1182
+ },
+ "model": "claude-sonnet-5"
+}

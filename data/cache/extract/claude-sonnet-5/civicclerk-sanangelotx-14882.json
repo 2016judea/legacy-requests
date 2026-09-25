@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Xylem",
+   "model": null,
+   "part": "Pump repair (labor and parts) for Waste Water Treatment Plant Irrigation Pump #4",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 66589.65,
+   "lead_time": null,
+   "sole_source_vendor": "Xylem Water Solutions USA, Inc.",
+   "reason": "This is considered a Captive Replacement Repair and, in addition, a Sole Source Affidavit is on file with Purchasing for OEM parts and services.",
+   "equipment_class": "pump",
+   "installed_location": "Waste Water Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2928,
+  "out": 223
+ },
+ "model": "claude-sonnet-5"
+}

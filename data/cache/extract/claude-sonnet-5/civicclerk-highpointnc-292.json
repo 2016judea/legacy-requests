@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "PREDL Inc.",
+   "model": "Flexliner",
+   "part": "Manhole #1 rehabilitation (47\" diameter, 8\" wall) using Flexliner lining system",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 21638.05,
+   "lead_time": "TBD pending receipt of approved shop drawings and Purchase Order/Signed Order Acknowledgement",
+   "sole_source_vendor": "PREDL Inc.",
+   "reason": "PREDL, Inc. ... is the sole manufacturer and provider of the Flexliner product due to our patented technology.",
+   "equipment_class": "other equipment",
+   "installed_location": "Woodbrook Drive, High Point, NC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "PREDL Inc.",
+   "model": "Flexliner",
+   "part": "Manhole #2 rehabilitation (40\" diameter, 8\" wall) using Flexliner lining system",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 24457.24,
+   "lead_time": "TBD pending receipt of approved shop drawings and Purchase Order/Signed Order Acknowledgement",
+   "sole_source_vendor": "PREDL Inc.",
+   "reason": "PREDL, Inc. ... is the sole manufacturer and provider of the Flexliner product due to our patented technology.",
+   "equipment_class": "other equipment",
+   "installed_location": "Woodbrook Drive, High Point, NC",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5754,
+  "out": 923
+ },
+ "model": "claude-sonnet-5"
+}

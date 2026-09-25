@@ -1,0 +1,175 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sutphen",
+   "model": "MT70",
+   "part": "Refurbishment and overhaul of 70' aerial ladder truck (Fire Truck 3)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 262946.11,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Davenport Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FireTech",
+   "model": null,
+   "part": "Retrofit headlights - replaced old headlights with LED high/low beam headlight kit",
+   "part_numbers": [],
+   "quantity": "1.00000",
+   "price_usd": 2008.99,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Truck 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Freedom 4",
+   "part": "Install 71\" lightbar, 14 module with Opticom",
+   "part_numbers": [],
+   "quantity": "1.00000",
+   "price_usd": 5760.0,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Truck 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Single Head Preemption Emitter for lightbar install",
+   "part_numbers": [],
+   "quantity": "1.00000",
+   "price_usd": 498.75,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Truck 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "NOSHOK",
+   "model": null,
+   "part": "Gauge, 0-400 PSI, 2.5\" - replaced pump intake and discharge gauges",
+   "part_numbers": [],
+   "quantity": "7.00000",
+   "price_usd": 874.86,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "pump",
+   "installed_location": "Truck 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Cab tilt frame assembly - installed new tilt frame, bushings and body mounts",
+   "part_numbers": [],
+   "quantity": "1.00000",
+   "price_usd": 6882.0,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Truck 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sutphen",
+   "model": null,
+   "part": "Leveling Cone, Platform - rebuild bucket levelling cylinders",
+   "part_numbers": [],
+   "quantity": "1.00000",
+   "price_usd": 486.34,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Truck 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "SP70",
+   "part": "KIT, SLIDES, LADDER, UHMW, SP70 - replace all slide blocks on aerial ladder",
+   "part_numbers": [
+    "SP70"
+   ],
+   "quantity": "1.00000",
+   "price_usd": 2847.48,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Truck 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Whelen",
+   "model": "600 Series",
+   "part": "Whelen quad stack 600 - replace quad stack tail lights housing",
+   "part_numbers": [],
+   "quantity": "2.00000",
+   "price_usd": 3000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Truck 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Whelen",
+   "model": "600 Series",
+   "part": "Surface Mount Rota-Beam, Green, 6RBG",
+   "part_numbers": [
+    "6RBG"
+   ],
+   "quantity": "2.00000",
+   "price_usd": 946.11,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Truck 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Whelen",
+   "model": "600 Series",
+   "part": "Replace Whelen 600 series body warning lights (Rota-Beam, Red, 6RBR)",
+   "part_numbers": [
+    "6RBR"
+   ],
+   "quantity": "10.00000",
+   "price_usd": 3962.0,
+   "lead_time": null,
+   "sole_source_vendor": "Legacy Fire Apparatus",
+   "reason": "Legacy Fire Apparatus of Shorewood, Illinois is a sole source vendor and an authorized distributor of Sutphen fire apparatuses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Truck 3",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9755,
+  "out": 4268
+ },
+ "model": "claude-sonnet-5"
+}

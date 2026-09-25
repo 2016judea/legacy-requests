@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Install New Geothermal Pool Heating System Supply & Return Wells: 2 8\" x Aquifer Wells, including Well Permits",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 60544.0,
+   "lead_time": null,
+   "sole_source_vendor": "Symbiont Service Corporation",
+   "reason": "Symbiont Service Corp was approved through procurement process as a Sole Source provider.",
+   "equipment_class": "other equipment",
+   "installed_location": "Lakewood Park Regional Park Aquatic facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "7.5 HP (460V) submersible well pump",
+   "part": "Install new 7.5 HP (460V) submersible well pump",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Symbiont Service Corporation",
+   "reason": "Symbiont Service Corp was approved through procurement process as a Sole Source provider.",
+   "equipment_class": "pump",
+   "installed_location": "Lakewood Park Regional Park Aquatic facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7813,
+  "out": 964
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement parts, units, and repair services for various machinery",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "All State Electric Motors, LLC",
+   "reason": "Staff recommends multiple awards to five bidders to ensure adequate coverage of the commodities.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement parts, units, and repair services for various machinery",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Cogent, Inc.",
+   "reason": "Staff recommends multiple awards to five bidders to ensure adequate coverage of the commodities.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement parts, units, and repair services for various machinery",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Edwards Equipment, LLC",
+   "reason": "Staff recommends multiple awards to five bidders to ensure adequate coverage of the commodities.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement parts, units, and repair services for various machinery",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Improvements, Inc.",
+   "reason": "Staff recommends multiple awards to five bidders to ensure adequate coverage of the commodities.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement parts, units, and repair services for various machinery",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Haynes Equipment Company, LLC",
+   "reason": "Staff recommends multiple awards to five bidders to ensure adequate coverage of the commodities.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Open market purchase of replacement parts, units, and repair services for various machinery not available on pricing agreements",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 500000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff also requests open market authority for the purchase of replacement parts, units, and repair services for various machinery not available on pricing agreements, estimated annual cost $500,000, August 1, 2024 through July 31, 2027.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12772,
+  "out": 4052
+ },
+ "model": "claude-sonnet-5"
+}

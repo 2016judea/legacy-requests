@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Keri Systems",
+   "model": "Keri Access Control System",
+   "part": "Parts and services related to the Keri Access Control System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gearface, LLC DBA CDA Electronics",
+   "reason": "Gearface is the sole integrator in the Treasure Coast geographical area this is a Keri partner through thier Integrated Partner Program (IPP).",
+   "equipment_class": "other equipment",
+   "installed_location": "Board of County Commissioner sites countywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Digital Watchdog",
+   "model": "DW Spectrum IPVMS",
+   "part": "Parts and services needed to integrate the Digital Watchdog CCTV camera system with the Keri Access Control System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gearface, LLC DBA CDA Electronics",
+   "reason": "Gearface is the sole integrator in the Treasure Coast geographical area this is a Keri partner through thier Integrated Partner Program (IPP).",
+   "equipment_class": "other equipment",
+   "installed_location": "approximately 25% of Board of County Commissioner sites",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "WinPak",
+   "model": "WinPak Card Access System",
+   "part": "Emergency upgrade of the obsolete WinPak Card Access System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the emergency upgrade of the obsolete WinPak Card Access System.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8578,
+  "out": 1157
+ },
+ "model": "claude-sonnet-5"
+}

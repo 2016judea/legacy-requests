@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ovivo",
+   "model": null,
+   "part": "Replacement draft tube mixer parts for digesters",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 60141.6,
+   "lead_time": null,
+   "sole_source_vendor": "Ovivo USA, LLC",
+   "reason": "A sole source procurement justification for Ovivo USA, LLC is on file with the Purchasing Division for the purchase of draft tube mixer parts.",
+   "equipment_class": "other equipment",
+   "installed_location": "Water Pollution Control Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2255,
+  "out": 200
+ },
+ "model": "claude-sonnet-5"
+}

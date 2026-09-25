@@ -1,0 +1,290 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ferrara",
+   "model": "Custom Cinder",
+   "part": "2025 Ferrara Custom Cinder Fire Engine/Pumper (Class A pumper) for Operations Division",
+   "part_numbers": [
+    "H7195",
+    "CES-13"
+   ],
+   "quantity": "1",
+   "price_usd": 980043.0,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ferrara",
+   "model": "Custom Cinder, 4-Door, 1500 GPM",
+   "part": "Custom Cinder, 4-Door, 1500 GPM base pumper unit",
+   "part_numbers": [
+    "CES-13"
+   ],
+   "quantity": "1",
+   "price_usd": 963298.0,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foam Pro",
+   "model": "2001",
+   "part": "Add Foam System, Foam Pro 2001",
+   "part_numbers": [
+    "517"
+   ],
+   "quantity": "1",
+   "price_usd": 24909.0,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "411 Equipment Shelving for fire engine",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 30000.0,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cummins",
+   "model": "L9",
+   "part": "Engine - 450 HP, Cummins L9 (MY2022)",
+   "part_numbers": [
+    "08-A2-0620"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "motor/drive",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Federal Signal",
+   "model": "Q2B",
+   "part": "Mechanical Siren - Federal Q2B, Pedestal Mount",
+   "part_numbers": [
+    "02-M2-4020"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "other equipment",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hendrickson",
+   "model": "Steertek",
+   "part": "Front Axle - 20,000 Pounds, Hendrickson Steertek",
+   "part_numbers": [
+    "04-A2-0420"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "other equipment",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Meritor",
+   "model": "RS-25-160",
+   "part": "Rear Axle - 27,000 Pounds, Meritor RS-25-160",
+   "part_numbers": [
+    "04-G2-0420"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "other equipment",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Wabco",
+   "model": null,
+   "part": "Air Compressor - Wabco 18.7 CFM",
+   "part_numbers": [
+    "06-A2-6020"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "other equipment",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bendix",
+   "model": "AD-9",
+   "part": "Air Dryer - Bendix AD-9",
+   "part_numbers": [
+    "06-B4-2020"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "other equipment",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Delco Remy",
+   "model": "55SI",
+   "part": "Alternator - 430 AMP, Delco Remy 55SI",
+   "part_numbers": [
+    "08-D2-2220"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Exide",
+   "model": null,
+   "part": "Battery System (4) - Exide (750 CCA Each)",
+   "part_numbers": [
+    "08-E2-0420"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kussmaul",
+   "model": "Pump Plus 1200",
+   "part": "Battery / Air Charger - Pump Plus 1200, Kussmaul 52-21-1100",
+   "part_numbers": [
+    "08-E8-4420",
+    "52-21-1100"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cast Product",
+   "model": "SA2401",
+   "part": "Siren Speaker - Cast Product SA2401",
+   "part_numbers": [
+    "02-R4-0420"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "other equipment",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hadley",
+   "model": "Round E-Tone",
+   "part": "Air Horn - Driver's Side and Passenger's Side Thru Bumper, Hadley Round E-Tone",
+   "part_numbers": [
+    "02-P2-0220",
+    "02-P2-0420"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "other equipment",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Alcoa",
+   "model": null,
+   "part": "Front and Rear Wheels - Alcoa Aluminum",
+   "part_numbers": [
+    "04-E2-2420",
+    "04-S2-2020"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "other equipment",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Michelin",
+   "model": null,
+   "part": "Front and Rear Tires - Michelin",
+   "part_numbers": [
+    "04-D4-0620",
+    "04-R4-0620"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "411 Equipment LLC",
+   "reason": "Single Source Manufacturer",
+   "equipment_class": "other equipment",
+   "installed_location": "Station 3",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9516,
+  "out": 4255
+ },
+ "model": "claude-sonnet-5"
+}

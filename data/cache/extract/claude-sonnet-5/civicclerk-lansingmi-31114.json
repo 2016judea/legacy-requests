@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Orbinox",
+   "model": "CC - CHANNEL PENSTOCK",
+   "part": "Stainless-Steel Slide Gate for Ultraviolet Disinfection Channel No. 4 / Butterfly Gate Replacement (58X90\" Penstock/Sluice Gate)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 33175.0,
+   "lead_time": "16-18 weeks ARO. 2-3 weeks for approval drawings.",
+   "sole_source_vendor": "Hamlett Environmental Technologies",
+   "reason": "Hamlett Engineering is the sole Municipal Representative of Orbinox in the state of Michigan, USA.",
+   "equipment_class": "valve",
+   "installed_location": "Lansing WWTP - Ultraviolet Disinfection Channel No. 4",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4680,
+  "out": 296
+ },
+ "model": "claude-sonnet-5"
+}

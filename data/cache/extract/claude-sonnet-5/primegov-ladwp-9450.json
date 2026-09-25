@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "GPS and OEM Telematics Hardware, Subscriptions, and Integration",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 11352127,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Samsara submitted the lowest responsive bid and is in full compliance with the IFB.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8737,
+  "out": 615
+ },
+ "model": "claude-sonnet-5"
+}

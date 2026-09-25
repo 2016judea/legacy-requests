@@ -1,0 +1,115 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cellebrite",
+   "model": "Inseyets",
+   "part": "Digital data analytics investigative tool for a three year contract (single source procurement)",
+   "part_numbers": [
+    "B-CNR-05-003",
+    "S-UFD-20-003",
+    "S-UFD-20-006",
+    "F-UFD-06-005",
+    "S-AIS-20-001"
+   ],
+   "quantity": "1 contract (3 years)",
+   "price_usd": 88000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cellebrite DI Ltd.",
+   "reason": "The San Bernardino County Sheriff's Department did an extensive search of products before deciding Cellebrite was best suited to assist with investigative needs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Rancho Cucamonga Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cellebrite",
+   "model": "Inseyets Pro UFED",
+   "part": "Inseyets Pro UFED Subscription",
+   "part_numbers": [
+    "S-UFD-20-003"
+   ],
+   "quantity": "1",
+   "price_usd": 4400.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cellebrite Inc.",
+   "reason": "Cellebrite's products are comparably priced to similar products.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Rancho Cucamonga Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cellebrite",
+   "model": "Inseyets Pro PA",
+   "part": "Inseyets Pro PA Subscription",
+   "part_numbers": [
+    "S-UFD-20-006"
+   ],
+   "quantity": "1",
+   "price_usd": 4000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cellebrite Inc.",
+   "reason": "Cellebrite's products are comparably priced to similar products.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Rancho Cucamonga Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cellebrite",
+   "model": "Inseyets",
+   "part": "Inseyets upgrade kit",
+   "part_numbers": [
+    "F-UFD-06-005"
+   ],
+   "quantity": "1",
+   "price_usd": 1300.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cellebrite Inc.",
+   "reason": "Cellebrite's products are comparably priced to similar products.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Rancho Cucamonga Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cellebrite",
+   "model": "Inseyets Online",
+   "part": "Inseyets Online Limited Unlocks subscription",
+   "part_numbers": [
+    "S-AIS-20-001"
+   ],
+   "quantity": "65",
+   "price_usd": 18000.45,
+   "lead_time": null,
+   "sole_source_vendor": "Cellebrite Inc.",
+   "reason": "Cellebrite's products are comparably priced to similar products.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Rancho Cucamonga Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cellebrite",
+   "model": "Inseyets Online Pro",
+   "part": "Upgrade to Inseyets Online Pro",
+   "part_numbers": [
+    "B-CNR-05-003"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cellebrite Inc.",
+   "reason": "Cellebrite's products are comparably priced to similar products.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Rancho Cucamonga Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8643,
+  "out": 1201
+ },
+ "model": "claude-sonnet-5"
+}

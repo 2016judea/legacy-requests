@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "HydroPoint",
+   "model": "WeatherTrak",
+   "part": "Smart Irrigation Controllers (60 units) for replacement projects in LMD 6R, LMD 10, PD 85, Sports Complex, and 20 of 104 controllers in LMD 1",
+   "part_numbers": [],
+   "quantity": "60",
+   "price_usd": 500000,
+   "lead_time": null,
+   "sole_source_vendor": "SiteOne Landscape Supply",
+   "reason": "SiteOne Landscape Supply is the exclusive irrigation distributer of WeatherTrak products and services in California.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "LMD 6R, LMD 10, PD 85, Sports Complex, LMD 1",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6777,
+  "out": 269
+ },
+ "model": "claude-sonnet-5"
+}

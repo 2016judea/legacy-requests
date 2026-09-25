@@ -1,0 +1,323 @@
+{
+ "records": [
+  {
+   "manufacturer": "MEMCOR",
+   "model": "S10N-v2",
+   "part": "MODULE, SPARE S10N v2 (membrane filter module)",
+   "part_numbers": [
+    "12038596"
+   ],
+   "quantity": "2,304 EA",
+   "price_usd": 1757214.72,
+   "lead_time": null,
+   "sole_source_vendor": "MEMCOR",
+   "reason": "MEMCOR is the sole producer of our membrane system.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MEMCOR",
+   "model": null,
+   "part": "MANIFOLD, CLOVER TOP CS NYLON SS STUD SH",
+   "part_numbers": [
+    "12038845"
+   ],
+   "quantity": "32 EA",
+   "price_usd": 800.0,
+   "lead_time": null,
+   "sole_source_vendor": "MEMCOR",
+   "reason": "MEMCOR is the sole producer of our membrane system.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MEMCOR",
+   "model": null,
+   "part": "MANIFOLD, CLOVER BTM GFPP DURAPROP",
+   "part_numbers": [
+    "12037192"
+   ],
+   "quantity": "32 EA",
+   "price_usd": 800.0,
+   "lead_time": null,
+   "sole_source_vendor": "MEMCOR",
+   "reason": "MEMCOR is the sole producer of our membrane system.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MEMCOR",
+   "model": null,
+   "part": "ASSEMBLY, VALVE MLD FILT ISOL RACK",
+   "part_numbers": [
+    "12037880"
+   ],
+   "quantity": "32 EA",
+   "price_usd": 3840.0,
+   "lead_time": null,
+   "sole_source_vendor": "MEMCOR",
+   "reason": "MEMCOR is the sole producer of our membrane system.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MEMCOR",
+   "model": null,
+   "part": "ASSEMBLY, INSERT CS NYL-GRP RACK",
+   "part_numbers": [
+    "12037908"
+   ],
+   "quantity": "32 EA",
+   "price_usd": 9600.0,
+   "lead_time": null,
+   "sole_source_vendor": "MEMCOR",
+   "reason": "MEMCOR is the sole producer of our membrane system.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MEMCOR",
+   "model": null,
+   "part": "CLIP, CLOVER MODULE CS/CSII",
+   "part_numbers": [
+    "12038846"
+   ],
+   "quantity": "128 EA",
+   "price_usd": 128.0,
+   "lead_time": null,
+   "sole_source_vendor": "MEMCOR",
+   "reason": "MEMCOR is the sole producer of our membrane system.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MEMCOR",
+   "model": null,
+   "part": "NUT, HEX M12 x 1.75MM 316SS 6H 800MPA",
+   "part_numbers": [
+    "12032245"
+   ],
+   "quantity": "50 EA",
+   "price_usd": 5.0,
+   "lead_time": null,
+   "sole_source_vendor": "MEMCOR",
+   "reason": "MEMCOR is the sole producer of our membrane system.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MEMCOR",
+   "model": null,
+   "part": "WASHER, FLT 0.5\" 1.25\" OD 316SS",
+   "part_numbers": [
+    "12053921"
+   ],
+   "quantity": "50 EA",
+   "price_usd": 5.0,
+   "lead_time": null,
+   "sole_source_vendor": "MEMCOR",
+   "reason": "MEMCOR is the sole producer of our membrane system.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MEMCOR",
+   "model": null,
+   "part": "NUT, HEX M8x1.25MM 316SS 6H 800MPA",
+   "part_numbers": [
+    "12032244"
+   ],
+   "quantity": "300 EA",
+   "price_usd": 30.0,
+   "lead_time": null,
+   "sole_source_vendor": "MEMCOR",
+   "reason": "MEMCOR is the sole producer of our membrane system.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MEMCOR",
+   "model": null,
+   "part": "WASHER, FLAT M8x17MM OD 316SS",
+   "part_numbers": [
+    "12032248"
+   ],
+   "quantity": "300 EA",
+   "price_usd": 30.0,
+   "lead_time": null,
+   "sole_source_vendor": "MEMCOR",
+   "reason": "MEMCOR is the sole producer of our membrane system.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MEMCOR",
+   "model": null,
+   "part": "WASHER, SPRING M8x3.75MM THK 316SS",
+   "part_numbers": [
+    "12032250"
+   ],
+   "quantity": "300 EA",
+   "price_usd": 30.0,
+   "lead_time": null,
+   "sole_source_vendor": "MEMCOR",
+   "reason": "MEMCOR is the sole producer of our membrane system.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MEMCOR",
+   "model": null,
+   "part": "O-RING, EPDM 9710 BS352 WRC BLUE DOT",
+   "part_numbers": [
+    "12032190"
+   ],
+   "quantity": "50 EA",
+   "price_usd": 50.0,
+   "lead_time": null,
+   "sole_source_vendor": "MEMCOR",
+   "reason": "MEMCOR is the sole producer of our membrane system.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MEMCOR",
+   "model": null,
+   "part": "GASKET, BOTTOM CLOVER EPDM 9710 3 HOLE",
+   "part_numbers": [
+    "12032200"
+   ],
+   "quantity": "50 EA",
+   "price_usd": 50.0,
+   "lead_time": null,
+   "sole_source_vendor": "MEMCOR",
+   "reason": "MEMCOR is the sole producer of our membrane system.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MEMCOR",
+   "model": null,
+   "part": "GREASE, SILICON MX22 (2X 0.5KG)",
+   "part_numbers": [
+    "12035217"
+   ],
+   "quantity": "2 KG",
+   "price_usd": 200.0,
+   "lead_time": null,
+   "sole_source_vendor": "MEMCOR",
+   "reason": "MEMCOR is the sole producer of our membrane system.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Variable Frequency Drives (VFDs) \u2013 electrical motor controls",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 260000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "motor/drive",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Vertical Turbine Pumps (increased capacity)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 740000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "pump",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Electrical Switch Gear (increased capacity)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 36000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Filtrate Permeate Pumps (increased capacity)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 820000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "pump",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Chemical feed and bulk storage tank replacements",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 700000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Surge tank upgrade (existing and future capacity)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 170000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "other equipment",
+   "installed_location": "Water Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10593,
+  "out": 6871
+ },
+ "model": "claude-sonnet-5"
+}

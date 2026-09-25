@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cummins",
+   "model": null,
+   "part": "Replacement OEM parts and repair services for maintenance and repairs of Cummins generators and related control systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 400000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cummins Inc., dba Cummins Sales and Service",
+   "reason": "Cummins Inc., dba Cummins Sales and Service, is the sole provider of Cummins products, engines, parts, and services throughout the State of Florida.",
+   "equipment_class": "generator",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 13472,
+  "out": 216
+ },
+ "model": "claude-sonnet-5"
+}

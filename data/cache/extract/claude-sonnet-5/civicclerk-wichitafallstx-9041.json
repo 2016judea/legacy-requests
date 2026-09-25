@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Conversion of communications from AT&T copper phone lines to cellular communications with the Resource Recovery SCADA system at the remaining lift stations",
+   "part_numbers": [],
+   "quantity": "46 lift stations",
+   "price_usd": 377374.0,
+   "lead_time": null,
+   "sole_source_vendor": "Prime Controls, L.P.",
+   "reason": "Prime Controls, L.P. has performed the work on the lift stations already converted to cellular, and they stated that they have the parts available to complete the conversion prior to the termination date.",
+   "equipment_class": "communications/radio",
+   "installed_location": "46 wastewater lift stations, City of Wichita Falls",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3460,
+  "out": 692
+ },
+ "model": "claude-sonnet-5"
+}

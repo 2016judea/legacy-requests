@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford Motor Company",
+   "model": null,
+   "part": "Ford OEM Repair Parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sam Galloway Ford, Inc.",
+   "reason": "Ford OEM Repair Parts, Sam Galloway Ford, Inc.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorcraft",
+   "model": null,
+   "part": "Motorcraft Parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sam Galloway Ford, Inc.",
+   "reason": "Motorcraft Parts Dealer Net Cost Plus 10.00% 15.00% 5.00%",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5905,
+  "out": 1842
+ },
+ "model": "claude-sonnet-5"
+}

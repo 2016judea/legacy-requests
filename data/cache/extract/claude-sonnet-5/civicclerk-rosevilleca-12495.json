@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": "F-550",
+   "part": "Ford F550 flatbed truck with Envoltz underground cable pulling equipment (EBW8K-G-TM truck-mounted hydraulic bullwheel puller)",
+   "part_numbers": [
+    "8005227"
+   ],
+   "quantity": "1",
+   "price_usd": 330987.42,
+   "lead_time": "8 Months ARO",
+   "sole_source_vendor": "Envoltz, LLC",
+   "reason": "Envoltz is the sole manufacturer and distributor, and has proprietary designs and subsystems.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Roseville Electric Utility, Roseville, California",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7804,
+  "out": 243
+ },
+ "model": "claude-sonnet-5"
+}

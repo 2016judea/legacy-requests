@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kovatch Mobile Equipment",
+   "model": null,
+   "part": "KME fire engine parts and repair services",
+   "part_numbers": [],
+   "quantity": "6 fire engines",
+   "price_usd": 220000,
+   "lead_time": null,
+   "sole_source_vendor": "Kalmikov Enterprises, Inc., dba Fire Apparatus Solutions, Inc.",
+   "reason": "Kalmikov Enterprises, Inc., dba Fire Apparatus Solutions, Inc., is the sole authorized distributor of KME Fire engine parts and service in the region and is the only authorized dealer in Southern California able to perform warranty work on the KME fire engines.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "City of Long Beach",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9950,
+  "out": 273
+ },
+ "model": "claude-sonnet-5"
+}

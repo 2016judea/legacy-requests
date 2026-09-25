@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kamstrup",
+   "model": "AMI Meters",
+   "part": "Purchase and installation of Kamstrup Automated Metering Infrastructure (AMI) smart water meters to replace 500 residential water meters",
+   "part_numbers": [],
+   "quantity": "500",
+   "price_usd": 200000.0,
+   "lead_time": "60 calendar days",
+   "sole_source_vendor": "Aguaworks Pipe & Supply, LLC",
+   "reason": "Consider Authorizing the Purchase and Installation of Kamstrup Automated Metering Infrastructure (AMI) Meters, as a Sole Source purchase, from Aguaworks Pipe & Supply, LLC.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Edinburg (residential water meters)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7848,
+  "out": 283
+ },
+ "model": "claude-sonnet-5"
+}

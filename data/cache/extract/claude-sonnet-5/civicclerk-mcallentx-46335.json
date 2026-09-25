@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kubota",
+   "model": null,
+   "part": "Membrane cartridges",
+   "part_numbers": [],
+   "quantity": "12 membrane cartridges (50 pcs)",
+   "price_usd": 90960.0,
+   "lead_time": null,
+   "sole_source_vendor": "Kubota Membrane USA Corporation",
+   "reason": "sole source vendor",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "South Wastewater Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 3,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6760,
+  "out": 187
+ },
+ "model": "claude-sonnet-5"
+}

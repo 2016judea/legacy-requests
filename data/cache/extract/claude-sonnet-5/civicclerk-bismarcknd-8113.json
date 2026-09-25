@@ -1,0 +1,62 @@
+{
+ "records": [
+  {
+   "manufacturer": "Flygt",
+   "model": "MAS 801",
+   "part": "One (1) MAS 801 Monitoring Panel with HMI, Base Units, Central Unit, breakers, heater, power supply, etc.",
+   "part_numbers": [
+    "CU-801",
+    "BU-811"
+   ],
+   "quantity": "1",
+   "price_usd": 79375.0,
+   "lead_time": "10 \u2013 14 weeks after approved submittals",
+   "sole_source_vendor": "Electric Pump",
+   "reason": "The direct replacement part is MAS-801 as the MAS-701 has been discontinued by the manufacturer.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Wachter Master Lift Station",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Flygt",
+   "model": "MAS-801 Retrofit Kit",
+   "part": "Four (4) Flygt MAS-801 Retrofit Kits installed in existing NT3312 pumps to replace failed MAS-701 monitoring components",
+   "part_numbers": [
+    "MAS PEM 811"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": "10 \u2013 14 weeks after approved submittals",
+   "sole_source_vendor": "Electric Pump",
+   "reason": "We are requesting the replacement of the MAS-701 units on all four Flygt pumps with MAS-801 due to compatibility and tolerance of fit.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Wachter Master Lift Station",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Flygt",
+   "model": null,
+   "part": "Flygt heavy-duty electric submersible pumps and mixer products (sole source authorization for state of North Dakota)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Electric Pump, LLC",
+   "reason": "Electric Pump located out of New Prague, MN 56071 is the sole authorized representative for Engineered Products, After Market Sales and Services of \u2013 Xylem, Inc.\u2019s Flygt brand heavy-duty electric submersible pumps and mixer products, for the state of North Dakota.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7377,
+  "out": 2330
+ },
+ "model": "claude-sonnet-5"
+}

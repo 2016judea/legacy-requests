@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": "Edge SEL",
+   "part": "2017 Ford Edge, used vehicle for Special Operations and Violent Crime Teams",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 14915.0,
+   "lead_time": null,
+   "sole_source_vendor": "DJ's Auto Sales",
+   "reason": "Lt. McNamara has searched for comparable vehicles within 100 miles of the Lansing area and has not located the same vehicle for a lower price.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Lansing Police Department Special Operations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Jeep",
+   "model": "Compass Limited 4WD",
+   "part": "2021 Jeep Compass, used vehicle for Special Operations and Violent Crime Teams",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 18515.0,
+   "lead_time": null,
+   "sole_source_vendor": "DJ's Auto Sales",
+   "reason": "Lt. McNamara has searched for comparable vehicles within 100 miles of the Lansing area and has not located the same vehicle for a lower price.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Lansing Police Department Special Operations",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8951,
+  "out": 439
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Globe",
+   "model": null,
+   "part": "Turnout Gear",
+   "part_numbers": [],
+   "quantity": "37 sets",
+   "price_usd": 136160.0,
+   "lead_time": null,
+   "sole_source_vendor": "Allsource Enterprises LLC dba Safe Industries",
+   "reason": "This letter confirms that Safe Industries is the sole authorized MSA distributor of Globe turnout gear and boots for the Municipal Fire Service Market for Williamson County, Tennessee.",
+   "equipment_class": "other equipment",
+   "installed_location": "Franklin Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3783,
+  "out": 213
+ },
+ "model": "claude-sonnet-5"
+}

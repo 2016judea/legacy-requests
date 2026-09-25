@@ -1,0 +1,59 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trojan Technologies Corp.",
+   "model": "UNA-620A",
+   "part": "Replacement of all Rack #3 and Rack #4 membrane filter modules (196 modules)",
+   "part_numbers": [
+    "UNA-620A"
+   ],
+   "quantity": "196 modules",
+   "price_usd": 679953.42,
+   "lead_time": null,
+   "sole_source_vendor": "Trojan Technologies Corp.",
+   "reason": "Trojan Technologies Corp. is the manufacturer and sole parts and service provider of our low-pressure membrane system.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Surface Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trojan Technologies Corp.",
+   "model": null,
+   "part": "Aftermarket Service execution on the AriaFiltra MF Maintenance Agreements including Inspection, CIP, 24/7 Technical Phone Support and associated hardware and training packages",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Trojan Technologies Corp.",
+   "reason": "AriaFiltra is the sole source provider of specific equipment, ancillary components, and programming incorporated into your Microfiltration System.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Surface Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trojan Technologies Corp.",
+   "model": null,
+   "part": "Proprietary controls and associated hardware for the MMI and PLC interface computer, and programming changes for all operations",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Trojan Technologies Corp.",
+   "reason": "Proprietary controls and associated hardware for the MMI and PLC interface computer.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Surface Water Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3909,
+  "out": 691
+ },
+ "model": "claude-sonnet-5"
+}

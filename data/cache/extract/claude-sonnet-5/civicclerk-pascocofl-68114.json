@@ -1,0 +1,399 @@
+{
+ "records": [
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 25",
+   "part": "5/8\" x 3/4\" potable water meter (Recordall Disc, Lead-Free Bronze Alloy)",
+   "part_numbers": [
+    "116-2613"
+   ],
+   "quantity": "1",
+   "price_usd": 229.72,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 35",
+   "part": "3/4\" potable water meter (Recordall Disc, Lead-Free Bronze Alloy)",
+   "part_numbers": [
+    "116-2615"
+   ],
+   "quantity": "1",
+   "price_usd": 297.34,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 55",
+   "part": "1\" potable water meter (Recordall Disc, Lead-Free Bronze Alloy)",
+   "part_numbers": [
+    "116-2544"
+   ],
+   "quantity": "1",
+   "price_usd": 334.83,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 120",
+   "part": "1-1/2\" elliptical potable water meter",
+   "part_numbers": [
+    "116-2546"
+   ],
+   "quantity": "1",
+   "price_usd": 534.79,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 170",
+   "part": "2\" elliptical potable water meter",
+   "part_numbers": [
+    "116-2617"
+   ],
+   "quantity": "1",
+   "price_usd": 679.62,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 25",
+   "part": "5/8\" x 3/4\" reclaimed water meter (Recordall Disc, Lead-Free Bronze Alloy)",
+   "part_numbers": [
+    "116-2619"
+   ],
+   "quantity": "1",
+   "price_usd": 238.73,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 35",
+   "part": "3/4\" reclaimed water meter (Recordall Disc, Lead-Free Bronze Alloy)",
+   "part_numbers": [
+    "116-2622"
+   ],
+   "quantity": "1",
+   "price_usd": 304.15,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 55",
+   "part": "1\" reclaimed water meter (Recordall Disc, Lead-Free Bronze Alloy)",
+   "part_numbers": [
+    "116-2625"
+   ],
+   "quantity": "1",
+   "price_usd": 341.64,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 120",
+   "part": "1-1/2\" elliptical reclaimed water meter",
+   "part_numbers": [
+    "116-2628"
+   ],
+   "quantity": "1",
+   "price_usd": 541.61,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 170",
+   "part": "2\" elliptical reclaimed water meter",
+   "part_numbers": [
+    "116-2630"
+   ],
+   "quantity": "1",
+   "price_usd": 686.42,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 25",
+   "part": "Registration/register unit with ORION Cellular for Model 25 meter",
+   "part_numbers": [
+    "116-2518"
+   ],
+   "quantity": "1",
+   "price_usd": 201.97,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 35",
+   "part": "Registration/register unit with ORION Cellular for Model 35 meter",
+   "part_numbers": [
+    "116-2632"
+   ],
+   "quantity": "1",
+   "price_usd": 203.81,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 55",
+   "part": "Registration/register unit with ORION Cellular for Model 55 meter",
+   "part_numbers": [
+    "116-2634"
+   ],
+   "quantity": "1",
+   "price_usd": 207.03,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 120",
+   "part": "Registration/register unit with ORION Cellular for Model 120 meter",
+   "part_numbers": [
+    "116-2635"
+   ],
+   "quantity": "1",
+   "price_usd": 210.02,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 170",
+   "part": "Registration/register unit with ORION Cellular for Model 170-2\" meter",
+   "part_numbers": [
+    "116-2636"
+   ],
+   "quantity": "1",
+   "price_usd": 212.81,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 25",
+   "part": "Registration/register unit (Reclaimed) with ORION Cellular for Model 25 meter",
+   "part_numbers": [
+    "116-2637"
+   ],
+   "quantity": "1",
+   "price_usd": 207.97,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 35",
+   "part": "Registration/register unit (Reclaimed) with ORION Cellular for Model 35 meter",
+   "part_numbers": [
+    "116-2638"
+   ],
+   "quantity": "1",
+   "price_usd": 209.81,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 55",
+   "part": "Registration/register unit (Reclaimed) with ORION Cellular for Model 55 meter",
+   "part_numbers": [
+    "116-2639"
+   ],
+   "quantity": "1",
+   "price_usd": 213.03,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 120",
+   "part": "Registration/register unit (Reclaimed) with ORION Cellular for Model 120 meter",
+   "part_numbers": [
+    "116-2640"
+   ],
+   "quantity": "1",
+   "price_usd": 216.02,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "MODEL 170",
+   "part": "Registration/register unit (Reclaimed) with ORION Cellular for Model 170-2\" meter",
+   "part_numbers": [
+    "116-2641"
+   ],
+   "quantity": "1",
+   "price_usd": 218.81,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "E-Series",
+   "part": "5/8\" x 3/4\" potable water meter, E-Series B-Alloy with ORION Cellular encoder",
+   "part_numbers": [
+    "116-2555"
+   ],
+   "quantity": "1",
+   "price_usd": 300.41,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "E-Series",
+   "part": "3/4\" potable water meter, E-Series B-Alloy with ORION Cellular encoder",
+   "part_numbers": [
+    "116-2723"
+   ],
+   "quantity": "1",
+   "price_usd": 321.42,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "E-Series",
+   "part": "1\" potable water meter, E-Series B-Alloy with ORION Cellular encoder",
+   "part_numbers": [
+    "116-2724"
+   ],
+   "quantity": "1",
+   "price_usd": 361.5,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Badger Meter",
+   "model": "E-Series",
+   "part": "1-1/2\" elliptical potable water meter, E-Series S3 with ORION Cellular encoder",
+   "part_numbers": [
+    "116-2645"
+   ],
+   "quantity": "1",
+   "price_usd": 667.38,
+   "lead_time": null,
+   "sole_source_vendor": "Badger Meter, Inc.",
+   "reason": "PIFBA25-0055 \u2014 Exempt Purchase \u2013 Badger Meter, Inc. \u2013 Badger Meter Utility Products",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18057,
+  "out": 7997
+ },
+ "model": "claude-sonnet-5"
+}

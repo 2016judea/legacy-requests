@@ -1,0 +1,207 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": "APX 8000",
+   "part": "PORTABLE RADIO APX 8000 ALL BAND MODEL 2.5",
+   "part_numbers": [
+    "H91TGD9PW6AN"
+   ],
+   "quantity": "57",
+   "price_usd": 342283.86,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola Solutions, Inc. is the manufacturer of the APX 8000 All Band Portable Radio, which contains proprietary hardware and software components that are only available through Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Roseville Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": null,
+   "part": "SOFTWARE LICENSE ENH: MULTIKEY",
+   "part_numbers": [
+    "H869BW"
+   ],
+   "quantity": "57",
+   "price_usd": 16144.68,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola Solutions, Inc. is the manufacturer of the APX 8000 All Band Portable Radio, which contains proprietary hardware and software components that are only available through Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Roseville Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": null,
+   "part": "ADD: ASTRO DIGITAL CAI OPERATION",
+   "part_numbers": [
+    "Q806CB"
+   ],
+   "quantity": "57",
+   "price_usd": 25257.27,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola Solutions, Inc. is the manufacturer of the APX 8000 All Band Portable Radio, which contains proprietary hardware and software components that are only available through Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Roseville Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": null,
+   "part": "ADD: P25 9600 BAUD TRUNKING",
+   "part_numbers": [
+    "Q361AN"
+   ],
+   "quantity": "57",
+   "price_usd": 14688.33,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola Solutions, Inc. is the manufacturer of the APX 8000 All Band Portable Radio, which contains proprietary hardware and software components that are only available through Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Roseville Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": null,
+   "part": "ADD: 3Y ESSENTIAL SERVICE",
+   "part_numbers": [
+    "Q58AL"
+   ],
+   "quantity": "57",
+   "price_usd": 10488.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola Solutions, Inc. is the manufacturer of the APX 8000 All Band Portable Radio, which contains proprietary hardware and software components that are only available through Motorola.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Roseville Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": null,
+   "part": "ADD: SMARTZONE OPERATION",
+   "part_numbers": [
+    "H38BS"
+   ],
+   "quantity": "57",
+   "price_usd": 73483.26,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola Solutions, Inc. is the manufacturer of the APX 8000 All Band Portable Radio, which contains proprietary hardware and software components that are only available through Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Roseville Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": null,
+   "part": "ADD: PROGRAMMING OVER P25 (OTAP)",
+   "part_numbers": [
+    "G996AP"
+   ],
+   "quantity": "57",
+   "price_usd": 4909.98,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola Solutions, Inc. is the manufacturer of the APX 8000 All Band Portable Radio, which contains proprietary hardware and software components that are only available through Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Roseville Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": null,
+   "part": "SOFTWARE LICENSE ENH: AES ENCRYPTION AND ADP",
+   "part_numbers": [
+    "Q629AH"
+   ],
+   "quantity": "57",
+   "price_usd": 23301.6,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola Solutions, Inc. is the manufacturer of the APX 8000 All Band Portable Radio, which contains proprietary hardware and software components that are only available through Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Roseville Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": null,
+   "part": "ADD: BASELINE RELEASE SW",
+   "part_numbers": [
+    "QA09113AB"
+   ],
+   "quantity": "57",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola Solutions, Inc. is the manufacturer of the APX 8000 All Band Portable Radio, which contains proprietary hardware and software components that are only available through Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Roseville Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": null,
+   "part": "AUDIO ACCESSORY- HEADSET,PLUS RSM NC IP54 THRD 3.5MM JACK RX",
+   "part_numbers": [
+    "PMMN4084A"
+   ],
+   "quantity": "57",
+   "price_usd": 4693.38,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola Solutions, Inc. is the manufacturer of the APX 8000 All Band Portable Radio, which contains proprietary hardware and software components that are only available through Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Roseville Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": null,
+   "part": "REC ONLY EARPIECE W/ TRANSLUCET TUBE",
+   "part_numbers": [
+    "RLN4941A"
+   ],
+   "quantity": "57",
+   "price_usd": 3511.2,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola Solutions, Inc. is the manufacturer of the APX 8000 All Band Portable Radio, which contains proprietary hardware and software components that are only available through Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Roseville Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": null,
+   "part": "CHARGER, SINGLE-UNIT, IMPRES 2, 3A, 115VAC, US/NA",
+   "part_numbers": [
+    "NNTN8860B"
+   ],
+   "quantity": "57",
+   "price_usd": 8531.19,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola Solutions, Inc. is the manufacturer of the APX 8000 All Band Portable Radio, which contains proprietary hardware and software components that are only available through Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Roseville Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6111,
+  "out": 7012
+ },
+ "model": "claude-sonnet-5"
+}

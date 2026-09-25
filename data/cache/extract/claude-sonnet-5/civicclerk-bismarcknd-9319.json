@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Seagrave",
+   "model": null,
+   "part": "1926 Seagrave fire truck (original Bismarck Fire Department apparatus)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "a local resident purchased 1926 Seagrave fire truck from the City of Bismarck surplus auction in 1988. The owner of the fire truck offered to sell the vehicle to the City.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Bismarck Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5581,
+  "out": 891
+ },
+ "model": "claude-sonnet-5"
+}

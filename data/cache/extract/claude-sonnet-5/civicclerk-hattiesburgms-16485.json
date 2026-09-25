@@ -1,0 +1,50 @@
+{
+ "records": [
+  {
+   "manufacturer": "Applied Concepts Inc.",
+   "model": "Stalker DSR Radar System / Dual - 2 Antenna Radar System",
+   "part": "Dual - 2 Antenna Radar System (radar system with accessories) for police vehicles",
+   "part_numbers": [
+    "805-0022-00",
+    "200-0998-60",
+    "200-1571-00",
+    "200-1468-00",
+    "200-0920-00",
+    "200-0769-00",
+    "200-0770-00",
+    "200-0243-00",
+    "200-0244-00",
+    "200-0245-00",
+    "200-0648-00",
+    "155-2591-08",
+    "155-2591-20",
+    "200-0622-00",
+    "200-0820-00",
+    "006-0096-00",
+    "005-1468-00",
+    "035-0361-00",
+    "060-1000-36",
+    "006-0147-00"
+   ],
+   "quantity": "10",
+   "price_usd": 16990.0,
+   "lead_time": "45 working days",
+   "sole_source_vendor": "Applied Concepts Inc.",
+   "reason": "This is to confirm and verify that Applied Concepts, Inc., 855 E. Collins, Richardson, TX 75081 is the sole source manufacturer of the STALKER DSR Radar System. There is no other radar being manufactured that meets the specifications below",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Hattiesburg Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4647,
+  "out": 429
+ },
+ "model": "claude-sonnet-5"
+}

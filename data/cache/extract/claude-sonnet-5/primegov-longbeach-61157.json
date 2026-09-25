@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sensus USA",
+   "model": null,
+   "part": "Residential gas meters and Advanced Metering Infrastructure (AMI) equipment, including technical and commercial support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Tri-Pacific Supply, Inc.",
+   "reason": "This letter is to confirm that Tri-Pacific Supply is the sole source supplier for Sensus USA products for the City of Long Beach.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Long Beach natural gas distribution system",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ABB",
+   "model": "Global analytical software",
+   "part": "Analytical software used in natural gas SCADA system to monitor natural gas flow and pressures",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Tri-Pacific Supply, Inc.",
+   "reason": "This letter is to confirm that Tri-Pacific is the sole source provider for products for the City of Long Beach.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Long Beach natural gas distribution system",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Baker Hughes",
+   "model": "Becker Control Valves, Flexflo and Mooney Regulators",
+   "part": "Natural gas regulators used at natural gas regulator stations to maintain natural gas distribution system pressures",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Tri-Pacific, Inc.",
+   "reason": "Baker Hughes is pleased to share that Tri-Pacific, Inc. is the exclusive Authorized Distributor of Baker Hughes natural gas products including Becker Control Valves, Flexflo and Mooney Regulators for the state of California.",
+   "equipment_class": "valve",
+   "installed_location": "City of Long Beach natural gas distribution system",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kerotest Manufacturing Corporation",
+   "model": null,
+   "part": "Large insulators and insulated valves to prevent cathodic corrosion and prevent natural gas leaks",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Tri-Pacific Supply",
+   "reason": "This letter is to confirm that Tri-Pacific Supply is the exclusive agent sales representative for KEROTEST products in the state of California.",
+   "equipment_class": "valve",
+   "installed_location": "City of Long Beach natural gas distribution system",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Safeco Filter Products Inc.",
+   "model": "Philpott Product Line",
+   "part": "Commercial and industrial gas filters",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Tri-Pacific Supply",
+   "reason": "This letter is to confirm that Tri-Pacific Supply is the sole source supplier for Safeco Filter Products and Philpott Product Line for the City of Long Beach.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "City of Long Beach natural gas distribution system",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sensit Technologies",
+   "model": "Gold G2",
+   "part": "Natural gas detection instruments used to locate and monitor natural gas leaks in the field",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Tri-Pacific",
+   "reason": "This letter is to confirm that Sensit Technologies is the sole manufacturer of the Sensit Gold G2 gas detection instrument. The products are manufactured and serviced at our headquarters in Valparaiso, IN. They are not available from any other manufacturer.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Long Beach natural gas distribution system",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8270,
+  "out": 1397
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Phase 2 De-Energized Electrical Testing of medium voltage equipment, protective relay/trip unit verification",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 54351.0,
+   "lead_time": null,
+   "sole_source_vendor": "Transworld, Inc.",
+   "reason": "goods and or related services that justify a sole source procurement by the City pursuant to Section 1.16 of the City\u2019s Procurement Regulations",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Lake Murray Water Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7650,
+  "out": 469
+ },
+ "model": "claude-sonnet-5"
+}

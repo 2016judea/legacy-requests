@@ -1,0 +1,281 @@
+{
+ "records": [
+  {
+   "manufacturer": "Fotokite",
+   "model": "Sigma",
+   "part": "Transport Case Configuration - Fotokite Sigma, Transport Case, Wheeled, Blue, No Tablet, 120V, Fotokite Brand",
+   "part_numbers": [
+    "11903-021_X"
+   ],
+   "quantity": "1.00 Units",
+   "price_usd": 42395.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fotokite US LLC",
+   "reason": "The Fotokite Sigma is the only system on the market that provides this total actively tethered solution today.",
+   "equipment_class": "other equipment",
+   "installed_location": "Clovis Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Tablet Ready to Ship (US)",
+   "part_numbers": [
+    "12590-001_X (US)"
+   ],
+   "quantity": "1.00 Units",
+   "price_usd": 3140.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fotokite US LLC",
+   "reason": "The Fotokite Sigma is the only system on the market that provides this total actively tethered solution today.",
+   "equipment_class": "other equipment",
+   "installed_location": "Clovis Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Desktop Charging Cradle for Rugged Tablet",
+   "part_numbers": [
+    "12122-001"
+   ],
+   "quantity": "1.00 Units",
+   "price_usd": 1500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fotokite US LLC",
+   "reason": "The Fotokite Sigma is the only system on the market that provides this total actively tethered solution today.",
+   "equipment_class": "other equipment",
+   "installed_location": "Clovis Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fotokite",
+   "model": null,
+   "part": "Spare Propeller Kit (Full Set of 6 Propellers)",
+   "part_numbers": [
+    "50107-001_X"
+   ],
+   "quantity": "1.00 Units",
+   "price_usd": 66.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fotokite US LLC",
+   "reason": "The Fotokite Sigma is the only system on the market that provides this total actively tethered solution today.",
+   "equipment_class": "other equipment",
+   "installed_location": "Clovis Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fotokite",
+   "model": null,
+   "part": "Fotokite Remote Livestreaming with Remote Control Subscription (Customer Supplied SIM Card): 5 years",
+   "part_numbers": [
+    "20001-005"
+   ],
+   "quantity": "1.00 Units",
+   "price_usd": 13329.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fotokite US LLC",
+   "reason": "The Fotokite Sigma is the only system on the market that provides this total actively tethered solution today.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Clovis Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fotokite",
+   "model": null,
+   "part": "Fotokite Onsite Operator Training (half day)",
+   "part_numbers": [
+    "20000-006"
+   ],
+   "quantity": "1.00 Units",
+   "price_usd": 2541.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fotokite US LLC",
+   "reason": "The Fotokite Sigma is the only system on the market that provides this total actively tethered solution today.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Clovis Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fotokite",
+   "model": null,
+   "part": "Extended Warranty - Transport Case and Tray Mount: Year 2 - 5",
+   "part_numbers": [
+    "20000-008"
+   ],
+   "quantity": "1.00 Units",
+   "price_usd": 8859.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fotokite US LLC",
+   "reason": "The Fotokite Sigma is the only system on the market that provides this total actively tethered solution today.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Clovis Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Farber Company",
+   "model": null,
+   "part": "Mobile Command Vehicle (MCV)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 542608.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The MCV is custom built by the Farber Company on a 2 axel Freightliner Chassis that had an initial cost of $542,608 in 2006.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Clovis Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Motors",
+   "model": "4500 Utilimaster (custom built)",
+   "part": "Crisis Negotiation Team (CNT) Vehicle",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 149654.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "2007 General Motors 4500 Utilimaster (custom built) vehicle, cost: $149,654, quantity: 1",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Clovis Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "DJI",
+   "model": "MAVIC MINI",
+   "part": "Unmanned Aircraft System (UAS) - DJI MAVIC MINI",
+   "part_numbers": [],
+   "quantity": "20",
+   "price_usd": 500.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Miniature UAS that weighs approximately 249 grams and can record video and audio with approximately 30 minutes of flight time.",
+   "equipment_class": "other equipment",
+   "installed_location": "Clovis Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "DJI",
+   "model": "MAVIC 2 ENTERPRISE ADVANCED",
+   "part": "Unmanned Aircraft System (UAS) - DJI MAVIC 2 ENTERPRISE ADVANCED",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 7500.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "UAS that has a color and thermal camera as well as audible speaker and light.",
+   "equipment_class": "other equipment",
+   "installed_location": "Clovis Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "DJI",
+   "model": "MAVIC ENTERPRISE",
+   "part": "Unmanned Aircraft System (UAS) - DJI MAVIC ENTERPRISE",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 3500.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "UAS that has a color and thermal camera as well as audible speaker and light.",
+   "equipment_class": "other equipment",
+   "installed_location": "Clovis Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "DJI",
+   "model": "MAVIC PRO",
+   "part": "Unmanned Aircraft System (UAS) - DJI MAVIC PRO",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 1500.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "UAS that weighs approx. 1.5 pounds, 25-minute flight time and a single-color camera with recording capabilities.",
+   "equipment_class": "other equipment",
+   "installed_location": "Clovis Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "DJI",
+   "model": "PHANTOM 4",
+   "part": "Unmanned Aircraft System (UAS) - DJI PHANTOM 4",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 1600.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "UAS that weighs approx. 1380 grams, 28-minute fight time and a single-color camera with recording capabilities.",
+   "equipment_class": "other equipment",
+   "installed_location": "Clovis Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "DJI",
+   "model": "MATRICE 300 with HT20 camera",
+   "part": "Unmanned Aircraft System (UAS) - DJI MATRICE 300 with HT20 camera",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 25000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "UAS that has 45 minutes of flight time, in all weather, has an IR camera, zoom camera and light.",
+   "equipment_class": "other equipment",
+   "installed_location": "Clovis Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "DJI",
+   "model": "MATRICE 210 with Z30 camera",
+   "part": "Unmanned Aircraft System (UAS) - DJI MATRICE 210 with Z30 camera",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 10500.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "UAS that has 30 minutes of flight time without a payload, in all weather, has a zoom camera and light.",
+   "equipment_class": "other equipment",
+   "installed_location": "Clovis Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sky Hero",
+   "model": "LOKI 2",
+   "part": "Unmanned Aircraft System (UAS) - SKY HERO LOKI 2",
+   "part_numbers": [],
+   "quantity": "1 (package of 2)",
+   "price_usd": 10500.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Ruggedized interior tactical UAS that has 16 minutes of flight time.",
+   "equipment_class": "other equipment",
+   "installed_location": "Clovis Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Skydio",
+   "model": "SKYDIO 2",
+   "part": "Unmanned Aircraft System (UAS) - SKYDIO 2",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 1100.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "UAS that weighs approx. 775 grams, 27 minutes of flight time. It has a zoom camera and 360-degree accident avoidance.",
+   "equipment_class": "other equipment",
+   "installed_location": "Clovis Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10996,
+  "out": 11077
+ },
+ "model": "claude-sonnet-5"
+}

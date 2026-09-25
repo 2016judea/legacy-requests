@@ -1,0 +1,45 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vaughan",
+   "model": "SE10R",
+   "part": "Submersible Chopper Pump (stand-by pump for WWTP) - 75 HP 1170 RPM 460V XP Motor, 100' Power Cable, 10\" Ductile Iron Base Elbow, 10\" Guide Rail Bracket, (2) 10\" Intermediate Brackets, Top/Chain Bracket",
+   "part_numbers": [
+    "SE10R"
+   ],
+   "quantity": "1",
+   "price_usd": 71850.0,
+   "lead_time": "16 - 18 WEEKS",
+   "sole_source_vendor": "Rockwell Engineering & Equipment Co.",
+   "reason": "Investigation into the issue has revealed that the wetwell facility requires a unique pump characteristic available in pumps provided by Vaughn Pump Manufacturing/ Rockwell Engineering.",
+   "equipment_class": "pump",
+   "installed_location": "Wastewater Treatment Plant Headworks",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Internalift",
+   "part": "Headwork screw pumps (existing, 2 units, installed 2003) requiring stand-by redundancy",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The City Wastewater Treatment Facility utilizes (2) \"Internalift\" headwork pumps (screw pumps) to convey wastewater from the sanitary sewer gravity system into the treatment facility for further treatment.",
+   "equipment_class": "pump",
+   "installed_location": "WWTP Headworks",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5993,
+  "out": 557
+ },
+ "model": "claude-sonnet-5"
+}

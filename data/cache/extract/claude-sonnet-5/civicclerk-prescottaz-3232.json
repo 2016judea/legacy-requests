@@ -1,0 +1,105 @@
+{
+ "records": [
+  {
+   "manufacturer": "ADB Safegate",
+   "model": "ACE 3",
+   "part": "PRC ACE 3 Upgrade Equipment & Labor with Commissioning costs (Project Upgrade to be completed by PEG)",
+   "part_numbers": [],
+   "quantity": "1 EA",
+   "price_usd": 82917.32,
+   "lead_time": null,
+   "sole_source_vendor": "ADB Safegate Americas LLC",
+   "reason": "The ADB Safegate ALCMS and associated products you have installed at your airfield are exclusive to ADB Safegate and cannot or will not be interchangeable with parts from other manufacturers.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Prescott Regional Airport - Ernest A. Love Field",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ADB Safegate",
+   "model": "ACE2",
+   "part": "Discontinued ACE2 \u2013 Distributed Control and Monitoring Unit assemblies and kits being replaced by ACE3",
+   "part_numbers": [
+    "44A6507/xxxx",
+    "44A6508/xxxx",
+    "44A6505/xxxx",
+    "44A6602/xxxxxx",
+    "44A6893/x",
+    "44A6896",
+    "44A6901",
+    "94A0465/1",
+    "94A0465/2",
+    "94A0521/1",
+    "94A0521/2",
+    "94A0521/3",
+    "94A0521/31",
+    "94A0521/32",
+    "94A0521/42",
+    "94A0521/51",
+    "94A0521/52"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ADB Safegate Americas LLC",
+   "reason": "This notice is to inform you that ADB Safegate will discontinue the manufacturing of the ACE2 \u2013 Distributed Control and Monitoring Unit listed in the \u201cProduct Transition Table\u201d included in this notification.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Prescott Regional Airport - Ernest A. Love Field",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "ADB Safegate",
+   "model": "ACE II",
+   "part": "Spare parts for ACE II control and monitoring unit",
+   "part_numbers": [
+    "44A6377",
+    "44A6494",
+    "44A6506",
+    "56A0583/1100",
+    "56A0513/2100",
+    "44A7078",
+    "44A4802",
+    "44A4802/1",
+    "44A4802/2",
+    "38A0184"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ADB Safegate Americas LLC",
+   "reason": "Spare parts will no longer be available for warranty or non-warranty support, and technical support will be limited to fee-based repair work.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Prescott Regional Airport - Ernest A. Love Field",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "ADB Safegate",
+   "model": null,
+   "part": "Maintaining ADB Safegate Airfield Lighting and Control & Monitoring System (ALCMS) and associated products including Constant Current Regulators, CCR Monitoring equipment, and associated computers with hardware and proprietary software",
+   "part_numbers": [
+    "L-828",
+    "L-829",
+    "L-827",
+    "L-890"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ADB Safegate Americas LLC",
+   "reason": "The ADB Safegate ALCMS and associated products you have installed at your airfield are exclusive to ADB Safegate and cannot or will not be interchangeable with parts from other manufacturers.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Prescott Regional Airport - Ernest A. Love Field",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10245,
+  "out": 3646
+ },
+ "model": "claude-sonnet-5"
+}

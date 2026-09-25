@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "OEM Ford & Motorcraft parts, fluids, accessories, and related supplies for County fleet vehicle maintenance/repair",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 14431.8,
+   "lead_time": "forty-eight hours (48) hours after being ordered",
+   "sole_source_vendor": "Tamiami Ford Inc",
+   "reason": "Award have been established based on the lowest total bid. Staff recommend contracts to be awarded to Tamiami Ford Inc.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 13406,
+  "out": 1481
+ },
+ "model": "claude-sonnet-5"
+}

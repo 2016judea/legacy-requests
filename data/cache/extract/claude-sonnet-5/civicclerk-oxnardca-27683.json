@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "On-call generator maintenance and minor repair services (First Amendment increasing not-to-exceed amount) for cogenerators and plant power backup generators at the WRRF",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 495000,
+   "lead_time": null,
+   "sole_source_vendor": "Collicutt Energy Services, Inc.",
+   "reason": "the City received a sole response from Collicutt",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Water Resource Recovery Facility (WRRF), 6001 Perkins Road, Oxnard, California",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5522,
+  "out": 834
+ },
+ "model": "claude-sonnet-5"
+}

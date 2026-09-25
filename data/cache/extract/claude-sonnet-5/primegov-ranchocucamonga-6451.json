@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": "E-Transit",
+   "part": "Seven (7) Ford E-Transit Vans",
+   "part_numbers": [],
+   "quantity": "7",
+   "price_usd": 403596.56,
+   "lead_time": null,
+   "sole_source_vendor": "Sunrise Ford of Fontana, California",
+   "reason": "This purchase follows the City's initial attempt to procure the vehicles through the Sourcewell contract with National Auto Fleet Group, which was unable to fulfill the order.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5515,
+  "out": 207
+ },
+ "model": "claude-sonnet-5"
+}

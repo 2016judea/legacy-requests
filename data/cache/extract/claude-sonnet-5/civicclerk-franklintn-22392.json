@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "JWC Environmental",
+   "model": "Channel Monster",
+   "part": "Replacement Channel Monster for Water Reclaim Facility",
+   "part_numbers": [],
+   "quantity": "1 ea.",
+   "price_usd": 62930.0,
+   "lead_time": null,
+   "sole_source_vendor": "BAR Environmental Inc.",
+   "reason": "JWC Environmental is the sole manufacturer of these products and the exclusive source for service parts for this equipment.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Water Reclaim Facility",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7167,
+  "out": 221
+ },
+ "model": "claude-sonnet-5"
+}

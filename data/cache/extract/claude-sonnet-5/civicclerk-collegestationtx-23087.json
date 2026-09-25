@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rockwell Automation",
+   "model": null,
+   "part": "Rockwell Automation Products and Services (SCADA infrastructure products and services)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 250000.0,
+   "lead_time": null,
+   "sole_source_vendor": "D. Reynolds Company, LLC dba The Reynolds Company",
+   "reason": "Rockwell's specified distributor for this region, therefore has be classified as sole source.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7659,
+  "out": 198
+ },
+ "model": "claude-sonnet-5"
+}
