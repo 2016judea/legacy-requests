@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Gooch Thermal Systems Inc.",
+   "model": "1000K",
+   "part": "Replacement Heat Exchanger for Wastewater Treatment Plant (Spiral Heat Exchanger for digester sludge heating service)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 67157.0,
+   "lead_time": "22-24 weeks after material receipt",
+   "sole_source_vendor": "Gooch Thermal Systems Inc.",
+   "reason": "The only direct replacement option for the heat exchanger is the Gooch model 1000K by Gooch Thermal Systems Inc, which is the current heat exchanger model.",
+   "equipment_class": "other equipment",
+   "installed_location": "Wastewater Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5007,
+  "out": 275
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,95 @@
+{
+ "records": [
+  {
+   "manufacturer": "OHD, LLLP",
+   "model": "QuantiFit2",
+   "part": "QuantiFit2 Respirator Fit Testing System with Bluetooth, includes Logic Software, Roller Case, Triple Tube Assembly, USB Cable, Power Supply, Shell for Battery Compartment and Lifetime Powertrain Warranty",
+   "part_numbers": [
+    "FTK 9519-4200"
+   ],
+   "quantity": "1",
+   "price_usd": 10200.0,
+   "lead_time": null,
+   "sole_source_vendor": "OHD, LLLP",
+   "reason": "This device is manufactured and sold only through the manufacturer.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Sault Ste. Marie Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Scott",
+   "model": "AV 2000/3000 CBRN",
+   "part": "Scott AV 2000/3000 CBRN adapter kit",
+   "part_numbers": [
+    "FTK 200423-01"
+   ],
+   "quantity": "1",
+   "price_usd": 175.0,
+   "lead_time": null,
+   "sole_source_vendor": "OHD, LLLP",
+   "reason": "This device is manufactured and sold only through the manufacturer.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Sault Ste. Marie Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MSA",
+   "model": "G1 Facepiece",
+   "part": "G1 Facepiece 40 MM Adapter Assy MSA",
+   "part_numbers": [
+    "FTK 10144231 SP"
+   ],
+   "quantity": "1",
+   "price_usd": 275.0,
+   "lead_time": null,
+   "sole_source_vendor": "OHD, LLLP",
+   "reason": "This device is manufactured and sold only through the manufacturer.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Sault Ste. Marie Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "3M",
+   "model": "Dual Twist Lock",
+   "part": "Kit 15F 3M Dual Twist Lock - Pure Integrated Valve Prop Adapter",
+   "part_numbers": [
+    "FTK 9513-0129 F"
+   ],
+   "quantity": "1",
+   "price_usd": 385.0,
+   "lead_time": null,
+   "sole_source_vendor": "OHD, LLLP",
+   "reason": "This device is manufactured and sold only through the manufacturer.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Sault Ste. Marie Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Kit 1 40 MM DIN Single Screw In adapter",
+   "part_numbers": [
+    "FTK 9513-0130"
+   ],
+   "quantity": "1",
+   "price_usd": 385.0,
+   "lead_time": null,
+   "sole_source_vendor": "OHD, LLLP",
+   "reason": "This device is manufactured and sold only through the manufacturer.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Sault Ste. Marie Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18265,
+  "out": 1574
+ },
+ "model": "claude-sonnet-5"
+}

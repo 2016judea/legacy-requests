@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Custodial Services for Group 1 and Group 2 facilities (Annual Price Agreement for Custodial Services, RFP No. 25-008)",
+   "part_numbers": [],
+   "quantity": "9 properties, 2 groups, 2-year term",
+   "price_usd": 436798,
+   "lead_time": null,
+   "sole_source_vendor": "Crystal Clear Cleaning, LLC",
+   "reason": "Staff recommends the City Council award this proposed two-year contract to Crystal Clear Cleaning, LLC for Group 1 and Group 2 only in the amount of $436,798",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Bryan Justice Center, Fire Stations No. 1 and No. 2 Administration, Municipal Office Building, BTU Administration Building, Municipal Service Center complex, Parks and Facilities Services office, Clara B Mounce Library, Neal Recreation Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 50541,
+  "out": 341
+ },
+ "model": "claude-sonnet-5"
+}

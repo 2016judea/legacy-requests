@@ -1,0 +1,48 @@
+{
+ "records": [
+  {
+   "manufacturer": "SolaCom Technologies Inc.",
+   "model": "Guardian Call Taker Position",
+   "part": "Purchase of two additional emergency call answering (911 dispatch) positions and associated software, installation, and maintenance services",
+   "part_numbers": [
+    "S-UpgradePos-v4",
+    "P-STD POS-5YS+",
+    "SL-GUARDPOSLIC",
+    "P-IRR",
+    "SL-MIS G/C_POS_GEO",
+    "P-PAC II",
+    "P-KYPADU6",
+    "P-PP24Key",
+    "SL-GuardSMS-POS-1Y",
+    "S-Installation-v4",
+    "SV-InstDaily",
+    "SV-T&LSubD",
+    "S-Managed Services-v2",
+    "SV-ARM_Guardian-1Y",
+    "S-MAINTENANCE-V3",
+    "MT-SSGUARD-01",
+    "MT-Warranty",
+    "ShippingFee"
+   ],
+   "quantity": "2",
+   "price_usd": 42089.0,
+   "lead_time": null,
+   "sole_source_vendor": "Solacom",
+   "reason": "the City has determined that Solacom, a wholly owned subsidiary of Comtech Telecommunications Corp, of Downers Grove, IL (\"Vendor\") is the sole provider of Positions and Services that satisfy the City's specifications",
+   "equipment_class": "communications/radio",
+   "installed_location": "Dispatch Center (Waukegan Police Department Headquarters, to be relocated)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9286,
+  "out": 758
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,555 @@
+{
+ "records": [
+  {
+   "manufacturer": "Planar",
+   "model": "MGP 136",
+   "part": "136\" Direct View LED Video Wall, 1.5mm pixel pitch",
+   "part_numbers": [
+    "MGP 136 COMPLETE"
+   ],
+   "quantity": "2.00",
+   "price_usd": 83491.26,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Crestron",
+   "model": "DM-NVX-360",
+   "part": "DM NVX 4K60 4:4:4 HDR Network AV Encoder/Decoder",
+   "part_numbers": [
+    "DM-NVX-360"
+   ],
+   "quantity": "18.00",
+   "price_usd": 25627.5,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Crestron",
+   "model": "TSW-570P-B-S",
+   "part": "5 in. Wall Mount Touch Screen, Portrait, Black",
+   "part_numbers": [
+    "TSW-570P-B-S"
+   ],
+   "quantity": "10.00",
+   "price_usd": 7562.5,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Crestron",
+   "model": "TSS-1060",
+   "part": "Crestron TSS-1060 (Request to Speak) - owner furnished equipment",
+   "part_numbers": [
+    "OFE"
+   ],
+   "quantity": "1.00",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Crestron",
+   "model": "CBL-8K-HD-6",
+   "part": "Certified HDMI 2.1 Cable, 48 Gbps, 6 ft (1.8 m)",
+   "part_numbers": [
+    "CBL-8K-HD-6"
+   ],
+   "quantity": "36.00",
+   "price_usd": 1125.0,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Crestron",
+   "model": "DM-DGE-200-C",
+   "part": "Digital Graphics Engine 200 with 4K DM 8G+ Input",
+   "part_numbers": [
+    "DM-DGE-200-C"
+   ],
+   "quantity": "1.00",
+   "price_usd": 2200.0,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Crestron",
+   "model": "CP4N",
+   "part": "4-Series Control System",
+   "part_numbers": [
+    "CP4N"
+   ],
+   "quantity": "1.00",
+   "price_usd": 1925.0,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Crestron",
+   "model": "1 Beyond IV-CAM-I20-B",
+   "part": "1 Beyond 120 Intelligent PTZ Camera, 20x Optical Zoom, Moon Gray",
+   "part_numbers": [
+    "IV-CAM-I20-B"
+   ],
+   "quantity": "4.00",
+   "price_usd": 22588.24,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Crestron",
+   "model": "IV-SAM-VX2-S",
+   "part": "Automate VX Systems Series 2 Voice-Activated Multi-Camera Switching Solution",
+   "part_numbers": [
+    "IV-SAM-VX2-S"
+   ],
+   "quantity": "1.00",
+   "price_usd": 7524.71,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Crestron",
+   "model": "1 Beyond IV-PROSERVICE-1B",
+   "part": "1 Beyond Camera System Remote Professional Services",
+   "part_numbers": [
+    "IV-PROSERVICE-1B"
+   ],
+   "quantity": "1.00",
+   "price_usd": 2352.94,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Crestron",
+   "model": "UC-CX100-Z",
+   "part": "Crestron Flex Advanced Video Conference System Integrator Kit with Asus Mini PC for Zoom Rooms",
+   "part_numbers": [
+    "UC-CX100-Z"
+   ],
+   "quantity": "1.00",
+   "price_usd": 3883.53,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Crestron",
+   "model": "AM3-111 KIT",
+   "part": "AirMedia Series 3 Kit with AM-3100-WF Receiver and AM-TX3-100 Adaptor",
+   "part_numbers": [
+    "AM3-111 KIT"
+   ],
+   "quantity": "1.00",
+   "price_usd": 1531.25,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Crestron",
+   "model": "GLA-UPS",
+   "part": "GreenLight Uninterruptible Power Supply",
+   "part_numbers": [
+    "GLA-UPS"
+   ],
+   "quantity": "1.00",
+   "price_usd": 687.5,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Netgear",
+   "model": "M4350-48G4XF",
+   "part": "Fully Managed Switch 48x1G PoE+ (236W base, up to 1,440W) and 4xSFP+ Managed Switch",
+   "part_numbers": [
+    "GSM4352"
+   ],
+   "quantity": "2.00",
+   "price_usd": 6604.4,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Biamp Systems",
+   "model": "Server 10 AVB",
+   "part": "Server 10 AVB - Configurable I/O DSP with up to 48 channels of I/O, 1 DSP-2 Card (2 additional DSP-2)",
+   "part_numbers": [
+    "911.0301.900"
+   ],
+   "quantity": "1.00",
+   "price_usd": 5568.75,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Biamp Systems",
+   "model": "SOC-4",
+   "part": "Tesira 4 Channel Mic/Line Output Card",
+   "part_numbers": [
+    "901.0303.900"
+   ],
+   "quantity": "5.00",
+   "price_usd": 1243.75,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Biamp Systems",
+   "model": "SEC-4",
+   "part": "Tesira 4 Channel Mic/Line Input Card with Acoustic Echo Cancellation Per Channel",
+   "part_numbers": [
+    "901.0304.900"
+   ],
+   "quantity": "6.00",
+   "price_usd": 3390.0,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Biamp Systems",
+   "model": "DAN-1-TESIRA",
+   "part": "64x64 Dante Module for use in Server or Server-IO Chassis",
+   "part_numbers": [
+    "901.0406.900"
+   ],
+   "quantity": "1.00",
+   "price_usd": 1135.0,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Biamp Systems",
+   "model": "EX-LOGIC",
+   "part": "Tesira PoE Logic Expander with 16 Logic GPIO (4 GPIO configurable for potentiometer)",
+   "part_numbers": [
+    "911.0315.900"
+   ],
+   "quantity": "2.00",
+   "price_usd": 965.0,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Biamp Systems",
+   "model": "EX-AEC",
+   "part": "Tesira 4 Channel Mic/Line Input Expander with AEC and PoE+",
+   "part_numbers": [
+    "911.0341.900"
+   ],
+   "quantity": "2.00",
+   "price_usd": 2750.0,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Biamp Systems",
+   "model": "VOLTERA D 1200.8",
+   "part": "8-Channel Amplified Loudspeaker Controller, 1,200 Watts Total Power",
+   "part_numbers": [
+    "911.1956.900"
+   ],
+   "quantity": "1.00",
+   "price_usd": 3125.0,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Biamp Systems / Netgear",
+   "model": "NMS-NG26GPX-AVB",
+   "part": "Biamp NMS-NG26GPX-AVB Netgear AVB-enabled 26-port, 1G Switch, 24-ports w/ PoE+, 480W",
+   "part_numbers": [
+    "911.1976.900"
+   ],
+   "quantity": "1.00",
+   "price_usd": 2437.5,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Biamp Systems",
+   "model": "CM60DTD",
+   "part": "6.5\" Two-Way Thin Edge Design Ceiling Speaker 100-70 Volt/60 Watts, 16 Ohms/120 Watts, White",
+   "part_numbers": [
+    "CM60DTD"
+   ],
+   "quantity": "12.00",
+   "price_usd": 1650.0,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cisco",
+   "model": "SFP-25G-SR-S=",
+   "part": "25GBASE-SR SFP Module",
+   "part_numbers": [
+    "SFP-25G-SR-S="
+   ],
+   "quantity": "2.00",
+   "price_usd": 1167.1,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Shure",
+   "model": "MXW2/BETA58",
+   "part": "Handheld Transmitter with Beta58 Microphone (includes SB902 battery)",
+   "part_numbers": [
+    "MXW2/BETA58=-Z10"
+   ],
+   "quantity": "2.00",
+   "price_usd": 1142.38,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Shure",
+   "model": "MXW1/O",
+   "part": "Bodypack Transmitter with Integrated Omnidirectional Microphone and 4-Pin Mini Connector (TA4M)",
+   "part_numbers": [
+    "MXW1/O=-Z10"
+   ],
+   "quantity": "2.00",
+   "price_usd": 1037.88,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Shure",
+   "model": "MX184",
+   "part": "Supercardioid Lavalier Microphone",
+   "part_numbers": [
+    "MX184"
+   ],
+   "quantity": "2.00",
+   "price_usd": 408.5,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Shure",
+   "model": "MXWAPT8",
+   "part": "8-Channel Access Point Transceiver",
+   "part_numbers": [
+    "MXWAPT8=-Z10"
+   ],
+   "quantity": "1.00",
+   "price_usd": 3167.06,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Shure",
+   "model": "MXWNCS8",
+   "part": "8-Channel Networked Charging Station",
+   "part_numbers": [
+    "MXWNCS8"
+   ],
+   "quantity": "1.00",
+   "price_usd": 1650.63,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Shure",
+   "model": "MX418D/C",
+   "part": "Cardioid 18\" Desktop Gooseneck Condenser Microphone, attached 10' XLR cable, logic functions, programmable",
+   "part_numbers": [
+    "MX418D/C"
+   ],
+   "quantity": "12.00",
+   "price_usd": 3405.72,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Decimator Design",
+   "model": "12G-CROSS",
+   "part": "4K Ultra HD Cross Converter with Scaling and Frame Rate Conversion",
+   "part_numbers": [
+    "12G-CROSS"
+   ],
+   "quantity": "1.00",
+   "price_usd": 568.98,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "TelVue",
+   "model": "HyperCaster",
+   "part": "HyperCaster Integrated Bulletin Board Channel License, adds ability to mix images, program guide slides",
+   "part_numbers": [
+    "HYPERCASTERBB"
+   ],
+   "quantity": "1.00",
+   "price_usd": 995.0,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "TelVue HyperCaster Bulleting Board license will be added to the existing HyperCaster to add ability to mix images and videos with background audio.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Cabling, connectors, fasteners, rack, rack hardware, small project contingency",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 3468.0,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "The current system is outdated, with components that are failing, out of warranty, and no longer supported by manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Data Projections, Inc.",
+   "model": null,
+   "part": "3-Year Gold Service and Maintenance Agreement including four annual preventative maintenance visits and 8-hour SLA support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 23636.36,
+   "lead_time": null,
+   "sole_source_vendor": "Data Projections, Inc.",
+   "reason": "Our Gold Service and Maintenance Agreement minimize risk by performing four annual preventative maintenance on your technology solutions to proactively identify potential issues that can lead to future service disruptions.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Council Chamber, 300 South Texas Ave, Bryan, TX 77803",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14761,
+  "out": 10009
+ },
+ "model": "claude-sonnet-5"
+}

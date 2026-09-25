@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Volvo/Mack",
+   "model": null,
+   "part": "Proprietary parts to maintain and repair the city's fleet of Mack/Volvo trucks and equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 750000,
+   "lead_time": null,
+   "sole_source_vendor": "Transource, Inc.",
+   "reason": "Mack/Volvo manufactured parts are required to maintain the manufacturer provided warranties that are included with the purchase of each asset.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Raleigh Water, Transportation Services, and Engineering Services",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3601,
+  "out": 227
+ },
+ "model": "claude-sonnet-5"
+}

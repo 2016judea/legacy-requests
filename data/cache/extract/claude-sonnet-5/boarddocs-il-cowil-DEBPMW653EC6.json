@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "CM Labs",
+   "model": "Vortex Advantage",
+   "part": "5 Display Vortex Advantage Solution Simulator (heavy equipment training simulator) with multiple equipment training packs and Intellia software",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 219785.74,
+   "lead_time": "8-12 weeks",
+   "sole_source_vendor": "CM Labs",
+   "reason": "After research, this is the only company that could be located that makes a simulator for training for heavy equipment and larger vehicles.",
+   "equipment_class": "other equipment",
+   "installed_location": "Public Works and Water Department, Waukegan, IL",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 6,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 26546,
+  "out": 231
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement Outage Management System (OMS) - hardware/software platform for monitoring electric outages, SaaS and managed services",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 5109441.0,
+   "lead_time": null,
+   "sole_source_vendor": "TRC Engineers, Inc.",
+   "reason": "the review committee recommends TRC Engineers, Inc. as the most responsive and qualified vendor.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Electric & Gas Utility, City of Tallahassee",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Schneider Electric",
+   "model": null,
+   "part": "Current Outage Management System (OMS), purchased 2015 via Smart Grid Improvement Grant, approaching end of life",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Schneider Electric, the current OMS vendor, notified the City that support for the existing OMS platform will end on January 1, 2027.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Electric & Gas Utility, City of Tallahassee",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4857,
+  "out": 1058
+ },
+ "model": "claude-sonnet-5"
+}

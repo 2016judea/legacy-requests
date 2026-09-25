@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Storage tanks at Grease Plant (replacement of end-of-life tanks)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Teal Services, L.L.C.",
+   "reason": "The bid submitted by Teal Services represents the only bid received for this project.",
+   "equipment_class": "other equipment",
+   "installed_location": "Still Creek Liquid Waste Processing Facility (Grease Plant)",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Pumps at Grease Plant (replacement of end-of-life pumps)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Teal Services, L.L.C.",
+   "reason": "The bid submitted by Teal Services represents the only bid received for this project.",
+   "equipment_class": "pump",
+   "installed_location": "Still Creek Liquid Waste Processing Facility (Grease Plant)",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Piping at Grease Plant (replacement of end-of-life piping)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Teal Services, L.L.C.",
+   "reason": "The bid submitted by Teal Services represents the only bid received for this project.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Still Creek Liquid Waste Processing Facility (Grease Plant)",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Recirculation system for blending stored contents at Grease Plant",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Teal Services, L.L.C.",
+   "reason": "The bid submitted by Teal Services represents the only bid received for this project.",
+   "equipment_class": "other equipment",
+   "installed_location": "Still Creek Liquid Waste Processing Facility (Grease Plant)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Mechanical press and conveyor for sludge dewatering (replacing gravity filter boxes)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Teal Services, L.L.C.",
+   "reason": "The bid submitted by Teal Services represents the only bid received for this project.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Still Creek Liquid Waste Processing Facility (Grease Plant)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Digester blower pad installation as part of digester conversion to aerobic system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Teal Services, L.L.C.",
+   "reason": "The bid submitted by Teal Services represents the only bid received for this project.",
+   "equipment_class": "other equipment",
+   "installed_location": "Still Creek Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "New motor control center for converted digester blower system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Teal Services, L.L.C.",
+   "reason": "The bid submitted by Teal Services represents the only bid received for this project.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Still Creek Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Multi-rake bar screen replacing existing single rake bar screen",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Teal Services, L.L.C.",
+   "reason": "The bid submitted by Teal Services represents the only bid received for this project.",
+   "equipment_class": "other equipment",
+   "installed_location": "Still Creek Wastewater Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 1
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4325,
+  "out": 2674
+ },
+ "model": "claude-sonnet-5"
+}

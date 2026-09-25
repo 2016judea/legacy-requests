@@ -1,0 +1,111 @@
+{
+ "records": [
+  {
+   "manufacturer": "Alfa Laval",
+   "model": "Klampress Type 85 Size 3 (2.0 meter)",
+   "part": "Factory reconditioning of belt filter press (rollers, bearings, drive motor, hydraulic tensioning, washboxes, electrical components, etc.)",
+   "part_numbers": [
+    "070723B-MA Rev. 2"
+   ],
+   "quantity": "1",
+   "price_usd": 263511.0,
+   "lead_time": "18-20 weeks from approved PO",
+   "sole_source_vendor": "Alfa Laval, Inc.",
+   "reason": "Alfa Laval serves as the original equipment manufacturer for both filter presses and omits the necessity for competitive bidding for this service.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Burton Creek WWTP",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Alfa Laval",
+   "model": "Klampress Type 85 Size 3 (2.0 meter)",
+   "part": "Factory reconditioning of belt filter press (rollers, bearings, drive motor, hydraulic tensioning, washboxes, electrical components, etc.)",
+   "part_numbers": [
+    "070723A-MA Rev. 2"
+   ],
+   "quantity": "1",
+   "price_usd": 258860.0,
+   "lead_time": "18-20 weeks from approved PO",
+   "sole_source_vendor": "Alfa Laval, Inc.",
+   "reason": "Many of the parts used in this project are proprietary and only available from Alfa Laval.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Still Creek WWTP",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Chromalox",
+   "model": "6040",
+   "part": "New controllers to replace obsolete Red Lion controllers in control panel",
+   "part_numbers": [
+    "6040"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Alfa Laval, Inc.",
+   "reason": "Chromalox 6040 controllers to replace obsolete Red Lion controllers in control panel.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Burton Creek WWTP",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Chromalox",
+   "model": "6040",
+   "part": "New controllers to replace obsolete Red Lion controllers in control panel",
+   "part_numbers": [
+    "6040"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Alfa Laval, Inc.",
+   "reason": "Chromalox 6040 controllers to replace obsolete Red Lion controllers in control panel.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Still Creek WWTP",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Eurodrive",
+   "model": "K87",
+   "part": "New platform mount 3HP AC drive unit with built-in VFD",
+   "part_numbers": [
+    "K87"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Alfa Laval, Inc.",
+   "reason": "New platform mount 3HP AC drive unit (Eurodrive K87) with built-in VFD.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Burton Creek WWTP",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Eurodrive",
+   "model": "K87",
+   "part": "New platform mount 3HP AC drive unit with built-in VFD",
+   "part_numbers": [
+    "K87"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Alfa Laval, Inc.",
+   "reason": "New platform mount 3HP AC drive unit (Eurodrive K87) with built-in VFD.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Still Creek WWTP",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 29140,
+  "out": 1996
+ },
+ "model": "claude-sonnet-5"
+}

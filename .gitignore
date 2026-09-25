@@ -15,3 +15,4 @@ data/cache/pdf/*.pages.json
 data/cache/civicclerk/
 data/cache/primegov/
 data/ingest_*.log
+data/cache/boarddocs/

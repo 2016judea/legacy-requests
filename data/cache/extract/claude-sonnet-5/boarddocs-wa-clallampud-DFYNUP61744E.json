@@ -1,0 +1,201 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Grid-tied Battery Energy Storage System (BESS) with microgrid control, 200kWh battery storage system",
+   "part_numbers": [],
+   "quantity": "1 LS",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The microgrid control system shall include the capability of interfacing to the PUD SCADA system and existing photovoltaic system at the site to allow extended run-time in islanding mode.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "150 North Govan Avenue, Sequim, WA 98382",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bard",
+   "model": "W36HF",
+   "part": "Wall mounted heat pump packaged unit for BESS building",
+   "part_numbers": [
+    "W36HF"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "HP-1 BARD W36HF STORAGE 11 3 37.9 26.9 100% 1500 1/2 500 16.7A 230 1 MFR EC",
+   "equipment_class": "HVAC",
+   "installed_location": "150 North Govan Avenue, Sequim, WA 98382",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "FW-5050-DN",
+   "part": "Fire rated insulated access door for downward opening ceiling access to attic space",
+   "part_numbers": [
+    "FW-5050-DN"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Manufacturers: Acudor, Bilco, J. L. Industries; Karp Associates; Milcor; or approved equal.",
+   "equipment_class": "other equipment",
+   "installed_location": "150 North Govan Avenue, Sequim, WA 98382",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Polyguard",
+   "model": null,
+   "part": "6 Mil polyethylene vapor barrier under prefabricated building and over existing slab",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Manufactured product should be Polyguard or equal.",
+   "equipment_class": "other equipment",
+   "installed_location": "150 North Govan Avenue, Sequim, WA 98382",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Pacific Mobile Structures",
+   "model": null,
+   "part": "Custom designed prefabricated factory built BESS building",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Basis of Design: Custom Designed Prefabricated Factory Built Buildings supplied by Pacific Mobile Structures.",
+   "equipment_class": "other equipment",
+   "installed_location": "150 North Govan Avenue, Sequim, WA 98382",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "24kW propane-fueled backup generator",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "24KW PROPANE GENERATOR 120/240V",
+   "equipment_class": "generator",
+   "installed_location": "Sequim Substation, 104 Hooker Rd, Sequim, WA 98382",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Existing 50kVA padmount single-phase service transformer used for BESS interconnection",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "EXISTING 50KVA, PADMOUNT, SINGLE PHASE TRANS",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Sequim Substation, 104 Hooker Rd, Sequim, WA 98382",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ASC",
+   "model": "DesignSpan",
+   "part": "24 gauge standing seam metal roofing for BESS building",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "24 gauge standing seam metal roofing, ASC DesignSpan or equal, 12\" rib spacing.",
+   "equipment_class": "other equipment",
+   "installed_location": "150 North Govan Avenue, Sequim, WA 98382",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Steelcraft",
+   "model": "DW series",
+   "part": "Full depth hollow metal door frame for BESS building exterior door",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Full depth hollow metal frame to cover drywall edges and exterior sheathing. Steelcraft DW series, or equal, 14 gauge.",
+   "equipment_class": "other equipment",
+   "installed_location": "150 North Govan Avenue, Sequim, WA 98382",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Steelcraft",
+   "model": "L series",
+   "part": "Insulated metal exterior door for BESS building",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Insulated metal door, Steelcraft L series or equal, 16 gauge.",
+   "equipment_class": "other equipment",
+   "installed_location": "150 North Govan Avenue, Sequim, WA 98382",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Addressable clean agent fire suppression system (total-flood) for BESS enclosure",
+   "part_numbers": [],
+   "quantity": "1 LS",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BASE BID: TOTAL-FLOOD CLEAN AGENT SUPPRESSION SYSTEM",
+   "equipment_class": "other equipment",
+   "installed_location": "150 North Govan Avenue, Sequim, WA 98382",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Double-interlock pre-action sprinkler system riser as backup to clean agent system (Alternate Bid Item No. 1)",
+   "part_numbers": [],
+   "quantity": "1 LS",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "ALTERNATE #1: SINGLE-INTERLOCK PREACTION SYSTEM AS BACKUP TO THE BASE BID CLEAN AGENT SYSTEM.",
+   "equipment_class": "other equipment",
+   "installed_location": "150 North Govan Avenue, Sequim, WA 98382",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "6-strand single-mode fiber optic cable and Light Interface Unit (LIU) patch panels for telecom riser connecting BESS building to existing comms hut",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "PROVIDE 6-STRAND SINGLE-MODE FIBER FROM THE EXISTING COMMUNICATIONS HUT TO THE NEW TELECOM RACK. TERMINATE WITH LC STYLE CONNECTORS ON EACH END.",
+   "equipment_class": "communications/radio",
+   "installed_location": "150 North Govan Avenue, Sequim, WA 98382",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 70972,
+  "out": 4945
+ },
+ "model": "claude-sonnet-5"
+}

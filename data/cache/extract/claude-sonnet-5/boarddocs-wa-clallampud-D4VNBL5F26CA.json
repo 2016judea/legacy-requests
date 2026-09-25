@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "One (1) 3-phase, 12/16/20 MVA Power Transformer without load tap changer",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 517000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This purchase is for replacement of the Old Beaver Camp Substation 50-year-old transformer, the last PCB substation transformer in the District.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Old Beaver Camp Substation",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6903,
+  "out": 208
+ },
+ "model": "claude-sonnet-5"
+}

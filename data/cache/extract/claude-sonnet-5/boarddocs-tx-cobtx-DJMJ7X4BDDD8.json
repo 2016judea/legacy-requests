@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Otis",
+   "model": null,
+   "part": "Modernization of hydraulic passenger elevator system (new controller, car door, car fixtures, pit equipment, jacks, hydraulic power unit, and all hoist way equipment)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 119882.37,
+   "lead_time": "5 day turnaround for project completion versus the industry standard estimate of four (4) to six (6) weeks",
+   "sole_source_vendor": "TK Elevator Corporation",
+   "reason": "TK is a current service provider with Omnia Partners where contracts are competitively solicited and publicly awarded, which allows the City of Bryan to utilize pre-established contract prices.",
+   "equipment_class": "other equipment",
+   "installed_location": "Phillips Event Center",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 1
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3303,
+  "out": 279
+ },
+ "model": "claude-sonnet-5"
+}

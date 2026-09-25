@@ -1,0 +1,271 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "TR-421",
+   "part": "One (1) 138/12.47kV 20/26/37.3 MVA transformer (TR-421)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "A new 138/12.47kV, 37.3 MVA distribution transformer and one 15kV feeder A-frame structure with four 15kV feeder breaker bays and one maintenance breaker bay will be added to the station.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Millican Switch Substation, 21484-22098 Kathy Fleming Rd, Millican, TX 77866",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Existing 69/12.47kV power transformer to be permanently removed",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The existing Millican Substation was constructed to REC standards and has surpassed its expected service life, rendering it obsolete.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Millican Substation, 22148 FM 159, Navasota, TX 77868",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Three (3) 138kV Combined Instrument Transformers",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Three (3) 138kV Combined Instrument Transformers",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Millican Switch Substation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Four (4) 15kV 1200A Feeder Breakers",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Four (4) 15kV 1200A Feeder Breakers",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Millican Switch Substation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "One (1) 15kV 2000A bus tie breaker",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "One (1) 15kV 2000A bus tie breaker",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Millican Switch Substation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "One (1) 15kV 1200A Maintenance Breaker",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "One (1) 15kV 1200A Maintenance Breakers",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Millican Switch Substation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Three (3) 15kV Single Phase Potential Transformers",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Three (3) 15kV Single Phase Potential Transformers",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Millican Switch Substation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "SEL-3350",
+   "part": "Replace existing RTAC with new SEL-3350",
+   "part_numbers": [
+    "3350#6AQ4"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Replace existing RTAC with new SEL-3350 (P/N 3350#6AQ4)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Millican Switch Substation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "SEL-2440",
+   "part": "Add new SEL-2440 (if needed)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Add new SEL-2440 (if needed)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Millican Switch Substation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "SEL-487E",
+   "part": "Transformer Panel TR-421 relay - SEL-487E",
+   "part_numbers": [
+    "SEL-487E"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The design will include creating relay protection settings for the Millican Switch design scope using BTU provided templates and standards.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Millican Switch Substation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "SEL-387",
+   "part": "Transformer Panel TR-421 relay - SEL-387",
+   "part_numbers": [
+    "SEL-387"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The design will include creating relay protection settings for the Millican Switch design scope using BTU provided templates and standards.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Millican Switch Substation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "SEL-2100B",
+   "part": "Transformer Panel TR-421 relay - SEL-2100B",
+   "part_numbers": [
+    "SEL-2100B"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The design will include creating relay protection settings for the Millican Switch design scope using BTU provided templates and standards.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Millican Switch Substation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "SEL-351S",
+   "part": "Feeder and tie/maintenance breaker panel relays - SEL-351S",
+   "part_numbers": [
+    "SEL-351S"
+   ],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The design will include creating relay protection settings for the Millican Switch design scope using BTU provided templates and standards.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Millican Switch Substation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "SEL-2414",
+   "part": "Transformer TR-421 relay - SEL-2414",
+   "part_numbers": [
+    "SEL-2414"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The design will include creating relay protection settings for the Millican Switch design scope using BTU provided templates and standards.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Millican Switch Substation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "SEL-2505",
+   "part": "Transformer TR-421 relay - SEL-2505",
+   "part_numbers": [
+    "SEL-2505"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The design will include creating relay protection settings for the Millican Switch design scope using BTU provided templates and standards.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Millican Switch Substation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "SEL-2440-1",
+   "part": "Communication Panel relay - SEL-2440-1",
+   "part_numbers": [
+    "SEL-2440-1"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The design will include creating relay protection settings for the Millican Switch design scope using BTU provided templates and standards.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Millican Switch Substation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "SEL-2407",
+   "part": "Communication Panel relay - SEL-2407",
+   "part_numbers": [
+    "SEL-2407"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The design will include creating relay protection settings for the Millican Switch design scope using BTU provided templates and standards.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Millican Switch Substation",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 36809,
+  "out": 10929
+ },
+ "model": "claude-sonnet-5"
+}

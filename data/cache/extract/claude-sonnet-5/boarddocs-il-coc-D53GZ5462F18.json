@@ -1,0 +1,63 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vactor",
+   "model": "2100i",
+   "part": "Purchase of new demonstrator Vactor 2100i Single Engine Hydro Excavation Machine with Positive Displacement Vacuum System mounted on heavy-duty truck chassis to replace totaled sewer jet truck",
+   "part_numbers": [
+    "2112i-824"
+   ],
+   "quantity": "1",
+   "price_usd": 505489.29,
+   "lead_time": null,
+   "sole_source_vendor": "Coe Equipment, Inc.",
+   "reason": "City Council is requested to forego the formal bidding process and purchase directly from Vactor for the good of the service in the best interest of the citizens of Carbondale.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Carbondale Water & Sewer / Sewer Collection Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Western Star",
+   "model": "47X",
+   "part": "Supplied chassis for Vactor 2100i combination sewer jet truck",
+   "part_numbers": [
+    "CHASSIS"
+   ],
+   "quantity": "1",
+   "price_usd": 131083.0,
+   "lead_time": null,
+   "sole_source_vendor": "Coe Equipment, Inc.",
+   "reason": "The Western Star Chassis provides local service opportunities, whereas other brands' service opportunities are based in St. Louis or farther away.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Carbondale Water & Sewer / Sewer Collection Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vactor",
+   "model": "2100",
+   "part": "2009 Vactor 2100 Combination Sewer Jet Truck declared surplus and used as trade-in",
+   "part_numbers": [
+    "2110-824-RCS-18"
+   ],
+   "quantity": "1",
+   "price_usd": 4500.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the sewer jet was involved in an accident two months ago. Due to age and diminished value, the sewer jet has been totaled out.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Carbondale Water & Sewer / Sewer Collection Division",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 40284,
+  "out": 734
+ },
+ "model": "claude-sonnet-5"
+}

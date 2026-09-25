@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "New, rebuilt, or reconditioned step-up transformer, 5MVA or larger, 12.47kV/29.94kV",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 250000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This purchase is for the rebuild of the Forks 2 Substation.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Forks 2 Substation",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 16631,
+  "out": 626
+ },
+ "model": "claude-sonnet-5"
+}

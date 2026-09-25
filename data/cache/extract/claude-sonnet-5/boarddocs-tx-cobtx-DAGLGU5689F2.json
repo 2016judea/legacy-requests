@@ -1,0 +1,77 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sensus",
+   "model": "M400B to M420B Transceiver",
+   "part": "KIT UG M400B TO M420B TRANSCVR&PWR AMP",
+   "part_numbers": [
+    "5396355504321"
+   ],
+   "quantity": "2",
+   "price_usd": 27364.6,
+   "lead_time": null,
+   "sole_source_vendor": "Sensus USA, Inc.",
+   "reason": "Sensus USA, Inc. (Sensus) is the sole source provider for all of BTU's AMI equipment and managed services.",
+   "equipment_class": "communications/radio",
+   "installed_location": "KoppeBridge/Jack Creek",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Sensus",
+   "model": "M400B2 to M420B Transceiver",
+   "part": "KIT UG M400B2 TO M420B TRANSCVR ONLY",
+   "part_numbers": [
+    "5396355504336"
+   ],
+   "quantity": "1",
+   "price_usd": 13695.02,
+   "lead_time": null,
+   "sole_source_vendor": "Sensus USA, Inc.",
+   "reason": "Sensus USA, Inc. (Sensus) is the sole source provider for all of BTU's AMI equipment and managed services.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Steele Store",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Sensus",
+   "model": "M400DS to M420DS Transceiver",
+   "part": "KIT UG M400DS TO M420DS TRANSCVR ONLY",
+   "part_numbers": [
+    "5396355504933"
+   ],
+   "quantity": "9",
+   "price_usd": 132156.18,
+   "lead_time": null,
+   "sole_source_vendor": "Sensus USA, Inc.",
+   "reason": "Sensus USA, Inc. (Sensus) is the sole source provider for all of BTU's AMI equipment and managed services.",
+   "equipment_class": "communications/radio",
+   "installed_location": "All other sites at Bryan",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Sensus",
+   "model": null,
+   "part": "PM RF SITE UPGR---Transceiver install and Certification",
+   "part_numbers": [],
+   "quantity": "12",
+   "price_usd": 36000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Sensus USA, Inc.",
+   "reason": "Sensus USA, Inc. (Sensus) is the sole source provider for all of BTU's AMI equipment and managed services.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Bryan Texas Utilities-City of Bryan, TX",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 33563,
+  "out": 1434
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,157 @@
+{
+ "records": [
+  {
+   "manufacturer": "Altec",
+   "model": null,
+   "part": "Purchase of Two 2025 Bucket Trucks",
+   "part_numbers": [],
+   "quantity": "Two (2)",
+   "price_usd": 492458,
+   "lead_time": null,
+   "sole_source_vendor": "ALTEC INDUSTRIES, INC.",
+   "reason": "Purchase of Two 2025 Bucket Trucks **Chan..",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Chevrolet",
+   "model": "Silverado 1500",
+   "part": "2025 Chevrolet Silverado 1500 vehicle purchase",
+   "part_numbers": [
+    "CC10753"
+   ],
+   "quantity": "1",
+   "price_usd": 58270,
+   "lead_time": null,
+   "sole_source_vendor": "CALDWELL COUNTRY",
+   "reason": "2025 Chevrolet Silverado 1500 - CC10753 Bu..",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Communications goods/services purchase under sole source justification",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 6437,
+   "lead_time": null,
+   "sole_source_vendor": "MACKAY COMMUNICATIONS, INC.",
+   "reason": "MacKay Communications (sole source letter ..",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Terex",
+   "model": null,
+   "part": "Fleet repairs, OEM service and parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 100000,
+   "lead_time": null,
+   "sole_source_vendor": "TEREX USA, LLC",
+   "reason": "Fleet Repairs, OEM Service and Parts Sole S..",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Altec",
+   "model": null,
+   "part": "Tools & supplies for fleet equipment (bucket truck support)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 23000,
+   "lead_time": null,
+   "sole_source_vendor": "ALTEC INDUSTRIES, INC.",
+   "reason": "Tools & Supplies Sourcewell 110421 Alt Sole ..",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "BTU Substation HVAC Upgrade Project",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 195048,
+   "lead_time": null,
+   "sole_source_vendor": "Still Creek Mechanical",
+   "reason": "BTU Substation HVAC Upgrade Project: Still Creek Mechanical - $195,048",
+   "equipment_class": "HVAC",
+   "installed_location": "BTU Substation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sensus",
+   "model": null,
+   "part": "AMI/metering infrastructure upgrade",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 208225,
+   "lead_time": null,
+   "sole_source_vendor": "SENSUS USA, INC.",
+   "reason": "Sensus Infrastructure Upgrade PO revised, a..",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Radian Research",
+   "model": null,
+   "part": "Annual testing of meters (blanket PO)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 7800,
+   "lead_time": null,
+   "sole_source_vendor": "RADIAN RESEARCH INC.",
+   "reason": "Radian Blanket PO for annual testing of met..",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Megger",
+   "model": null,
+   "part": "Megger test equipment RMA/repair",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3690,
+   "lead_time": null,
+   "sole_source_vendor": "MEGGER",
+   "reason": "MEGGER RMA MEGGER",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Itron",
+   "model": "MV-90",
+   "part": "Itron MV-90 software upgrade",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 14200,
+   "lead_time": null,
+   "sole_source_vendor": "ITRON, INC.",
+   "reason": "Itron MV-90 Software Upgrade. BMR#: 2446..",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 53816,
+  "out": 6774
+ },
+ "model": "claude-sonnet-5"
+}

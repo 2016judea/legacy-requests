@@ -1,0 +1,187 @@
+{
+ "records": [
+  {
+   "manufacturer": "Veolia Water Technologies & Solutions",
+   "model": "ZeeWeed 500 D RX12",
+   "part": "one (1) 288 x ZeeWeed 500 D RX12 430ft\u00b2 wastewater membrane modules, related equipment, and supplies",
+   "part_numbers": [],
+   "quantity": "288",
+   "price_usd": 757089.05,
+   "lead_time": "60-64 weeks after receipt of order",
+   "sole_source_vendor": "Zenon Environmental Corporation",
+   "reason": "The ZeeWeed membrane system is proprietary property of Veolia Water Technologies & Solution.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Taos Wastewater Treatment Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veolia Water Technologies & Solutions",
+   "model": "ZW500D RX12",
+   "part": "ZW500D RX12 430ft\u00b2 membrane module",
+   "part_numbers": [
+    "3184788"
+   ],
+   "quantity": "288",
+   "price_usd": 942438.0,
+   "lead_time": "76 - 80 weeks",
+   "sole_source_vendor": "ZENON Environmental Corporation",
+   "reason": "This purchase utilizes sole source procurement No. 30-M0093-23-CP233.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Taos Valley Regional Wastewater Treatment & Reclamation Facility (WWRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veolia Water Technologies & Solutions",
+   "model": "ZeeWeed",
+   "part": "2-year full replacement membrane warranty",
+   "part_numbers": [
+    "3184265"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ZENON Environmental Corporation",
+   "reason": "The ZeeWeed membrane system is proprietary property of Veolia Water Technologies & Solution.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Taos Valley Regional Wastewater Treatment & Reclamation Facility (WWRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veolia Water Technologies & Solutions",
+   "model": "ZW500D",
+   "part": "ZW500D blank header set",
+   "part_numbers": [
+    "3033393"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ZENON Environmental Corporation",
+   "reason": "The ZeeWeed membrane system is proprietary property of Veolia Water Technologies & Solution.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Taos Valley Regional Wastewater Treatment & Reclamation Facility (WWRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veolia Water Technologies & Solutions",
+   "model": "ZW500D",
+   "part": "Spare ZW500D element end cap key",
+   "part_numbers": [
+    "3040447"
+   ],
+   "quantity": "14",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ZENON Environmental Corporation",
+   "reason": "The ZeeWeed membrane system is proprietary property of Veolia Water Technologies & Solution.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Taos Valley Regional Wastewater Treatment & Reclamation Facility (WWRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veolia Water Technologies & Solutions",
+   "model": "ZW500D",
+   "part": "Spare ZW500D #118 EPDM spigot o-rings",
+   "part_numbers": [
+    "3033690"
+   ],
+   "quantity": "40",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ZENON Environmental Corporation",
+   "reason": "The ZeeWeed membrane system is proprietary property of Veolia Water Technologies & Solution.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Taos Valley Regional Wastewater Treatment & Reclamation Facility (WWRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veolia Water Technologies & Solutions",
+   "model": null,
+   "part": "O-ring lubricant",
+   "part_numbers": [
+    "3089920"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ZENON Environmental Corporation",
+   "reason": "The ZeeWeed membrane system is proprietary property of Veolia Water Technologies & Solution.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Taos Valley Regional Wastewater Treatment & Reclamation Facility (WWRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veolia Water Technologies & Solutions",
+   "model": null,
+   "part": "On-site support, 1 x FSRs, each on-site for 4x10-hour days on-site plus travel & living (installation of membrane modules)",
+   "part_numbers": [
+    "135491"
+   ],
+   "quantity": "1 visit",
+   "price_usd": 12320.0,
+   "lead_time": null,
+   "sole_source_vendor": "ZENON Environmental Corporation",
+   "reason": "The ZeeWeed membrane system is proprietary property of Veolia Water Technologies & Solution.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Taos Valley Regional Wastewater Treatment & Reclamation Facility (WWRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veolia Water Technologies & Solutions",
+   "model": "ZW500D 48M",
+   "part": "ZW500D 48M cassette refurbishment components, full plant option",
+   "part_numbers": [],
+   "quantity": "12 sets",
+   "price_usd": 86150.0,
+   "lead_time": "76 - 80 weeks",
+   "sole_source_vendor": "ZENON Environmental Corporation",
+   "reason": "The ZeeWeed membrane system is proprietary property of Veolia Water Technologies & Solution.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Taos Valley Regional Wastewater Treatment & Reclamation Facility (WWRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veolia Water Technologies & Solutions",
+   "model": null,
+   "part": "Food grade anti-seize",
+   "part_numbers": [
+    "3158322"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ZENON Environmental Corporation",
+   "reason": "The ZeeWeed membrane system is proprietary property of Veolia Water Technologies & Solution.",
+   "equipment_class": "other equipment",
+   "installed_location": "Taos Valley Regional Wastewater Treatment & Reclamation Facility (WWRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veolia Water Technologies & Solutions",
+   "model": null,
+   "part": "On-site support, 2 x FSRs, each on-site for 12x10-hour days on-site plus travel & living (cassette refurbishment)",
+   "part_numbers": [
+    "135491"
+   ],
+   "quantity": "1 visit",
+   "price_usd": 59840.0,
+   "lead_time": null,
+   "sole_source_vendor": "ZENON Environmental Corporation",
+   "reason": "The ZeeWeed membrane system is proprietary property of Veolia Water Technologies & Solution.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Taos Valley Regional Wastewater Treatment & Reclamation Facility (WWRF)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 41127,
+  "out": 12404
+ },
+ "model": "claude-sonnet-5"
+}

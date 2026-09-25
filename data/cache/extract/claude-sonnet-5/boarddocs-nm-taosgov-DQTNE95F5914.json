@@ -1,0 +1,50 @@
+{
+ "records": [
+  {
+   "manufacturer": "JWC Environmental",
+   "model": null,
+   "part": "Rebuild of two bandscreen (MBS) units at the Headworks of the Wastewater Treatment Facility, including chain, seals, gearbox, bearing, and labor",
+   "part_numbers": [
+    "MBC0140-08-1850-03T",
+    "MBC0141-08-1850-03T",
+    "21040",
+    "21041",
+    "MBC0014D",
+    "MBC0014U",
+    "MBC0016D-0188",
+    "MBC0016U-0188",
+    "MBC0124-001-101855B",
+    "30134",
+    "30514",
+    "30441",
+    "MBC0133-101855A",
+    "MBC0135-101855A",
+    "22253",
+    "SD-0100",
+    "SD-0101",
+    "MBC0028-101855A",
+    "MSC1047-2008",
+    "MSC0011-42125-495.85-60-140"
+   ],
+   "quantity": "2 units",
+   "price_usd": 85308.36,
+   "lead_time": "6-8-WEEKS ARO",
+   "sole_source_vendor": "JWC Environmental, LLC",
+   "reason": "JWC Environmental LLC is the inventor and owner of the currently used bandscreen equipment and hold all patents and trademarks on their products.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Taos Wastewater Treatment Facility (Ranchos de Taos WWTP)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12642,
+  "out": 2253
+ },
+ "model": "claude-sonnet-5"
+}

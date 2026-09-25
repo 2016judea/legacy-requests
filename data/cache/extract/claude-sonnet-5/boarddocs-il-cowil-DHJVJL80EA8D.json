@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "OpenGov",
+   "model": "Cartegraph",
+   "part": "Renewal of Cartegraph Asset Management software (SaaS) through OpenGov",
+   "part_numbers": [],
+   "quantity": "1 year renewal",
+   "price_usd": 174290.85,
+   "lead_time": null,
+   "sole_source_vendor": "OpenGov",
+   "reason": "We would like to take this opportunity to verify in writing that OpenGov, Inc. is the sole source developer of the Cartegraph Asset Management applications and software solution.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Public Works and Water Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7946,
+  "out": 224
+ },
+ "model": "claude-sonnet-5"
+}

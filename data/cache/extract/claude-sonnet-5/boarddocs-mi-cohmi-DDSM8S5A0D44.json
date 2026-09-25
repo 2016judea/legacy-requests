@@ -1,0 +1,811 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola Solutions",
+   "model": "Avtec Scout",
+   "part": "Dispatch Console System (full system: consoles, gateways, back-up desksets, installation, warranty)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 345613,
+   "lead_time": "90-120 days ARO",
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": "Scout EX",
+   "part": "Scout EX Console",
+   "part_numbers": [
+    "DSSFWSCOUTEXT1SK"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": null,
+   "part": "PC for Scout Console Packages",
+   "part_numbers": [
+    "DSACCCPUDTWIN10"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": null,
+   "part": "LED Display, 23\" widescreen touch",
+   "part_numbers": [
+    "DSACCLED20WS"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": null,
+   "part": "USB PTT Footswitch Accessory",
+   "part_numbers": [
+    "DSACCUSBFSWSING"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": null,
+   "part": "Avtec USB jack box",
+   "part_numbers": [
+    "DSACCUSBHJB"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": null,
+   "part": "Avtec Desk Microphone",
+   "part_numbers": [
+    "DSACCUSB-MIC"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": null,
+   "part": "Avtec USB dual speaker kit",
+   "part_numbers": [
+    "DSACCUSBSPK2"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Wireless PTT - Base",
+   "part_numbers": [
+    "WLS-6W CA22CD"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Headset NC Single",
+   "part_numbers": [
+    "TOP SING-NC"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": "VPGate",
+   "part": "VPGate software license",
+   "part_numbers": [
+    "SFW-VPG-L0-SK"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": null,
+   "part": "Admin Server, Keyboard",
+   "part_numbers": [
+    "DISP-KVM-F-RR"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": "Outpost Plus",
+   "part": "Outpost Plus Radio Gateway",
+   "part_numbers": [
+    "OUTPOSTPLUS-4R"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": "Outpost Plus",
+   "part": "Outpost Plus Power Supply",
+   "part_numbers": [
+    "OUTPOSTPLUS-PS-NA"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": "Outpost Plus",
+   "part": "Rackmount shelf",
+   "part_numbers": [
+    "OUTPOSTPLUS-SHELF"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": "Outpost Plus",
+   "part": "Outpost Radio Kit",
+   "part_numbers": [
+    "OUTPOSTPLUSAPXMO"
+   ],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": "Outpost Plus",
+   "part": "4 Port POE Gateway",
+   "part_numbers": [
+    "OUTPOSTPLUS-4R"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": "Outpost Plus",
+   "part": "Outpost Plus Power Supply (additional)",
+   "part_numbers": [
+    "OUTPOSTPLUS-PS-NA"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": null,
+   "part": "USB PTT Footswitch Accessory (Critical Spares Kit)",
+   "part_numbers": [
+    "DSACCUSBFSWSING"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": null,
+   "part": "Avtec USB jack box (Critical Spares Kit)",
+   "part_numbers": [
+    "DSACCUSBHJB"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": null,
+   "part": "Avtec Desk Microphone (Critical Spares Kit)",
+   "part_numbers": [
+    "DSACCUSB-MIC"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": null,
+   "part": "USB Relay Kit, Media Workstation (Critical Spares Kit)",
+   "part_numbers": [
+    "ACCUSB-RELAY"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Wireless PTT - Base (Critical Spares Kit)",
+   "part_numbers": [
+    "WLS-6W CA22CD"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": "ScoutPC",
+   "part": "Mini PC for Console Position (Five Year Refresh Kit)",
+   "part_numbers": [
+    "SCOUTPC"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": "Scout Std Server",
+   "part": "Std Server for Back End Components (Five Year Refresh Kit)",
+   "part_numbers": [
+    "SCOUTSTDSERVER"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": null,
+   "part": "One Year Hardware Maintenance",
+   "part_numbers": [
+    "DSHARDWARE"
+   ],
+   "quantity": "9",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Provide (10) years of console hardware and software warranty",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Avtec",
+   "model": "ScoutCare",
+   "part": "One Year Software Maintenance",
+   "part_numbers": [
+    "DSSCOUTCARET1"
+   ],
+   "quantity": "9",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Provide (10) years of console hardware and software warranty",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "MCD5000",
+   "part": "MCD5000 Desk Set (back-up dispatch position)",
+   "part_numbers": [
+    "F2380A"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "It will also provide 2 computers that will always work and function if there are any issues that arise as a back-up to ensure there is no effect on the day-to-day operations of the dispatch system.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Ethernet Cable 10'",
+   "part_numbers": [
+    "FKN8695AS"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "RGU/Deskset Power Supply",
+   "part_numbers": [
+    "FHN7469A"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Deskset Config License",
+   "part_numbers": [
+    "HKVN4861A"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Radio Gateway Unit",
+   "part_numbers": [
+    "F7879B"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Desk Mic",
+   "part_numbers": [
+    "RMN5068A"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "LDF-4 1/2\" Coaxial Cable",
+   "part_numbers": [],
+   "quantity": "500'",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "N-M Connector 1/2\"",
+   "part_numbers": [
+    "L4TNM-PSA"
+   ],
+   "quantity": "16",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "4' Wall Mount Kit",
+   "part_numbers": [
+    "WM4"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "APC",
+   "model": "Smart-UPS",
+   "part": "1500 W AC UPS",
+   "part_numbers": [
+    "SMART1500RMXL2UA"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Provide and install three (3) 1500 watt UPS\\u2019 in the radio IT closet.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "7/800 3dB Omni Antenna",
+   "part_numbers": [
+    "MFBW7463"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Remove and replace one (1) UHF and three (3) P25 7/800 MHz antennas and transmission lines.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "450-470 MHz Omni Antenna",
+   "part_numbers": [
+    "BS450XL6-C"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Remove and replace one (1) UHF and three (3) P25 7/800 MHz antennas and transmission lines.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "60' Mast",
+   "part_numbers": [
+    "160505GHS"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Polyphaser",
+   "model": null,
+   "part": "Polyphaser surge protector",
+   "part_numbers": [
+    "IS-B50LN-C2"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "APX",
+   "part": "AES Encryption flash upgrade for existing P25 control station radios",
+   "part_numbers": [
+    "CA00182AR"
+   ],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Upgrade six (6) existing P25 control station radios in the radio IT closet to comply with upcoming Interoperable encryption requirements.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "APX",
+   "part": "DES, DES-XL, DES-OFB Encryption flash upgrade",
+   "part_numbers": [
+    "CA00840AK"
+   ],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Upgrade six (6) existing P25 control station radios in the radio IT closet to comply with upcoming Interoperable encryption requirements.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "APX",
+   "part": "TDMA flash upgrade",
+   "part_numbers": [
+    "CA00580AE"
+   ],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Upgrade six (6) existing P25 control station radios in the radio IT closet to comply with upcoming Interoperable encryption requirements.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "APX",
+   "part": "Multikey flash upgrade",
+   "part_numbers": [
+    "H869C"
+   ],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Upgrade six (6) existing P25 control station radios in the radio IT closet to comply with upcoming Interoperable encryption requirements.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "System Installation Complete",
+   "part_numbers": [
+    "INSTALL"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Project Management",
+   "part_numbers": [
+    "PM"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Motorola and Avtec end of release support was December of 2021.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Ten (10) Year on-site Warranty Response",
+   "part_numbers": [
+    "MAINT"
+   ],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Provide (10) years of on-site warranty response. 24 X 7 for console equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Operator Training",
+   "part_numbers": [
+    "TRAIN"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Provide operator training.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Removal of Existing Console System",
+   "part_numbers": [
+    "REMOVAL"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America",
+   "reason": "Removal of existing dispatch console equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Hamtramck Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 25638,
+  "out": 12038
+ },
+ "model": "claude-sonnet-5"
+}

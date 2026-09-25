@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sensus",
+   "model": null,
+   "part": "Meters and communication modules for AMI system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 250000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Sensus",
+   "reason": "These purchases qualify as sole source procurements, and a sole source letter is on file.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Water Services",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3297,
+  "out": 163
+ },
+ "model": "claude-sonnet-5"
+}

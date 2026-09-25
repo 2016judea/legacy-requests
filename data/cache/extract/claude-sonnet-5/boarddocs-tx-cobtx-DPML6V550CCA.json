@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Delta Controls",
+   "model": "Delta controllers",
+   "part": "Replace VAV controllers (with new communication wiring, FPT boxes, T-stats, DAT sensors, programming, graphics) at Bryan Justice Center",
+   "part_numbers": [],
+   "quantity": "77",
+   "price_usd": 125253.0,
+   "lead_time": null,
+   "sole_source_vendor": "T.E.A.M. Solutions, LLC",
+   "reason": "The existing controllers are supported by a Local Operation Network (LON), and while still operational, these units are slowly becoming obsolete with replacement parts becoming more difficult to acquire.",
+   "equipment_class": "HVAC",
+   "installed_location": "Bryan Justice Center, 303 29th Street, Bryan, Texas",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Delta Controls",
+   "model": "Delta controllers",
+   "part": "Replace VAV controllers (with new communication wiring, FPT boxes, T-stats, DAT sensors, programming, graphics) at Bryan Municipal Office Building",
+   "part_numbers": [],
+   "quantity": "40",
+   "price_usd": 66759.0,
+   "lead_time": null,
+   "sole_source_vendor": "T.E.A.M. Solutions, LLC",
+   "reason": "The existing controllers are supported by a Local Operation Network (LON), and while still operational, these units are slowly becoming obsolete with replacement parts becoming more difficult to acquire.",
+   "equipment_class": "HVAC",
+   "installed_location": "Bryan Municipal Office Building, 300 S. Texas Ave., Bryan, Texas",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 24512,
+  "out": 1717
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Asphalt, Hot-Mix, Type D, in accordance with TXDHPT 1993 Standard Specs Item #340",
+   "part_numbers": [],
+   "quantity": "1,500 tons (annual estimate)",
+   "price_usd": 129000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Brazos Paving, Inc. (BPI Materials, Inc.)",
+   "reason": "Although BPI was the only bidder for this contract, there was only a slight increase (< 1.5%) on their cost per ton from the previous contract.",
+   "equipment_class": "other equipment",
+   "installed_location": "City of Bryan Streets & Drainage",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 28568,
+  "out": 255
+ },
+ "model": "claude-sonnet-5"
+}

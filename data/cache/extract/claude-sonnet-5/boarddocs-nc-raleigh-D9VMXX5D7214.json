@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Qwake Technologies",
+   "model": "Navigator",
+   "part": "Firefighter Navigation Equipment - hands-free, helmet-mounted visualization and navigation tool with C-THRU thermal imaging technology, including warranty and connectivity services",
+   "part_numbers": [],
+   "quantity": "15",
+   "price_usd": 272600.0,
+   "lead_time": null,
+   "sole_source_vendor": "Qwake Technologies, Inc.",
+   "reason": "Since this is new technology only available through Qwake, RFD must purchase the C-THRU devices directly from Qwake",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Raleigh Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4567,
+  "out": 243
+ },
+ "model": "claude-sonnet-5"
+}

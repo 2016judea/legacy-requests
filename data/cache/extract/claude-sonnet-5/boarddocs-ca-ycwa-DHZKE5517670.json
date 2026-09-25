@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Relocation of fire hydrants, water and sewer service laterals, service boxes, cleanouts, water mains, isolation valves, and sewer manholes",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 745344,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the work proposed by the County will require Linda County Water District to relocate a number of fire hydrants, water and sewer service laterals, service boxes, cleanouts, water mains as well as isolation valves, and adjusting sewer manholes to grade all within the County right of way.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "North Beale Road, Yuba County right-of-way, Linda County Water District",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "60\" Double Wall HDPE Culvert Pipe",
+   "part": "Replace 52\" metal culvert with new Double Wall 60\" HDPE Culvert Pipe at Ramirez/Cordua turnout",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 24926.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hyatt Contracting Inc.",
+   "reason": "This pipe is the sole source of water to the Ramirez Pumping Plant, so it\u2019s failure during water delivery season would be catastrophic for the water customers",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Ramirez Water District turnout from Cordua canal",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Low density SCADA System for remote monitoring/control of surface water diversion pumps",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Efficiencies will be improved by installing a low density Scada System, updated flow meters, and level sensors in the main distribution canal that would communicate with the pumps at the river diversion to automatically adjust the flow to maintain the required level in the canal upon demand.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Plumas Mutual Water Company irrigation distribution system, South Yuba County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Updated flow meters for main distribution canal",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Efficiencies will be improved by installing a low density Scada System, updated flow meters, and level sensors in the main distribution canal that would communicate with the pumps at the river diversion to automatically adjust the flow to maintain the required level in the canal upon demand.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Plumas Mutual Water Company irrigation distribution system, South Yuba County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Level sensors installed in main distribution canal",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Efficiencies will be improved by installing a low density Scada System, updated flow meters, and level sensors in the main distribution canal that would communicate with the pumps at the river diversion to automatically adjust the flow to maintain the required level in the canal upon demand.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Plumas Mutual Water Company irrigation distribution system, South Yuba County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Well sounding equipment to remotely monitor groundwater pumping levels of deep wells",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Plumas Mutual Water Company also plans to install well sounding equipment to be able to remotely monitor groundwater pumping levels of their deep wells that also supply irrigation water to local orchards and row crops.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Plumas Mutual Water Company deep wells, South Yuba County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 6,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 30994,
+  "out": 8178
+ },
+ "model": "claude-sonnet-5"
+}

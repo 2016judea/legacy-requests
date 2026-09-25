@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Schindler",
+   "model": null,
+   "part": "Modernization and replacement of aging escalators at Meymandi Concert Hall",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 914000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Schindler Elevator Corporation",
+   "reason": "Parts for these escalators are becoming obsolete, making maintenance increasingly difficult and posing potential risks to public safety and accessibility. Schindler is the original equipment manufacturer and current maintenance provider.",
+   "equipment_class": "other equipment",
+   "installed_location": "Meymandi Concert Hall, Raleigh Convention and Performing Arts Complex",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3347,
+  "out": 249
+ },
+ "model": "claude-sonnet-5"
+}

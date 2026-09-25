@@ -1,0 +1,145 @@
+{
+ "records": [
+  {
+   "manufacturer": "Veolia",
+   "model": "ZeeWeed 500D RX12",
+   "part": "288 x ZeeWeed 500D RX12 430ft\u00b2 wastewater membrane modules, related equipment, and supplies (Phase I)",
+   "part_numbers": [],
+   "quantity": "288",
+   "price_usd": 757089.05,
+   "lead_time": "60-64 weeks after receipt of order",
+   "sole_source_vendor": "Zenon Environmental Corporation",
+   "reason": "The ZeeWeed membrane system is proprietary property of Veolia Water Technologies & Solution.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Taos Wastewater Treatment Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veolia",
+   "model": "ZeeWeed 500D RX12",
+   "part": "288 x ZW500D RX12 430ft\u00b2 membrane modules plus spares/consumables for Phase II, Trains 1 & 2",
+   "part_numbers": [
+    "3184788",
+    "3184265",
+    "3033393",
+    "3040447",
+    "3033690",
+    "3089920"
+   ],
+   "quantity": "288 modules + spares (lot)",
+   "price_usd": 666695,
+   "lead_time": "76-80 weeks",
+   "sole_source_vendor": "ZENON Environmental Corporation",
+   "reason": "It is in the town's best interest to match the equipment already in use by the Taos Wastewater Treatment Plant.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Taos Valley Regional Wastewater Treatment & Reclamation Facility (WWRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veolia",
+   "model": "ZW500D 48M cassette",
+   "part": "Cassette refurbishment components for 12 x ZW500D 48M cassette frames (full plant)",
+   "part_numbers": [
+    "3158322",
+    "135491"
+   ],
+   "quantity": "12 sets",
+   "price_usd": 145990,
+   "lead_time": null,
+   "sole_source_vendor": "ZENON Environmental Corporation",
+   "reason": "Cassette refurbishment service allows you to fully recondition your cassettes at less cost than purchasing new cassettes.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Taos Valley Regional Wastewater Treatment & Reclamation Facility (WWRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veolia",
+   "model": null,
+   "part": "Membrane modules and full-plant cassette refurbishment for Phase II of membrane replacement project",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 942438.0,
+   "lead_time": null,
+   "sole_source_vendor": "Zenon Environmental Corporation",
+   "reason": "This purchase utilizes sole source procurement No. 30-M0093-23-CP233.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veolia",
+   "model": "ZW500D RX12 48/48 316L SEQ HF 6IN cassette",
+   "part": "New cassettes with 288 modules for Trains 1 & 2 (Option 2 - without return of refurb kits)",
+   "part_numbers": [
+    "513425A",
+    "3095534",
+    "135491"
+   ],
+   "quantity": "6",
+   "price_usd": 148240,
+   "lead_time": null,
+   "sole_source_vendor": "Zenon Environmental Corporation",
+   "reason": "Veolia holds numerous patents and trademarks on these products, including ZeeWeed.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Wastewater Treatment Plant - Trains 1 & 2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "8\" Butterfly Valves, SS body",
+   "part_numbers": [
+    "656485-A"
+   ],
+   "quantity": "3",
+   "price_usd": 32688,
+   "lead_time": null,
+   "sole_source_vendor": "Zenon Environmental Corporation",
+   "reason": "It is in the town's best interest to match the equipment already in use by the Taos Wastewater Treatment Plant.",
+   "equipment_class": "valve",
+   "installed_location": "Wastewater Treatment Plant - Trains 1 & 2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veolia",
+   "model": "ZW500D empty 48M cassette, 316L, SEQ, HF, 6IN",
+   "part": "Empty cassettes for Trains 3 & 4 (Option 2 - without return of refurb kits)",
+   "part_numbers": [
+    "3095534"
+   ],
+   "quantity": "6",
+   "price_usd": 249995,
+   "lead_time": null,
+   "sole_source_vendor": "Zenon Environmental Corporation",
+   "reason": "It is in the town's best interest to match the equipment already in use by the Taos Wastewater Treatment Plant.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Wastewater Treatment Plant - Trains 3 & 4",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veolia",
+   "model": null,
+   "part": "Cassette Frames for Phase II of the membrane replacement project (Proposal No. 611523-4 Option 2)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 438058.5,
+   "lead_time": null,
+   "sole_source_vendor": "Zenon Environmental Corporation",
+   "reason": "This purchase utilizes sole source procurement No. 30-M0093-23-CP233.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Wastewater Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 3,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 68724,
+  "out": 13339
+ },
+ "model": "claude-sonnet-5"
+}

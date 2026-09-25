@@ -1,0 +1,338 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola Solutions",
+   "model": "CommandCentral AXS",
+   "part": "Purchase (7-year lease) of Radio Dispatch Consoles for Police Dept dispatch center, upgrading from MCC7500 consoles to AXS consoles",
+   "part_numbers": [],
+   "quantity": "8",
+   "price_usd": 1559834.08,
+   "lead_time": "7 year lease",
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions, Inc., a Delaware corporation (\"Vendor\"), is the sole provider of the Equipment that is compatible with the City's existing dispatch system",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Waukegan Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions",
+   "model": "CommandCentral AXS",
+   "part": "Console Operator Positions, each with CommandCentral Hub, Z2 G9 mini Workstation Client, speakers, USB microphone, headset jack boxes, noise canceling headset, dual pedal footswitch, hardware key storage",
+   "part_numbers": [
+    "B1956A",
+    "HKVN4737A",
+    "HKVN4729A",
+    "HKVN4730A",
+    "HKVN4731A",
+    "HKVN4732A",
+    "HKVN4733A",
+    "HKVN4736A",
+    "B1957A",
+    "B1951B",
+    "B1952B",
+    "B1913A",
+    "RLN6098A",
+    "RMN5150A",
+    "DSTWIN6328A",
+    "CA034402A"
+   ],
+   "quantity": "8",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions, Inc., a Delaware corporation (\"Vendor\"), is the sole provider of the Equipment that is compatible with the City's existing dispatch system",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Waukegan Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions",
+   "model": "APX",
+   "part": "7/800 Backup APX Consolettes (4 new, 4 existing relocated) installed in new rack connected to new combiner",
+   "part_numbers": [
+    "L37TSS9PW1AN",
+    "HKN6233C"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions, Inc., a Delaware corporation (\"Vendor\"), is the sole provider of the Equipment that is compatible with the City's existing dispatch system",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Waukegan Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Wideband Fiberglass Omni Antenna",
+   "part": "Wideband Fiberglass Omni Antennas for backup Consolette antenna and line system",
+   "part_numbers": [
+    "DSMFBW7463"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions, Inc., a Delaware corporation (\"Vendor\"), is the sole provider of the Equipment that is compatible with the City's existing dispatch system",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Waukegan Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Hybrid Control Station Combiner",
+   "part": "Hybrid Control Station Combiner, 7/800 12 Ch for backup consolette antenna system",
+   "part_numbers": [
+    "DSCS74861205SN"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions, Inc., a Delaware corporation (\"Vendor\"), is the sole provider of the Equipment that is compatible with the City's existing dispatch system",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Waukegan Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Juniper",
+   "model": "SRX 345",
+   "part": "Site Router & Firewall for console site network connectivity to ASTRO 25 core",
+   "part_numbers": [
+    "T8492A"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions, Inc., a Delaware corporation (\"Vendor\"), is the sole provider of the Equipment that is compatible with the City's existing dispatch system",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Waukegan Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Juniper",
+   "model": "EX4100",
+   "part": "24 Port Dispatch Switches for console site network",
+   "part_numbers": [
+    "CLN9066A"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions, Inc., a Delaware corporation (\"Vendor\"), is the sole provider of the Equipment that is compatible with the City's existing dispatch system",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Waukegan Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Juniper",
+   "model": null,
+   "part": "Juniper Control Room Firewall",
+   "part_numbers": [
+    "T8639A"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions, Inc., a Delaware corporation (\"Vendor\"), is the sole provider of the Equipment that is compatible with the City's existing dispatch system",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Waukegan Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Juniper",
+   "model": "EX4100",
+   "part": "24 Port CEN Dispatch Switch",
+   "part_numbers": [
+    "CLN9066A"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions, Inc., a Delaware corporation (\"Vendor\"), is the sole provider of the Equipment that is compatible with the City's existing dispatch system",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Waukegan Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions",
+   "model": "Z2 G9 Mini",
+   "part": "CAM Server (Z2 G9 mini) for console alias management",
+   "part_numbers": [
+    "TT4270A"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions, Inc., a Delaware corporation (\"Vendor\"), is the sole provider of the Equipment that is compatible with the City's existing dispatch system",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Waukegan Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions",
+   "model": "Z2 G9 Mini",
+   "part": "AIS Z2 G9 Mini Workstation Client (Upgrade)",
+   "part_numbers": [
+    "TT4270A"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions, Inc., a Delaware corporation (\"Vendor\"), is the sole provider of the Equipment that is compatible with the City's existing dispatch system",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Waukegan Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions",
+   "model": "DSC 8000",
+   "part": "Standalone DSC 8000 Conventional Site Controller",
+   "part_numbers": [
+    "T8810A",
+    "UA00787AA",
+    "CA03832AA",
+    "CA03863AA",
+    "CA03801AA",
+    "CA03763AA"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions, Inc., a Delaware corporation (\"Vendor\"), is the sole provider of the Equipment that is compatible with the City's existing dispatch system",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Waukegan Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions",
+   "model": "MCG 8000",
+   "part": "MCG 8000 Conventional Gateways for connecting existing conventional radio resources",
+   "part_numbers": [
+    "SQM01SUM0333A",
+    "CA03720AA",
+    "CA03717AA",
+    "CA03719AA",
+    "CA03714AA"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions, Inc., a Delaware corporation (\"Vendor\"), is the sole provider of the Equipment that is compatible with the City's existing dispatch system",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Waukegan Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions",
+   "model": "MC Edge",
+   "part": "MC Edge Aux I/O Server for auxiliary input/output control (e.g. door control from dispatch consoles)",
+   "part_numbers": [
+    "VA01945AA",
+    "VA00989AA",
+    "VA01387AA",
+    "VA00130AA",
+    "VA00155AA"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions, Inc., a Delaware corporation (\"Vendor\"), is the sole provider of the Equipment that is compatible with the City's existing dispatch system",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Waukegan Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "NICE",
+   "model": "Inform Professional / ML350 G11",
+   "part": "NICE logging recorder solution upgrade: 80 channel Inform Professional Radio Recording system upgrade and 40 channel IP logging upgrade for Project 25 trunked audio, upgraded to Inform R10 Professional",
+   "part_numbers": [
+    "DDN3329A",
+    "DDN3331A",
+    "DDN4075A",
+    "DDN4080A",
+    "DDN2487A",
+    "DDN2502A",
+    "DDN2509A",
+    "DDN4070A",
+    "DDN3632A",
+    "DDN3631A",
+    "ADSDDN3308A"
+   ],
+   "quantity": "80 channels (professional recording) / 40 channels (ASTRO recording)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions, Inc., a Delaware corporation (\"Vendor\"), is the sole provider of the Equipment that is compatible with the City's existing dispatch system",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Waukegan Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "7.5' Rack",
+   "part": "Equipment racks for backroom network and console electronics",
+   "part_numbers": [
+    "TRN7343A"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions, Inc., a Delaware corporation (\"Vendor\"), is the sole provider of the Equipment that is compatible with the City's existing dispatch system",
+   "equipment_class": "other equipment",
+   "installed_location": "City of Waukegan Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "PDU",
+   "part": "Power Distribution Unit, 120/240 split phase or N+1 redundant, 60A max per phase, six dedicated circuits",
+   "part_numbers": [
+    "DS11011188"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions, Inc., a Delaware corporation (\"Vendor\"), is the sole provider of the Equipment that is compatible with the City's existing dispatch system",
+   "equipment_class": "other equipment",
+   "installed_location": "City of Waukegan Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions",
+   "model": "ASTRO 25 Advanced Plus Services",
+   "part": "Integrated sustainment/maintenance program for fixed network infrastructure: Network Event Monitoring, Remote Technical Support, Network Hardware Repair, Remote Security Update Service, On-site Infrastructure Response, Annual Preventative Maintenance, System Upgrade Agreement, Managed Detection and Response",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Solutions, Inc., a Delaware corporation (\"Vendor\"), is the sole provider of the Equipment that is compatible with the City's existing dispatch system",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City of Waukegan Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 57697,
+  "out": 8192
+ },
+ "model": "claude-sonnet-5"
+}

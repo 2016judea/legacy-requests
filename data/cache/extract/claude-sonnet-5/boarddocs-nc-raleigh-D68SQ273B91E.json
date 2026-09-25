@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Convert all PLCs and associated hardware at the Resource Recovery Facilities and remote lift stations to a new system platform (SCADA upgrade)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5808776.0,
+   "lead_time": null,
+   "sole_source_vendor": "CITI, Inc.",
+   "reason": "The PLC control system currently in use has production date ranges from 1997 to 2009 and is now obsolete and is no longer commercially available for direct replacement, nor do they receive technical support from the factory.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Resource Recovery Facilities (RRFs) and remote lift stations",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3540,
+  "out": 306
+ },
+ "model": "claude-sonnet-5"
+}

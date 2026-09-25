@@ -1,0 +1,207 @@
+{
+ "records": [
+  {
+   "manufacturer": "Laerdal",
+   "model": "SimBaby Light",
+   "part": "SimBaby Manikin (SimBaby Light) simulation training equipment",
+   "part_numbers": [
+    "246-00050"
+   ],
+   "quantity": "1",
+   "price_usd": 38351.06,
+   "lead_time": null,
+   "sole_source_vendor": "Laerdal, Inc.",
+   "reason": "Laerdal is the sole source manufacturer for the SimBaby manikin and has a sourcewell contract in which the City of Pullman is a member.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fire Station 1",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Laerdal",
+   "model": "SimPad PLUS 2 IE",
+   "part": "SimPad control device for simulation training",
+   "part_numbers": [
+    "204-00133"
+   ],
+   "quantity": "1",
+   "price_usd": 923.12,
+   "lead_time": null,
+   "sole_source_vendor": "Laerdal, Inc.",
+   "reason": "Laerdal is the sole source manufacturer for the SimBaby manikin and has a sourcewell contract in which the City of Pullman is a member.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fire Station 1",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Laerdal",
+   "model": "LLEAP for SimPad PLUS",
+   "part": "Software license for SimPad PLUS simulation software (Manual Mode, Automatic Mode, Log Viewer)",
+   "part_numbers": [
+    "204-50150"
+   ],
+   "quantity": "1",
+   "price_usd": 3195.06,
+   "lead_time": null,
+   "sole_source_vendor": "Laerdal, Inc.",
+   "reason": "Laerdal is the sole source manufacturer for the SimBaby manikin and has a sourcewell contract in which the City of Pullman is a member.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fire Station 1",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Laerdal",
+   "model": null,
+   "part": "ShockLink System for simulation training",
+   "part_numbers": [
+    "185-10050"
+   ],
+   "quantity": "1",
+   "price_usd": 650.32,
+   "lead_time": null,
+   "sole_source_vendor": "Laerdal, Inc.",
+   "reason": "Laerdal is the sole source manufacturer for the SimBaby manikin and has a sourcewell contract in which the City of Pullman is a member.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fire Station 1",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Zoll",
+   "model": null,
+   "part": "Zoll ShockLink Training Adapter",
+   "part_numbers": [
+    "185-50450"
+   ],
+   "quantity": "1",
+   "price_usd": 91.18,
+   "lead_time": null,
+   "sole_source_vendor": "Laerdal, Inc.",
+   "reason": "Laerdal is the sole source manufacturer for the SimBaby manikin and has a sourcewell contract in which the City of Pullman is a member.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fire Station 1",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Laerdal",
+   "model": "SimBaby Virtual Orientation for Site",
+   "part": "Virtual instructor-led training orientation for SimBaby simulator",
+   "part_numbers": [
+    "246-EDVT025-SL"
+   ],
+   "quantity": "1",
+   "price_usd": 1127.06,
+   "lead_time": null,
+   "sole_source_vendor": "Laerdal, Inc.",
+   "reason": "Laerdal is the sole source manufacturer for the SimBaby manikin and has a sourcewell contract in which the City of Pullman is a member.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fire Station 1",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Laerdal",
+   "model": "SimBaby ProTech Coverage",
+   "part": "Complete technical coverage for simulator, patient monitor, instructor laptop and/or SimPad against defects, including loaner coverage, updates and modifications",
+   "part_numbers": [
+    "246-B-ProTech-SB"
+   ],
+   "quantity": "1",
+   "price_usd": 12849.13,
+   "lead_time": "24 (Term)",
+   "sole_source_vendor": "Laerdal, Inc.",
+   "reason": "Laerdal is the sole source manufacturer for the SimBaby manikin and has a sourcewell contract in which the City of Pullman is a member.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fire Station 1",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Laerdal",
+   "model": "Deluxe Difficult Airway Trainer",
+   "part": "Deluxe Difficult Airway Trainer for EMS skills training",
+   "part_numbers": [
+    "261-10001"
+   ],
+   "quantity": "2",
+   "price_usd": 6070.24,
+   "lead_time": null,
+   "sole_source_vendor": "Laerdal, Inc.",
+   "reason": "Laerdal is the sole source manufacturer for the SimBaby manikin and has a sourcewell contract in which the City of Pullman is a member.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fire Station 1",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Laerdal",
+   "model": "Infant Airway Management Trainer",
+   "part": "Infant Airway Management Trainer for EMS skills training",
+   "part_numbers": [
+    "250-00250"
+   ],
+   "quantity": "2",
+   "price_usd": 1705.44,
+   "lead_time": null,
+   "sole_source_vendor": "Laerdal, Inc.",
+   "reason": "Laerdal is the sole source manufacturer for the SimBaby manikin and has a sourcewell contract in which the City of Pullman is a member.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fire Station 1",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Laerdal",
+   "model": "Laerdal Neonatal Intubation Trainer",
+   "part": "Neonatal Intubation Trainer for EMS skills training",
+   "part_numbers": [
+    "250-00101"
+   ],
+   "quantity": "2",
+   "price_usd": 1388.64,
+   "lead_time": null,
+   "sole_source_vendor": "Laerdal, Inc.",
+   "reason": "Laerdal is the sole source manufacturer for the SimBaby manikin and has a sourcewell contract in which the City of Pullman is a member.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fire Station 1",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Laerdal",
+   "model": "AED Trainer 3-pack",
+   "part": "AED Trainer 3-pack for EMS skills training",
+   "part_numbers": [
+    "197-02050"
+   ],
+   "quantity": "1",
+   "price_usd": 694.32,
+   "lead_time": null,
+   "sole_source_vendor": "Laerdal, Inc.",
+   "reason": "Laerdal is the sole source manufacturer for the SimBaby manikin and has a sourcewell contract in which the City of Pullman is a member.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fire Station 1",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "SYMBIO CS1201 Simulator 12 Lead",
+   "part": "12 Lead ECG simulator for skills training",
+   "part_numbers": [
+    "9851-008"
+   ],
+   "quantity": "1",
+   "price_usd": 929.66,
+   "lead_time": null,
+   "sole_source_vendor": "Laerdal, Inc.",
+   "reason": "Laerdal is the sole source manufacturer for the SimBaby manikin and has a sourcewell contract in which the City of Pullman is a member.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fire Station 1",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8628,
+  "out": 3260
+ },
+ "model": "claude-sonnet-5"
+}

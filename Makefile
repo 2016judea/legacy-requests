@@ -1,5 +1,5 @@
 PY=.venv/bin/python
-.PHONY: ingest ingest-granicus ingest-civicclerk ingest-primegov extract site deploy all supply join check
+.PHONY: ingest ingest-granicus ingest-civicclerk ingest-primegov ingest-boarddocs extract site deploy all supply join check
 
 .venv:
 	uv venv .venv && VIRTUAL_ENV= uv pip install --python .venv/bin/python -r requirements.txt
@@ -15,6 +15,8 @@ ingest-civicclerk: ## CivicClerk public OData API -> data/matters/civicclerk-*.j
 
 ingest-primegov: ## PrimeGov public portals -> data/matters/primegov-*.json (PDFs in data/cache/primegov)
 	$(PY) scripts/ingest_primegov.py
+ingest-boarddocs: ## sole-source agenda items + PDFs off BoardDocs sites in boarddocs.json (never re-downloads)
+	$(PY) scripts/ingest_boarddocs.py
 
 extract:     ## Claude turns each matter into records -> data/records.db + records.jsonl
 	$(PY) scripts/extract.py

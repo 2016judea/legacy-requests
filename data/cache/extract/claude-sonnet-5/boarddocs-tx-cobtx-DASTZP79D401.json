@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Club Car",
+   "model": "Tempo Gas (Kohler)",
+   "part": "Purchase of replacement golf cart fleet (70 carts) with trade-in of existing fleet",
+   "part_numbers": [],
+   "quantity": "70",
+   "price_usd": 224000.0,
+   "lead_time": "December 2024",
+   "sole_source_vendor": "Club Car LLC",
+   "reason": "The pricing is based on OMNIA Partners-Public Sector Contract Number EV2671-01. City of Bryan OMNIA Partners-Public Sector member Id is 4034117.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "City Course at Phillips Event Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8597,
+  "out": 969
+ },
+ "model": "claude-sonnet-5"
+}

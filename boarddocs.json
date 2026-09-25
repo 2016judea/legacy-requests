@@ -1,0 +1,17 @@
+[
+ {"site": "ca/ycwa", "agency": "Yuba Water Agency", "state": "CA", "kind": "water"},
+ {"site": "ca/cmsdca", "agency": "Costa Mesa Sanitary District", "state": "CA", "kind": "wastewater"},
+ {"site": "wa/clallampud", "agency": "Clallam County PUD No. 1", "state": "WA", "kind": "utility"},
+ {"site": "or/tpud", "agency": "Tillamook People's Utility District", "state": "OR", "kind": "utility"},
+ {"site": "tx/cobtx", "agency": "City of Bryan / Bryan Texas Utilities", "state": "TX", "kind": "city+utility"},
+ {"site": "fla/talgov", "agency": "City of Tallahassee", "state": "FL", "kind": "city+utility", "item_text_only": true},
+ {"site": "nc/raleigh", "agency": "City of Raleigh", "state": "NC", "kind": "city+utility", "item_text_only": true},
+ {"site": "mi/cohmi", "agency": "City of Hamtramck", "state": "MI", "kind": "city", "item_text_only": true},
+ {"site": "il/cowil", "agency": "City of Waukegan", "state": "IL", "kind": "city+utility", "item_text_only": true},
+ {"site": "il/coc", "agency": "City of Carbondale", "state": "IL", "kind": "city+utility", "item_text_only": true},
+ {"site": "nm/taosgov", "agency": "Town of Taos", "state": "NM", "kind": "city+utility", "item_text_only": true},
+ {"site": "ut/spanishfork", "agency": "Spanish Fork City", "state": "UT", "kind": "city+utility", "item_text_only": true},
+ {"site": "wa/pullman", "agency": "City of Pullman", "state": "WA", "kind": "city+utility", "item_text_only": true},
+ {"site": "mi/sault", "agency": "City of Sault Ste. Marie", "state": "MI", "kind": "city+utility", "item_text_only": true},
+ {"site": "co/eagleco", "agency": "Eagle County", "state": "CO", "kind": "county", "item_text_only": true}
+]

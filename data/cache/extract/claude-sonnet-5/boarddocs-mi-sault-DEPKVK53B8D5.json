@@ -1,0 +1,75 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Existing automatic transfer switchgear for the generators (to be demolished/replaced)",
+   "part_numbers": [],
+   "quantity": "2 (ATS 1 and ATS 2)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "That inspection noted that the automatic transfer switchgear for the generators were obsolete.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Water Treatment Facility",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "ASCO",
+   "model": "H Frame 7000 Series",
+   "part": "New automatic transfer switch (ATS 1) provided and installed on wall in electrical room",
+   "part_numbers": [
+    "736939"
+   ],
+   "quantity": "1",
+   "price_usd": 167175.0,
+   "lead_time": null,
+   "sole_source_vendor": "J. Ranck Electric, Inc.",
+   "reason": "Bid B-02-25 was issued in February and received only one bid for the project, despite having 3 companies for a project walkthrough.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Water Treatment Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ASCO",
+   "model": "J Frame 7000 Series",
+   "part": "New automatic transfer switch (ATS 2) provided and installed on wall in electrical room",
+   "part_numbers": [
+    "802093"
+   ],
+   "quantity": "1",
+   "price_usd": 74450.0,
+   "lead_time": null,
+   "sole_source_vendor": "J. Ranck Electric, Inc.",
+   "reason": "Bid B-02-25 was issued in February and received only one bid for the project, despite having 3 companies for a project walkthrough.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Water Treatment Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "New electrical enclosures manufactured and mounted to house the new transfer switches (new housekeeping pads for ATS 1 and 2)",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "J. Ranck Electric, Inc.",
+   "reason": "During the bid process the Water Director was contacted by the manufacturer of the switchgear to notify him that the existing electrical enclosures would not be able to house the new transfer switches.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Water Treatment Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 19251,
+  "out": 1937
+ },
+ "model": "claude-sonnet-5"
+}

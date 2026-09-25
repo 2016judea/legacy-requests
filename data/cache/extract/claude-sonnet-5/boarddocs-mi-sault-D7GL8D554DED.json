@@ -1,0 +1,95 @@
+{
+ "records": [
+  {
+   "manufacturer": "Amkus",
+   "model": "IC750",
+   "part": "IC750 Cutter (school tool)",
+   "part_numbers": [
+    "Amkus-IC750LB"
+   ],
+   "quantity": "1",
+   "price_usd": 8762.67,
+   "lead_time": null,
+   "sole_source_vendor": "Dinges Fire Equipment",
+   "reason": "Territorial agreements between manufacturers and dealers often leaves only one point of purchase for specific equipment. This is the case with Amkus tools.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sault Ste. Marie Fire Dept.",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Amkus",
+   "model": "IS320",
+   "part": "IS320 ION Spreader (school tool)",
+   "part_numbers": [
+    "Amkus-IS320LB"
+   ],
+   "quantity": "1",
+   "price_usd": 9814.0,
+   "lead_time": null,
+   "sole_source_vendor": "Dinges Fire Equipment",
+   "reason": "Territorial agreements between manufacturers and dealers often leaves only one point of purchase for specific equipment. This is the case with Amkus tools.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sault Ste. Marie Fire Dept.",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Amkus",
+   "model": null,
+   "part": "Extended Reach Tips - AMK-24, AMK-30CRT & ION Spreaders (1 Pair)",
+   "part_numbers": [
+    "Amkus-KS0029-KIT"
+   ],
+   "quantity": "1",
+   "price_usd": 794.67,
+   "lead_time": null,
+   "sole_source_vendor": "Dinges Fire Equipment",
+   "reason": "Territorial agreements between manufacturers and dealers often leaves only one point of purchase for specific equipment. This is the case with Amkus tools.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sault Ste. Marie Fire Dept.",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Amkus",
+   "model": null,
+   "part": "Battery Kit - two 9/3 AMP-HR 60V batteries & single charger",
+   "part_numbers": [
+    "Amkus-Ibatt-Kit"
+   ],
+   "quantity": "2",
+   "price_usd": 950.66,
+   "lead_time": null,
+   "sole_source_vendor": "Dinges Fire Equipment",
+   "reason": "Territorial agreements between manufacturers and dealers often leaves only one point of purchase for specific equipment. This is the case with Amkus tools.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sault Ste. Marie Fire Dept.",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Amkus",
+   "model": "ITR500",
+   "part": "ITR500 Ram, used for lifting and extended spreading operations in extrication",
+   "part_numbers": [
+    "Amkus-ITR500LB"
+   ],
+   "quantity": "1",
+   "price_usd": 10373.0,
+   "lead_time": null,
+   "sole_source_vendor": "Dinges Fire Equipment",
+   "reason": "Territorial agreements between manufacturers and dealers often leaves only one point of purchase for specific equipment. This is the case with Amkus tools.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sault Ste. Marie Fire Dept.",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5109,
+  "out": 1084
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "One (1) new, rebuilt, or reconditioned transformer, 12/14MVA, 69kV/12.47kV",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 600000,
+   "lead_time": "Delivery by December 1, 2025",
+   "sole_source_vendor": null,
+   "reason": "This purchase is for Calawah substation.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Calawah Substation",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10396,
+  "out": 519
+ },
+ "model": "claude-sonnet-5"
+}

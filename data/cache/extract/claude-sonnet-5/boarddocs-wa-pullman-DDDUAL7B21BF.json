@@ -1,0 +1,38 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cellebrite",
+   "model": "Inseyets",
+   "part": "Three year contract for purpose-built, all-inclusive digital forensic solution (Mobile Digital Forensics Solution) for Pullman Police Department",
+   "part_numbers": [
+    "B-CNR-05-003",
+    "S-UFD-20-003",
+    "S-UFD-20-006",
+    "F-UFD-06-005",
+    "F-KAS-00-001",
+    "S-UFD-04-059",
+    "S-AIS-20-001",
+    "S-UFD-19-001"
+   ],
+   "quantity": "1",
+   "price_usd": 62967.73,
+   "lead_time": null,
+   "sole_source_vendor": "Cellebrite",
+   "reason": "The two companies that provide industry-standard service for advanced Mobile Device Forensics are Magnet and Cellebrite. Magnet is known to provide superior service for iOS devices while Cellebrite is known to provide superior service for Android devices.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Pullman Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8281,
+  "out": 345
+ },
+ "model": "claude-sonnet-5"
+}

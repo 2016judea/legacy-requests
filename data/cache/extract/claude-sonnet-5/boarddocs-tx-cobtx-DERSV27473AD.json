@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": "Terex",
+   "model": null,
+   "part": "Fleet Repairs, OEM Service and Parts Sole S..",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 100000,
+   "lead_time": null,
+   "sole_source_vendor": "TEREX USA, LLC",
+   "reason": "Fleet Repairs, OEM Service and Parts Sole S..",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Altec",
+   "model": null,
+   "part": "Tools & Supplies Sourcewell 110421 Alt Sole ..",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 23000,
+   "lead_time": null,
+   "sole_source_vendor": "ALTEC INDUSTRIES, INC.",
+   "reason": "Tools & Supplies Sourcewell 110421 Alt Sole ..",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "MacKay Communications (sole source letter ..",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 6437,
+   "lead_time": null,
+   "sole_source_vendor": "MACKAY COMMUNICATIONS, INC.",
+   "reason": "MacKay Communications (sole source letter ..",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "OEM or Specialized/Recalls",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 25000,
+   "lead_time": null,
+   "sole_source_vendor": "BUD CROSS FORD INC.",
+   "reason": "OEM or Specialized/Recalls",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Chevrolet",
+   "model": null,
+   "part": "OEM/Specialized Parts or Recalls",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 10000,
+   "lead_time": null,
+   "sole_source_vendor": "AGGIELAND CHEVROLET",
+   "reason": "OEM/Specialized Parts or Recalls",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM/Specialized Parts/Recalls -FY25 BPO",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 15000,
+   "lead_time": null,
+   "sole_source_vendor": "CALDWELL COUNTRY",
+   "reason": "OEM/Specialized Parts/Recalls -FY25 BPO",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "BPO for Communications Goods/Services Sol..",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 25000,
+   "lead_time": null,
+   "sole_source_vendor": "MOTOROLA SOLUTIONS, INC.",
+   "reason": "BPO for Communications Goods/Services Sol..",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 51559,
+  "out": 9678
+ },
+ "model": "claude-sonnet-5"
+}

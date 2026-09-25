@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Existing in-car, body-worn, and interview room camera systems purchased in 2016",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The current vendor no longer manufactures or sells compatible units, cords, or components and has discontinued meaningful system updates, dashboard improvements, and software support.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sault Ste. Marie Police Department",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "V700",
+   "part": "Replacement and expansion body-worn camera system for sworn officers",
+   "part_numbers": [],
+   "quantity": "18 initial officers, up to 24 total",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the City has completed a competitive request-for-proposals process, received vendor bids, and advanced to field testing of the Motorola V700 body-worn camera system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sault Ste. Marie Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Body Cameras",
+   "part_numbers": [],
+   "quantity": "24 per year (Years 1-3)",
+   "price_usd": 16075.44,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The body-worn cameras are central to the project and will provide accurate documentation of officer interactions and other law enforcement activity.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sault Ste. Marie Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Storage (digital evidence storage)",
+   "part_numbers": [],
+   "quantity": "24 per year (Years 1-3)",
+   "price_usd": 11019.6,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "secure, scalable, CJIS-compliant storage will support the proper retention and management of digital evidence.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Sault Ste. Marie Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Command Central DEMS (digital evidence management system licenses)",
+   "part_numbers": [],
+   "quantity": "27 per year (Years 1-3)",
+   "price_usd": 14692.59,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "User and administrative licenses will provide authorized system access and oversight, while implementation services will support system configuration, integration, deployment, and training.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Sault Ste. Marie Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Batteries Liion",
+   "part_numbers": [],
+   "quantity": "24 per year (Years 1-3)",
+   "price_usd": 1069.2,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Supporting hardware, including mounts, batteries, and charging and docking equipment, will ensure reliable operation, simultaneous charging, and secure video upload.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sault Ste. Marie Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Hardware Repair Transfer Station/Smartdock",
+   "part_numbers": [],
+   "quantity": "2 per year (Years 1-3)",
+   "price_usd": 583.38,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Supporting hardware, including mounts, batteries, and charging and docking equipment, will ensure reliable operation, simultaneous charging, and secure video upload.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sault Ste. Marie Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Transfer Station-Video-ASA-Service",
+   "part_numbers": [],
+   "quantity": "2 per year (Years 1-3)",
+   "price_usd": 1296.42,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "implementation services will support system configuration, integration, deployment, and training.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Sault Ste. Marie Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Deployment Services",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 8139.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "implementation services will support system configuration, integration, deployment, and training.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Sault Ste. Marie Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 43399,
+  "out": 6995
+ },
+ "model": "claude-sonnet-5"
+}

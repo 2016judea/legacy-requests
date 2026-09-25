@@ -1,0 +1,34 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stryker",
+   "model": "LIFEPAK 1000",
+   "part": "Automated External Defibrillator (AED) units for Police Department patrol vehicles, including adult and infant/child pads",
+   "part_numbers": [
+    "99425-000023",
+    "41425-000034",
+    "11101-000017",
+    "11101-000016"
+   ],
+   "quantity": "7",
+   "price_usd": 21921.55,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker",
+   "reason": "Stryker is the sole-source provider in the hospital, emergency response services, and emergency response training markets in the U.S. and Canada for the Lifepack 1000 AED.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Police Department patrol vehicles",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 15138,
+  "out": 258
+ },
+ "model": "claude-sonnet-5"
+}

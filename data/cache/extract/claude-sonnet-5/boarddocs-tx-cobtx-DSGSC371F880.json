@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "LG",
+   "model": "Variable Refrigerant Flow (VRF) system",
+   "part": "Original HVAC system requiring replacement due to failure",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "requires replacement of its heating, ventilation, and air conditioning (HVAC) system due to the failure of the original LG Variable Refrigerant Flow (VRF) system installed during construction of the facility",
+   "equipment_class": "HVAC",
+   "installed_location": "City of Bryan Fire Station No. 2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "25-ton portable HVAC unit (temporary cooling equipment)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The Fire Station is currently operating using temporary equipment consisting of a 25-ton portable HVAC unit powered by a 100-kW diesel generator to maintain climate control and allow uninterrupted Fire Department operations.",
+   "equipment_class": "HVAC",
+   "installed_location": "City of Bryan Fire Station No. 2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "100-kW diesel generator powering temporary HVAC unit",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The Fire Station is currently operating using temporary equipment consisting of a 25-ton portable HVAC unit powered by a 100-kW diesel generator to maintain climate control and allow uninterrupted Fire Department operations.",
+   "equipment_class": "generator",
+   "installed_location": "City of Bryan Fire Station No. 2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Direct Expansion (DX) split HVAC system",
+   "part": "New HVAC system replacing failed VRF system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1450000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The proposed project includes design and installation of a new Direct Expansion (DX) split HVAC system to replace the existing VRF system.",
+   "equipment_class": "HVAC",
+   "installed_location": "City of Bryan Fire Station No. 2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Dedicated Outdoor Air System (DOAS)",
+   "part": "Two Dedicated Outdoor Air System units for ventilation and air conditioning efficiency",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "two Dedicated Outdoor Air System (DOAS) units to improve ventilation and air conditioning efficiency",
+   "equipment_class": "HVAC",
+   "installed_location": "City of Bryan Fire Station No. 2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Gas-fired furnaces to reduce electrical demand",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "gas-fired furnaces to reduce electrical demand",
+   "equipment_class": "HVAC",
+   "installed_location": "City of Bryan Fire Station No. 2",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 51555,
+  "out": 4113
+ },
+ "model": "claude-sonnet-5"
+}

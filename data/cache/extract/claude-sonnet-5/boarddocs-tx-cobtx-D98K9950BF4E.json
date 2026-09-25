@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Altec Industries, Inc.",
+   "model": null,
+   "part": "Fleet Repairs, Parts and Service",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 125000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Altec Industries, Inc.",
+   "reason": "Sourcewell # 110421- ALT",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fleet Repairs, Parts and Service- FY25 BPO",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 125000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Lonestar Truck Group Bryan",
+   "reason": "TIPS# 221001",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Equipment Rentals",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 125000.0,
+   "lead_time": null,
+   "sole_source_vendor": "H&E Equipment Services Inc",
+   "reason": "Buyboard # 740- 24",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Terex USA, LLC",
+   "model": null,
+   "part": "Repairs, OEM Service & Parts",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 100000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Terex USA, LLC",
+   "reason": "Sole Source Provider-letter on file",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 37193,
+  "out": 12637
+ },
+ "model": "claude-sonnet-5"
+}

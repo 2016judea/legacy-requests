@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Gardner Denver",
+   "model": "Cycloblower H.E. 160CDL480B",
+   "part": "Replacement Blower - Cycloblower H.E.160CDL480B bare blower",
+   "part_numbers": [
+    "160CDL480B"
+   ],
+   "quantity": "1",
+   "price_usd": 40935.0,
+   "lead_time": "7 week",
+   "sole_source_vendor": "Power Supply Industries",
+   "reason": "Since this is a partial replacement for a single unit of the set, only the original equipment manufacturer can provide the necessary replacement to match the remaining units.",
+   "equipment_class": "other equipment",
+   "installed_location": "Northwest Wastewater Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5834,
+  "out": 239
+ },
+ "model": "claude-sonnet-5"
+}

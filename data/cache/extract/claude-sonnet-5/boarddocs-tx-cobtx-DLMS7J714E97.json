@@ -1,0 +1,151 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Hover Net",
+   "part": "Play structure component - Hover Net",
+   "part_numbers": [
+    "#4631"
+   ],
+   "quantity": "1",
+   "price_usd": 26433.0,
+   "lead_time": null,
+   "sole_source_vendor": "May Recreation Equipment & Design, L.P.",
+   "reason": "May Recreation Equipment and Design, L.P. has gone through a competitive bid process for the parks and recreation equipment, products, and installation services as they are a contracted BuyBoard Purchasing Cooperative vendor.",
+   "equipment_class": "other equipment",
+   "installed_location": "Villa West Park",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Ten Spin",
+   "part": "Play structure component - Ten Spin",
+   "part_numbers": [
+    "#304"
+   ],
+   "quantity": "1",
+   "price_usd": 4912.0,
+   "lead_time": null,
+   "sole_source_vendor": "May Recreation Equipment & Design, L.P.",
+   "reason": "May Recreation Equipment and Design, L.P. has gone through a competitive bid process for the parks and recreation equipment, products, and installation services as they are a contracted BuyBoard Purchasing Cooperative vendor.",
+   "equipment_class": "other equipment",
+   "installed_location": "Villa West Park",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Flip-Flop Climber",
+   "part": "Play structure component - Flip-Flop Climber",
+   "part_numbers": [
+    "#434"
+   ],
+   "quantity": "1",
+   "price_usd": 3480.0,
+   "lead_time": null,
+   "sole_source_vendor": "May Recreation Equipment & Design, L.P.",
+   "reason": "May Recreation Equipment and Design, L.P. has gone through a competitive bid process for the parks and recreation equipment, products, and installation services as they are a contracted BuyBoard Purchasing Cooperative vendor.",
+   "equipment_class": "other equipment",
+   "installed_location": "Villa West Park",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Barrel Ride",
+   "part": "Play structure component - Barrel Ride",
+   "part_numbers": [
+    "#937"
+   ],
+   "quantity": "1",
+   "price_usd": 3036.0,
+   "lead_time": null,
+   "sole_source_vendor": "May Recreation Equipment & Design, L.P.",
+   "reason": "May Recreation Equipment and Design, L.P. has gone through a competitive bid process for the parks and recreation equipment, products, and installation services as they are a contracted BuyBoard Purchasing Cooperative vendor.",
+   "equipment_class": "other equipment",
+   "installed_location": "Villa West Park",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "4-post Hip Roof Shade Structure",
+   "part": "35'x35'x10'eh 4-post Hip Roof Shade Structure for Play Area 1",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 26779.0,
+   "lead_time": null,
+   "sole_source_vendor": "May Recreation Equipment & Design, L.P.",
+   "reason": "May Recreation Equipment and Design, L.P. has gone through a competitive bid process for the parks and recreation equipment, products, and installation services as they are a contracted BuyBoard Purchasing Cooperative vendor.",
+   "equipment_class": "other equipment",
+   "installed_location": "Villa West Park",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Bonded Shredded Rubber Mulch Safety Surfacing",
+   "part": "Approx. Bonded Shredded Rubber Mulch Safety Surfacing, 2,830sf - 4\" depth for up to 8'cfh, 6\" compacted stone base, drainage to outside of curb (Play Area 1)",
+   "part_numbers": [],
+   "quantity": "2,830sf",
+   "price_usd": 66081.0,
+   "lead_time": null,
+   "sole_source_vendor": "May Recreation Equipment & Design, L.P.",
+   "reason": "May Recreation Equipment and Design, L.P. has gone through a competitive bid process for the parks and recreation equipment, products, and installation services as they are a contracted BuyBoard Purchasing Cooperative vendor.",
+   "equipment_class": "other equipment",
+   "installed_location": "Villa West Park",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Custom Kids' Choice Play Structure",
+   "part": "Custom Kids' Choice Play Structure for Play Area 2",
+   "part_numbers": [
+    "#714S660C"
+   ],
+   "quantity": "1",
+   "price_usd": 107765.0,
+   "lead_time": null,
+   "sole_source_vendor": "May Recreation Equipment & Design, L.P.",
+   "reason": "May Recreation Equipment and Design, L.P. has gone through a competitive bid process for the parks and recreation equipment, products, and installation services as they are a contracted BuyBoard Purchasing Cooperative vendor.",
+   "equipment_class": "other equipment",
+   "installed_location": "Villa West Park",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "4-post Hip Roof Shade Structure",
+   "part": "30'x40'x10'eh 4-post Hip Roof Shade Structure for Play Area 2",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 27440.0,
+   "lead_time": null,
+   "sole_source_vendor": "May Recreation Equipment & Design, L.P.",
+   "reason": "May Recreation Equipment and Design, L.P. has gone through a competitive bid process for the parks and recreation equipment, products, and installation services as they are a contracted BuyBoard Purchasing Cooperative vendor.",
+   "equipment_class": "other equipment",
+   "installed_location": "Villa West Park",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Bonded Shredded Rubber Mulch Safety Surfacing",
+   "part": "Approx. Bonded Shredded Rubber Mulch Safety Surfacing, 3,850sf - 4\" depth for up to 8'cfh, 6\" compacted stone base, drainage to outside of curb (Play Area 2)",
+   "part_numbers": [],
+   "quantity": "3,850sf",
+   "price_usd": 89898.0,
+   "lead_time": null,
+   "sole_source_vendor": "May Recreation Equipment & Design, L.P.",
+   "reason": "May Recreation Equipment and Design, L.P. has gone through a competitive bid process for the parks and recreation equipment, products, and installation services as they are a contracted BuyBoard Purchasing Cooperative vendor.",
+   "equipment_class": "other equipment",
+   "installed_location": "Villa West Park",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 19496,
+  "out": 3818
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Syneco Systems",
+   "model": "PeaceMaker 6X5",
+   "part": "Odor Control Scrubber for Elden Pump Station - PeaceMaker 6x5 Dry Air Scrubber with 105 cubic feet of Converting & Polishing Media and Blower",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 36720.0,
+   "lead_time": "16 to 20 week lead time",
+   "sole_source_vendor": "SYNECO Systems, Inc.",
+   "reason": "The District staff have reviewed other units and can't seem to find packaged units that remove odors as effectively as the PeaceMaker. Other vendors have units out-of-state or don't have units used within the South Coast Air Quality Management District.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Elden Pump Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5250,
+  "out": 314
+ },
+ "model": "claude-sonnet-5"
+}

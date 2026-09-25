@@ -1,0 +1,123 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "12\" Hose Rework, Palletize, Hose Tag lengths to customer's request, includes aluminum MXF Camlocks",
+   "part_numbers": [
+    "Repair/Rework-"
+   ],
+   "quantity": "12.0",
+   "price_usd": 51900.0,
+   "lead_time": null,
+   "sole_source_vendor": "West Coast Safety Supply, Inc.",
+   "reason": "West Coast Safety because they are the only provider of the layflat hose in California and provided the initial materials and hose purchase.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Elden Emergency Bypass, Costa Mesa Sanitary District",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "90\u00b0 Elbow",
+   "part": "12\" 90\u00b0 Elbow, 12\" Male Camlock X 12\" Female Camlock",
+   "part_numbers": [
+    "90DE12CAM"
+   ],
+   "quantity": "6.0",
+   "price_usd": 50400.0,
+   "lead_time": null,
+   "sole_source_vendor": "West Coast Safety Supply, Inc.",
+   "reason": "West Coast Safety because they are the only provider of the layflat hose in California and provided the initial materials and hose purchase.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Elden Emergency Bypass, Costa Mesa Sanitary District",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Male Camlock X Flange",
+   "part": "12\" Male Camlock X 12\" 150# Alum Flange",
+   "part_numbers": [
+    "12MCX12ALF-"
+   ],
+   "quantity": "2.0",
+   "price_usd": 9500.0,
+   "lead_time": null,
+   "sole_source_vendor": "West Coast Safety Supply, Inc.",
+   "reason": "West Coast Safety because they are the only provider of the layflat hose in California and provided the initial materials and hose purchase.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Elden Emergency Bypass, Costa Mesa Sanitary District",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Flange X Flange Spool",
+   "part": "12\" 150# X 12\" Flange X Flange Spool",
+   "part_numbers": [
+    "12150X12FX12FS-"
+   ],
+   "quantity": "2.0",
+   "price_usd": 6600.0,
+   "lead_time": null,
+   "sole_source_vendor": "West Coast Safety Supply, Inc.",
+   "reason": "West Coast Safety because they are the only provider of the layflat hose in California and provided the initial materials and hose purchase.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Elden Emergency Bypass, Costa Mesa Sanitary District",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Banding Kit",
+   "part": "12\" Banding Kit (includes 4 collars for one hose)",
+   "part_numbers": [
+    "12BKIT-"
+   ],
+   "quantity": "1.0",
+   "price_usd": 995.0,
+   "lead_time": null,
+   "sole_source_vendor": "West Coast Safety Supply, Inc.",
+   "reason": "West Coast Safety because they are the only provider of the layflat hose in California and provided the initial materials and hose purchase.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Elden Emergency Bypass, Costa Mesa Sanitary District",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Three (3) special trailers with reels and motor for deploying and retrieving hose",
+   "part_numbers": [],
+   "quantity": "three (3)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "West Coast Safety Supply, Inc.",
+   "reason": "The Board approved the initial sole-source purchase of layflat hose and Trailers in December 2022.",
+   "equipment_class": "other equipment",
+   "installed_location": "Elden Emergency Bypass, Costa Mesa Sanitary District",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "7,920 feet of 12\" emergency, 175 psi hose",
+   "part_numbers": [],
+   "quantity": "7,920 feet",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "West Coast Safety Supply, Inc.",
+   "reason": "The Board approved the initial sole-source purchase of layflat hose and Trailers in December 2022.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Elden Emergency Bypass, Costa Mesa Sanitary District",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4596,
+  "out": 3593
+ },
+ "model": "claude-sonnet-5"
+}

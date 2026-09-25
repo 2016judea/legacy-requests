@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Valmont Industries",
+   "model": null,
+   "part": "Concrete poles for Brushy Creek 138kV transmission line construction",
+   "part_numbers": [],
+   "quantity": "21",
+   "price_usd": 1092001,
+   "lead_time": null,
+   "sole_source_vendor": "Preferred Sales Agency, Ltd.",
+   "reason": "Valmont has furnished concrete poles for several other BTU transmission line projects and has proven to be reputable and reliable.",
+   "equipment_class": "other equipment",
+   "installed_location": "Brushy Creek Substation, near Jones Road and Raymond Stotzer Parkway (Highway 60)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement of existing distribution bus, switches, and breakers at Steele Store Substation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1444968.8,
+   "lead_time": null,
+   "sole_source_vendor": "Lambda Construction LTD",
+   "reason": "The existing distribution portion of Steele Store Substation is 1950's vintage with obsolete equipment.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Steele Store Substation, 11650 W SH21, Bryan, TX",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6296,
+  "out": 2165
+ },
+ "model": "claude-sonnet-5"
+}

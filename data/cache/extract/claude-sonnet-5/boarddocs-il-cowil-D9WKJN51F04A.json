@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Industrial Systems Ltd.",
+   "model": "InfernalMelt R",
+   "part": "liquid de-icer",
+   "part_numbers": [],
+   "quantity": "4,500 gallons",
+   "price_usd": 45000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Industrial Systems Ltd.",
+   "reason": "Industrial Systems is the only company that produces InfernalMelt R which is the specific mixture that Waukegan uses based on the road conditions including freeze point that Waukegan has to face during winter weather.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5767,
+  "out": 1011
+ },
+ "model": "claude-sonnet-5"
+}

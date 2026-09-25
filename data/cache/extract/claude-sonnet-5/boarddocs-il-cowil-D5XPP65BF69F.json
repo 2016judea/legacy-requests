@@ -1,0 +1,211 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": "APX NEXT",
+   "part": "APX NEXT ALL-BAND MODEL 4.5 PORTABLE radio devices",
+   "part_numbers": [
+    "H55TGT9PW8AN",
+    "BD00001AA",
+    "H499KC",
+    "H38DA",
+    "Q806CH",
+    "QA09028AA",
+    "QA03399AK",
+    "Q387CB",
+    "QA00580BA",
+    "QA09001AM",
+    "BD00010AA",
+    "QA01767BL",
+    "Q498BN",
+    "H797DW",
+    "Q15AU",
+    "QA09113AA",
+    "Q361CD",
+    "QA01648AA",
+    "QA07710AA",
+    "QA09030AA",
+    "QA09017AA"
+   ],
+   "quantity": "7",
+   "price_usd": 42111.51,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola is the sole source provider for the police department radios",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "IMPRES Gen2",
+   "part": "BATTERY PACK,IMPRES GEN2, LIION,IP68, 4400T",
+   "part_numbers": [
+    "NNTN9216A"
+   ],
+   "quantity": "7",
+   "price_usd": 1267.56,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola is the sole source provider for the police department radios",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "APX NEXT DMS",
+   "part": "APX NEXT DMS ESSENTIAL device management service",
+   "part_numbers": [
+    "LSV01S03446A"
+   ],
+   "quantity": "7",
+   "price_usd": 2692.2,
+   "lead_time": "5 YEARS",
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola is the sole source provider for the police department radios",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "RadioCentral",
+   "part": "RADIOCENTRAL PROGRAMMING service",
+   "part_numbers": [
+    "LSV01S03082A"
+   ],
+   "quantity": "7",
+   "price_usd": 1121.4,
+   "lead_time": "5 YEARS",
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola is the sole source provider for the police department radios",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "SmartProgramming",
+   "part": "SMARTPROGRAMMING subscription service",
+   "part_numbers": [
+    "SSV01S01407A"
+   ],
+   "quantity": "7",
+   "price_usd": 2625.0,
+   "lead_time": "5 YEARS",
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola is the sole source provider for the police department radios",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "SmartConnect",
+   "part": "SMARTCONNECT subscription service",
+   "part_numbers": [
+    "SSV01S01406A"
+   ],
+   "quantity": "7",
+   "price_usd": 2625.0,
+   "lead_time": "5 YEARS",
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola is the sole source provider for the police department radios",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "SmartLocate",
+   "part": "SMARTLOCATE subscription service",
+   "part_numbers": [
+    "SSV01S01476A"
+   ],
+   "quantity": "7",
+   "price_usd": 2625.0,
+   "lead_time": "5 YEARS",
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola is the sole source provider for the police department radios",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "SmartMapping",
+   "part": "SMARTMAPPING subscription service",
+   "part_numbers": [
+    "SSV01S01907A"
+   ],
+   "quantity": "7",
+   "price_usd": 2625.0,
+   "lead_time": "5 YEARS",
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola is the sole source provider for the police department radios",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "IMPRES 2",
+   "part": "IMPRES 2 SUC, 3.0A, 120VAC, TYPE A PLUG, NA charger",
+   "part_numbers": [
+    "NNTN9199A"
+   ],
+   "quantity": "7",
+   "price_usd": 866.46,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola is the sole source provider for the police department radios",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "XVP850",
+   "part": "ACCESSORY KIT,XVP850 REMOTE SPEAKER MICROPHONE WITH CHANNEL KNOB",
+   "part_numbers": [
+    "PMMN4135B"
+   ],
+   "quantity": "7",
+   "price_usd": 2593.85,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola is the sole source provider for the police department radios",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "DEVICE PROGRAMMING service",
+   "part_numbers": [
+    "LSV00Q00202A"
+   ],
+   "quantity": "7",
+   "price_usd": 749.98,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola is the sole source provider for the police department radios",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9156,
+  "out": 5989
+ },
+ "model": "claude-sonnet-5"
+}

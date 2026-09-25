@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Damaged/unusable and obsolete ice rink refrigeration plant",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Is worn out and unusable to the extent that the item is no longer economical for continued use by the Town",
+   "equipment_class": "HVAC",
+   "installed_location": "ice rink",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2997,
+  "out": 167
+ },
+ "model": "claude-sonnet-5"
+}

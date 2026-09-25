@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Bulk gasoline and diesel fuel purchases for municipal fleet and equipment via MiDEAL State Contract No. 250000001316",
+   "part_numbers": [],
+   "quantity": "45,000 to 50,000 gallons annually",
+   "price_usd": null,
+   "lead_time": "3 business days from receipt of order",
+   "sole_source_vendor": "Crystal Flash",
+   "reason": "Rather than soliciting separate competitive bids, staff recommends utilizing the State of Michigan's MiDEAL Extended Purchasing Program.",
+   "equipment_class": "other equipment",
+   "installed_location": "Kemp Marina; Department of Public Works, Parks and Recreation, Marina",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Bulk gasoline and diesel fuel purchases for Kemp Marina and City fleet",
+   "part_numbers": [],
+   "quantity": "45,000 to 50,000 gallons annually",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Autore Oil & Propane Co.",
+   "reason": "Autore has supplied bulk fuel to Kemp Marina for more than 10 years and, while not considered a local vendor under the City's purchasing policy, is the nearest bulk fuel supplier serving the area.",
+   "equipment_class": "other equipment",
+   "installed_location": "Kemp Marina",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 51063,
+  "out": 490
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,149 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cybernetics",
+   "model": "iSAN",
+   "part": "Annual extended maintenance with upgrade for Priority Exchange advance replacement service",
+   "part_numbers": [
+    "AM-RTF-P24/iSAN",
+    "CY-ISAN-3424S"
+   ],
+   "quantity": "2",
+   "price_usd": 8504.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cybernetics",
+   "reason": "Cybernetics is the sole provider of maintenance service due to the exclusive features offered with our equipment and proprietary technology.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "100 N. Martin Luther King Jr. Avenue, Waukegan, IL 60085",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cybernetics",
+   "model": "iSAN",
+   "part": "Annual extended maintenance with upgrade for Priority Exchange advance replacement service",
+   "part_numbers": [
+    "AM-RTF-P24/iSAN",
+    "CY-ISAN-5424S"
+   ],
+   "quantity": "2",
+   "price_usd": 10364.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cybernetics",
+   "reason": "Cybernetics is the sole provider of maintenance service due to the exclusive features offered with our equipment and proprietary technology.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "100 N. Martin Luther King Jr. Avenue, Waukegan, IL 60085",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cybernetics",
+   "model": null,
+   "part": "Annual maintenance upgrade for On-Site Service, next business day",
+   "part_numbers": [
+    "AM-OST-NBD"
+   ],
+   "quantity": "4",
+   "price_usd": 6188.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cybernetics",
+   "reason": "Cybernetics is the sole provider of maintenance service due to the exclusive features offered with our equipment and proprietary technology.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "100 N. Martin Luther King Jr. Avenue, Waukegan, IL 60085",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cybernetics",
+   "model": "iSAN+",
+   "part": "Annual extended maintenance with upgrade for Priority Exchange advance replacement service; includes Legacy Drive Coverage",
+   "part_numbers": [
+    "AM-RTF-P24/ISAN+/LDC",
+    "CY-ISAN1-D12/T24"
+   ],
+   "quantity": "2",
+   "price_usd": 8764.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cybernetics",
+   "reason": "Cybernetics is the sole provider of maintenance service due to the exclusive features offered with our equipment and proprietary technology.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "101 North West Street Police Department, Waukegan, IL 60085",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cybernetics",
+   "model": "EXP+",
+   "part": "Annual extended maintenance with upgrade for Priority Exchange advance replacement service; includes Legacy Drive Coverage",
+   "part_numbers": [
+    "AM-RTF-P24/EXP+/LDC",
+    "CY-EX8/T24"
+   ],
+   "quantity": "1",
+   "price_usd": 3049.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cybernetics",
+   "reason": "Cybernetics is the sole provider of maintenance service due to the exclusive features offered with our equipment and proprietary technology.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "101 North West Street Police Department, Waukegan, IL 60085",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cybernetics",
+   "model": "iSAN+",
+   "part": "Annual extended maintenance with upgrade for Priority Exchange advance replacement service; includes Legacy Drive Coverage",
+   "part_numbers": [
+    "AM-RTF-P24/ISAN+/LDC",
+    "CY-ISAN-3224"
+   ],
+   "quantity": "2",
+   "price_usd": 7920.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cybernetics",
+   "reason": "Cybernetics is the sole provider of maintenance service due to the exclusive features offered with our equipment and proprietary technology.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "101 North West Street Police Department, Waukegan, IL 60085",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cybernetics",
+   "model": "iSAN+",
+   "part": "Annual extended maintenance with upgrade for Priority Exchange advance replacement service",
+   "part_numbers": [
+    "AM-RTF-P24/iSAN+",
+    "CY-ISAN-3224"
+   ],
+   "quantity": "1",
+   "price_usd": 3131.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cybernetics",
+   "reason": "Cybernetics is the sole provider of maintenance service due to the exclusive features offered with our equipment and proprietary technology.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "101 North West Street Police Department, Waukegan, IL 60085",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cybernetics",
+   "model": null,
+   "part": "3.8TB flash drive, mixed-used, SED capable, 2.5 inch - retrofit for iSAN-5424S",
+   "part_numbers": [
+    "RDI-SSDS-3.8T"
+   ],
+   "quantity": "13",
+   "price_usd": 50700.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cybernetics",
+   "reason": "Cybernetics is the sole provider of maintenance service due to the exclusive features offered with our equipment and proprietary technology.",
+   "equipment_class": "other equipment",
+   "installed_location": "100 North Martin Luther King Jr Avenue, Waukegan, IL 60085",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10972,
+  "out": 4396
+ },
+ "model": "claude-sonnet-5"
+}

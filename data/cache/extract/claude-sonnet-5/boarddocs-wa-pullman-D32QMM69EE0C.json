@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Esri",
+   "model": "ArcGIS - Small Municipal and County Government Enterprise Agreement (SGEA)",
+   "part": "GIS software enterprise license agreement (desktop, server, online, mobile GIS licenses and maintenance)",
+   "part_numbers": [
+    "168178"
+   ],
+   "quantity": "1 (3-year term, populations 25,001-50,000)",
+   "price_usd": 107700,
+   "lead_time": null,
+   "sole_source_vendor": "Esri (Environmental Systems Research Institute, Inc.)",
+   "reason": "Domestically, Esri is the only source of maintenance (updates and technical support) for all Esri software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Pullman",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 17607,
+  "out": 261
+ },
+ "model": "claude-sonnet-5"
+}

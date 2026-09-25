@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Programmable Logic Controller (PLC) system replacement at water treatment plant",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 41175.5,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The Project is to replace the Programmable Logic Controller (PLC) system at a water treatment plant. The PLC is responsible for controlling all aspects of the operation of the water treatment plant.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "North Yuba Water District water treatment plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14737,
+  "out": 216
+ },
+ "model": "claude-sonnet-5"
+}

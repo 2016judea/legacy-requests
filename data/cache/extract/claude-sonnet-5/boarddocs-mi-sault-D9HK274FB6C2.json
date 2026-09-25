@@ -1,0 +1,207 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kamstrup",
+   "model": "2200",
+   "part": "5/8X1/2\" 2200 ALD COMPOSITE METER",
+   "part_numbers": [
+    "5/8X1/2\""
+   ],
+   "quantity": "1",
+   "price_usd": 325.0,
+   "lead_time": null,
+   "sole_source_vendor": "EJ Prescott",
+   "reason": "The above-mentioned company has the exclusive sole source reselling rights of Kamstrup meters and solutions up to one hundred thousand meters in the state of Michigan.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "2200",
+   "part": "3/4\"X7-1/2\" 2200 ALD COMPOSITE METER",
+   "part_numbers": [
+    "3/4\"X7-1/2\""
+   ],
+   "quantity": "1",
+   "price_usd": 340.0,
+   "lead_time": null,
+   "sole_source_vendor": "EJ Prescott",
+   "reason": "The above-mentioned company has the exclusive sole source reselling rights of Kamstrup meters and solutions up to one hundred thousand meters in the state of Michigan.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "2200",
+   "part": "1\"X10-3/4 2200 SS ALD METER",
+   "part_numbers": [
+    "1\"X10-3/4"
+   ],
+   "quantity": "1",
+   "price_usd": 475.0,
+   "lead_time": null,
+   "sole_source_vendor": "EJ Prescott",
+   "reason": "The above-mentioned company has the exclusive sole source reselling rights of Kamstrup meters and solutions up to one hundred thousand meters in the state of Michigan.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "3200",
+   "part": "1-1/2\" SS 3200 FLANGED METER",
+   "part_numbers": [
+    "1-1/2\""
+   ],
+   "quantity": "1",
+   "price_usd": 1040.0,
+   "lead_time": null,
+   "sole_source_vendor": "EJ Prescott",
+   "reason": "The above-mentioned company has the exclusive sole source reselling rights of Kamstrup meters and solutions up to one hundred thousand meters in the state of Michigan.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "3200",
+   "part": "2\"X17\" SS 3200 FLANGED METER",
+   "part_numbers": [
+    "2\"X17\""
+   ],
+   "quantity": "1",
+   "price_usd": 1208.0,
+   "lead_time": null,
+   "sole_source_vendor": "EJ Prescott",
+   "reason": "The above-mentioned company has the exclusive sole source reselling rights of Kamstrup meters and solutions up to one hundred thousand meters in the state of Michigan.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "3200",
+   "part": "2\"X15-1/4\" SS 3200 FLANGED METER",
+   "part_numbers": [
+    "2\"X15-1/4\""
+   ],
+   "quantity": "1",
+   "price_usd": 1336.0,
+   "lead_time": null,
+   "sole_source_vendor": "EJ Prescott",
+   "reason": "The above-mentioned company has the exclusive sole source reselling rights of Kamstrup meters and solutions up to one hundred thousand meters in the state of Michigan.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "3200",
+   "part": "3\" SS 3200 FLANGED METER",
+   "part_numbers": [
+    "3\""
+   ],
+   "quantity": "1",
+   "price_usd": 2010.0,
+   "lead_time": null,
+   "sole_source_vendor": "EJ Prescott",
+   "reason": "The above-mentioned company has the exclusive sole source reselling rights of Kamstrup meters and solutions up to one hundred thousand meters in the state of Michigan.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "3200",
+   "part": "4\" SS 3200 FLANGED METER",
+   "part_numbers": [
+    "4\""
+   ],
+   "quantity": "1",
+   "price_usd": 2336.0,
+   "lead_time": null,
+   "sole_source_vendor": "EJ Prescott",
+   "reason": "The above-mentioned company has the exclusive sole source reselling rights of Kamstrup meters and solutions up to one hundred thousand meters in the state of Michigan.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "4200",
+   "part": "6\" SS 4200 FLANGED METER, NO SPOOL",
+   "part_numbers": [
+    "6\""
+   ],
+   "quantity": "1",
+   "price_usd": 4285.0,
+   "lead_time": null,
+   "sole_source_vendor": "EJ Prescott",
+   "reason": "The above-mentioned company has the exclusive sole source reselling rights of Kamstrup meters and solutions up to one hundred thousand meters in the state of Michigan.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "4200",
+   "part": "8\" SS 4200 FLANGED METER, NO SPOOL",
+   "part_numbers": [
+    "8\""
+   ],
+   "quantity": "1",
+   "price_usd": 6068.0,
+   "lead_time": null,
+   "sole_source_vendor": "EJ Prescott",
+   "reason": "The above-mentioned company has the exclusive sole source reselling rights of Kamstrup meters and solutions up to one hundred thousand meters in the state of Michigan.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "4200",
+   "part": "10\" SS 4200 FLANGED METER",
+   "part_numbers": [
+    "10\""
+   ],
+   "quantity": "1",
+   "price_usd": 7145.0,
+   "lead_time": null,
+   "sole_source_vendor": "EJ Prescott",
+   "reason": "The above-mentioned company has the exclusive sole source reselling rights of Kamstrup meters and solutions up to one hundred thousand meters in the state of Michigan.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kamstrup",
+   "model": "4200",
+   "part": "12\" SS 4200 FLANGED METER",
+   "part_numbers": [
+    "12\""
+   ],
+   "quantity": "1",
+   "price_usd": 8215.0,
+   "lead_time": null,
+   "sole_source_vendor": "EJ Prescott",
+   "reason": "The above-mentioned company has the exclusive sole source reselling rights of Kamstrup meters and solutions up to one hundred thousand meters in the state of Michigan.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4033,
+  "out": 3137
+ },
+ "model": "claude-sonnet-5"
+}

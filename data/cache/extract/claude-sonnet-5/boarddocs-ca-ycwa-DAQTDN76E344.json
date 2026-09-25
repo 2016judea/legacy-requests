@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Governor modernization project for Colgate 1 (life extension to obsolete electronics and firmware)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "These upgrades were to provide a life extension to obsolete electronics and firmware which could impact unit availability and were done completely in house.",
+   "equipment_class": "generator",
+   "installed_location": "Colgate Powerhouse Unit 1",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Upgrade of thrust bearings to new design on Colgate Unit 1 to reduce rolling resistance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Returned Colgate 1 to service with the focus on upgrading the thrust bearings to the new design to reduce rolling resistance and assisting with the governor upgrades to improve hydraulic filtration and shut down capabilities associated with the electronic upgrades.",
+   "equipment_class": "generator",
+   "installed_location": "Colgate Powerhouse Unit 1",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4285,
+  "out": 1226
+ },
+ "model": "claude-sonnet-5"
+}

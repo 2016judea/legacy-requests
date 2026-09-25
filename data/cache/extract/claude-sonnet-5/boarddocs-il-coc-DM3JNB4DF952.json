@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Holmatro",
+   "model": null,
+   "part": "Rescue/extrication tool set: heavy rescue cutter, spreader, and confined space cutter",
+   "part_numbers": [],
+   "quantity": "three-tool set (1 heavy rescue cutter, 1 spreader, 1 confined space cutter)",
+   "price_usd": 26733,
+   "lead_time": null,
+   "sole_source_vendor": "A.E.C. Fire-Safety & Security",
+   "reason": "AEC Fire & Safety is the regional authorized dealer for Holmatro equipment. Therefore, no other vendor can supply equipment that meets our specific and essential requirements for system compatibility and interoperability.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2910,
+  "out": 264
+ },
+ "model": "claude-sonnet-5"
+}

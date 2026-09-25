@@ -1,0 +1,95 @@
+{
+ "records": [
+  {
+   "manufacturer": "CHM",
+   "model": "RER-S-SCDE-100",
+   "part": "Galvanized steel transmission pole, 80' structure, for Rayburn to East 138kV reroute line",
+   "part_numbers": [
+    "RER-S-SCDE-100"
+   ],
+   "quantity": "1",
+   "price_usd": 79900.0,
+   "lead_time": "31 weeks",
+   "sole_source_vendor": null,
+   "reason": "Techline, Inc. submitted the lowest responsive and responsible bid and did so without taking any exceptions to the bid specifications.",
+   "equipment_class": "other equipment",
+   "installed_location": "Rayburn to East 138kV Re-route Transmission Line, William Joel Bryan Parkway crossing",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CHM",
+   "model": "RER-S-SCDE-100",
+   "part": "Galvanized steel transmission pole, 90' structure, for Rayburn to East 138kV reroute line",
+   "part_numbers": [
+    "RER-S-SCDE-100"
+   ],
+   "quantity": "1",
+   "price_usd": 96517.0,
+   "lead_time": "31 weeks",
+   "sole_source_vendor": null,
+   "reason": "Techline, Inc. submitted the lowest responsive and responsible bid and did so without taking any exceptions to the bid specifications.",
+   "equipment_class": "other equipment",
+   "installed_location": "Rayburn to East 138kV Re-route Transmission Line, William Joel Bryan Parkway crossing",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CHM",
+   "model": "RER-S-SCDEUB-40",
+   "part": "Galvanized steel transmission pole with underbuilt, 90' structure, for Rayburn to East 138kV reroute line",
+   "part_numbers": [
+    "RER-S-SCDEUB-40"
+   ],
+   "quantity": "1",
+   "price_usd": 64120.0,
+   "lead_time": "31 weeks",
+   "sole_source_vendor": null,
+   "reason": "Techline, Inc. submitted the lowest responsive and responsible bid and did so without taking any exceptions to the bid specifications.",
+   "equipment_class": "other equipment",
+   "installed_location": "Rayburn to East 138kV Re-route Transmission Line, William Joel Bryan Parkway crossing",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CHM",
+   "model": "RER-S-SCDE-80",
+   "part": "Galvanized steel transmission pole, 80' structure, for Rayburn to East 138kV reroute line",
+   "part_numbers": [
+    "RER-S-SCDE-80"
+   ],
+   "quantity": "1",
+   "price_usd": 73523.0,
+   "lead_time": "31 weeks",
+   "sole_source_vendor": null,
+   "reason": "Techline, Inc. submitted the lowest responsive and responsible bid and did so without taking any exceptions to the bid specifications.",
+   "equipment_class": "other equipment",
+   "installed_location": "Rayburn to East 138kV Re-route Transmission Line, William Joel Bryan Parkway crossing",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CHM",
+   "model": "RERE-S-SCDE-0",
+   "part": "Galvanized steel transmission pole, 110' structure, for ETI's Bryan-College Station segment of the Rayburn to East 138kV reroute line",
+   "part_numbers": [
+    "RERE-S-SCDE-0"
+   ],
+   "quantity": "2",
+   "price_usd": 66658.0,
+   "lead_time": "31 weeks",
+   "sole_source_vendor": null,
+   "reason": "Techline, Inc. submitted the lowest responsive and responsible bid and did so without taking any exceptions to the bid specifications.",
+   "equipment_class": "other equipment",
+   "installed_location": "ETI's Bryan-College Station segment of the Rayburn to East 138kV Re-route Transmission Line",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 30854,
+  "out": 2956
+ },
+ "model": "claude-sonnet-5"
+}

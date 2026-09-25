@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Altec Industries, Inc.",
+   "model": null,
+   "part": "Purchase of Two (2) Underground Line Trucks",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 556092.0,
+   "lead_time": null,
+   "sole_source_vendor": "Altec Industries, Inc.",
+   "reason": "Purchase will replace units 21- 113, 21- 115, 21- 117, 21- 122 and 21- 124, which have exceeded replacement criteria for age and hours of operation.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Altec Industries, Inc.",
+   "model": null,
+   "part": "Purchase of Three (3) Overhead (OH) Bucket Trucks",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": 910011.0,
+   "lead_time": null,
+   "sole_source_vendor": "Altec Industries, Inc.",
+   "reason": "Purchase will replace units 21- 113, 21- 115, 21- 117, 21- 122 and 21- 124, which have exceeded replacement criteria for age and hours of operation.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 13633,
+  "out": 3209
+ },
+ "model": "claude-sonnet-5"
+}

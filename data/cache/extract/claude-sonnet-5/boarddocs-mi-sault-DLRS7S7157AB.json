@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kamstrup",
+   "model": null,
+   "part": "Water meters (5/8\" through 12\") for inventory, new installations, and replacement of damaged or frozen meters",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 18500,
+   "lead_time": null,
+   "sole_source_vendor": "EJ Prescott",
+   "reason": "Since, 2021 Kamstrup moved its sole source relationship to EJ Prescott Co.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Sault Ste. Marie",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 64740,
+  "out": 2816
+ },
+ "model": "claude-sonnet-5"
+}

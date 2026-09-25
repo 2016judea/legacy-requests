@@ -1,0 +1,53 @@
+{
+ "records": [
+  {
+   "manufacturer": "Techline, Inc.",
+   "model": "S-1, S-2, S-3, S-5 Steel Transmission Poles",
+   "part": "Six (6) steel transmission poles for 69kV line reconfiguration at Tabor Substation",
+   "part_numbers": [
+    "K17361STG001",
+    "K17361STG002",
+    "K17361STG003",
+    "K17361STG004"
+   ],
+   "quantity": "6",
+   "price_usd": 1396452.0,
+   "lead_time": "42 weeks",
+   "sole_source_vendor": null,
+   "reason": "Techline\u2019s base bid was $1,163,710. Staff is recommending a 20% contingency amount of $232,742, bringing the total not-to-exceed contract amount to $1,396,452.",
+   "equipment_class": "other equipment",
+   "installed_location": "Tabor Substation, Bryan, Texas",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Techline, Inc.",
+   "model": "Anchor Bolt Cage Assemblies for S-1, S-2, S-3, S-5 Poles",
+   "part": "Anchor bolt cage assemblies for six steel transmission poles at Tabor Substation",
+   "part_numbers": [
+    "AB K173615TG001",
+    "AB K173615TG002",
+    "AB K173615TG003",
+    "AB K173615TG004"
+   ],
+   "quantity": "6",
+   "price_usd": 134770.0,
+   "lead_time": "40 weeks",
+   "sole_source_vendor": null,
+   "reason": "Techline- Department recommends awarding to Techline due to pricing & delivery schedule; amount includes 20% contingency",
+   "equipment_class": "other equipment",
+   "installed_location": "Tabor Substation, Bryan, Texas",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 59506,
+  "out": 1628
+ },
+ "model": "claude-sonnet-5"
+}

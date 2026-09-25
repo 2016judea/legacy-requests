@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Batter Boards (ice rink)",
+   "part_numbers": [],
+   "quantity": "Approximately 69",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Is worn out, unusable, obsolete, or surplus to the extent that the item is no longer economical for continued use by the Town",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Glass pieces (ice rink)",
+   "part_numbers": [],
+   "quantity": "Approximately 150",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Is worn out, unusable, obsolete, or surplus to the extent that the item is no longer economical for continued use by the Town",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Team Boxes with boards and glass",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Is worn out, unusable, obsolete, or surplus to the extent that the item is no longer economical for continued use by the Town",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Damaged/unused vehicle",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Is worn out, unusable, obsolete, or surplus to the extent that the item is no longer economical for continued use by the Town",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3191,
+  "out": 1067
+ },
+ "model": "claude-sonnet-5"
+}

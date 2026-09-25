@@ -1,0 +1,239 @@
+{
+ "records": [
+  {
+   "manufacturer": "Gasboy",
+   "model": "Islander Prime Terminal",
+   "part": "Fuel island terminal (fuel management software/dispensing equipment upgrade)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Fuel dispensers, island terminals, and monitoring equipment is limited to a sole manufacturer - GASBOY - as shown on the drawings.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Municipal Service Center, Waco Street, Bryan TX",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gasboy",
+   "model": "EKOS",
+   "part": "Fuel management software licensing agreement, fuel site terminals plus cellular devices and fees",
+   "part_numbers": [],
+   "quantity": "2 fuel site terminals, 1 year continuous service",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "THE CONTRACTOR SHALL BE REQUIRED TO COORDINATE COMMISSIONING AND STARTUP OF GASBOY EQUIPMENT AND SOFTWARE BYWAY OF A GASBOY AUTHORIZED SERVICE CONTRACTOR.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Municipal Service Center, Waco Street, Bryan TX",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "WVP001",
+   "part": "Wireless vehicle programmer",
+   "part_numbers": [
+    "Z-FLO-WVP001"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "FUEL DISPENSERS, ISLAND TERMINALS, AND MONITORING EQUIPMENT IS LIMITED TO A SOLE MANUFACTURER - GASBOY - AS SHOWN ON THE DRAWINGS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Municipal Service Center, Waco Street, Bryan TX",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Fleet Head Office Milfare Reader",
+   "part": "Fleet head office milfare reader",
+   "part_numbers": [
+    "Z-FLO-PMTR01"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "FUEL DISPENSERS, ISLAND TERMINALS, AND MONITORING EQUIPMENT IS LIMITED TO A SOLE MANUFACTURER - GASBOY - AS SHOWN ON THE DRAWINGS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Municipal Service Center, Waco Street, Bryan TX",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Blue Milfare Tags",
+   "part": "Blue milfare tags (RFID tags), box of 10",
+   "part_numbers": [
+    "Z-FLO-MTUB01"
+   ],
+   "quantity": "65 [box of 10]",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "FUEL DISPENSERS, ISLAND TERMINALS, AND MONITORING EQUIPMENT IS LIMITED TO A SOLE MANUFACTURER - GASBOY - AS SHOWN ON THE DRAWINGS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Municipal Service Center, Waco Street, Bryan TX",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Standard Flow Nano Nozzle Reader",
+   "part": "Standard flow nano nozzle reader",
+   "part_numbers": [
+    "M09677B035"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "FUEL DISPENSERS, ISLAND TERMINALS, AND MONITORING EQUIPMENT IS LIMITED TO A SOLE MANUFACTURER - GASBOY - AS SHOWN ON THE DRAWINGS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Municipal Service Center, Waco Street, Bryan TX",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Self-Installed 105mm Ring",
+   "part": "Self-installed 105mm ring (RFID tank ring)",
+   "part_numbers": [
+    "Z-FLO-VTR002"
+   ],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "FUEL DISPENSERS, ISLAND TERMINALS, AND MONITORING EQUIPMENT IS LIMITED TO A SOLE MANUFACTURER - GASBOY - AS SHOWN ON THE DRAWINGS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Municipal Service Center, Waco Street, Bryan TX",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Fuel Cubes",
+   "part": "Fuel cubes (vehicle fuel authorization device)",
+   "part_numbers": [
+    "Z-FLO-VTR021"
+   ],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "FUEL DISPENSERS, ISLAND TERMINALS, AND MONITORING EQUIPMENT IS LIMITED TO A SOLE MANUFACTURER - GASBOY - AS SHOWN ON THE DRAWINGS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Municipal Service Center, Waco Street, Bryan TX",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Micro Data-Pass",
+   "part": "Micro data-pass device for OBD integration",
+   "part_numbers": [
+    "GDZFLODPVB09"
+   ],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "FUEL DISPENSERS, ISLAND TERMINALS, AND MONITORING EQUIPMENT IS LIMITED TO A SOLE MANUFACTURER - GASBOY - AS SHOWN ON THE DRAWINGS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Municipal Service Center, Waco Street, Bryan TX",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gasboy",
+   "model": "Atlas X",
+   "part": "Fuel dispenser with RFID nozzle reader, prefabricated quick coupler dispenser sump, double flexible entry boots, emergency shutoff valves",
+   "part_numbers": [],
+   "quantity": "6 EA new dispensers (removed 6 EA existing)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "FUEL DISPENSERS, ISLAND TERMINALS, AND MONITORING EQUIPMENT IS LIMITED TO A SOLE MANUFACTURER - GASBOY - AS SHOWN ON THE DRAWINGS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Municipal Service Center, Waco Street, Bryan TX",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gasboy",
+   "model": "Islander Prime Terminal",
+   "part": "Replacement fuel island terminal at existing Fountain Avenue fuel center to match MSC terminals",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "THE NEW TERMINAL SHALL BE A GASBOY ISLANDER PRIME TERMINAL TO MATCH THE TERMINALS INSTALLED AT THE MUNICIPAL SERVICES CENTER.",
+   "equipment_class": "other equipment",
+   "installed_location": "2300 Fountain Avenue, Bryan, Texas 77801",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Automatic Tank Gauge (ATG) module replacement",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "CONTRACTOR SHALL REMOVE THE EXISTING AUTOMATIC TANK GAUGE (ATG) MODULE AND DELIVER EXISTING UNIT TO CITY.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Municipal Service Center, Waco Street, Bryan TX",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Line leak detectors for underground fuel tank piping",
+   "part_numbers": [],
+   "quantity": "2 new (replacing 3 existing)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "CONTRACTOR SHALL REMOVE THE THREE EXISTING LINE LEAK DETECTORS AND INSTALL TWO NEW LINE LEAK DETECTORS PER MANUFACTURERS RECOMMENDATIONS AT THE MSC SITE.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Municipal Service Center, Waco Street, Bryan TX",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Underground storage tanks - 30,000-gallon fuel tank (24,000 gal unleaded/6,000 gal diesel), 30,000-gallon diesel tank, and 2,700-gallon aboveground DEF tank",
+   "part_numbers": [],
+   "quantity": "3 tanks",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Fuel storage capacity will be increased from 24,000 gallons of diesel and 12,000 gallons of unleaded gasoline to 30,000 gallons of each fuel type with the addition of 1,200 gallons of Diesel Exhaust Fluid (DEF)",
+   "equipment_class": "other equipment",
+   "installed_location": "Municipal Service Center, Waco Street, Bryan TX",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "A-1 Pump, Inc.",
+   "model": null,
+   "part": "Construction contract for Fueling Center Reconstruction at Municipal Service Center (RFP #25-007), including fuel island demolition, tank replacement, canopy, dispensers, and fuel management software integration",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1339384.08,
+   "lead_time": "360 working days",
+   "sole_source_vendor": "A-1 Pump, Inc.",
+   "reason": "The City received one proposal submitted by A1 Pump Inc. of Bryan, TX in the not to exceed amount of $1,339,384.08.",
+   "equipment_class": "other equipment",
+   "installed_location": "Municipal Service Center, Waco Street, Bryan TX",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 72761,
+  "out": 3767
+ },
+ "model": "claude-sonnet-5"
+}

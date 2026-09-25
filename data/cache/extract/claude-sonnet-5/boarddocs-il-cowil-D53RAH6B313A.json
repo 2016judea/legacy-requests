@@ -1,0 +1,38 @@
+{
+ "records": [
+  {
+   "manufacturer": "Duke's Root Control, Inc.",
+   "model": "RAZOROOTER\u00ae",
+   "part": "Root control services for sewer system (manhole, house lateral, and pipe root control)",
+   "part_numbers": [
+    "V-F-APL-MANHO-001",
+    "V-F-APL-RESID-001",
+    "V-F-APL-SEWRC-01X06FT",
+    "V-F-APL-SEWRC-01X08FT",
+    "V-F-APL-SEWRC-01X10FT",
+    "V-F-APL-SEWRC-01X12FT",
+    "V-F-APL-SEWRC-01X15FT",
+    "V-F-APL-SEWRC-01X18FT"
+   ],
+   "quantity": null,
+   "price_usd": 30000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Duke's Root Control, Inc.",
+   "reason": "Duke's Root Control, Inc. is the only commercial applicator licensed to apply RAZOROOTER\u00ae.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City of Waukegan sewer system",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5649,
+  "out": 682
+ },
+ "model": "claude-sonnet-5"
+}

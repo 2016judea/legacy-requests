@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Odor control scrubber for Elden Pump Station",
+   "part_numbers": [],
+   "quantity": "one",
+   "price_usd": null,
+   "lead_time": "16 to 20 week lead time to acquire the equipment",
+   "sole_source_vendor": "SYNECO Systems",
+   "reason": "the Board of Directors supported staff's recommendation by approving a sole source contract with SYNECO Systems for purchasing and acquiring one odor control scrubber for Elden Pump Station",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Elden Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Installation of odor control scrubber, vent piping modification, electrical connection, and site improvements at Elden Pump Station",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 23500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Jamison Engineering Contractors, Inc.",
+   "reason": "Based on the desire to install the new scrubber prior to the summer and the contractor's experience installing these units at HBC, staff believes it is in the best interest of the district to sole source a contract with JEC",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Elden Pump Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Vent silencer unit (to be purchased separately by District, installed under this contract)",
+   "part_numbers": [],
+   "quantity": "one",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The price includes the installation of a vent silencer but it does not include the purchase of a vent silencer unit. The District will purchase the silencer and provide it for installation.",
+   "equipment_class": "other equipment",
+   "installed_location": "Elden Pump Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 13094,
+  "out": 1373
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,59 @@
+{
+ "records": [
+  {
+   "manufacturer": "Caterpillar",
+   "model": "XQ230",
+   "part": "New 200 KW Portable Diesel Standby Generator Set (replacement for total-loss unit)",
+   "part_numbers": [
+    "XQ230BM",
+    "3PHNEMA_I",
+    "3POLE_I",
+    "C07DF31_I",
+    "CEM0006_I",
+    "CERTF4F_I",
+    "CERTUSA_I",
+    "CMLOC02_I",
+    "E230TRL_I",
+    "EMCP44_I",
+    "KW00200_I",
+    "NONMUF_I",
+    "STDAVR_I",
+    "STDBASE_I",
+    "STDBAT_I",
+    "STDBTC_I",
+    "STDENC_I",
+    "STDGOV_I",
+    "STDRAD_I",
+    "GENT125_I",
+    "PETU005_I",
+    "STDTEST_I",
+    "60H0480_I",
+    "LANENGO_I",
+    "MSCEC77_I",
+    "MSEPGGN_I",
+    "MWCODEF_I",
+    "PRIMEPA_I",
+    "LE8148"
+   ],
+   "quantity": "1",
+   "price_usd": 167000.0,
+   "lead_time": "Submittals: 10 Weeks; Equipment: 15 Weeks for factory build time after submittal approval",
+   "sole_source_vendor": "Quinn Power Caterpillar Company",
+   "reason": "Sourcewell conducted a competative bid and the District staff is recommending that the District purchase via Sourcewell Cooperative Procurement process.",
+   "equipment_class": "generator",
+   "installed_location": "Elden Pump Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14852,
+  "out": 484
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Flowserve",
+   "model": "10MFC16A-FR5T",
+   "part": "Vertical solids handling pump rotating assembly, closed coupled - duplicate of existing pump - rotating assembly only (with impeller) and coupling",
+   "part_numbers": [
+    "10MFC16A-FR5T"
+   ],
+   "quantity": "1",
+   "price_usd": 51510.87,
+   "lead_time": "16-20 weeks",
+   "sole_source_vendor": "Municipal Equipment Company, Inc.",
+   "reason": "Since this is a partial replacement for a single unit of the set, only the original equipment manufacturer can provide the necessary parts to work with the remaining components.",
+   "equipment_class": "pump",
+   "installed_location": "Southeast Wastewater Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5938,
+  "out": 267
+ },
+ "model": "claude-sonnet-5"
+}

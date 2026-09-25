@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Radian Research",
+   "model": "AMI Electric Meter Farm Testing Panels",
+   "part": "Advance Metering Infrastructure (AMI) meter farm testing panels used for acceptance testing electric meter hardware, firmware, and network firmware updates",
+   "part_numbers": [],
+   "quantity": "1 ea",
+   "price_usd": 230440.0,
+   "lead_time": null,
+   "sole_source_vendor": "Radian Research Inc.",
+   "reason": "Watt Net is the exclusive operating software for Radian Research WECO electric meter test equipment and is the only software that operates Radian Research WECO test equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "All Florida Electric - 1219 Blountstown St., Tallahassee, FL. 32304",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Radian Research",
+   "model": "9200 SS-20 Warm-Up Load Board",
+   "part": "AMI electric meter voltage warm-up load board panels used for keeping the electric meters hardware, firmware, and network firmware updates current prior to the meters being added to the live network system",
+   "part_numbers": [],
+   "quantity": "1 ea",
+   "price_usd": 142950.0,
+   "lead_time": null,
+   "sole_source_vendor": "Radian Research Inc.",
+   "reason": "Watt Net is the exclusive operating software for Radian Research WECO electric meter test equipment and is the only software that operates Radian Research WECO test equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "All Florida Electric - 1219 Blountstown St., Tallahassee, FL. 32304",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6524,
+  "out": 560
+ },
+ "model": "claude-sonnet-5"
+}

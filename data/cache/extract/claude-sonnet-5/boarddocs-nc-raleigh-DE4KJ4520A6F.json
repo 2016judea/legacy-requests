@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Alfa Laval",
+   "model": "Klampress Type 94/890 2.0 Meter",
+   "part": "Dewatering belt filter press reconditioning/replacement including furnishing and integrating new dewatering belt presses",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 737415.0,
+   "lead_time": null,
+   "sole_source_vendor": "Alfa Laval Incorporated",
+   "reason": "Alfa Laval Incorporated is the Original Equipment Manufacturer of the Klampress Type 94/890 2.0-meter belt filter presses installed at E.M. Johnson Water Treatment Plant and is the sole source authorized provider for all Original Equipment Manufacturer parts and service.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "E.M. Johnson Water Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3663,
+  "out": 318
+ },
+ "model": "claude-sonnet-5"
+}

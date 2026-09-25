@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Peerless Pump",
+   "model": null,
+   "part": "Rotating assembly for high service pump #2",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 21859.0,
+   "lead_time": "8-10 weeks",
+   "sole_source_vendor": "Detroit Pump",
+   "reason": "Detroit Pump is the sole-source parts supplier for Peerless Pumps.",
+   "equipment_class": "pump",
+   "installed_location": "Water Treatment Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Pump motor cleaning and new bearings for high service pump #2 motor",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2100.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hamilton Electric",
+   "reason": "the motor is in great shape and will only need a cleaning and new bearings for a cost of $2,100.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Water Treatment Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 46280,
+  "out": 2707
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Low density SCADA System for canal water level monitoring and control",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Innovative Controls, Inc.",
+   "reason": "installing a low density Scada System, updated flow meters and level sensors in the main distribution canal",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "South Yuba County irrigation water distribution system, Plumas Mutual Water Company",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Updated flow meters in the main distribution canal",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Innovative Controls, Inc.",
+   "reason": "installing a low density Scada System, updated flow meters and level sensors in the main distribution canal",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "South Yuba County irrigation water distribution system, Plumas Mutual Water Company",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Level sensors installed in the main distribution canal",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Innovative Controls, Inc.",
+   "reason": "level sensors in the main distribution canal that would communicate with the pumps at the river diversion to automatically adjust the flow",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "South Yuba County irrigation water distribution system, Plumas Mutual Water Company",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Variable frequency drive (VFD) on the river diversion pump, adjusted automatically per canal demand",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Innovative Controls, Inc.",
+   "reason": "the sensors will adjust the variable frequency drive (VFD) on the pump accordingly to help further maximize water efficiency",
+   "equipment_class": "motor/drive",
+   "installed_location": "River diversion pump station, Plumas Mutual Water Company",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Well sounding equipment to remotely monitor groundwater pumping levels of deep wells",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Innovative Controls, Inc.",
+   "reason": "Plumas Mutual Water Company also plans to install well sounding equipment to be able to remotely monitor groundwater pumping levels of their deep wells",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Deep wells, Plumas Mutual Water Company, South Yuba River subbasin",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replace 52\" Culvert with new Double Wall 60\" HDPE Culvert Pipe at Ramirez Turnout",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 24926.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hyatt Contracting Inc.",
+   "reason": "This pipe is the sole source of water to the Ramirez Pumping Plant, so it's failure during water delivery season would be catastrophic for the water customers",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Ramirez Turnout from Cordua canal, Ramirez Water District",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 5,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 23952,
+  "out": 5225
+ },
+ "model": "claude-sonnet-5"
+}

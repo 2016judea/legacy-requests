@@ -1,0 +1,45 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cybernetics",
+   "model": "iSAN-5424S",
+   "part": "iSAN Data Storage Equipment Upgrade - flash drives for capacity increase",
+   "part_numbers": [
+    "RDI-SSDS-3.8T"
+   ],
+   "quantity": "11",
+   "price_usd": 39030.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cybernetics",
+   "reason": "Cybernetics is the sole provider of maintenance service due to the exclusive features offered with our equipment and proprietary technology.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cybernetics",
+   "model": "iSAN-5424S",
+   "part": "Annual maintenance and support services for iSan Data Storage Equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 22000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cybernetics",
+   "reason": "Cybernetics is the sole provider of maintenance service due to the exclusive features offered with our equipment and proprietary technology.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5819,
+  "out": 753
+ },
+ "model": "claude-sonnet-5"
+}

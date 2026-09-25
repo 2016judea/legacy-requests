@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Forensic Technology",
+   "model": "IBIS",
+   "part": "Integrated Ballistic Identification System (IBIS) purchase, operator training, and required maintenance",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 225000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Forensic Technology, a LeadsOnline Company",
+   "reason": "the IBIS system is only available from Forensic Technologhy, a LeadsOnline Company",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Carbondale Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6397,
+  "out": 212
+ },
+ "model": "claude-sonnet-5"
+}

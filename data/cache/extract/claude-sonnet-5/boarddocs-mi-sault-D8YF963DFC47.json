@@ -1,0 +1,89 @@
+{
+ "records": [
+  {
+   "manufacturer": "Big Tex",
+   "model": "14LP Heavy Duty Low Profile Dump",
+   "part": "One (1) Power Up and Down Hydraulic Driven Dump Trailer for WWTP biosolids handling",
+   "part_numbers": [
+    "14LP-16BK6-P4"
+   ],
+   "quantity": "1",
+   "price_usd": 12499.0,
+   "lead_time": null,
+   "sole_source_vendor": "Gaylor-Thompson Sales and Service",
+   "reason": "Motion to award bid to Gaylor-Thompson sales and service for the purchase on one dump trailer at a cost of $12,499 to be used at WWTP for biosolids handling.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "WWTP",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sure-Trac",
+   "model": "82\"x14 14K Low Pro Telescopic Dump Trailer with 4' Sides",
+   "part": "One (1) Power Up and Down Hydraulic Driven Dump Trailer bid for WWTP",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 13345.0,
+   "lead_time": null,
+   "sole_source_vendor": "Kelley & Sons Trailers",
+   "reason": "Includes 3-Year Limited Manufacturer Warranty.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "WWTP",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Texas Pride Trailer",
+   "model": "7x14x3 Bumperpull 14k Dump Trailer",
+   "part": "One (1) Power Up and Down Hydraulic Driven Dump Trailer - WWTP",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 14380.0,
+   "lead_time": "16 Weeks",
+   "sole_source_vendor": "Technology International, Inc.",
+   "reason": "Estimated delivery is 16 Weeks after receipt of order and approved submittal.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "WWTP",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "B-Wise",
+   "model": "DLP14-15 Tandem Axle Low Profile Dump Trailer",
+   "part": "Wastewater Treatment Plant Dump Trailer with High Sides and Tarp Kit",
+   "part_numbers": [
+    "DLP14-15"
+   ],
+   "quantity": "1",
+   "price_usd": 17125.0,
+   "lead_time": null,
+   "sole_source_vendor": "Midway Rentals and Sales",
+   "reason": "Quote valid for 90 days.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "WWTP",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Mid South",
+   "model": "2025 model 7 X 14 Dump Trailer",
+   "part": "One Power Up and Down Hydraulic Driven Dump Trailer",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 17786.0,
+   "lead_time": "approx 6 weeks",
+   "sole_source_vendor": "Taza Supplies Inc.",
+   "reason": "Lead time approx 6 weeks.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "WWTP",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 5,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 28549,
+  "out": 2780
+ },
+ "model": "claude-sonnet-5"
+}

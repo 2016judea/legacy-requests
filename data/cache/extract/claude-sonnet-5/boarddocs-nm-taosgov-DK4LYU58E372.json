@@ -1,0 +1,39 @@
+{
+ "records": [
+  {
+   "manufacturer": "KPS Global",
+   "model": "Outdoor Freezer - -10\u00b0F, Outdoor, NSF Splash Approved",
+   "part": "Custom-built outdoor freezer unit for meat processing facility, including refrigeration system, doors, panels, and structural components",
+   "part_numbers": [
+    "RFDS15L4SEA",
+    "DMB96",
+    "RM6E374DDA",
+    "8802",
+    "Mark IV",
+    "K-1261",
+    "K78V",
+    "K486CF",
+    "K1094"
+   ],
+   "quantity": "1",
+   "price_usd": 102295.03,
+   "lead_time": null,
+   "sole_source_vendor": "KPS Global LLC",
+   "reason": "KPS is the only vendor capable of providing the freezer unit that meets the necessary performance and design criteria for this project.",
+   "equipment_class": "other equipment",
+   "installed_location": "Taos County USDA Processing Facility, Taos, NM (Matanza Project)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14685,
+  "out": 952
+ },
+ "model": "claude-sonnet-5"
+}

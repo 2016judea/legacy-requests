@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Body-worn camera bundle package including cameras, mounting equipment, docking/charging stations, SaaS evidence management, support software (redaction/transcription), software programming, maintenance/upgrade fees, shipping, and professional services",
+   "part_numbers": [],
+   "quantity": "15",
+   "price_usd": 52772.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Equipment purchased in 2016 has exceeded its expected life cycle and is experiencing increasing malfunctions and discontinued manufacturer support.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sault Ste. Marie Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 29258,
+  "out": 2001
+ },
+ "model": "claude-sonnet-5"
+}

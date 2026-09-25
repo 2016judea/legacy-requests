@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Spare Labs, Inc",
+   "model": "Spare Platform",
+   "part": "Cloud-based dispatch and scheduling software, training and support for Dial-A-Ride system",
+   "part_numbers": [
+    "SL-7267"
+   ],
+   "quantity": "1",
+   "price_usd": 218700.0,
+   "lead_time": null,
+   "sole_source_vendor": "Spare Labs, Inc",
+   "reason": "Staff have solicited quotes for a replacement package, and recommends the Spare Platform by Spare Labs, Inc (Exhibit A).",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Pullman Transit's Dial-A-Ride system",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4710,
+  "out": 781
+ },
+ "model": "claude-sonnet-5"
+}

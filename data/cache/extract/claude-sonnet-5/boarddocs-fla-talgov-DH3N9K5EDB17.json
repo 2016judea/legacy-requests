@@ -1,0 +1,143 @@
+{
+ "records": [
+  {
+   "manufacturer": "Radian Research Inc.",
+   "model": "4050X",
+   "part": "Model 4050X Three Phase 50A Automated Test Platform with RX-30 standard",
+   "part_numbers": [
+    "ATX0143"
+   ],
+   "quantity": "4",
+   "price_usd": 207380.0,
+   "lead_time": "4-6 weeks",
+   "sole_source_vendor": "Radian Research Inc.",
+   "reason": "Approve a single-source purchase from Radian Research Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Radian Research Inc.",
+   "model": null,
+   "part": "OPTOCOM Optical Port Data Head",
+   "part_numbers": [
+    "BK0075"
+   ],
+   "quantity": "4",
+   "price_usd": 2540.0,
+   "lead_time": "4-6 weeks",
+   "sole_source_vendor": "Radian Research Inc.",
+   "reason": "Approve a single-source purchase from Radian Research Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Radian Research Inc.",
+   "model": "RX-33",
+   "part": "RX-33 Three Phase 200Amps 0.01% reference standard, supplied with DC Converter and power cord, potential cables, tilt stand, side mount handles, operators manual, spare fuses and cable locking adapters",
+   "part_numbers": [
+    "8033102"
+   ],
+   "quantity": "1",
+   "price_usd": 35460.0,
+   "lead_time": "4-6 weeks",
+   "sole_source_vendor": "Radian Research Inc.",
+   "reason": "Approve a single-source purchase from Radian Research Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Radian Research Inc.",
+   "model": "RD-3x",
+   "part": "RD-3x Shipping/Transit Case",
+   "part_numbers": [
+    "355022"
+   ],
+   "quantity": "1",
+   "price_usd": 1010.0,
+   "lead_time": "4-6 weeks",
+   "sole_source_vendor": "Radian Research Inc.",
+   "reason": "Approve a single-source purchase from Radian Research Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Radian Research Inc.",
+   "model": "M4X50",
+   "part": "M4X50 Standards Compare Adapter Kit External RX-3X #2 AWG CABLE and Insulated Connectors",
+   "part_numbers": [
+    "AL0050"
+   ],
+   "quantity": "1",
+   "price_usd": 3295.0,
+   "lead_time": "4-6 weeks",
+   "sole_source_vendor": "Radian Research Inc.",
+   "reason": "Approve a single-source purchase from Radian Research Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Radian Research Inc.",
+   "model": "RW-31X",
+   "part": "RW-31X Portable Three-Phase Meter Site Analyzer (Accuracy 0.02%) three-phase portable standard",
+   "part_numbers": [
+    "AW0062"
+   ],
+   "quantity": "2",
+   "price_usd": 98920.0,
+   "lead_time": "4-6 weeks",
+   "sole_source_vendor": "Radian Research Inc.",
+   "reason": "Approve a single-source purchase from Radian Research Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Radian Research Inc.",
+   "model": "RW-30",
+   "part": "RW-30 OPTOCOM, Optics Option Kit",
+   "part_numbers": [
+    "AW0005"
+   ],
+   "quantity": "2",
+   "price_usd": 1270.0,
+   "lead_time": "4-6 weeks",
+   "sole_source_vendor": "Radian Research Inc.",
+   "reason": "Approve a single-source purchase from Radian Research Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Radian Research Inc.",
+   "model": "RW-3X",
+   "part": "RW-3X Basic Cable Set with EZ-Hooks, including analog sense cable, phase current cables, bypass current cable set, potential cable assembly set, ethernet cross-over cable, field power cable, shop power cord, carrying case, spare fuses and test switch current isolators",
+   "part_numbers": [
+    "BW0219"
+   ],
+   "quantity": "2",
+   "price_usd": 9650.0,
+   "lead_time": "4-6 weeks",
+   "sole_source_vendor": "Radian Research Inc.",
+   "reason": "Approve a single-source purchase from Radian Research Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6556,
+  "out": 3824
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Neptune",
+   "model": "AMR \"Drive-By\" Automated Metering Devices",
+   "part": "Water metering devices and equipment (electronic water meters and supplies) for install/replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 4400000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Neptune Technology Group",
+   "reason": "the standardization or compatibility with current software, hardware, and the ability to easily maintain all appurtenances as the overriding consideration",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Raleigh Water",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11348,
+  "out": 222
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,95 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bell & Howell",
+   "model": "Mailstar 400",
+   "part": "Mail inserter, surplus property",
+   "part_numbers": [
+    "47-9862"
+   ],
+   "quantity": "1",
+   "price_usd": 5000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "No repair support available",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Locking bank bag 12\"x15\" with keys",
+   "part_numbers": [
+    "N77740"
+   ],
+   "quantity": "1",
+   "price_usd": 20,
+   "lead_time": null,
+   "sole_source_vendor": "Loomis",
+   "reason": "PUD now contracts with Loomis and has no need for these bags; we use the Loomis bank bags.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Locking bank bag 12\"x15\" with keys",
+   "part_numbers": [
+    "N77731"
+   ],
+   "quantity": "1",
+   "price_usd": 20,
+   "lead_time": null,
+   "sole_source_vendor": "Loomis",
+   "reason": "PUD now contracts with Loomis and has no need for these bags; we use the Loomis bank bags.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Locking bank bag 8\"x11\" with keys",
+   "part_numbers": [
+    "0412"
+   ],
+   "quantity": "1",
+   "price_usd": 15,
+   "lead_time": null,
+   "sole_source_vendor": "Loomis",
+   "reason": "PUD now contracts with Loomis and has no need for these bags; we use the Loomis bank bags.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Locking bank bag 8\"x11\" with keys",
+   "part_numbers": [
+    "0430"
+   ],
+   "quantity": "1",
+   "price_usd": 15,
+   "lead_time": null,
+   "sole_source_vendor": "Loomis",
+   "reason": "PUD now contracts with Loomis and has no need for these bags; we use the Loomis bank bags.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11488,
+  "out": 1563
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "New electrical service agreement for Carbide Dock EGLE Shore Power installation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 130600.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cloverland Electric Cooperative",
+   "reason": "Cloverland is the sole source provider.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Carbide Dock",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "1500kva padmount transformer to extend 3\u00d8 line for new service",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Cloverland Electric Cooperative",
+   "reason": "Cloverland is the sole source provider.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Carbide Dock",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Secondary cabinet for 2000A service",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Cloverland Electric Cooperative",
+   "reason": "Cloverland is the sole source provider.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Carbide Dock",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "CT meter (1.5\") for new service feed",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Cloverland Electric Cooperative",
+   "reason": "Cloverland is the sole source provider.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Carbide Dock",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Refeed of 1\u00d8 command center transformer",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 3611.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cloverland Electric Cooperative",
+   "reason": "Cloverland is the sole source provider.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Command Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8812,
+  "out": 1497
+ },
+ "model": "claude-sonnet-5"
+}

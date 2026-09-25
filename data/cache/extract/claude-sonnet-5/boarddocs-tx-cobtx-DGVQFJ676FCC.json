@@ -1,0 +1,121 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Xing - Automated Horn System (wayside horn system, per track)",
+   "part_numbers": [],
+   "quantity": "4 EA",
+   "price_usd": 8768,
+   "lead_time": null,
+   "sole_source_vendor": "Union Pacific Railroad Company",
+   "reason": "The Political Body now desires to undertake as its project (the \"Project\") the installation of wayside horns at the existing at grade public road crossing.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "East Pease Street, Bryan, TX (Navasota Subdivision, MP 77.34)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Xing - Track Card (Main and Stand-by) New Cable",
+   "part_numbers": [],
+   "quantity": "1 EA",
+   "price_usd": 12889,
+   "lead_time": null,
+   "sole_source_vendor": "Union Pacific Railroad Company",
+   "reason": "The work to be performed by the Railroad, at the Political Body's sole cost and expense, is described in the Railroad's Material and Force Account Estimate",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "East Pease Street, Bryan, TX (Navasota Subdivision, MP 77.34)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "RIO Module",
+   "part": "RIO Modules for new wayside horn system",
+   "part_numbers": [
+    "80413"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Union Pacific Railroad Company",
+   "reason": "INSTALL THE FOLLOWING NEW MATERIAL FOR THE NEW WAYSIDE HORN SYSTEM. (2) RIO MODULES (80413)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "East Pease Street, Bryan, TX (Navasota Subdivision, MP 77.34)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "TAB Relay",
+   "part": "Relays for new wayside horn system",
+   "part_numbers": [
+    "TAB 884"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Union Pacific Railroad Company",
+   "reason": "INSTALL THE FOLLOWING NEW MATERIAL FOR THE NEW WAYSIDE HORN SYSTEM. (2) RELAYS (TAB 884)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "East Pease Street, Bryan, TX (Navasota Subdivision, MP 77.34)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "TAB Relay",
+   "part": "Relays for new wayside horn system",
+   "part_numbers": [
+    "TAB 869"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Union Pacific Railroad Company",
+   "reason": "INSTALL THE FOLLOWING NEW MATERIAL FOR THE NEW WAYSIDE HORN SYSTEM. (2) RELAYS (TAB 869)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "East Pease Street, Bryan, TX (Navasota Subdivision, MP 77.34)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Annual maintenance fee for Railroad's maintenance of the Grade Crossing Signal System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 13356,
+   "lead_time": null,
+   "sole_source_vendor": "Union Pacific Railroad Company",
+   "reason": "This fee is for the Railroad's maintenance of the Signal System installed at the roadway.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "East Pease Street, Bryan, TX (Navasota Subdivision, MP 77.34)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Split Lid Enclosure / TIB Terminal",
+   "part": "Ground Box and Traffic Interconnection Box (TIB) terminal for preemption connection",
+   "part_numbers": [
+    "520-7693"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Union Pacific Railroad Company",
+   "reason": "LOCAL AGENCY IS TO PROVIDE ALL LABOR, MATERIAL, EQUIPMENT, AND SUPERVISION FOR THE INSTALLATION OF ALL CONDUIT, CASING, AND CABLE",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "East Pease Street, Bryan, TX (Navasota Subdivision, MP 77.34)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 52101,
+  "out": 6106
+ },
+ "model": "claude-sonnet-5"
+}

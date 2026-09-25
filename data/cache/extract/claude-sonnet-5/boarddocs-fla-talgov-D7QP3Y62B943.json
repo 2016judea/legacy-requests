@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Honeywell",
+   "model": null,
+   "part": "Natural Gas Meter Modules: electronic devices added to gas meters for remote reading and smart grid integration",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Devtech Sales",
+   "reason": "The utility must use Honeywell gas modules for compatibility with our gas equipment, which limits potential vendors' options.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Honeywell",
+   "model": null,
+   "part": "Mounting Kits used to securely install gas meters onto various surfaces such as walls, poles, or meter bases",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Devtech Sales",
+   "reason": "Devtech is the sole provider of these products in Florida, and purchasing other products would not be compatible with the City\u2019s system.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Honeywell",
+   "model": null,
+   "part": "Regulators that reduce high-pressure gas from the main supply line to a safe, low-pressure suitable for household appliances",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Devtech Sales",
+   "reason": "Devtech is the sole provider of these products in Florida, and purchasing other products would not be compatible with the City\u2019s system.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3007,
+  "out": 863
+ },
+ "model": "claude-sonnet-5"
+}

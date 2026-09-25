@@ -1,0 +1,45 @@
+{
+ "records": [
+  {
+   "manufacturer": "Altec Industries, Inc.",
+   "model": "AA55",
+   "part": "Purchase of three 55' overhead bucket trucks (Non-Overcenter Aerial Device with Material Handling, Insulated)",
+   "part_numbers": [
+    "AA55"
+   ],
+   "quantity": "3",
+   "price_usd": 910011,
+   "lead_time": null,
+   "sole_source_vendor": "Altec Industries, Inc.",
+   "reason": "The units have accumulated 11,363 hours, 11,257 hours, and 10,237 hours, respectively, which significantly exceed the 6,000-hour guideline.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Altec Industries",
+   "model": null,
+   "part": "Purchase of Two (2) Underground (UG) Line Trucks",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 556092,
+   "lead_time": null,
+   "sole_source_vendor": "Altec Industries",
+   "reason": "Summary Description\u2014 Purchase of Three ( 3) Overhead ( OH) Bucket Trucks and Two ( 2) Underground ( UG) Line Trucks",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18887,
+  "out": 3111
+ },
+ "model": "claude-sonnet-5"
+}

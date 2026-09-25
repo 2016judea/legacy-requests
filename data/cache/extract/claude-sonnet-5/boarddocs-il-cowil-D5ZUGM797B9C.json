@@ -1,0 +1,223 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": "APX NEXT",
+   "part": "APX NEXT ALL-BAND MODEL 4.5 PORTABLE radio devices",
+   "part_numbers": [
+    "H55TGT9PW8AN"
+   ],
+   "quantity": "7",
+   "price_usd": 42111.51,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Motorola is the sole source provider for the police department radios and is purchasing the additional 7 radios from Motorola required to maintain interoperability within the department.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "APX NEXT",
+   "part": "CORE BUNDLE add-on for portable radios",
+   "part_numbers": [
+    "BD00001AA"
+   ],
+   "quantity": "7",
+   "price_usd": 15871.66,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Vendor is the only firm that is able to provide the Radios and Services desired by the City\u2019s Police Department",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "APX NEXT",
+   "part": "SECURITY BUNDLE add-on for portable radios",
+   "part_numbers": [
+    "BD00010AA"
+   ],
+   "quantity": "7",
+   "price_usd": 5227.53,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Vendor is the only firm that is able to provide the Radios and Services desired by the City\u2019s Police Department",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "IMPRES GEN2",
+   "part": "Battery pack for portable radio, Li-Ion, IP68, 4400T",
+   "part_numbers": [
+    "NNTN9216A"
+   ],
+   "quantity": "7",
+   "price_usd": 1267.56,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Vendor is the only firm that is able to provide the Radios and Services desired by the City\u2019s Police Department",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "APX NEXT DMS",
+   "part": "APX NEXT DMS ESSENTIAL service (5 year term)",
+   "part_numbers": [
+    "LSV01S03446A"
+   ],
+   "quantity": "7",
+   "price_usd": 2692.2,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Vendor is the only firm that is able to provide the Radios and Services desired by the City\u2019s Police Department",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "RadioCentral",
+   "part": "RADIOCENTRAL PROGRAMMING service (5 year term)",
+   "part_numbers": [
+    "LSV01S03082A"
+   ],
+   "quantity": "7",
+   "price_usd": 1121.4,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Vendor is the only firm that is able to provide the Radios and Services desired by the City\u2019s Police Department",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "SMARTPROGRAMMING subscription service (5 year term)",
+   "part_numbers": [
+    "SSV01S01407A"
+   ],
+   "quantity": "7",
+   "price_usd": 2625.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Vendor is the only firm that is able to provide the Radios and Services desired by the City\u2019s Police Department",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "SMARTCONNECT subscription service (5 year term)",
+   "part_numbers": [
+    "SSV01S01406A"
+   ],
+   "quantity": "7",
+   "price_usd": 2625.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Vendor is the only firm that is able to provide the Radios and Services desired by the City\u2019s Police Department",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "SMARTLOCATE subscription service (5 year term)",
+   "part_numbers": [
+    "SSV01S01476A"
+   ],
+   "quantity": "7",
+   "price_usd": 2625.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Vendor is the only firm that is able to provide the Radios and Services desired by the City\u2019s Police Department",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "SMARTMAPPING subscription service (5 year term)",
+   "part_numbers": [
+    "SSV01S01907A"
+   ],
+   "quantity": "7",
+   "price_usd": 2625.0,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Vendor is the only firm that is able to provide the Radios and Services desired by the City\u2019s Police Department",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "IMPRES 2",
+   "part": "IMPRES 2 single unit charger (SUC), 3.0A, 120VAC, Type A plug",
+   "part_numbers": [
+    "NNTN9199A"
+   ],
+   "quantity": "7",
+   "price_usd": 866.46,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Vendor is the only firm that is able to provide the Radios and Services desired by the City\u2019s Police Department",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "XVP850",
+   "part": "Accessory kit, remote speaker microphone with channel knob",
+   "part_numbers": [
+    "PMMN4135B"
+   ],
+   "quantity": "7",
+   "price_usd": 2593.85,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Vendor is the only firm that is able to provide the Radios and Services desired by the City\u2019s Police Department",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Device programming service",
+   "part_numbers": [
+    "LSV00Q00202A"
+   ],
+   "quantity": "7",
+   "price_usd": 749.98,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Vendor is the only firm that is able to provide the Radios and Services desired by the City\u2019s Police Department",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9257,
+  "out": 2435
+ },
+ "model": "claude-sonnet-5"
+}

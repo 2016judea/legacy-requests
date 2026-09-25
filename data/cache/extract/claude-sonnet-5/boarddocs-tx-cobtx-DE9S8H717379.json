@@ -1,0 +1,409 @@
+{
+ "records": [
+  {
+   "manufacturer": "Spartan Motors",
+   "model": "Gladiator",
+   "part": "Repairs on aerial fire apparatus (Truck 2 / Unit 7-33) to restore ariel ladder system and support systems to safe operating condition",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 135000,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "Metro Fire Apparatus Specialists, Inc. is a member of the Texas BuyBoard cooperative under Contract Number 698-23.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "PM-B bumper-to-bumper NFPA 1911 inspection and preventive maintenance service (fluids, filters, chassis lube) on aerial apparatus",
+   "part_numbers": [
+    "CSP-3937557-S",
+    "CSP-CC2543",
+    "CSP-CV50633",
+    "CSP-LF14001NN",
+    "CSP-Q59278",
+    "CSP-Q66297",
+    "HAR-WO206-2200",
+    "LUC 10005",
+    "MER-A3380-W-1687",
+    "NAP-TWD-3434009",
+    "ORE-72408",
+    "ORE-ORO-D-1",
+    "SMC-0910-HH2-001",
+    "VAL-825",
+    "VAL-829",
+    "VAL-891005",
+    "VAL-043",
+    "CSP-FS1000",
+    "CSP-WF2122",
+    "SMC-9976230",
+    "MOT-HP3201A10ANP01",
+    "CF-4-01703"
+   ],
+   "quantity": null,
+   "price_usd": 5770.32,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "Customer request",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replace tower joystick (console tower panel) - safety lock inoperative",
+   "part_numbers": [
+    "CF-4-05201"
+   ],
+   "quantity": "1",
+   "price_usd": 1290.65,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "THE SAFETY LOCK FOR THE JOYSTICK DOES NOT WORK (Inspection)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replace bucket door handles and latch (missing latch)",
+   "part_numbers": [
+    "SLA-HL6-5 626",
+    "SMC-1249-RR1"
+   ],
+   "quantity": null,
+   "price_usd": 1011.77,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "MISSING THE LATCH FOR THE DOOR (Inspection)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replace cracked driver side windshield",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 456.96,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "WINDSHIELD IS CRACKED (Inspection)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replace leaking air system valves (rear combination valves, ABS valve package, air dryer) and repair leaking fittings",
+   "part_numbers": [
+    "MER-472 500 123 0",
+    "HDX-KN28071",
+    "BEN-800350",
+    "BEN-800372",
+    "MER-RWABK118"
+   ],
+   "quantity": null,
+   "price_usd": 5966.49,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "Both rear combination valves are leaking (Inspection)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replace both amber strobe lights on ladder sides (cracked lenses); old lights had to be modified",
+   "part_numbers": [
+    "ECC-6262A"
+   ],
+   "quantity": "2",
+   "price_usd": 503.32,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "HAD TO MODIFY THEM CAUSE OLD LIGHTS WERE DISCONTINUED",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Repair bucket light wiring (node power cable) and replace fly section and DOT lights",
+   "part_numbers": [
+    "LAD-0462-203-08141",
+    "TEC-E41-R60X-1",
+    "PHO-P201332"
+   ],
+   "quantity": null,
+   "price_usd": 2058.47,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "UNKNOWN (Inspection)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replace cracked rear cab mount bushings/washers and cab mounts (PTO shaft hitting cab when turning)",
+   "part_numbers": [
+    "SMC-1059-EE1-002",
+    "SMC-0944-EE1-003",
+    "SMC-0124-BB1-015",
+    "SMC-1367-EE1-001",
+    "SMC-1368-EE1-001",
+    "SMC-0137-BB1-004",
+    "SMC-04200100FH8Y",
+    "SMC-04200075FH8Y",
+    "SMC-0420FLN8M",
+    "SMC-09120200H8Y",
+    "SMC-09120375H8Y",
+    "SMC-0912LN8Z",
+    "SMC-09FWSAE8Y",
+    "WWG-4TKH1"
+   ],
+   "quantity": null,
+   "price_usd": 3924.62,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "REAR CAB MOUNTS CRACKED AND BUSHINGS WORN OUT (Inspection)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hale",
+   "model": null,
+   "part": "Repair cracked foam tank (drain, flush, seal) and replace foam check valve/hose",
+   "part_numbers": [
+    "HAL-538-1850-00-0",
+    "KAN-110CL100",
+    "ORE-PER-82194"
+   ],
+   "quantity": null,
+   "price_usd": 2517.56,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "FOAM TANK IS CRACKED. ALSO SHOULD REPLACE THE CHECK VALVE IN THE FOAM MANIFOLD (Inspection)",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replace fuel level sensor (inaccurate fuel gauge)",
+   "part_numbers": [
+    "SMC-0353-GG3-003",
+    "SMC-0015-00716",
+    "ORE-MHC-MP5010"
+   ],
+   "quantity": "1",
+   "price_usd": 1282.98,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "INACCURATE FUEL GAUGE (Inspection)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replace leaking hydraulic coupler at base of turntable",
+   "part_numbers": [
+    "CF-4-02946",
+    "CF-4-02947"
+   ],
+   "quantity": null,
+   "price_usd": 759.86,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "DOODAD ON THE RIGHT SIDE OF THE BASE SECTION UNDER SHEAVE WHEEL LEAKING (Inspection)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ramco",
+   "model": null,
+   "part": "Replace broken mirror selector switch",
+   "part_numbers": [
+    "SMC-ELE310"
+   ],
+   "quantity": "1",
+   "price_usd": 122.61,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "Switch is broken (Inspection)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replace missing outrigger reflective light assemblies (both front outriggers)",
+   "part_numbers": [
+    "GRO-G5300"
+   ],
+   "quantity": "2",
+   "price_usd": 281.3,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "MISSING LENSE ON THE OFFICER SIDE FRONT OUTRIGGER LIGHT (Inspection)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kussmaul",
+   "model": null,
+   "part": "Replace locked-up air compressor (pony pump not working); fabricated new bracket and relocated radio",
+   "part_numbers": [
+    "KUS-091-9B-4",
+    "PAR-1120-4A-BLU"
+   ],
+   "quantity": "1",
+   "price_usd": 1854.24,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "COMPRESSOR IS LOCKED UP (Inspection)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replace missing rear DOT/clearance lights and damaged rub rail, spacers, housings",
+   "part_numbers": [
+    "ACE-INN200-4400-1",
+    "CF-2-09000-005",
+    "CF-560-55000-001",
+    "SMC-0718-GG2-016",
+    "CF-1704C004800SSMG"
+   ],
+   "quantity": null,
+   "price_usd": 1938.58,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "LIGHTS MISSING (Inspection)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replace turntable extend/retract joystick",
+   "part_numbers": [
+    "CF-4-05201"
+   ],
+   "quantity": "1",
+   "price_usd": 986.86,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "JOYSTICK NOT WORKING (Inspection)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replace multiple burned DOT lights around truck (bucket amber DOT light)",
+   "part_numbers": [
+    "ACE-INN200-1100-1",
+    "ACE-INN200-4400-1",
+    "PHO-P201332"
+   ],
+   "quantity": null,
+   "price_usd": 1026.16,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "BURN LEDS ON LIGHT Type: CUSTOMER PAY (Inspection)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replace ladder shiv wheels, washers, pins and pin retainers (base and mid section) due to blown-out bushings causing rough retraction",
+   "part_numbers": [
+    "CF-5-03580",
+    "CF-4-02229",
+    "CF-5-03582",
+    "CF-4-01259",
+    "CF-4-00353",
+    "MET-FAB-59A-2A-316SS MACHINED",
+    "CF-4-02238",
+    "CF-4-02239",
+    "CF-4-02240"
+   ],
+   "quantity": null,
+   "price_usd": 66673.35,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "SHIV WHEEL BUSHINGS ARE BLOWN OUT IN A FEW LOCATIONS (Inspection)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Repair cracked officer side rear cradle mount (grind, v-groove, reweld, add reinforcing plate)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1926.73,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "REAR OFFICER SIDE CRADLE MOUNT CRACKED (Inspection)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replace all ladder extension and retraction cables (base and mid section) - recommended repair",
+   "part_numbers": [
+    "CF-4-02202",
+    "CF-4-02200",
+    "CF-4-02199",
+    "CF-4-02197"
+   ],
+   "quantity": null,
+   "price_usd": 20564.2,
+   "lead_time": null,
+   "sole_source_vendor": "Metro Fire Apparatus Specialists, Inc.",
+   "reason": "CABLES AT THE END OF THEIR ADJUSTMENT AND SHOULD BE REPLACED. CUSTOMER REQUESTED QUOTE (Inspection)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fire Station #2",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14663,
+  "out": 11088
+ },
+ "model": "claude-sonnet-5"
+}

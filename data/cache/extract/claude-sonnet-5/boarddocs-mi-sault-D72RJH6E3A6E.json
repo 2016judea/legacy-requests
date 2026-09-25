@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stryker",
+   "model": "MTS Power Load",
+   "part": "Ambulance Power Load system (cot securing device) including 3 year preventative maintenance plan and installation",
+   "part_numbers": [],
+   "quantity": "one",
+   "price_usd": 33912.31,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Corporation",
+   "reason": "The Stryker MTS Power Load system is a proprietary device and is a sole source item.",
+   "equipment_class": "other equipment",
+   "installed_location": "A-155 ambulance",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3024,
+  "out": 195
+ },
+ "model": "claude-sonnet-5"
+}

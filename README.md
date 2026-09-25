@@ -28,6 +28,12 @@ static page anyone can search.
   the items whose staff report or packet pages use sole-source language. Agendas a
   Granicus site serves from a Legistar host are left to `ingest.py`. Sites tried that
   yielded nothing (no attachment links, or Legistar-backed) are listed with 0 matters.
+- `boarddocs.json` lists BoardDocs sites (`go.boarddocs.com/<state>/<site>/Board.nsf`),
+  weighted to water, wastewater and utility agencies. `scripts/ingest_boarddocs.py`
+  runs each site's own full-text search (which covers attachments) for sole-source
+  phrases, keeps agenda items from 2024 on, and caches each item's HTML and PDFs.
+  Output is `data/matters/boarddocs-<state>-<site>.json`, tagged `platform: boarddocs`.
+  No login: the public endpoints need only an ordinary browser User-Agent.
 - `scripts/ingest.py` searches matter titles since 2024-01-01 for sole-source
   and equipment keywords, then fetches each matter's text and PDF attachments.
 - `scripts/extract.py` sends a matter to the model only if it or one of its
