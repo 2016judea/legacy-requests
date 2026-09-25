@@ -1,0 +1,45 @@
+{
+ "records": [
+  {
+   "manufacturer": "Collins Elbit Vision Systems, LLC (CEVS)",
+   "model": null,
+   "part": "Joint Helmet Mounted Cueing System (JHMCS) production and repair - consumable and Depot Level Reparable (DLR) spares, SRUs and LRUs",
+   "part_numbers": [],
+   "quantity": "47 items (29 consumable and 18 DLR); Best Estimated Quantities per year",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Collins Elbit Vision Systems, LLC (CEVS)",
+   "reason": "As the OEM, CEVS is the only source that has met the requirements and been approved as a source of supply for the military unique items covered under this acquisition since the calendar year (CY) 2000.",
+   "equipment_class": "other equipment",
+   "installed_location": "USAF F-15 and F-16 aircraft, United States Navy F-18 aircraft",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Visor Day Anti Scratch 25%",
+   "part": "Visor Day Anti Scratch 25% component of JHMCS helmet-mounted display",
+   "part_numbers": [
+    "8475-01-475-4702"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Collins Elbit Vision Systems, LLC (CEVS)",
+   "reason": "Assumning an initial investment of for a reverse engineering effort on the Visor Day Anti Scratch 25%/ NSN: 8475-01-475-4702, it would take approximately 42 years for the government to see a return on investment",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6143,
+  "out": 1325
+ },
+ "model": "claude-sonnet-5"
+}

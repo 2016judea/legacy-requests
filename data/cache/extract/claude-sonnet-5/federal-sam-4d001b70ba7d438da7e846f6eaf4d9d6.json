@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Housing, Bearing Unit",
+   "part_numbers": [
+    "52W1831-1"
+   ],
+   "quantity": "156 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Curtiss-Wright Flow Control Service",
+   "reason": "The material is sole sourced to Curtiss-Wright Flow Control Service CAGE 21439. Item is commercial off the shelf.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7063,
+  "out": 188
+ },
+ "model": "claude-sonnet-5"
+}

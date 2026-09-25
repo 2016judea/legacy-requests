@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens",
+   "model": "MAGNETOM VIDA/VIDA MRI System (3T)",
+   "part": "Software for the Siemens MAGNETOM VIDA/VIDA MRI System (3T)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "30 Days ARO",
+   "sole_source_vendor": null,
+   "reason": "The software requested is made specifically for the MAGENETOM VIDA/VIDA MRI System (3T) currently on hand.",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Tucson Healthcare System, 3601 S. 6th Street Tucson AZ, 85012",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens",
+   "model": "MAGNETOM VIDA/VIDA MRI System (3T)",
+   "part": "Software Installation for the Siemens MAGNETOM VIDA/VIDA MRI System (3T)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "30 Days ARO",
+   "sole_source_vendor": null,
+   "reason": "The Radiology Department at the VA Tucson Healthcare System has a request for Software Software, Software Installation, and Additional Components for the Simens MAGNETOM VIDA/VIDA MRI System (3T) currently installed on site.",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Tucson Healthcare System, 3601 S. 6th Street Tucson AZ, 85012",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens",
+   "model": "MAGNETOM VIDA/VIDA MRI System (3T)",
+   "part": "Additional Components (Siemens designed coils) for the MRI System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "30 Days ARO",
+   "sole_source_vendor": null,
+   "reason": "The requested components, which are Simens designed coils, are engineered, tested, and optimized specifically for the hardware as well as the software architecture of the Siemens scanner.",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Tucson Healthcare System, 3601 S. 6th Street Tucson AZ, 85012",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5609,
+  "out": 1201
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lake Shore Systems Inc. dba Trident Maritime Systems Heavy Equipment Group",
+   "model": null,
+   "part": "FEED TANK ASSY, MATL: SS316, USE FOR OILY WATER POLISHING SYSTEM",
+   "part_numbers": [
+    "S9593-DL-MMA-010 FIG & INDEX. NO. 7-2-1 THROUGH 7-2-26"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lake Shore Systems Inc. dba Trident Maritime Systems Heavy Equipment Group",
+   "reason": "This requirement is a Sole Source OEM \"Lake Shore Systems Inc. dba Trident Maritime Systems Heavy Equipment Group\" procurement because they are the only authorized OEM via technical manual S9593-DL-MMA-010 FIG & INDEX. NO. 7-2-1 THRU 7-2-26.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "SRF and JRMC Yokosuka",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10159,
+  "out": 407
+ },
+ "model": "claude-sonnet-5"
+}

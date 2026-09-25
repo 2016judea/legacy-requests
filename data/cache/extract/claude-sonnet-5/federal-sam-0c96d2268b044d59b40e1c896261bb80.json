@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "FLOFAB",
+   "model": null,
+   "part": "Brand Name or Equal: FLOFAB Tube Bundle Only (36.28 sq ft) steel tube sheet. 304 Stainless Steel Tubes and Teflon Baffles. 150 PSIG 375\u00baF Weight 101 lbs",
+   "part_numbers": [
+    "TB-0686-2A"
+   ],
+   "quantity": "2.00 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name or Equal: FLOFAB Tube Bundle Only (36.28 sq ft) steel tube sheet.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "VA Southern Nevada Health Care System, 6900 North Pecos Road, Las Vegas, NV 89086",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7169,
+  "out": 315
+ },
+ "model": "claude-sonnet-5"
+}

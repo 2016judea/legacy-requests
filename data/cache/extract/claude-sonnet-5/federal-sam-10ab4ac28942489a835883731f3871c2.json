@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Polaris Government and Defense (G&D)",
+   "model": "ULTV-L (Ultra-Light Tactical Vehicle - Logistics variant)",
+   "part": "Production of Ultra-Light Tactical Vehicle, Logistics variant, including spare repair parts, tool kits, and field service representative support",
+   "part_numbers": [],
+   "quantity": "up to 580 (combined ULTV-L and ULTV-HP)",
+   "price_usd": 98245654,
+   "lead_time": null,
+   "sole_source_vendor": "Polaris Government and Defense (G&D)",
+   "reason": "Polaris G&D is the sole designer, developer, and manufacturer of the ULTV-HP variant and the only source with the requisite knowledge, experience, and technical expertise to manufacture the ULTV-L and ULTV-HP within the required scheduled delivery parameters.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Polaris Government and Defense (G&D)",
+   "model": "ULTV-HP (Ultra-Light Tactical Vehicle - High-Power variant)",
+   "part": "Production of Ultra-Light Tactical Vehicle, High-Power variant, including spare repair parts, tool kits, and field service representative support",
+   "part_numbers": [],
+   "quantity": "up to 580 (combined ULTV-L and ULTV-HP)",
+   "price_usd": 98245654,
+   "lead_time": null,
+   "sole_source_vendor": "Polaris Government and Defense (G&D)",
+   "reason": "Polaris G&D is also the only vendor with a current MV-22 internally transportable certification for both the ULTV-L and ULTV-HP.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7172,
+  "out": 998
+ },
+ "model": "claude-sonnet-5"
+}

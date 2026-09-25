@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "CCU-189/B",
+   "part": "Impulse Cartridges (DODIC JP40) for EA-18G aircraft",
+   "part_numbers": [
+    "CCU-189/B"
+   ],
+   "quantity": "1,100",
+   "price_usd": 750000,
+   "lead_time": null,
+   "sole_source_vendor": "Applied Energetic Technology Corp (AETC)",
+   "reason": "AETC is the current and only source with the proven and currently validated manufacturing capabilities to produce the JP40 Impulse Cartridge that meets all government performance and safety requirements, including HERO-Safe standards, within the timeframe dictated by operational necessity.",
+   "equipment_class": "other equipment",
+   "installed_location": "EA-18G aircraft",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3265,
+  "out": 580
+ },
+ "model": "claude-sonnet-5"
+}

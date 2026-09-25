@@ -1,0 +1,397 @@
+{
+ "records": [
+  {
+   "manufacturer": "American Compressor Company",
+   "model": "55H75",
+   "part": "Universal High Pack Air Compressor overhaul, repair, and rebuild",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Valve assembly set, 10 valves",
+   "part_numbers": [
+    "SM-VLVST"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "valve",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Piston ring set",
+   "part_numbers": [
+    "SM-PRST"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Piston pin & bearing set, 5 pins & 5 bearings",
+   "part_numbers": [
+    "SM-PINST"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Crankshaft bearing set and oil pump",
+   "part_numbers": [
+    "SM-CBST"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Oil pump assembly",
+   "part_numbers": [
+    "SM-OP"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "pump",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Cylinder gasket set",
+   "part_numbers": [
+    "SM-CGSK"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Valve gasket set",
+   "part_numbers": [
+    "SM-VGSK"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "valve",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Motor bearing set",
+   "part_numbers": [
+    "SM-MBST"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fan hub bearing and seal set",
+   "part_numbers": [
+    "0602-SM-FBST"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "V-belt set for compressor",
+   "part_numbers": [
+    "PACK 8"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "V-belt set for cooling fan",
+   "part_numbers": [
+    "PACK 46"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "HVAC",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Remote control valve set",
+   "part_numbers": [
+    "PACK 27"
+   ],
+   "quantity": "15 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "valve",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Condensate separator element",
+   "part_numbers": [
+    "COND 4"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Oil filter",
+   "part_numbers": [
+    "PACK 2"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Air filter cartridge",
+   "part_numbers": [
+    "AIR 3"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Air filter restriction indicator",
+   "part_numbers": [
+    "AIR 6"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Purification O-ring and back up ring kit",
+   "part_numbers": [
+    "0602-SM-PGSK"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Purification molecular sieve cartridge",
+   "part_numbers": [
+    "PURE 1"
+   ],
+   "quantity": "12 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Purification combination cartridge",
+   "part_numbers": [
+    "PURE 2"
+   ],
+   "quantity": "6 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Purification coalescing filter element",
+   "part_numbers": [
+    "PURE 3"
+   ],
+   "quantity": "6 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Compressor lubricant (gallons)",
+   "part_numbers": [
+    "OIL"
+   ],
+   "quantity": "15 GAL",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "other equipment",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "H.P. refrigerated dryer inspection and service",
+   "part_numbers": [
+    "7SS"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "American Compressor Company",
+   "model": "55H75",
+   "part": "Complete overhaul & paint model 55H75",
+   "part_numbers": [
+    "LABOR"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Compressor Company",
+   "reason": "AMERICAN COMPRESSOR COMPANY is the OEM manufacture of the UNIVERSAL HIGH PACK AIR COMPRESSOR MODEL 55H75 that the Puget Sound Naval Shipyard (PSNS) owns and uses.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Puget Sound Naval Shipyard (PSNS)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3668,
+  "out": 6935
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,273 @@
+{
+ "records": [
+  {
+   "manufacturer": "Northrop Grumman Systems Corporation",
+   "model": null,
+   "part": "Test Program Sets (TPS) and Automated Test Equipment (ATE) for AN/ZPY-3 MFAS SRAs",
+   "part_numbers": [],
+   "quantity": "one set of TPS hardware for each of the 15 required SRAs",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northrop Grumman Systems Corporation",
+   "reason": "Northrop Grumman Systems Corp is the Original Equipment Manufacturer (OEM) and they are unwilling to sell the complete data package to the Government to allow for full and open competition.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Fleet Readiness Center Southeast (FRCSE)",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Northrop Grumman Systems Corporation",
+   "model": null,
+   "part": "Auxiliary Synchronizer, Programmed",
+   "part_numbers": [
+    "218K154G05",
+    "218K154G04"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northrop Grumman Systems Corporation",
+   "reason": "Northrop Grumman Systems Corp is the Original Equipment Manufacturer (OEM) and they are unwilling to sell the complete data package to the Government to allow for full and open competition.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fleet Readiness Center Southeast (FRCSE)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Northrop Grumman Systems Corporation",
+   "model": null,
+   "part": "Power Supply Aux",
+   "part_numbers": [
+    "820R045G03",
+    "820R045G02"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northrop Grumman Systems Corporation",
+   "reason": "Northrop Grumman Systems Corp is the Original Equipment Manufacturer (OEM) and they are unwilling to sell the complete data package to the Government to allow for full and open competition.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fleet Readiness Center Southeast (FRCSE)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Northrop Grumman Systems Corporation",
+   "model": null,
+   "part": "Power Converter Assembly",
+   "part_numbers": [
+    "820R055G04"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northrop Grumman Systems Corporation",
+   "reason": "Northrop Grumman Systems Corp is the Original Equipment Manufacturer (OEM) and they are unwilling to sell the complete data package to the Government to allow for full and open competition.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fleet Readiness Center Southeast (FRCSE)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Northrop Grumman Systems Corporation",
+   "model": null,
+   "part": "Array Driver",
+   "part_numbers": [
+    "824R658G06",
+    "824R658G05"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northrop Grumman Systems Corporation",
+   "reason": "Northrop Grumman Systems Corp is the Original Equipment Manufacturer (OEM) and they are unwilling to sell the complete data package to the Government to allow for full and open competition.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fleet Readiness Center Southeast (FRCSE)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Northrop Grumman Systems Corporation",
+   "model": null,
+   "part": "ECA, Beam Steering Control, Programmed",
+   "part_numbers": [
+    "331K120G01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northrop Grumman Systems Corporation",
+   "reason": "Northrop Grumman Systems Corp is the Original Equipment Manufacturer (OEM) and they are unwilling to sell the complete data package to the Government to allow for full and open competition.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fleet Readiness Center Southeast (FRCSE)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Northrop Grumman Systems Corporation",
+   "model": null,
+   "part": "Wideband WFG, Programmed",
+   "part_numbers": [
+    "130K374G02"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northrop Grumman Systems Corporation",
+   "reason": "Northrop Grumman Systems Corp is the Original Equipment Manufacturer (OEM) and they are unwilling to sell the complete data package to the Government to allow for full and open competition.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fleet Readiness Center Southeast (FRCSE)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Northrop Grumman Systems Corporation",
+   "model": null,
+   "part": "270 Volt Power Converter",
+   "part_numbers": [
+    "139K983G03"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northrop Grumman Systems Corporation",
+   "reason": "Northrop Grumman Systems Corp is the Original Equipment Manufacturer (OEM) and they are unwilling to sell the complete data package to the Government to allow for full and open competition.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fleet Readiness Center Southeast (FRCSE)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Northrop Grumman Systems Corporation",
+   "model": null,
+   "part": "ECA, Programmed, SYNC/CBI",
+   "part_numbers": [
+    "130K389G02"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northrop Grumman Systems Corporation",
+   "reason": "Northrop Grumman Systems Corp is the Original Equipment Manufacturer (OEM) and they are unwilling to sell the complete data package to the Government to allow for full and open competition.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fleet Readiness Center Southeast (FRCSE)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Northrop Grumman Systems Corporation",
+   "model": null,
+   "part": "Reference Generator",
+   "part_numbers": [
+    "130K380G05"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northrop Grumman Systems Corporation",
+   "reason": "Northrop Grumman Systems Corp is the Original Equipment Manufacturer (OEM) and they are unwilling to sell the complete data package to the Government to allow for full and open competition.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fleet Readiness Center Southeast (FRCSE)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Northrop Grumman Systems Corporation",
+   "model": null,
+   "part": "NB Waveform Gen",
+   "part_numbers": [
+    "130K369G02"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northrop Grumman Systems Corporation",
+   "reason": "Northrop Grumman Systems Corp is the Original Equipment Manufacturer (OEM) and they are unwilling to sell the complete data package to the Government to allow for full and open competition.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fleet Readiness Center Southeast (FRCSE)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Northrop Grumman Systems Corporation",
+   "model": null,
+   "part": "Dual RF Receiver",
+   "part_numbers": [
+    "218K022G01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northrop Grumman Systems Corporation",
+   "reason": "Northrop Grumman Systems Corp is the Original Equipment Manufacturer (OEM) and they are unwilling to sell the complete data package to the Government to allow for full and open competition.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fleet Readiness Center Southeast (FRCSE)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Northrop Grumman Systems Corporation",
+   "model": null,
+   "part": "Digital Power Supply",
+   "part_numbers": [
+    "139K985G03"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northrop Grumman Systems Corporation",
+   "reason": "Northrop Grumman Systems Corp is the Original Equipment Manufacturer (OEM) and they are unwilling to sell the complete data package to the Government to allow for full and open competition.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fleet Readiness Center Southeast (FRCSE)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Northrop Grumman Systems Corporation",
+   "model": null,
+   "part": "Synthesizer",
+   "part_numbers": [
+    "130K364G02"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northrop Grumman Systems Corporation",
+   "reason": "Northrop Grumman Systems Corp is the Original Equipment Manufacturer (OEM) and they are unwilling to sell the complete data package to the Government to allow for full and open competition.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fleet Readiness Center Southeast (FRCSE)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Northrop Grumman Systems Corporation",
+   "model": null,
+   "part": "WBIF Receiver",
+   "part_numbers": [
+    "218K020G06",
+    "218K020G09"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northrop Grumman Systems Corporation",
+   "reason": "Northrop Grumman Systems Corp is the Original Equipment Manufacturer (OEM) and they are unwilling to sell the complete data package to the Government to allow for full and open competition.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fleet Readiness Center Southeast (FRCSE)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Northrop Grumman Systems Corporation",
+   "model": null,
+   "part": "Analog Power Supply",
+   "part_numbers": [
+    "139K987G02"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northrop Grumman Systems Corporation",
+   "reason": "Northrop Grumman Systems Corp is the Original Equipment Manufacturer (OEM) and they are unwilling to sell the complete data package to the Government to allow for full and open competition.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fleet Readiness Center Southeast (FRCSE)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3709,
+  "out": 4689
+ },
+ "model": "claude-sonnet-5"
+}

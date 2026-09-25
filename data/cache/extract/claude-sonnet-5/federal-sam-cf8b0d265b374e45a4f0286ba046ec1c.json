@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vestdavit, Inc.",
+   "model": null,
+   "part": "Inspection of terminal / radio control for ESB-6 Controller ID: ID50030 + D55278/55279",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vestdavit, Inc.",
+   "reason": "This Solicitation is a SOLE SOURCE REQUIREMENT for OEM Vestdavit, Inc. (Inspection of terminal / radio control for ESB-6 Controller ID: ID50030 + D55278/55279)",
+   "equipment_class": "other equipment",
+   "installed_location": "USS JOHN L CANLEY (ESB-6)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8685,
+  "out": 261
+ },
+ "model": "claude-sonnet-5"
+}

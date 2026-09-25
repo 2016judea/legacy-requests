@@ -1,0 +1,95 @@
+{
+ "records": [
+  {
+   "manufacturer": "GLENAIR INC",
+   "model": null,
+   "part": "Connector Plug Assembly, SPEC MIL-DTL-28840/20, Shell Size A (11), Insert Arrangement 1, Contact Style Socket, Backshell Style EMI Environmental, Backshell Type Straight, Matl CRES, Finish Cadmium Plate Black",
+   "part_numbers": [
+    "M28840/20EA1BAS1"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GLENAIR INC",
+   "reason": "This requirement is sole sourced to SS/Brand GLENAIR INC due to to ensure proper form, fit, and function as intended by the manufacturer and in accordance with QPL-28840 & QPL-AS85049.",
+   "equipment_class": "other equipment",
+   "installed_location": "DDG VESSEL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GLENAIR INC",
+   "model": null,
+   "part": "Connector Plug Assembly, SPEC MIL-DTL-28840/29, Shell Size A (11), Insert Arrangement 1, Contact Style Socket, Backshell Style EMI Environmental, Backshell Type 45 Deg, Matl Aluminum, Finish Cadmium Plate, Olive Drab, Over Electroless Nickel",
+   "part_numbers": [
+    "M28840/20EB1BAS1"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GLENAIR INC",
+   "reason": "This requirement is sole sourced to SS/Brand GLENAIR INC due to to ensure proper form, fit, and function as intended by the manufacturer and in accordance with QPL-28840 & QPL-AS85049.",
+   "equipment_class": "other equipment",
+   "installed_location": "DDG VESSEL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GLENAIR INC",
+   "model": null,
+   "part": "Connector Plug Assembly, SPEC MIL-DTL-28840/29, Shell Size A (11), Insert Arrangement 1, Contact Style Socket, Backshell Style EMI Environmental, Backshell Type 45 Deg, Matl Aluminum, Finish Cadmium Plate, Olive Drab, Over Electroless Nickel",
+   "part_numbers": [
+    "M28840/29CA1BAS1"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GLENAIR INC",
+   "reason": "This requirement is sole sourced to SS/Brand GLENAIR INC due to to ensure proper form, fit, and function as intended by the manufacturer and in accordance with QPL-28840 & QPL-AS85049.",
+   "equipment_class": "other equipment",
+   "installed_location": "DDG VESSEL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GLENAIR INC",
+   "model": null,
+   "part": "Connector Plug Assembly, SPEC MIL-DTL-28840/29, Shell Size B (13), Insert Arrangement 1, Contact Style Socket, Backshell Style EMI Environmental, Backshell Type 45 Deg, Matl Aluminum, Finish Cadmium Plate, Olive Drab, Over Electroless Nickel",
+   "part_numbers": [
+    "M28840/29CB1BAS1"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GLENAIR INC",
+   "reason": "This requirement is sole sourced to SS/Brand GLENAIR INC due to to ensure proper form, fit, and function as intended by the manufacturer and in accordance with QPL-28840 & QPL-AS85049.",
+   "equipment_class": "other equipment",
+   "installed_location": "DDG VESSEL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GLENAIR INC",
+   "model": null,
+   "part": "Connector, Straight EMI/RFI Environmental Backshell, Spec MIL-DTL-5015, SAE AS85049/10, Shell Size 24, Matl Stainless Steel, Finish Passivated",
+   "part_numbers": [
+    "N85049/10-48S"
+   ],
+   "quantity": "8 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GLENAIR INC",
+   "reason": "This requirement is sole sourced to SS/Brand GLENAIR INC due to to ensure proper form, fit, and function as intended by the manufacturer and in accordance with QPL-28840 & QPL-AS85049.",
+   "equipment_class": "other equipment",
+   "installed_location": "DDG VESSEL",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8334,
+  "out": 2031
+ },
+ "model": "claude-sonnet-5"
+}

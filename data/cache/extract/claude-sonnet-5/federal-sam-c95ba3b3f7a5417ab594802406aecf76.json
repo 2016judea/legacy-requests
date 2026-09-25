@@ -1,0 +1,59 @@
+{
+ "records": [
+  {
+   "manufacturer": "SSK Industries",
+   "model": "CYPRES-2",
+   "part": "EC CYPRES-2 1-Pin Changeable - w/LTM Automatic Activation Device",
+   "part_numbers": [
+    "1670-12-422-1310"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SSK Military Industries, Inc.",
+   "reason": "The CYPRES system utilizes proprietary technology, components, and software that are not interchangeable with other manufacturers\u2019 devices, and substitution is not permitted without formal PPP evaluation and approval.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SSK Industries",
+   "model": "CYPRES IR Remote",
+   "part": "EC CYPRES IR Remote",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SSK Military Industries, Inc.",
+   "reason": "The CYPRES system utilizes proprietary technology, components, and software that are not interchangeable with other manufacturers\u2019 devices, and substitution is not permitted without formal PPP evaluation and approval.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SSK Industries",
+   "model": "CYPRES Data Collector",
+   "part": "EC CYPRES Data Collector",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SSK Military Industries, Inc.",
+   "reason": "The CYPRES system utilizes proprietary technology, components, and software that are not interchangeable with other manufacturers\u2019 devices, and substitution is not permitted without formal PPP evaluation and approval.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3791,
+  "out": 1191
+ },
+ "model": "claude-sonnet-5"
+}

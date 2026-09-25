@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "GENTEX Corp",
+   "model": "SF2-C",
+   "part": "GENTEX SF2-C kits (Flying PPE)-Laser Eye Protection",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GENTEX Corp",
+   "reason": "the current T.O. directs purchase of these approved assets through GENTEX Corp",
+   "equipment_class": "other equipment",
+   "installed_location": "Misawa Airbase",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2315,
+  "out": 188
+ },
+ "model": "claude-sonnet-5"
+}

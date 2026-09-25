@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sanitz Enterprises, Inc.",
+   "model": null,
+   "part": "LOAD BANK, ELECTRICAL",
+   "part_numbers": [
+    "6150-01-629-9715"
+   ],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sanitz Enterprises, Inc.",
+   "reason": "Based upon the technical certification on file, technical data is not available and cannot be developed to pennit full and open competition. The data presently available reflects the minimum needs of the Govemment.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5745,
+  "out": 614
+ },
+ "model": "claude-sonnet-5"
+}

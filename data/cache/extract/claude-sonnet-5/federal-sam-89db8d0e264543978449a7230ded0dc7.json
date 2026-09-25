@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Charon Technologies, LLC",
+   "model": "Spectrum Guard 2",
+   "part": "Spectrum Guard 2 Remote Kit (SG2 + Resource Manager)",
+   "part_numbers": [
+    "P16A-K"
+   ],
+   "quantity": "3",
+   "price_usd": 272280.0,
+   "lead_time": null,
+   "sole_source_vendor": "Charon Technologies, LLC",
+   "reason": "Charon Technologies, LLC is the original equipment manufacturer (OEM) and sole developer, producer, and distributor of the proprietary Spectrum Guard 2 system.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2539,
+  "out": 235
+ },
+ "model": "claude-sonnet-5"
+}

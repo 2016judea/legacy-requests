@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kardex Remstar",
+   "model": "Vertical Lift Module (VLM)",
+   "part": "Replacement parts to repair a Kardex Remstar Vertical Lift Module (VLM), Shuttle #2",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Southwest Solutions Group",
+   "reason": "Southwest Solutions Group and is the exclusive authorized factory sales and service dealer for all Office & Government Kardex Remstar in the state of Texas. No other companies are authorized in this area.",
+   "equipment_class": "other equipment",
+   "installed_location": "82 TRSS, Sheppard AFB, TX",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3600,
+  "out": 256
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Raytheon",
+   "model": null,
+   "part": "F-16 Power Supply",
+   "part_numbers": [
+    "6130-01-457-1188"
+   ],
+   "quantity": "2EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Raytheon",
+   "reason": "The Government does not own the data or rights to the data needed to purchase this part from another source. It is not economical to procure the data or rights to the data.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6824,
+  "out": 187
+ },
+ "model": "claude-sonnet-5"
+}

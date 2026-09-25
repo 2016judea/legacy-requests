@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "ADB SAFEGATE",
+   "model": "GSB-2501",
+   "part": "Upgrade of existing Airfield Lighting Control and Monitoring System (ALCMS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ADB SAFEGATE Americas LLC",
+   "reason": "Market research confirms the ALCMS is a proprietary system, and only the Original Equipment Manufacturer, ADB SAFEGATE Americas LLC, possesses the requisite proprietary data, software, and expertise",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Seymour Johnson AFB, NC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cisco",
+   "model": "IE3300",
+   "part": "Proprietary network hardware upgrades based on the Cisco IE3300 ruggedized switch platform for Air Traffic Control Tower, Airfield Electrical Vault, and Maintenance Center",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ADB SAFEGATE Americas LLC",
+   "reason": "Market research confirms the ALCMS is a proprietary system, and only the Original Equipment Manufacturer, ADB SAFEGATE Americas LLC, possesses the requisite proprietary data, software, and expertise to perform the upgrade without causing unacceptable risk to airfield safety and operations.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Seymour Johnson AFB, NC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Critical spare parts for ALCMS network hardware upgrade",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ADB SAFEGATE Americas LLC",
+   "reason": "Supplies: Proprietary network hardware upgrades ... along with critical spare parts.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Seymour Johnson AFB, NC",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3134,
+  "out": 1013
+ },
+ "model": "claude-sonnet-5"
+}

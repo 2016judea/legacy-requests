@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "ES-MCAT primary mirror",
+   "part": "Recoating of ES-MCAT 1.3-m telescope primary mirror",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "approximately nine months After Receipt of the Order (ARO)",
+   "sole_source_vendor": "Viavi, Inc.",
+   "reason": "Viavi is the only known source available that has the requisite knowledge, experience, staff, tooling, and capacity to meet the requirement of both recoating it to the prescribed specifications and building the necessary shipping container.",
+   "equipment_class": "other equipment",
+   "installed_location": "Ascension Island Auxiliary Airfield (AAF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rebuilt shipping crate/container for ES-MCAT mirror, able to withstand up to 30g's of force",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 8000,
+   "lead_time": null,
+   "sole_source_vendor": "Viavi, Inc.",
+   "reason": "Viavi already has the mirror in its possession and it is the only vendor available to handle the mirror and maneuver it into a new container without disrupting the clean room environment the mirror must be stored in after it is recoated.",
+   "equipment_class": "other equipment",
+   "installed_location": "Ascension Island Auxiliary Airfield (AAF)",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5572,
+  "out": 994
+ },
+ "model": "claude-sonnet-5"
+}

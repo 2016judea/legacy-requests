@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "12in Gooseneck Condenser Microphone w/ Base, Black, Cardioid",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "THUNDERCAT TECHNOLOGY, LLC",
+   "reason": "Only one awardee is capable of providing the supplies or services required at the level of quality required because the supplies or services ordered are unique or highly specialized.",
+   "equipment_class": "other equipment",
+   "installed_location": "Baltimore VA Emergency Operations Center (Room 3A-300)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "dvLED video wall",
+   "part": "19' x 5.5' dvLED video wall",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "THUNDERCAT TECHNOLOGY, LLC",
+   "reason": "Only highly specialized integrators with Haivision, Crestron, BiAmp, and dvLED engineering credentials have successfully delivered comparable systems at VA sites.",
+   "equipment_class": "other equipment",
+   "installed_location": "Baltimore VA Emergency Operations Center (Room 3A-300)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "86\" displays",
+   "part_numbers": [],
+   "quantity": "Three",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "THUNDERCAT TECHNOLOGY, LLC",
+   "reason": "Only one awardee is capable of providing the supplies or services required at the level of quality required because the supplies or services ordered are unique or highly specialized.",
+   "equipment_class": "other equipment",
+   "installed_location": "Baltimore VA Emergency Operations Center (Room 3A-300)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Haivision",
+   "model": "Alpha Core",
+   "part": "Haivision Alpha Core processing and routing architecture",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "THUNDERCAT TECHNOLOGY, LLC",
+   "reason": "Required Haivision Alpha Core processor expertise",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Baltimore VA Emergency Operations Center (Room 3A-300)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Crestron",
+   "model": null,
+   "part": "Crestron-based control systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "THUNDERCAT TECHNOLOGY, LLC",
+   "reason": "Crestron Certified Programmer capabilities",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Baltimore VA Emergency Operations Center (Room 3A-300)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BiAmp",
+   "model": "Tesira",
+   "part": "Integrated audio systems (BiAmp Tesira)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "THUNDERCAT TECHNOLOGY, LLC",
+   "reason": "Only highly specialized integrators with Haivision, Crestron, BiAmp, and dvLED engineering credentials have successfully delivered comparable systems at VA sites.",
+   "equipment_class": "other equipment",
+   "installed_location": "Baltimore VA Emergency Operations Center (Room 3A-300)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "VTC infrastructure, KVM systems, workstations, tuners, and associated equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "THUNDERCAT TECHNOLOGY, LLC",
+   "reason": "Proven past performance integrating multi-vendor routing, A/V, KVM, VTC, and audio DSP systems",
+   "equipment_class": "other equipment",
+   "installed_location": "Baltimore VA Emergency Operations Center (Room 3A-300)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Equipment racks, lecterns, and supporting components",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "THUNDERCAT TECHNOLOGY, LLC",
+   "reason": "Only one awardee is capable of providing the supplies or services required at the level of quality required because the supplies or services ordered are unique or highly specialized.",
+   "equipment_class": "other equipment",
+   "installed_location": "Baltimore VA Emergency Operations Center (Room 3A-300)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BrightSign",
+   "model": null,
+   "part": "Seamless integration with facility-wide emergency notification and messaging systems, including BrightSign-based workflows",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "THUNDERCAT TECHNOLOGY, LLC",
+   "reason": "Vendor must be able to provide Seamless integration with facility-wide emergency notification and messaging systems, including BrightSign-based workflows already deployed in other VA environments",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Baltimore VA Emergency Operations Center (Room 3A-300)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9126,
+  "out": 2875
+ },
+ "model": "claude-sonnet-5"
+}

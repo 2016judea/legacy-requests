@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ITT Aerospace Controls LLC",
+   "model": "Flow Control Valve",
+   "part": "Flow Control Valve for F-15EX aircraft, including depot activation, repair parts/spares and technical data rights",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ITT Aerospace Controls LLC",
+   "reason": "ITT Aerospace Controls LLC is the only responsible Original Equipment Manufacturer (OEM) capable of providing the Flow Control Valve and associated technical data rights necessary for Depot Activation of the Flow Control Valves.",
+   "equipment_class": "valve",
+   "installed_location": "F-15EX aircraft / Air Logistics Complex (ALC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6134,
+  "out": 279
+ },
+ "model": "claude-sonnet-5"
+}

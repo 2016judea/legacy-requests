@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "PARTS KIT, FLUID PRE",
+   "part_numbers": [
+    "4330011255432"
+   ],
+   "quantity": "2265",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "PALL AEROPOWER CORPORATION",
+   "reason": "The Government requires spare parts that are form, fit, and functionally interchangeable with those currently used on the supported end items or weapon systems. The acquisition is restricted to the following source(s) of supply, which are the only source(s) known to have the capability of furnishing the required supplies",
+   "equipment_class": "other equipment",
+   "installed_location": "AIRCRAFT, HERCULES C-130",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5507,
+  "out": 247
+ },
+ "model": "claude-sonnet-5"
+}

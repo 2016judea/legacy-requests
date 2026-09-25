@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "SmartShooter Inc.",
+   "model": "SMASH 2000LE",
+   "part": "SMASH 2000LE fire control optics system with sighting unit, fire block mechanism, batteries, charger, cables, accessories, case and operational guide",
+   "part_numbers": [],
+   "quantity": "6ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SmartShooter Inc.",
+   "reason": "This acquisition is a strict sole-source procurement to fill an immediate capability gap identified by the Department of War (DoW) Joint C-sUAS Office (JCO) and recognized under the DAF FM 679 waiver.",
+   "equipment_class": "other equipment",
+   "installed_location": "Columbus AFB, MS",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SmartShooter Inc.",
+   "model": "SMASH 2000LE",
+   "part": "Spare Parts Kit for SMASH 2000LE fire control system",
+   "part_numbers": [],
+   "quantity": "1ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SmartShooter Inc.",
+   "reason": "This acquisition is a strict sole-source procurement to fill an immediate capability gap identified by the Department of War (DoW) Joint C-sUAS Office (JCO) and recognized under the DAF FM 679 waiver.",
+   "equipment_class": "other equipment",
+   "installed_location": "Columbus AFB, MS",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3928,
+  "out": 1016
+ },
+ "model": "claude-sonnet-5"
+}

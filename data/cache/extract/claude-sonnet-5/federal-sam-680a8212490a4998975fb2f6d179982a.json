@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rigaku",
+   "model": "Icon-X",
+   "part": "Handheld 1064nm Raman spectrometer, including all standard features/accessories and CommandSuite software",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": "90 days after award",
+   "sole_source_vendor": "Rigaku Analytical Devices",
+   "reason": "I determine that only the Rigaku Icon-X handheld 1064nm Raman spectrometer will meet the Government's minimum need, for the reasons stated above",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "National Forensic Chemistry Center, 6751 Steger Dr., Cincinnati, OH 45237",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rigaku",
+   "model": "Icon-X",
+   "part": "Familiarization training \u2013 up to six (6) users per instrument",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Rigaku Analytical Devices",
+   "reason": "This is a brand-name requirement for the Rigaku Icon-X handheld 1064nm Raman spectrometer pursuant to FAR 13.106-1(b)",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "National Forensic Chemistry Center, 6751 Steger Dr., Cincinnati, OH 45237",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rigaku",
+   "model": "Icon-X",
+   "part": "Three (3)-year manufacturer's warranty",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Rigaku Analytical Devices",
+   "reason": "a three (3) year manufacturer's warranty, in accordance with the attached Statement of Work",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "National Forensic Chemistry Center, 6751 Steger Dr., Cincinnati, OH 45237",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8077,
+  "out": 688
+ },
+ "model": "claude-sonnet-5"
+}

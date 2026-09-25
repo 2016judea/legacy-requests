@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "ARSR-4 RF Transfer Switch",
+   "part_numbers": [
+    "159C264H01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "United States Technologies Inc.",
+   "reason": "The new RF Transfer Switch assembly replaced a legacy unit that was obsolete and difficult to repair.",
+   "equipment_class": "communications/radio",
+   "installed_location": "ARSR-4 System sites",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2567,
+  "out": 487
+ },
+ "model": "claude-sonnet-5"
+}

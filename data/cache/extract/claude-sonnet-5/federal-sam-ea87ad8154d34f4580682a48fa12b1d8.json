@@ -1,0 +1,143 @@
+{
+ "records": [
+  {
+   "manufacturer": "Diversified Technical Systems (DTS)",
+   "model": "SLICE IP68",
+   "part": "SLICE IP68 BRIDGE",
+   "part_numbers": [
+    "13000-80020"
+   ],
+   "quantity": "8 Each",
+   "price_usd": null,
+   "lead_time": "6 Weeks",
+   "sole_source_vendor": null,
+   "reason": "This is a brand-name-only requirement for Diversified Technical Systems (DTS) SLICE IP68 parts.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "B-1 Bomber S.I. Data Lab, Edwards Air Force Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Diversified Technical Systems (DTS)",
+   "model": "SLICE IP68",
+   "part": "SLICE IP68 TRIAX ACCEL: 100G",
+   "part_numbers": [
+    "13000-80042"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": "6 Weeks",
+   "sole_source_vendor": null,
+   "reason": "This is a brand-name-only requirement for Diversified Technical Systems (DTS) SLICE IP68 parts.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "B-1 Bomber S.I. Data Lab, Edwards Air Force Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Diversified Technical Systems (DTS)",
+   "model": "SLICE IP68",
+   "part": "SLICE IP68 BASE+",
+   "part_numbers": [
+    "13000-80010"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": "6 Weeks",
+   "sole_source_vendor": null,
+   "reason": "This is a brand-name-only requirement for Diversified Technical Systems (DTS) SLICE IP68 parts.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "B-1 Bomber S.I. Data Lab, Edwards Air Force Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Diversified Technical Systems (DTS)",
+   "model": "SLICE IP68",
+   "part": "SLICE IP68 POWER PACK: 6600MAH",
+   "part_numbers": [
+    "13000-80063"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": "6 Weeks",
+   "sole_source_vendor": null,
+   "reason": "This is a brand-name-only requirement for Diversified Technical Systems (DTS) SLICE IP68 parts.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "B-1 Bomber S.I. Data Lab, Edwards Air Force Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Diversified Technical Systems (DTS)",
+   "model": "SLICE IP68",
+   "part": "BATTERY CHARGER FOR SLICE IP68 POWER PACK",
+   "part_numbers": [
+    "13000-80180"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": "6 Weeks",
+   "sole_source_vendor": null,
+   "reason": "This is a brand-name-only requirement for Diversified Technical Systems (DTS) SLICE IP68 parts.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "B-1 Bomber S.I. Data Lab, Edwards Air Force Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Diversified Technical Systems (DTS)",
+   "model": "SLICE IP68",
+   "part": "SLICE IP68 BASE CABLE KIT",
+   "part_numbers": [
+    "13000-80200"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": "6 Weeks",
+   "sole_source_vendor": null,
+   "reason": "This is a brand-name-only requirement for Diversified Technical Systems (DTS) SLICE IP68 parts.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "B-1 Bomber S.I. Data Lab, Edwards Air Force Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Diversified Technical Systems (DTS)",
+   "model": "SLICE IP68",
+   "part": "SLICE IP68 BATTER ADD CABLE KIT",
+   "part_numbers": [
+    "13000-80210"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": "6 Weeks",
+   "sole_source_vendor": null,
+   "reason": "This is a brand-name-only requirement for Diversified Technical Systems (DTS) SLICE IP68 parts.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "B-1 Bomber S.I. Data Lab, Edwards Air Force Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Diversified Technical Systems (DTS)",
+   "model": "SLICE IP68",
+   "part": "TYPE K THERMOCOUPLE",
+   "part_numbers": [
+    "15106-CID23"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": "6 Weeks",
+   "sole_source_vendor": null,
+   "reason": "This is a brand-name-only requirement for Diversified Technical Systems (DTS) SLICE IP68 parts.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "B-1 Bomber S.I. Data Lab, Edwards Air Force Base",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9924,
+  "out": 3000
+ },
+ "model": "claude-sonnet-5"
+}

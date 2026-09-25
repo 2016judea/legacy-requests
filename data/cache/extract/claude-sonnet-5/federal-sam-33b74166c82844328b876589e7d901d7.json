@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Airbus Helicopters",
+   "model": "MH-65",
+   "part": "MH-65 brand name spare parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "All parts must have clear traceability to the Original Equipment Manufacturer (OEM), Airbus Helicopters.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6793,
+  "out": 656
+ },
+ "model": "claude-sonnet-5"
+}

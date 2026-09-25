@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Silane Distribution System (gas rack and VMB) for Boulder Micro-Fabrication Facility",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CVD Equipment Corporation",
+   "reason": "the Government intends to issue a Sole Source Award to CVD Equipment Corporation, 355, South Technology Drive, Central Islip, NY 11722, US, under the authority of FAR 12.102(a).",
+   "equipment_class": "other equipment",
+   "installed_location": "Boulder Micro-Fabrication Facility (BMF), Katharine Blodgett Gebbie Building, Boulder, CO",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "SDC",
+   "model": "Ciphercon 1500",
+   "part": "Existing installed base of toxic gas cabinets integrated into TGMS",
+   "part_numbers": [],
+   "quantity": "six",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The BMF currently has an installed base of six SDC Ciphercon 1500 toxic gas cabinets, which are fully integrated into our facility's TGMS.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Boulder Micro-Fabrication Facility (BMF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SDC",
+   "model": "CiphercoN 1500 Gas Rack",
+   "part": "Silane gas rack (two-cylinder system with silane and nitrogen purge) compatible with existing CiphercoN infrastructure",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CVD Equipment Corporation",
+   "reason": "The new gas rack shall be a CiphercoN\\u2122 1500 Gas Rack or equivalent with the following specifications: Be able to be repaired using spare parts from the Government\\u2019s existing stock of spare parts for a SDC CiphercoNTM 1500 cabinet.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Boulder Micro-Fabrication Facility (BMF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "FlexGas\\u2122 VMB",
+   "part": "Valve Manifold Box (VMB) to distribute UHP silane to up to 8 process tools",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CVD Equipment Corporation",
+   "reason": "The new gas rack shall be a FlexGas\\u2122 VMB or equivalent with the following specifications: Be able to receive gas from the gas rack and deliver UHP silane to up to 8 process tools in a manner that is consistent with semiconductor industry standards.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Boulder Micro-Fabrication Facility (BMF)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7302,
+  "out": 1628
+ },
+ "model": "claude-sonnet-5"
+}

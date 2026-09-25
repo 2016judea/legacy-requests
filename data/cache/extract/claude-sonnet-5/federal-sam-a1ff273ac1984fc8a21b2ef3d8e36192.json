@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "DRS",
+   "model": "IBAS Weapon System",
+   "part": "Part numbers for IBAS Weapon System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "DRS",
+   "reason": "Sole Source to DRS",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1944,
+  "out": 143
+ },
+ "model": "claude-sonnet-5"
+}

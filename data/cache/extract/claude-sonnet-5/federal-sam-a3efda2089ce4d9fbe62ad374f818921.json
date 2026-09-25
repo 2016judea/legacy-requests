@@ -1,0 +1,50 @@
+{
+ "records": [
+  {
+   "manufacturer": "Zeiser",
+   "model": "Numberopack Press",
+   "part": "WHEEL TEN. REPAIR PART FOR ZEISER NUMBERING BLOCKS COPE NUMEROPACK PRESS",
+   "part_numbers": [
+    "2M023509",
+    "451.55.04.13.4"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Zeiser, Inc",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "KBA",
+   "model": "ENC Electronics",
+   "part": "SLIP RING UNIT HDA0020000 201 ENC ELECTRONICS",
+   "part_numbers": [
+    "2E026449",
+    "HDA0020000201",
+    "SP34780-DA0020000201"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Zeiser, Inc",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3938,
+  "out": 430
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,77 @@
+{
+ "records": [
+  {
+   "manufacturer": "Airborne Systems North America of NJ Inc.",
+   "model": "DC-7",
+   "part": "DC-7 Main Canopy",
+   "part_numbers": [
+    "811406-0"
+   ],
+   "quantity": "30 units",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Airborne Systems North America of NJ Inc.",
+   "reason": "Airborne Systems North America is the sole owner of the proprietary technical data and manufacturing rights for the DC-7 and MT1S systems.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Airborne Systems North America of NJ Inc.",
+   "model": "MT1S",
+   "part": "MT1S Main Canopy (with top skin drogue ring)",
+   "part_numbers": [],
+   "quantity": "14 units",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Airborne Systems North America of NJ Inc.",
+   "reason": "Airborne Systems North America is the sole owner of the proprietary technical data and manufacturing rights for the DC-7 and MT1S systems.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Airborne Systems North America of NJ Inc.",
+   "model": "MT1S",
+   "part": "MT1S Reserve Canopy",
+   "part_numbers": [
+    "811306-0"
+   ],
+   "quantity": "7units",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Airborne Systems North America of NJ Inc.",
+   "reason": "Airborne Systems North America is the sole owner of the proprietary technical data and manufacturing rights for the DC-7 and MT1S systems.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Airborne Systems North America of NJ Inc.",
+   "model": "MT1S",
+   "part": "MT1S Deployment System",
+   "part_numbers": [
+    "886452-0"
+   ],
+   "quantity": "7 units",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Airborne Systems North America of NJ Inc.",
+   "reason": "Airborne Systems North America is the sole owner of the proprietary technical data and manufacturing rights for the DC-7 and MT1S systems.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4325,
+  "out": 1249
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "Safran Electrical Components USA",
+   "model": "MK 137 MOD 10 System",
+   "part": "EMP Conduit, Brass Metal Conduit Core, Grey EPDM Outer Jacket, Size: 1-1/4\" ID, 70FT one continuous length",
+   "part_numbers": [
+    "CC261-40"
+   ],
+   "quantity": "70 Foot",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This Solicitation is a BRAND NAME REQUIREMENT for OEM Safran Electrical Components USA Inc (Formerly ICore International), for direct replacement parts for the MK 137 MOD 10 System.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Safran Electrical Components USA",
+   "model": "MK 137 MOD 10 System",
+   "part": "Stuffing Tube Swivel, Size: L, Adapter Thread Size: 1.8125-12UN-2A, Conduit Size: 1-1/4\", Matl: CRES-316L, Passivated",
+   "part_numbers": [
+    "AX0685-5840-SP"
+   ],
+   "quantity": "7 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This Solicitation is a BRAND NAME REQUIREMENT for OEM Safran Electrical Components USA Inc (Formerly ICore International), for direct replacement parts for the MK 137 MOD 10 System.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Safran Electrical Components USA",
+   "model": "MK 137 MOD 10 System",
+   "part": "Box Hub Fitting, Reducing Type, 2\" Box Hole Size, 1-1/4\" Hub Size, Matl: CRES 316L Passivated",
+   "part_numbers": [
+    "AX0851-6440-SP"
+   ],
+   "quantity": "10 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This Solicitation is a BRAND NAME REQUIREMENT for OEM Safran Electrical Components USA Inc (Formerly ICore International), for direct replacement parts for the MK 137 MOD 10 System.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Safran Electrical Components USA",
+   "model": "MK 137 MOD 10 System",
+   "part": "Adapter Circular Female Swivel, Size: 1.4375\"-18 UNEF X DASH 40 Matl: ALUM (Series 6061-T6)",
+   "part_numbers": [
+    "AX0765-21-2440-CT"
+   ],
+   "quantity": "7 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This Solicitation is a BRAND NAME REQUIREMENT for OEM Safran Electrical Components USA Inc (Formerly ICore International), for direct replacement parts for the MK 137 MOD 10 System.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8454,
+  "out": 1667
+ },
+ "model": "claude-sonnet-5"
+}

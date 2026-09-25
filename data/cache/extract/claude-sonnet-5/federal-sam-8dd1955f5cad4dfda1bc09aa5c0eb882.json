@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "CIRCUIT CARD ASSEMB applicable to the Patriot Missile Weapon System",
+   "part_numbers": [
+    "13508140"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "MUST BE ACQUIRED, FOR THE SECOND OR SUBSEQUENT TIME, DIRECTLY FROM THE ACTUAL MANUFACTURER. THE RIGHTS TO USE THE DATA NEEDED TO PURCHASE THIS PART FROM ADDITIONAL SOURCE(S) ARE NOT OWNED BY THE GOVERNMENT AND CANNOT BE PURCHASED, DEVELOPED, OR OTHERWISE OBTAINED. IT IS UNECONOMICAL TO REVERSE ENGINEER THIS PART.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4815,
+  "out": 370
+ },
+ "model": "claude-sonnet-5"
+}

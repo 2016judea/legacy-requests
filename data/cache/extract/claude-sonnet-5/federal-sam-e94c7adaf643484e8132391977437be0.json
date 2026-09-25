@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "JUNCTION BOX",
+   "part_numbers": [
+    "13508100"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin Corporation Missiles and Fire Control",
+   "reason": "THIS ITEM IS RESTRICTED TO: LOCKHEED MARTIN CORPORATION MISSILES AND FIRE CONTROL, CAGE: 64059",
+   "equipment_class": "other equipment",
+   "installed_location": "Fort Bliss, TX, 79916-5801",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "CIRCUIT CARD ASSEMB",
+   "part_numbers": [
+    "13507330"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin Corporation Missiles and Fire Control",
+   "reason": "PATRIOT (PAC3) PARTS 13508100, 13507330, 13507360, & 13507610 ARE RESTRICTED / SOLE SOURCE TO LOCKHEED MARTIN. (CAGE: 64059)",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Fort Bliss, TX, 79916-5801",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "CIRCUIT CARD ASSEMB",
+   "part_numbers": [
+    "13507360"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin Corporation Missiles and Fire Control",
+   "reason": "PATRIOT (PAC3) PARTS 13508100, 13507330, 13507360, & 13507610 ARE RESTRICTED / SOLE SOURCE TO LOCKHEED MARTIN. (CAGE: 64059)",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Fort Bliss, TX, 79916-5801",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "CIRCUIT CARD ASSEMB",
+   "part_numbers": [
+    "13507610"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin Corporation Missiles and Fire Control",
+   "reason": "PATRIOT (PAC3) PARTS 13508100, 13507330, 13507360, & 13507610 ARE RESTRICTED / SOLE SOURCE TO LOCKHEED MARTIN. (CAGE: 64059)",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Fort Bliss, TX, 79916-5801",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5362,
+  "out": 1036
+ },
+ "model": "claude-sonnet-5"
+}

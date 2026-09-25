@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "H3D, Inc.",
+   "model": null,
+   "part": "Cadmium Zinc Telluride (CZT) gamma-ray detector packages for Vehicle-Mounted Radiation Detection System (VMRDS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "H3D, Inc.",
+   "reason": "H3D, Inc. is the only source capable of manufacturing these detectors meeting the Governments essential technical and performance requirements.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2182,
+  "out": 222
+ },
+ "model": "claude-sonnet-5"
+}

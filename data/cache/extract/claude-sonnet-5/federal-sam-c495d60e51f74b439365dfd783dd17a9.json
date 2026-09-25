@@ -1,0 +1,83 @@
+{
+ "records": [
+  {
+   "manufacturer": "ABB",
+   "model": "ACS850-04-044A-5+E20",
+   "part": "Converter, Frequency",
+   "part_numbers": [
+    "ACS850-04-044A-5+E20",
+    "L0074415"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA",
+   "reason": "The Government intends to award a sole source contract utilizing a Justification and Approval in accordance with FAR 13.106-1(b).",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Koenig & Bauer",
+   "model": null,
+   "part": "Blade, Bottom Mount, Used In COPE",
+   "part_numbers": [
+    "L7100513",
+    "1002001637"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA",
+   "reason": "The Government intends to award a sole source contract utilizing a Justification and Approval in accordance with FAR 13.106-1(b).",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Koenig & Bauer",
+   "model": null,
+   "part": "Shaft, Driving, Complete, Used On SOI III Wiper Drive",
+   "part_numbers": [
+    "L7083406",
+    "1002076889"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA",
+   "reason": "The Government intends to award a sole source contract utilizing a Justification and Approval in accordance with FAR 13.106-1(b).",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Koenig & Bauer",
+   "model": null,
+   "part": "Blade, Carbide, CUTLINK X Unit blade for IFS",
+   "part_numbers": [
+    "L3435034",
+    "100024879"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA",
+   "reason": "KBA Proprietary Part",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2637,
+  "out": 1136
+ },
+ "model": "claude-sonnet-5"
+}

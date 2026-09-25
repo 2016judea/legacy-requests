@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pendulum Instruments, Inc",
+   "model": "CNT-91R/AF",
+   "part": "Rubidium Frequency Counters",
+   "part_numbers": [
+    "CNT-91R/AF"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Pendulum Instruments, Inc (8AM30)",
+   "reason": "This item is only distributed by the OEM.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "802d MXSS/MXDCA, 402d Maintenance Support Group (MXSG), Robins Air Force Base",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2284,
+  "out": 226
+ },
+ "model": "claude-sonnet-5"
+}

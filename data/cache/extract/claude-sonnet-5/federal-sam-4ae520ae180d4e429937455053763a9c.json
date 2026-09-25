@@ -1,0 +1,119 @@
+{
+ "records": [
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": "M41RGP",
+   "part": "KIT, M41RGP MEMBRANE EXPANSION",
+   "part_numbers": [
+    "M41RGP"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "is the sole manufacturer and authorized party for that can provide the parts and upgrade. The hardware is proprietary, requiring factory-trained technicians and OEM parts.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Rocky Mountain Regional VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FilmTec",
+   "model": "XLE PRO-4040",
+   "part": "MEMBRANE FILMTEC XLE PRO-4040 DRY",
+   "part_numbers": [
+    "XLE PRO-4040"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "is the sole manufacturer and authorized party for that can provide the parts and upgrade. The hardware is proprietary, requiring factory-trained technicians and OEM parts.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Rocky Mountain Regional VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Viqua",
+   "model": "VP600M",
+   "part": "UV,12GPM,304SS,VIQUA,VP600M",
+   "part_numbers": [
+    "VP600M"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "is the sole manufacturer and authorized party for that can provide the parts and upgrade. The hardware is proprietary, requiring factory-trained technicians and OEM parts.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Rocky Mountain Regional VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "TERRAPURE",
+   "part": "TANK, 250 GAL TERRAPURE PLSIC BAS W/FTGS",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "is the sole manufacturer and authorized party for that can provide the parts and upgrade. The hardware is proprietary, requiring factory-trained technicians and OEM parts.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Rocky Mountain Regional VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "HOUSING, CTRDG 316SS 5RNDX30 2\" NMPT",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "is the sole manufacturer and authorized party for that can provide the parts and upgrade. The hardware is proprietary, requiring factory-trained technicians and OEM parts.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Rocky Mountain Regional VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "FILTER CTRDG,30\" 0.05UM HF POLYSUL PP",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "is the sole manufacturer and authorized party for that can provide the parts and upgrade. The hardware is proprietary, requiring factory-trained technicians and OEM parts.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Rocky Mountain Regional VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Afterhours Labor to add two additional RO membrane housings and membranes to your existing RO system afterhours or on the weekend when your system has minimal or no use.",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "is the sole manufacturer and authorized party for that can provide the parts and upgrade. The hardware is proprietary, requiring factory-trained technicians and OEM parts.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Rocky Mountain Regional VA Medical Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4298,
+  "out": 2284
+ },
+ "model": "claude-sonnet-5"
+}

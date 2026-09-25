@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ensign-Bickford Aerospace & Defense",
+   "model": "E4000-3361-1-PBOF ERM Linear Actuator",
+   "part": "MK68 Ejector Release Mechanisms for the Multi Mission Buoy (MMB)",
+   "part_numbers": [
+    "N83361-1"
+   ],
+   "quantity": "35 EACH",
+   "price_usd": null,
+   "lead_time": "40 weeks after award of the order",
+   "sole_source_vendor": "Ensign-Bickford Aerospace & Defense",
+   "reason": "Ensign-Bickford Aerospace & Defense (EBAD) is the sole developer and original equipment manufacturer (OEM) this item.",
+   "equipment_class": "other equipment",
+   "installed_location": "Multi Mission Buoy (MMB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9121,
+  "out": 277
+ },
+ "model": "claude-sonnet-5"
+}

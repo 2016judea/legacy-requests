@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": "Everbatim",
+   "model": "EVAS Hybrid Kit",
+   "part": "EVAS hybrid kit - custom-made adapter and cable assembly to connect EVAS traditional kit with Microsoft Teams",
+   "part_numbers": [],
+   "quantity": "49",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The Contractor will provide new Original Equipment Manufacturer (OEM) Everbatim Hybrid Courtroom Audio Recording and Communication System Accessories with Four-Year Warranty capable of meeting the fit, form, and functions of the following part numbers and salient characteristics",
+   "equipment_class": "other equipment",
+   "installed_location": "1500 W. Perimeter RD, Suite 1150 Joint Base Andrews Naval Air Facility (JBANAF), MD 20762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Everbatim",
+   "model": "EVAS Backup Digital Recorder System",
+   "part": "Purpose-built kit designed to connect to the EVAS system or standalone audio backup for legal proceedings",
+   "part_numbers": [],
+   "quantity": "49",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The Contractor will provide new Original Equipment Manufacturer (OEM) Everbatim Hybrid Courtroom Audio Recording and Communication System Accessories with Four-Year Warranty capable of meeting the fit, form, and functions of the following part numbers and salient characteristics",
+   "equipment_class": "other equipment",
+   "installed_location": "1500 W. Perimeter RD, Suite 1150 Joint Base Andrews Naval Air Facility (JBANAF), MD 20762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Everbatim",
+   "model": "EVAS Gooseneck Microphones",
+   "part": "Gooseneck-style microphones required for capturing audio throughout legal proceedings, must interface with EVAS audio subsystem",
+   "part_numbers": [],
+   "quantity": "11",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Gooseneck-style microphones required for capturing audio throughout legal proceedings. Must interface with EVAS audio subsystem.",
+   "equipment_class": "other equipment",
+   "installed_location": "1500 W. Perimeter RD, Suite 1150 Joint Base Andrews Naval Air Facility (JBANAF), MD 20762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Everbatim",
+   "model": "EVAS Batteries/Chargers",
+   "part": "Batteries/chargers providing portable power to EVAS Backup Digital Recorder and EVAS Gooseneck Microphones; must be NiMH/NiCD rechargeable in AA and AAA sizes",
+   "part_numbers": [],
+   "quantity": "82",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "These are required to provide portable power to EVAS Backup Digital Recorder and EVAS Gooseneck Microphones. Batteries must be NiMH/NiCD rechargeable, in both AA and AAA sizes.",
+   "equipment_class": "other equipment",
+   "installed_location": "1500 W. Perimeter RD, Suite 1150 Joint Base Andrews Naval Air Facility (JBANAF), MD 20762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Everbatim",
+   "model": "Transformer",
+   "part": "Transformer providing step-down from 230VAC to 110VAC for the EVAS audio subsystem",
+   "part_numbers": [],
+   "quantity": "20",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "These provide step-down from 230VAC to 110VAC for the EVAS audio subsystem.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "1500 W. Perimeter RD, Suite 1150 Joint Base Andrews Naval Air Facility (JBANAF), MD 20762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Everbatim",
+   "model": "Electronic foot pedal",
+   "part": "Electronic foot pedal to control EVAS Audio Subsystem and transcription software",
+   "part_numbers": [],
+   "quantity": "49",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Electronic foot pedal to control EVAS Audio Subsystem and transcription software.",
+   "equipment_class": "other equipment",
+   "installed_location": "1500 W. Perimeter RD, Suite 1150 Joint Base Andrews Naval Air Facility (JBANAF), MD 20762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Everbatim",
+   "model": "USB-C hub",
+   "part": "USB-C hub for providing EVAS Audio Subsystem interfaces at specific speaker locations",
+   "part_numbers": [],
+   "quantity": "72 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "USB-C hub for providing EVAS Audio Subsystem interfaces at specific speaker locations.",
+   "equipment_class": "other equipment",
+   "installed_location": "1500 W. Perimeter RD, Suite 1150 Joint Base Andrews Naval Air Facility (JBANAF), MD 20762",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4378,
+  "out": 2669
+ },
+ "model": "claude-sonnet-5"
+}

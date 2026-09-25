@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Mustang Dynamometer",
+   "model": "PowerDyne Control System",
+   "part": "PowerDyne Control System",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mustang Dynamometer",
+   "reason": "The Government does not possess the necessary information to manufacture the equipment/items solicited hereunder from any source other than the OEM.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Mustang Dynamometer",
+   "model": null,
+   "part": "Necessory Package",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mustang Dynamometer",
+   "reason": "The Government does not possess the necessary information to manufacture the equipment/items solicited hereunder from any source other than the OEM.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Mustang Dynamometer",
+   "model": null,
+   "part": "5-Gas analyzer system, heavy duty for continuous sampling",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mustang Dynamometer",
+   "reason": "The Government does not possess the necessary information to manufacture the equipment/items solicited hereunder from any source other than the OEM.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Mustang Dynamometer",
+   "model": null,
+   "part": "Onsite installation assistance and training",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mustang Dynamometer",
+   "reason": "The Government does not possess the necessary information to manufacture the equipment/items solicited hereunder from any source other than the OEM.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2809,
+  "out": 974
+ },
+ "model": "claude-sonnet-5"
+}

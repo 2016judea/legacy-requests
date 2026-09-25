@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "EagleNXT",
+   "model": "eBee VISION",
+   "part": "eBee VISION sUAS",
+   "part_numbers": [],
+   "quantity": "15x",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "DRONIVO GMBH",
+   "reason": "DRONIVO is the only identified source capable of providing the specific Ebee Vision model that meets the Government's technical requirements and urgent delivery schedule.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "EagleNXT",
+   "model": "eBee VISION Ground Control Station",
+   "part": "eBee VISION Ground Control Stations (GCS)",
+   "part_numbers": [],
+   "quantity": "6x",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "DRONIVO GMBH",
+   "reason": "DRONIVO is the only identified source capable of providing the specific Ebee Vision model that meets the Government's technical requirements and urgent delivery schedule.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6514,
+  "out": 1013
+ },
+ "model": "claude-sonnet-5"
+}

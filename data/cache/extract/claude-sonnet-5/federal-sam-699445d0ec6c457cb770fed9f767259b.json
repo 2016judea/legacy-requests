@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "SPT Labtech",
+   "model": "BioMicrolab VC100",
+   "part": "SptTech BioMicrolab VC100 no-contact instrument for detecting and quantifying micro-scale liquid volumes in 96 well plate and microtubes",
+   "part_numbers": [],
+   "quantity": "one",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SPT Labtech Inc",
+   "reason": "SptTech is the sole manufacturer and supplier of the BioMicrolab VC100 and the only vendor capable of servicing and repairing the instrument using required OEM parts.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Northwest Fisheries Science Center 6050 NE 65th Street Seattle, WA 98115",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SPT Labtech",
+   "model": "BioMicrolab VC100",
+   "part": "Twelve month BioMicroLab VC100 reliance complete Service Contract as extended warranty required to support instrument performance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SPT Labtech Inc",
+   "reason": "SptTech is the sole manufacturer and supplier of the BioMicrolab VC100 and the only vendor capable of servicing and repairing the instrument using required OEM parts.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Northwest Fisheries Science Center 6050 NE 65th Street Seattle, WA 98115",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SPT Labtech",
+   "model": "BioMicrolab VC100",
+   "part": "On site BioMicroLab VC Remote Installation & Training",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SPT Labtech Inc",
+   "reason": "SptTech is the sole manufacturer and supplier of the BioMicrolab VC100 and the only vendor capable of servicing and repairing the instrument using required OEM parts.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Northwest Fisheries Science Center 6050 NE 65th Street Seattle, WA 98115",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6917,
+  "out": 775
+ },
+ "model": "claude-sonnet-5"
+}

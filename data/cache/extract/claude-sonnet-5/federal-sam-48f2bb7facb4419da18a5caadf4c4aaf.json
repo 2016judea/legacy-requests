@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Polarity, Inc.",
+   "model": null,
+   "part": "repair, upgrade, and/or manufacture of Solid State High Voltage Switches (SSHVS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Polarity, Inc.",
+   "reason": "only one responsible source or only a limited number of responsible sources and no other type of property or services will satisfy the needs of the agency",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "AN/SPS-49A(V)1 series of radar systems installed in 31 ships in the Fleet, as well as six (6) land-based sites",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Polarity, Inc.",
+   "model": null,
+   "part": "repair and/or upgrade (ECP 0049-065) of 2kV Bias Power Supplies (BPS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Polarity, Inc.",
+   "reason": "only one responsible source or only a limited number of responsible sources and no other type of property or services will satisfy the needs of the agency",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "AN/SPS-49A(V)1 series of radar systems installed in 31 ships in the Fleet, as well as six (6) land-based sites",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": "Solid-State Modulator (SSM) / Field Change Kit (FC5)",
+   "part": "Solid-State Modulator used in place of the existing switch tube modulator design to pulse modulate a Klystron, part of Field Change Kit (FC5) for installation aboard Navy ships",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 6600000,
+   "lead_time": null,
+   "sole_source_vendor": "Polarity, Inc.",
+   "reason": "The SSMs are part of Field Change Kit (FC5) for installation aboard Navy ships.",
+   "equipment_class": "other equipment",
+   "installed_location": "aboard Navy ships (31 ships) and six land-based sites",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6021,
+  "out": 2253
+ },
+ "model": "claude-sonnet-5"
+}

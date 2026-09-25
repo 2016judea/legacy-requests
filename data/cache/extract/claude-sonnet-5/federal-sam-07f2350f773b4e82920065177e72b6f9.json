@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "ABMS-10X",
+   "part": "Aircraft Battery Management System (ABMS-10X) Upgrade",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "One responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "Edwards AFB",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Christie",
+   "model": null,
+   "part": "Christie Chargers and associated equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "One responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Edwards AFB",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2237,
+  "out": 667
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens Medical Solutions USA, Inc.",
+   "model": "MAGNETOM Sola Fit",
+   "part": "Upgrade of existing Siemens 3T MAGNETOM MRI System to the MAGNETOM Sola Fit with new BioMatrix technology",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 978872.0,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Medical Solutions USA, Inc.",
+   "reason": "The original equipment manufacturer (OEM), Siemens Medical Solutions USA, Inc, is the only contractor who can provide the upgrade",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Durham, NC VAMC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens Medical Solutions USA, Inc.",
+   "model": null,
+   "part": "MRI system chiller replacement, required for basic MRI functionality and conformity",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Medical Solutions USA, Inc.",
+   "reason": "the MRI\u2019s chiller is currently at end of support",
+   "equipment_class": "HVAC",
+   "installed_location": "Durham, NC VAMC",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Siemens Medical Solutions USA, Inc.",
+   "model": "MAGNETOM Sola Fit",
+   "part": "Operating system upgrade for MRI system from Windows 7 to Windows 10 (later Windows 11)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Medical Solutions USA, Inc.",
+   "reason": "Upgrading to the MAGNETOM Sola Fit MRI system will upgrade the current system from Windows 7 to Windows 10 Operating System (OS)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Durham, NC VAMC",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5859,
+  "out": 983
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "PneuDraulics Inc.",
+   "model": "Priority Valve",
+   "part": "Priority Valve, a hydro-mechanical flow control device managing hydraulic fluid distribution for F-15EX flight control systems, plus Depot Activation support (STE, TPS, ITAs, data rights)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "PneuDraulics Inc.",
+   "reason": "PneuDraulics Inc. is the only responsible source for the Priority Valve, a key component integrated into the F-15EX's baseline design.",
+   "equipment_class": "valve",
+   "installed_location": "F-15EX aircraft / Air Logistics Complex (ALC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6169,
+  "out": 277
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,49 @@
+{
+ "records": [
+  {
+   "manufacturer": "Red Rock Technologies, Inc.",
+   "model": "RRT-SPL2498-1",
+   "part": "PCI Mezzanine Card (PMC) for one removable compact flash card",
+   "part_numbers": [
+    "RRT-SPL2498-1",
+    "RRT-PMC-CF-R-A"
+   ],
+   "quantity": "200",
+   "price_usd": null,
+   "lead_time": "12 Weeks",
+   "sole_source_vendor": "Red Rock Technologies, Inc.",
+   "reason": "these PMC cards are a critical component within the AN/SPS-73 radar system and are being used to sustain legacy systems and fulfill CASREP requirements",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Red Rock Technologies, Inc.",
+   "model": "RRT-SPL2498-1",
+   "part": "PCI Mezzanine Card (PMC) for one removable compact flash card - Option Line Item",
+   "part_numbers": [
+    "RRT-SPL2498-1",
+    "RRT-PMC-CF-R-A"
+   ],
+   "quantity": "200",
+   "price_usd": null,
+   "lead_time": "12 Weeks",
+   "sole_source_vendor": "Red Rock Technologies, Inc.",
+   "reason": "these PMC cards are a critical component within the AN/SPS-73 radar system and are being used to sustain legacy systems and fulfill CASREP requirements",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8977,
+  "out": 514
+ },
+ "model": "claude-sonnet-5"
+}

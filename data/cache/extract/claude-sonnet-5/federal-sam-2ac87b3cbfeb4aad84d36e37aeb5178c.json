@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "CAE",
+   "model": "747-8i Full Flight Simulator (FFS)",
+   "part": "Procurement, delivery, and installation of a Level D certified 747-8i Full Flight Simulator (6-DOF motion, visual system, sound system, cockpit replica)",
+   "part_numbers": [],
+   "quantity": "one (1)",
+   "price_usd": null,
+   "lead_time": "Delivery and installation is estimated at 24-36 months from contract award, followed by a 12-18 month support and maintenance PoP.",
+   "sole_source_vendor": "CAE USA Inc.",
+   "reason": "CAE is the sole manufacturer of commercial Level D certified 747-8 simulators globally.",
+   "equipment_class": "other equipment",
+   "installed_location": "Joint Base Andrews (JBA)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3052,
+  "out": 580
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kollmorgen",
+   "model": null,
+   "part": "Service repair of Actuator, Electro-Mechanical, Linear, (Travel Lock Actuator), NSN 3010-01-373-5945, used on M109A6 Paladin and M109A7 Self-Propelled Howitzer",
+   "part_numbers": [
+    "12361513"
+   ],
+   "quantity": "Estimated Maximum Quantity: 425 EA (Initial Repair Quantity: 30 EA)",
+   "price_usd": 2777922.0,
+   "lead_time": null,
+   "sole_source_vendor": "Triman Industries",
+   "reason": "Kollmorgen will no longer contract directly with the Government. Triman Industries, an authorized distributor of Kollmorgen, will contract on their behalf; however, Kollmorgen will still be performing all service repairs as a subcontractor to Triman Industries.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kollmorgen",
+   "model": null,
+   "part": "Service repair of Actuator, Electro-Mechanical, Linear, (Travel Lock Actuator), NSN 3010-01-373-5945, used on M109A6 Paladin and M109A7 Self-Propelled Howitzer",
+   "part_numbers": [
+    "12361513"
+   ],
+   "quantity": "Estimated Maximum Quantity: 425 EA (Initial Repair Quantity: 30 EA)",
+   "price_usd": 2777922.0,
+   "lead_time": null,
+   "sole_source_vendor": "Kollmorgen Corporation",
+   "reason": "Kollmorgen is the only source approved to repair the Travel Lock Actuator. Kollmorgen has a confidential proprietary validated repair process and is the only entity with that repair process technical data.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kollmorgen",
+   "model": null,
+   "part": "Prior contract for Travel Lock Actuator repair services",
+   "part_numbers": [
+    "12361513"
+   ],
+   "quantity": null,
+   "price_usd": 1246875.0,
+   "lead_time": null,
+   "sole_source_vendor": "Kollmorgen Corporation",
+   "reason": "Competitive Status: FAR 6.302-1(a)(2)(ii)(B)",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kollmorgen",
+   "model": null,
+   "part": "Prior contract for Travel Lock Actuator repair services",
+   "part_numbers": [
+    "12361513"
+   ],
+   "quantity": null,
+   "price_usd": 575558.0,
+   "lead_time": null,
+   "sole_source_vendor": "Kollmorgen Corporation",
+   "reason": "Competitive Status: FAR 6.302-1",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6637,
+  "out": 952
+ },
+ "model": "claude-sonnet-5"
+}

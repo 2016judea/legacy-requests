@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "NavCom",
+   "model": "AN/APN-232 CARA",
+   "part": "Receiver Transmitter (RT) installed in the Combined Altitude Radar Altimeter (CARA), AN/APN-232, F-16 platform",
+   "part_numbers": [
+    "8010000788-1",
+    "5841-01-349-9175"
+   ],
+   "quantity": "11 EA",
+   "price_usd": null,
+   "lead_time": "one year",
+   "sole_source_vendor": "Symetrics Industries, LLC dba Extant Aerospace",
+   "reason": "The agency's minimum needs can only be satisfied by the unique supplies or services available from Extant.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "F-16 platform",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6261,
+  "out": 254
+ },
+ "model": "claude-sonnet-5"
+}

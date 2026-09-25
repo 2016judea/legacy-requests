@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Boeing",
+   "model": null,
+   "part": "Multiple NSNs (89 sole source National Stock Numbers) for the F-15 weapon system",
+   "part_numbers": [],
+   "quantity": "89 NSNs",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "DBA Boeing Company, CAGE 0PXV4",
+   "reason": "This agency has no data available for evaluating the acceptability of alternate products offered.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2798,
+  "out": 192
+ },
+ "model": "claude-sonnet-5"
+}

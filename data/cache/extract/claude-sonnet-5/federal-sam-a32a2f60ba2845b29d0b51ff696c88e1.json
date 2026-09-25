@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "CAE USA Inc.",
+   "model": "747-8i Full Flight Simulator (FFS)",
+   "part": "Acquisition and installation of one FAA Level D Qualified 747-8i Full Flight Simulator and Initial Logistics Support Package",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 45319364.0,
+   "lead_time": "12-18 month support PoP",
+   "sole_source_vendor": "CAE USA Inc.",
+   "reason": "CAE is the only responsible source and no other types of supplies or services will satisfy agency requirements (see RFO 6.103-1, 10 USC 3204(a)(1)). CAE is the only contractor with the unique qualifications to manufacture a commercial, FAA Level D certified 747-8i FFS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Joint Base Andrews, Maryland",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6525,
+  "out": 312
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "Agilent Technologies, Inc.",
+   "model": "Seahorse XF Pro Analyzer",
+   "part": "Seahorse XF Pro Analyzer, including proprietary software, installation, operator training, and a 5-year extended warranty",
+   "part_numbers": [
+    "S7855A",
+    "SYS-SE-XFPRO"
+   ],
+   "quantity": "1",
+   "price_usd": 295169.6,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "Agilent Technologies, Inc. is the only responsible source capable of meeting the Government's minimum needs.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Central Texas Veterans Health Care System (CTVHCS) / VISN 17 Center of Excellence",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9808,
+  "out": 283
+ },
+ "model": "claude-sonnet-5"
+}

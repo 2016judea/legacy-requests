@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Alertus",
+   "model": null,
+   "part": "Replace 61 AlertUs alert beacons that have gone offline",
+   "part_numbers": [],
+   "quantity": "61",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ALERTUS TECHNOLOGIES LLC",
+   "reason": "Alertus hardware and software are the intellectual property of Alertus Technologies, LLC with exclusive rights protected under U.S. patent law.",
+   "equipment_class": "other equipment",
+   "installed_location": "Maryland VA Healthcare System",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Alertus",
+   "model": null,
+   "part": "Install 68 additional alert beacons to be shipped in the coming weeks",
+   "part_numbers": [],
+   "quantity": "68",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ALERTUS TECHNOLOGIES LLC",
+   "reason": "There are no authorized licensees or other commercially available systems with comparable functionality, features, and specifications.",
+   "equipment_class": "other equipment",
+   "installed_location": "Maryland VA Healthcare System",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3796,
+  "out": 707
+ },
+ "model": "claude-sonnet-5"
+}

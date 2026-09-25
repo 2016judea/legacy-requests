@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "BAE Systems",
+   "model": "EMU",
+   "part": "Enhanced Microwave Unit (EMU) sub-assemblies for VXI-IAIS test stations, F-16 avionics LRU test/repair",
+   "part_numbers": [
+    "6625-01-721-8870WF"
+   ],
+   "quantity": "37",
+   "price_usd": null,
+   "lead_time": "42 months after receipt of contract",
+   "sole_source_vendor": "BAE Systems",
+   "reason": "No other vendor has the proprietary data required to re-deign/re-engineer and integrate another solution that will work with the F-16 AIS test systems.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7768,
+  "out": 243
+ },
+ "model": "claude-sonnet-5"
+}

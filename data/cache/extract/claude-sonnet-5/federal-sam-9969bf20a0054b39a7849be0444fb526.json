@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kenworth",
+   "model": "T880",
+   "part": "Repair of 2024 Kenworth T880 truck (front end damage: suspension, body, engine related components) using only original equipment parts",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kenworth Truck Dealer",
+   "reason": "This request is for a \"Kenworth Truck Dealer\" to repair this vehicle with \"only original equipment parts\" due to its Nuclear Certification.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2383,
+  "out": 266
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,207 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sims Pump Valve CO, Inc",
+   "model": null,
+   "part": "Impeller",
+   "part_numbers": [
+    "1829704S302"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sims Pump Valve CO, Inc",
+   "reason": "the Origional Equipment Manufacteror, Sims Pump Valve CO, Inc holding proprietary drawing rights and having no authorrized distributors",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sims Pump Valve CO, Inc",
+   "model": null,
+   "part": "Casing Ring, Front",
+   "part_numbers": [
+    "1829715S302"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sims Pump Valve CO, Inc",
+   "reason": "the Origional Equipment Manufacteror, Sims Pump Valve CO, Inc holding proprietary drawing rights and having no authorrized distributors",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sims Pump Valve CO, Inc",
+   "model": null,
+   "part": "Casing Ring, Back",
+   "part_numbers": [
+    "1829714S302"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sims Pump Valve CO, Inc",
+   "reason": "the Origional Equipment Manufacteror, Sims Pump Valve CO, Inc holding proprietary drawing rights and having no authorrized distributors",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sims Pump Valve CO, Inc",
+   "model": null,
+   "part": "Stub Shaft, Pump",
+   "part_numbers": [
+    "1829707SMO"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sims Pump Valve CO, Inc",
+   "reason": "the Origional Equipment Manufacteror, Sims Pump Valve CO, Inc holding proprietary drawing rights and having no authorrized distributors",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sims Pump Valve CO, Inc",
+   "model": null,
+   "part": "Bolt Impeller",
+   "part_numbers": [
+    "1829716SMO"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sims Pump Valve CO, Inc",
+   "reason": "the Origional Equipment Manufacteror, Sims Pump Valve CO, Inc holding proprietary drawing rights and having no authorrized distributors",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sims Pump Valve CO, Inc",
+   "model": null,
+   "part": "Key, Impeller",
+   "part_numbers": [
+    "1829719S4"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sims Pump Valve CO, Inc",
+   "reason": "the Origional Equipment Manufacteror, Sims Pump Valve CO, Inc holding proprietary drawing rights and having no authorrized distributors",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sims Pump Valve CO, Inc",
+   "model": null,
+   "part": "Set Screw, Shaft",
+   "part_numbers": [
+    "1829733S6"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sims Pump Valve CO, Inc",
+   "reason": "the Origional Equipment Manufacteror, Sims Pump Valve CO, Inc holding proprietary drawing rights and having no authorrized distributors",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sims Pump Valve CO, Inc",
+   "model": null,
+   "part": "O-Ring, Stub Shaft",
+   "part_numbers": [
+    "1829752SV"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sims Pump Valve CO, Inc",
+   "reason": "the Origional Equipment Manufacteror, Sims Pump Valve CO, Inc holding proprietary drawing rights and having no authorrized distributors",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sims Pump Valve CO, Inc",
+   "model": null,
+   "part": "Bearing, Motor-F",
+   "part_numbers": [
+    "1829749SA"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sims Pump Valve CO, Inc",
+   "reason": "the Origional Equipment Manufacteror, Sims Pump Valve CO, Inc holding proprietary drawing rights and having no authorrized distributors",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sims Pump Valve CO, Inc",
+   "model": null,
+   "part": "Casing",
+   "part_numbers": [
+    "1829701S302"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sims Pump Valve CO, Inc",
+   "reason": "the Origional Equipment Manufacteror, Sims Pump Valve CO, Inc holding proprietary drawing rights and having no authorrized distributors",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sims Pump Valve CO, Inc",
+   "model": null,
+   "part": "Bolt, Suction",
+   "part_numbers": [
+    "1829723S8"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sims Pump Valve CO, Inc",
+   "reason": "the Origional Equipment Manufacteror, Sims Pump Valve CO, Inc holding proprietary drawing rights and having no authorrized distributors",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sims Pump Valve CO, Inc",
+   "model": null,
+   "part": "Stud Motor",
+   "part_numbers": [
+    "1829724S8"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sims Pump Valve CO, Inc",
+   "reason": "the Origional Equipment Manufacteror, Sims Pump Valve CO, Inc holding proprietary drawing rights and having no authorrized distributors",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4310,
+  "out": 2882
+ },
+ "model": "claude-sonnet-5"
+}

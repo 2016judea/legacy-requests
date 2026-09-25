@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "NVRR3200",
+   "part": "Ruggedized 32 Channel Voice and Radar Data Digital Recorder for AN/SYY-1",
+   "part_numbers": [
+    "NVRR3200"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Trivium Solutions",
+   "reason": "This notice is intent to sole source with Trivium Solutions.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NAVAL AIR WARFARE CTR AIRCRAFT DIV, 17598 WEBSTER FIELD ROAD BLDG 8115, ST INIGOES MD 20684",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7891,
+  "out": 264
+ },
+ "model": "claude-sonnet-5"
+}

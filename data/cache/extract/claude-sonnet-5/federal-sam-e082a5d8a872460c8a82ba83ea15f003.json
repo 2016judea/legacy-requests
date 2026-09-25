@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "JUNCTION BOX applicable to the Patriot Missile Weapon System",
+   "part_numbers": [
+    "13508100"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "THESE ITEMS HAVE BEEN ASSIGNED AMC/AMSC CODE 3, &/OR 4 WHICH REQUIRES THE GOVERNMENT TO ACQUIRE FOR THE FIRST, SECOND OR SUBSEQUENT TIME DIRECTLY FROM THE ACTUAL MANUFACTURER.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "CIRCUIT CARD, ASSEMB applicable to the Patriot Missile Weapon System",
+   "part_numbers": [
+    "13507330"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "THESE ITEMS HAVE BEEN ASSIGNED AMC/AMSC CODE 3, &/OR 4 WHICH REQUIRES THE GOVERNMENT TO ACQUIRE FOR THE FIRST, SECOND OR SUBSEQUENT TIME DIRECTLY FROM THE ACTUAL MANUFACTURER.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "CIRCUIT CARD, ASSEMB applicable to the Patriot Missile Weapon System",
+   "part_numbers": [
+    "13507360"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "THESE ITEMS HAVE BEEN ASSIGNED AMC/AMSC CODE 3, &/OR 4 WHICH REQUIRES THE GOVERNMENT TO ACQUIRE FOR THE FIRST, SECOND OR SUBSEQUENT TIME DIRECTLY FROM THE ACTUAL MANUFACTURER.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "CIRCUIT CARD, ASSEMB applicable to the Patriot Missile Weapon System",
+   "part_numbers": [
+    "13507610"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "THESE ITEMS HAVE BEEN ASSIGNED AMC/AMSC CODE 3, &/OR 4 WHICH REQUIRES THE GOVERNMENT TO ACQUIRE FOR THE FIRST, SECOND OR SUBSEQUENT TIME DIRECTLY FROM THE ACTUAL MANUFACTURER.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5061,
+  "out": 1113
+ },
+ "model": "claude-sonnet-5"
+}

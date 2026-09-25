@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "DMEA",
+   "model": "DMEA-5521",
+   "part": "Production assembly and testing (wafer dicing, packaging, and screening) for DMEA-5521 LVDT IC (Re-Spin)",
+   "part_numbers": [
+    "DMEA-5521"
+   ],
+   "quantity": null,
+   "price_usd": 203000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Golden Altos",
+   "reason": "DMEA has been supporting new construction efforts for the Virginia class submarines since 2005 by re-engineering the LVDT IC which is no longer available.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Submersible Electronic Limit Switch (SELS) assembly on various classes of submarines",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3757,
+  "out": 263
+ },
+ "model": "claude-sonnet-5"
+}

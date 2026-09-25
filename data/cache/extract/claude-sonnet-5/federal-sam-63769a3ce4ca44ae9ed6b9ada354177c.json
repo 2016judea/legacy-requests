@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Battery 12V 80Ah",
+   "part_numbers": [
+    "9A94R"
+   ],
+   "quantity": "270",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "LifeSafety Power",
+   "model": null,
+   "part": "LifeSafety Power Supply Enclosure",
+   "part_numbers": [
+    "FP0250-B100E1"
+   ],
+   "quantity": "90",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "LifeSafety Power",
+   "model": null,
+   "part": "LifeSafety Power Distribution Board",
+   "part_numbers": [
+    "D8"
+   ],
+   "quantity": "90",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "2200VA Rack Battery Backup UPS",
+   "part_numbers": [
+    "SMX2KR2UNCX145"
+   ],
+   "quantity": "70",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7830,
+  "out": 1506
+ },
+ "model": "claude-sonnet-5"
+}

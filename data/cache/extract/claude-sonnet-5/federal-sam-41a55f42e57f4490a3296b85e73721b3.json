@@ -1,0 +1,135 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "E-CL-68-CSHAFT",
+   "part": "COMPOSITE SHAFT, DESIGNATION E-CL-68-CSHAFT L=2978.5 (Only Carbon Fiber Tube)",
+   "part_numbers": [
+    "00244002"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Palmer Johnson Power Systems",
+   "reason": "The Government intends to solicit and award a firm fixed price (FFP) purchase order with only one source, Palmer Johnson Power Systems, under the authority of FAR 12.102(a) on a sole source basis.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "BS-CX-48/71-6-61532",
+   "part": "BS-CX-48/71-6-61532 (long links size 2, 6 pcs CCW) inc bolt",
+   "part_numbers": [
+    "BS-CX-48/71-6-61532"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Palmer Johnson Power Systems",
+   "reason": "The Government intends to solicit and award a firm fixed price (FFP) purchase order with only one source, Palmer Johnson Power Systems, under the authority of FAR 12.102(a) on a sole source basis.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "WD200 A14570",
+   "part": "SEAL, WD200 A14570",
+   "part_numbers": [
+    "K0003000"
+   ],
+   "quantity": "3 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Palmer Johnson Power Systems",
+   "reason": "The Government intends to solicit and award a firm fixed price (FFP) purchase order with only one source, Palmer Johnson Power Systems, under the authority of FAR 12.102(a) on a sole source basis.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "CLASSIFICATION ABS",
+   "part_numbers": [
+    "00060001"
+   ],
+   "quantity": "3 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Palmer Johnson Power Systems",
+   "reason": "The Government intends to solicit and award a firm fixed price (FFP) purchase order with only one source, Palmer Johnson Power Systems, under the authority of FAR 12.102(a) on a sole source basis.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "SHAFTLINE 1",
+   "part": "SHAFTLINE 1 L=2978.5",
+   "part_numbers": [],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Palmer Johnson Power Systems",
+   "reason": "The Government intends to solicit and award a firm fixed price (FFP) purchase order with only one source, Palmer Johnson Power Systems, under the authority of FAR 12.102(a) on a sole source basis.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "SHAFTLINE 2",
+   "part": "SHAFTLINE 2 L=2978.5",
+   "part_numbers": [],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Palmer Johnson Power Systems",
+   "reason": "The Government intends to solicit and award a firm fixed price (FFP) purchase order with only one source, Palmer Johnson Power Systems, under the authority of FAR 12.102(a) on a sole source basis.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "CL-68-FF2 Shaftline 1",
+   "part": "CL-68-FF2 Shaftline 1 L=2978.5",
+   "part_numbers": [],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Palmer Johnson Power Systems",
+   "reason": "The Government intends to solicit and award a firm fixed price (FFP) purchase order with only one source, Palmer Johnson Power Systems, under the authority of FAR 12.102(a) on a sole source basis.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "CL-68-FF2 Shaftline 2",
+   "part": "CL-68-FF2 Shaftline 2 L=2978.5",
+   "part_numbers": [],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Palmer Johnson Power Systems",
+   "reason": "The Government intends to solicit and award a firm fixed price (FFP) purchase order with only one source, Palmer Johnson Power Systems, under the authority of FAR 12.102(a) on a sole source basis.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11495,
+  "out": 2638
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Oak Grove Technologies",
+   "model": "Chimera Group-1 sUAS",
+   "part": "Chimera Group-1 sUAS drone platform and proprietary AFSOC-approved training course",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Oak Grove Technologies",
+   "reason": "Market research confirmed that Oak Grove Technologies is the sole manufacturer and only authorized provider of the Chimera sUAS and its proprietary, AFSOC-approved training course.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2295,
+  "out": 231
+ },
+ "model": "claude-sonnet-5"
+}

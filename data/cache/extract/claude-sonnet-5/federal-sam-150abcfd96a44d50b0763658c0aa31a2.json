@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pratt & Whitney",
+   "model": "TF33",
+   "part": "129 NSNs identified as sole source for addition to TF33 Pacer Phoenix Contract",
+   "part_numbers": [],
+   "quantity": "129 NSNs",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Pratt & Whitney",
+   "reason": "This agency proposes this Sources Sought as a means of conducting market research to determine if other companies can provide any items that have been determined to be sole source to Pratt & Whitney.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2969,
+  "out": 217
+ },
+ "model": "claude-sonnet-5"
+}

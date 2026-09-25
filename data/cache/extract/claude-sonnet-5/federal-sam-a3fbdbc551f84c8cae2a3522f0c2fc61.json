@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Advanced Instruments",
+   "model": "Osmo1",
+   "part": "Single-Sample Micro-Osmometer for measurement of osmolality in serum, plasma, urine, and other body fluids",
+   "part_numbers": [],
+   "quantity": "one",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name or Equal Advanced Instruments Single-Sample Micro-Osmometer for Central Arkansas Veterans Healthcare System (CAVHS)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Central Arkansas Veterans Healthcare System (CAVHS), Pathology & Laboratory Medicine Service \u2013 Clinical Chemistry Laboratory, 4300 W. 7th St, Little Rock, AR 72205",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11445,
+  "out": 298
+ },
+ "model": "claude-sonnet-5"
+}

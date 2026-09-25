@@ -1,0 +1,527 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Life Safety Panel & power supply",
+   "part_numbers": [
+    "FPO150/250-2C82D8E8A"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "High Security Balanced Magnetic Switch Dual Contact",
+   "part_numbers": [
+    "HSS-L2D-00"
+   ],
+   "quantity": "6 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Power transfer hinge",
+   "part_numbers": [
+    "PTH2-4DPS"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Battery 12V 80Ah",
+   "part_numbers": [
+    "9A94R"
+   ],
+   "quantity": "3 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "LKM",
+   "model": null,
+   "part": "LKM Lock",
+   "part_numbers": [
+    "LKM10KHX10S2"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "LKM",
+   "model": null,
+   "part": "LKM Back Plate",
+   "part_numbers": [
+    "LKM10KDCIO"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Symmetry",
+   "model": "Javelin 884",
+   "part": "Symmetry Javelin 884 Smartcard KeyPad LCD Reader",
+   "part_numbers": [
+    "884-KP-OSDP"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Symmetry",
+   "model": "M4000",
+   "part": "Symmetry Database Board",
+   "part_numbers": [
+    "M4000-DBB"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Symmetry",
+   "model": "M4000",
+   "part": "Symmetry Door Entry Controller",
+   "part_numbers": [
+    "M4000-DEC4"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Symmetry",
+   "model": "M4000",
+   "part": "Symmetry Input / Output Board",
+   "part_numbers": [
+    "M4000-IOC20/16"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bosh",
+   "model": null,
+   "part": "Bosh Glass Break Sensor",
+   "part_numbers": [
+    "DS1101I"
+   ],
+   "quantity": "3 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "6X8 Steel Hood Weather Shroud",
+   "part_numbers": [
+    "HOOD-CS-06x8"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Belden",
+   "model": null,
+   "part": "Belden 22AWG 3 Pair",
+   "part_numbers": [
+    "6542FE"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Genesis",
+   "model": null,
+   "part": "Genesis 22 AWG / 6 conductor",
+   "part_numbers": [
+    "31061112"
+   ],
+   "quantity": "6 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Genesis",
+   "model": null,
+   "part": "Genesis 18 AWG / 2 conductor",
+   "part_numbers": [
+    "31141112"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Life Safety Panel & power supply",
+   "part_numbers": [
+    "FPO150/250-2C82D8E8A"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "High Security Balanced Magnetic Switch Dual Contact",
+   "part_numbers": [
+    "HSS-L2D-00"
+   ],
+   "quantity": "6 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Request to Exit Motion Detector",
+   "part_numbers": [
+    "T-REX-LT"
+   ],
+   "quantity": "5 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "QEL-99",
+   "part": "QEL-99 Low Voltage / motorized latch / 3ft",
+   "part_numbers": [
+    "QEL-98-27-L-F-626-3-RHR-996L-NL-CYL"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "33/35/98/99 EL99 Conversion Kit",
+   "part_numbers": [
+    "OL-95800300"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Electrified Handel, Small Formate IC Core",
+   "part_numbers": [
+    "ND80ELBD ATH 626"
+   ],
+   "quantity": "3 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Power transfer hinge",
+   "part_numbers": [
+    "PTH2-4DPS"
+   ],
+   "quantity": "5 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Battery 12V 80Ah",
+   "part_numbers": [
+    "9A94R"
+   ],
+   "quantity": "3 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Symmetry",
+   "model": "Javelin 884",
+   "part": "Symmetry Javelin 884 Smartcard KeyPad LCD Reader",
+   "part_numbers": [
+    "884-KP-OSDP"
+   ],
+   "quantity": "3 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Symmetry",
+   "model": "Extreme Reader",
+   "part": "Symmetry Extreme Reader",
+   "part_numbers": [
+    "939S-KP-SWG"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Symmetry",
+   "model": "M4000",
+   "part": "Symmetry Database Board",
+   "part_numbers": [
+    "M4000-DBB"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Symmetry",
+   "model": "M4000",
+   "part": "Symmetry Door Entry Controller",
+   "part_numbers": [
+    "M4000-DEC4"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Symmetry",
+   "model": "M4000",
+   "part": "Symmetry Input / Output Board",
+   "part_numbers": [
+    "M4000-IO20/16"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "6X8 Steel Hood Weather Shroud",
+   "part_numbers": [
+    "HOOD-CS-06x8"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Belden",
+   "model": null,
+   "part": "Belden 22AWG 3 Pair",
+   "part_numbers": [
+    "6542FE"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Genesis",
+   "model": null,
+   "part": "Genesis 22 AWG / 6 conductor",
+   "part_numbers": [
+    "31061112"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Genesis",
+   "model": null,
+   "part": "Genesis 18 AWG / 2 conductor",
+   "part_numbers": [
+    "31141112"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10173,
+  "out": 7652
+ },
+ "model": "claude-sonnet-5"
+}

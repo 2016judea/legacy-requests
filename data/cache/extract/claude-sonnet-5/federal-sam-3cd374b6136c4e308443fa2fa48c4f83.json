@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Dental 3D Shape Scanner (Brand name or Equal)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "30 Days from date of Award",
+   "sole_source_vendor": null,
+   "reason": "1. Title: Dental 3D Shape Scanner (Brand name or Equal)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Michael E DeBakey VA Medical Center 2002 Holcombe Blvd Houston, TX 77030",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4069,
+  "out": 208
+ },
+ "model": "claude-sonnet-5"
+}

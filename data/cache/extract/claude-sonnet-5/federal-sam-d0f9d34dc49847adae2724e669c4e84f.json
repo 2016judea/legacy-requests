@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Connecting Link, Rig, for the UH-60",
+   "part_numbers": [
+    "70400-08151-061"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "PCX AeroSystems \u2013 Manchester, LLC",
+   "reason": "The only approved sources for the spare, Connecting Link, Rig are PCX AeroSystems \u2013 Manchester and Sikorsky. However, Sikorsky does not intent to submit a proposal for this buy.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6630,
+  "out": 217
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lockheed Martin Corporation, Missiles and Fire Control",
+   "model": "BDU-59C/B",
+   "part": "Twin Lug LGTR Product Improvement Fixed Fee Completion Form",
+   "part_numbers": [],
+   "quantity": "1 Lot",
+   "price_usd": 259495.0,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin Corporation, Missiles and Fire Control (LMMFC)",
+   "reason": "LMMFC is the original designer, developer and manufacturer of the LGTR system and owns the proprietary data that is required to perform the efforts",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin Corporation, Missiles and Fire Control",
+   "model": "BDU-59C/B",
+   "part": "Twin Lug LGTR Product Improvement in accordance with the Statement of Work",
+   "part_numbers": [],
+   "quantity": "1 Lot",
+   "price_usd": 2708869.0,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin Corporation, Missiles and Fire Control (LMMFC)",
+   "reason": "LMMFC is the original designer, developer and manufacturer of the LGTR system and owns the proprietary data that is required to perform the efforts",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin Corporation, Missiles and Fire Control",
+   "model": "BDU-59D/B",
+   "part": "Technical Data in Support of CLIN 0001",
+   "part_numbers": [],
+   "quantity": "1 Lot",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin Corporation, Missiles and Fire Control (LMMFC)",
+   "reason": "LMMFC is the original designer, developer and manufacturer of the LGTR system and owns the proprietary data that is required to perform the efforts",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin Corporation, Missiles and Fire Control",
+   "model": "BDU-59D/B",
+   "part": "Test Assets- Twin Lug Laser Guided Training Rounds BDU-59 D/B",
+   "part_numbers": [],
+   "quantity": "40 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin Corporation, Missiles and Fire Control (LMMFC)",
+   "reason": "LMMFC is the original designer, developer and manufacturer of the LGTR system and owns the proprietary data that is required to perform the efforts",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin Corporation, Missiles and Fire Control",
+   "model": "BDU-59D/B",
+   "part": "Test Assets- Twin Lug Laser Guided Training Rounds BDU-59 D/B with Telemetry",
+   "part_numbers": [],
+   "quantity": "5 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin Corporation, Missiles and Fire Control (LMMFC)",
+   "reason": "LMMFC is the original designer, developer and manufacturer of the LGTR system and owns the proprietary data that is required to perform the efforts",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8832,
+  "out": 1183
+ },
+ "model": "claude-sonnet-5"
+}

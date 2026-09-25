@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "cartridge solenoid valve",
+   "part_numbers": [
+    "1650-01-115-3819"
+   ],
+   "quantity": "EAQ:160 each; 5-Year Qty:800 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "DLA Weapons Support (Richmond)",
+   "reason": "The acquisition is restricted to the only source(s) of supply known to have the capability of furnishing the required supplies/services.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7637,
+  "out": 197
+ },
+ "model": "claude-sonnet-5"
+}

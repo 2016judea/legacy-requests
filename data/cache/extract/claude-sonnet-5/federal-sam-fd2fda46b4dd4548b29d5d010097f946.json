@@ -1,0 +1,75 @@
+{
+ "records": [
+  {
+   "manufacturer": "Arnprior Aerospace Portland, Inc",
+   "model": null,
+   "part": "Latch Assembly",
+   "part_numbers": [
+    "ARN06002-90206"
+   ],
+   "quantity": "200",
+   "price_usd": null,
+   "lead_time": "180 Calendar Days",
+   "sole_source_vendor": "Arnprior Aerospace Portland, Inc.",
+   "reason": "Arnprior Aerospace Portland, Inc. latch assembly (part number ARN06002-90206) has successfully undergone Boeing's qualification and approval process and is the only such assembly authorized for use in the P8 Aircraft for the TAS Program.",
+   "equipment_class": "other equipment",
+   "installed_location": "NSWC Crane",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Arnprior Aerospace Portland, Inc",
+   "model": null,
+   "part": "Shipping costs for Latch Assemblies purchased on CLIN 0001",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "180 Calendar Days",
+   "sole_source_vendor": "Arnprior Aerospace Portland, Inc.",
+   "reason": "Material must be purchased from this vendor or an authorized distributor to comply with the Boeing Illustration.",
+   "equipment_class": "other equipment",
+   "installed_location": "NSWC Crane",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Arnprior Aerospace Portland, Inc",
+   "model": null,
+   "part": "OPTION Latch Assembly",
+   "part_numbers": [
+    "ARN06002-90206"
+   ],
+   "quantity": "300",
+   "price_usd": null,
+   "lead_time": "180 Calendar Days",
+   "sole_source_vendor": "Arnprior Aerospace Portland, Inc.",
+   "reason": "Arnprior Aerospace Portland, Inc. latch assembly (part number ARN06002-90206) has successfully undergone Boeing's qualification and approval process and is the only such assembly authorized for use in the P8 Aircraft for the TAS Program.",
+   "equipment_class": "other equipment",
+   "installed_location": "NSWC Crane",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Arnprior Aerospace Portland, Inc",
+   "model": null,
+   "part": "OPTION shipping costs for Latch Assemblies purchased on CLIN 0003",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "180 Calendar Days",
+   "sole_source_vendor": "Arnprior Aerospace Portland, Inc.",
+   "reason": "Material must be purchased from this vendor or an authorized distributor to comply with the Boeing Illustration.",
+   "equipment_class": "other equipment",
+   "installed_location": "NSWC Crane",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8431,
+  "out": 914
+ },
+ "model": "claude-sonnet-5"
+}

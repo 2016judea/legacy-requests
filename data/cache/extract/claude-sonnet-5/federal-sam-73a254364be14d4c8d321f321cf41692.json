@@ -1,0 +1,203 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leslie Controls Inc.",
+   "model": "3-WAY CONTROL VALVE",
+   "part": "STEM, FLUID VALVE, LOWER STEM",
+   "part_numbers": [
+    "66564",
+    "33585",
+    "24854N"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name OEM \"Leslie Controls Inc.\" - Stem Fluid Valve Part(s)",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leslie Controls Inc.",
+   "model": null,
+   "part": "STEM, FLUID VALVE",
+   "part_numbers": [
+    "38085",
+    "882192137"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name OEM \"Leslie Controls Inc.\" - Stem Fluid Valve Part(s)",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leslie Controls Inc.",
+   "model": "3-WAY CONTROL VALVE",
+   "part": "STEM, FLUID VALVE",
+   "part_numbers": [
+    "66564",
+    "27899N-24854N"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name OEM \"Leslie Controls Inc.\" - Stem Fluid Valve Part(s)",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leslie Controls Inc.",
+   "model": "TEMPERATURE PILOT",
+   "part": "SEAT, VALVE, TOP SPRING SEAT",
+   "part_numbers": [
+    "13351"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name OEM \"Leslie Controls Inc.\" - Stem Fluid Valve Part(s)",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leslie Controls Inc.",
+   "model": null,
+   "part": "SEAT, VALVE",
+   "part_numbers": [
+    "13351",
+    "882220522"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name OEM \"Leslie Controls Inc.\" - Stem Fluid Valve Part(s)",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leslie Controls Inc.",
+   "model": "3-WAY CONTROL VALVE",
+   "part": "RING, STUFFING BOX",
+   "part_numbers": [
+    "59041",
+    "23471",
+    "24854N"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name OEM \"Leslie Controls Inc.\" - Stem Fluid Valve Part(s)",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leslie Controls Inc.",
+   "model": "3-WAY CONTROL VALVE",
+   "part": "RING, STUFFING BOX",
+   "part_numbers": [
+    "59041",
+    "27899N-24854N"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name OEM \"Leslie Controls Inc.\" - Stem Fluid Valve Part(s)",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leslie Controls Inc.",
+   "model": "3-WAY CONTROL VALVE",
+   "part": "VALVE PLUG, UPPER",
+   "part_numbers": [
+    "66536-0058",
+    "27899N-24854N"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name OEM \"Leslie Controls Inc.\" - Stem Fluid Valve Part(s)",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leslie Controls Inc.",
+   "model": "3-WAY CONTROL VALVE",
+   "part": "STEM, FLUID VALVE, STEM LOWER",
+   "part_numbers": [
+    "66564",
+    "27899N-24854N"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name OEM \"Leslie Controls Inc.\" - Stem Fluid Valve Part(s)",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leslie Controls Inc.",
+   "model": "TEMPERATURE PILOT",
+   "part": "STEM, FLUID VALVE, STEM BELLOWS",
+   "part_numbers": [
+    "35881",
+    "27899N-22234N"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name OEM \"Leslie Controls Inc.\" - Stem Fluid Valve Part(s)",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leslie Controls Inc.",
+   "model": "3-WAY CONTROL VALVE",
+   "part": "RING, STUFFING BOX, STUFFING BOX RING",
+   "part_numbers": [
+    "59041",
+    "27899N-24854N"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name OEM \"Leslie Controls Inc.\" - Stem Fluid Valve Part(s)",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3457,
+  "out": 3369
+ },
+ "model": "claude-sonnet-5"
+}

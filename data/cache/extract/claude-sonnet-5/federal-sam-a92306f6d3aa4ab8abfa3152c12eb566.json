@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Anduril Industries, Inc.",
+   "model": "Pulsar Lite MKI-RX/TX 4CH (Pulsar-L)",
+   "part": "Non-kinetic Attack Counter-small Unmanned Aerial Systems (C-sUAS) Package for the Amphibious Combat Vehicle (ACV)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Anduril Industries, Inc.",
+   "reason": "identifies the Anduril Pulsar-L as the only viable solution to meet the requirements established in the Urgent Statement of Need (USON)",
+   "equipment_class": "other equipment",
+   "installed_location": "Amphibious Combat Vehicle (ACV) Fleet of Vehicles (FoV)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Anduril Industries, Inc.",
+   "model": null,
+   "part": "Anduril Control Station Interface (accessory for Pulsar-L C-sUAS package)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Anduril Industries, Inc.",
+   "reason": "identifies the Anduril Pulsar-L as the only viable solution to meet the requirements established in the Urgent Statement of Need (USON)",
+   "equipment_class": "other equipment",
+   "installed_location": "Amphibious Combat Vehicle (ACV) Fleet of Vehicles (FoV)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Anduril Industries, Inc.",
+   "model": null,
+   "part": "Omnidirectional Antenna Array (accessory for Pulsar-L C-sUAS package)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Anduril Industries, Inc.",
+   "reason": "identifies the Anduril Pulsar-L as the only viable solution to meet the requirements established in the Urgent Statement of Need (USON)",
+   "equipment_class": "other equipment",
+   "installed_location": "Amphibious Combat Vehicle (ACV) Fleet of Vehicles (FoV)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Anduril Industries, Inc.",
+   "model": null,
+   "part": "Standard EW Software License (accessory for Pulsar-L C-sUAS package)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Anduril Industries, Inc.",
+   "reason": "identifies the Anduril Pulsar-L as the only viable solution to meet the requirements established in the Urgent Statement of Need (USON)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Amphibious Combat Vehicle (ACV) Fleet of Vehicles (FoV)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Anduril Industries, Inc.",
+   "model": null,
+   "part": "Warranty and Support for Pulsar-L C-sUAS package",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Anduril Industries, Inc.",
+   "reason": "identifies the Anduril Pulsar-L as the only viable solution to meet the requirements established in the Urgent Statement of Need (USON)",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Amphibious Combat Vehicle (ACV) Fleet of Vehicles (FoV)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7853,
+  "out": 2234
+ },
+ "model": "claude-sonnet-5"
+}

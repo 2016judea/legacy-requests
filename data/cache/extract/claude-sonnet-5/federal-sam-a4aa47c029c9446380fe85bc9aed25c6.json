@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "CABLE ASSEMBLY, SPECIAL PURPOSE, ELECTRICAL",
+   "part_numbers": [
+    "5995-01-017-1230"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "JUSTIFICATION FOR OTHER THAN FULL AND OPEN COMPETITION FOR SOLE SOURCE AND LIMITED COMPETITION",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2022,
+  "out": 210
+ },
+ "model": "claude-sonnet-5"
+}

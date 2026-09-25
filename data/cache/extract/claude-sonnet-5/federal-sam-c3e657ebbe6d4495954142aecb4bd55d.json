@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Laser Shot",
+   "model": "Mobile Marksmanship Training Simulator (MMTS)",
+   "part": "Refresh of live-fire simulator systems including new projectors, computers, repair of existing hardware, and labor",
+   "part_numbers": [],
+   "quantity": "8",
+   "price_usd": null,
+   "lead_time": "No later than 1 December 2025",
+   "sole_source_vendor": "Laser Shot, Inc.",
+   "reason": "Laser Shot manufactures the Mobile Marksmanship Training Simulator and Warrior Skills Trainer Simulator and is the only company approved to repair, upgrade, and warranty these products, including computers and recoil kits.",
+   "equipment_class": "other equipment",
+   "installed_location": "USARC, Fort Bragg, NC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Laser Shot",
+   "model": "Warrior Skills Trainer (WST)",
+   "part": "Refresh of live-fire simulator systems including new projectors, computers, repair of existing hardware, and labor",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "No later than 1 December 2025",
+   "sole_source_vendor": "Laser Shot, Inc.",
+   "reason": "Laser Shot manufactures the Mobile Marksmanship Training Simulator and Warrior Skills Trainer Simulator and is the only company approved to repair, upgrade, and warranty these products, including computers and recoil kits.",
+   "equipment_class": "other equipment",
+   "installed_location": "USARC, Fort Bragg, NC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Laser Shot",
+   "model": null,
+   "part": "5-year extended warranty covering repair and replacement of defective product material or workmanship on MMTS and WST simulators",
+   "part_numbers": [],
+   "quantity": "10 systems",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Laser Shot, Inc.",
+   "reason": "the existing MMTS and WST systems warranties require that all refresh, maintenance, and upgrades be performed by Laser Shot technicians. Using any non-laser Shot source would void the warranty and risk system operability.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "USARC, Fort Bragg, NC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "New projectors installed as part of simulator refresh",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Laser Shot, Inc.",
+   "reason": "This requirement will include installation of new projectors and computers, repair of existing hardware, and the associated labor.",
+   "equipment_class": "other equipment",
+   "installed_location": "USARC, Fort Bragg, NC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "New computers installed as part of simulator refresh",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Laser Shot, Inc.",
+   "reason": "This requirement will include installation of new projectors and computers, repair of existing hardware, and the associated labor.",
+   "equipment_class": "other equipment",
+   "installed_location": "USARC, Fort Bragg, NC",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6263,
+  "out": 1367
+ },
+ "model": "claude-sonnet-5"
+}

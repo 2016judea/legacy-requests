@@ -1,0 +1,207 @@
+{
+ "records": [
+  {
+   "manufacturer": "Distribution Systems International, Inc. (DSI)",
+   "model": "Modumax/Moducore",
+   "part": "ModuCore Single Tier \"A-ST\" 18.9375\" W : Custom (9) basket/shelf configuration",
+   "part_numbers": [
+    "KIT-D1-MM-CUSTOM-A.ST"
+   ],
+   "quantity": "49 Ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This requirement is currently aligned to the (DSI) Modumax/Moducore - Custom Supply Storage System, or brand\u2011name equivalent capable of meeting all salient characteristics detailed in this notice.",
+   "equipment_class": "other equipment",
+   "installed_location": "Pittsburgh VA Medical Center Operating Room",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Distribution Systems International, Inc. (DSI)",
+   "model": "Modumax/Moducore",
+   "part": "ModuCore Single Tier \"A-AD\" 17.625\" W : Custom (9) basket/shelf configuration",
+   "part_numbers": [
+    "KIT-D1-MM-CUSTOM-A.AD"
+   ],
+   "quantity": "101 Ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This requirement is currently aligned to the (DSI) Modumax/Moducore - Custom Supply Storage System, or brand\u2011name equivalent capable of meeting all salient characteristics detailed in this notice.",
+   "equipment_class": "other equipment",
+   "installed_location": "Pittsburgh VA Medical Center Operating Room",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Distribution Systems International, Inc. (DSI)",
+   "model": "Modumax/Moducore",
+   "part": "ModuCore Single Tier \"A-SUT\" 17.625\" W : Custom (7) basket/shelf configuration (suture)",
+   "part_numbers": [
+    "KIT-D1-MM-CUSTOM-A.SUT"
+   ],
+   "quantity": "6 Ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This requirement is currently aligned to the (DSI) Modumax/Moducore - Custom Supply Storage System, or brand\u2011name equivalent capable of meeting all salient characteristics detailed in this notice.",
+   "equipment_class": "other equipment",
+   "installed_location": "Pittsburgh VA Medical Center Operating Room",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Distribution Systems International, Inc. (DSI)",
+   "model": "Modumax/Moducore",
+   "part": "ModuCore Single Tier \"B-ST\" 26.875\" W : Custom (9) basket/shelf configuration",
+   "part_numbers": [
+    "KIT-D1-MM-CUSTOM-B.ST"
+   ],
+   "quantity": "4 Ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This requirement is currently aligned to the (DSI) Modumax/Moducore - Custom Supply Storage System, or brand\u2011name equivalent capable of meeting all salient characteristics detailed in this notice.",
+   "equipment_class": "other equipment",
+   "installed_location": "Pittsburgh VA Medical Center Operating Room",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Distribution Systems International, Inc. (DSI)",
+   "model": "Modumax/Moducore",
+   "part": "ModuCore Single Tier \"WA-ST\" 38.25\" W : Custom (7) basket/shelf configuration",
+   "part_numbers": [
+    "KIT-D1-MM-CUSTOM-WA.ST"
+   ],
+   "quantity": "4 Ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This requirement is currently aligned to the (DSI) Modumax/Moducore - Custom Supply Storage System, or brand\u2011name equivalent capable of meeting all salient characteristics detailed in this notice.",
+   "equipment_class": "other equipment",
+   "installed_location": "Pittsburgh VA Medical Center Operating Room",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Distribution Systems International, Inc. (DSI)",
+   "model": "ModuMax",
+   "part": "Custom Color Panel for Side of ModuMax \"A\" Unit \u2013 Color and Phrase Chosen After Initial Install",
+   "part_numbers": [
+    "KIT-D1-CUSTOM-COLORPANEL-FULL/A"
+   ],
+   "quantity": "25 Ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This requirement is currently aligned to the (DSI) Modumax/Moducore - Custom Supply Storage System, or brand\u2011name equivalent capable of meeting all salient characteristics detailed in this notice.",
+   "equipment_class": "other equipment",
+   "installed_location": "Pittsburgh VA Medical Center Operating Room",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Distribution Systems International, Inc. (DSI)",
+   "model": "ModuMax",
+   "part": "Custom Color Panel for Side of ModuMax \"B\" Unit \u2013 Color and Phrase Chosen After Initial Install",
+   "part_numbers": [
+    "KIT-D1-CUSTOM-COLORPANEL-FULL/B"
+   ],
+   "quantity": "2 Ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This requirement is currently aligned to the (DSI) Modumax/Moducore - Custom Supply Storage System, or brand\u2011name equivalent capable of meeting all salient characteristics detailed in this notice.",
+   "equipment_class": "other equipment",
+   "installed_location": "Pittsburgh VA Medical Center Operating Room",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Distribution Systems International, Inc. (DSI)",
+   "model": "ModuMax",
+   "part": "Custom Color Panel for Top of All ModuMax Units \u2013 Color and Phrase Chosen After Initial Install",
+   "part_numbers": [
+    "KIT-D1-CUSTOM-COLORLABEL/A"
+   ],
+   "quantity": "164 Ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This requirement is currently aligned to the (DSI) Modumax/Moducore - Custom Supply Storage System, or brand\u2011name equivalent capable of meeting all salient characteristics detailed in this notice.",
+   "equipment_class": "other equipment",
+   "installed_location": "Pittsburgh VA Medical Center Operating Room",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Distribution Systems International, Inc. (DSI)",
+   "model": "ModuCore",
+   "part": "2\" ModuCore \"A\" Basket Handle \u2013 Fits All Baskets and Trays",
+   "part_numbers": [
+    "KIT-D1-CUSTOM-HANDLE/BSK-2A"
+   ],
+   "quantity": "1200 Ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This requirement is currently aligned to the (DSI) Modumax/Moducore - Custom Supply Storage System, or brand\u2011name equivalent capable of meeting all salient characteristics detailed in this notice.",
+   "equipment_class": "other equipment",
+   "installed_location": "Pittsburgh VA Medical Center Operating Room",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Distribution Systems International, Inc. (DSI)",
+   "model": null,
+   "part": "No Hassle DSI Lifetime Warranty \u2013 Included",
+   "part_numbers": [
+    "KIT-D1-ITEM"
+   ],
+   "quantity": "1 Ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This requirement is currently aligned to the (DSI) Modumax/Moducore - Custom Supply Storage System, or brand\u2011name equivalent capable of meeting all salient characteristics detailed in this notice.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Pittsburgh VA Medical Center Operating Room",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Distribution Systems International, Inc. (DSI)",
+   "model": null,
+   "part": "DSI Complementary HSPA Compliance Vendor Partner Site Assessment \u2013 Included",
+   "part_numbers": [
+    "KIT-D1-ITEM"
+   ],
+   "quantity": "1 Ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This requirement is currently aligned to the (DSI) Modumax/Moducore - Custom Supply Storage System, or brand\u2011name equivalent capable of meeting all salient characteristics detailed in this notice.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Pittsburgh VA Medical Center Operating Room",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Distribution Systems International, Inc. (DSI)",
+   "model": null,
+   "part": "Complete Onsite Assembly and Installation",
+   "part_numbers": [
+    "KIT-D1-INSTALLATION"
+   ],
+   "quantity": "1 Ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This requirement is currently aligned to the (DSI) Modumax/Moducore - Custom Supply Storage System, or brand\u2011name equivalent capable of meeting all salient characteristics detailed in this notice.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Pittsburgh VA Medical Center Operating Room",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8706,
+  "out": 4184
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,66 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vanguard Electronics LLC",
+   "model": null,
+   "part": "Transformer Converter",
+   "part_numbers": [
+    "106230AQ",
+    "3161078"
+   ],
+   "quantity": "25 Each (Option: 3 Each)",
+   "price_usd": null,
+   "lead_time": "120 weeks from date of award",
+   "sole_source_vendor": "Vanguard Electronics LLC",
+   "reason": "Vanguard Electronics LLC, Cage Code 03550, is the Original Equipment Manufacturer (OEM) of these parts.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vanguard Electronics LLC",
+   "model": null,
+   "part": "Transformer Power",
+   "part_numbers": [
+    "106232AQ",
+    "3161076"
+   ],
+   "quantity": "50 Each (Option: 7 Each)",
+   "price_usd": null,
+   "lead_time": "120 weeks from date of award",
+   "sole_source_vendor": "Vanguard Electronics LLC",
+   "reason": "Vanguard Electronics LLC, Cage Code 03550, is the Original Equipment Manufacturer (OEM) of these parts.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vanguard Electronics LLC",
+   "model": null,
+   "part": "Transformer Power Step Down",
+   "part_numbers": [
+    "106233AQ",
+    "3161079"
+   ],
+   "quantity": "25 Each (Option: 3 Each)",
+   "price_usd": null,
+   "lead_time": "120 weeks from date of award",
+   "sole_source_vendor": "Vanguard Electronics LLC",
+   "reason": "Vanguard Electronics LLC, Cage Code 03550, is the Original Equipment Manufacturer (OEM) of these parts.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9135,
+  "out": 1359
+ },
+ "model": "claude-sonnet-5"
+}

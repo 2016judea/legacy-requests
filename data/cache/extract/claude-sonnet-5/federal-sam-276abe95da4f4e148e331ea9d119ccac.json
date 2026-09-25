@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Creaform",
+   "model": "HandySCAN 3D Pro Series",
+   "part": "handheld three-dimensional laser scanner package, including proprietary software licensing, calibration accessories, OEM installation, and on-site operator training",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Creaform is the only brand capable of ensuring seamless workflow continuity and interoperability without introducing unacceptable delays and unrecoverable costs.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "418th Contracting Support Brigade, Fort Hood, TX",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14022,
+  "out": 253
+ },
+ "model": "claude-sonnet-5"
+}

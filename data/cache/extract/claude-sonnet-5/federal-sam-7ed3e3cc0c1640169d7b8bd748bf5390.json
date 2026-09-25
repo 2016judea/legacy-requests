@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Gasmet",
+   "model": "GT5000 Terra",
+   "part": "Portable multi-gas analyzer (backpack-portable FTIR analyzer)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gasmet",
+   "reason": "Gasmet is the only reasonable source because the GT5000 Terra is the only commercially available, backpack-portable Fourier Transform Infrared (FTIR) analyzer that can be operated while actively moving without signal degradation",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Defense Centers for Public Health \u2013 Aberdeen (DCPH-A)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3230,
+  "out": 288
+ },
+ "model": "claude-sonnet-5"
+}

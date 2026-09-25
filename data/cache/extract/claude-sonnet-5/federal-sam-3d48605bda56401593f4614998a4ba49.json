@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "RKI Instruments, Inc.",
+   "model": "GD-70D-HCL-15E",
+   "part": "Hydrogen Chloride (HCl) Gas Detection System",
+   "part_numbers": [
+    "GD-70D-HCL-15E"
+   ],
+   "quantity": "approximately 86",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "RKI Instruments, Inc.",
+   "reason": "The RKI Instruments GD-70D HCL 15E is the only system that is fully compatible with the existing facility infrastructure, including annunciator panels, monitoring systems, wiring harnesses, and power supply interfaces currently fielded in AFGSC missile wings.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Missile Alert Facilities across 90th Missile Wing (F.E. Warren AFB, WY), 341st Missile Wing (Malmstrom AFB, MT), and 91st Missile Wing (Minot AFB, ND)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2894,
+  "out": 351
+ },
+ "model": "claude-sonnet-5"
+}

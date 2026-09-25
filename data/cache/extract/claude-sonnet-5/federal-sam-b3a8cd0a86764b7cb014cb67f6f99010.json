@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "CONTROL SECTION,GUI",
+   "part_numbers": [
+    "13540365"
+   ],
+   "quantity": "35 EACH",
+   "price_usd": null,
+   "lead_time": "675 days after contract award (with FAT) / 450 days after contract award (without FAT)",
+   "sole_source_vendor": "Lockheed Martin Corporation Missiles and Fire Control, CAGE: 64059",
+   "reason": "SUITABLE TECHNICAL DATA, GOVERNMENT DATA RIGHTS, OR MANUFACTURING KNOWLEDGE ARE NOT AVAILABLE TO PERMIT ACQUISITION FROM OTHER SOURCES, NOR QUALIFICATION TESTING OF ANOTHER PART, NOR USE OF A SECOND SOURCE PART IN THE INTENDED APPLICATION.",
+   "equipment_class": "other equipment",
+   "installed_location": "Chambersburg, PA, 17201-4150",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5766,
+  "out": 362
+ },
+ "model": "claude-sonnet-5"
+}

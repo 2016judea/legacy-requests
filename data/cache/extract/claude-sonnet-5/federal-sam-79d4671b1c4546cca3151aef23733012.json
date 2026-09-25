@@ -1,0 +1,95 @@
+{
+ "records": [
+  {
+   "manufacturer": "Raytheon",
+   "model": null,
+   "part": "Cable Assembly, RF - Flexible",
+   "part_numbers": [
+    "11461050-15"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "RAYTHEON, CAGE CODE: 05716",
+   "reason": "These items are restricted to: RAYTHEON, CAGE CODE: 05716.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Raytheon",
+   "model": null,
+   "part": "Panel Indicator, TWPS",
+   "part_numbers": [
+    "11465053"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "RAYTHEON, CAGE CODE: 05716",
+   "reason": "These items are restricted to: RAYTHEON, CAGE CODE: 05716.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Raytheon",
+   "model": null,
+   "part": "Chassis, Modular Electronic Unit",
+   "part_numbers": [
+    "11456582-2"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "RAYTHEON, CAGE CODE: 05716",
+   "reason": "These items are restricted to: RAYTHEON, CAGE CODE: 05716.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Raytheon",
+   "model": null,
+   "part": "Distribution Box, EL/AZ - Control",
+   "part_numbers": [
+    "11475733"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "RAYTHEON, CAGE CODE: 05716",
+   "reason": "These items are restricted to: RAYTHEON, CAGE CODE: 05716.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Raytheon",
+   "model": null,
+   "part": "Circuit Card Assembly, 3RFS",
+   "part_numbers": [
+    "13706338-1"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "RAYTHEON, CAGE CODE: 05716",
+   "reason": "These items are restricted to: RAYTHEON, CAGE CODE: 05716.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2903,
+  "out": 894
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "SDC",
+   "model": "Ciphercon 1500",
+   "part": "Existing installed base of toxic gas cabinets integrated into facility's TGMS",
+   "part_numbers": [],
+   "quantity": "six",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CVD Equipment Corporation",
+   "reason": "the BMF has standardized to the Ciphercon platform to ensure it ensuring operators only need to interact with a single, familiar control interface during high-stress emergencies and allows the BMF to have a stable of spare parts to use for the systems.",
+   "equipment_class": "other equipment",
+   "installed_location": "Boulder Micro-Fabrication Facility (BMF), Katharine Blodgett Gebbie Building, Boulder, CO",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SDC",
+   "model": "CiphercoN\u2122 1500 Gas Rack",
+   "part": "New silane gas rack for silane distribution system",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CVD Equipment Corporation",
+   "reason": "Procuring this replacement directly from CVD Equipment Corp is the only way to ensure a seamless platform for safe operation and allow for a clean, straightforward integration with the existing TGMS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Boulder Micro-Fabrication Facility (BMF), Boulder, CO",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": "FlexGas\u2122 VMB",
+   "part": "Valve Manifold Box (VMB) for distributing silane to process tools",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CVD Equipment Corporation",
+   "reason": "Procuring this replacement directly from CVD Equipment Corp is the only way to ensure a seamless platform for safe operation and allow for a clean, straightforward integration with the existing TGMS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Boulder Micro-Fabrication Facility (BMF), Boulder, CO",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "SDC",
+   "model": "CipherCon 1500",
+   "part": "Spare gas rack systems held for repair/parts stock",
+   "part_numbers": [],
+   "quantity": "two spare CipherCon 1500 gas rack systems",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CVD Equipment Corporation",
+   "reason": "We have two spare CipherCon 1500 gas rack systems. Roughly ~$40k-$50k worth of spare parts.",
+   "equipment_class": "other equipment",
+   "installed_location": "Boulder Micro-Fabrication Facility (BMF), Boulder, CO",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8276,
+  "out": 1937
+ },
+ "model": "claude-sonnet-5"
+}

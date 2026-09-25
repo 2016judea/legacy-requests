@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "CACI, Inc. \u2013 Federal",
+   "model": "CM-262",
+   "part": "Optic hardware and software lifecycle support, repair/maintenance, licenses, and additional optic system procurement for MADIS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CACI, Inc. \u2013 Federal",
+   "reason": "CACI is the Original Equipment Manufacturer (OEM) of the CM-262 optic systems modified and integrated into the Marine Air Defense Integrated System (MADIS) program. CACI holds the modification rights to the CM-262 source code and remains the only source available to provide the hardware and software lifecycle support.",
+   "equipment_class": "other equipment",
+   "installed_location": "Hanahan, SC at the Naval Information Warfare Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3159,
+  "out": 297
+ },
+ "model": "claude-sonnet-5"
+}

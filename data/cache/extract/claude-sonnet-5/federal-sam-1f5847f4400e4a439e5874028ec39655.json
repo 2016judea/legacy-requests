@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "GUIDE SEC MISSILE, NSN: 6920-01-551-4067, applicable to the Hellfire Missile weapon system",
+   "part_numbers": [
+    "76100645"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "This item has been assigned AMC/AMSC Code 3P and must be acquired, for the second or subsequent time, directly from the actual manufacturer.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3661,
+  "out": 539
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "YSI Inc./Xylem",
+   "model": "Nile FMR51 Design Analysis radar water level sensor (Formally Series 3611)",
+   "part": "Nile custom water level sensors and associated cables as required replacements",
+   "part_numbers": [
+    "203360"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "YSI Inc.",
+   "reason": "YSI/xylem is the sole manufacturer and sole distributor of the equipment in this purchase.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "National Ocean Service Engineering Division in Chesapeake, VA",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3327,
+  "out": 236
+ },
+ "model": "claude-sonnet-5"
+}

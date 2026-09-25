@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "SEI Industries",
+   "model": "Bambi Bucket system",
+   "part": "New 660-gallon Bambi Bucket firefighting bucket system for UH-60 Blackhawk aerial firefighting",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "Within 90 days after contract award",
+   "sole_source_vendor": "SEI Industries",
+   "reason": "SEI Industries is the Original Equipment Manufacturer (OEM) of the Bambi Bucket system.",
+   "equipment_class": "other equipment",
+   "installed_location": "FT Richardson AK 99505",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SEI Industries",
+   "model": "50ft Synthetic Long Line",
+   "part": "50ft Synthetic Long Lines for Bambi Bucket system",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "Within 90 days after contract award",
+   "sole_source_vendor": "SEI Industries",
+   "reason": "These lines are proprietary to the bucket system, and no other brand lines are compatible.",
+   "equipment_class": "other equipment",
+   "installed_location": "FT Richardson AK 99505",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2506,
+  "out": 745
+ },
+ "model": "claude-sonnet-5"
+}

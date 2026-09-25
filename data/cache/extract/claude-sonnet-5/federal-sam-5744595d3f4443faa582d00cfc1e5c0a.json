@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Will-Burt Company",
+   "model": "Mast System Assembly",
+   "part": "Repair, acquisition, and engineering services for the Will-Burt Mast System Assembly mounted on the Mobile Video Surveillance System (MVSS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Will-Burt Company",
+   "reason": "Will-Burt Company is the only known source that can provide the repair and services to Will-Burt Mast assembly and associated components.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2489,
+  "out": 221
+ },
+ "model": "claude-sonnet-5"
+}

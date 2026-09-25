@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "INDUSTRIAL ENGINEERING & MACHINE CORP DBA DYNABAL",
+   "model": "DB-500",
+   "part": "MACHINE BALANCE, BENCH TYPE",
+   "part_numbers": [
+    "N627586029E507"
+   ],
+   "quantity": "1 Each",
+   "price_usd": 24890.0,
+   "lead_time": null,
+   "sole_source_vendor": "INDUSTRIAL ENGINEERING & MACHINE CORP, DBA DYNABAL",
+   "reason": "THE OEM HAS THE ONUS TO MAINTAIN THE BALANCE MACHINE CONFIGURATIONS , OPERATING REQUIRMENTS AND LIMITATIONS, INCLUDING SPARE PARTS THAT ARE ATTACHED TO THE BALANCE MACHINE ASSEMBLIES.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "COMPARTMENT 2-81-1-Q",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11131,
+  "out": 351
+ },
+ "model": "claude-sonnet-5"
+}

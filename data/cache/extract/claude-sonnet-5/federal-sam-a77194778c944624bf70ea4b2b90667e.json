@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "C-812E/ASN",
+   "part": "Sole source repair services for the Compass Control used on UH-60 Black Hawk Aircraft",
+   "part_numbers": [
+    "5821-01-316-2739"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Unacceptable Delays in Fulfilling the Agency\u2019s Requirements.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "UH-60 Black Hawk Aircraft",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2643,
+  "out": 552
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,159 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "AH-64 APACHE M-TADS/M-PNVS spare part, NSN 1240-01-518-3638",
+   "part_numbers": [
+    "79760505-009"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "LOCKHEED MARTIN",
+   "reason": "THESE ITEMS HAVE BEEN ASSIGNED AMC/AMSC CODE 3, &/OR 4 WHICH REQUIRES THE GOVERNMENT TO ACQUIRE FOR THE FIRST, SECOND OR SUBSEQUENT TIME DIRECTLY FROM THE ACTUAL MANUFACTURER.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "AH-64 APACHE M-TADS/M-PNVS spare part, NSN 1240-01-589-5433",
+   "part_numbers": [
+    "79760230-019"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "LOCKHEED MARTIN",
+   "reason": "THESE ITEMS HAVE BEEN ASSIGNED AMC/AMSC CODE 3, &/OR 4 WHICH REQUIRES THE GOVERNMENT TO ACQUIRE FOR THE FIRST, SECOND OR SUBSEQUENT TIME DIRECTLY FROM THE ACTUAL MANUFACTURER.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "AH-64 APACHE M-TADS/M-PNVS spare part, NSN 1240-01-676-4038",
+   "part_numbers": [
+    "79722960-009"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "LOCKHEED MARTIN",
+   "reason": "THESE ITEMS HAVE BEEN ASSIGNED AMC/AMSC CODE 3, &/OR 4 WHICH REQUIRES THE GOVERNMENT TO ACQUIRE FOR THE FIRST, SECOND OR SUBSEQUENT TIME DIRECTLY FROM THE ACTUAL MANUFACTURER.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "AH-64 APACHE M-TADS/M-PNVS spare part, NSN 1240-01-687-6187",
+   "part_numbers": [
+    "79787541-002"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "LOCKHEED MARTIN",
+   "reason": "THESE ITEMS HAVE BEEN ASSIGNED AMC/AMSC CODE 3, &/OR 4 WHICH REQUIRES THE GOVERNMENT TO ACQUIRE FOR THE FIRST, SECOND OR SUBSEQUENT TIME DIRECTLY FROM THE ACTUAL MANUFACTURER.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "AH-64 APACHE M-TADS/M-PNVS spare part, NSN 1240-01-687-6785",
+   "part_numbers": [
+    "79763030-009"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "LOCKHEED MARTIN",
+   "reason": "THESE ITEMS HAVE BEEN ASSIGNED AMC/AMSC CODE 3, &/OR 4 WHICH REQUIRES THE GOVERNMENT TO ACQUIRE FOR THE FIRST, SECOND OR SUBSEQUENT TIME DIRECTLY FROM THE ACTUAL MANUFACTURER.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "AH-64 APACHE M-TADS/M-PNVS spare part, NSN 1270-01-535-8920",
+   "part_numbers": [
+    "79760015-019"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "LOCKHEED MARTIN",
+   "reason": "THESE ITEMS HAVE BEEN ASSIGNED AMC/AMSC CODE 3, &/OR 4 WHICH REQUIRES THE GOVERNMENT TO ACQUIRE FOR THE FIRST, SECOND OR SUBSEQUENT TIME DIRECTLY FROM THE ACTUAL MANUFACTURER.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "AH-64 APACHE M-TADS/M-PNVS spare part, NSN 1270-01-547-7770",
+   "part_numbers": [
+    "79745095-001"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "LOCKHEED MARTIN",
+   "reason": "THESE ITEMS HAVE BEEN ASSIGNED AMC/AMSC CODE 3, &/OR 4 WHICH REQUIRES THE GOVERNMENT TO ACQUIRE FOR THE FIRST, SECOND OR SUBSEQUENT TIME DIRECTLY FROM THE ACTUAL MANUFACTURER.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "AH-64 APACHE M-TADS/M-PNVS spare part, NSN 1270-01-547-7773",
+   "part_numbers": [
+    "79718560-001"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "LOCKHEED MARTIN",
+   "reason": "THESE ITEMS HAVE BEEN ASSIGNED AMC/AMSC CODE 3, &/OR 4 WHICH REQUIRES THE GOVERNMENT TO ACQUIRE FOR THE FIRST, SECOND OR SUBSEQUENT TIME DIRECTLY FROM THE ACTUAL MANUFACTURER.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "AH-64 APACHE M-TADS/M-PNVS spare part, NSN 1680-01-516-6818",
+   "part_numbers": [
+    "79760545-009"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "LOCKHEED MARTIN",
+   "reason": "THESE ITEMS HAVE BEEN ASSIGNED AMC/AMSC CODE 3, &/OR 4 WHICH REQUIRES THE GOVERNMENT TO ACQUIRE FOR THE FIRST, SECOND OR SUBSEQUENT TIME DIRECTLY FROM THE ACTUAL MANUFACTURER.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5624,
+  "out": 3386
+ },
+ "model": "claude-sonnet-5"
+}

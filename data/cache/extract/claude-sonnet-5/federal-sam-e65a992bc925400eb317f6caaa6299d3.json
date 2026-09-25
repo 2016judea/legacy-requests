@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Dual 77+ pistol grip investigation laser (Dual Wavelength Forensic Laser)",
+   "part": "Turnkey, state-of-the-art, Dual Wavelength Forensic Laser",
+   "part_numbers": [
+    "A-CSL7W1"
+   ],
+   "quantity": "Ten (10)",
+   "price_usd": null,
+   "lead_time": "sixty (60) days after purchase order awarded",
+   "sole_source_vendor": "Arrowhead Scientific, Inc. (also known as Arrowhead Forensics as part of Thomas Scientific, LLC)",
+   "reason": "Arrowhead Scientific, Inc. (also known as Arrowhead Forensics as part of Thomas Scientific, LLC), is the only responsible source that can provide BOTH of the equipment with the necessary technical specifications required for use in an ATF laboratory.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FCGIL (Wichita, KS); ATF FSL-A (Atlanta, GA); ATF FSL-W (Beltsville, MD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "FSIS II Color imaging system (Full spectrum color imaging system)",
+   "part": "Turnkey, state-of-the-art, Full spectrum color imaging system",
+   "part_numbers": [
+    "A-FSC-1-FS-30"
+   ],
+   "quantity": "Two (2)",
+   "price_usd": null,
+   "lead_time": "sixty (60) days after purchase order awarded",
+   "sole_source_vendor": "Arrowhead Scientific, Inc. (also known as Arrowhead Forensics as part of Thomas Scientific, LLC)",
+   "reason": "Arrowhead Forensics through Thomas Scientific LLC is the only vendor that can provide BOTH an independent DUAL WAVELENGTH Forensic Laser and FSIS II color imaging system.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FCGIL (Wichita, KS); ATF FSL-A (Atlanta, GA); ATF FSL-W (Beltsville, MD)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6385,
+  "out": 1408
+ },
+ "model": "claude-sonnet-5"
+}

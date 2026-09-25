@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "FireResq, LLC dba FireHoseDirect",
+   "model": "25D6MS25B",
+   "part": "FIRE HOSE ASSY, SIZE: 2-1/2\", LENGTHS: 25', COUPLING: BRASS (MALE+FEMALE), COLOR: ORANGE, THREADS: NH",
+   "part_numbers": [
+    "25D6MS25B",
+    "M24606-250-25"
+   ],
+   "quantity": "60",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FireResq, LLC dba FireHoseDirect",
+   "reason": "Brand Name OEM \"FireResq, LLC dba FireHoseDirect\" - Fire Hose Assembly Part(s)",
+   "equipment_class": "other equipment",
+   "installed_location": "SRF-JRMC",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2607,
+  "out": 291
+ },
+ "model": "claude-sonnet-5"
+}

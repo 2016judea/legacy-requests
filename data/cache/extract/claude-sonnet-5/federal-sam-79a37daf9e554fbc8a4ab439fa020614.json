@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hi-Techniques",
+   "model": "Synergy P16U-T",
+   "part": "Data Acquisition System (DAS), hardened transport case, four signal conditioning breakout interfaces, and shipping",
+   "part_numbers": [
+    "P16U-T"
+   ],
+   "quantity": "1 DAS, 1 transport case, 4 signal conditioning breakout interfaces",
+   "price_usd": 38099.42,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Only the Synergy P16U-T provides complete compatibility with these existing modules, cables, connectors, sampling rates, transient memory architecture, and data processing/software workflows.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Truman VA Open Field Blast Core (OFBC), Harry S. Truman VA Medical Center, Columbia, MO",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2977,
+  "out": 589
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Aerosonic LLC",
+   "model": "Angle of Attack Transmitter (AoA)",
+   "part": "Angle of Attack Transmitter (AoA) - (LH/RH) and associated Depot Activation support (STE, TPS, ITAs, data rights)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "6-11 year process would be required if a new AoA OEM is selected",
+   "sole_source_vendor": "Aerosonic LLC",
+   "reason": "they are the only responsible source for the Angle of Attack Transmitter (AoA) - (LH/RH), a key component integrated into the F-15EX's baseline design",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "F-15EX aircraft / Air Logistics Complex (ALC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6269,
+  "out": 292
+ },
+ "model": "claude-sonnet-5"
+}

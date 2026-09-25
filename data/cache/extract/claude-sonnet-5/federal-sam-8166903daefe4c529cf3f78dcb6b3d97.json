@@ -1,0 +1,117 @@
+{
+ "records": [
+  {
+   "manufacturer": "Parker-Hannifin",
+   "model": null,
+   "part": "Manifold, Aileron",
+   "part_numbers": [
+    "1650-01-525-7930",
+    "4Y91012"
+   ],
+   "quantity": "10ea.",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Parker-Hannifin Corporation",
+   "reason": "the only source that can satisfy the requirement is the Original Equipment Manufacturer (OEM), Parker-Hannifin Corporation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Parker-Hannifin",
+   "model": null,
+   "part": "Manifold, Upper Rudder",
+   "part_numbers": [
+    "1650-01-525-7392",
+    "4Y91014"
+   ],
+   "quantity": "6ea.",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Parker-Hannifin Corporation",
+   "reason": "the only source that can satisfy the requirement is the Original Equipment Manufacturer (OEM), Parker-Hannifin Corporation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Parker-Hannifin",
+   "model": null,
+   "part": "Manifold, Lower Rudder",
+   "part_numbers": [
+    "1650-01-525-7929",
+    "4Y91577"
+   ],
+   "quantity": "12ea.",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Parker-Hannifin Corporation",
+   "reason": "the only source that can satisfy the requirement is the Original Equipment Manufacturer (OEM), Parker-Hannifin Corporation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Parker-Hannifin",
+   "model": null,
+   "part": "Manifold, Elevator O/B-Single",
+   "part_numbers": [
+    "1650-01-522-2389",
+    "4Y91578"
+   ],
+   "quantity": "10ea.",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Parker-Hannifin Corporation",
+   "reason": "the only source that can satisfy the requirement is the Original Equipment Manufacturer (OEM), Parker-Hannifin Corporation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Parker-Hannifin",
+   "model": null,
+   "part": "Manifold, Elevator O/B-Dual",
+   "part_numbers": [
+    "1650-01-522-3404",
+    "4Y91578"
+   ],
+   "quantity": "20ea.",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Parker-Hannifin Corporation",
+   "reason": "the only source that can satisfy the requirement is the Original Equipment Manufacturer (OEM), Parker-Hannifin Corporation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Parker-Hannifin",
+   "model": null,
+   "part": "Manifold, Elevator I/B",
+   "part_numbers": [
+    "1650-01-525-8854",
+    "4Y91013"
+   ],
+   "quantity": "20ea.",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Parker-Hannifin Corporation",
+   "reason": "the only source that can satisfy the requirement is the Original Equipment Manufacturer (OEM), Parker-Hannifin Corporation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6611,
+  "out": 2228
+ },
+ "model": "claude-sonnet-5"
+}

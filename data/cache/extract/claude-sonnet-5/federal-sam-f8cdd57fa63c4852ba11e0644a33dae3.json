@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": "Aviation Devices and Electronic Components, LLC (AvDEC)",
+   "model": null,
+   "part": "P-8A Antenna Gasket (USN)",
+   "part_numbers": [],
+   "quantity": "140",
+   "price_usd": null,
+   "lead_time": "12 weeks",
+   "sole_source_vendor": "AvDEC",
+   "reason": "AvDEC is the sole designer, developer, and manufacturer of the aircraft antenna gasket for use in the P-8A.",
+   "equipment_class": "other equipment",
+   "installed_location": "P-8A Poseidon aircraft",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Aviation Devices and Electronic Components, LLC (AvDEC)",
+   "model": null,
+   "part": "P-8A Antenna Gasket (AUS)",
+   "part_numbers": [],
+   "quantity": "14",
+   "price_usd": null,
+   "lead_time": "12 weeks",
+   "sole_source_vendor": "AvDEC",
+   "reason": "AvDEC is the sole designer, developer, and manufacturer of the aircraft antenna gasket for use in the P-8A.",
+   "equipment_class": "other equipment",
+   "installed_location": "P-8A Poseidon aircraft",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Aviation Devices and Electronic Components, LLC (AvDEC)",
+   "model": null,
+   "part": "P-8A Antenna Gasket (UK)",
+   "part_numbers": [],
+   "quantity": "9",
+   "price_usd": null,
+   "lead_time": "12 weeks",
+   "sole_source_vendor": "AvDEC",
+   "reason": "AvDEC is the sole designer, developer, and manufacturer of the aircraft antenna gasket for use in the P-8A.",
+   "equipment_class": "other equipment",
+   "installed_location": "P-8A Poseidon aircraft",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Aviation Devices and Electronic Components, LLC (AvDEC)",
+   "model": null,
+   "part": "P-8A Antenna Gasket (NO)",
+   "part_numbers": [],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": "12 weeks",
+   "sole_source_vendor": "AvDEC",
+   "reason": "AvDEC is the sole designer, developer, and manufacturer of the aircraft antenna gasket for use in the P-8A.",
+   "equipment_class": "other equipment",
+   "installed_location": "P-8A Poseidon aircraft",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Aviation Devices and Electronic Components, LLC (AvDEC)",
+   "model": null,
+   "part": "P-8A Antenna Gasket (NZ)",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": "12 weeks",
+   "sole_source_vendor": "AvDEC",
+   "reason": "AvDEC is the sole designer, developer, and manufacturer of the aircraft antenna gasket for use in the P-8A.",
+   "equipment_class": "other equipment",
+   "installed_location": "P-8A Poseidon aircraft",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Aviation Devices and Electronic Components, LLC (AvDEC)",
+   "model": null,
+   "part": "P-8A Antenna Gasket (KS)",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": "12 weeks",
+   "sole_source_vendor": "AvDEC",
+   "reason": "AvDEC is the sole designer, developer, and manufacturer of the aircraft antenna gasket for use in the P-8A.",
+   "equipment_class": "other equipment",
+   "installed_location": "P-8A Poseidon aircraft",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Aviation Devices and Electronic Components, LLC (AvDEC)",
+   "model": null,
+   "part": "P-8A Antenna Gasket (GY)",
+   "part_numbers": [],
+   "quantity": "8",
+   "price_usd": null,
+   "lead_time": "12 weeks",
+   "sole_source_vendor": "AvDEC",
+   "reason": "AvDEC is the sole designer, developer, and manufacturer of the aircraft antenna gasket for use in the P-8A.",
+   "equipment_class": "other equipment",
+   "installed_location": "P-8A Poseidon aircraft",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Aviation Devices and Electronic Components, LLC (AvDEC)",
+   "model": null,
+   "part": "P-8A Antenna Gasket (CN)",
+   "part_numbers": [],
+   "quantity": "14",
+   "price_usd": null,
+   "lead_time": "12 weeks",
+   "sole_source_vendor": "AvDEC",
+   "reason": "AvDEC is the sole designer, developer, and manufacturer of the aircraft antenna gasket for use in the P-8A.",
+   "equipment_class": "other equipment",
+   "installed_location": "P-8A Poseidon aircraft",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7275,
+  "out": 2136
+ },
+ "model": "claude-sonnet-5"
+}

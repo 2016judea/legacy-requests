@@ -1,0 +1,175 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vocera",
+   "model": "V5000",
+   "part": "V5000, Smart badge",
+   "part_numbers": [
+    "220-02100"
+   ],
+   "quantity": "500",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ALVAREZ LLC",
+   "reason": "This is a Brand Name Only procurement, as items are currently in use at Chillicothe VA Medical Center.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Chillicothe VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vocera",
+   "model": "V5000",
+   "part": "V5000, FIPS 140-2 Device License Ver 1.0",
+   "part_numbers": [
+    "261-01950"
+   ],
+   "quantity": "500",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ALVAREZ LLC",
+   "reason": "The badges operate exclusively on the Vocera Communication Platform, which ensures end-to-end encryption and compliance with HIPAA regulations.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Chillicothe VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vocera",
+   "model": "V5000",
+   "part": "V5000, Battery",
+   "part_numbers": [
+    "230-02150"
+   ],
+   "quantity": "1000",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ALVAREZ LLC",
+   "reason": "This request is to purchase V5000 devices to replace the current fleet of B3000N devices that are end of life/end of support.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Chillicothe VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vocera",
+   "model": "V5000",
+   "part": "V5000, Charger, 8-Bay, Universal",
+   "part_numbers": [
+    "230-02158"
+   ],
+   "quantity": "72",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ALVAREZ LLC",
+   "reason": "This request is to purchase V5000 devices to replace the current fleet of B3000N devices that are end of life/end of support.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Chillicothe VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vocera",
+   "model": "V5000",
+   "part": "V5000, Clip, Grip, 25-Pack",
+   "part_numbers": [
+    "230-02155"
+   ],
+   "quantity": "28",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ALVAREZ LLC",
+   "reason": "This request is to purchase V5000 devices to replace the current fleet of B3000N devices that are end of life/end of support.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Chillicothe VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vocera",
+   "model": "V5000",
+   "part": "V5000, Training Kit, 100 users",
+   "part_numbers": [
+    "230-02200"
+   ],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ALVAREZ LLC",
+   "reason": "This is a Brand Name Only procurement, as items are currently in use at Chillicothe VA Medical Center.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Chillicothe VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vocera",
+   "model": "V5000",
+   "part": "Product Warranty, V5000, Smart badge",
+   "part_numbers": [
+    "920-05002"
+   ],
+   "quantity": "500",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ALVAREZ LLC",
+   "reason": "This is a Brand Name Only procurement, as items are currently in use at Chillicothe VA Medical Center.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Chillicothe VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vocera",
+   "model": "V5000",
+   "part": "Product Warranty, V5000, 8-Bay Charger",
+   "part_numbers": [
+    "920-05082"
+   ],
+   "quantity": "72",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ALVAREZ LLC",
+   "reason": "This is a Brand Name Only procurement, as items are currently in use at Chillicothe VA Medical Center.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Chillicothe VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vocera",
+   "model": "V5000",
+   "part": "Product Service, Workflow, Implementation and Training Services (per hour)",
+   "part_numbers": [
+    "240-01361"
+   ],
+   "quantity": "22",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ALVAREZ LLC",
+   "reason": "This is a Brand Name Only procurement, as items are currently in use at Chillicothe VA Medical Center.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Chillicothe VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vocera",
+   "model": "V5000",
+   "part": "Product Service, Reimbursable Expenses",
+   "part_numbers": [
+    "240-01239"
+   ],
+   "quantity": "866",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ALVAREZ LLC",
+   "reason": "This is a Brand Name Only procurement, as items are currently in use at Chillicothe VA Medical Center.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Chillicothe VA Medical Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9170,
+  "out": 2744
+ },
+ "model": "claude-sonnet-5"
+}

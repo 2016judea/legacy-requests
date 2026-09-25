@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pacific Star Marine Inc",
+   "model": "MB4020Z",
+   "part": "TRANSMISSION, MECHANICAL, NONV",
+   "part_numbers": [
+    "20-013-1755"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Pacific Star Marine Inc",
+   "reason": "Pacific Star Marine Inc is the original equipment manufacturer (OEM) and possesses proprietary knowledge, technical expertise, and specialized capabilities that are essential to meet the requirements of this procurement.",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Pacific Star Marine Inc",
+   "model": "MB4040Z",
+   "part": "CABLE ASSEMBLY, SPECIAL PURPOSE",
+   "part_numbers": [
+    "20-013-1685"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Pacific Star Marine Inc",
+   "reason": "Pacific Star Marine Inc is the original equipment manufacturer (OEM) and possesses proprietary knowledge, technical expertise, and specialized capabilities that are essential to meet the requirements of this procurement.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Pacific Star Marine Inc",
+   "model": "10649",
+   "part": "GEARBOX ASSEMBLY",
+   "part_numbers": [
+    "20-011-3673"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Pacific Star Marine Inc",
+   "reason": "Pacific Star Marine Inc is the original equipment manufacturer (OEM) and possesses proprietary knowledge, technical expertise, and specialized capabilities that are essential to meet the requirements of this procurement.",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Pacific Star Marine Inc",
+   "model": "P4-10442",
+   "part": "CONTROL ASSEMBLY, TRANSMISSION",
+   "part_numbers": [
+    "20-011-2267"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Pacific Star Marine Inc",
+   "reason": "Pacific Star Marine Inc is the original equipment manufacturer (OEM) and possesses proprietary knowledge, technical expertise, and specialized capabilities that are essential to meet the requirements of this procurement.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2566,
+  "out": 1412
+ },
+ "model": "claude-sonnet-5"
+}

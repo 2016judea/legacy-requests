@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hologic",
+   "model": "ThinPrep 5000",
+   "part": "Standalone automated Cytology Processing and Papanicolaou nontoxic staining system (Cytoprocessor)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC",
+   "reason": "the only instrument to provide all of them is the Hologic ThinPrep 5000 processor. For this reason, the recommendation is to select the ThinPrep 5000 Cytoprocessor for use.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Lieutenant Colonel Charles S. Kettles VA Medical Center, Ann Arbor, MI",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "ThinPrep",
+   "part": "Reagents, Consumables and Supplies for ThinPrep Cytoprocessor",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC",
+   "reason": "ThinPrep specimens are proprietary to the Hologic system and require a Hologic Cytoprocessor for slide preparation.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Lieutenant Colonel Charles S. Kettles VA Medical Center, Ann Arbor, MI",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "UPS (uninterrupted power supply) for Cytoprocessor system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC",
+   "reason": "The procurement is for a CPT contract to provide one (1) standalone automated Cytology Processing and Papanicolaou nontoxic staining system, UPS (uninterrupted power supply), Printer, Toner, Parts",
+   "equipment_class": "other equipment",
+   "installed_location": "Lieutenant Colonel Charles S. Kettles VA Medical Center, Ann Arbor, MI",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Printer and Toner for Cytoprocessor system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC",
+   "reason": "The procurement is for a CPT contract to provide one (1) standalone automated Cytology Processing and Papanicolaou nontoxic staining system, UPS (uninterrupted power supply), Printer, Toner, Parts",
+   "equipment_class": "other equipment",
+   "installed_location": "Lieutenant Colonel Charles S. Kettles VA Medical Center, Ann Arbor, MI",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "ThinPrep 5000",
+   "part": "Preventative and Emergency Repair Maintenance agreement including non-refurbished materials, labor, transportation for Cytoprocessor",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC",
+   "reason": "Preventative and Emergency Repair Maintenance agreement including non-refurbished materials, labor, transportation necessary to perform maintenance/preventative maintenance",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Lieutenant Colonel Charles S. Kettles VA Medical Center, Ann Arbor, MI",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9347,
+  "out": 1316
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hill-Rom",
+   "model": "ICU Progressa+ Surface Upgrade Kit",
+   "part": "three Hill-Rom ICU Progressa+Surface Upgrade Kits, including all parts, labor, travel, and onsite installation",
+   "part_numbers": [],
+   "quantity": "three",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hill-Rom",
+   "reason": "contracting officers may solicit from one source if the contracting officer determines that the circumstance of the contract action deem only one source reasonably available",
+   "equipment_class": "other equipment",
+   "installed_location": "Clinical Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3159,
+  "out": 230
+ },
+ "model": "claude-sonnet-5"
+}

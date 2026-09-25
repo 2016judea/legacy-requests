@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "New 200 AMP Power Cable to service the North and South Docks",
+   "part_numbers": [],
+   "quantity": "350 Linear Feet",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Floats, Inc. (DBA: Bellingham Marine)",
+   "reason": "Bellingham Marine is the active on-site contractor executing the primary floating dock replacement.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "USCG Sector St. Petersburg, FL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "4C #1/0 Copper Portable Power Cable to re-feed the North and South Docks",
+   "part_numbers": [],
+   "quantity": "As Required",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Floats, Inc. (DBA: Bellingham Marine)",
+   "reason": "Bellingham Marine is the active on-site contractor executing the primary floating dock replacement.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "USCG Sector St. Petersburg, FL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Tie-in of new cabling to existing circuit breakers to power two (2) newly installed pedestals",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Florida Floats, Inc. (DBA: Bellingham Marine)",
+   "reason": "Bellingham Marine is the active on-site contractor executing the primary floating dock replacement.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "USCG Sector St. Petersburg, FL",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3075,
+  "out": 1114
+ },
+ "model": "claude-sonnet-5"
+}

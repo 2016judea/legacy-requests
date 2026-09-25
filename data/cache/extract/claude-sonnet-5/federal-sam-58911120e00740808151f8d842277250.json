@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "SUPPORT, STRUCTURAL",
+   "part_numbers": [
+    "1560-01-616-4752"
+   ],
+   "quantity": "120(EAQ)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "WELDMAC MFG CO",
+   "reason": "The acquisition is restricted to the only source(s) of supply known to have the capability of furnishing the required supplies/services.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7559,
+  "out": 186
+ },
+ "model": "claude-sonnet-5"
+}

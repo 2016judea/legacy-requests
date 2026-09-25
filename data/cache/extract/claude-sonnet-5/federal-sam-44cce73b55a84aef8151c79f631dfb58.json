@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Watteredge, Inc",
+   "model": null,
+   "part": "FLEXIBLE BUS BAR ASSY W / THERMISTOR HOLE",
+   "part_numbers": [
+    "7525916-43"
+   ],
+   "quantity": "32 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Watteredge, Inc",
+   "reason": "This requirement is brand name mandatory to Watteredge, Inc. due to these bus bars area direct replacement for the existing bus bars installed in the battery system.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Portsmouth Naval Shipyard",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Watteredge, Inc",
+   "model": null,
+   "part": "FLEXIBLE BUS BAR ASSY",
+   "part_numbers": [
+    "7525916-41"
+   ],
+   "quantity": "32 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Watteredge, Inc",
+   "reason": "This requirement is brand name mandatory to Watteredge, Inc. due to these bus bars area direct replacement for the existing bus bars installed in the battery system.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Portsmouth Naval Shipyard",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14490,
+  "out": 450
+ },
+ "model": "claude-sonnet-5"
+}

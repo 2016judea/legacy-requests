@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Mettler Toledo",
+   "model": "XPR10003SC",
+   "part": "10 kg capacity, 1 mg readability laboratory grade mass comparator",
+   "part_numbers": [
+    "XPR10003SC"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "5 weeks after receipt of order",
+   "sole_source_vendor": "Mettler Toledo",
+   "reason": "FMG\u2019s project protocols have been designed around the features of the proprietary Mettler Toledo mass comparator and only an instrument with the same properties is compatible with the existing protocols.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NIST Gaithersburg Building 230/Room 129",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10307,
+  "out": 252
+ },
+ "model": "claude-sonnet-5"
+}

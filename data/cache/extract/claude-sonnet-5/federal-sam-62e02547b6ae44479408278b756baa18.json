@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "The Protective Group (TPG)",
+   "model": "Hybrid Enhanced Ballistic Protection System (HEBPS)",
+   "part": "Replacement HEBPS components to restore damaged or non-functional ballistic protection kits",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Atlantic Diving Supply, Inc. (ADS)",
+   "reason": "TPG manufactures HEBPS components and has confirmed Atlantic Diving Supply, Inc. (ADS) as their exclusive authorized distributor, both open market and on Schedule.",
+   "equipment_class": "other equipment",
+   "installed_location": "CH-47 Chinook helicopters",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2326,
+  "out": 495
+ },
+ "model": "claude-sonnet-5"
+}

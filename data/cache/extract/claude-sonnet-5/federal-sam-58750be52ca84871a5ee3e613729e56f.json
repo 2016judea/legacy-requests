@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "ABB",
+   "model": null,
+   "part": "MOTOR,ALTERNATING C",
+   "part_numbers": [
+    "801635-526"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ABB Motors & Mechanical Inc.",
+   "reason": "There is no authorized substitutes of this item, as this is the only item known to meet performance and compatibility requirements.",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3632,
+  "out": 179
+ },
+ "model": "claude-sonnet-5"
+}

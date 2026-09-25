@@ -1,0 +1,45 @@
+{
+ "records": [
+  {
+   "manufacturer": "Getinge",
+   "model": null,
+   "part": "Lifecycle replacement of Steam Sterilizer System (Autoclave), 275L chamber, freestanding unit",
+   "part_numbers": [
+    "PACS 3500"
+   ],
+   "quantity": "One (1) new system",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Getinge USA Sales, LLC",
+   "reason": "Getinge is the only known manufacturer whose 275L unit complies with the strict physical room dimensions.",
+   "equipment_class": "other equipment",
+   "installed_location": "USAFA Dean of Faculty Department of Biology (DFBI) laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Getinge",
+   "model": null,
+   "part": "Lifecycle replacement of Reverse Osmosis (RO) Water Treatment System, wall-mounted with bladder tank",
+   "part_numbers": [],
+   "quantity": "One (1) new system",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Getinge USA Sales, LLC",
+   "reason": "Standardizing on Getinge equipment allows the Government to integrate this new system under the existing active maintenance contract immediately.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "USAFA Dean of Faculty Department of Biology (DFBI) laboratory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3389,
+  "out": 1226
+ },
+ "model": "claude-sonnet-5"
+}

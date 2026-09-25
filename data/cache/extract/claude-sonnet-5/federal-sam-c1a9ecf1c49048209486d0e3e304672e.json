@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Nanalysis",
+   "model": "AUTOsample-100",
+   "part": "Autosampler for existing Nanalysis 100 MHz benchtop NMR system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "Delivery shall occur within 60 calendar days from date of award.",
+   "sole_source_vendor": null,
+   "reason": "This is a Brand Name or Equal requirement.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDA/CDER/OPQR 645 Newstead Ave., St Louis, MO 63110",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4380,
+  "out": 790
+ },
+ "model": "claude-sonnet-5"
+}

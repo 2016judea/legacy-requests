@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "LEIDOS",
+   "model": "INSERT, HULL, TYPE H, NON-PRESSURE",
+   "part": "LEIDOS INSERT, NPH 5.500 OD",
+   "part_numbers": [
+    "BR8-1A10072-501"
+   ],
+   "quantity": "24 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "LEIDOS, INC",
+   "reason": "Intend to Sole Source - LEIDOS, INC 1750 Presidents ST FL 10 Reston, Virginia 20190-5617, United States",
+   "equipment_class": "other equipment",
+   "installed_location": "PEARL HARBOR NAVAL SHIPYARD IMF",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8125,
+  "out": 252
+ },
+ "model": "claude-sonnet-5"
+}

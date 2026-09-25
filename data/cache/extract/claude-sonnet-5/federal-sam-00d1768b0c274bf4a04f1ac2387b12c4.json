@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cubic Defense Applications, Inc.",
+   "model": "MILES IWS2",
+   "part": "Multiple Integrated Laser Engagement System - Individual Weapon System 2 (MILES-IWS2) kits, including harnesses, halos, and Small Arms Transmitters",
+   "part_numbers": [],
+   "quantity": "55",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Cubic Defense Applications, Inc.",
+   "reason": "This equipment is proprietary to Cubic, the Original Equipment Manufacturer (OEM). Cubic possesses unique qualifications that include proprietary hardware and software architectures, knowledge of the equipment\\u2019s design, and the technical data required to ensure mission-critical interoperability with U.S. and Allied forces during joint training exercises.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Senegal",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3327,
+  "out": 326
+ },
+ "model": "claude-sonnet-5"
+}

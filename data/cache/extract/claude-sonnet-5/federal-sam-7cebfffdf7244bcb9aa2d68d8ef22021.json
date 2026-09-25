@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Astronautics Corporation of America",
+   "model": "EFHD",
+   "part": "Engine Fuel Hydraulic Display (EFHD) depot activation, field/depot-level support, engineering for future variants, provisioning and support equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Astronautics Corporation of America",
+   "reason": "Astronautics Corporation of America is the only responsible Original Equipment Manufacturer (OEM) capable of providing the EFHD and associated technical data rights necessary for Depot Activation of the EFHDs.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "F-15EX aircraft",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6259,
+  "out": 264
+ },
+ "model": "claude-sonnet-5"
+}

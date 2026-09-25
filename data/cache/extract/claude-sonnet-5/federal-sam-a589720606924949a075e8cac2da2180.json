@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "YRBM 68-71",
+   "part": "Detail, Development, and Construction (DD&C) of four (4) Yard Repair Berthing and Messing Barges (YRBM), designated YRBM 68-71",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": 122375200,
+   "lead_time": null,
+   "sole_source_vendor": "Conrad Shipyard LLC",
+   "reason": "This contract was awarded on a sole-source basis in accordance with 10 U.S.C. \u00a7 3204(a)(3), industrial mobilization.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2277,
+  "out": 229
+ },
+ "model": "claude-sonnet-5"
+}

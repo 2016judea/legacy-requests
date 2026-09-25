@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "Crane Pumps & Systems PFT Corp",
+   "model": null,
+   "part": "Centrifugal Pump Unit",
+   "part_numbers": [
+    "777H440",
+    "4320-00-368-3186"
+   ],
+   "quantity": "6 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Crane Pumps & Systems PFT Corp",
+   "reason": "The required Centrifugal Pumps, configured per AEL 2-88MSC2001, are only available from the Original Equipment Manufacturer (OEM), Crane Pumps & Systems PFT Corp.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2592,
+  "out": 235
+ },
+ "model": "claude-sonnet-5"
+}

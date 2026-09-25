@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Baxter/Hill-Rom",
+   "model": "Progressa + ICU Bed System",
+   "part": "Brand Name or Equal Baxter/Hill-Rom Progressa + ICU Bed System",
+   "part_numbers": [
+    "P7501A000032"
+   ],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This is a \"brand name or equal\" requirement.",
+   "equipment_class": "other equipment",
+   "installed_location": "CAVHS 2200 Fort Roots Drive Building 182 (Warehouse) NLR, Arkansas 72114",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7038,
+  "out": 519
+ },
+ "model": "claude-sonnet-5"
+}

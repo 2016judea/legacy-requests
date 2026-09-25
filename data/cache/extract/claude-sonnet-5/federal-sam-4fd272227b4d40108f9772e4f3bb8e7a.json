@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "HHE Services, Inc.",
+   "model": null,
+   "part": "Bushings",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "HHE Services, Inc.",
+   "reason": "This Solicitation is a SOLE SOURCE REQUIREMENT for HHE Services, Inc., the use of improper bushings can lead to failure and result in safety concerns for personnel equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "SASEBO, JAPAN",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3677,
+  "out": 205
+ },
+ "model": "claude-sonnet-5"
+}

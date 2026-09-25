@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hubbell",
+   "model": "MSH320-0-30SLT4",
+   "part": "Hubbell Marine Electric Water Heater, cement lined, 320 gallon capacity, 30 kW electric coil, ASME Section IV stamped",
+   "part_numbers": [
+    "MSH320-0-30SLT4",
+    "803-5959226"
+   ],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The current one being used is old and Bonding agent between copper lining of vessel has failed, CGY does not have the copper-smithing capacity to perform permanent repairs to copper lining.",
+   "equipment_class": "other equipment",
+   "installed_location": "USCGC 270' Campbell",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8357,
+  "out": 754
+ },
+ "model": "claude-sonnet-5"
+}

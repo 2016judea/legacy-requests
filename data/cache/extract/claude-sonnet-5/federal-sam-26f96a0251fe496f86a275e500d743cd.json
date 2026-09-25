@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Evoqua Water Technologies LLC",
+   "model": null,
+   "part": "Refurbished power supply unit for chloropac generator",
+   "part_numbers": [
+    "W2T819865"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies LLC",
+   "reason": "The sole source is the only responsible source based on the required unit being a critical safety item. The OEM retains proprietary rights and knowledge to the technical data of the requested parts for a power supply unit for the chloropac generator.",
+   "equipment_class": "other equipment",
+   "installed_location": "USS MIGUEL KEITH (ESB-5)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8042,
+  "out": 246
+ },
+ "model": "claude-sonnet-5"
+}

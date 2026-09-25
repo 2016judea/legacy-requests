@@ -1,0 +1,128 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vescent Technologies, Inc.",
+   "model": "Stabilaser 1542E",
+   "part": "1542 nm Stabilized Laser Optical Frequency Reference",
+   "part_numbers": [
+    "Stabilaser 1542E"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vescent Technologies, Inc. (DBA Vescent Photonics, LLC)",
+   "reason": "The government-owned frequency comb operating at the USAFA LORC is a proprietary, closed-architecture platform designed and manufactured exclusively by Vescent Technologies, Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "United States Air Force Academy (USAFA) Laser and Optics Research Center (LORC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vescent Technologies, Inc.",
+   "model": "RUBRICOMB-100-RHT1542",
+   "part": "Core platform exchange upgrade for optical locking at 1542.4 nm",
+   "part_numbers": [
+    "RUBRICOMB-100-RHT1542"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vescent Technologies, Inc. (DBA Vescent Photonics, LLC)",
+   "reason": "The government-owned frequency comb operating at the USAFA LORC is a proprietary, closed-architecture platform designed and manufactured exclusively by Vescent Technologies, Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "United States Air Force Academy (USAFA) Laser and Optics Research Center (LORC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vescent Technologies, Inc.",
+   "model": "RUBRIColor Chassis",
+   "part": "RUBRIColor Chassis & 4 Wavelength Extension Modules configured for target atomic transition wavelengths",
+   "part_numbers": [
+    "EXT-HS780",
+    "EXT-HS882",
+    "EXT-HS993",
+    "EXT-H1010"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vescent Technologies, Inc. (DBA Vescent Photonics, LLC)",
+   "reason": "Hardware and modules from alternative manufacturers operate on incompatible optical repetition rates, distinct fiber interconnect types, and non-interoperable closed-loop feedback card protocols.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "United States Air Force Academy (USAFA) Laser and Optics Research Center (LORC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vescent Technologies, Inc.",
+   "model": "SLICE-OPL",
+   "part": "Offset Phase Lock Servos: Fast analog PID loops with >8 MHz bandwidth",
+   "part_numbers": [
+    "SLICE-OPL"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vescent Technologies, Inc. (DBA Vescent Photonics, LLC)",
+   "reason": "These alternative systems are physically and electronically incompatible with the existing Vescent infrastructure.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "United States Air Force Academy (USAFA) Laser and Optics Research Center (LORC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vescent Technologies, Inc.",
+   "model": "SLICE-QTC",
+   "part": "Four-channel thermal controller & Slide Rackmounts",
+   "part_numbers": [
+    "SLICE-QTC"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vescent Technologies, Inc. (DBA Vescent Photonics, LLC)",
+   "reason": "The requested hardware modules must physically slide into, optically seed from, and electronically loop-lock with the pre-existing Vescent core architecture.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "United States Air Force Academy (USAFA) Laser and Optics Research Center (LORC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vescent Technologies, Inc.",
+   "model": "Quarto-101",
+   "part": "High-speed experimental data acquisition controller",
+   "part_numbers": [
+    "Quarto-101"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vescent Technologies, Inc. (DBA Vescent Photonics, LLC)",
+   "reason": "The government-owned frequency comb operating at the USAFA LORC is a proprietary, closed-architecture platform designed and manufactured exclusively by Vescent Technologies, Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "United States Air Force Academy (USAFA) Laser and Optics Research Center (LORC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vescent Technologies, Inc.",
+   "model": null,
+   "part": "On-site Training & Installation: Direct technical OEM integration support at USAFA",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vescent Technologies, Inc. (DBA Vescent Photonics, LLC)",
+   "reason": "A competitive award to any other vendor would require the government to completely abandon its pre-existing investment and purchase a completely new system plus additional costs in auxiliary technical labor, fiber splicing, and custom software rebuilding.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "United States Air Force Academy (USAFA) Laser and Optics Research Center (LORC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3350,
+  "out": 3413
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,87 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Science on a Sphere (SOS)",
+   "part": "turnkey installation of a Science On a Sphere (SOS) visualization system at the NOAA Satellite Operations Facility (NSOF)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "12 months from Notice to Proceed (NTP)",
+   "sole_source_vendor": "B/W Color Prints LLC (dba BWC Visual Technology)",
+   "reason": "BWC Visual Technology is the sole authorized partner for the SOS system in North America under CRADA CR-188 (active through March 2029)",
+   "equipment_class": "other equipment",
+   "installed_location": "NOAA Satellite Operations Facility (NSOF) in Suitland, MD",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Wibu Dongle",
+   "part": "proprietary SOS hardware and software (Operating System, Wibu Dongle, and \"SOS RoboGuide\" suite)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "B/W Color Prints LLC (dba BWC Visual Technology)",
+   "reason": "the proprietary SOS codebase and the Wibu Dongle hardware key, both of which are exclusively distributed and supported by BWC in North America",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "NOAA Satellite Operations Facility (NSOF) in Suitland, MD",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Alignment Pro",
+   "part": "specialized technical installation utilizing the patented Alignment Pro system",
+   "part_numbers": [
+    "U.S. Patent No. 18/188,075"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "B/W Color Prints LLC (dba BWC Visual Technology)",
+   "reason": "holds exclusive rights to the \"Alignment Pro\" system (U.S. Patent No. 18/188,075)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NOAA Satellite Operations Facility (NSOF) in Suitland, MD",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "60-inch diameter sphere",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "B/W Color Prints LLC (dba BWC Visual Technology)",
+   "reason": "The 60-inch sphere must be suspended with millimeter precision to ensure the four projectors can seamlessly stitch images via BWC's proprietary software.",
+   "equipment_class": "other equipment",
+   "installed_location": "NOAA Satellite Operations Facility (NSOF) in Suitland, MD",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "four video projectors to display animated environmental data onto a 60-inch diameter sphere",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "B/W Color Prints LLC (dba BWC Visual Technology)",
+   "reason": "a specialized visualization system utilizing computers and four video projectors to display animated environmental data onto a 60-inch diameter sphere",
+   "equipment_class": "other equipment",
+   "installed_location": "NOAA Satellite Operations Facility (NSOF) in Suitland, MD",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4865,
+  "out": 2418
+ },
+ "model": "claude-sonnet-5"
+}

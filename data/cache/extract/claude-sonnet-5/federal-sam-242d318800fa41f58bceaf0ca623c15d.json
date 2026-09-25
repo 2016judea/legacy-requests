@@ -1,0 +1,175 @@
+{
+ "records": [
+  {
+   "manufacturer": "Steris",
+   "model": "VISION 1327",
+   "part": "Cart and Utensils Washer/Disinfector, 200-208V, 60hz, Steam Heated, Double power doors, 304 Chamber",
+   "part_numbers": [
+    "FW05201"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "cart and utensils washer/disinfector brand name or equal to Steris VISION to include installation of new system, removal and disposal of old Steris system",
+   "equipment_class": "other equipment",
+   "installed_location": "Mann-Grandstaff VA Medical Center, 4815 N. Assembly Street, Spokane, WA 99205-6185",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Steris",
+   "model": "VISION 1327",
+   "part": "Hepa Filter",
+   "part_numbers": [
+    "FS325"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Cart washer should have a HEPA-filtered drying system and automatic floor tilt to facilitate thorough drying directly after the cycle.",
+   "equipment_class": "other equipment",
+   "installed_location": "Mann-Grandstaff VA Medical Center, 4815 N. Assembly Street, Spokane, WA 99205-6185",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Steris",
+   "model": "Vision 1321/1327/1330",
+   "part": "Vision 1321/1327/1330 Cart Washers Steam Condensate Return to Drain",
+   "part_numbers": [
+    "FD479"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "cart and utensils washer/disinfector brand name or equal to Steris VISION",
+   "equipment_class": "other equipment",
+   "installed_location": "Mann-Grandstaff VA Medical Center, 4815 N. Assembly Street, Spokane, WA 99205-6185",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Steris",
+   "model": "VISION 1327",
+   "part": "Common Service Area Junction Panels",
+   "part_numbers": [
+    "FD328"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "cart and utensils washer/disinfector brand name or equal to Steris VISION",
+   "equipment_class": "other equipment",
+   "installed_location": "Mann-Grandstaff VA Medical Center, 4815 N. Assembly Street, Spokane, WA 99205-6185",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Steris",
+   "model": "VISION 1327",
+   "part": "Vision 1327 Exterior Service Side Panels",
+   "part_numbers": [
+    "FD330"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "cart and utensils washer/disinfector brand name or equal to Steris VISION",
+   "equipment_class": "other equipment",
+   "installed_location": "Mann-Grandstaff VA Medical Center, 4815 N. Assembly Street, Spokane, WA 99205-6185",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Steris",
+   "model": "VISION 1327",
+   "part": "Vision 1327 Non-Service Side Panels",
+   "part_numbers": [
+    "FD331"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "cart and utensils washer/disinfector brand name or equal to Steris VISION",
+   "equipment_class": "other equipment",
+   "installed_location": "Mann-Grandstaff VA Medical Center, 4815 N. Assembly Street, Spokane, WA 99205-6185",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Steris",
+   "model": "VISION 1327",
+   "part": "Install Vision Cart Washer",
+   "part_numbers": [
+    "SE101372"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Task 2 - Install new unit Install the new unit and how up all components and ready the machine for use.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Mann-Grandstaff VA Medical Center, 4815 N. Assembly Street, Spokane, WA 99205-6185",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Steris",
+   "model": "VISION",
+   "part": "Deinstall Cart Washer",
+   "part_numbers": [
+    "SE1010021"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Task 1 - Deinstall the old unit Remove the old unit from the service line and place it in an area to ready for disposal.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Mann-Grandstaff VA Medical Center, 4815 N. Assembly Street, Spokane, WA 99205-6185",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Steris",
+   "model": "VISION",
+   "part": "Disposal of Cart/Tunnel Washer",
+   "part_numbers": [
+    "SE10100000071"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Task 3 - Removal of old Equipment Old equipment should be staged so that the contractor can have the old unit removed from the premises.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Mann-Grandstaff VA Medical Center, 4815 N. Assembly Street, Spokane, WA 99205-6185",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Steris",
+   "model": "VISION",
+   "part": "1st Year Preventive Care Vision Cart Washer",
+   "part_numbers": [
+    "SE101371"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "cart and utensils washer/disinfector brand name or equal to Steris VISION to include installation of new system, removal and disposal of old Steris system",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Mann-Grandstaff VA Medical Center, 4815 N. Assembly Street, Spokane, WA 99205-6185",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8121,
+  "out": 3502
+ },
+ "model": "claude-sonnet-5"
+}

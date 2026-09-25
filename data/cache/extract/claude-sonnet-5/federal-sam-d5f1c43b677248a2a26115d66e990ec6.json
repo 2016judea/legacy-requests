@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "WIRING HARNESS, BRAN",
+   "part_numbers": [
+    "6150-01-295-5951"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "JUSTIFICATION FOR OTHER THAN FULL AND OPEN COMPETITION FOR SOLE SOURCE AND LIMITED COMPETITION",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1996,
+  "out": 190
+ },
+ "model": "claude-sonnet-5"
+}

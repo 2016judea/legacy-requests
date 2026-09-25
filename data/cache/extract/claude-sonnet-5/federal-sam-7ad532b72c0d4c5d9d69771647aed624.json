@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Troll Systems",
+   "model": "X750",
+   "part": "Remote Site Controller for AVDL ground receive stations",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Troll Systems",
+   "reason": "Troll Systems is the Original Equipment Manufacturer for the Troll X750 Remote Site Controllers.",
+   "equipment_class": "communications/radio",
+   "installed_location": "AMO AVDL ground receive stations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Troll Systems",
+   "model": "Linkbox",
+   "part": "Aircraft-mounted video transmitting equipment for AVDL system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Troll Systems",
+   "reason": "As the aircraft are now equipped with the Troll Linkbox, the optimal receive site configuration (antenna controllers and receivers) must be Troll.",
+   "equipment_class": "communications/radio",
+   "installed_location": "CBP aircraft (fixed wing and helicopters)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Troll Systems",
+   "model": null,
+   "part": "Antenna controllers and receivers for AVDL terrestrial ground receive sites",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Troll Systems",
+   "reason": "the optimal receive site configuration (antenna controllers and receivers) must be Troll.",
+   "equipment_class": "communications/radio",
+   "installed_location": "AMO Terrestrial Sites",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Troll Systems",
+   "model": null,
+   "part": "Spares and repair parts for AVDL ground receive station equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Troll Systems",
+   "reason": "Troll Systems is the only known source that can provide the required parts and repair services as parts are proprietary to Troll Systems and only Troll Systems has the specifications information.",
+   "equipment_class": "communications/radio",
+   "installed_location": "AMO Terrestrial Sites",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4012,
+  "out": 1014
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Diversified Technical Systems",
+   "model": "SLICE6 AIR",
+   "part": "DTS SLICE6 AIR Modules (base quantity, with option for 2 additional)",
+   "part_numbers": [
+    "13006-90910"
+   ],
+   "quantity": "2 (base) + 2 (option)",
+   "price_usd": null,
+   "lead_time": "35 days ARO",
+   "sole_source_vendor": "Diversified Technical Systems, Inc. (DTS)",
+   "reason": "The 846th Test Squadron (846 TS) operates the Holloman High Speed Test Track (HHSTT) and currently utilizes the proprietary DTS Slice6 AIRs system as its primary data acquisition architecture.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Holloman Air Force Base, New Mexico",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7797,
+  "out": 291
+ },
+ "model": "claude-sonnet-5"
+}

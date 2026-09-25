@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Advantor",
+   "model": "Advantor 6.2",
+   "part": "Purchase and installation of Advantor 6.2 security system (upgrade from ASN 5.0)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ADVANTOR SYSTEMS CORPORATION",
+   "reason": "The transition to Advantor 6.2 is a mandated end-of-life status of the ASN 5.0 and the requirement for a secure, Windows 10-compliant operating environment.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Base Defense Operations Center (BDOC), 171st Air Refueling Wing, Pennsylvania Air National Guard",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2357,
+  "out": 351
+ },
+ "model": "claude-sonnet-5"
+}

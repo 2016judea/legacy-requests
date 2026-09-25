@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Scienco/FAST Systems",
+   "model": null,
+   "part": "Proprietary OEM parts to overhaul the Marine Sanitation Device (MSD) on board the USACE Essayons",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Scienco/FAST Systems",
+   "reason": "the purchase the required proprietary OEM parts to overhaul the Marine Sanitation Device (MSD) on board the USACE Essayons",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "USACE Essayons",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2993,
+  "out": 240
+ },
+ "model": "claude-sonnet-5"
+}

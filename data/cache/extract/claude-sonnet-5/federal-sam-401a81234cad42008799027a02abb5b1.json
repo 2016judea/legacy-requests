@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sauer Compressors USA Inc",
+   "model": "WP5000",
+   "part": "Cooler Housing",
+   "part_numbers": [
+    "062653"
+   ],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sauer Compressors USA Inc",
+   "reason": "This requirement is brand name to Sauer Compressor USA Inc due to need to ensure operational safety, reliability and maintain system integrity, the replacement part must be compatible in all aspects (form, fit, and function) with existing equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS SALVOR (T-ARS 52)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8104,
+  "out": 240
+ },
+ "model": "claude-sonnet-5"
+}

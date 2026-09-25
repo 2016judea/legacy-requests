@@ -1,0 +1,63 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rotary Coupler Overhaul",
+   "part_numbers": [
+    "2257C"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": "28 weeks",
+   "sole_source_vendor": "Diamond Antenna & Microwave Corp.",
+   "reason": "Vendors must be Diamond Antenna & Microwave Corp. authorized distributor who is the OEM and provide documentation to be considered.",
+   "equipment_class": "communications/radio",
+   "installed_location": "NAWCAD WOLF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rotary Coupler Overhaul",
+   "part_numbers": [
+    "2257D"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": "28 weeks",
+   "sole_source_vendor": "Diamond Antenna & Microwave Corp.",
+   "reason": "Vendors must be Diamond Antenna & Microwave Corp. authorized distributor who is the OEM and provide documentation to be considered.",
+   "equipment_class": "communications/radio",
+   "installed_location": "NAWCAD WOLF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rotary Coupler \"New\"",
+   "part_numbers": [
+    "15-2261-0"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Diamond Antenna & Microwave Corp.",
+   "reason": "Vendors must be Diamond Antenna & Microwave Corp. authorized distributor who is the OEM and provide documentation to be considered.",
+   "equipment_class": "communications/radio",
+   "installed_location": "NAWCAD WOLF",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8229,
+  "out": 2131
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sperre Air Power AS",
+   "model": null,
+   "part": "Air Compressor Kit 10K MDE Overhaul (Main Diesel Engine overhaul kit)",
+   "part_numbers": [
+    "000T23191697",
+    "0000T23191697"
+   ],
+   "quantity": "2 Kit",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "17 Machinery, LLC",
+   "reason": "This requirement is sole sourced to 17 Machinery due to being the only Authorized Distributor for Sperre Air Power AS doing business with the Government.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Richard E Byrd",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8065,
+  "out": 239
+ },
+ "model": "claude-sonnet-5"
+}

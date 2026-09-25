@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Millipore-Sigma",
+   "model": "Steritest Symbio LFH pump",
+   "part": "closed-filtration sterility pump compatible with Steritest membrane filtration canister devices, for use in laminar flow hood",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "Delivery shall occur within 90 calendar days from date of award.",
+   "sole_source_vendor": null,
+   "reason": "The acquisition of a \"Brand Name or Equal\" Millipore-Sigma Steritest LFH pump will ensure compatibility with existing Millipore-Sigma Steritest ISL test kits, allowing their continued use with the new closed-filtration pump",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDA/IRVLMP 19701 Fairchild Irvine, CA 92612",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4512,
+  "out": 845
+ },
+ "model": "claude-sonnet-5"
+}

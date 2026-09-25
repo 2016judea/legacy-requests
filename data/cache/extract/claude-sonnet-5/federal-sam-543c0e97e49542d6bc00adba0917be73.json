@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kahlenberg Industries Inc",
+   "model": "KPH-90",
+   "part": "Electric Piston Horn, 7-1/2 H.P., 220/440 V.A.C., 3 PH. 60 HZ, WITH 120 VOLT A.C. HEATERS FOR MOTOR AND CRANKCASE PER DRG. 3-7221 (MILITARY VERSION)",
+   "part_numbers": [
+    "KPH-90"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kahlenberg Industries Inc",
+   "reason": "The OEM is the only authorized source to ensure compatibility for form, fit, and function with existing equipment or configurations.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS SACAGAWEA (T-AKE 2)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8111,
+  "out": 305
+ },
+ "model": "claude-sonnet-5"
+}

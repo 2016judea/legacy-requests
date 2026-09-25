@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Allison",
+   "model": "4700SP_P (4th Generation) Factory ReTran",
+   "part": "Automatic transmissions, factory-certified remanufactured, overhaul exchange of Government-owned units",
+   "part_numbers": [
+    "29572129"
+   ],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "41 U.S.C. 1903 as implemented by FAR 13.106-1(b)(1)(ii) Brand Name",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Naval Construction Training Center, 363 White House Way, Port Hueneme, CA 93043",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5546,
+  "out": 703
+ },
+ "model": "claude-sonnet-5"
+}

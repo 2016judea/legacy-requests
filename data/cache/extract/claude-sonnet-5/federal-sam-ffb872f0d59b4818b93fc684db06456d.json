@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Xtreme Engineering Solutions Inc. (X-ES)",
+   "model": "XPand1203",
+   "part": "Chassis, 3U, VPX, Dev Platform for Cond. cooled Modules, Pass through Backplane, w/RT3",
+   "part_numbers": [
+    "90072665-2"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Xtreme Engineering Solutions Inc. (X-ES)",
+   "reason": "X-ES is the Original Equipment Manufacturer (OEM) of the required chassis. X-ES does not have authorized resellers.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Xtreme Engineering Solutions Inc. (X-ES)",
+   "model": "XPand1007",
+   "part": "Chassis, 3U, VPX, 2 slot Cond. Cooled, Pass Through Backplane, RT3, XPm1520",
+   "part_numbers": [
+    "90075300-4"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Xtreme Engineering Solutions Inc. (X-ES)",
+   "reason": "X-ES is the Original Equipment Manufacturer (OEM) of the required chassis. X-ES does not have authorized resellers.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3631,
+  "out": 507
+ },
+ "model": "claude-sonnet-5"
+}

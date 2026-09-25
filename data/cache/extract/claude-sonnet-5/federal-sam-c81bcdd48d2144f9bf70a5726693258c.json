@@ -1,0 +1,34 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Chute, Ammunition, flexible",
+   "part_numbers": [
+    "1005-01-176-6086",
+    "12328757-2",
+    "S255023-102",
+    "12328757"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SAI",
+   "reason": "Based upon prior history, this item has been sole source to SAI since at least 2003.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2837,
+  "out": 174
+ },
+ "model": "claude-sonnet-5"
+}

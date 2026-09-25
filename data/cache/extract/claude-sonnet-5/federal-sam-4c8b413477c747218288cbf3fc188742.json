@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "The Boeing Company",
+   "model": null,
+   "part": "Windscreen Fixture",
+   "part_numbers": [
+    "RE174350002-5"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "The Boeing Company",
+   "reason": "Market research confirms that the Original Equipment Manufacturer (OEM), The Boeing Company, manufacture's the F/A-18 platform and is the only known qualified source capable of satisfying the Government's specific requirements and mission for this procurement.",
+   "equipment_class": "other equipment",
+   "installed_location": "FRCSW NASNI, North Island, San Diego, CA",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "The Boeing Company",
+   "model": null,
+   "part": "Alignment Set",
+   "part_numbers": [
+    "AK174350002-5"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "The Boeing Company",
+   "reason": "Market research confirms that the Original Equipment Manufacturer (OEM), The Boeing Company, manufacture's the F/A-18 platform and is the only known qualified source capable of satisfying the Government's specific requirements and mission for this procurement.",
+   "equipment_class": "other equipment",
+   "installed_location": "FRCSW NASNI, North Island, San Diego, CA",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "The Boeing Company",
+   "model": null,
+   "part": "Tool Kit",
+   "part_numbers": [
+    "RE274350002-5"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "The Boeing Company",
+   "reason": "Market research confirms that the Original Equipment Manufacturer (OEM), The Boeing Company, manufacture's the F/A-18 platform and is the only known qualified source capable of satisfying the Government's specific requirements and mission for this procurement.",
+   "equipment_class": "other equipment",
+   "installed_location": "FRCSW NASNI, North Island, San Diego, CA",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "The Boeing Company",
+   "model": null,
+   "part": "Maintenance Stands",
+   "part_numbers": [
+    "RE474000002-1"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "The Boeing Company",
+   "reason": "Market research confirms that the Original Equipment Manufacturer (OEM), The Boeing Company, manufacture's the F/A-18 platform and is the only known qualified source capable of satisfying the Government's specific requirements and mission for this procurement.",
+   "equipment_class": "other equipment",
+   "installed_location": "FRCSW NASNI, North Island, San Diego, CA",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8295,
+  "out": 1316
+ },
+ "model": "claude-sonnet-5"
+}

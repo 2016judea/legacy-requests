@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": "Raytheon",
+   "model": "AN/TPY-2",
+   "part": "AN/TPY-2 radar development, sustainment and production",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Raytheon",
+   "reason": "As the original product developer for the X-Band Radar for MDA for over 25 years, Raytheon possesses the highly specialized technical expertise and infrastructure required to meet the Agency\u2019s requirements within the required timeline.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Raytheon",
+   "model": "AEU",
+   "part": "Test Antenna Equipment Unit (AEU) with Spares Replenishment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Raytheon",
+   "reason": "This Test AEU will enable hardware and software upgrades to be developed and verified without impacting warfighter missions, resulting in a more mature product and reduced risk of operational downtime.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Raytheon",
+   "model": "AEU",
+   "part": "Float AEU (operational spare)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Raytheon",
+   "reason": "An operational AEU spare is required to mitigate downtime when a unit experiences AEU failure. The Float AEU temporarily takes the place of an AEU that will be returned for depot-level refurbishment.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Raytheon",
+   "model": "AEU",
+   "part": "AEU refurbishment program (planned refurbishment of operational asset)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Raytheon",
+   "reason": "the AEU refurbishment program provides a planned refurbishment of an operational asset yielding improved performance and increased service life.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Raytheon",
+   "model": "GaN TRIMM",
+   "part": "OEM-produced GaN TRIMM component for AEU/radar",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Raytheon",
+   "reason": "A key factor in mitigating schedule risk is the direct inclusion of OEM-produced components and software, such as GaN TRIMMs, AC/DC Converters, and Common X-Band Software.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Raytheon",
+   "model": null,
+   "part": "AC/DC Converter (OEM-produced component)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Raytheon",
+   "reason": "A key factor in mitigating schedule risk is the direct inclusion of OEM-produced components and software, such as GaN TRIMMs, AC/DC Converters, and Common X-Band Software.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Raytheon",
+   "model": "Common X-Band Software",
+   "part": "OEM-produced Common X-Band Software for radar system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Raytheon",
+   "reason": "A key factor in mitigating schedule risk is the direct inclusion of OEM-produced components and software, such as GaN TRIMMs, AC/DC Converters, and Common X-Band Software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5986,
+  "out": 1926
+ },
+ "model": "claude-sonnet-5"
+}

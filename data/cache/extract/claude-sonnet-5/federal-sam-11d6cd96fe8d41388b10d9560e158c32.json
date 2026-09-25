@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "drive engine coupling",
+   "part_numbers": [
+    "2995-01-151-7675"
+   ],
+   "quantity": "EAQ:160each; 5-YearQty:800each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "DLA Weapons Support (Richmond); Parker-Hannifin Corp.; R&D Dynamics Corp.",
+   "reason": "The acquisition is restricted to the only source(s) of supply known to have the capability of furnishing the required supplies/services.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7222,
+  "out": 219
+ },
+ "model": "claude-sonnet-5"
+}

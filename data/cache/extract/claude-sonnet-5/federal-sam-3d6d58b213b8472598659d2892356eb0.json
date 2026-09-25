@@ -1,0 +1,33 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Skate Mount Assembly",
+   "part_numbers": [
+    "2350016129056",
+    "12522561",
+    "MTM-10199"
+   ],
+   "quantity": "20 units each year",
+   "price_usd": 12187.43,
+   "lead_time": null,
+   "sole_source_vendor": "Merrill Technologies Group Inc.",
+   "reason": "the item is not commercially available, part number 12522561 is owned by United States Government (CAGE 19207) and part number MTM-10199 is owned by Merrill Technologies Group Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": "M1 Abrams Tank",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4605,
+  "out": 224
+ },
+ "model": "claude-sonnet-5"
+}

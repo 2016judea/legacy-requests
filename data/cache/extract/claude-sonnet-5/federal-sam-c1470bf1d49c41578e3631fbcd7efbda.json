@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Enersys",
+   "model": null,
+   "part": "Brand Name OEM Enersys replacement batteries",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Solicitation number N0040626Q0125 is issued as a Request for Quotes (RFQ) for Brand Name Original Equipment Manufacturer (OEM) Enersys replacement batteries for the USS MOUNT WHITNEY (LCC-20)",
+   "equipment_class": "other equipment",
+   "installed_location": "USS MOUNT WHITNEY (LCC-20)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5015,
+  "out": 565
+ },
+ "model": "claude-sonnet-5"
+}

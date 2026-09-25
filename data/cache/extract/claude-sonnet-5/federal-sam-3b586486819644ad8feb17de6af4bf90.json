@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Meteorological Products Inc",
+   "model": "Jimsphere High Resolution Wind Profiler",
+   "part": "Jimsphere High Resolution Wind Profiler, 2-meter diameter, clear 1/2 mil polyester film",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Meteorological Products Inc",
+   "reason": "The Government does not possess the necessary information to service the equipment/items solicited hereunder from any source other than the OEM.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2379,
+  "out": 225
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "SIUS",
+   "model": "SIUS Ascor System",
+   "part": "Repair parts and expendables for the SUIS Automated Electronic Precision Target Scoring System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SIUS",
+   "reason": "Contract award will be made to the only contractor available, who is the sole manufacturer of parts for the SUIS target scoring system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fort Benning, Georgia",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2418,
+  "out": 234
+ },
+ "model": "claude-sonnet-5"
+}

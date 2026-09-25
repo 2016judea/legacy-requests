@@ -1,0 +1,255 @@
+{
+ "records": [
+  {
+   "manufacturer": "Polymedco",
+   "model": "OC-Sensor iO",
+   "part": "OC Auto-Sensor iO FOBT Analyzer Includes Extended Service",
+   "part_numbers": [
+    "OCSIO"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Polymedco Cancer Diagnostics Products LLC.",
+   "reason": "the original equipment manufacturer (OEM) for this requirement",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Chillicothe VA Medical Center, 17273 State Route 104, Chillicothe, Ohio 45601",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Polymedco",
+   "model": null,
+   "part": "Cost per Test (1 device per patient reportable)",
+   "part_numbers": [
+    "VA-CPT1"
+   ],
+   "quantity": "1000",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Polymedco Cancer Diagnostics Products LLC.",
+   "reason": "the original equipment manufacturer (OEM) for this requirement",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Chillicothe VA Medical Center, 17273 State Route 104, Chillicothe, Ohio 45601",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Polymedco",
+   "model": null,
+   "part": "Credit for Devices",
+   "part_numbers": [
+    "VAOC-CR"
+   ],
+   "quantity": "included",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Polymedco Cancer Diagnostics Products LLC.",
+   "reason": "the original equipment manufacturer (OEM) for this requirement",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Chillicothe VA Medical Center, 17273 State Route 104, Chillicothe, Ohio 45601",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Polymedco",
+   "model": "OC-Sensor iO",
+   "part": "OC-Sensor iO Latex Reagent (2 x 100)",
+   "part_numbers": [
+    "OCIOL"
+   ],
+   "quantity": "included",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Polymedco Cancer Diagnostics Products LLC.",
+   "reason": "the original equipment manufacturer (OEM) for this requirement",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Chillicothe VA Medical Center, 17273 State Route 104, Chillicothe, Ohio 45601",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Polymedco",
+   "model": "OC-Sensor iO",
+   "part": "OC-Sensor iO Calibration Kit (10 x 1ml, 2 x 45ml Diluent)",
+   "part_numbers": [
+    "OCIOC"
+   ],
+   "quantity": "included",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Polymedco Cancer Diagnostics Products LLC.",
+   "reason": "the original equipment manufacturer (OEM) for this requirement",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Chillicothe VA Medical Center, 17273 State Route 104, Chillicothe, Ohio 45601",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Polymedco",
+   "model": "OC-Sensor iO",
+   "part": "OC-Sensor iO Buffer 200 ml (660 Tests/Bottle)",
+   "part_numbers": [
+    "OCIOB"
+   ],
+   "quantity": "included",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Polymedco Cancer Diagnostics Products LLC.",
+   "reason": "the original equipment manufacturer (OEM) for this requirement",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Chillicothe VA Medical Center, 17273 State Route 104, Chillicothe, Ohio 45601",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Polymedco",
+   "model": "OC-Sensor iO",
+   "part": "OC-Sensor iO Negative Control (5 x 1 ml)",
+   "part_numbers": [
+    "OCQN"
+   ],
+   "quantity": "included",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Polymedco Cancer Diagnostics Products LLC.",
+   "reason": "the original equipment manufacturer (OEM) for this requirement",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Chillicothe VA Medical Center, 17273 State Route 104, Chillicothe, Ohio 45601",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Polymedco",
+   "model": "OC-Sensor iO",
+   "part": "OC-Sensor iO Positive Control (5 x 1 ml)",
+   "part_numbers": [
+    "OCIOQP"
+   ],
+   "quantity": "included",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Polymedco Cancer Diagnostics Products LLC.",
+   "reason": "the original equipment manufacturer (OEM) for this requirement",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Chillicothe VA Medical Center, 17273 State Route 104, Chillicothe, Ohio 45601",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Polymedco",
+   "model": "OC-Sensor iO",
+   "part": "OC-Sensor iO Wash Solution (1 x 120 ml)",
+   "part_numbers": [
+    "OCIOW"
+   ],
+   "quantity": "included",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Polymedco Cancer Diagnostics Products LLC.",
+   "reason": "the original equipment manufacturer (OEM) for this requirement",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Chillicothe VA Medical Center, 17273 State Route 104, Chillicothe, Ohio 45601",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Polymedco",
+   "model": "OC-Auto Micro 80",
+   "part": "OC-Auto Micro 80 Cuvettes (1 x 100)",
+   "part_numbers": [
+    "OC80CUV"
+   ],
+   "quantity": "included",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Polymedco Cancer Diagnostics Products LLC.",
+   "reason": "the original equipment manufacturer (OEM) for this requirement",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Chillicothe VA Medical Center, 17273 State Route 104, Chillicothe, Ohio 45601",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Polymedco",
+   "model": "OC-Auto Micro 80",
+   "part": "OC-Auto Micro 80 Instrument Cups (2 bags of 500)",
+   "part_numbers": [
+    "TT-88"
+   ],
+   "quantity": "included",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Polymedco Cancer Diagnostics Products LLC.",
+   "reason": "the original equipment manufacturer (OEM) for this requirement",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Chillicothe VA Medical Center, 17273 State Route 104, Chillicothe, Ohio 45601",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Polymedco",
+   "model": null,
+   "part": "Customized Personal Mailers Chillicothe 20 per box (1 device per mailer)",
+   "part_numbers": [
+    "OCPUIO-VA1 220117"
+   ],
+   "quantity": "50",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Polymedco Cancer Diagnostics Products LLC.",
+   "reason": "the original equipment manufacturer (OEM) for this requirement",
+   "equipment_class": "other equipment",
+   "installed_location": "Chillicothe VA Medical Center, 17273 State Route 104, Chillicothe, Ohio 45601",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Polymedco",
+   "model": null,
+   "part": "Sampling Bottles (4 x 50 Sampling Bottles)",
+   "part_numbers": [
+    "OCSIO1"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Polymedco Cancer Diagnostics Products LLC.",
+   "reason": "the original equipment manufacturer (OEM) for this requirement",
+   "equipment_class": "other equipment",
+   "installed_location": "Chillicothe VA Medical Center, 17273 State Route 104, Chillicothe, Ohio 45601",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Polymedco",
+   "model": null,
+   "part": "Sampling Bottles (20 x 50 Sampling Bottles)",
+   "part_numbers": [
+    "OCSIO2"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Polymedco Cancer Diagnostics Products LLC.",
+   "reason": "the original equipment manufacturer (OEM) for this requirement",
+   "equipment_class": "other equipment",
+   "installed_location": "Chillicothe VA Medical Center, 17273 State Route 104, Chillicothe, Ohio 45601",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Polymedco",
+   "model": null,
+   "part": "Thermal Paper (5 Rolls per Box)",
+   "part_numbers": [
+    "TP-5"
+   ],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Polymedco Cancer Diagnostics Products LLC.",
+   "reason": "the original equipment manufacturer (OEM) for this requirement",
+   "equipment_class": "other equipment",
+   "installed_location": "Chillicothe VA Medical Center, 17273 State Route 104, Chillicothe, Ohio 45601",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5050,
+  "out": 5222
+ },
+ "model": "claude-sonnet-5"
+}

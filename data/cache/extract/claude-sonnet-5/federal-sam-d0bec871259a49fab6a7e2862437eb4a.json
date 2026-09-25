@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Delco Remy",
+   "model": null,
+   "part": "Electric Starter Engine",
+   "part_numbers": [
+    "10478800"
+   ],
+   "quantity": "1,226 ea (EA)",
+   "price_usd": 638586.62,
+   "lead_time": null,
+   "sole_source_vendor": "BorgWarner PDS (Anderson), L.L.C.",
+   "reason": "there are no known commercially available drop-in replacements for this part, and there is no Government control drawing that exists to properly evaluate a protentional replacement",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3800,
+  "out": 203
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "KBA",
+   "model": null,
+   "part": "Harmonic Drive Gear Assembly",
+   "part_numbers": [
+    "MAP3781",
+    "L7080953"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA (KBBS)",
+   "reason": "KBA Proprietary",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2495,
+  "out": 167
+ },
+ "model": "claude-sonnet-5"
+}

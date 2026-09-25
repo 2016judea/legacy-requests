@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Boeing",
+   "model": null,
+   "part": "101 sole source National Stock Numbers (NSN) for the F-18",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "DBA Boeing Company, CAGE 0PXV4",
+   "reason": "This solicitation will contain 101 sole source National Stock Numbers (NSN) for the F-18.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2816,
+  "out": 185
+ },
+ "model": "claude-sonnet-5"
+}

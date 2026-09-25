@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Fairbanks Morse",
+   "model": null,
+   "part": "LT Water Connecting Box Assembly / NR 2 SSDG Combination Cooler Connecting Box Replacement",
+   "part_numbers": [
+    "PA12650721"
+   ],
+   "quantity": "1 Each",
+   "price_usd": 63000,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks Morse, LLC",
+   "reason": "The required part is proprietary to the OEM and must maintain the original form, fit, and function of the existing system.",
+   "equipment_class": "other equipment",
+   "installed_location": "NR 2 SSDG onboard (LHA-7)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9491,
+  "out": 229
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "FLX Solutions, Inc",
+   "model": "FLX BOT",
+   "part": "1X FLX BOT EVALUATION UNIT (2026) - 3-link, 21\" articulating robot with GoPro camera, carrying case, battery base, joystick controller, extension poles, tablet/camera mounts",
+   "part_numbers": [],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FLX Solutions, Inc",
+   "reason": "INTEND TO SOLE SOURCE TO FLX SOLUTIONS, INC 116 Research DR STE 2216 Bethlehem, Pennsylvania 18015-4731, United States",
+   "equipment_class": "other equipment",
+   "installed_location": "PEARL HARBOR NAVAL SHIPYARD IMF 667 SAFEGUARD ST SUITE 100, PEARL HARBOR HI 96860-5033",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8490,
+  "out": 336
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kulite Semiconductor Products Inc",
+   "model": null,
+   "part": "MH-65 Main Gear Box Oil Sensor",
+   "part_numbers": [],
+   "quantity": "Up to 36 (base + option quantity of 15, max 36)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "All parts must have clear traceability to the Original Equipment Manufacturer (OEM), Kulite Semiconductor Products Inc (Cage Code 34345).",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7325,
+  "out": 219
+ },
+ "model": "claude-sonnet-5"
+}

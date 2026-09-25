@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "CIRCUIT CARD ASSEM",
+   "part_numbers": [
+    "13507895"
+   ],
+   "quantity": "30 EACH (minimum quantity, total estimated annual demand of 30 each)",
+   "price_usd": null,
+   "lead_time": "820 days after contract award (DACA) without FAT; 1740 DACA with FAT",
+   "sole_source_vendor": "Lockheed Martin Corporation Missiles and Fire Control, CAGE: 64059",
+   "reason": "PART#: 13507895 IS RESTRICTED TO LOCKHEED MARTIN CORPORATION MISSILES AND FIRE CONTROL, CAGE: 64059.",
+   "equipment_class": "other equipment",
+   "installed_location": "Redstone Arsenal, AL 35898-5000",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5627,
+  "out": 297
+ },
+ "model": "claude-sonnet-5"
+}

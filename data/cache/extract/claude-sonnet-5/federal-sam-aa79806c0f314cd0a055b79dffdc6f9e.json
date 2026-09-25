@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Enersys",
+   "model": "POWER SAFE DDmP 85-27",
+   "part": "OEM replacement batteries with connector kits for the shipboard UPS system",
+   "part_numbers": [
+    "DDmP 85-27"
+   ],
+   "quantity": "480 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This acquisition is an Original Equipment Manufacturer (OEM) Enersys BRAND NAME requirement IAW Revolutionary FAR Overhaul (RFO) 12.102 Restricting competition.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "USS MOUNT WHITNEY (LCC-20)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8553,
+  "out": 561
+ },
+ "model": "claude-sonnet-5"
+}

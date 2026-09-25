@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "DATRON USA, Inc.",
+   "model": "Neo plus Pro",
+   "part": "CNC Machine, all components to properly configure the CNC machine, along with set-up and training",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "ten (10) weeks after date of award",
+   "sole_source_vendor": "DATRON USA, INC.",
+   "reason": "DATRON USA, Inc., of Milford, New Hampshire, Cage Code 7CRQ0, is the Original Equipment Manufacturer (OEM) of the DATRON Neo plus Pro CNC machine.",
+   "equipment_class": "other equipment",
+   "installed_location": "NSWC Crane",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3146,
+  "out": 253
+ },
+ "model": "claude-sonnet-5"
+}

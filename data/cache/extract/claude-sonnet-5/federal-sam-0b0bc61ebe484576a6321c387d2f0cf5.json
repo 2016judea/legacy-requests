@@ -1,0 +1,69 @@
+{
+ "records": [
+  {
+   "manufacturer": "KBA",
+   "model": null,
+   "part": "Blade, Carbide, Knives Basic Machine, Cut X blade for ifs",
+   "part_numbers": [
+    "MAP5336",
+    "L3435033",
+    "1000240878"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA (KBBS)",
+   "reason": "KBA Proprietary Part",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "KBA",
+   "model": null,
+   "part": "Holder, Short. Used On Print Unit Upper Guide Rail On LEPE.",
+   "part_numbers": [
+    "MAP5351",
+    "L6941261"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA (KBBS)",
+   "reason": "The intended contractor is Koenig & Bauer Banknote Solutions SA (KBBS).",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "KBA",
+   "model": null,
+   "part": "Cam, Assembly Drawing Drive. Used On SOI III Infeed.",
+   "part_numbers": [
+    "MAP5700",
+    "M8505250",
+    "1000417253",
+    "M8255540"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA (KBBS)",
+   "reason": "KBA Proprietary Part",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2613,
+  "out": 1257
+ },
+ "model": "claude-sonnet-5"
+}

@@ -95,3 +95,9 @@ monitoring/alerts.
 
 Code: MIT. The records are derived from public agency documents; each row
 links to its source.
+
+## SAM ingest: resume here
+
+- Done (2026-09-25): `scripts/ingest_sam.py` listed 14,263 federal sole-source/brand-name/J&A notices for 09/26/2025-09/25/2026 (1,609 active via the keyed search API in 4 calls + 12,654 archived via the keyless bulk CSV), screened 6,074 to equipment by PSC, wrote the top 1,500 to `data/matters/federal-sam.json`; 336 extracted ($10.68) = 1,045 raw rows, 656 with part_numbers. Not yet merged into records.jsonl, site or deploy.
+- Left: extract the rest of the qualifying notices (952 of the 1,500 qualify; ~$14 budget left of $25), then `extract.py --cached-only` (all slugs, so the 5,312 other rows stay), `make site`, `make check`, commit by path, push main, `make deploy` from the main checkout. The keyless caches (data/cache/sam/, 2.2GB bulk) are local to this worktree; a fresh checkout re-downloads them.
+- Resume: `caffeinate -dims .venv/bin/python scripts/extract.py federal-sam --limit 700 > extract_sam.log 2>&1 &` then `.venv/bin/python scripts/extract.py --cached-only`. Rate limit seen: none. 4 keyed calls, HTTP 200, no rate headers; descriptions and attachments come from sam.gov's keyless public endpoints, so the key's quota is spent only on the listing.

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kollmorgen",
+   "model": null,
+   "part": "Servo Motor, 400/480 VAC",
+   "part_numbers": [
+    "303661-31"
+   ],
+   "quantity": "4 Ea",
+   "price_usd": null,
+   "lead_time": "90 days ARO",
+   "sole_source_vendor": "TCS Inc.",
+   "reason": "Kollmorgen is the Original Equipment Manufacturer (OEM) of the required servo motors and TCS Inc. is the only authorized vendor for the motors.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Jonathan Dickinson Missile Tracking Annex (JDMTA)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3675,
+  "out": 243
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stainless Design Concepts (SDC)",
+   "model": "CiphercoN\u2122 1500 Gas Rack",
+   "part": "Silane gas rack for new silane distribution system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Edwards Semiconductor Solutions LLC",
+   "reason": "only SDC, which is owned by Edwards Semiconductor Solutions LLC (UEI: R47AMTNUJ6X4), appears to be capable of meeting NIST\ns requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "Boulder Micro-Fabrication Facility (BMF), Katharine Blodgett Gebbie Building, Boulder, CO",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Stainless Design Concepts (SDC)",
+   "model": "FlexGas\u2122 VMB",
+   "part": "Silane valve manifold box (VMB) for new silane distribution system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Edwards Semiconductor Solutions LLC",
+   "reason": "only SDC, which is owned by Edwards Semiconductor Solutions LLC (UEI: R47AMTNUJ6X4), appears to be capable of meeting NIST\ns requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "Boulder Micro-Fabrication Facility (BMF), Katharine Blodgett Gebbie Building, Boulder, CO",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Stainless Design Concepts (SDC)",
+   "model": "Ciphercon 1500",
+   "part": "Installed base of toxic gas cabinets fully integrated into facility's toxic gas monitoring system (TGMS)",
+   "part_numbers": [],
+   "quantity": "six",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Edwards Semiconductor Solutions LLC",
+   "reason": "The BMF currently has an installed base of six SDC Ciphercon 1500 toxic gas cabinets, which are fully integrated into our facility's TGMS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Boulder Micro-Fabrication Facility (BMF), Katharine Blodgett Gebbie Building, Boulder, CO",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stainless Design Concepts (SDC)",
+   "model": "CipherCon 1500",
+   "part": "Spare CipherCon 1500 gas rack systems / spare parts stock for existing gas delivery infrastructure",
+   "part_numbers": [],
+   "quantity": "two",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "We have two spare CipherCon 1500 gas rack systems. Roughly ~$40k-$50k worth of spare parts.",
+   "equipment_class": "other equipment",
+   "installed_location": "Boulder Micro-Fabrication Facility (BMF), Katharine Blodgett Gebbie Building, Boulder, CO",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8329,
+  "out": 2616
+ },
+ "model": "claude-sonnet-5"
+}

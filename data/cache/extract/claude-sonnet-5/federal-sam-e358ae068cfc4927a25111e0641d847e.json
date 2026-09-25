@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Eurotech",
+   "model": "20mm Swiss Lathe",
+   "part": "CNC Swiss lathe for sUAS motor milling and manufacturing",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Alta Enterprises",
+   "reason": "Alta Enterprises is the authorized representative and exclusive distributor of Eurotech products in Eastern Pennsylvania.",
+   "equipment_class": "other equipment",
+   "installed_location": "Tobyhanna Army Depot (TYAD)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Eurotech",
+   "model": "Turning Center",
+   "part": "CNC turning center for sUAS motor milling and manufacturing",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Alta Enterprises",
+   "reason": "The specific Eurotech combination of the 20mm Swiss Lathe and the Turning Center provides critical flexibility.",
+   "equipment_class": "other equipment",
+   "installed_location": "Tobyhanna Army Depot (TYAD)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5034,
+  "out": 759
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Onyx Industries",
+   "model": "RAM-T 40",
+   "part": "Rigged Alternate Method-Tandem (RAM-T) 40 Modular aerial-delivery system; includes carriage assembly, roller track, and rigging components",
+   "part_numbers": [],
+   "quantity": "18",
+   "price_usd": null,
+   "lead_time": "120 - 180 Days After Receipt of Order (ARO)",
+   "sole_source_vendor": "Onyx Industries",
+   "reason": "Onyx Industries is confirmed as the manufacturer and sole supplier of the certified RAM-T 40 system outside of DLA channels.",
+   "equipment_class": "other equipment",
+   "installed_location": "304 RQS, Portland, OR",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Onyx Industries",
+   "model": "RAM-T 40 Accessory Kit",
+   "part": "Accessory kit for RAM-T 40C/B & RAM-T 40L containing inflatable barrel, ballast system, protective liner, filler, and restraint hardware",
+   "part_numbers": [],
+   "quantity": "9",
+   "price_usd": null,
+   "lead_time": "120 - 180 Days After Receipt of Order (ARO)",
+   "sole_source_vendor": "Onyx Industries",
+   "reason": "Onyx Industries is confirmed as the manufacturer and sole supplier of the certified RAM-T 40 system outside of DLA channels.",
+   "equipment_class": "other equipment",
+   "installed_location": "304 RQS, Portland, OR",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6670,
+  "out": 516
+ },
+ "model": "claude-sonnet-5"
+}

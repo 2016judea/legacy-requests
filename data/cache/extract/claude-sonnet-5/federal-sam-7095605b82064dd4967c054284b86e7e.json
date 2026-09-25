@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "CAE USA Inc.",
+   "model": "747-8i Full Flight Simulator",
+   "part": "FAA Level D certified 747-8i Full Motion/Full Flight Simulator, including 6-DOF motion, visual system, sound system, and exact cockpit replica",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "24-36 months",
+   "sole_source_vendor": "CAE USA Inc.",
+   "reason": "CAE is the sole manufacturer of commercial Level D certified 747-8 simulators globally.",
+   "equipment_class": "other equipment",
+   "installed_location": "Joint Base Andrews (JBA), Maryland",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CAE USA Inc.",
+   "model": "747-8i Full Flight Simulator",
+   "part": "Initial support and maintenance, including spare parts and necessary software updates for the FFS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "12-18 months",
+   "sole_source_vendor": "CAE USA Inc.",
+   "reason": "CAE is the sole manufacturer of commercial Level D certified 747-8 simulators globally.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Joint Base Andrews (JBA), Maryland",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3337,
+  "out": 472
+ },
+ "model": "claude-sonnet-5"
+}

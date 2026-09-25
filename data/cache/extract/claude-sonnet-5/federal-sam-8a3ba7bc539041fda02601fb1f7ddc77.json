@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "TCOM",
+   "model": "KLASS",
+   "part": "Contractor Engineering and Technical Services (CETS), Vendor Level Maintenance (VLM), Engineering & Maintenance Assistance (EMA), and Helium Provisioning for the Kuwait Low Altitude Surveillance System (KLASS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 37682584,
+   "lead_time": null,
+   "sole_source_vendor": "TCOM, Limited Partnership (TCOM L.P.)",
+   "reason": "Only One Responsible Source and No Other Supplies or Services Will Satisfy Agency Requirement",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Kuwait",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3976,
+  "out": 400
+ },
+ "model": "claude-sonnet-5"
+}

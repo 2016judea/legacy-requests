@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "VectorNav Technologies",
+   "model": "VN-100T-CR",
+   "part": "Wave Sensors (Inertial Measurement Unit/Attitude Heading Reference System) to replace obsolete 3DM-GX1 sensors in operational tubes",
+   "part_numbers": [
+    "VN-100T-CR"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "VectorNav Technologies",
+   "reason": "Lord Microstrain was planning to cease production of the 3DM-GX1 sensor which is the NDBC's present operational sensor",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Stennis Space Center, MS",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Lord Microstrain",
+   "model": "3DM-GX1",
+   "part": "Old operational sensor being replaced",
+   "part_numbers": [
+    "3DM-GX1"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Lord Microstrain was planning to cease production of the 3DM-GX1 sensor which is the NDBC's present operational sensor",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Stennis Space Center, MS",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2915,
+  "out": 442
+ },
+ "model": "claude-sonnet-5"
+}

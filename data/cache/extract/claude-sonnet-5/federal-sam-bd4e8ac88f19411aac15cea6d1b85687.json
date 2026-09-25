@@ -1,0 +1,45 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rad Source Technologies",
+   "model": "RS 2000-Q2",
+   "part": "1KW X-Ray Irradiator for colony of humanized mice",
+   "part_numbers": [
+    "RS 2000-Q2"
+   ],
+   "quantity": "1.00 EA",
+   "price_usd": null,
+   "lead_time": "60 days ARO",
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME OR EQUAL TO RAD SOURCE IAW SOW",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "VA Maryland Health Care System, Research and Development Veterinary Medical Unit, 10 N. Green Street \u2013 BB-120, Baltimore, MD 21201",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rad Source Technologies",
+   "model": "RS 2000-Q2",
+   "part": "Installation, Training and Warranty & RS 2000-Q2 1KW 12-month service agreement extended",
+   "part_numbers": [],
+   "quantity": "1.00 EA",
+   "price_usd": null,
+   "lead_time": "60 days ARO",
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME OR EQUAL TO RAD SOURCE IAW SOW",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "VA Maryland Health Care System, Research and Development Veterinary Medical Unit, 10 N. Green Street \u2013 BB-120, Baltimore, MD 21201",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10804,
+  "out": 543
+ },
+ "model": "claude-sonnet-5"
+}

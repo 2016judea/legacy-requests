@@ -1,0 +1,45 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leco Corporation",
+   "model": "FP928",
+   "part": "Boom-Mounted Touchscreen/Autoloader PC Macro Nitrogen Determinator (combustion/Dumas protein analyzer)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "30 days after award",
+   "sole_source_vendor": "Leco Corporation",
+   "reason": "The requirement is met only by the Leco FP928, a proprietary combustion nitrogen/protein analyzer manufactured by Leco Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDA/ATLHAFL Nutrient Analysis Branch (NAB), 1777 Hardee Avenue SW Atlanta, GA 30310, Room 2333, Protein Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leco Corporation",
+   "model": "Gold Maintenance Plan",
+   "part": "OEM Gold Maintenance Plan (base period plus four one-year options) for FP928 analyzer",
+   "part_numbers": [
+    "SVC-800-GLD-FP928"
+   ],
+   "quantity": "1 base period plus 4 one-year options",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Leco Corporation",
+   "reason": "the Leco Gold Maintenance Plan (SVC-800-GLD-FP928) for OEM-certified service, parts, and software updates.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "FDA/ATLHAFL Nutrient Analysis Branch (NAB), 1777 Hardee Avenue SW Atlanta, GA 30310, Room 2333, Protein Laboratory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10303,
+  "out": 1581
+ },
+ "model": "claude-sonnet-5"
+}

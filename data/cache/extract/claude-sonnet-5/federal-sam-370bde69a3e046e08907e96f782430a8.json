@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Indicator, Bearing - Distance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This is the posting of the redacted Sole Source Justificaiotn (SSJ&A) douments used to suipport RFP SPRRA2-25-R-0007 and the subsuquesnt executed delivery order SPRRA2-26-F-0044.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2002,
+  "out": 208
+ },
+ "model": "claude-sonnet-5"
+}

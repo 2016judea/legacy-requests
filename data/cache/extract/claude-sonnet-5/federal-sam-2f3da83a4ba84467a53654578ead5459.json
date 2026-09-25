@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "F-16 Wheel Speed Transducer",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hydor-Aire Aerospace Corp.",
+   "reason": "This sole source contract was awarded to Hydor-Aire Aerospace Corp. (Cage Code: 81982).",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2721,
+  "out": 177
+ },
+ "model": "claude-sonnet-5"
+}

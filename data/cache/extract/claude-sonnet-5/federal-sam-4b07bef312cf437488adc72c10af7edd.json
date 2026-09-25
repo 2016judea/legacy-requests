@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Relocation of estops (emergency stop switches) at EDC facility",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Advantage Solutions, Inc.",
+   "reason": "relocation of estops, reapris to catwalk frame, revised testing approach, go live shift, additional software development due to design gaps, and an ATO to meet cybersecurity requirements",
+   "equipment_class": "other equipment",
+   "installed_location": "EDC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Repairs to catwalk frame at EDC facility",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Advantage Solutions, Inc.",
+   "reason": "relocation of estops, reapris to catwalk frame, revised testing approach, go live shift, additional software development due to design gaps, and an ATO to meet cybersecurity requirements",
+   "equipment_class": "other equipment",
+   "installed_location": "EDC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "WES (DiQ Optimize)",
+   "part": "Warehouse Execution System (WES) software solution for EDC, including integration with WMS and design gap adjustments",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Advantage Solutions, Inc.",
+   "reason": "ASI is currently responsible for developing and deploying the new WES (DiQ Optimize) solution to the EDC and is the sole source for adjustments to that solution until it is turned over to the Government.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "EDC",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5924,
+  "out": 1302
+ },
+ "model": "claude-sonnet-5"
+}

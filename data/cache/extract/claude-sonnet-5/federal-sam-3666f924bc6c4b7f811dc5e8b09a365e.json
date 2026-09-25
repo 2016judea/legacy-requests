@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "MTU (Motoren- und Turbinen-Union of Rolls-Royce Power Systems)",
+   "model": "10V2000M92 (SV-64)",
+   "part": "New OEM engines for 64-foot Patrol Boat (64PB) lifecycle sustainment",
+   "part_numbers": [
+    "10V2000M92"
+   ],
+   "quantity": "20 (with option for 5 additional)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MTU Friedrichshafen GmbH",
+   "reason": "The SV-64 engine is obsolete and no longer in serial production. MTU has agreed to re-establish a production line for the express purpose of this single production run for the U.S. Navy.",
+   "equipment_class": "motor/drive",
+   "installed_location": "64-foot Patrol Boat (64PB)",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5557,
+  "out": 299
+ },
+ "model": "claude-sonnet-5"
+}

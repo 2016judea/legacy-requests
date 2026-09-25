@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "FXC Corporation",
+   "model": "DM-500",
+   "part": "Parachute Canopy Dereefer",
+   "part_numbers": [
+    "811-00289-4"
+   ],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": "180 Calendar Days",
+   "sole_source_vendor": "FXC Corporation",
+   "reason": "FXC Corp is the original equipment manufacturer (OEM) for this item. The FXC Parachute Canopy Dereefer, Model DM-500, Part Number 811-00289 is the only USAF authorized model as it pertains to Technical Order 13C5-31-2",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9030,
+  "out": 239
+ },
+ "model": "claude-sonnet-5"
+}

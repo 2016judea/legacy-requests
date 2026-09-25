@@ -1,0 +1,143 @@
+{
+ "records": [
+  {
+   "manufacturer": "Gentex Corporation",
+   "model": "SF2-C",
+   "part": "SF2-C Spectacle Kit, Small",
+   "part_numbers": [
+    "14046-1"
+   ],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gentex Corporation",
+   "reason": "It is the Government's belief that only the proposed candidate possesses the required capabilities to successfully meet this requirement due to the pre-established ordering procedures listed above.",
+   "equipment_class": "other equipment",
+   "installed_location": "Misawa Air Base, Japan",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gentex Corporation",
+   "model": "SF2-C",
+   "part": "SF2-C Spectacle Kit, Medium",
+   "part_numbers": [
+    "14046-2"
+   ],
+   "quantity": "20",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gentex Corporation",
+   "reason": "It is the Government's belief that only the proposed candidate possesses the required capabilities to successfully meet this requirement due to the pre-established ordering procedures listed above.",
+   "equipment_class": "other equipment",
+   "installed_location": "Misawa Air Base, Japan",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gentex Corporation",
+   "model": "SF2-C",
+   "part": "SF2-C Spectacle Kit, Large",
+   "part_numbers": [
+    "14046-3"
+   ],
+   "quantity": "20",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gentex Corporation",
+   "reason": "It is the Government's belief that only the proposed candidate possesses the required capabilities to successfully meet this requirement due to the pre-established ordering procedures listed above.",
+   "equipment_class": "other equipment",
+   "installed_location": "Misawa Air Base, Japan",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gentex Corporation",
+   "model": "SF2-C",
+   "part": "SF2-C Repair Kit",
+   "part_numbers": [
+    "14611-1"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gentex Corporation",
+   "reason": "It is the Government's belief that only the proposed candidate possesses the required capabilities to successfully meet this requirement due to the pre-established ordering procedures listed above.",
+   "equipment_class": "other equipment",
+   "installed_location": "Misawa Air Base, Japan",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gentex Corporation",
+   "model": "SF2-C",
+   "part": "Rx Outsert Kit, Small",
+   "part_numbers": [
+    "14584-1"
+   ],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gentex Corporation",
+   "reason": "It is the Government's belief that only the proposed candidate possesses the required capabilities to successfully meet this requirement due to the pre-established ordering procedures listed above.",
+   "equipment_class": "other equipment",
+   "installed_location": "Misawa Air Base, Japan",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gentex Corporation",
+   "model": "SF2-C",
+   "part": "Rx Outsert Kit, Medium",
+   "part_numbers": [
+    "14584-2"
+   ],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gentex Corporation",
+   "reason": "It is the Government's belief that only the proposed candidate possesses the required capabilities to successfully meet this requirement due to the pre-established ordering procedures listed above.",
+   "equipment_class": "other equipment",
+   "installed_location": "Misawa Air Base, Japan",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gentex Corporation",
+   "model": "SF2-C",
+   "part": "Rx Outsert Kit, Large",
+   "part_numbers": [
+    "14584-3"
+   ],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gentex Corporation",
+   "reason": "It is the Government's belief that only the proposed candidate possesses the required capabilities to successfully meet this requirement due to the pre-established ordering procedures listed above.",
+   "equipment_class": "other equipment",
+   "installed_location": "Misawa Air Base, Japan",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gentex Corporation",
+   "model": "SF2-C",
+   "part": "Rx Repair Kit",
+   "part_numbers": [
+    "14610-1"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gentex Corporation",
+   "reason": "It is the Government's belief that only the proposed candidate possesses the required capabilities to successfully meet this requirement due to the pre-established ordering procedures listed above.",
+   "equipment_class": "other equipment",
+   "installed_location": "Misawa Air Base, Japan",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3166,
+  "out": 1835
+ },
+ "model": "claude-sonnet-5"
+}

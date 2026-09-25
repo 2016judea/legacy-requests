@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "NavCom Defense Electronics, Inc.",
+   "model": "AN/APN-232 CARA Signal Data Converter",
+   "part": "Signal Data Converter for AN/APN-232 Combined Altitude Radar Altimeter (CARA) Receiver-Transmitter",
+   "part_numbers": [
+    "5895-01-567-7326",
+    "8010000806-4"
+   ],
+   "quantity": "1 each",
+   "price_usd": 126505.0,
+   "lead_time": null,
+   "sole_source_vendor": "Symetrics Industries, LLC DBA: Extant Aerospace",
+   "reason": "The agency's minimum needs can only be satisfied by the unique supplies or services available from Symetrics Industries L.L.C dba Extant Aerospace (Extant) or via their agreement with Integrated Procurement Technologies",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4018,
+  "out": 311
+ },
+ "model": "claude-sonnet-5"
+}

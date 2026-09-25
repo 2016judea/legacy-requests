@@ -1,0 +1,223 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kingfisher Company, Inc.",
+   "model": "FX-2003-12DS",
+   "part": "ALARM,CONT,UNIT - Intel. fire alarm control unit without transmitter, 12amps",
+   "part_numbers": [
+    "52012"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kingfisher Company, Inc.",
+   "reason": "Brand Name OEM \"Kingfisher Company, Inc.\" - Alarm Control Unit Parts",
+   "equipment_class": "other equipment",
+   "installed_location": "SRF-JRMC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kingfisher Company, Inc.",
+   "model": "DOX-1024DSR",
+   "part": "DOOR, RED, for FX2003-12DS",
+   "part_numbers": [
+    "52013"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kingfisher Company, Inc.",
+   "reason": "Brand Name OEM \"Kingfisher Company, Inc.\" - Alarm Control Unit Parts",
+   "equipment_class": "other equipment",
+   "installed_location": "SRF-JRMC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kingfisher Company, Inc.",
+   "model": "KFUB-1024DS",
+   "part": "BACK BOX, use for FX-2003-12DS",
+   "part_numbers": [
+    "52014"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kingfisher Company, Inc.",
+   "reason": "Brand Name OEM \"Kingfisher Company, Inc.\" - Alarm Control Unit Parts",
+   "equipment_class": "other equipment",
+   "installed_location": "SRF-JRMC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kingfisher Company, Inc.",
+   "model": "KFALC-396S",
+   "part": "LOOP MODULE - Analog dual loop module",
+   "part_numbers": [
+    "52102"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kingfisher Company, Inc.",
+   "reason": "Brand Name OEM \"Kingfisher Company, Inc.\" - Alarm Control Unit Parts",
+   "equipment_class": "other equipment",
+   "installed_location": "SRF-JRMC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kingfisher Company, Inc.",
+   "model": null,
+   "part": "CABLE, SPECIAL PURPOSE - Plenum, 14/2C shielded twisted pair",
+   "part_numbers": [
+    "27140"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kingfisher Company, Inc.",
+   "reason": "Brand Name OEM \"Kingfisher Company, Inc.\" - Alarm Control Unit Parts",
+   "equipment_class": "other equipment",
+   "installed_location": "SRF-JRMC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kingfisher Company, Inc.",
+   "model": "BC1R211",
+   "part": "CABINET, WITH LOCK - Battery cabinet, with CAT-211 lock, 22\" wide x 10\" high x 8-1/2\" deep, steel, CRES hinge",
+   "part_numbers": [
+    "74131"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kingfisher Company, Inc.",
+   "reason": "Brand Name OEM \"Kingfisher Company, Inc.\" - Alarm Control Unit Parts",
+   "equipment_class": "other equipment",
+   "installed_location": "SRF-JRMC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kingfisher Company, Inc.",
+   "model": "BP1242",
+   "part": "BATTERY PACK, 12V, 42AH",
+   "part_numbers": [
+    "17121"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kingfisher Company, Inc.",
+   "reason": "Brand Name OEM \"Kingfisher Company, Inc.\" - Alarm Control Unit Parts",
+   "equipment_class": "other equipment",
+   "installed_location": "SRF-JRMC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kingfisher Company, Inc.",
+   "model": "KFRAX-LCD",
+   "part": "REMOTE ANNUNCIATOR - Remote FX-2003R/T shared display LCD annunciator, 24V DC nominal",
+   "part_numbers": [
+    "52111"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kingfisher Company, Inc.",
+   "reason": "Brand Name OEM \"Kingfisher Company, Inc.\" - Alarm Control Unit Parts",
+   "equipment_class": "other equipment",
+   "installed_location": "SRF-JRMC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kingfisher Company, Inc.",
+   "model": "KFBB-1001-R",
+   "part": "DOOR, RED - Enclosure for RAM/RAX (indoor), semi-flush backbox, houses 1 module, with key-lock door",
+   "part_numbers": [
+    "52115"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kingfisher Company, Inc.",
+   "reason": "Brand Name OEM \"Kingfisher Company, Inc.\" - Alarm Control Unit Parts",
+   "equipment_class": "other equipment",
+   "installed_location": "SRF-JRMC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kingfisher Company, Inc.",
+   "model": "KFRM-1008A",
+   "part": "RELAY ADDER MODULE - 8 relay adder module, provides FX-2003R/T with 8 individual configurable relays per module",
+   "part_numbers": [
+    "52100"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kingfisher Company, Inc.",
+   "reason": "Brand Name OEM \"Kingfisher Company, Inc.\" - Alarm Control Unit Parts",
+   "equipment_class": "other equipment",
+   "installed_location": "SRF-JRMC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kingfisher Company, Inc.",
+   "model": "KF2251TB",
+   "part": "SMOKE DETECTOR - Intelligent low profile photoelectric smoke detector with fixed 135 degree Fahrenheit thermal detector",
+   "part_numbers": [
+    "52806"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kingfisher Company, Inc.",
+   "reason": "Brand Name OEM \"Kingfisher Company, Inc.\" - Alarm Control Unit Parts",
+   "equipment_class": "other equipment",
+   "installed_location": "SRF-JRMC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kingfisher Company, Inc.",
+   "model": "KFB210LP",
+   "part": "BASE, SMOKE DETECTOR - Mounting base, flanged, use for smoke and thermal detector",
+   "part_numbers": [
+    "52803"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kingfisher Company, Inc.",
+   "reason": "Brand Name OEM \"Kingfisher Company, Inc.\" - Alarm Control Unit Parts",
+   "equipment_class": "other equipment",
+   "installed_location": "SRF-JRMC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kingfisher Company, Inc.",
+   "model": "KF-MDMB",
+   "part": "MAGNETIC DETECTOR MOUNTING BOX",
+   "part_numbers": [
+    "86100"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kingfisher Company, Inc.",
+   "reason": "Brand Name OEM \"Kingfisher Company, Inc.\" - Alarm Control Unit Parts",
+   "equipment_class": "other equipment",
+   "installed_location": "SRF-JRMC",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3531,
+  "out": 3127
+ },
+ "model": "claude-sonnet-5"
+}

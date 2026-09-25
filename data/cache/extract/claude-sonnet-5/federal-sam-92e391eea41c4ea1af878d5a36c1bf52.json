@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Raytheon Company",
+   "model": "ASR-10SS/Mk2 derived Digital Airport Surveillance Radar (DASR)",
+   "part": "Continued sustainment and modernization of the existing 157 Digital Airport Surveillance Radars (DASRs)",
+   "part_numbers": [],
+   "quantity": "157",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Raytheon Company",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Raytheon",
+   "model": "Mk3 Monopulse Secondary Surveillance Radar (MSSR) interrogator",
+   "part": "Procurement of Mk3 Monopulse Secondary Surveillance Radar (MSSR) interrogators as a replacement for the obsolete Mk2 MSSR interrogators",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Raytheon Company",
+   "reason": "which are no longer in production by Raytheon.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6343,
+  "out": 1373
+ },
+ "model": "claude-sonnet-5"
+}

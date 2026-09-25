@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "MotoEV Industrial",
+   "model": "Buddy 2 Passenger Delivery",
+   "part": "Two (2) Electric Powered Delivery Trucks Brand Name or Equal, equipped with cargo box and rear hydraulic lift gates for food cart transport",
+   "part_numbers": [
+    "EIB-2PD"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Two (2) Electric Powered Delivery Trucks Brand Name or Equal to MotoEV Industrial Buddy 2 Passenger Delivery (EIB-2PD)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Alexandria VA Health Care System (AVHCS), 2495 Shreveport Highway, Pineville, Louisiana 71360 Warehouse Building 136",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9246,
+  "out": 809
+ },
+ "model": "claude-sonnet-5"
+}

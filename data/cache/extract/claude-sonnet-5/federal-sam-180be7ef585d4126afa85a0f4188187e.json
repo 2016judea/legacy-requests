@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Call Buttons for Nurse Call System (waterproof, gasketed, anti-ligature)",
+   "part_numbers": [],
+   "quantity": "19",
+   "price_usd": null,
+   "lead_time": "90 days",
+   "sole_source_vendor": null,
+   "reason": "OEM DISTRIBUTOR/AUTHORIZATION LETTER FROM THE MANUFACTURER IS REQUIRED FOR ALL RESPONSES, IF NO OEM LETTER IS SUPPLIED THE VENDOR WILL BE CONSIDERED NON-RESPONSIVE",
+   "equipment_class": "other equipment",
+   "installed_location": "Mental Health Ward, 3DE wing, Washington DC VA Medical Center, 50 Irving Street NW, Washington DC 20422",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Alarm Panels for Nurse Call System",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": "90 days",
+   "sole_source_vendor": null,
+   "reason": "OEM DISTRIBUTOR/AUTHORIZATION LETTER FROM THE MANUFACTURER IS REQUIRED FOR ALL RESPONSES, IF NO OEM LETTER IS SUPPLIED THE VENDOR WILL BE CONSIDERED NON-RESPONSIVE",
+   "equipment_class": "other equipment",
+   "installed_location": "Mental Health Ward, 3DE wing, Washington DC VA Medical Center, 50 Irving Street NW, Washington DC 20422",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Dome Lights for Nurse Call System (flush trim, tamper resistant screws)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "90 days",
+   "sole_source_vendor": null,
+   "reason": "OEM DISTRIBUTOR/AUTHORIZATION LETTER FROM THE MANUFACTURER IS REQUIRED FOR ALL RESPONSES, IF NO OEM LETTER IS SUPPLIED THE VENDOR WILL BE CONSIDERED NON-RESPONSIVE",
+   "equipment_class": "other equipment",
+   "installed_location": "Mental Health Ward, 3DE wing, Washington DC VA Medical Center, 50 Irving Street NW, Washington DC 20422",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14576,
+  "out": 1243
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,33 @@
+{
+ "records": [
+  {
+   "manufacturer": "KBA",
+   "model": "Knives Basic Machine",
+   "part": "Blade, Carbide, Knives Basic Machine, Cut X blade for ifs KBA Proprietary Part",
+   "part_numbers": [
+    "MAP5336",
+    "L3435033",
+    "1000240878"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA (KBBS)",
+   "reason": "Cut X blade for ifs KBA Proprietary Part",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2614,
+  "out": 216
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "ANTENNA, DETECTOR",
+   "part_numbers": [
+    "5841-01-512-6498"
+   ],
+   "quantity": "152",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CAES SYSTEMS",
+   "reason": "Based upon the technical certification on file, technical data is not available and cannot be developed to permit full and open competition. The data presently available reflects the minimum needs of the Government.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6805,
+  "out": 197
+ },
+ "model": "claude-sonnet-5"
+}

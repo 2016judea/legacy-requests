@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "Parker-Hannifin Corporation",
+   "model": null,
+   "part": "Filter, Fluid",
+   "part_numbers": [
+    "445R-SS-01",
+    "2910013618229"
+   ],
+   "quantity": "1,244ADQ",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Parker-Hannifin Corporation",
+   "reason": "This part requires engineering source approval by the design control activity in order to maintain the quality of the part.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4985,
+  "out": 188
+ },
+ "model": "claude-sonnet-5"
+}

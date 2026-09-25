@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Testforce",
+   "model": "TF-300 DoD ATG ILS",
+   "part": "Testforce TF-300 DoD Automated Test Generator (ATG) for Instrument Landing Systems, including test system and proprietary software/procedures",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 70000,
+   "lead_time": null,
+   "sole_source_vendor": "Testforce USA Inc.",
+   "reason": "The Testforce TF-300 is the only system that can meet the Government's requirement.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Testforce",
+   "model": "TF-300 DoD ATG ILS Hardware Interface Kit",
+   "part": "Unique hardware interface kit with proprietary cables and adapters to interface the test set with CM300/350 and URC-300 radios",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Testforce USA Inc.",
+   "reason": "This hardware kit was designed by and is exclusively provided by Testforce.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2861,
+  "out": 934
+ },
+ "model": "claude-sonnet-5"
+}

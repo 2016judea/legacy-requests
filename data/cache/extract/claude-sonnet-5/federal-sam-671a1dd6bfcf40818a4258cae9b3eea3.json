@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "CEF Industries LLC",
+   "model": null,
+   "part": "ballscrew assembly",
+   "part_numbers": [
+    "1680-01-222-2551"
+   ],
+   "quantity": "EAQ:80 each 5-Year Qty:400 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CEF Industries LLC",
+   "reason": "The rights to use the data needed to purchase this part from additional source(s) are not owned by the Government and cannot be purchased, developed, or otherwise obtained.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7638,
+  "out": 211
+ },
+ "model": "claude-sonnet-5"
+}

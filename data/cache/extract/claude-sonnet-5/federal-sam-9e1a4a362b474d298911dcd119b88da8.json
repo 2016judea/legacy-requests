@@ -1,0 +1,63 @@
+{
+ "records": [
+  {
+   "manufacturer": "Eaton",
+   "model": "9PX8KG2",
+   "part": "Eaton 9PX 8kVA UPS - replacement and installation for NEDU Control Room",
+   "part_numbers": [
+    "9PX8KG2"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "EOLA Power",
+   "reason": "These UPS systems are written into our Scope of Certification boundary and are the only allowable systems that can replace our obsolete units.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "NEDU Control Room",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Eaton",
+   "model": "9PX11KG2",
+   "part": "Eaton 9PX 11kVA UPS - replacement and installation for NEDU Medical Deck",
+   "part_numbers": [
+    "9PX11KG2"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "EOLA Power",
+   "reason": "These UPS systems are written into our Scope of Certification boundary and are the only allowable systems that can replace our obsolete units.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "NEDU Medical Deck",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Eaton",
+   "model": "9PX8KG2",
+   "part": "Eaton 9PX 8kVA UPS - Bldg. 300 Mezz Deck - replacement and installation for NEDU Mezzanine Deck",
+   "part_numbers": [
+    "9PX8KG2"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "EOLA Power",
+   "reason": "These UPS systems are written into our Scope of Certification boundary and are the only allowable systems that can replace our obsolete units.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "NEDU Mezzanine Deck (Bldg. 300)",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5891,
+  "out": 723
+ },
+ "model": "claude-sonnet-5"
+}

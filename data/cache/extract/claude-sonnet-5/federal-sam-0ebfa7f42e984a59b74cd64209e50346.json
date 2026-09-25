@@ -1,0 +1,50 @@
+{
+ "records": [
+  {
+   "manufacturer": "Zeiser",
+   "model": "K10",
+   "part": "PAWL SET COMPLETE RETAINING for K10 MODEL NUMBERING BLOCK (11 DIGIT) FOR USE ON NEW COPE PRESS",
+   "part_numbers": [
+    "2M030742",
+    "451550110",
+    "453060111"
+   ],
+   "quantity": "1 set (1 PC pin pawl retaining, 1 PC pawl retaining unit)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Zeiser, Inc.",
+   "reason": "This requirement is being procured on a sole-source basis pursuant to FAR 13.106-1(b)(1), Soliciting from a Single Source",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Atlantic Zeiser",
+   "model": "NUCO Test",
+   "part": "Tester, Controller, NUCO Test used for dynamic testing of the SMARTSKIP blocks used on LEPE",
+   "part_numbers": [
+    "HGAB200000018",
+    "SP34780-AB2000000181"
+   ],
+   "quantity": "7 PCS",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Zeiser, Inc.",
+   "reason": "This requirement is being procured on a sole-source basis pursuant to FAR 13.106-1(b)(1), Soliciting from a Single Source",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2769,
+  "out": 1041
+ },
+ "model": "claude-sonnet-5"
+}

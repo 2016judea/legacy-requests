@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lockheed Martin Corporation Missiles and Fire Control",
+   "model": null,
+   "part": "POWER SUPPLY",
+   "part_numbers": [
+    "13508160-7"
+   ],
+   "quantity": "25 EACH",
+   "price_usd": null,
+   "lead_time": "720 days after contract award (DACA)",
+   "sole_source_vendor": "Lockheed Martin Corporation Missiles and Fire Control, CAGE: 64059",
+   "reason": "SUITABLE TECHNICAL DATA, GOVERNMENT DATA RIGHTS, OR MANUFACTURING KNOWLEDGE ARE NOT AVAILABLE TO PERMIT ACQUISITION FROM OTHER SOURCES, NOR QUALIFICATION TESTING OF ANOTHER PART, NOR USE OF A SECOND SOURCE PART IN THE INTENDED APPLICATION.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fort Bliss, TX, 79916-5801",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin Corporation Missiles and Fire Control",
+   "model": null,
+   "part": "CABLE ASSEMBLY, POWER",
+   "part_numbers": [
+    "13508084-3"
+   ],
+   "quantity": "52 EACH",
+   "price_usd": null,
+   "lead_time": "720 days after contract award (DACA) without FAT; 1080 DACA with FAT",
+   "sole_source_vendor": "Lockheed Martin Corporation Missiles and Fire Control, CAGE: 64059",
+   "reason": "THE APPROVED SOURCE(S) RETAIN DATA RIGHTS, MANUFACTURING KNOWLEDGE, OR TECHNICAL DATA THAT ARE NOT ECONOMICALLY AVAILABLE TO THE GOVERNMENT, AND THE DATA OR KNOWLEDGE IS ESSENTIAL TO MAINTAINING THE QUALITY OF THE PART.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fort Bliss, TX, 79916-5801",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin Corporation Missiles and Fire Control",
+   "model": null,
+   "part": "CABLE ASSEMBLY, SPEC",
+   "part_numbers": [
+    "13508085-3"
+   ],
+   "quantity": "52 EACH",
+   "price_usd": null,
+   "lead_time": "720 days after contract award (DACA)",
+   "sole_source_vendor": "Lockheed Martin Corporation Missiles and Fire Control, CAGE: 64059",
+   "reason": "THE APPROVED SOURCE(S) RETAIN DATA RIGHTS, MANUFACTURING KNOWLEDGE, OR TECHNICAL DATA THAT ARE NOT ECONOMICALLY AVAILABLE TO THE GOVERNMENT, AND THE DATA OR KNOWLEDGE IS ESSENTIAL TO MAINTAINING THE QUALITY OF THE PART.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fort Bliss, TX, 79916-5801",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin Corporation Missiles and Fire Control",
+   "model": null,
+   "part": "CIRCUIT CARD ASSEMBLY",
+   "part_numbers": [
+    "13683210"
+   ],
+   "quantity": "5 EACH",
+   "price_usd": null,
+   "lead_time": "720 days after contract award (DACA) without FAT; 1080 DACA with FAT",
+   "sole_source_vendor": "Lockheed Martin Corporation Missiles and Fire Control, CAGE: 64059",
+   "reason": "THE RIGHTS TO USE THE DATA NEEDED TO PURCHASE THIS PART FROM ADDITIONAL SOURCE(S) ARE NOT OWNED BY THE GOVERNMENT AND CANNOT BE PURCHASED, DEVELOPED, OR OTHERWISE OBTAINED. IT IS UNECONOMICAL TO REVERSE ENGINEER THIS PART.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fort Bliss, TX, 79916-5801",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7382,
+  "out": 2710
+ },
+ "model": "claude-sonnet-5"
+}

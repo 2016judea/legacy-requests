@@ -1,0 +1,133 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "COMPOSITE SHAFT, DESIGNATION E-CL-68-CSHAFT L=2978.5 (Only Carbon Fiber Tube)",
+   "part_numbers": [
+    "00244002"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Palmer Johnson Power Systems",
+   "reason": "only one responsible source can meet the Government's urgent requirement within the required timeframe",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "BS-CX-48/71-6-61532 (long links size 2, 6 pcs CCW) inc bolt",
+   "part_numbers": [],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Palmer Johnson Power Systems",
+   "reason": "only one responsible source can meet the Government's urgent requirement within the required timeframe",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "SEAL, WD200 A14570",
+   "part_numbers": [
+    "K0003000"
+   ],
+   "quantity": "3 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Palmer Johnson Power Systems",
+   "reason": "only one responsible source can meet the Government's urgent requirement within the required timeframe",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "CLASSIFICATION ABS",
+   "part_numbers": [
+    "00060001"
+   ],
+   "quantity": "3 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Palmer Johnson Power Systems",
+   "reason": "only one responsible source can meet the Government's urgent requirement within the required timeframe",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "SHAFTLINE 1 L=2978.5",
+   "part_numbers": [],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Palmer Johnson Power Systems",
+   "reason": "only one responsible source can meet the Government's urgent requirement within the required timeframe",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "SHAFTLINE 2 L=2978.5",
+   "part_numbers": [],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Palmer Johnson Power Systems",
+   "reason": "only one responsible source can meet the Government's urgent requirement within the required timeframe",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "CL-68-FF2 Shaftline 1 L=2978.5",
+   "part_numbers": [],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Palmer Johnson Power Systems",
+   "reason": "only one responsible source can meet the Government's urgent requirement within the required timeframe",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "CL-68-FF2 Shaftline 2 L=2978.5",
+   "part_numbers": [],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Palmer Johnson Power Systems",
+   "reason": "only one responsible source can meet the Government's urgent requirement within the required timeframe",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7584,
+  "out": 2168
+ },
+ "model": "claude-sonnet-5"
+}

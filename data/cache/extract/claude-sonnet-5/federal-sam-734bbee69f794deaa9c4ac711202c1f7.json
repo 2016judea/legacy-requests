@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Telspan Data LLC",
+   "model": "MITR-DVR",
+   "part": "Modular Instrumentation Traffic Analysis Point Recorder (MITR) Digital Video Recorder (DVR), depot activation and repair capability including STE, TPS, and ITAs",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Telspan Data LLC",
+   "reason": "they are the only responsible source for the Modular Instrumentation Traffic Analysis Point Recorder (MITR) Digital Video Recorder (DVR) - MITR-DVR, a key component integrated into the F-15EX's baseline design",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Air Logistics Complex (ALC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6313,
+  "out": 290
+ },
+ "model": "claude-sonnet-5"
+}

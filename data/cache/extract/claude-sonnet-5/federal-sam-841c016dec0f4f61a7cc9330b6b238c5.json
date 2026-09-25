@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "POWER SUPPLY, NSN: 6130-01-475-0857",
+   "part_numbers": [
+    "13508160-7"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "THESE ITEMS HAVE BEEN ASSIGNED AMC/AMSC CODE 3, &/OR 4 WHICH REQUIRES THE GOVERNMENT TO ACQUIRE FOR THE FIRST, SECOND OR SUBSEQUENT TIME DIRECTLY FROM THE ACTUAL MANUFACTURER.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "CABLE SUPPLY, POWER, NSN: 6150-01-531-5486",
+   "part_numbers": [
+    "13508084-3"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "THESE ITEMS HAVE BEEN ASSIGNED AMC/AMSC CODE 3, &/OR 4 WHICH REQUIRES THE GOVERNMENT TO ACQUIRE FOR THE FIRST, SECOND OR SUBSEQUENT TIME DIRECTLY FROM THE ACTUAL MANUFACTURER.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "CABLE ASSEMBLY, SPEC, NSN: 6150-01-531-5489",
+   "part_numbers": [
+    "13508085-3"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "THESE ITEMS HAVE BEEN ASSIGNED AMC/AMSC CODE 3, &/OR 4 WHICH REQUIRES THE GOVERNMENT TO ACQUIRE FOR THE FIRST, SECOND OR SUBSEQUENT TIME DIRECTLY FROM THE ACTUAL MANUFACTURER.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "CIRCUIT CARD, ASSEMB, NSN: 5998-01-732-5056",
+   "part_numbers": [
+    "13683210"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "THESE ITEMS HAVE BEEN ASSIGNED AMC/AMSC CODE 3, &/OR 4 WHICH REQUIRES THE GOVERNMENT TO ACQUIRE FOR THE FIRST, SECOND OR SUBSEQUENT TIME DIRECTLY FROM THE ACTUAL MANUFACTURER.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5070,
+  "out": 1671
+ },
+ "model": "claude-sonnet-5"
+}

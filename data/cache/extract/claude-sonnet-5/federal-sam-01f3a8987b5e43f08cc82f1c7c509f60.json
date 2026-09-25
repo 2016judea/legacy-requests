@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "DENTALEZ",
+   "model": "Titan 3",
+   "part": "DENTALEZ Titan 3 Straight Nose Cone",
+   "part_numbers": [
+    "257506"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "30 Days ARO",
+   "sole_source_vendor": null,
+   "reason": "The Titan DENTALEZ Titan 3 Straight Nose Cones are proprietary and only compatible with DENTALEZ components that are already in use at the facility, as this was confirmed with the O.E.M. DENTALEZ.",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Phoenix Healthcare System, 650 E. Indian School Rd. Warehouse, Phoenix AZ, 85012",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5768,
+  "out": 270
+ },
+ "model": "claude-sonnet-5"
+}

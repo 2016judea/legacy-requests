@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Creaform",
+   "model": "HandySCAN Pro",
+   "part": "3D metrology/reverse-engineering scanner using blue laser triangulation",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The vendor must demonstrate the ability to provide the exact Creaform HandySCAN Pro (Brand Name Only) model, including the associated offline software (VXelements), manufacturer warranty, and on-site training/support.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Creaform",
+   "model": "VXelements",
+   "part": "Offline processing software license for 3D scanner",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the associated processing software must be fully functional offline within secure environments, requiring no continuous internet connection.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Creaform",
+   "model": null,
+   "part": "Calibration accessories for HandySCAN Pro 3D scanner",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the procurement of two (2) Creaform HandySCAN Pro (Brand Name Only), along with required software licenses, calibration accessories, and initial operator training.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2791,
+  "out": 856
+ },
+ "model": "claude-sonnet-5"
+}

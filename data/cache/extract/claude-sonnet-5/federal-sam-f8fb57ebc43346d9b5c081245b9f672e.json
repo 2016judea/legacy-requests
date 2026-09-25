@@ -1,0 +1,495 @@
+{
+ "records": [
+  {
+   "manufacturer": "Von Duprin",
+   "model": null,
+   "part": "Von Duprin electrified conversion kit",
+   "part_numbers": [
+    "OL-95800300"
+   ],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Panic hardware",
+   "part_numbers": [
+    "QEL-98-27-L-F-626-3-RHR-996L-NL-CYL"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "ND80ELBD ATH 626",
+   "part": "Electrified Handle",
+   "part_numbers": [
+    "ND80ELBD ATH 626"
+   ],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "L9090 EU 17A 626-KIT",
+   "part": "Electrified mortise",
+   "part_numbers": [
+    "L9090 EU 17A 626-KIT"
+   ],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "307-602-L-26D Core",
+   "part": "Electrified mortise core",
+   "part_numbers": [
+    "307-602-L-26D Core"
+   ],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Yale",
+   "model": null,
+   "part": "Yale electrified conversion kit",
+   "part_numbers": [
+    "MLRK1-YAL6"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "LKM10KPX10ABRS2",
+   "part": "LKM Panic bar / ADA",
+   "part_numbers": [
+    "LKM10KPX10ABRS2"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "LKM10KPX10S2",
+   "part": "LKM panic bar",
+   "part_numbers": [
+    "LKM10KPX10S2"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "LKM10KHX10S2",
+   "part": "LKM Lock",
+   "part_numbers": [
+    "LKM10KHX10S2"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "LKM10KPLDS2",
+   "part": "LKM Secondary door with handle / panic bar / No X10",
+   "part_numbers": [
+    "LKM10KPLDS2"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "LKM10KHLDABRS2",
+   "part": "LKM Secondary door with handle / ADA/ No X10",
+   "part_numbers": [
+    "LKM10KHLDABRS2"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "LKM10KHLDS2",
+   "part": "LKM Secondary door with handle / No X10",
+   "part_numbers": [
+    "LKM10KHLDS2"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "LKM10KPES2",
+   "part": "Panic Bar LKM with no handle",
+   "part_numbers": [
+    "LKM10KPES2"
+   ],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "LKM10KDCIO",
+   "part": "LKM Blank cover plates",
+   "part_numbers": [
+    "LKM10KDCIO"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "LKM10LPDCIO",
+   "part": "LKM Blank cover plates for panic hardware",
+   "part_numbers": [
+    "LKM10LPDCIO"
+   ],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "LKM10KEXTKIT",
+   "part": "LKM10K Extension Kit",
+   "part_numbers": [
+    "LKM10KEXTKIT"
+   ],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kaba",
+   "model": null,
+   "part": "X-10 High Security FF-L-2740B Lock",
+   "part_numbers": [
+    "RS-KABAX10"
+   ],
+   "quantity": "9",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kaba",
+   "model": null,
+   "part": "CDX-10 PDL With #2 Strike",
+   "part_numbers": [
+    "KABACDX10S2"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "308 26D",
+   "part": "SFIC Rim Cylinder",
+   "part_numbers": [
+    "308 26D"
+   ],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "HSS-L2D-00",
+   "part": "High Security Balanced Magnetic Switch Dual Contact",
+   "part_numbers": [
+    "HSS-L2D-00"
+   ],
+   "quantity": "100",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "ISC-PPR1-WA16",
+   "part": "Directional motion detector",
+   "part_numbers": [
+    "ISC-PPR1-WA16"
+   ],
+   "quantity": "100",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "B328",
+   "part": "Gimble Mount",
+   "part_numbers": [
+    "B328"
+   ],
+   "quantity": "100",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "630F",
+   "part": "Deadbolt Blank Trim",
+   "part_numbers": [
+    "630F"
+   ],
+   "quantity": "20",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "FPO150/250-2C82D8E8A",
+   "part": "Life Safety Panel & power supply",
+   "part_numbers": [
+    "FPO150/250-2C82D8E8A"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "HSS-L2D-00",
+   "part": "High Security Balanced Magnetic Switch Dual Contact",
+   "part_numbers": [
+    "HSS-L2D-00"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "T-REX-LT",
+   "part": "Request to Exit Motion Detector",
+   "part_numbers": [
+    "T-REX-LT"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "PTH2-4DPS",
+   "part": "Power transfer hinge",
+   "part_numbers": [
+    "PTH2-4DPS"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Panic hardware",
+   "part_numbers": [
+    "QEL-98-27-L-F-626-3-RHR-996L-NL-CYL"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Von Duprin",
+   "model": null,
+   "part": "Von Duprin electrified conversion kit",
+   "part_numbers": [
+    "OL-95800300"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "other equipment",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "2200VA Rack Battery Backup UPS",
+   "part_numbers": [
+    "SMX2KR2UNCX145"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY - OEM AND AUTHORIZED DISTRIBUTORS.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Crane, IN 47522",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9981,
+  "out": 7274
+ },
+ "model": "claude-sonnet-5"
+}

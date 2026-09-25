@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Thomson Linear",
+   "model": "50-BSJ-U",
+   "part": "Jackscrew for 11-meter satellite antenna (Azimuth/Elevation positioning)",
+   "part_numbers": [
+    "4751-01-00"
+   ],
+   "quantity": "8",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Thomson Linear",
+   "reason": "Thomson Linear is the Original Equipment Manufacturer (OEM) of the required jackscrews and is the only manufacturer capable of manufacturing the jackscrews to the specifications required",
+   "equipment_class": "other equipment",
+   "installed_location": "Alaska Satellite Telecommunication Infrastructure (ASTI) system",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thomson Linear",
+   "model": "50-BSJ-U",
+   "part": "Jackscrew for 11-meter satellite antenna (Azimuth/Elevation positioning)",
+   "part_numbers": [
+    "4750-01-00"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Thomson Linear",
+   "reason": "Thomson Linear is the Original Equipment Manufacturer (OEM) of the required jackscrews and is the only manufacturer capable of manufacturing the jackscrews to the specifications required",
+   "equipment_class": "other equipment",
+   "installed_location": "Alaska Satellite Telecommunication Infrastructure (ASTI) system",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2793,
+  "out": 518
+ },
+ "model": "claude-sonnet-5"
+}

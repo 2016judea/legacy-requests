@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Schottel Inc.",
+   "model": null,
+   "part": "Hydraulic Clutch",
+   "part_numbers": [
+    "1150901"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Schottel Inc.",
+   "reason": "the OEM is the sole distributor for the required supply and the required supply must be compatible in terms of form, fit, and function and no other alternatives will suffice",
+   "equipment_class": "other equipment",
+   "installed_location": "Commander Naval Region Northwest Port Operations",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8876,
+  "out": 202
+ },
+ "model": "claude-sonnet-5"
+}

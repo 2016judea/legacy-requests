@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Mercury Mission Systems",
+   "model": null,
+   "part": "Repair and/or modify item specified in Attachment A (spare repairable assembly)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mercury Mission Systems CAGE 0AZ36",
+   "reason": "The repair of this item is sole source to Mercury Mission Systems CAGE 0AZ36. Mercury Mission Systems is the Original Equipment Manufacturer (OEM) of this item and is the only known source to possess full repair capability.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3388,
+  "out": 241
+ },
+ "model": "claude-sonnet-5"
+}

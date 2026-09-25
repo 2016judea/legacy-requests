@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "SRCTec, LLC",
+   "model": "Duke Family of Systems",
+   "part": "Sustainment services, hardware, and testing for the Duke Family of Systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2100000,
+   "lead_time": null,
+   "sole_source_vendor": "SRCTec, LLC",
+   "reason": "SRCTec, LLC. is the original equipment manufacturer (OEM) of the Duke FoS. ... they are the only source with the technical expertise, facilities, and experience to continue as the prime contractor for sustainment of the Duke FoS.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4805,
+  "out": 239
+ },
+ "model": "claude-sonnet-5"
+}

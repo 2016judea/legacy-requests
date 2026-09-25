@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kongsberg Defence and Aerospace",
+   "model": "RT-20",
+   "part": "175 RT-20 Turrets for the Amphibious Combat Vehicle Medium Caliber Cannon (ACV 30) variant, plus spare repair parts, support and test equipment",
+   "part_numbers": [],
+   "quantity": "175",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kongsberg Defence and Aerospace",
+   "reason": "Accordingly, based on the above analysis, KDA is the only known capable source that can meet the Marine Corps' requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3915,
+  "out": 240
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": "Follett",
+   "model": "25CI414A-L",
+   "part": "Ice Machine, Dispenser, Nugget, Countertop",
+   "part_numbers": [
+    "25CI414A-L"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand-Name Product Information: Manufacturer: Follett",
+   "equipment_class": "other equipment",
+   "installed_location": "Harry S Truman VA Medical Center - Multi-Specialty CBOC \u2013 Rolla",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Follett",
+   "model": "FFZR25-LB-RSD",
+   "part": "Freezer, Laboratory, 1 Door",
+   "part_numbers": [
+    "FFZR25-LB-RSD"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand-Name Product Information: Manufacturer: Follett",
+   "equipment_class": "other equipment",
+   "installed_location": "Harry S Truman VA Medical Center - Multi-Specialty CBOC \u2013 Rolla",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Follett",
+   "model": "FZR4P-0L-00-00",
+   "part": "Freezer, Medical Grade, Undercounter",
+   "part_numbers": [
+    "FZR4P-0L-00-00"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand-Name Product Information: Manufacturer: Follett",
+   "equipment_class": "other equipment",
+   "installed_location": "Harry S Truman VA Medical Center - Multi-Specialty CBOC \u2013 Rolla",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Follett",
+   "model": "REFFZR21-GS",
+   "part": "Refrigerator/Freezer, Biological, Upright, 18 Cu Ft",
+   "part_numbers": [
+    "REFFZR21-GS"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand-Name Product Information: Manufacturer: Follett",
+   "equipment_class": "other equipment",
+   "installed_location": "Harry S Truman VA Medical Center - Multi-Specialty CBOC \u2013 Rolla",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Follett",
+   "model": "REF20i-4S-R0000G",
+   "part": "Refrigerator, Biological, Upright, 20 Cu Ft",
+   "part_numbers": [
+    "REF20i-4S-R0000G"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand-Name Product Information: Manufacturer: Follett",
+   "equipment_class": "other equipment",
+   "installed_location": "Harry S Truman VA Medical Center - Multi-Specialty CBOC \u2013 Rolla",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Follett",
+   "model": "REF2",
+   "part": "Refrigerator, U/C or F/S, 2.5 Cu Ft, Right Hinged",
+   "part_numbers": [
+    "REF2"
+   ],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand-Name Product Information: Manufacturer: Follett",
+   "equipment_class": "other equipment",
+   "installed_location": "Harry S Truman VA Medical Center - Multi-Specialty CBOC \u2013 Rolla",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Follett",
+   "model": "REFVAC45-LB-00000G",
+   "part": "Refrigerator, Lab, SS, 2 Door, 6 Shelves",
+   "part_numbers": [
+    "REFVAC45-LB-00000G"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand-Name Product Information: Manufacturer: Follett",
+   "equipment_class": "other equipment",
+   "installed_location": "Harry S Truman VA Medical Center - Multi-Specialty CBOC \u2013 Rolla",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10128,
+  "out": 2957
+ },
+ "model": "claude-sonnet-5"
+}

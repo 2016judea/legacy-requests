@@ -1,0 +1,33 @@
+{
+ "records": [
+  {
+   "manufacturer": "Atlantic Zeiser",
+   "model": "TRACKINGFRAME",
+   "part": "BEP Spare Part: ELP1414 - Board, TRACKINGFRAME",
+   "part_numbers": [
+    "ELP1414",
+    "HEAB010000480",
+    "SP34780-EAB010000480"
+   ],
+   "quantity": "1 per blk",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Zeiser, Inc.",
+   "reason": "This requirement is being procured on a sole-source basis pursuant to FAR 13.106-1(b)(1), Soliciting from a Single Source, using FAR Part 12 procedures for the acquisition of commercial products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2540,
+  "out": 265
+ },
+ "model": "claude-sonnet-5"
+}

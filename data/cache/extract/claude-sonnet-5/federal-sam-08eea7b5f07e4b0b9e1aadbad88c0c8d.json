@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Compunetix",
+   "model": "EPOS HME-130",
+   "part": "EPOS HME-130 headset systems for Mission Voice Platform systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Compunetix Inc",
+   "reason": "The vendor, Compunetix, Inc., has certified in writing that the EPOS HME-130 is the sole compatible replacement for the unit's legacy headsets, which are now discontinued.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Joint Base Pearl Harbor-Hickam",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Compunetix",
+   "model": "Mission Voice Platform (MVP)",
+   "part": "Mission Voice Platform system requiring proprietary headset interface",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Compunetix Inc",
+   "reason": "The MVP system requires a specific polarized, dual-prong connector and a unique electronic interface that is not available in standard Commercial-Off-The-Shelf (COTS) products.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Joint Base Pearl Harbor-Hickam",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2699,
+  "out": 449
+ },
+ "model": "claude-sonnet-5"
+}

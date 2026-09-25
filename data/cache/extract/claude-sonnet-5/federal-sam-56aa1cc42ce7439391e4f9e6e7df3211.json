@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Abbott Laboratories",
+   "model": "Alinity i",
+   "part": "Core chemistry/immunoassay analyzer providing FDA-cleared lab-based TBI blood test panel within the automated core lab ecosystem",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Abbott Laboratories",
+   "reason": "The selected platform also uniquely offers an FDA?cleared lab?based TBI blood test panel on the core Alinity i analyzer, supporting rapid, objective concussion evaluation for Veterans within the same automated ecosystem.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Atlanta VA Medical Center, Rooms 2B-174 (Phase 2) and 2B-170 (Phase 3)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Abbott Laboratories",
+   "model": "Indexor",
+   "part": "Indexor-based specimen tracking at phlebotomy and outreach sites for collection-to-result visibility",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Abbott Laboratories",
+   "reason": "Abbott Laboratories is the only vendor that demonstrated all three capabilities in a way that is feasible for AVAHCS\u2019s actual rooms and phased implementation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Atlanta VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Abbott Laboratories",
+   "model": null,
+   "part": "Integrated core laboratory solution under CPRR model: Chem/IA/ID analyzers, vendor-neutral track automation, pre-/post-analytic processing equipment, reagents, consumables and installation/implementation services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 13916264.7,
+   "lead_time": null,
+   "sole_source_vendor": "Abbott Laboratories",
+   "reason": "Abbott Laboratories is the only vendor that demonstrated all three capabilities in a way that is feasible for AVAHCS\u2019s actual rooms and phased implementation.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Atlanta VA Medical Center, Rooms 2B-174 (Phase 2) and 2B-170 (Phase 3)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Abbott Laboratories",
+   "model": null,
+   "part": "Unified middleware/analytics platform for high auto verification, rules-based QC management, real-time TAT/workload dashboards, and integrated inventory management",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Abbott Laboratories",
+   "reason": "Abbott Laboratories is the only vendor that demonstrated all three capabilities in a way that is feasible for AVAHCS\u2019s actual rooms and phased implementation.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Atlanta VA Medical Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7957,
+  "out": 3530
+ },
+ "model": "claude-sonnet-5"
+}

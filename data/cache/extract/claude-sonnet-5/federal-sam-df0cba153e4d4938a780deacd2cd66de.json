@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "General Dynamics-OTS Inc.",
+   "model": null,
+   "part": "chute end assembly",
+   "part_numbers": [
+    "1680-01-644-1155"
+   ],
+   "quantity": "EAQ:10 each; 5-Year Qty:40 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "General Dynamics-OTS Inc.",
+   "reason": "This must be acquired from a manufacturing source(s) specified on a source control drawing.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7616,
+  "out": 196
+ },
+ "model": "claude-sonnet-5"
+}

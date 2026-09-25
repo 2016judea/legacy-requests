@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Fluid-Aire Dynamics",
+   "model": null,
+   "part": "Heat exchanger installation kit",
+   "part_numbers": [
+    "T27009"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Fluid-Aire Dynamics",
+   "reason": "The required heat exchange installation materials are proprietary to Fluid-Aire Dynamics, no third-party companies are authorized or certified to distribute or service equipment manufactured by Fluid-Aire Dynamics.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2381,
+  "out": 218
+ },
+ "model": "claude-sonnet-5"
+}

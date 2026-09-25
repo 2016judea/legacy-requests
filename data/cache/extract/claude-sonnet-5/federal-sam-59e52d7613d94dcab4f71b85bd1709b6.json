@@ -1,0 +1,479 @@
+{
+ "records": [
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "BRAKE BAND COMPLETE",
+   "part_numbers": [
+    "4007145"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc",
+   "model": null,
+   "part": "BRAKE BAND COMPLETE",
+   "part_numbers": [
+    "4007145"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "SPRING-TYPE STRAIGHT PIN",
+   "part_numbers": [
+    "4002682"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "DOUBLE SWITCH",
+   "part_numbers": [
+    "4000554"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "HEXAGON HEAD BOLT",
+   "part_numbers": [
+    "4000254"
+   ],
+   "quantity": "12",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "HEXAGON NUT",
+   "part_numbers": [
+    "4002505"
+   ],
+   "quantity": "1,000",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "HEXAGON HEAD BOLTS",
+   "part_numbers": [
+    "B000102"
+   ],
+   "quantity": "20",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "HEXAGON NUT",
+   "part_numbers": [
+    "4002500"
+   ],
+   "quantity": "40",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "COVER",
+   "part_numbers": [
+    "4022186"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "RIVET",
+   "part_numbers": [
+    "4015453"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "BEARING SHELL, 2 PART.",
+   "part_numbers": [
+    "4009818"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "BEARING SHELL, 2 PART",
+   "part_numbers": [
+    "4009820"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "SPRING-TYPE STRAIGHT PIN",
+   "part_numbers": [
+    "4009823"
+   ],
+   "quantity": "25",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "BUSH",
+   "part_numbers": [
+    "400040181"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "BUSH",
+   "part_numbers": [
+    "400039635"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "GREASE NIPPLE",
+   "part_numbers": [
+    "4003575"
+   ],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "GREASE NIPPLE CAP",
+   "part_numbers": [
+    "4003248"
+   ],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "BOLT",
+   "part_numbers": [
+    "4009329"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "BOLT",
+   "part_numbers": [
+    "4009640"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "BOLT",
+   "part_numbers": [
+    "4009641"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "HEXAGON HEAD BOLT",
+   "part_numbers": [
+    "4002680"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "HEXAGON HEAD BOLT",
+   "part_numbers": [
+    "4002093"
+   ],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "HEXAGON NUT",
+   "part_numbers": [
+    "4002500"
+   ],
+   "quantity": "8",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "SPLIT PIN",
+   "part_numbers": [
+    "4002210"
+   ],
+   "quantity": "12",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "SLOTTED SET SCREW",
+   "part_numbers": [
+    "4009635"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "BOLT",
+   "part_numbers": [
+    "4006124"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "SPLIT PIN",
+   "part_numbers": [
+    "4002190"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "HEXAGON HEAD BOLTS",
+   "part_numbers": [
+    "B000051"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MacGregor USA Inc.",
+   "model": null,
+   "part": "HEXAGON NUT",
+   "part_numbers": [
+    "4002500"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacGregor USA Inc.",
+   "reason": "MacGregor maintains proprietary design data, engineering tolerances, material specifications, and manufacturing controls necessary to ensure safe operation under rated loads.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS Amelia Earhart (T-AKE-6)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8574,
+  "out": 7013
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,64 @@
+{
+ "records": [
+  {
+   "manufacturer": "Caterpillar",
+   "model": "3516C",
+   "part": "Main Propulsion Engines",
+   "part_numbers": [
+    "3516C"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the supplies required by NAVSEA are available from only one responsible source (brand name or equal) and no other type of supplies will satisfy the requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "Medium Landing Ships (LSMs)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Reintjes",
+   "model": "WAF/LAF 873",
+   "part": "Main Reduction Gears",
+   "part_numbers": [
+    "WAF/LAF 873"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the supplies required by NAVSEA are available from only one responsible source (brand name or equal) and no other type of supplies will satisfy the requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "Medium Landing Ships (LSMs)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Caterpillar",
+   "model": "C18",
+   "part": "GENSETS, IMO Tier II, 700kVA/560 and 663kVA/530ekW with Leroy Somer LSAM VL10 Alternator",
+   "part_numbers": [
+    "C18",
+    "LSAM VL10"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the supplies required by NAVSEA are available from only one responsible source (brand name or equal) and no other type of supplies will satisfy the requirements.",
+   "equipment_class": "generator",
+   "installed_location": "Medium Landing Ships (LSMs)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4267,
+  "out": 856
+ },
+ "model": "claude-sonnet-5"
+}

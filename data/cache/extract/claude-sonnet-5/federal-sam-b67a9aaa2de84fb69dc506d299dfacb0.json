@@ -1,0 +1,490 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Drier liquid, sealed, 1-1/8 ODF",
+   "part_numbers": [
+    "DRIER22",
+    "C-419-S"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "HVAC",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Refrigerant solenoid valve, 1-1/8 ODF",
+   "part_numbers": [
+    "VALVE609",
+    "ME25S290-HP"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "HVAC",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Front condenser coil, CU fins/heresite, 30.00\" x 65.00\"",
+   "part_numbers": [
+    "COIL720-CH",
+    "ASP020X",
+    "4C-0712RA019-CuHN14",
+    "006-M-30.00\" x 65.00\""
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "MultiStack Technologies will collaborate with local staff to remove and replace condenser coils, as well as any failed compressors.",
+   "equipment_class": "HVAC",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rear condenser coil, CU fins/heresite, 30.00\" x 65.00\"",
+   "part_numbers": [
+    "COIL721-CH",
+    "ASP020X",
+    "4C-0712RA019-CuHN14",
+    "006-M-30.00\" x 65.00\""
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "MultiStack Technologies will collaborate with local staff to remove and replace condenser coils, as well as any failed compressors.",
+   "equipment_class": "HVAC",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fan blade, 30in dia, 1-1/8in hub, 5 blade, 35 deg, PPG material",
+   "part_numbers": [
+    "FAN720",
+    "5ZR"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "HVAC",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leeson",
+   "model": null,
+   "part": "Motor, 2 HP, 1150 RPM, 200-460V, washdown",
+   "part_numbers": [
+    "MOTOR122"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "replace the pump motors on the existing pumps",
+   "equipment_class": "motor/drive",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "pCO5+",
+   "part": "Controller board, small, FB/BMS no opto, USB, built-in PGD1, high speed",
+   "part_numbers": [
+    "BOARD156",
+    "pCO5+"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "Additionally, they will reprogram the controllers to ensure compatibility across all modules at Post Georgetown.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Smart key for pCO controllers",
+   "part_numbers": [
+    "KEY101"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "Additionally, they will reprogram the controllers to ensure compatibility across all modules at Post Georgetown.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Contactor, 10 amp - 4 pole, 24V coil",
+   "part_numbers": [
+    "CONTACT100"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Contactor, 26A 3-pole with 24VAC coil (no aux)",
+   "part_numbers": [
+    "CONTACT131",
+    "AF26-30-00-11"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Mini circuit breaker, 1-pole, 10 amp, K curve",
+   "part_numbers": [
+    "CIRCUITBRK101A"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Mini circuit breaker, 2-pole, 1.6 amp, K curve",
+   "part_numbers": [
+    "CIRCUITBRK161A"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Mini circuit breaker, 3-pole, 10 amp, K curve",
+   "part_numbers": [
+    "CIRCUITBRK103A"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Mini circuit breaker, 3-pole, 25 amp, K curve",
+   "part_numbers": [
+    "CIRCUITBRK116A"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "ZPT240KCE",
+   "part": "Tandem scroll compressor, 460V",
+   "part_numbers": [
+    "COMPRESS154-410",
+    "ZPT240KCE"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "MultiStack Technologies will collaborate with local staff to remove and replace condenser coils, as well as any failed compressors.",
+   "equipment_class": "HVAC",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Circuit breaker, 3-pole, 100 amp, T3N",
+   "part_numbers": [
+    "CIRCUITBRK217",
+    "T3N"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fixed circuit breaker, 3-pole, 60A",
+   "part_numbers": [
+    "CIRCUITBRK228"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fixed circuit breaker, 3-pole, 15A",
+   "part_numbers": [
+    "CIRCUITBRK220"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "PGD display, wall mount with buzzer",
+   "part_numbers": [
+    "DISPLAY101"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "Additionally, they will reprogram the controllers to ensure compatibility across all modules at Post Georgetown.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "40\" NTC temperature sensor",
+   "part_numbers": [
+    "SENSOR107"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Oil-filled pressure gauge, 0/600 PSI",
+   "part_numbers": [
+    "GAUGE600-OIL"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Oil-filled pressure gauge, 0/800 PSI",
+   "part_numbers": [
+    "GAUGE800-OIL"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement motor for pump",
+   "part_numbers": [
+    "JMFSWDM3613T-E"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "replace the pump motors on the existing pumps",
+   "equipment_class": "motor/drive",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Pump seal/seat, 1-1/2\" T.21 212 316, Price Pump",
+   "part_numbers": [
+    "SEAL-1148"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "pump",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Pump sleeve, 1-1/2\" 316SS for PFC pump",
+   "part_numbers": [
+    "SLEEVE-0127"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "pump",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Gasket for Price Pump",
+   "part_numbers": [
+    "GASKET-0301"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "pump",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Gasket for Price Pump",
+   "part_numbers": [
+    "GASKET-0245"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "pump",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Motor saver, input 190-480VAC 50/60Hz",
+   "part_numbers": [
+    "MOTOR40"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "It is critical that the original manufacturer performs the installation to ensure proper functionality and reliability.",
+   "equipment_class": "motor/drive",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Multistack",
+   "model": "Multistack Set-B",
+   "part": "Removal and replacement of condenser coils and failed compressors, reprogramming of controllers, and installation of chiller replacement parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 79180.74,
+   "lead_time": null,
+   "sole_source_vendor": "Multistack, LLC",
+   "reason": "The sole source justification applies because MultiStack Technologies is the original equipment manufacturer (OEM) of the chiller and the only vendor with proprietary knowledge, expertise, and access to the necessary parts to ensure proper installation and functionality.",
+   "equipment_class": "HVAC",
+   "installed_location": "U.S. Embassy Georgetown - Multistack Set-B chiller (third floor)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4714,
+  "out": 9495
+ },
+ "model": "claude-sonnet-5"
+}

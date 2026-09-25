@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "GE Healthcare",
+   "model": "Discovery MI PET/CT",
+   "part": "Ring upgrade from 3 to 5 rings for the Discovery MI PET/CT, including additional PET detector rings with detector modules and enclosures, mounting hardware, cooling systems, cabling/connectors, power supplies, data processing units, storage, firmware, imaging software, calibration phantoms, diagnostic tools, installation and training",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 1008011.0,
+   "lead_time": null,
+   "sole_source_vendor": "GE Precision Healthcare LLC",
+   "reason": "Only one awardee can provide an upgrade to the Discovery MI PET/CT. It is a an FDA regulated medical device that includes proprietary hardware and software that only the OEM, GE Precision Healthcare, can provide.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Central Virginia VA Medical Center, Richmond, VA",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7667,
+  "out": 368
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Removal, storage, and reinstallation of rooftop solar panels (422 modules and 4 inverters, 147.7 kWdc / 133.2 kWac) at Bldg 69 for roof replacement",
+   "part_numbers": [],
+   "quantity": "422 modules and 4 inverters",
+   "price_usd": 405017.27,
+   "lead_time": null,
+   "sole_source_vendor": "Terra Form Phoenix II Arcadia Holdings LLC",
+   "reason": "Per the contract Terms and Conditions, only the KTR is allowed to work on their product that is still under contract. Therefore a competitive award is not an option.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Joint Base Myer Henderson Hall (JBM-HH), Bldg 69",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3835,
+  "out": 307
+ },
+ "model": "claude-sonnet-5"
+}

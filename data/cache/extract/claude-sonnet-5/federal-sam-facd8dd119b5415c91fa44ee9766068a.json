@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Smart Shooter Inc.",
+   "model": "SMASH X4",
+   "part": "SMASH X4 units for the M4 rifle",
+   "part_numbers": [],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Smart Shooter Inc.",
+   "reason": "Smart Shooter Inc. is the sole developer, manufacturer, and provider of the proprietary SMASH family of fire control systems.",
+   "equipment_class": "other equipment",
+   "installed_location": "Spangdahlem Air Base, Germany",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smart Shooter Inc.",
+   "model": "SMASH 2000LE",
+   "part": "SMASH 2000LE for M4",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Smart Shooter Inc.",
+   "reason": "Smart Shooter Inc. is the sole developer, manufacturer, and provider of the proprietary SMASH family of fire control systems.",
+   "equipment_class": "other equipment",
+   "installed_location": "Spangdahlem Air Base, Germany",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smart Shooter Inc.",
+   "model": "SMASH CAST",
+   "part": "SMASH CAST unit",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Smart Shooter Inc.",
+   "reason": "Smart Shooter Inc. is the sole developer, manufacturer, and provider of the proprietary SMASH family of fire control systems.",
+   "equipment_class": "other equipment",
+   "installed_location": "Spangdahlem Air Base, Germany",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smart Shooter Inc.",
+   "model": null,
+   "part": "12-month set of spare parts and special test equipment for maintenance",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "12-month",
+   "sole_source_vendor": "Smart Shooter Inc.",
+   "reason": "Smart Shooter Inc. is the sole developer, manufacturer, and provider of the proprietary SMASH family of fire control systems.",
+   "equipment_class": "other equipment",
+   "installed_location": "Spangdahlem Air Base, Germany",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3124,
+  "out": 1279
+ },
+ "model": "claude-sonnet-5"
+}

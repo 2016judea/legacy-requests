@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "West Bond",
+   "model": "70PTE Wire Pull Tester, \"E\" Series, with A-1 Tweezer Feature",
+   "part": "Wirebond Pull Tester",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "4 weeks ARO",
+   "sole_source_vendor": "K&R Next Generation Bonding Inc.",
+   "reason": "West Bond, Inc. went out of business at the end of 2025... This company is the only authorized seller of new (manufacturer original) West Bond machines.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "QSD's new \"flight lab\", NIST Boulder Labs, 325 Broadway, Boulder, CO 80305",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5432,
+  "out": 271
+ },
+ "model": "claude-sonnet-5"
+}

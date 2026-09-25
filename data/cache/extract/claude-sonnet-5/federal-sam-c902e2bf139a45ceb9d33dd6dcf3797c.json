@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "POWER SUPPLY, NSN: 6130-01-475-0857, PART # 13508160-7 APPLICABLE TO THE PATRIOT MISSILE WEAPON SYSTEM",
+   "part_numbers": [
+    "13508160-7"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "THE DATA NEEDED TO ACQUIRE THIS PART COMPETITIVELY IS NOT PHYSICALLY AVAILABLE, IT CANNOT BE OBTAINED ECONOMICALLY, NOR IS IT POSSIBLE TO DRAFT ADEQUATE SPECIFICATIONS",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "CABLE SUPPLY, POWER, NSN: 6150-01-531-5486, PART # 13508084-3 APPLICABLE TO THE PATRIOT MISSILE WEAPON SYSTEM",
+   "part_numbers": [
+    "13508084-3"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "THE DATA NEEDED TO ACQUIRE THIS PART COMPETITIVELY IS NOT PHYSICALLY AVAILABLE, IT CANNOT BE OBTAINED ECONOMICALLY, NOR IS IT POSSIBLE TO DRAFT ADEQUATE SPECIFICATIONS",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "CABLE ASSEMBLY, SPEC, NSN: 6150-01-531-5489, PART # 13508085-3 APPLICABLE TO THE PATRIOT MISSILE WEAPON SYSTEM",
+   "part_numbers": [
+    "13508085-3"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "THE DATA NEEDED TO ACQUIRE THIS PART COMPETITIVELY IS NOT PHYSICALLY AVAILABLE, IT CANNOT BE OBTAINED ECONOMICALLY, NOR IS IT POSSIBLE TO DRAFT ADEQUATE SPECIFICATIONS",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "CIRCUIT CARD, ASSEMB, NSN: 5998-01-732-5056, PART # 13683210 APPLICABLE TO THE PATRIOT MISSILE WEAPON SYSTEM",
+   "part_numbers": [
+    "13683210"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "THE DATA NEEDED TO ACQUIRE THIS PART COMPETITIVELY IS NOT PHYSICALLY AVAILABLE, IT CANNOT BE OBTAINED ECONOMICALLY, NOR IS IT POSSIBLE TO DRAFT ADEQUATE SPECIFICATIONS",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5138,
+  "out": 2520
+ },
+ "model": "claude-sonnet-5"
+}

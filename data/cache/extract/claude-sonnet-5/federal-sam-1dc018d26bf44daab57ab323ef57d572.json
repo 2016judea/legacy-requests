@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "HAAS",
+   "model": "EC-1600",
+   "part": "CNC Horizontal Machining Center including install, rigging and training",
+   "part_numbers": [],
+   "quantity": "1EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "PHILLIPS CORPORATION, FEDERAL DIVISION",
+   "reason": "PHILLIPS CORPORATION, FEDERAL DIVISION IS THE SOLE MANUFACTURER DEALER/REP FOR THE OEM MANUFACTURER OF THE HAAS CNC HORIZONTAL MILL, MODEL EC-1600.",
+   "equipment_class": "other equipment",
+   "installed_location": "Trident Refit Facility, Bangor (TRFB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7929,
+  "out": 277
+ },
+ "model": "claude-sonnet-5"
+}

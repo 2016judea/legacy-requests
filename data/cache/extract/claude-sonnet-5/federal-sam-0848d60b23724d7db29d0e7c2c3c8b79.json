@@ -1,0 +1,63 @@
+{
+ "records": [
+  {
+   "manufacturer": "PVP",
+   "model": "MVSS-R",
+   "part": "HD Camera Assembly",
+   "part_numbers": [
+    "115910"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "PVP",
+   "reason": "PVP is the only source that can provide the parts necessary to satisfy this requirement.",
+   "equipment_class": "other equipment",
+   "installed_location": "United States Southern Border",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "PVP",
+   "model": "MVSS-R",
+   "part": "Cable, SAP to Radar",
+   "part_numbers": [
+    "113109"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "PVP",
+   "reason": "PVP is the only source that can provide the parts necessary to satisfy this requirement.",
+   "equipment_class": "other equipment",
+   "installed_location": "United States Southern Border",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "PVP",
+   "model": "MVSS-R",
+   "part": "Cable, SAP to Camera",
+   "part_numbers": [
+    "112352"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "PVP",
+   "reason": "PVP is the only source that can provide the parts necessary to satisfy this requirement.",
+   "equipment_class": "other equipment",
+   "installed_location": "United States Southern Border",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3441,
+  "out": 743
+ },
+ "model": "claude-sonnet-5"
+}

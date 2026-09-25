@@ -1,0 +1,49 @@
+{
+ "records": [
+  {
+   "manufacturer": "Koenig & Bauer",
+   "model": "WK 0631202",
+   "part": "MOTOR INK AGITATOR (2) 8 MTR 31 AND 8 MTR 26 TYPE WK 0631202 NO 074071 MACHINE NO 6491020Z",
+   "part_numbers": [
+    "2E021989",
+    "SB050230"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Koenig & Bauer",
+   "model": null,
+   "part": "ROLLER, FOUNTAIN BARREL, STEEL, FOR USE ON TWO AND THREE FOUNTAIN COPE PAKS (ECF & WCF)",
+   "part_numbers": [
+    "2M024122",
+    "L5118871"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4048,
+  "out": 464
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Johnson Controls",
+   "model": "Metasys",
+   "part": "BAS-Metasys Controller Panel Assembly (Control Panel Assembly)",
+   "part_numbers": [
+    "P2ABN-AG0011NA1"
+   ],
+   "quantity": "6 ea",
+   "price_usd": 37843.95,
+   "lead_time": null,
+   "sole_source_vendor": "Johnson Controls, Inc",
+   "reason": "Any other parts other than Johnson Control will void any and all warranties connected to said equipment.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Central Alabama Veterans Health Care, 215 Perry Hill Road, Montgomery AL",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4062,
+  "out": 242
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stryker",
+   "model": "ProCuity Lex Pack (X-Wireless)",
+   "part": "Hospital bed frames with Istour Standard Mattresses, all required accessories and components, on-site installation, testing, training",
+   "part_numbers": [],
+   "quantity": "20",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Title: Brand Name Stryker ProCuity Lex Pack (X-Wireless) with Istour Standard Mattresses",
+   "equipment_class": "other equipment",
+   "installed_location": "Eugene J. Towbin Healthcare Center, 2200 Fort Roots Drive, Bldg 182/170 ward C, North Little Rock, AR 72114",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "ISO Tour Pump Dom Can",
+   "part": "Pump accessory for ProCuity beds",
+   "part_numbers": [],
+   "quantity": "20",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Contractor shall provide all labor, materials, equipment necessary to furnish, deliver, assemble, install, test, and provide training for 20 Stryker brand name ProCuity Lex Pack (X-Wireless) with Istour Standard Mattresses and 20 ISO Tour Pump Dom Can.",
+   "equipment_class": "other equipment",
+   "installed_location": "Eugene J. Towbin Healthcare Center, 2200 Fort Roots Drive, Bldg 182/170 ward C, North Little Rock, AR 72114",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11594,
+  "out": 987
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Dillon Aero, Inc.",
+   "model": "M134D-M",
+   "part": "M134D-M (Marinized) Minigun system along with associated mounting systems for water platforms, parts, accessories, support equipment, installation, and training for operators and maintainers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Dillon Aero, Inc.",
+   "reason": "Dillon Aero, Inc. is not willing to sell the TDP for the M134D variants, mounting and support equipment to the Government.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6099,
+  "out": 530
+ },
+ "model": "claude-sonnet-5"
+}

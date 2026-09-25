@@ -1,0 +1,86 @@
+{
+ "records": [
+  {
+   "manufacturer": "KBA",
+   "model": null,
+   "part": "Ink knife, used on SOI III",
+   "part_numbers": [
+    "MAP3949",
+    "L5729664"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA (KBBS)",
+   "reason": "KBA Proprietary",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "KBA",
+   "model": "CUTLINK X",
+   "part": "Blade, Carbide, Unit blade for IFS",
+   "part_numbers": [
+    "MAP5335",
+    "L3435034",
+    "100024879"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA (KBBS)",
+   "reason": "CUTLINK X Unit blade for IFS.KBA Proprietary Part",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "KBA",
+   "model": null,
+   "part": "Shaft, Driving, Complete, used on SOI III Wiper Drive",
+   "part_numbers": [
+    "MAP5801",
+    "L7083406",
+    "1002076889"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA (KBBS)",
+   "reason": "Used On SOI III Wiper Drive. KBA Proprietary.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "K&B",
+   "model": null,
+   "part": "Blade, Bottom Mount, used in COPE",
+   "part_numbers": [
+    "MAP5427",
+    "L7100513",
+    "1002001637"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA (KBBS)",
+   "reason": "This requirement is being procured on a sole-source basis pursuant to FAR 13.106-1(b)(1), Soliciting from a Single Source",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2753,
+  "out": 1718
+ },
+ "model": "claude-sonnet-5"
+}

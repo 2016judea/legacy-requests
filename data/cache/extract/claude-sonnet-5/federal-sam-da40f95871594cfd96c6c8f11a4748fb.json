@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bayer",
+   "model": "Medrad Mark 7 Arterion Injection System",
+   "part": "Mobile injection system for controlled delivery of contrast media in vascular surgery/angiography",
+   "part_numbers": [
+    "ART 700 PEDL"
+   ],
+   "quantity": "1",
+   "price_usd": 28250.0,
+   "lead_time": "within 30 days after the award date",
+   "sole_source_vendor": "1st American Medical Distributors, Inc.",
+   "reason": "1st American and ASE Direct are both authorized distributor of Bayer Healthcare. However, 1st American offers lower cost($29,775.00) compared to ASE ($32,697.17)",
+   "equipment_class": "other equipment",
+   "installed_location": "Martinsburg VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bayer",
+   "model": "Medrad Mark 7 Arterion Injection System",
+   "part": "Installation of injection system",
+   "part_numbers": [
+    "INST ART 700-P"
+   ],
+   "quantity": "1",
+   "price_usd": 1525.0,
+   "lead_time": "within 30 days after the award date",
+   "sole_source_vendor": "1st American Medical Distributors, Inc.",
+   "reason": "1st American and ASE Direct are both authorized distributor of Bayer Healthcare. However, 1st American offers lower cost($29,775.00) compared to ASE ($32,697.17)",
+   "equipment_class": "other equipment",
+   "installed_location": "Martinsburg VA Medical Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4655,
+  "out": 1038
+ },
+ "model": "claude-sonnet-5"
+}

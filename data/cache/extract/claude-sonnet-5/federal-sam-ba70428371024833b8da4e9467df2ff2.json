@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Canon",
+   "model": "Toshiba Aquilion One",
+   "part": "Upgrade of existing CT scanner (hardware and software upgrades to bring system to conformance)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 794149.0,
+   "lead_time": null,
+   "sole_source_vendor": "CANON MEDICAL SYSTEMS USA, INC",
+   "reason": "The original equipment manufacturer (OEM), Canon Medical Systems USA, Inc., is the only contractor who can provide the upgrade and as such is a logical follow-on to the original contract, due to the need to operate with existing OEM\u2019S components and the proprietary nature of the hardware and software.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "VISN 16, VAMC Pineville/Alexandria, LA",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5347,
+  "out": 296
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "CABLE ASSEMBLY SPEC - AND OTHER REPLACEMENT PARTS",
+   "part_numbers": [
+    "1155130-115",
+    "1155130-113"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "NSN 5995-01-481-6257, P/N 1155130-115 & NSN 6150-01-547-6543, P/N 1155130-113",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2008,
+  "out": 202
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Valve spare parts, form, fit, and functionally interchangeable with those currently used on the supported end item or weapon system",
+   "part_numbers": [
+    "4730008106706"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Tactair fluid controls Inc.; United Valve Company; Derco Aerospace, Inc.; Mission Systems Davenport",
+   "reason": "The Government requires spare parts that are form, fit, and functionally interchangeable with those currently used on the supported end item or weapon system.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Valve spare parts, form, fit, and functionally interchangeable with those currently used on the supported end item or weapon system",
+   "part_numbers": [
+    "5330014912927"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Tactair fluid controls Inc.; United Valve Company; Derco Aerospace, Inc.; Mission Systems Davenport",
+   "reason": "The Government requires spare parts that are form, fit, and functionally interchangeable with those currently used on the supported end item or weapon system.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5416,
+  "out": 1158
+ },
+ "model": "claude-sonnet-5"
+}

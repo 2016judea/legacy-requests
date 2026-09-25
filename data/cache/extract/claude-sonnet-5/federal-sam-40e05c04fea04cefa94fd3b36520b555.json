@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "Thales Defense & Security",
+   "model": null,
+   "part": "MBITR broadband 30-512 MHz whip style detachable radio antenna, 13\" length",
+   "part_numbers": [
+    "1600500-1"
+   ],
+   "quantity": "968",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Thales Defense & Security",
+   "reason": "Thales Defense & Security (23386) designated as the approved sole source of supply and support the end item, weapon system, or class of item indicated for each NSN shown below",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thales Defense & Security",
+   "model": null,
+   "part": "MBITR broadband 30-512 MHz whip style detachable radio antenna, 48\" length",
+   "part_numbers": [
+    "1600629-1"
+   ],
+   "quantity": "1213",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Thales Defense & Security",
+   "reason": "Thales Defense & Security (23386) designated as the approved sole source of supply and support the end item, weapon system, or class of item indicated for each NSN shown below",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thales Defense & Security",
+   "model": null,
+   "part": "Gen 4 AC/DC battery charger (Power Supply) for MBITR broadband radios",
+   "part_numbers": [
+    "1600787-1"
+   ],
+   "quantity": "24",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Thales Defense & Security",
+   "reason": "Thales Defense & Security (23386) designated as the approved sole source of supply and support the end item, weapon system, or class of item indicated for each NSN shown below",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thales Defense & Security",
+   "model": null,
+   "part": "Tray, Battery - detachable lithium battery holder for CR123 cells attaching to tactical radios",
+   "part_numbers": [
+    "4101240-501"
+   ],
+   "quantity": "1518",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Thales Defense & Security",
+   "reason": "Thales Defense & Security (23386) designated as the approved sole source of supply and support the end item, weapon system, or class of item indicated for each NSN shown below",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6923,
+  "out": 1561
+ },
+ "model": "claude-sonnet-5"
+}

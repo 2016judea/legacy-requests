@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "PITCH HORN ASSEMBLY",
+   "part_numbers": [
+    "1615012149140"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Available from only one or limited number of sources.",
+   "equipment_class": "other equipment",
+   "installed_location": "HELICOPTER, BLACK HAWK UH-60A, UH-60L, HH/UH-60M, UH-60V",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5178,
+  "out": 872
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "FAN,VANEAXIAL",
+   "part_numbers": [
+    "4140-01-671-4854"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This is the synopsis of the redacted Sole Source Justification and Approval (SSJ&A) document used for RFP SPRRA2-25-R-0064.",
+   "equipment_class": "HVAC",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1997,
+  "out": 280
+ },
+ "model": "claude-sonnet-5"
+}

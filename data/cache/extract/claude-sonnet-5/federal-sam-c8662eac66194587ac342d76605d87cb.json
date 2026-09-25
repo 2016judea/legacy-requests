@@ -1,0 +1,84 @@
+{
+ "records": [
+  {
+   "manufacturer": "White Industrial Corporation DBA PDR America",
+   "model": "IRE3 Infrared PCB RWS",
+   "part": "E3 Simple Rework Station For All BGA/SMT Components",
+   "part_numbers": [
+    "PDR-IRE3",
+    "PDR-SP03040",
+    "PDR-SP03026",
+    "PDR-SP03045",
+    "PDR-SP03047",
+    "PDR-SP03028"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": "10 Weeks",
+   "sole_source_vendor": "White Industrial Corporation DBA PDR America",
+   "reason": "BRAND NAME ONLY. NO SUBSTITUTIONS ALLOWED.",
+   "equipment_class": "other equipment",
+   "installed_location": "AFTC Edwards AFB, CA 93524",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell Inc.",
+   "model": "All In One PC and 23.8in Touch Screen Monitor",
+   "part": "Dell All In One Computer & 23.8\" Touch Screen Monitor",
+   "part_numbers": [
+    "DELLALN1"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": "10 Weeks",
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY. NO SUBSTITUTIONS ALLOWED.",
+   "equipment_class": "other equipment",
+   "installed_location": "AFTC Edwards AFB, CA 93524",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "White Industrial Corporation DBA PDR America",
+   "model": null,
+   "part": "4-Hour Phone or Remote Technical Support Package",
+   "part_numbers": [
+    "PDR-SUPPORT4H"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": "10 Weeks",
+   "sole_source_vendor": "White Industrial Corporation DBA PDR America",
+   "reason": "BRAND NAME ONLY. NO SUBSTITUTIONS ALLOWED.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "AFTC Edwards AFB, CA 93524",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "White Industrial Corporation DBA PDR America",
+   "model": null,
+   "part": "On-site Set-Up and 8 Hours Training, includes 3 hours of remote support",
+   "part_numbers": [
+    "PDR-SET-UP/TRAINING"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": "10 Weeks",
+   "sole_source_vendor": "White Industrial Corporation DBA PDR America",
+   "reason": "BRAND NAME ONLY. NO SUBSTITUTIONS ALLOWED.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "AFTC Edwards AFB, CA 93524",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9672,
+  "out": 1647
+ },
+ "model": "claude-sonnet-5"
+}

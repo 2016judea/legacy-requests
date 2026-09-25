@@ -1,0 +1,66 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Main Module for the CH-53K aircraft",
+   "part_numbers": [
+    "5963-01-694-1733",
+    "X0606-01094-043"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "authorizes and approves the issuance of orders against an existing Basic Ordering Agreement (BOA) N00383-20-G-X901 and against a follow-on contract vehicle on a sole source basis",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Hub Assembly for the CH-53K aircraft",
+   "part_numbers": [
+    "1615-01-702-3604",
+    "06100-08200-044"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "authorizes and approves the issuance of orders against an existing Basic Ordering Agreement (BOA) N00383-20-G-X901 and against a follow-on contract vehicle on a sole source basis",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Main Rotor Blades for the CH-53K aircraft",
+   "part_numbers": [
+    "1615-01-693-8205",
+    "06150-09000-048"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "authorizes and approves the issuance of orders against an existing Basic Ordering Agreement (BOA) N00383-20-G-X901 and against a follow-on contract vehicle on a sole source basis",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3430,
+  "out": 707
+ },
+ "model": "claude-sonnet-5"
+}

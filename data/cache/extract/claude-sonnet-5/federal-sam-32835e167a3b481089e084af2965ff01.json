@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Waters Technology Corporation",
+   "model": "MassLynx Acquisition PC",
+   "part": "MassLynx Acquisition PC, Clinical Window 11 upgrade kit and service",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Waters Technology Corporation",
+   "reason": "The current operating system is Windows 7 and is no longer supported and no longer allowed on VA network.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Iowa City VA",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4803,
+  "out": 208
+ },
+ "model": "claude-sonnet-5"
+}

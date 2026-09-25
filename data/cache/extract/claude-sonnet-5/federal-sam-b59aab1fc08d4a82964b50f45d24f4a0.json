@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Fluke",
+   "model": "5560A",
+   "part": "High-Performance Multi-Product Calibrator",
+   "part_numbers": [
+    "5560A"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Fluke Electronics Corporation",
+   "reason": "No other asset is available that meets the very specific, mandatory measurement parameters and interoperability standards required for the Air Force calibration mission.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "60th MXS Precision Measurement Equipment Laboratory (PMEL), Travis AFB, CA",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Fluke",
+   "model": "55XXA/Coil 50",
+   "part": "50 turn current coil",
+   "part_numbers": [
+    "55XXA/Coil 50"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Fluke Electronics Corporation",
+   "reason": "No other asset is available that meets the very specific, mandatory measurement parameters and interoperability standards required for the Air Force calibration mission.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "60th MXS Precision Measurement Equipment Laboratory (PMEL), Travis AFB, CA",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4424,
+  "out": 719
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,387 @@
+{
+ "records": [
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": "U2002A",
+   "part": "USB Sensor, 50MHz-24GHz, to include U2002A-100 APC 3.5mm male connector",
+   "part_numbers": [
+    "U2002A",
+    "U2002A-100"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "there are no \"or-equal\" components from other manufacturers that are compatible or can provide the same integrated functionality",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": "U2002A-H26",
+   "part": "USB Power Sensor, 10MHz-26.5GHz, to include U2002A-3011 Power sensor cable, 5ft",
+   "part_numbers": [
+    "U2002A-H26",
+    "U2002A-3011"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "there are no \"or-equal\" components from other manufacturers that are compatible or can provide the same integrated functionality",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": null,
+   "part": "Predelivery Calibration with Uncertainties and Guardbanding for Part number U2002A listed on CLIN 0001",
+   "part_numbers": [
+    "R1295C"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "there are no \"or-equal\" components from other manufacturers that are compatible or can provide the same integrated functionality",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": "N6700C",
+   "part": "Low Profile Modular Power System Mainframe, 400W, 4-slots, includes N6700C-OSW Operating System Windows CE",
+   "part_numbers": [
+    "N6700C",
+    "N6700C-OSW"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "The N6700C/N6702C mainframes and the corresponding power modules are designed by the Original Equipment Manufacturer (OEM) to work as a single, cohesive unit.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": "N6709C",
+   "part": "Rack Mount Kit for Low Profile Modular Power System Mainframes",
+   "part_numbers": [
+    "N6709C"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "there are no \"or-equal\" components from other manufacturers that are compatible or can provide the same integrated functionality",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": "N6744B",
+   "part": "DC Power Module, 35V, 3A, 100W",
+   "part_numbers": [
+    "N6744B"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "The hardware, firmware, communication protocols, and software are proprietary to Keysight, and for this reason, there are no \"or-equal\" components from other manufacturers",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": null,
+   "part": "Predelivery Calibration with Uncertainties and Guardbanding for Part number N6744B listed on CLIN 0006",
+   "part_numbers": [
+    "R1295C"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "there are no \"or-equal\" components from other manufacturers that are compatible or can provide the same integrated functionality",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": "N6744B",
+   "part": "DC Power Module, 35V, 3A, 100W",
+   "part_numbers": [
+    "N6744B"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "The hardware, firmware, communication protocols, and software are proprietary to Keysight, and for this reason, there are no \"or-equal\" components from other manufacturers",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": null,
+   "part": "Predelivery Calibration with Uncertainties and Guardbanding for Part number N6744B listed on CLIN 0008",
+   "part_numbers": [
+    "R1295C"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "there are no \"or-equal\" components from other manufacturers that are compatible or can provide the same integrated functionality",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": "N6744B",
+   "part": "DC Power Module, 35V, 3A, 100W",
+   "part_numbers": [
+    "N6744B"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "The hardware, firmware, communication protocols, and software are proprietary to Keysight, and for this reason, there are no \"or-equal\" components from other manufacturers",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": null,
+   "part": "Predelivery Calibration with Uncertainties and Guardbanding for Part number N6744B listed on CLIN 0010",
+   "part_numbers": [
+    "R1295C"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "there are no \"or-equal\" components from other manufacturers that are compatible or can provide the same integrated functionality",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": "N6744B",
+   "part": "DC Power Module, 35V, 3A, 100W",
+   "part_numbers": [
+    "N6744B"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "The hardware, firmware, communication protocols, and software are proprietary to Keysight, and for this reason, there are no \"or-equal\" components from other manufacturers",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": null,
+   "part": "Predelivery Calibration with Uncertainties and Guardbanding for Part number N6744B listed on CLIN 0012",
+   "part_numbers": [
+    "R1295C"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "there are no \"or-equal\" components from other manufacturers that are compatible or can provide the same integrated functionality",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": "N6702C",
+   "part": "Low Profile Modular Power System Mainframe, 1200W, 4-slots, includes N6702C-OSW Operating System Windows CE",
+   "part_numbers": [
+    "N6702C",
+    "N6702C-OSW"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "The N6700C/N6702C mainframes and the corresponding power modules are designed by the Original Equipment Manufacturer (OEM) to work as a single, cohesive unit.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": "N6709C",
+   "part": "Rack Mount Kit for Low Profile Modular Power System Mainframes",
+   "part_numbers": [
+    "N6709C"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "there are no \"or-equal\" components from other manufacturers that are compatible or can provide the same integrated functionality",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": "N6773A",
+   "part": "DC Power Module, 20V, 15A, 300W",
+   "part_numbers": [
+    "N6773A"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "The hardware, firmware, communication protocols, and software are proprietary to Keysight, and for this reason, there are no \"or-equal\" components from other manufacturers",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": null,
+   "part": "Predelivery Calibration with Uncertainties and Guardbanding for Part number N6773A listed on CLIN 0016",
+   "part_numbers": [
+    "R1295C"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "there are no \"or-equal\" components from other manufacturers that are compatible or can provide the same integrated functionality",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": "N6773A",
+   "part": "DC Power Module, 20V, 15A, 300W",
+   "part_numbers": [
+    "N6773A"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "The hardware, firmware, communication protocols, and software are proprietary to Keysight, and for this reason, there are no \"or-equal\" components from other manufacturers",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": null,
+   "part": "Predelivery Calibration with Uncertainties and Guardbanding for Part number N6773A listed on CLIN 0018",
+   "part_numbers": [
+    "R1295C"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "there are no \"or-equal\" components from other manufacturers that are compatible or can provide the same integrated functionality",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": "N6774A",
+   "part": "DC Power Module, 35V, 8.5A, 300W",
+   "part_numbers": [
+    "N6774A"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "The hardware, firmware, communication protocols, and software are proprietary to Keysight, and for this reason, there are no \"or-equal\" components from other manufacturers",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": null,
+   "part": "Predelivery Calibration with Uncertainties and Guardbanding for Part number N6774A listed on CLIN 0020",
+   "part_numbers": [
+    "R1295C"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "there are no \"or-equal\" components from other manufacturers that are compatible or can provide the same integrated functionality",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": "N6774A",
+   "part": "DC Power Module, 35V, 8.5A, 300W",
+   "part_numbers": [
+    "N6774A"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "The hardware, firmware, communication protocols, and software are proprietary to Keysight, and for this reason, there are no \"or-equal\" components from other manufacturers",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies Inc.",
+   "model": null,
+   "part": "Predelivery Calibration with Uncertainties and Guardbanding for Part number N6774A listed on CLIN 0022",
+   "part_numbers": [
+    "R1295C"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keysight Technologies Inc.",
+   "reason": "there are no \"or-equal\" components from other manufacturers that are compatible or can provide the same integrated functionality",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9104,
+  "out": 7779
+ },
+ "model": "claude-sonnet-5"
+}

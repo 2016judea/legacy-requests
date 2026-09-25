@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "Safran Electrical Components USA",
+   "model": null,
+   "part": "EMP Conduit, brass metal conduit core, grey EPDM outer jacket, 70ft one continuous length",
+   "part_numbers": [
+    "CC261-40"
+   ],
+   "quantity": "70 Foot",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ICORE INTERNATIONAL INC",
+   "reason": "ICORE fittings have no compatibility with the items manufactured by other companies. Therefore, ICORE materials must be installed with other ICORE items.",
+   "equipment_class": "other equipment",
+   "installed_location": "MK 137 MOD 10 System",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Safran Electrical Components USA",
+   "model": null,
+   "part": "Stuffing Tube Swivel, Size L, adapter thread size 1.8125-12UN-2A, conduit size 1-1/4\", CRES-316L passivated",
+   "part_numbers": [
+    "AX0685-5840-SP"
+   ],
+   "quantity": "7 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ICORE INTERNATIONAL INC",
+   "reason": "ICORE fittings have no compatibility with the items manufactured by other companies. Therefore, ICORE materials must be installed with other ICORE items.",
+   "equipment_class": "other equipment",
+   "installed_location": "MK 137 MOD 10 System",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Safran Electrical Components USA",
+   "model": null,
+   "part": "Box Hub Fitting, Reducing type, 2\" box hole size, 1-1/4\" hub size, CRES 316L passivated",
+   "part_numbers": [
+    "AX0851-6440-SP"
+   ],
+   "quantity": "10 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ICORE INTERNATIONAL INC",
+   "reason": "ICORE fittings have no compatibility with the items manufactured by other companies. Therefore, ICORE materials must be installed with other ICORE items.",
+   "equipment_class": "other equipment",
+   "installed_location": "MK 137 MOD 10 System",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Safran Electrical Components USA",
+   "model": null,
+   "part": "Adapter Circular Female Swivel, size 1.4375\"-18 UNEF x dash 40, aluminum series 6061-T6",
+   "part_numbers": [
+    "AX0765-21-2440-CT"
+   ],
+   "quantity": "7 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ICORE INTERNATIONAL INC",
+   "reason": "ICORE fittings have no compatibility with the items manufactured by other companies. Therefore, ICORE materials must be installed with other ICORE items.",
+   "equipment_class": "other equipment",
+   "installed_location": "MK 137 MOD 10 System",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 15913,
+  "out": 974
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,487 @@
+{
+ "records": [
+  {
+   "manufacturer": "Liebert",
+   "model": "DS105ASJ1EI0575",
+   "part": "Four (4) CRAC units requiring replacement parts",
+   "part_numbers": [
+    "DS105ASJ1EI0575"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "HVAC",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Refrigeration compressor",
+   "part_numbers": [
+    "ZR190"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "HVAC",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Compressor Contactors",
+   "part_numbers": [
+    "23B0003N001"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "HVAC",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Filter Dryer",
+   "part_numbers": [
+    "305-ODF"
+   ],
+   "quantity": "4 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "HVAC",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Liquid Line Solenoid Valve",
+   "part_numbers": [
+    "LI2324HGP"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "HVAC",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Sight Glass Indicator",
+   "part_numbers": [
+    "INDICATOR LIQ 5/80 X 5/8 0DF"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "HVAC",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Expansion Valve",
+   "part_numbers": [
+    "VLV EXP 5/8Xl-1/8X1/40DF"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "HVAC",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Rotor Lock Valve w/Gasket, 1-1/4",
+   "part_numbers": [
+    "998-0510"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "HVAC",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Rotor Lock Valve w/Gasket, 1-3/4",
+   "part_numbers": [
+    "998-0510"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "HVAC",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Copeland",
+   "model": null,
+   "part": "Compressor Gasket",
+   "part_numbers": [],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "HVAC",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Humidifier Unit",
+   "part_numbers": [
+    "HU650"
+   ],
+   "quantity": "4 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "HVAC",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Copper Tube, 1-1/4",
+   "part_numbers": [],
+   "quantity": "100 LF",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Copper Tube Fitting 90\u00b0 Elbows, 1-1/4",
+   "part_numbers": [],
+   "quantity": "50 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Supply Air Fan",
+   "part_numbers": [
+    "SAF650"
+   ],
+   "quantity": "6 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "HVAC",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Magnetic Contactor",
+   "part_numbers": [
+    "AF09-AF12"
+   ],
+   "quantity": "19 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Crank Case Heater",
+   "part_numbers": [
+    "40W-400W"
+   ],
+   "quantity": "4 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "HVAC",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Control Circuit Board for Heater",
+   "part_numbers": [
+    "40W-400W"
+   ],
+   "quantity": "4 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "HVAC",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Condenser Fan Motor, 1-Speed, 1-Phase",
+   "part_numbers": [],
+   "quantity": "6 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "motor/drive",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Magnetic Contactor for Condenser Fan Motor, Above 208V 50/60hz",
+   "part_numbers": [],
+   "quantity": "6 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Variable Speed ECM Condenser Fan Motors",
+   "part_numbers": [],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "motor/drive",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Motor Speed Controller for Variable Speed ECM Condenser Fan Motors",
+   "part_numbers": [
+    "1C25447P2"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "motor/drive",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Condenser Fan Blades, 5 Blade",
+   "part_numbers": [],
+   "quantity": "9 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "HVAC",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "Voltage Transformer - Condenser, 208V to 24V",
+   "part_numbers": [],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "New Refrigerant Gas",
+   "part_numbers": [
+    "R-407c"
+   ],
+   "quantity": "10 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "HVAC",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "SUNISO",
+   "model": null,
+   "part": "Compressor Oil Refrigeration",
+   "part_numbers": [],
+   "quantity": "10 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "HVAC",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "DS High-Precision Pressure Sensor",
+   "part_numbers": [
+    "1124OP"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "DS Low-Precision Pressure Sensor",
+   "part_numbers": [
+    "2234OI"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "DCDF Ambient Stat",
+   "part_numbers": [
+    "12894"
+   ],
+   "quantity": "4 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "DS Control Board, Multi-channel D/A",
+   "part_numbers": [],
+   "quantity": "4 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "Market research shows that no other vendor is able to manufacture a suitable substitute for these older CRAC unit models.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "DS Indoor Unit Control Transformer",
+   "part_numbers": [],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "some of the parts such as the needed transformers are only made by and available from Virtiv directly.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": null,
+   "part": "DS Indoor Unit Isolation Transformer",
+   "part_numbers": [],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertiv Corporation",
+   "reason": "some of the parts such as the needed transformers are only made by and available from Virtiv directly.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "undisclosed location",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5225,
+  "out": 8514
+ },
+ "model": "claude-sonnet-5"
+}

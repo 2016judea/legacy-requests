@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "East Penn Manufacturing Co.",
+   "model": "18-G75-27EE",
+   "part": "High shock forklift battery IST6H51, component of forklift trucks onboard MSC vessels",
+   "part_numbers": [
+    "IST6H51",
+    "18-G75-27 EE"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "East Penn Manufacturing Co.",
+   "reason": "required batteries being a component of the forklift trucks onboard MSC vessels which are considered Critical Safety Items. Only the OEM may provide these Critical Safety Items.",
+   "equipment_class": "other equipment",
+   "installed_location": "USNS WALLY SCHIRRA (T-AKE 8)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8080,
+  "out": 266
+ },
+ "model": "claude-sonnet-5"
+}

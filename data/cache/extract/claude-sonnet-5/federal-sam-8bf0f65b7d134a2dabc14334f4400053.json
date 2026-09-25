@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens",
+   "model": "Symbia T16",
+   "part": "Current CT Spect system being replaced; end of life and end of support",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The current CT Spect (Symbia T16) was end of life and end of support in 2024. The Original Equipment Manufacturer has excluded this equipment from the maintenance service contract because they cannot guarantee availability of replacement parts.",
+   "equipment_class": "other equipment",
+   "installed_location": "Detroit VAMC, VISN 10",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Siemens Healthineers",
+   "model": null,
+   "part": "Sole-source delivery order for replacement NM Spect-CT system (equipment plus extended installation)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 2377508.82,
+   "lead_time": null,
+   "sole_source_vendor": "SIEMENS MEDICAL SOLUTIONS USA, INC.",
+   "reason": "While Canon Medical Systems does offer a 64-slice CT, they do not offer the Spect unit. As a result,",
+   "equipment_class": "other equipment",
+   "installed_location": "Detroit VAMC, VISN 10",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6264,
+  "out": 919
+ },
+ "model": "claude-sonnet-5"
+}

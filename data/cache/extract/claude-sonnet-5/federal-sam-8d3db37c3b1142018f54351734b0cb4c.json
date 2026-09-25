@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "TLD",
+   "model": "ACU-808-DUP",
+   "part": "150-Ton Diesel Powered Trailer Mounted Commercial Flight Line Air Conditioner (ACU)",
+   "part_numbers": [
+    "ACU-808-DUP"
+   ],
+   "quantity": "4",
+   "price_usd": 1340000,
+   "lead_time": null,
+   "sole_source_vendor": "Aero Specialties, Inc",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "HVAC",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6570,
+  "out": 206
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "BAE Systems",
+   "model": "STAR XIII",
+   "part": "Mission Computers (MCs) for C-130J fleet",
+   "part_numbers": [
+    "697960-13",
+    "6610-01-723-6214"
+   ],
+   "quantity": "approximately 829",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "BAE Systems",
+   "reason": "BAE Systems is the original equipment manufacturer (OEM) and the only known source with the requisite knowledge, experience, and technical data to produce the STAR XIII MCs.",
+   "equipment_class": "other equipment",
+   "installed_location": "C-130J fleet",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2892,
+  "out": 792
+ },
+ "model": "claude-sonnet-5"
+}

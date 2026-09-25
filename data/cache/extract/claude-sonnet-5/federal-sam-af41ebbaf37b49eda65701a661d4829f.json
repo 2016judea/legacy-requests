@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Chanoine Winch",
+   "part": "Original Equipment Manufacturer (OEM) Chanoine Winch, supply only",
+   "part_numbers": [
+    "SA-CP10000-30-DC-BB"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Schoellhorn-Albrecht Machine Co., Inc.",
+   "reason": "Schoellhorn-Albrecht is the only source capable of providing a winch that is physically and functionally interchangeable with existing assets.",
+   "equipment_class": "other equipment",
+   "installed_location": "Peoria Lock and Dam",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2672,
+  "out": 235
+ },
+ "model": "claude-sonnet-5"
+}

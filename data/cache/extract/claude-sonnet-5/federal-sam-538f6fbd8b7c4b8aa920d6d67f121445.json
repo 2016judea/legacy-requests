@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": "APX N30",
+   "part": "APX N30 Radios",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Cynergy Professional Systems",
+   "reason": "Motorola radios consistently demonstrated superior audio quality, stable roaming, and uninterrupted connectivity, essential for officer and responder safety.",
+   "equipment_class": "communications/radio",
+   "installed_location": "VA Southern Nevada Healthcare System, 6900 N. Pecos Road, North Las Vegas, NV 89086 (VAMC Las Vegas)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "CommandCentral AXS",
+   "part": "AXS Dispatch Consoles and installation of the consoles",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Cynergy Professional Systems",
+   "reason": "The CommandCentral AXS Dispatch Console is the only dispatch platform that provides full and direct access to the agency\\u2019s Motorola mission-critical communications environment without function loss",
+   "equipment_class": "communications/radio",
+   "installed_location": "VA Southern Nevada Healthcare System, 6900 N. Pecos Road, North Las Vegas, NV 89086 (VAMC Las Vegas)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Radio Programming",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Cynergy Professional Systems",
+   "reason": "Their authorization ensures access to OEM-protected software, system keys, interface protocols, firmware, and security updates that are not accessible through non-authorized vendors.",
+   "equipment_class": "communications/radio",
+   "installed_location": "VA Southern Nevada Healthcare System, 6900 N. Pecos Road, North Las Vegas, NV 89086 (VAMC Las Vegas)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "One year of maintenance support for radios and dispatch consoles",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Cynergy Professional Systems",
+   "reason": "This protects system integrity, ensures proper lifecycle support, and maintains warranty and cybersecurity compliance.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "VA Southern Nevada Healthcare System, 6900 N. Pecos Road, North Las Vegas, NV 89086 (VAMC Las Vegas)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5398,
+  "out": 1847
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Polymedco",
+   "model": null,
+   "part": "Fecal Immunochemical Test (FIT) collection kits for colorectal cancer screening, mail-in service",
+   "part_numbers": [],
+   "quantity": "approximately 6,000 FIT collection kits annually",
+   "price_usd": 500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Polymedco Cancer Diagnostic Products LLC",
+   "reason": "Polymedco Cancer Diagnostic Products LLC is the sole manufacturer and distributor of the required FIT kits and the only source that can provide FIT kits.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Washington DC VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Polymedco",
+   "model": "OC-Auto Sensor Diana",
+   "part": "Existing instrumentation to analyze FIT samples returned by Veterans",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Polymedco Cancer Diagnostic Products LLC",
+   "reason": "The required collection kits have a 14-day inoculated stability and are compatible with the existing instrumentation, OC-Auto Sensor Diana, and OC-Auto Sensor iO.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Washington DC VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Polymedco",
+   "model": "OC-Auto Sensor iO",
+   "part": "Existing instrumentation to analyze FIT samples returned by Veterans",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Polymedco Cancer Diagnostic Products LLC",
+   "reason": "The required collection kits have a 14-day inoculated stability and are compatible with the existing instrumentation, OC-Auto Sensor Diana, and OC-Auto Sensor iO.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Washington DC VA Medical Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7459,
+  "out": 1040
+ },
+ "model": "claude-sonnet-5"
+}

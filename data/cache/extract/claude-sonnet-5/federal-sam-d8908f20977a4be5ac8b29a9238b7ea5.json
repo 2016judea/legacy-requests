@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Wulco Inc. (NextGen Armor)",
+   "model": "Wolverine Escort Vehicle Light Chassis (W-EVLC)",
+   "part": "Design and build of First Article W-EVLC and development/delivery of next generation W-EVLCs",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Wulco Inc. doing business as: NextGen Armor (NextGen)",
+   "reason": "NextGen owns the original EVLC proprietary design and complete technical data package (TDP) utilizing highly specialized Government-Furnished equipment (GFE).",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "ARES (Advanced Radio Enterprise System)",
+   "part": "OST Advanced Radio Enterprise System (ARES) communication suite incorporated into a specialized custom enclosure",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Wulco Inc. doing business as: NextGen Armor (NextGen)",
+   "reason": "NextGen is the only vendor with an in-depth knowledge and understanding of the complexities of the electrical, mechanical, internal cabling, power systems requirements, and integration of the ARES communications suite",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "EVLC Aft-Body",
+   "part": "Dismantling of an EVLC and reconstituting/re-engineering the re-usable \"Aft-Body\" into a new W-EVLC",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Wulco Inc. doing business as: NextGen Armor (NextGen)",
+   "reason": "NextGen is the only manufacturer capable of dismantling an EVLC and then reconstituting and re-engineering the re-usable \"Aft-Body\" into a new W-EVLC.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3435,
+  "out": 789
+ },
+ "model": "claude-sonnet-5"
+}

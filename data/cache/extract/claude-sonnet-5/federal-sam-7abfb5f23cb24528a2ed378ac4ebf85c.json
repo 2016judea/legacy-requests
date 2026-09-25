@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Labodia",
+   "model": null,
+   "part": "Bedding Dispensing Station/Animal Cage Filling Station",
+   "part_numbers": [
+    "112-4323"
+   ],
+   "quantity": "2.00 EA",
+   "price_usd": null,
+   "lead_time": "Within 90 days ARO",
+   "sole_source_vendor": null,
+   "reason": "\"BRAND NAME OR EQUAL TO LABODIA IAW SOW\"",
+   "equipment_class": "other equipment",
+   "installed_location": "Baltimore VAMC",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9452,
+  "out": 190
+ },
+ "model": "claude-sonnet-5"
+}

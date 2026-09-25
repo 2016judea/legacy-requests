@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lockheed Martin Corporation Missiles and Fire Control",
+   "model": null,
+   "part": "CIRCUIT CARD ASSEMB",
+   "part_numbers": [
+    "13508140"
+   ],
+   "quantity": "80 EACH",
+   "price_usd": null,
+   "lead_time": "720 days after contract award (DACA)",
+   "sole_source_vendor": "Lockheed Martin Corporation Missiles and Fire Control, CAGE: 64059",
+   "reason": "THIS ITEM IS RESTRICTED TO: LOCKHEED MARTIN CORPORATION MISSILES AND FIRE CONTROL, CAGE: 64059",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Fort Bliss, TX, 79916-5801",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5294,
+  "out": 279
+ },
+ "model": "claude-sonnet-5"
+}

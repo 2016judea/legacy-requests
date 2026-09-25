@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Meggitt Aircraft Braking Systems Corporation",
+   "model": null,
+   "part": "Aircraft braking system assemblies/parts requiring OEM traceability and major repair",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Meggitt Aircraft Braking Systems Corporation",
+   "reason": "It is the Government's belief that Meggitt Aircraft Braking Systems is the only known source to provide traceability and genuine OEM parts with the packaging requirements stated in the Component Maintenance Manual (CMM).",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7214,
+  "out": 753
+ },
+ "model": "claude-sonnet-5"
+}

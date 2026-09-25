@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "fuel injection nozzle",
+   "part_numbers": [
+    "2915-01-216-5162"
+   ],
+   "quantity": "EAQ:840 each; 5-Year Qty:4,200 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Collins Engine Nozzles Inc.",
+   "reason": "This must be acquired from a manufacturing source(s) specified on a source control drawing.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7497,
+  "out": 189
+ },
+ "model": "claude-sonnet-5"
+}

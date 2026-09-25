@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pratt & Whitney",
+   "model": "TF33",
+   "part": "353 NSNs for TF33 Pacer Phoenix engine parts to be added to sole source long term contract",
+   "part_numbers": [],
+   "quantity": "353",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Pratt & Whitney (CAGE 52661/77445)",
+   "reason": "This agency proposes this Sources Sought as a means of conducting market research to determine if other companies can provide any items that have been determined to be sole source to Pratt & Whitney.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2994,
+  "out": 227
+ },
+ "model": "claude-sonnet-5"
+}

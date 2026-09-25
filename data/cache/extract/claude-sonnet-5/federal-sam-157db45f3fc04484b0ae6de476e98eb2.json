@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Philips",
+   "model": "Epiq 7 / EPIQ Elite",
+   "part": "Upgrade of existing Philips Epiq 7 ultrasound systems (12 units) to EPIQ Elite advanced for general imaging, hardware and software",
+   "part_numbers": [],
+   "quantity": "12 units",
+   "price_usd": 983248.62,
+   "lead_time": null,
+   "sole_source_vendor": "PHILIPS NORTH AMERICA LLC",
+   "reason": "The original equipment manufacturer (OEM), Philips, is the only contractor who can provide the upgrade and as such is a logical follow-on to the original contract, due to the need to operate with existing OEM\u2019S components and the proprietary nature of the hardware and software.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "MINNEAPOLIS MN VAMC",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5786,
+  "out": 302
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Evoqua",
+   "model": "EON ROVER ALX",
+   "part": "Supply and install EON\u00ae-ROVER\u00ae ALX kits (Portable Reverse Osmosis Water Purification System with Dialysis Water Transport System), including RO system, transport system, and two spare carbon block filter cartridges",
+   "part_numbers": [
+    "W3T591409"
+   ],
+   "quantity": "three (3)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name or Equal",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "East Orange VA Medical Center, 385 Tremont Avenue, East Orange, NJ 07018",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8112,
+  "out": 598
+ },
+ "model": "claude-sonnet-5"
+}

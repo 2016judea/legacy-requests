@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Frontgrade",
+   "model": "1618 to 1625 Conversion Kit",
+   "part": "ASR-8 rotary joint conversion kit to convert Model 1618 to Model 1625 configuration",
+   "part_numbers": [],
+   "quantity": "seventeen",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Frontgrade",
+   "reason": "Frontgrade is the OEM for both the Model 1618 and Model 1625 rotary joints and is the proprietary owner and sole approved source for more than half of the components required for the conversion kit.",
+   "equipment_class": "other equipment",
+   "installed_location": "ASR-8 sites",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2978,
+  "out": 239
+ },
+ "model": "claude-sonnet-5"
+}

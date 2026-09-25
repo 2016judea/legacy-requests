@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Collins Aerospace",
+   "model": null,
+   "part": "Sole source consumable parts and depot-level reparables (DLR) for aircraft and systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Collins Aerospace",
+   "reason": "This effort has been identified as sole source to Collins Aerospace.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5466,
+  "out": 177
+ },
+ "model": "claude-sonnet-5"
+}

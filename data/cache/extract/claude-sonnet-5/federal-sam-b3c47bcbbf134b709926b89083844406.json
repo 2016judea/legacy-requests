@@ -1,0 +1,271 @@
+{
+ "records": [
+  {
+   "manufacturer": "Power Dynamics Innovations LLC",
+   "model": null,
+   "part": "UPPER ARM ITEM NO. 04 OF DWG, 1600904-2 REV G",
+   "part_numbers": [
+    "1600904-2/04"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "POWER DYNAMICS INNOVATIONS LLC.",
+   "reason": "as these are direct replacement parts for existing equipment and they are the manufacturer with sole proprietary information",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Power Dynamics Innovations LLC",
+   "model": null,
+   "part": "TIE ROD, STEERING, ITEM NO. 02 OF DWG, 1600904-2 REV G",
+   "part_numbers": [
+    "1600904-2/02"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "POWER DYNAMICS INNOVATIONS LLC.",
+   "reason": "as these are direct replacement parts for existing equipment and they are the manufacturer with sole proprietary information",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Power Dynamics Innovations LLC",
+   "model": null,
+   "part": "SHAFT, STEERING, ITEM NO. 08 OF DWG, 1600904-2 REV G",
+   "part_numbers": [
+    "1600904-2/08"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "POWER DYNAMICS INNOVATIONS LLC.",
+   "reason": "as these are direct replacement parts for existing equipment and they are the manufacturer with sole proprietary information",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Power Dynamics Innovations LLC",
+   "model": null,
+   "part": "LOWER ARM ASSY, ITEM NO. 01 OF DWG, 1600904-2 REV G",
+   "part_numbers": [
+    "1600904-2/01"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "POWER DYNAMICS INNOVATIONS LLC.",
+   "reason": "as these are direct replacement parts for existing equipment and they are the manufacturer with sole proprietary information",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Power Dynamics Innovations LLC",
+   "model": null,
+   "part": "BUSHING, LOWER TRUNION, 841 BRONZE STOCK, MANUAL: F9YC0-AL-IPB-010, FIG 1-25-36",
+   "part_numbers": [
+    "PDI-10037"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "POWER DYNAMICS INNOVATIONS LLC.",
+   "reason": "as these are direct replacement parts for existing equipment and they are the manufacturer with sole proprietary information",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Power Dynamics Innovations LLC",
+   "model": null,
+   "part": "STEERING ARM, FORWARD RUDDER, PL, 3/8\" X 6\" X 30-1/16\" LG, STL A36, MANUAL F9YC0-AL-IPB-010, FIG 1-25-29",
+   "part_numbers": [
+    "1600904-2/30"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "POWER DYNAMICS INNOVATIONS LLC.",
+   "reason": "as these are direct replacement parts for existing equipment and they are the manufacturer with sole proprietary information",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Power Dynamics Innovations LLC",
+   "model": null,
+   "part": "BEARING, OIL IMPREGNATED SINTERED, BRONZE, MANUAL F9YC0-AL-IPB-010, FIG 1-25-14",
+   "part_numbers": [
+    "1600904-2/15"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "POWER DYNAMICS INNOVATIONS LLC.",
+   "reason": "as these are direct replacement parts for existing equipment and they are the manufacturer with sole proprietary information",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Power Dynamics Innovations LLC",
+   "model": null,
+   "part": "MNTG PLATE, FORWARD MOTOR, PORT, DWG 1600902-6, FIGURE 1-23 INDEX NO. 5 OF TM F9YC0-AL-IPB-010, ALUMINUM 7050",
+   "part_numbers": [
+    "1600902-6"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "POWER DYNAMICS INNOVATIONS LLC.",
+   "reason": "as these are direct replacement parts for existing equipment and they are the manufacturer with sole proprietary information",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Power Dynamics Innovations LLC",
+   "model": null,
+   "part": "SPACER, RING, INDEX NO.23 OF TM F9YC0-AL-IPB-010, ITEM NO. 47 OF DWG 1600903-1, 15/16\" OD X 0.641\" ID, X 0.375\" THK, ALLOY H.T., NORTH AMERICAN STEEL #3421",
+   "part_numbers": [
+    "3421"
+   ],
+   "quantity": "16 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "POWER DYNAMICS INNOVATIONS LLC.",
+   "reason": "as these are direct replacement parts for existing equipment and they are the manufacturer with sole proprietary information",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Power Dynamics Innovations LLC",
+   "model": null,
+   "part": "FORWARD DRIVE MOUNT, MFR DWG 1600902-5, 8-1/4\" X 11-3/8\", 4140 HR",
+   "part_numbers": [
+    "1600902-5"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "POWER DYNAMICS INNOVATIONS LLC.",
+   "reason": "as these are direct replacement parts for existing equipment and they are the manufacturer with sole proprietary information",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Power Dynamics Innovations LLC",
+   "model": null,
+   "part": "LARC V WHEEL MOTOR BEARING COVER PLATE, MFR DWG 1600904-6, 2\" X 5-11/16\" X 9-1/16\" LG, ALUM T6-6061",
+   "part_numbers": [
+    "1600904-6"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "POWER DYNAMICS INNOVATIONS LLC.",
+   "reason": "as these are direct replacement parts for existing equipment and they are the manufacturer with sole proprietary information",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Power Dynamics Innovations LLC",
+   "model": null,
+   "part": "V-BOLT, STEERING ARM, FOR LARC V, FOR PORT SIDE, MFR DRAWING NO. PDI-10020, 4\" X 7.33\" X 8.61\", A514-Q",
+   "part_numbers": [
+    "PDI-10020"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "POWER DYNAMICS INNOVATIONS LLC.",
+   "reason": "as these are direct replacement parts for existing equipment and they are the manufacturer with sole proprietary information",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Power Dynamics Innovations LLC",
+   "model": null,
+   "part": "UPPER ARM ITEM NO. 04 OF DWG, 1600904-2 REV G",
+   "part_numbers": [
+    "1600904-2/04"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "POWER DYNAMICS INNOVATIONS LLC.",
+   "reason": "as these are direct replacement parts for existing equipment and they are the manufacturer with sole proprietary information",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Power Dynamics Innovations LLC",
+   "model": null,
+   "part": "TIE ROD, STEERING, ITEM NO. 02 OF DWG, 1600904-2 REV G",
+   "part_numbers": [
+    "1600904-2/02"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "POWER DYNAMICS INNOVATIONS LLC.",
+   "reason": "as these are direct replacement parts for existing equipment and they are the manufacturer with sole proprietary information",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Power Dynamics Innovations LLC",
+   "model": null,
+   "part": "SHAFT, STEERING, ITEM NO. 08 OF DWG, 1600904-2 REV G",
+   "part_numbers": [
+    "1600904-2/08"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "POWER DYNAMICS INNOVATIONS LLC.",
+   "reason": "as these are direct replacement parts for existing equipment and they are the manufacturer with sole proprietary information",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Power Dynamics Innovations LLC",
+   "model": null,
+   "part": "LOWER ARM ASSY, ITEM NO. 01 OF DWG, 1600904-2 REV G",
+   "part_numbers": [
+    "1600904-2/01"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "POWER DYNAMICS INNOVATIONS LLC.",
+   "reason": "as these are direct replacement parts for existing equipment and they are the manufacturer with sole proprietary information",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9237,
+  "out": 5049
+ },
+ "model": "claude-sonnet-5"
+}

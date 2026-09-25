@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "CONTROL SECTION, GUI",
+   "part_numbers": [
+    "13540365"
+   ],
+   "quantity": "35",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin Corporation",
+   "reason": "only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11497,
+  "out": 167
+ },
+ "model": "claude-sonnet-5"
+}

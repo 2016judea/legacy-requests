@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "General Electric Company",
+   "model": null,
+   "part": "NOZZLE,TURBINE,TURB",
+   "part_numbers": [
+    "1474M44P01"
+   ],
+   "quantity": "200",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "General Electric Company - (CAGE 07482)",
+   "reason": "General Electric Company - (CAGE 07482) is the only known source that has/owns the data, and it has been deemed uneconomical to pursue the acquisition of the data because the data and its content are not available.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4302,
+  "out": 213
+ },
+ "model": "claude-sonnet-5"
+}

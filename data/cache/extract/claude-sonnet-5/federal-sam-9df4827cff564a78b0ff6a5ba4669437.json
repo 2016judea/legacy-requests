@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens",
+   "model": "Biograph mCT & Vision",
+   "part": "Upgrade of existing Biograph mCT & Vision system with the AIDAN Clin Apps Pkg.- mCT/Vision, including additional software features and new patient positioning equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 361758.6,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Medical Solutions USA, Inc.",
+   "reason": "The original equipment manufacturer (OEM), Siemens, is the only contractor who can provide the system upgrade and as such is a logical follow-on to the original contract, due to the need to operate with existing OEM\u2019S components and the proprietary nature of the hardware and software.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "VISN 23, NWI VAHCS, Omaha, NE",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5522,
+  "out": 328
+ },
+ "model": "claude-sonnet-5"
+}

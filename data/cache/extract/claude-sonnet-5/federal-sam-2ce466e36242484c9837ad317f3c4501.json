@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Barco",
+   "model": "G-100 W19",
+   "part": "4K UHD Projector to augment current projector used for event presentations and film screenings",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "B&H Foto and Electronics Corp.",
+   "reason": "Library's needs can only be satisfied by a brand-name product or item which is essential to the Government's requirement. FAR 6.302-1(c).",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6187,
+  "out": 199
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "UTC Aerospace Systems",
+   "model": null,
+   "part": "C-5 Carbon Heat Sink Exchange",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "UTC Aerospace Systems (UTC Landing Systems), CAGE code 97153",
+   "reason": "The acquisitionis restrictedto theprime aircraftmanufacturer andonly source ofsupply knownto have thecapability offurnishing therequiredlogisticssupport \u2013 UTC.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "UTC Aerospace Systems",
+   "model": null,
+   "part": "F-16 wheels, brakes and consumables",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "UTC Aerospace Systems (UTC Landing Systems), CAGE code 97153",
+   "reason": "The F-16wheels, brakes and consumablesalong with the A-10 and E-3wheels and consumables are the only weapon systems with UTC supplies currently in use.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "UTC Aerospace Systems",
+   "model": null,
+   "part": "A-10/E-3 wheels and consumables",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "UTC Aerospace Systems (UTC Landing Systems), CAGE code 97153",
+   "reason": "The F-16wheels, brakes and consumablesalong with the A-10 and E-3wheels and consumables are the only weapon systems with UTC supplies currently in use.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "UTC Aerospace Systems",
+   "model": null,
+   "part": "C-5 and C-130 wheels, brakes and consumables",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "UTC Aerospace Systems (UTC Landing Systems), CAGE code 97153",
+   "reason": "UTCis the only firm capable of providing the services and supplies described in Section III above without the government experiencing delays in fulfilling its requirements.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "UTC Aerospace Systems",
+   "model": null,
+   "part": "F-15 wheels, brakes and consumables",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "UTC Aerospace Systems (UTC Landing Systems), CAGE code 97153",
+   "reason": "UTCis the only firm capable of providing the services and supplies described in Section III above without the government experiencing delays in fulfilling its requirements.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "PBL sustainment contract for wheels, brakes and consumables (Meggitt Aircraft Braking Systems sole-source parts referenced)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Meggitt Aircraft Braking Systems (MABS)",
+   "reason": "MABS expressed interest in the concept of the PBL for their sole-source parts, but could not respond specifically to the platforms involved in this acquisition as they are sol",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6831,
+  "out": 2895
+ },
+ "model": "claude-sonnet-5"
+}
