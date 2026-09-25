@@ -47,6 +47,20 @@ CASES = [
      L("Nor-Lake Scientific Premier Laboratory Refrigerator 115V"), False, "shared generic word + a voltage"),
     ({"id": "s", "manufacturer": "Shimadzu Scientific Instruments, Inc.", "model": "GC-2010AF, 115V"},
      L("Shimadzu GC-2010AF gas chromatograph"), True, "the same instrument"),
+    # 2026-09-26: four live matches were a different size, a service, or a family name
+    ({"id": "w", "manufacturer": "Schneider Electric", "model": "ATV630", "part_numbers": ["ATV630D15M3"]},
+     L("Schneider Electric Atv630 11kw"), False, "a catalog number beats the family: 11kW is not D15M3"),
+    ({"id": "w", "manufacturer": "Schneider Electric", "model": "ATV630", "part_numbers": ["ATV630D15M3"]},
+     L("Schneider Electric ATV630D15M3 drive"), True, "the printed catalog number"),
+    ({"id": "i", "manufacturer": "ABB", "model": "ACS880",
+      "part_numbers": ["ACS880-37-0780A-5+B054+C129+K475"]},
+     L("ABB ACS880-01-04A8-5+E200+K475"), False, "a shared +K475 option code is not the drive"),
+    ({"id": "i", "manufacturer": "ABB", "model": "ACS880", "part_numbers": ["ACS880-37-0780A-5+B054"]},
+     L("ABB REPAIR OF ACS880 FREQUENCY CONVERTE REPAIR-ACS880"), False, "a repair service is not a part"),
+    ({"id": "a", "manufacturer": "ASCO", "model": "7000 Series"},
+     L("ASCO 7000 Series Power Transfer Switch - 1200 Amp"), False, "a series name alone is not a part"),
+    ({"id": "b", "manufacturer": "ABB", "model": "ACS850-04-044A-5+E20", "part_numbers": ["ACS850-04-044A-5+E20"]},
+     L("ABB ACS850-04-044A-5"), True, "the federal drive: base number matches"),
 ]
 
 

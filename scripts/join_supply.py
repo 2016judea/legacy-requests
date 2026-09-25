@@ -101,7 +101,8 @@ def part_tokens(text: str) -> set[str]:
     raw = set()
     for i, p in enumerate(pieces):
         raw.add(norm(p))
-        if i + 1 < len(pieces):
+        # "7000 Series" is a product family, not a part: never glue a stop word on.
+        if i + 1 < len(pieces) and not {p.lower(), pieces[i + 1].lower()} & PART_STOP:
             raw.add(norm(p + pieces[i + 1]))
     return {t for t in raw if is_part_token(t)}
 
@@ -129,8 +130,13 @@ def is_vehicle_listing(listing: dict) -> bool:
     return bool(VEHICLE_LISTING.search(" ".join(str(listing.get(k) or "") for k in ("title", "model"))))
 
 
+# A repair service for a drive is not a drive. Eltra's "REPAIR OF ACS880" matched two
+# Independence cabinet drives on 2026-09-26.
+SERVICE_LISTING = re.compile(r"\brepair\b", re.I)
+
+
 def listing_tokens(listing: dict) -> set[str]:
-    if is_vehicle_listing(listing):
+    if is_vehicle_listing(listing) or SERVICE_LISTING.search(str(listing.get("title") or "")):
         return set()
     return part_tokens(" ".join(str(listing.get(k) or "") for k in ("part_number", "model", "title")))
 
@@ -179,10 +185,17 @@ def record_tokens(record: dict) -> set[str]:
         return set()
     if VEHICLE_CLASS.search(record.get("equipment_class") or ""):
         return set()
-    want = part_tokens(record["model"])
+    # When the filing prints a full catalog number, that number is the only thing
+    # a listing may match: a 15kW ATV630D15M3 is not an 11kW ATV630, and ASCO
+    # 736939 is not any 1200A 7000 Series switch (both matched live, 2026-09-26).
+    # "+B054+K475" suffixes are option codes shared across a whole range, so only
+    # the base number before the first "+" counts. The model's series tokens are
+    # used only when the filing gives no catalog number at all.
+    pn_tokens = set()
     for pn in record.get("part_numbers") or []:
-        want |= part_tokens(pn)
-    return want
+        base = str(pn).split("+")[0]
+        pn_tokens |= {norm(base)} if is_part_token(norm(base)) else set()
+    return pn_tokens or part_tokens(record["model"])
 
 
 def join(records: list[dict], listings: list[dict]) -> dict[str, list[dict]]:
