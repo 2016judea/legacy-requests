@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "McCain",
+   "model": null,
+   "part": "McCain Traffic and Pedestrian Hardware including traffic signal controllers and standard size cabinets, battery back-up cabinets, testing equipment, auxiliary products, and traffic signal heads",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 8500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Transportation Control Systems, Inc.",
+   "reason": "to provide McCain Traffic and Pedestrian Hardware at a 35% discount off manufacturer's suggested retail price",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 39981,
+  "out": 348
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,253 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stryker",
+   "model": "Power-PRO cot",
+   "part": "Annual maintenance, service and repair (ProCare) for Power Pro powered cots",
+   "part_numbers": [
+    "PROCARE-SVC-POWERPRO"
+   ],
+   "quantity": "8",
+   "price_usd": 35541.9,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales, LLC",
+   "reason": "Stryker is the sole-source provider and does not authorize any third-party companies to sell these products in the markets of Hospital, Emergency Response Services",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Fire Rescue Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "Power-LOAD",
+   "part": "Annual maintenance, service and repair (ProCare) for Power-LOAD cot fastening system",
+   "part_numbers": [
+    "PROCARE-SVC-POWER-LOAD"
+   ],
+   "quantity": "8",
+   "price_usd": 54644.8,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales, LLC",
+   "reason": "Stryker is the sole-source provider and does not authorize any third-party companies to sell these products in the markets of Hospital, Emergency Response Services",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Fire Rescue Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "Xpedition stair chair",
+   "part": "Annual maintenance, service and repair (ProCare) for Xpedition stair chairs",
+   "part_numbers": [
+    "PROCARE-XPEDITION-STAIRCHAIR"
+   ],
+   "quantity": "11",
+   "price_usd": 35938.41,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales, LLC",
+   "reason": "Stryker is the sole-source provider and does not authorize any third-party companies to sell these products in the markets of Hospital, Emergency Response Services",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Fire Rescue Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "AED",
+   "part": "Annual maintenance, service and repair (ProCare field repair) for AED devices",
+   "part_numbers": [
+    "PROCARE-SVC-AED-FIELD-REPAIR"
+   ],
+   "quantity": "17",
+   "price_usd": 24439.71,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales, LLC",
+   "reason": "Stryker is the sole-source provider and does not authorize any third-party companies to sell these products in the markets of Hospital, Emergency Response Services",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Fire Rescue Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LUCAS chest compression system",
+   "part": "Annual maintenance, service and repair (ProCare field repair) for LUCAS cardiac devices",
+   "part_numbers": [
+    "PROCARE-SVC-LUCAS-FIELD-REPAIR"
+   ],
+   "quantity": "51",
+   "price_usd": 308478.6,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales, LLC",
+   "reason": "Stryker is the sole-source provider and does not authorize any third-party companies to sell these products in the markets of Hospital, Emergency Response Services",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Fire Rescue Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LIFEPAK",
+   "part": "Annual maintenance, service and repair (ProCare field repair) for LIFEPAK monitor/defibrillators",
+   "part_numbers": [
+    "PROCARE-SVC-LIFEPAK-FIELD-REPAIR"
+   ],
+   "quantity": "26",
+   "price_usd": 331021.08,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales, LLC",
+   "reason": "Stryker is the sole-source provider and does not authorize any third-party companies to sell these products in the markets of Hospital, Emergency Response Services",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Fire Rescue Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LIFEPAK 35",
+   "part": "New and certified pre-owned Lifepak 35 monitor/defibrillator",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker",
+   "reason": "Stryker does not authorize any third-party companies to sell these products are services in the Hospital...for new and certified pre-owned Lifepak 35, 15, 20e monitors/defibrillators",
+   "equipment_class": "other equipment",
+   "installed_location": "DeKalb County Fire Rescue Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LIFEPAK 15",
+   "part": "New and certified pre-owned Lifepak 15 monitor/defibrillator",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker",
+   "reason": "Stryker does not authorize any third-party companies to sell these products are services in the Hospital...for new and certified pre-owned Lifepak 35, 15, 20e monitors/defibrillators",
+   "equipment_class": "other equipment",
+   "installed_location": "DeKalb County Fire Rescue Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LIFEPAK 20e",
+   "part": "New and certified pre-owned Lifepak 20e monitor/defibrillator",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker",
+   "reason": "Stryker does not authorize any third-party companies to sell these products are services in the Hospital...for new and certified pre-owned Lifepak 35, 15, 20e monitors/defibrillators",
+   "equipment_class": "other equipment",
+   "installed_location": "DeKalb County Fire Rescue Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LIFEPAK CR2",
+   "part": "Lifepak CR2 automated external defibrillator",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker",
+   "reason": "Stryker does not authorize any third-party companies to sell these products are services in the Hospital...Life Pak CR2 automated external defibrillators",
+   "equipment_class": "other equipment",
+   "installed_location": "DeKalb County Fire Rescue Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LIFEPAK CR2 cellular",
+   "part": "Lifepak CR2 cellular automated external defibrillator",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker",
+   "reason": "Stryker does not authorize any third-party companies to sell these products are services in the Hospital...Lifepak CR2 cellular automated external defibrillators",
+   "equipment_class": "other equipment",
+   "installed_location": "DeKalb County Fire Rescue Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LIFEPAK 1000",
+   "part": "Lifepak 1000 automated external defibrillator",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker",
+   "reason": "Stryker does not authorize any third-party companies to sell these products are services in the Hospital...Lifepak 1000 automated external defibrillators",
+   "equipment_class": "other equipment",
+   "installed_location": "DeKalb County Fire Rescue Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "HeartSine Samaritan PAD",
+   "part": "HeartSine Samaritan PAD automated external defibrillator",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker",
+   "reason": "Stryker does not authorize any third-party companies to sell these products are services in the Hospital...HeartSine Samaritan PAD automated external defibrillators",
+   "equipment_class": "other equipment",
+   "installed_location": "DeKalb County Fire Rescue Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LUCAS chest compression system",
+   "part": "New and certified pre-owned LUCAS chest compression systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker",
+   "reason": "Stryker does not authorize any third-party companies to sell these products are services in the Hospital...new and certified pre-owned LUCAS chest compression systems",
+   "equipment_class": "other equipment",
+   "installed_location": "DeKalb County Fire Rescue Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "CODE-STAT",
+   "part": "CODE-STAT data review software and service",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker",
+   "reason": "Stryker does not authorize any third-party companies to sell these products are services in the Hospital...CODE-STAT data review software and service",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "DeKalb County Fire Rescue Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LIFEPAK 15",
+   "part": "LIFEPAK 15 monitor/defibrillator components affected by parts discontinuation",
+   "part_numbers": [
+    "V15-2"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker",
+   "reason": "Stryker has been notified by our global parts providers that some components used on certain LIFEPAK 15 monitor/defibrillator models (Part Numbers beginning with V15-2) are no longer available in the market.",
+   "equipment_class": "other equipment",
+   "installed_location": "DeKalb County Fire Rescue Department",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 24662,
+  "out": 11972
+ },
+ "model": "claude-sonnet-5"
+}

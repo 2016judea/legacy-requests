@@ -1,0 +1,40 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Axon Justice Premier",
+   "part": "Justice digital evidence management services including online access, data storage, onsite support, and individual licensing for DA staff",
+   "part_numbers": [
+    "100165",
+    "73478",
+    "73618",
+    "73686",
+    "73838",
+    "85762",
+    "85767",
+    "101347",
+    "11642",
+    "101184"
+   ],
+   "quantity": "250 licenses",
+   "price_usd": 1483200,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Axon Enterprise, Inc. is the sole distributor of Axon\u2019s Justice Premier and is designed to integrate and work seamlessly with the Axon body-worn cameras and other Axon hardware used by local law enforcement",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County District Attorney's Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 47854,
+  "out": 301
+ },
+ "model": "claude-sonnet-5"
+}

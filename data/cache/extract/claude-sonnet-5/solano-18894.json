@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Emergency replacement and installation of boat launch float dock (Aluminum Boarding Float, composite decking, pile guide frames, HDPE rub board, aluminum cleats)",
+   "part_numbers": [],
+   "quantity": "6 1/2' x 100' Aluminum Boarding Float",
+   "price_usd": 191000,
+   "lead_time": null,
+   "sole_source_vendor": "Bellingham Marine",
+   "reason": "emergency repair purchase from Bellingham Marine for emergency replacement and installation of the boat launch float dock at Sandy Beach Park",
+   "equipment_class": "other equipment",
+   "installed_location": "Sandy Beach Park",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4646,
+  "out": 248
+ },
+ "model": "claude-sonnet-5"
+}

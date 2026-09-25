@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "AT&T",
+   "model": null,
+   "part": "170' tall faux water tower wireless telecommunications facility with 9 new antennas",
+   "part_numbers": [],
+   "quantity": "9 antennas",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The applicant is requesting approval of a Land Use Permit, to modify a previously approved Land Use Permit #CDLP22-02051, for an AT&T wireless telecommunications facility.",
+   "equipment_class": "communications/radio",
+   "installed_location": "5707 Highland Road, San Ramon, CA 94583 (unincorporated San Ramon area of Contra Costa County)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "30 KW generator (ancillary ground equipment)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Other ground equipment includes a new 30 KW generator and AT&T equipment shelter.",
+   "equipment_class": "generator",
+   "installed_location": "5707 Highland Road, San Ramon, CA 94583",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "AT&T",
+   "model": null,
+   "part": "AT&T equipment shelter",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Other ground equipment includes a new 30 KW generator and AT&T equipment shelter.",
+   "equipment_class": "other equipment",
+   "installed_location": "5707 Highland Road, San Ramon, CA 94583",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 6,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 50486,
+  "out": 567
+ },
+ "model": "claude-sonnet-5"
+}

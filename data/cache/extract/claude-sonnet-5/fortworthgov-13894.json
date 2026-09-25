@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Peregrine Technologies, Inc.",
+   "model": null,
+   "part": "Real-Time Crime Center law enforcement data integration software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 490000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Peregrine Technologies, Inc.",
+   "reason": "Peregrine Technologies, Inc. (Peregrine) is the documented sole source for its proprietary law enforcement integration framework, ontology, and granular security model allowing secure collaboration within Police and with other entities in compliance with Criminal Justice Information Services (CJIS) requirements.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Police Department Real-Time Crime Center (RTCC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8034,
+  "out": 275
+ },
+ "model": "claude-sonnet-5"
+}

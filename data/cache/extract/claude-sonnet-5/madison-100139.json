@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "16 hybrid 40' buses and related equipment to replace older, inefficient and maintenance-prone buses",
+   "part_numbers": [],
+   "quantity": "16",
+   "price_usd": 17432700,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The City of Madison was awarded $17,432,700 to purchase 16 hybrid 40\u2019 buses and related equipment to replace older, inefficient and maintenance-prone buses beyond their useful life.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3504,
+  "out": 650
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,205 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Ford proprietary parts and specialized maintenance and repair services for Ford vehicles within the City's fleet",
+   "part_numbers": [],
+   "quantity": "All",
+   "price_usd": 3750000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Expressway Autos LLC dba Viva Ford",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Rear Shock",
+   "part_numbers": [
+    "DG1Z-18125-F"
+   ],
+   "quantity": null,
+   "price_usd": 127.64,
+   "lead_time": null,
+   "sole_source_vendor": "Expressway Autos LLC dba Viva Ford",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Blower Motor Resistor",
+   "part_numbers": [
+    "YH2867"
+   ],
+   "quantity": null,
+   "price_usd": 82.38,
+   "lead_time": null,
+   "sole_source_vendor": "Expressway Autos LLC dba Viva Ford",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Air Filter",
+   "part_numbers": [
+    "FA1884"
+   ],
+   "quantity": null,
+   "price_usd": 19.13,
+   "lead_time": null,
+   "sole_source_vendor": "Expressway Autos LLC dba Viva Ford",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Oil Filter",
+   "part_numbers": [
+    "FL500S"
+   ],
+   "quantity": null,
+   "price_usd": 8.39,
+   "lead_time": null,
+   "sole_source_vendor": "Expressway Autos LLC dba Viva Ford",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Front Brake Pads",
+   "part_numbers": [
+    "BRF1475"
+   ],
+   "quantity": null,
+   "price_usd": 176.4,
+   "lead_time": null,
+   "sole_source_vendor": "Expressway Autos LLC dba Viva Ford",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Mirror Assembly - Right Hand",
+   "part_numbers": [
+    "DG1Z-17682-B"
+   ],
+   "quantity": null,
+   "price_usd": 219.47,
+   "lead_time": null,
+   "sole_source_vendor": "Expressway Autos LLC dba Viva Ford",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Mirror Assembly - Left Hand",
+   "part_numbers": [
+    "DG1Z-17683-B"
+   ],
+   "quantity": null,
+   "price_usd": 290.03,
+   "lead_time": null,
+   "sole_source_vendor": "Expressway Autos LLC dba Viva Ford",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Brake Sensor",
+   "part_numbers": [
+    "GL3Z-13480-A"
+   ],
+   "quantity": null,
+   "price_usd": 38.28,
+   "lead_time": null,
+   "sole_source_vendor": "Expressway Autos LLC dba Viva Ford",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Rotor Assembly",
+   "part_numbers": [
+    "5C3Z-2C026-CA"
+   ],
+   "quantity": null,
+   "price_usd": 176.4,
+   "lead_time": null,
+   "sole_source_vendor": "Expressway Autos LLC dba Viva Ford",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "EGR Valve",
+   "part_numbers": [
+    "8C3Z-9D475-D"
+   ],
+   "quantity": null,
+   "price_usd": 306.0,
+   "lead_time": null,
+   "sole_source_vendor": "Expressway Autos LLC dba Viva Ford",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Lower Alternator",
+   "part_numbers": [
+    "7C3Z-10346-EA"
+   ],
+   "quantity": null,
+   "price_usd": 331.2,
+   "lead_time": null,
+   "sole_source_vendor": "Expressway Autos LLC dba Viva Ford",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 15826,
+  "out": 3779
+ },
+ "model": "claude-sonnet-5"
+}

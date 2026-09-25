@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ZF",
+   "model": null,
+   "part": "ZF Proprietary Parts and Service",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 750000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Harbor Diesel & Equipment, Inc. dba HD Industries",
+   "reason": "Contract being terminated for convenience due to total contract expenditures being met.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4482,
+  "out": 725
+ },
+ "model": "claude-sonnet-5"
+}

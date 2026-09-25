@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Fire Facilities, Inc.",
+   "model": null,
+   "part": "Sole source patented Law Enforcement Training Structure (critical incident training structure)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 401811.38,
+   "lead_time": "4-6 weeks from date of signed purchase order",
+   "sole_source_vendor": "Fire Facilities, Inc.",
+   "reason": "for a sole source patented Law Enforcement Training Structure for the Contra Costa Office of the Sheriff for use as a critical incident training structure",
+   "equipment_class": "other equipment",
+   "installed_location": "11990 Marsh Creek Road, Clayton area (Sheriff's Range, Law Enforcement Training Center)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3686,
+  "out": 260
+ },
+ "model": "claude-sonnet-5"
+}

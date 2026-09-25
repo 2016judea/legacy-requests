@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "PCG Equipment",
+   "model": null,
+   "part": "Transaxle drive unit retrofit (electric motor and wheels) for cash carts used for station revenue collection",
+   "part_numbers": [],
+   "quantity": "20",
+   "price_usd": 325017,
+   "lead_time": null,
+   "sole_source_vendor": "PCG Equipment",
+   "reason": "PCG is the original equipment manufacturer of the cash carts and the design is proprietary to PCG. Therefore, PCG is the only vendor capable of manufacturing the propulsion system needed for the District's existing revenue collection carts.",
+   "equipment_class": "other equipment",
+   "installed_location": "BART stations",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3921,
+  "out": 236
+ },
+ "model": "claude-sonnet-5"
+}

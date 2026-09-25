@@ -1,0 +1,62 @@
+{
+ "records": [
+  {
+   "manufacturer": "Generac",
+   "model": "MGE570",
+   "part": "Mobile diesel engine-driven generator set, 570kVA, trailered, prime duty rated",
+   "part_numbers": [
+    "MDE570",
+    "MGE570"
+   ],
+   "quantity": "3 ea",
+   "price_usd": 683650.68,
+   "lead_time": "15-21 Weeks",
+   "sole_source_vendor": "Aviate Enterprises Inc.",
+   "reason": "Aviate Enterprise Inc. is an authorized dealer for Generac and provides pricing per the Sourcewell agreement.",
+   "equipment_class": "generator",
+   "installed_location": "Water Operations Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Generac",
+   "model": "MDG175DF4",
+   "part": "Mobile diesel engine-driven generator set, 175kVA, trailered, prime duty rated",
+   "part_numbers": [
+    "MDG175DF4"
+   ],
+   "quantity": "2 ea",
+   "price_usd": 210917.14,
+   "lead_time": "15-21 Weeks",
+   "sole_source_vendor": "Aviate Enterprises Inc.",
+   "reason": "Aviate Enterprise Inc. is an authorized dealer for Generac and provides pricing per the Sourcewell agreement.",
+   "equipment_class": "generator",
+   "installed_location": "Water Operations Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Generac",
+   "model": "400A TX Series",
+   "part": "400A Automatic Transfer Switch, 3 pole, 277/480 VAC three phase, 60 Hz",
+   "part_numbers": [],
+   "quantity": "5 ea",
+   "price_usd": 19656.65,
+   "lead_time": "15-21 Weeks",
+   "sole_source_vendor": "Aviate Enterprises Inc.",
+   "reason": "Aviate Enterprise Inc. is an authorized dealer for Generac and provides pricing per the Sourcewell agreement.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Water Operations Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 25553,
+  "out": 2131
+ },
+ "model": "claude-sonnet-5"
+}

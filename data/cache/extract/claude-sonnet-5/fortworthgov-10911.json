@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "West Publishing Corporation/Thomson Reuters",
+   "model": "CLEAR",
+   "part": "CLEAR investigative software subscriptions for Police, Environmental Services, Code Compliance, and Water Departments",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 138341.16,
+   "lead_time": null,
+   "sole_source_vendor": "West Publishing Corporation",
+   "reason": "West Publishing Corporation is the documented sole provider of government investigation software CLEAR.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6670,
+  "out": 211
+ },
+ "model": "claude-sonnet-5"
+}

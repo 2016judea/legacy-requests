@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Video surveillance cameras and camera software licenses",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Integral Building Systems, Inc.",
+   "reason": "sole source Contract for the purchase and installation of video surveillance cameras and camera software licenses with Integral Building Systems, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": "Parking Structure at the Village on Park",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1967,
+  "out": 191
+ },
+ "model": "claude-sonnet-5"
+}

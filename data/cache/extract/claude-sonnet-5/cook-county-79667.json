@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Microsoft",
+   "model": null,
+   "part": "Unified Support Services - countywide technical support and technical services including platform health checks, risk assessments, and workshops for Microsoft 365, Azure and Server software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 4760239.2,
+   "lead_time": null,
+   "sole_source_vendor": "Microsoft Corporation",
+   "reason": "This is a Sole Source Procurement pursuant to Section 34-139 of the Cook County Procurement Code.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3752,
+  "out": 215
+ },
+ "model": "claude-sonnet-5"
+}

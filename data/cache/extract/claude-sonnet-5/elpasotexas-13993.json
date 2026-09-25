@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cummins",
+   "model": null,
+   "part": "CNG Engines and Generator Parts and Service - captive replacement parts/components, warranty services, upkeep, maintenance for parts/mechanisms, repairs/replacements and service for vehicle propulsion systems and CNG power generation equipment",
+   "part_numbers": [],
+   "quantity": "All",
+   "price_usd": 4485000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cummins Sales and Services dba Cummins Inc.",
+   "reason": "Rocky Cummins Sales and Services is the Sole Source Distributor and provider for Cummins Generators Products and Parts.",
+   "equipment_class": "generator",
+   "installed_location": "Sun Metro",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8881,
+  "out": 260
+ },
+ "model": "claude-sonnet-5"
+}

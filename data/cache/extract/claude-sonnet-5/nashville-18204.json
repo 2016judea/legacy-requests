@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "US eDirect, Inc.",
+   "model": null,
+   "part": "Point-of-sale system maintenance and future programming for Parks and Recreation, amended to add Lightspeed License Agreement and remove Golf Dynamics",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 345000,
+   "lead_time": null,
+   "sole_source_vendor": "US eDirect, Inc.",
+   "reason": "as the result of an approved sole source form signed by Metro\\u2019s Purchasing Agent.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Parks and Recreation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lightspeed Commerce Inc.",
+   "model": "Lightspeed",
+   "part": "Golf point-of-sale software license (Lightspeed Service Agreement) to fulfill Golf Courses functionality under Tyler contract",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "US eDirect, Inc.",
+   "reason": "Addition of Service agreement for use of LightSpeed - Golf Point of Sale Software. US eDirect agrees to cover all costs associated with subcontracting the point of sale for golf and golf resale.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Parks and Recreation",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 34320,
+  "out": 478
+ },
+ "model": "claude-sonnet-5"
+}

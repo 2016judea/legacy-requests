@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pitney Bowes",
+   "model": null,
+   "part": "Postage for mail sorter equipment / postage meter machines",
+   "part_numbers": [],
+   "quantity": "All",
+   "price_usd": 1112956.56,
+   "lead_time": null,
+   "sole_source_vendor": "The Pitney Bowes Bank, Inc. dba The Pitney Bowes Reserve Account",
+   "reason": "Pitney Bowes is the sole source provider of postage for the mail sorting equipment used in the City Mailroom.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City Mailroom",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6997,
+  "out": 286
+ },
+ "model": "claude-sonnet-5"
+}

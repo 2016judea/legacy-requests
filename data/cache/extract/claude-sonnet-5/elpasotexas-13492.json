@@ -1,0 +1,77 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "OnRoute",
+   "part": "Hardware, Support Service and Software maintenance for passenger information display (PID)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 172192.0,
+   "lead_time": null,
+   "sole_source_vendor": "Trapeze Software Group, Inc., dba Vontas",
+   "reason": "the sole and authorized distributor of the OnRoute",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "bus stops",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "MPTV-EX37SW",
+   "part": "37\u201d1920X540 16:4.5 SUPER-WIDE INTELLIGENT DISPLAY, WALLMOUNT, IP-54, FAN COOLED, FULL OUTDOOR WITH 2500 NIT BRIGHTNESS, -20C TO 50C TEMPERATURE ENVELOPE",
+   "part_numbers": [
+    "MPTV-EX37SW"
+   ],
+   "quantity": "6",
+   "price_usd": 53935.0,
+   "lead_time": "sixteen (16) weeks",
+   "sole_source_vendor": "Trapeze Software Group, Inc., dba Vontas",
+   "reason": "the sole and authorized distributor of the OnRoute",
+   "equipment_class": "communications/radio",
+   "installed_location": "Brio Dyer corridor",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "MP-BRK-KIT-WALL-175E",
+   "part": "OUTDOOR RATED ARTICULATING DISPLAY MOUNT 175 LBS. CAPACITY",
+   "part_numbers": [
+    "MP-BRK-KIT-WALL-175E"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": "sixteen (16) weeks",
+   "sole_source_vendor": "Trapeze Software Group, Inc., dba Vontas",
+   "reason": "the sole and authorized distributor of the OnRoute",
+   "equipment_class": "other equipment",
+   "installed_location": "Brio Dyer corridor",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "MPTV-STD-Base",
+   "part": "Subscription of lite version of the MPTV CMS support (Year 1, 2 and 3)",
+   "part_numbers": [
+    "MPTV-STD-Base"
+   ],
+   "quantity": "Qty: 3 (2025); Qty: 30 (2022); Qty: 23 (2023)",
+   "price_usd": 79135.0,
+   "lead_time": null,
+   "sole_source_vendor": "Trapeze Software Group, Inc., dba Vontas",
+   "reason": "the sole and authorized distributor of the OnRoute",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 35212,
+  "out": 5645
+ },
+ "model": "claude-sonnet-5"
+}

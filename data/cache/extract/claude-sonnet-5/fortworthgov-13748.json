@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Agilent Technologies, Inc.",
+   "model": null,
+   "part": "Gas Chromatograph with Mass Spectrometer (GC-MS) used to determine Semi-Volatile Organic Compounds in wastewater",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "Agilent Technologies, Inc. is the sole source manufacturer of GC-MS, its hardware, software, parts, training, technical support and at-your-site services and support procedures.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Water Department Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Agilent Technologies, Inc.",
+   "model": null,
+   "part": "Gas Chromatograph with Mass Spectrometer (GC-MS) and Purge and Trap System used to determine Purgeable Organic Compounds in drinking water",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "Agilent Technologies, Inc. is the sole source manufacturer of GC-MS, its hardware, software, parts, training, technical support and at-your-site services and support procedures.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Water Department Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Agilent Technologies, Inc.",
+   "model": null,
+   "part": "Software upgrade for new GC-MS equipment, maintaining backward compatibility with existing software license already owned by the Water Department",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "Agilent is the sole source for proprietary factory recommended software updates/upgrades, engineering upgrades, and maintenance procedures.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Water Department Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Agilent Technologies, Inc.",
+   "model": null,
+   "part": "Support services including training, technical support and at-your-site service and support procedures for GC-MS equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "Agilent Technologies, Inc. is the sole equipment manufacturer for all line items on attached Quote #5801392 and is the ISO 9001-certified source for factory-authorized service, including installation and familiarization, for all Agilent hardware and software, parts, training, technical support, and at-your-site service and support procedures.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Water Department Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Agilent Technologies, Inc.",
+   "model": null,
+   "part": "Trade-in of two existing ten-year-old GC-MS equipment that can no longer be supported by Agilent Technologies, Inc.",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 92043.76,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "replace the two existing ten-year-old equipment that can no longer be supported by Agilent Technologies, Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Water Department Laboratory",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4664,
+  "out": 1406
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "enQuesta",
+   "part": "Annual Hosting, Maintenance, and Support of enQuesta Customer Information System (CIS) for customer billing system integration",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2568381.67,
+   "lead_time": null,
+   "sole_source_vendor": "Systems and Software, Inc.",
+   "reason": "Systems and Software is the owner/sole support mechanism for the enQuesta product; they are the only ones that have access to address any software defects and provide software updates",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7291,
+  "out": 225
+ },
+ "model": "claude-sonnet-5"
+}

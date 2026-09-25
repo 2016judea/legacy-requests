@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "AssetWorks",
+   "model": "Fleet Data Management System",
+   "part": "Five-year service contract for hosting, maintenance, support, and purchase of related software and hardware for the Fleet Data Management System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 11914785.78,
+   "lead_time": null,
+   "sole_source_vendor": "AssetWorks, Inc.",
+   "reason": "Utilized for procurements where functional requirements can only be satisfied by one vendor, such as those where patents, copyrights or monopolies exists",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Citywide - Department of Equipment and Fleet Management",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "AssetWorks",
+   "model": "Secure Fueling platform / GPS devices",
+   "part": "Integrated hardware and software solution using GPS devices that authenticate and wirelessly record fueling transactions and provide vehicle telematics",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AssetWorks, Inc.",
+   "reason": "AssetWorks GPS solution integrates into the Fleet Management System eliminating third party APIs and reducing redundant hardware",
+   "equipment_class": "communications/radio",
+   "installed_location": "Citywide - Department of Equipment and Fleet Management",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3134,
+  "out": 1056
+ },
+ "model": "claude-sonnet-5"
+}

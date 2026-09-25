@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cellebrite",
+   "model": "Cellebrite Premium Unlimited Package",
+   "part": "Premium as a Service Unlimited package",
+   "part_numbers": [
+    "B-PAAS-02-006"
+   ],
+   "quantity": "1",
+   "price_usd": 86100.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cellebrite Inc.",
+   "reason": "Cellebrite was determined to be the sole developer, manufacturer, and support and maintenance provider of the Premium Unlimited Package solution for Universal Forensic Extraction Devices (UFED)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "El Dorado County Sheriff's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cellebrite",
+   "model": "Premium aaS Unlimited Unlocks and Extraction",
+   "part": "Premium aaS Unlimited Unlocks and Extraction Annual Subscription",
+   "part_numbers": [
+    "U-AIS-02-136"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cellebrite Inc.",
+   "reason": "Cellebrite was determined to be the sole developer, manufacturer, and support and maintenance provider of the Premium Unlimited Package solution for Universal Forensic Extraction Devices (UFED)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "El Dorado County Sheriff's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cellebrite",
+   "model": "Premium as a Service End Point",
+   "part": "Premium as a Service End Point subscription",
+   "part_numbers": [
+    "U-AIS-02-139"
+   ],
+   "quantity": "3",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cellebrite Inc.",
+   "reason": "Cellebrite was determined to be the sole developer, manufacturer, and support and maintenance provider of the Premium Unlimited Package solution for Universal Forensic Extraction Devices (UFED)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "El Dorado County Sheriff's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cellebrite",
+   "model": "UFED 4PC Ultimate",
+   "part": "UFED 4PC Ultimate Subscription",
+   "part_numbers": [
+    "B-UFD-10-001"
+   ],
+   "quantity": "3",
+   "price_usd": 20700.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cellebrite Inc.",
+   "reason": "Cellebrite was determined to be the sole developer, manufacturer, and support and maintenance provider of the Premium Unlimited Package solution for Universal Forensic Extraction Devices (UFED)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "El Dorado County Sheriff's Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11546,
+  "out": 1012
+ },
+ "model": "claude-sonnet-5"
+}

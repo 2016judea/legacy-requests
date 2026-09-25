@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "KONI NA LLC",
+   "model": "Vertical Damper",
+   "part": "OEM Vertical Dampers (vertical shock absorbers) for the District's Fleet of the Future (FOTF) vehicles",
+   "part_numbers": [],
+   "quantity": "4 per car (2 per truck, 2 trucks per car)",
+   "price_usd": 1059466.49,
+   "lead_time": null,
+   "sole_source_vendor": "KONI NA LLC",
+   "reason": "KONI is the OEM of the original FOTF vertical dampers and the only qualified supplier due to proprietary design, tuning, and test data tied to the approved FOTF truck configuration.",
+   "equipment_class": "other equipment",
+   "installed_location": "District's Fleet of the Future (FOTF) vehicles",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4044,
+  "out": 274
+ },
+ "model": "claude-sonnet-5"
+}

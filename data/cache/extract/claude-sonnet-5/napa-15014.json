@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Crestron",
+   "model": null,
+   "part": "Audiovisual equipment for Board Chambers AV rack replacement/upgrade",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 35000,
+   "lead_time": null,
+   "sole_source_vendor": "PCD",
+   "reason": "PCD is Crestron-certified and is an authorized dealer for much of the equipment currently used within the Board Chambers, allowing the vendor to provide both the specialized programming services and manufacturer-supported hardware necessary for the project.",
+   "equipment_class": "other equipment",
+   "installed_location": "Board of Supervisors Chambers",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Crestron",
+   "model": null,
+   "part": "One-year support for programming, integration, and commissioning of Crestron-based AV system",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": 4800,
+   "lead_time": null,
+   "sole_source_vendor": "PCD",
+   "reason": "PCD is the only local certified vendor identified by the County who can program, support, and commission the County's existing Crestron-based AV systems.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Board of Supervisors Chambers",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4345,
+  "out": 825
+ },
+ "model": "claude-sonnet-5"
+}

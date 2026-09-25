@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Monthly subscription for access to discounted parts, equipment, and services at cost and biomedical replacement parts, products, repair, and any other supplies",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 360000,
+   "lead_time": null,
+   "sole_source_vendor": "PartsSource, Inc.",
+   "reason": "PartsSource, Inc. is a leading provider of medical equipment parts and solutions, serving healthcare organizations with a mission to enhance operational efficiency, reduce costs, and improve equipment uptime.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Contra Costa Regional Medical Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2827,
+  "out": 250
+ },
+ "model": "claude-sonnet-5"
+}

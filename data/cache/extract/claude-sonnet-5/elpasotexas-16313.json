@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bibliotheca",
+   "model": "selfCheck 1000",
+   "part": "selfCheck self-checkout units - service and maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Bibliotheca, LLC",
+   "reason": "This sole source letter is to confirm that Bibliotheca provides certain products that are unique to the library market, and as such, can only be acquired through Bibliotheca; namely the selfCheck\\u2122 1000 and quickConnect\\u2122 software",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Public Library",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bibliotheca",
+   "model": "quickConnect",
+   "part": "quickConnect software - service and maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Bibliotheca, LLC",
+   "reason": "This sole source letter is to confirm that Bibliotheca provides certain products that are unique to the library market, and as such, can only be acquired through Bibliotheca; namely the selfCheck\\u2122 1000 and quickConnect\\u2122 software",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "El Paso Public Library",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bibliotheca",
+   "model": "Tattle-Tape EM",
+   "part": "Tattle-Tape EM security gate products - service and maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Bibliotheca, LLC",
+   "reason": "Tattle-Tape EM products, libraryConnect and staffConnect gate. These solutions are designed and manufactured exclusively by Bibliotheca",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Public Library",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bibliotheca",
+   "model": "libraryConnect",
+   "part": "libraryConnect gate system - service and maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Bibliotheca, LLC",
+   "reason": "Tattle-Tape EM products, libraryConnect and staffConnect gate. These solutions are designed and manufactured exclusively by Bibliotheca",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Public Library",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bibliotheca",
+   "model": "staffConnect",
+   "part": "staffConnect gate system - service and maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Bibliotheca, LLC",
+   "reason": "Tattle-Tape EM products, libraryConnect and staffConnect gate. These solutions are designed and manufactured exclusively by Bibliotheca",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Public Library",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bibliotheca",
+   "model": "BookCheck",
+   "part": "BookCheck sensitizers/desensitizers - service and maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Bibliotheca, LLC",
+   "reason": "This service offers maintenance on all Bibliotheca equipment: selfChecks, Tattle-Tape Gates, and BookChecks sensitizers/desensitizers.",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Public Library",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bibliotheca",
+   "model": null,
+   "part": "Service, maintenance and parts contract for self-checks, Tattle-Tape Gates and Book Checks equipment",
+   "part_numbers": [],
+   "quantity": "94 items",
+   "price_usd": 241700.53,
+   "lead_time": null,
+   "sole_source_vendor": "Bibliotheca, LLC",
+   "reason": "the sole authorized distributor of self-checks, Tattle-Tape Gates and Book Checks for a term of three (3) years for an estimated budgeted amount of $241,700.53",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "El Paso Public Library",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10179,
+  "out": 1480
+ },
+ "model": "claude-sonnet-5"
+}

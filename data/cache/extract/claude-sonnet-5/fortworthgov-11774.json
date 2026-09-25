@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "HAAS Incorporated",
+   "model": "HAAS Alert Safety Cloud System",
+   "part": "Hazard alert notification system, associated hardware, annual service fees, maintenance, and support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 54204.0,
+   "lead_time": null,
+   "sole_source_vendor": "HAAS Incorporated",
+   "reason": "HAAS Incorporated is the sole source equipment manufacturer and vendor of the HAAS Alert Safety Cloud System, thus not subject to competitive bidding requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2894,
+  "out": 229
+ },
+ "model": "claude-sonnet-5"
+}

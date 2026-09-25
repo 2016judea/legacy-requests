@@ -1,0 +1,61 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stryker",
+   "model": "Power-PRO 2",
+   "part": "EMS Stretchers Parts, Repairs and Maintenance - new stretcher purchase",
+   "part_numbers": [
+    "6507"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Howmedica Osteonics Corp dba Stryker Sales, LLC (Stryker Medical Division)",
+   "reason": "the sole manufacturer and service provider of PowerPro Stretchers",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "Power-PRO XT",
+   "part": "EMS Stretchers Parts, Repairs and Maintenance - new stretcher purchase",
+   "part_numbers": [
+    "6506"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Howmedica Osteonics Corp dba Stryker Sales, LLC (Stryker Medical Division)",
+   "reason": "the sole manufacturer and service provider of PowerPro Stretchers",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "PowerPro Stretchers",
+   "part": "Purchase Order(s) for Solicitation 2025-0349 EMS Stretchers Parts, Repairs and Maintenance",
+   "part_numbers": [],
+   "quantity": "All",
+   "price_usd": 771850.0,
+   "lead_time": null,
+   "sole_source_vendor": "Howmedica Osteonics Corp dba Stryker Sales, LLC (Stryker Medical Division)",
+   "reason": "They are also the only factory authorized service provider with access to proprietary software necessary to perform proper maintenance and repairs.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10860,
+  "out": 1093
+ },
+ "model": "claude-sonnet-5"
+}

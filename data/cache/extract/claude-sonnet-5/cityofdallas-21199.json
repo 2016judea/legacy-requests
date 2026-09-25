@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Gorman-Rupp",
+   "model": null,
+   "part": "Two six-inch portable pumps for dewatering operations",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 169128.09,
+   "lead_time": null,
+   "sole_source_vendor": "Holland Pump Company dba BPR Operating, LLC",
+   "reason": "This purchase will provide two six-inch portable Gorma-Rupp pumps for dewatering operations within the Department of Sanitation Services.",
+   "equipment_class": "pump",
+   "installed_location": "McCommas Bluff Landfill",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3137,
+  "out": 210
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "NSH USA Corporation",
+   "model": "Wheel Truing Machine Hydraulic Power Unit",
+   "part": "Replacement of Hydraulic Power Unit and all hydraulic lines for wheel truing machine",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 247865,
+   "lead_time": "approximately one (1) year after award",
+   "sole_source_vendor": "NSH USA Corporation",
+   "reason": "The parts and services on the NSH USA Wheel Truing Machines are not available from any other source.",
+   "equipment_class": "other equipment",
+   "installed_location": "Daly City Yard (ODY)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "NSH USA Corporation",
+   "model": "Wheel Truing Machine Hydraulic Power Unit",
+   "part": "Replacement of Hydraulic Power Unit and all hydraulic lines for wheel truing machine",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 250437,
+   "lead_time": "approximately one (1) year after award",
+   "sole_source_vendor": "NSH USA Corporation",
+   "reason": "The parts and services on the NSH USA Wheel Truing Machines are not available from any other source.",
+   "equipment_class": "other equipment",
+   "installed_location": "Hayward Yard (OHY)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "NSH USA Corporation",
+   "model": "Wheel Truing Machine Hydraulic Power Unit",
+   "part": "Replacement of Hydraulic Power Unit and all hydraulic lines for wheel truing machine",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 240511,
+   "lead_time": "approximately one (1) year after award",
+   "sole_source_vendor": "NSH USA Corporation",
+   "reason": "The parts and services on the NSH USA Wheel Truing Machines are not available from any other source.",
+   "equipment_class": "other equipment",
+   "installed_location": "Richmond Yard (ORY)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5237,
+  "out": 1082
+ },
+ "model": "claude-sonnet-5"
+}

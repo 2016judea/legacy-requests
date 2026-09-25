@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "LeadsOnline, LLC",
+   "model": null,
+   "part": "Subscription-based records system for pawned and second-hand property transactions, plus investigative software services (data analysis, investigative research, cellular mapping, information sharing)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3204612.78,
+   "lead_time": null,
+   "sole_source_vendor": "LeadsOnline, LLC",
+   "reason": "LeadsOnline, LLC is the sole source provider of this integrated system. The platform includes proprietary technology and exclusive access to a nationwide database of transaction records and investigative tools that cannot be replicated by other vendors.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Dallas Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2891,
+  "out": 269
+ },
+ "model": "claude-sonnet-5"
+}

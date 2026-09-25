@@ -1,0 +1,89 @@
+{
+ "records": [
+  {
+   "manufacturer": "Teledyne ISCO",
+   "model": null,
+   "part": "Training and Support, Equipment, Software and Licenses, Parts and Related System Components for Sanitary Sewer Flow Monitoring",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Teledyne Instruments, Inc. dba Teledyne ISCO",
+   "reason": "Only Teledyne ISCO equipment, parts, and system components are compatible with existing Teledyne equipment, parts, and system components.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Department of Watershed Management (DWM) sanitary sewer system, DeKalb County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne ISCO",
+   "model": "flow monitors",
+   "part": "Flow monitors used for sewer flow monitoring, model calibration, and SSO volume quantification",
+   "part_numbers": [],
+   "quantity": "over 300",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Teledyne Instruments, Inc. dba Teledyne ISCO",
+   "reason": "The County has utilized these proprietary parts for 20 years and currently uses over 300 Teledyne ISCO flow monitors.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DeKalb County sewer system (various sewersheds)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "2150 AV",
+   "part": "Area Velocity Tracker flow monitor installed at monitoring sites",
+   "part_numbers": [
+    "2150 AV"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Teledyne Instruments, Inc. dba Teledyne ISCO",
+   "reason": "The County currently maintains 300+ flow monitors that are used for model calibration, to quantify SSO volumes, identify areas of high I/I, provide flow data for design and construction, etc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Various sewer monitoring sites, DeKalb County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "2160",
+   "part": "Dura Tracker velocity flow meter unit installed at monitoring sites",
+   "part_numbers": [
+    "2160"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Teledyne Instruments, Inc. dba Teledyne ISCO",
+   "reason": "The County currently maintains 300+ flow monitors that are used for model calibration, to quantify SSO volumes, identify areas of high I/I, provide flow data for design and construction, etc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Various sewer monitoring sites, DeKalb County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rain gauge sites used for rainfall monitoring program",
+   "part_numbers": [],
+   "quantity": "41 total rain gauge sites",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Teledyne Instruments, Inc. dba Teledyne ISCO",
+   "reason": "This equipment is utilized to collect the data needed to complete the hydraulic modeling and sewer monitoring programs required by the Consent Decree Flow and Rainfall Monitoring Program.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Various sites throughout DeKalb County sewersheds",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 45253,
+  "out": 1204
+ },
+ "model": "claude-sonnet-5"
+}

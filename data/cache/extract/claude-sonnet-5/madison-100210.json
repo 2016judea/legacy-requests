@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "StreetLight Data Inc",
+   "model": "StreetLight InSight",
+   "part": "Online transportation data analytics software platform subscription (SaaS) for MPO planning activities",
+   "part_numbers": [],
+   "quantity": "1 subscription",
+   "price_usd": 131456,
+   "lead_time": null,
+   "sole_source_vendor": "StreetLight Data, Inc.",
+   "reason": "the StreetLight InSight transportation analytics platform provides unique capabilities not offered by other vendors thus meeting the exception of 4.26(4)(a)2., and continuing the subscription with the existing vendor is more economical on the basis of time and money",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Greater Madison MPO / City of Madison Planning Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4430,
+  "out": 273
+ },
+ "model": "claude-sonnet-5"
+}

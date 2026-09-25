@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Konica Minolta",
+   "model": "AccurioJet KM-1e",
+   "part": "large format digital printing press",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 1268105,
+   "lead_time": null,
+   "sole_source_vendor": "Konica Minolta Business Solutions U.S.A, Inc.",
+   "reason": "The AccurioJet KM-1e LED UV Inkjet Production digital press (KM-1) is manufactured, sold and serviced solely by Konica Minolta.",
+   "equipment_class": "other equipment",
+   "installed_location": "Metro's Print Shop",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "current web press (old printing press) being replaced",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The purchase of a Konica Minolta Accurio Jet KM-1e LED UV Inkjet Press (KM-1) is recommended to replace the Print Shop's old printing press, which is already obsolete.",
+   "equipment_class": "other equipment",
+   "installed_location": "Metro's Print Shop",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9192,
+  "out": 405
+ },
+ "model": "claude-sonnet-5"
+}

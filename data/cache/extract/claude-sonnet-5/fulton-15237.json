@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "On-site preventive generator system maintenance and repair services, including inspections, adjustments, lubrication, replacement, and repair of components and automatic transfer switches",
+   "part_numbers": [],
+   "quantity": "31 generator systems / 31 critical locations",
+   "price_usd": 135000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Sage Properties dba Generator Maintenance of Georgia submitted the overall lowest bid in the amount of $41,265.00",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "31 critical locations throughout Fulton County, including the Fulton County Executive Airport - Charlie Brown Field, North and South Service Centers, Senior Centers, and Health facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 26536,
+  "out": 1213
+ },
+ "model": "claude-sonnet-5"
+}

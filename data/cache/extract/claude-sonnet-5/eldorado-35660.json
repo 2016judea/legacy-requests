@@ -1,0 +1,56 @@
+{
+ "records": [
+  {
+   "manufacturer": "Crowdstrike",
+   "model": "Falcon Complete",
+   "part": "Renewal of Crowdstrike Falcon Complete managed detection and response endpoint protection software and licenses for County IT devices",
+   "part_numbers": [
+    "CS.FCSD.SOLN",
+    "CS.INSIGHTB.SOLN",
+    "CS.PREVENTB.SOLN",
+    "CS.DISCB.SOLN",
+    "CS.FALCOMPS.SVC",
+    "CS.OWB.SVC",
+    "CS.INTEL.SOLN",
+    "CS.TGB.STD",
+    "CS.FALCOMPONBC.SOLN",
+    "RR.PSO.ENT.PASS",
+    "CS.DEVICE.SOLN",
+    "CS.SPOTLT.SOLN",
+    "CS.FCSS.SOLN",
+    "CS.FCS.FLEX.RES",
+    "CS.CDR.SOLN",
+    "CS.TG.STD.HPS",
+    "CS.OWCSTH.SVC",
+    "CS.FCSCU.SOLN",
+    "RR.HOS.ENT.ESTL",
+    "CS.FALCOMPS.SVC.ONDEM",
+    "CS.FCSD.SOLN.T7",
+    "CS.DEVICE.SOLN.T8",
+    "CS.SPOTLT.SOLN.T8",
+    "CS.TGB.STD.HPS",
+    "CS.FCSCU.GOV.SOLN",
+    "CS.INTEL.SOLN.T11"
+   ],
+   "quantity": "2,300 endpoint devices / 2,108 licenses",
+   "price_usd": 155878.9,
+   "lead_time": null,
+   "sole_source_vendor": "Crowdstrike",
+   "reason": "competitive bidding would produce no economic benefit to the County",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "El Dorado County IT managed devices",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12453,
+  "out": 2159
+ },
+ "model": "claude-sonnet-5"
+}

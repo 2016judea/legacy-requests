@@ -1,0 +1,423 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "One-year service agreement, with two one-year options, for generator preventive maintenance and emergency repair for facilities",
+   "part_numbers": [],
+   "quantity": "25 generators (of 37 total City-maintained units)",
+   "price_usd": 503845.06,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kohler",
+   "model": "TS-883",
+   "part": "Generator preventive maintenance and emergency repair, 500kW capacity",
+   "part_numbers": [
+    "2055881"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Health Department, 1702 Horne Rd, Corpus Christi, TX 78416",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Magna One",
+   "model": "680FDR8062 GG",
+   "part": "Generator preventive maintenance and emergency repair, 500kW capacity",
+   "part_numbers": [
+    "SE3293432"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "City Hall, 1201 Leopard St, Corpus Christi, TX 78401",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kohler",
+   "model": null,
+   "part": "Generator preventive maintenance and emergency repair, 135kW capacity",
+   "part_numbers": [
+    "34LLGMJH0002"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Gas Department, 4225 S Port Ave, Corpus Christi, TX 78415",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Olympian",
+   "model": "B50P3",
+   "part": "Generator preventive maintenance and emergency repair, 500kW capacity",
+   "part_numbers": [
+    "OLY00000CNPF01601"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Police Department, 321 John Sartain St, Corpus Christi, TX 78401",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Generac",
+   "model": "3859010100",
+   "part": "Generator preventive maintenance and emergency repair, 150kW capacity",
+   "part_numbers": [
+    "2076244"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "CCPD Motor Pool BLDG 5, Service Center Drive, Corpus Christi, TX 78415",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Generac",
+   "model": null,
+   "part": "Generator preventive maintenance and emergency repair, 500kW capacity",
+   "part_numbers": [
+    "3005196509"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Frost Bank, 2402 Leopard St, Corpus Christi, TX 78408",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kohler",
+   "model": "20RESC",
+   "part": "Generator preventive maintenance and emergency repair, 17kW capacity (2018 unit)",
+   "part_numbers": [
+    "339TGVFPO436"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "City Fuel Station, 2726 Service Center Drive, Corpus Christi, TX 78415",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Taylor",
+   "model": "450",
+   "part": "Generator preventive maintenance and emergency repair, 450kW capacity",
+   "part_numbers": [
+    "X16C113606"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Utilities - Staples Booster Pump Station, Intersection at County Rd 43/FM2444",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Taylor",
+   "model": "450",
+   "part": "Generator preventive maintenance and emergency repair, 450kW capacity",
+   "part_numbers": [
+    "X16E196614"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Utilities - Navigation Booster Pump Station, 302 Navigation, Corpus Christi, TX 78408",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Generac",
+   "model": "Generator",
+   "part": "Generator preventive maintenance and emergency repair, 300kW capacity",
+   "part_numbers": [
+    "2076244"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Fleet, 2726 Civitan Bldg 3B, Corpus Christi, Texas 78415",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Coleman EN",
+   "model": "C4117GP",
+   "part": "Generator preventive maintenance and emergency repair, 100kW capacity",
+   "part_numbers": [
+    "03013867"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "JC Elliot Transfer Station, 6594 Greenwood, Corpus Christi, Texas 78415",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kohler",
+   "model": "80RZ207",
+   "part": "Generator preventive maintenance and emergency repair, 300kW capacity",
+   "part_numbers": [
+    "260073"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Water Utility Building, 2726 Holly Rd, Corpus Christi, Texas 78415",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kohler",
+   "model": "6.2 KG125",
+   "part": "Generator preventive maintenance and emergency repair, 300kW capacity",
+   "part_numbers": [
+    "3MVGMHJ0004"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Animal Care, 2626 Holly, Corpus Christi, Texas 78415",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kohler",
+   "model": "SGV323DTB",
+   "part": "Generator preventive maintenance and emergency repair, 18kW capacity",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Fire Station 2, 13421 Leopard, Corpus Christi, Texas 78410",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Generac",
+   "model": null,
+   "part": "Generator preventive maintenance and emergency repair, 24kW capacity",
+   "part_numbers": [
+    "5830117"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Fire Station 3, 1401 Morgan Ave, Corpus Christi, Tx 78404",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Generac",
+   "model": null,
+   "part": "Generator preventive maintenance and emergency repair, 20kW capacity",
+   "part_numbers": [
+    "5577230"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Fire Station 4, 2338 Rodd Field Rd, Corpus Christi, Texas 78414",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Generac",
+   "model": null,
+   "part": "Generator preventive maintenance and emergency repair, 16kW capacity",
+   "part_numbers": [
+    "4790442"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Fire Station 6, 6713 Weber Rd., Corpus Christi, Texas 78413",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kohler",
+   "model": "SGV322K24",
+   "part": "Generator preventive maintenance and emergency repair, 18kW capacity",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Fire Station 11, 910 Airline Rd., Corpus Christi, Texas 78412",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kohler",
+   "model": "SGV322JVV",
+   "part": "Generator preventive maintenance and emergency repair, 18kW capacity",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Fire Station 13, 1802 Waldron Rd, Corpus Christi, Texas 78418",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Generac",
+   "model": null,
+   "part": "Generator preventive maintenance and emergency repair, 40kW capacity",
+   "part_numbers": [
+    "4083441"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Fire Station 14, 5901 S. Staples, Corpus Christi, Texas 78413",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Generac",
+   "model": null,
+   "part": "Generator preventive maintenance and emergency repair, 40kW capacity",
+   "part_numbers": [
+    "5098800"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Fire Station 15, 14202 Commodores, Corpus Christi, Texas 78418",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Holt/Olympian",
+   "model": null,
+   "part": "Generator preventive maintenance and emergency repair, 135kW capacity",
+   "part_numbers": [
+    "OLY00000KNPT00265"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Fire Station 16, 8185 State Hwy 361, Corpus Christi, Texas 78373",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Generac",
+   "model": null,
+   "part": "Generator preventive maintenance and emergency repair, 35kW capacity",
+   "part_numbers": [
+    "2098332"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Fire Station 17, 6869 Yorktown Blvd, Corpus Christi, Texas 78414",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kohler",
+   "model": "80",
+   "part": "Generator preventive maintenance and emergency repair, 80kW capacity",
+   "part_numbers": [
+    "SGM32K8DP"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Fire Station 18, 6226 Ayers, Corpus Christi, Texas 78415",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kohler",
+   "model": "100",
+   "part": "Generator preventive maintenance and emergency repair, 100kW capacity",
+   "part_numbers": [
+    "SGM32JNFZ"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Corpus Christi because of their extensive experience with over 350kW generators.",
+   "equipment_class": "generator",
+   "installed_location": "Fire Warehouse, 1501 Holly Rd., Corpus Christi, Texas 78417",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 34873,
+  "out": 11522
+ },
+ "model": "claude-sonnet-5"
+}

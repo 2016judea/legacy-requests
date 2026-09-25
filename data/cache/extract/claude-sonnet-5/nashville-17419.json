@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "eBooks, Eaudiobooks, ArtistWorks, eMagazines, and Kanopy Subscription Service",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 21500000,
+   "lead_time": null,
+   "sole_source_vendor": "OverDrive, Inc.",
+   "reason": "Overdrive possesses a unique list of e-books, e-audiobooks, e-magazines, and films not found with other e-book platforms. Overdrive is also the sole distributor of the Artistworks and Kanopy databases.",
+   "equipment_class": "other equipment",
+   "installed_location": "Nashville Public Library",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 58460,
+  "out": 238
+ },
+ "model": "claude-sonnet-5"
+}

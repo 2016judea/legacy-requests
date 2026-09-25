@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Supervisory Control and Data Acquisition (SCADA) instrumentation components designated as sole source products to match existing SCADA system at other Valley Water facilities",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Find that certain Supervisory Control and Data Acquisition instrumentation components as specified in the Plans and Specifications be designated as sole source products to match other products already in use at other Santa Clara Valley Water District facilities using the Supervisory Control and Data Acquisition system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "West Pipeline, Santa Clara Valley Water District facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 19183,
+  "out": 276
+ },
+ "model": "claude-sonnet-5"
+}

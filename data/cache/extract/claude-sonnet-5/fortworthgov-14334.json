@@ -1,0 +1,59 @@
+{
+ "records": [
+  {
+   "manufacturer": "Qiagen",
+   "model": "EZ2 Connect Fx",
+   "part": "Qiagen EZ2 Connect Fx robotic DNA extraction instrument to replace Life Technologies AutoMate Express",
+   "part_numbers": [
+    "9003220"
+   ],
+   "quantity": "1",
+   "price_usd": 83106.15,
+   "lead_time": null,
+   "sole_source_vendor": "Qiagen LLC",
+   "reason": "Qiagen LLC is the demonstrated sole source manufacturer of the Qiagen EZ2 Connect Fx robotic DNA extraction instrument.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Police Department Forensics Analysis Laboratory (Crime Lab)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Qiagen",
+   "model": null,
+   "part": "Maintenance and repair of Crime Lab Qiagen AIAcubes, EZ1s, and QIAgility instruments",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 50000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Qiagen LLC",
+   "reason": "City Secretary Contract (CSC) No. 59569 with Qiagen LLC was executed June 6, 2023, for maintenance and repair of Crime Lab Qiagen AIAcubes, EZ1s, and QIAgility in the amount up to $50,000.00 annually.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Police Department Forensics Analysis Laboratory (Crime Lab)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Qiagen",
+   "model": null,
+   "part": "Qiagen consumable supplies used with Crime Lab Qiagen instruments",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 50000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Qiagen LLC",
+   "reason": "CSC No. 60286 was executed October 16, 2023, for Qiagen consumable supplies used with Crime Lab Qiagen instruments in an amount up to $50,000.00 annually.",
+   "equipment_class": "other equipment",
+   "installed_location": "Police Department Forensics Analysis Laboratory (Crime Lab)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6321,
+  "out": 2437
+ },
+ "model": "claude-sonnet-5"
+}

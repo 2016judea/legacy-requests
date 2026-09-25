@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "IRIS",
+   "model": null,
+   "part": "On-board camera systems, parts and service for revenue vehicle fleet, including software licenses",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2499564.0,
+   "lead_time": null,
+   "sole_source_vendor": "Iris Infrared & Intelligent Sensors NA, Inc.",
+   "reason": "the sole and authorized distributor of IRIS cameras a proprietary on-board camera system",
+   "equipment_class": "other equipment",
+   "installed_location": "Sun Metro revenue vehicle fleet",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8523,
+  "out": 268
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tyler Technologies",
+   "model": "ias World",
+   "part": "Tyler Cloud Hosting Services Migration for ias World Software (SaaS) - cloud SaaS hosting services to assess and collect property taxes",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 4094807.88,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "Tyler Cloud Hosting Services Migration for the ias World Software (Sole Source)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4756,
+  "out": 220
+ },
+ "model": "claude-sonnet-5"
+}

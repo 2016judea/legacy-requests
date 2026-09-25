@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Integrated Home Rule Tax Processing System",
+   "part": "Application management services for Integrated Home Rule Tax Processing System, including correction of non-warranty defects, deployment of upgrades and product enhancements",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 453100.0,
+   "lead_time": null,
+   "sole_source_vendor": "Revenue Solutions, Inc.",
+   "reason": "This is a Sole Source Procurement pursuant to Section 34-139 of the Cook County Procurement Code.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Revenue",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3186,
+  "out": 233
+ },
+ "model": "claude-sonnet-5"
+}

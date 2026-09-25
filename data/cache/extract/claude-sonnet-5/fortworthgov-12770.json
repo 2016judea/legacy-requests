@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Underground Construction One-Call Notification Center Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 225000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Texas Excavation Safety Systems, Inc. d/b/a Texas 811",
+   "reason": "Texas 811 is the sole provider of one-call notification center services in Texas.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3483,
+  "out": 183
+ },
+ "model": "claude-sonnet-5"
+}

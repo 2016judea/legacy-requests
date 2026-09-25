@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Amped Software USA., Inc.",
+   "model": "AMPED 5",
+   "part": "Continued usage license for proprietary forensic image and video processing software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2475,
+   "lead_time": null,
+   "sole_source_vendor": "Amped Software USA., Inc.",
+   "reason": "proprietary forensic image and video processing software AMPED 5 for investigative purpose",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2433,
+  "out": 187
+ },
+ "model": "claude-sonnet-5"
+}

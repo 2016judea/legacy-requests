@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "PBDS (Purpose-Built, Curated Data Set)",
+   "part": "Purpose-Built, Curated Data Set (PBDS) Maintenance and Enhancements (M&E) support",
+   "part_numbers": [
+    "ME-FR-01-2025",
+    "CA-295192"
+   ],
+   "quantity": "917 hours",
+   "price_usd": 119476,
+   "lead_time": "November 1, 2025 through May 31, 2026",
+   "sole_source_vendor": "CalSAWS Consortium and Deloitte Consulting, LLP",
+   "reason": "The Joint Powers Authority has procured the software, maintenance, and any necessary equipment support of PBDS. PBDS cannot be procured independently elsewhere.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County Department of Social Services",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14854,
+  "out": 294
+ },
+ "model": "claude-sonnet-5"
+}

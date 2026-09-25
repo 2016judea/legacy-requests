@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "The Sutphen Corporation",
+   "model": null,
+   "part": "Heavy duty 105 ft. mid-mount tractor drawn aerial ladder truck",
+   "part_numbers": [],
+   "quantity": "one (1)",
+   "price_usd": 2449762.19,
+   "lead_time": null,
+   "sole_source_vendor": "The Sutphen Corporation",
+   "reason": "Use of the competitively let Sourcewell Cooperative Agreement No. 113021-SUT will allow for a reduction in the purchase of the following",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "The Sutphen Corporation",
+   "model": null,
+   "part": "Heavy duty 100 ft. mid-mount aerial ladder truck",
+   "part_numbers": [],
+   "quantity": "one (1)",
+   "price_usd": 2130469.17,
+   "lead_time": null,
+   "sole_source_vendor": "The Sutphen Corporation",
+   "reason": "Use of the competitively let Sourcewell Cooperative Agreement No. 113021-SUT will allow for a reduction in the purchase of the following",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "The Sutphen Corporation",
+   "model": null,
+   "part": "Heavy duty custom pumper truck",
+   "part_numbers": [],
+   "quantity": "one (1)",
+   "price_usd": 1298042.7,
+   "lead_time": null,
+   "sole_source_vendor": "The Sutphen Corporation",
+   "reason": "Use of the competitively let Sourcewell Cooperative Agreement No. 113021-SUT will allow for a reduction in the purchase of the following",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 5,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 93885,
+  "out": 1341
+ },
+ "model": "claude-sonnet-5"
+}

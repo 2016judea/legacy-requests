@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Mainframe and Dedicated Hosting Services (24x7x365 hosting/support of two private cloud hosting environments)",
+   "part_numbers": [],
+   "quantity": "2 (private cloud hosting environments)",
+   "price_usd": 5945518.64,
+   "lead_time": null,
+   "sole_source_vendor": "Ensono LLC",
+   "reason": "This is a Sole Source Procurement pursuant to Section 34-139 of the Cook County Procurement Code.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3870,
+  "out": 714
+ },
+ "model": "claude-sonnet-5"
+}

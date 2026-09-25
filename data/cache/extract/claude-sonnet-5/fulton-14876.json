@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Provide replacement and installation of new 800 AMPs ATS Component, 480/277V 3 PH NEMA",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 24163.9,
+   "lead_time": null,
+   "sole_source_vendor": "Power and Energy Services, Inc.",
+   "reason": "the contractor recommended replacement as the repair would only be temporary.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Fulton County Government Center, Public Safety Building, 141 Pryor Street, Atlanta, GA 30303",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Troubleshooting the Automatic Transfer Switch component to Generator System-1 (include overtime rates during weekend) plus Field Services Labor Rate (Senior Technician Supervisor)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 4122.8,
+   "lead_time": null,
+   "sole_source_vendor": "Power and Energy Services, Inc.",
+   "reason": "We contacted our stand-by contractor (Power and Energy Services, Inc.) for assistance.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fulton County Government Center, Public Safety Building, 141 Pryor Street, Atlanta, GA 30303",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 17947,
+  "out": 2175
+ },
+ "model": "claude-sonnet-5"
+}

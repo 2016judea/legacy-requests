@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Interra Global",
+   "model": null,
+   "part": "Hydrogen Sulfide Media Removal Equipment, Replacement Parts and Repair Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 350000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Unison Solutions, Inc.",
+   "reason": "Interra Global, is the sole source manufacturer of Hydrogen Sulfide Media equipment currently in operation at the water and wastewater treatment plants and Unison Solutions, Inc. is the documented sole source dealer for the Texas region and the only company that can work on these hydrogen sulfide removal vessels in this region without voiding the warranties.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "water and wastewater treatment plants",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3244,
+  "out": 304
+ },
+ "model": "claude-sonnet-5"
+}

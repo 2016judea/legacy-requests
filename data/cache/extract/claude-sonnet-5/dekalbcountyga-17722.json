@@ -1,0 +1,306 @@
+{
+ "records": [
+  {
+   "manufacturer": "Fairbanks Scales, Inc.",
+   "model": null,
+   "part": "Truck Scale Maintenance and Repair Services for nine truck scales",
+   "part_numbers": [],
+   "quantity": "9 truck scales",
+   "price_usd": 380000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks Scales, Inc.",
+   "reason": "Fairbanks Scales, Inc. is the direct manufacturer and service provider for the Atlanta area, namely Fairbanks Scales Atlanta Area Customer Service Center, for maintenance and repair services.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Central Transfer Station, North Transfer Station, and Seminole Road Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fairbanks Scales, Inc.",
+   "model": "Talon HVX",
+   "part": "Emergency replacement truck scale - 70'x10' Concrete Deck (Field Pour) w/ cover plates",
+   "part_numbers": [
+    "271070"
+   ],
+   "quantity": "1",
+   "price_usd": 76667.0,
+   "lead_time": "3 Weeks",
+   "sole_source_vendor": "Fairbanks Scales, Inc.",
+   "reason": "Fairbanks is the sole local vendor that provide maintenance and service on all DSWM scales.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Seminole Road Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fairbanks Scales, Inc.",
+   "model": null,
+   "part": "Cover plates (1x for each section)",
+   "part_numbers": [
+    "89700"
+   ],
+   "quantity": "4",
+   "price_usd": 4432.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks Scales, Inc.",
+   "reason": "Fairbanks is the sole local vendor that provide maintenance and service on all DSWM scales.",
+   "equipment_class": "other equipment",
+   "installed_location": "Seminole Road Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fairbanks Scales, Inc.",
+   "model": null,
+   "part": "4\" Riser plate (one riser)",
+   "part_numbers": [
+    "108304"
+   ],
+   "quantity": "8",
+   "price_usd": 2960.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks Scales, Inc.",
+   "reason": "Fairbanks is the sole local vendor that provide maintenance and service on all DSWM scales.",
+   "equipment_class": "other equipment",
+   "installed_location": "Seminole Road Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fairbanks Scales, Inc.",
+   "model": null,
+   "part": "70' Rub rail, factory installed",
+   "part_numbers": [
+    "91681"
+   ],
+   "quantity": "1",
+   "price_usd": 7321.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks Scales, Inc.",
+   "reason": "Fairbanks is the sole local vendor that provide maintenance and service on all DSWM scales.",
+   "equipment_class": "other equipment",
+   "installed_location": "Seminole Road Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fairbanks Scales, Inc.",
+   "model": null,
+   "part": "Pit coping (both sides of approaches replacement)",
+   "part_numbers": [
+    "169615"
+   ],
+   "quantity": "2",
+   "price_usd": 2650.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks Scales, Inc.",
+   "reason": "Fairbanks is the sole local vendor that provide maintenance and service on all DSWM scales.",
+   "equipment_class": "other equipment",
+   "installed_location": "Seminole Road Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fairbanks Scales, Inc.",
+   "model": null,
+   "part": "Retro checking foundation kit",
+   "part_numbers": [
+    "RETRO"
+   ],
+   "quantity": "1",
+   "price_usd": 3200.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks Scales, Inc.",
+   "reason": "Fairbanks is the sole local vendor that provide maintenance and service on all DSWM scales.",
+   "equipment_class": "other equipment",
+   "installed_location": "Seminole Road Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fairbanks Scales, Inc.",
+   "model": "295 Series",
+   "part": "Ticket printer (elective addition)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 780.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks Scales, Inc.",
+   "reason": "Fairbanks is the sole local vendor that provide maintenance and service on all DSWM scales.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Seminole Road Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fairbanks Scales, Inc.",
+   "model": null,
+   "part": "Undermounted steel T-belting, 11' width on both sides of scale",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 766.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks Scales, Inc.",
+   "reason": "Fairbanks is the sole local vendor that provide maintenance and service on all DSWM scales.",
+   "equipment_class": "other equipment",
+   "installed_location": "Seminole Road Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fairbanks",
+   "model": "PLT6020HVA09",
+   "part": "Truck scale maintained under sole source service agreement (Scale Damaged)",
+   "part_numbers": [
+    "PLT6020HVA09",
+    "FB7111"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks Scales, Inc.",
+   "reason": "Currently, DSWM operates nine scales that were previously installed by Fairbanks, and required ongoing support and maintenance services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Seminole Road Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fairbanks",
+   "model": "PLT6020XXXXX",
+   "part": "Truck scale maintained under sole source service agreement",
+   "part_numbers": [
+    "PLT6020XXXXX",
+    "FB7111"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks Scales, Inc.",
+   "reason": "Currently, DSWM operates nine scales that were previously installed by Fairbanks, and required ongoing support and maintenance services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Seminole Road Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fairbanks",
+   "model": "PLT6020408SP",
+   "part": "Truck scale maintained under sole source service agreement",
+   "part_numbers": [
+    "PLT6020408SP",
+    "FB7111"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks Scales, Inc.",
+   "reason": "Currently, DSWM operates nine scales that were previously installed by Fairbanks, and required ongoing support and maintenance services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Seminole Road Landfill",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fairbanks",
+   "model": "PLT-6020-HVX",
+   "part": "Truck scale maintained under sole source service agreement (Scale 54)",
+   "part_numbers": [
+    "PLT-6020-HVX",
+    "FB6012"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks Scales, Inc.",
+   "reason": "Currently, DSWM operates nine scales that were previously installed by Fairbanks, and required ongoing support and maintenance services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DeKalb Central Transfer Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fairbanks",
+   "model": "PLT-6020-HVX",
+   "part": "Truck scale maintained under sole source service agreement (Scale 55)",
+   "part_numbers": [
+    "PLT-6020-HVX",
+    "FB6012"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks Scales, Inc.",
+   "reason": "Currently, DSWM operates nine scales that were previously installed by Fairbanks, and required ongoing support and maintenance services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DeKalb Central Transfer Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fairbanks",
+   "model": "PLT-6020-HVX",
+   "part": "Truck scale maintained under sole source service agreement (Tunnel North #1)",
+   "part_numbers": [
+    "PLT-6020-HVX",
+    "IND-R2500-F2"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks Scales, Inc.",
+   "reason": "Currently, DSWM operates nine scales that were previously installed by Fairbanks, and required ongoing support and maintenance services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DeKalb Central Transfer Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fairbanks",
+   "model": "PLT-6020-HVX",
+   "part": "Truck scale maintained under sole source service agreement (Tunnel North #2)",
+   "part_numbers": [
+    "PLT-6020-HVX",
+    "IND-R2500-F2"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks Scales, Inc.",
+   "reason": "Currently, DSWM operates nine scales that were previously installed by Fairbanks, and required ongoing support and maintenance services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DeKalb Central Transfer Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fairbanks",
+   "model": "PLT-6020-HVX",
+   "part": "Truck scale maintained under sole source service agreement (Tunnel South)",
+   "part_numbers": [
+    "PLT-6020-HVX",
+    "IND-R2500-F2"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks Scales, Inc.",
+   "reason": "Currently, DSWM operates nine scales that were previously installed by Fairbanks, and required ongoing support and maintenance services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DeKalb Central Transfer Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fairbanks",
+   "model": "PLT-2600",
+   "part": "Truck scale maintained under sole source service agreement",
+   "part_numbers": [
+    "PLT-2600",
+    "IND-2500-F1"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks Scales, Inc.",
+   "reason": "Currently, DSWM operates nine scales that were previously installed by Fairbanks, and required ongoing support and maintenance services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DeKalb North Transfer Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 21705,
+  "out": 11783
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,36 @@
+{
+ "records": [
+  {
+   "manufacturer": "WesTech Engineering, LLC",
+   "model": null,
+   "part": "WesTech Clarifier Drive Units, Parts and Repair Services",
+   "part_numbers": [
+    "3629A 150'",
+    "3629B 130'",
+    "3660A 160'",
+    "3660B 80'",
+    "3955A 150'",
+    "3864A 60' DAF"
+   ],
+   "quantity": null,
+   "price_usd": 800000.0,
+   "lead_time": null,
+   "sole_source_vendor": "WesTech Engineering, LLC",
+   "reason": "No other manufacturer or parts distributor can supply this equipment or its proprietary components.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Village Creek Water Reclamation Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5709,
+  "out": 745
+ },
+ "model": "claude-sonnet-5"
+}

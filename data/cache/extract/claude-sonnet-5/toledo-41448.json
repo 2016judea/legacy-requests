@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "emergency replacement of a roll off truck to service the Bay View Water Reclamation Plant",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 325000,
+   "lead_time": null,
+   "sole_source_vendor": "Jack Doheny Company",
+   "reason": "Jack Doheny Company was immediately ready to proceed with emergency procurement of a roll off truck at the Bay View Water Reclamation Plant.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Bay View Water Reclamation Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3005,
+  "out": 213
+ },
+ "model": "claude-sonnet-5"
+}

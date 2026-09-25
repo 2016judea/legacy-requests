@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Arbor Jet",
+   "model": "TREEage",
+   "part": "Chemicals and supplies (TREEage insecticide and application/injection equipment) for EAB mitigation treatment of Ash trees",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SiteOne Landscape Supply Holding LLC",
+   "reason": "SiteOne Landscape Supply Holding, LLC is the only distributor of TREEage insecticide and equipment in Dane County.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "City of Madison Forestry Section",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2695,
+  "out": 570
+ },
+ "model": "claude-sonnet-5"
+}

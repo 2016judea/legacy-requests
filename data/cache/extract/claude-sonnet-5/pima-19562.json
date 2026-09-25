@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cisco",
+   "model": null,
+   "part": "Cisco and F5 Networking Equipment (hardware, software, cloud solutions, and services)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2338100.06,
+   "lead_time": null,
+   "sole_source_vendor": "Custom Storage, Inc., dba cStor",
+   "reason": "Cooperative procurement authorized, on 03/03/2020, the Board of Supervisors approved an award of contract",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "F5",
+   "model": null,
+   "part": "Cisco and F5 Networking Equipment (hardware, software, cloud solutions, and services)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 7212813.35,
+   "lead_time": null,
+   "sole_source_vendor": "Insight Public Sector, Inc.",
+   "reason": "Cooperative procurement authorized, on 03/03/2020, the Board of Supervisors approved an award of contract",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cisco",
+   "model": null,
+   "part": "Cisco and F5 Networking Equipment (hardware, software, cloud solutions, and services)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 7851652.13,
+   "lead_time": null,
+   "sole_source_vendor": "World Wide Technology, L.L.C.",
+   "reason": "Cooperative procurement authorized, on 03/03/2020, the Board of Supervisors approved an award of contract",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Networking equipment contract (discontinued vendor)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1437434.46,
+   "lead_time": null,
+   "sole_source_vendor": "Escape Velocity Holdings, Inc.",
+   "reason": "which discontinued Escape Velocity Holdings, d.b.a. Trace3, LLC.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10379,
+  "out": 798
+ },
+ "model": "claude-sonnet-5"
+}

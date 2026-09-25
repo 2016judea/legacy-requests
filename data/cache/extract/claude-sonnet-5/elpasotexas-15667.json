@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Volvo",
+   "model": null,
+   "part": "Parts and service for Volvo equipment (in-house repairs and preventive maintenance)",
+   "part_numbers": [],
+   "quantity": "31 pieces of equipment (combined Volvo, Doosan, Superior Broom)",
+   "price_usd": 750000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Romco Inc, dba ROMCO Equipment Co, LLC",
+   "reason": "a procurement of items that are available from only one source, including: (D) captive replacement parts or components for equipment;",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Doosan",
+   "model": null,
+   "part": "Parts and service for Doosan equipment (in-house repairs and preventive maintenance)",
+   "part_numbers": [],
+   "quantity": "31 pieces of equipment (combined Volvo, Doosan, Superior Broom)",
+   "price_usd": 750000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Romco Inc, dba ROMCO Equipment Co, LLC",
+   "reason": "a procurement of items that are available from only one source, including: (D) captive replacement parts or components for equipment;",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Superior Broom",
+   "model": null,
+   "part": "Parts and service for Superior Broom equipment (in-house repairs and preventive maintenance)",
+   "part_numbers": [],
+   "quantity": "31 pieces of equipment (combined Volvo, Doosan, Superior Broom)",
+   "price_usd": 750000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Romco Inc, dba ROMCO Equipment Co, LLC",
+   "reason": "a procurement of items that are available from only one source, including: (D) captive replacement parts or components for equipment;",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9303,
+  "out": 676
+ },
+ "model": "claude-sonnet-5"
+}

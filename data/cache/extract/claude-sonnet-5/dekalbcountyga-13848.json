@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "MARS",
+   "model": "MARS Meter Testing Equipment",
+   "part": "Software maintenance of MARS Meter Testing Equipment (hardware/software maintenance and support)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 150000.0,
+   "lead_time": null,
+   "sole_source_vendor": "OW Investors, LLC dba Mars Company",
+   "reason": "This contract consists of software maintenance of MARS Meter Testing Equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3720,
+  "out": 203
+ },
+ "model": "claude-sonnet-5"
+}

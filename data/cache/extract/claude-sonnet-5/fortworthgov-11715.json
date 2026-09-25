@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Simtable",
+   "model": null,
+   "part": "Simulation table, associated software, support, and maintenance (5-year support and maintenance plan)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 102965.0,
+   "lead_time": null,
+   "sole_source_vendor": "Simtable LLC",
+   "reason": "Simtable, LLC is the sole source equipment manufacturer and vendor of this technology, thus not subject to competitive bidding requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2879,
+  "out": 195
+ },
+ "model": "claude-sonnet-5"
+}

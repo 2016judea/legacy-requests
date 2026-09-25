@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "HD Industries",
+   "model": "Pro Patch Asphalt Pothole Patcher",
+   "part": "Replacement parts and maintenance components for operation, repair, and upkeep of city-owned Pro Patch asphalt patchers",
+   "part_numbers": [],
+   "quantity": "16 units (fleet)",
+   "price_usd": 360000.0,
+   "lead_time": null,
+   "sole_source_vendor": "HD Industries, Inc.",
+   "reason": "H.D. Industries, Inc. is the sole manufacturer of the Pro-Patch Asphalt Pothole Patcher, and all related equipment parts. We are the sole source and distributor for the Pro-Patch parts and we have the exclusive territory for El Paso, TX.",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso, TX - Streets and Maintenance Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9197,
+  "out": 301
+ },
+ "model": "claude-sonnet-5"
+}

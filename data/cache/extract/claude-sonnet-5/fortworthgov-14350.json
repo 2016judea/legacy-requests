@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Network vault transformers (relocated/replaced transformer vault equipment for arena)",
+   "part_numbers": [],
+   "quantity": "five",
+   "price_usd": null,
+   "lead_time": "long lead time equipment",
+   "sole_source_vendor": "Oncor Electric Delivery Company LLC",
+   "reason": "The following equipment will be pre-ordered: five network vault transformers, network protectors, and other ancillary items with long lead times.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Fort Worth Convention Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Network protectors for transformer vault",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "long lead time equipment",
+   "sole_source_vendor": "Oncor Electric Delivery Company LLC",
+   "reason": "The following equipment will be pre-ordered: five network vault transformers, network protectors, and other ancillary items with long lead times.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Fort Worth Convention Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Other ancillary items with long lead times for the transformer vault",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "long lead time equipment",
+   "sole_source_vendor": "Oncor Electric Delivery Company LLC",
+   "reason": "The following equipment will be pre-ordered: five network vault transformers, network protectors, and other ancillary items with long lead times.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fort Worth Convention Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9413,
+  "out": 1220
+ },
+ "model": "claude-sonnet-5"
+}

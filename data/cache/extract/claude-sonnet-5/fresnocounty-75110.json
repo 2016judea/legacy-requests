@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Commvault",
+   "model": "Cloud Cyber Resilience",
+   "part": "Enterprise backup and recovery software, licensing, and maintenance services (virtual machines and physical backup storage)",
+   "part_numbers": [],
+   "quantity": "800 virtual machines (VMs); 40 terabytes (TBs) physical front-end",
+   "price_usd": 354113.6,
+   "lead_time": null,
+   "sole_source_vendor": "Commvault Systems, Inc.",
+   "reason": "Commvault's products and licenses are patented and can only be renewed, maintained, and supported by Commvault.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "County of Fresno",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Commvault",
+   "model": "Cloud AirGap Protect",
+   "part": "Cloud AirGap Protect backup storage service",
+   "part_numbers": [],
+   "quantity": "250 TB",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Commvault Systems, Inc.",
+   "reason": "because Commvault's products are proprietary, Commvault is the only company that can provide the licenses and support for these products.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "County of Fresno",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 1
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10985,
+  "out": 430
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Avolve Software Corporation",
+   "model": "ProjectDox",
+   "part": "SAAS ProjectDox Electronic Plan Review software - continued support, maintenance, training services, and software updates",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 134352.0,
+   "lead_time": null,
+   "sole_source_vendor": "Avolve Software Corporation",
+   "reason": "SAAS ProjectDox Electronic Plan Review (Sole Source)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Planning & Sustainability (P&S)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4192,
+  "out": 217
+ },
+ "model": "claude-sonnet-5"
+}

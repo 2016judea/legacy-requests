@@ -1,0 +1,45 @@
+{
+ "records": [
+  {
+   "manufacturer": "Acorn Secur-Care",
+   "model": "LR1449",
+   "part": "Ligature Resistant Combination Fixture (lavatory, drinking fountain, water closet) within Housing Cell",
+   "part_numbers": [
+    "LR1449"
+   ],
+   "quantity": "14",
+   "price_usd": 280000,
+   "lead_time": null,
+   "sole_source_vendor": "Elmco & Associates, Inc.",
+   "reason": "The County of Fresno Detention Facility contains Detention Pods equipped with these exact Acorn Combination Fixtures. In the event the fixtures are damaged, the need to be replaced is imperative for the County of Fresno Detention Facility to continue operation, and it is impractical for the Fresno County Detention Facility to keep bulk replacement parts for multiple fixture models due to limited storage capacity.",
+   "equipment_class": "other equipment",
+   "installed_location": "County of Fresno Main Detention Facility, 1225 M Street, Fresno, CA 93721",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trussbilt",
+   "model": "Detention Security Door and Frame",
+   "part": "Detention Security Door and Frame providing access control between Housing Cell and Day Room",
+   "part_numbers": [],
+   "quantity": "14 sets",
+   "price_usd": 252000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The County of Fresno Detention Facility contains Detention Pods equipped with these exact Trussbilt Detention Security Doors and Frames. In the event the doors or the frames are damaged, the need to be replaced is imperative for the County of Fresno Detention Facility to continue operation, and it is impractical for the Fresno County Detention Facility to keep bulk replacement parts for multiple door and frame models due to limited storage capacity.",
+   "equipment_class": "other equipment",
+   "installed_location": "County of Fresno Main Detention Facility, 1225 M Street, Fresno, CA 93721",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 5,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10290,
+  "out": 976
+ },
+ "model": "claude-sonnet-5"
+}

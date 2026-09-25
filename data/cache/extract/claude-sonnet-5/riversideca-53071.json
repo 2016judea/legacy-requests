@@ -1,0 +1,95 @@
+{
+ "records": [
+  {
+   "manufacturer": "Emerson - MAS",
+   "model": "RX3I CPE001",
+   "part": "RX3I CPE001 Carrier with RJ-45 copper ET",
+   "part_numbers": [
+    "IC695CEP001"
+   ],
+   "quantity": "35 EA",
+   "price_usd": 24853.5,
+   "lead_time": null,
+   "sole_source_vendor": "CB Pacific Inc.",
+   "reason": "CB Pacific Inc. is the authorized distributor",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Riverside Energy Resource Center",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Emerson - MAS",
+   "model": "RX3I CEE001",
+   "part": "RX3I CEE001 Expansion Carrier",
+   "part_numbers": [
+    "IC694CEE001"
+   ],
+   "quantity": "35 EA",
+   "price_usd": 9072.0,
+   "lead_time": null,
+   "sole_source_vendor": "CB Pacific Inc.",
+   "reason": "CB Pacific Inc. is the authorized distributor",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Riverside Energy Resource Center",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Emerson - MAS",
+   "model": null,
+   "part": "Input module; 120 VAC 8 point; isolated per point.",
+   "part_numbers": [
+    "IC694MDL230"
+   ],
+   "quantity": "35 EA",
+   "price_usd": 10048.5,
+   "lead_time": null,
+   "sole_source_vendor": "CB Pacific Inc.",
+   "reason": "CB Pacific Inc. is the authorized distributor",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Riverside Energy Resource Center",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Emerson - MAS",
+   "model": null,
+   "part": "Output module; relay 4 amp; 8 point isolated per point.",
+   "part_numbers": [
+    "IC694MDL930"
+   ],
+   "quantity": "35 EA",
+   "price_usd": 9859.5,
+   "lead_time": null,
+   "sole_source_vendor": "CB Pacific Inc.",
+   "reason": "CB Pacific Inc. is the authorized distributor",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Riverside Energy Resource Center",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Emerson - MAS",
+   "model": null,
+   "part": "Profinet Controller (PNC) module providing functions, services, and protocols for PROFINET IO Version 2.2 device certification, running at 100Mbps and 1Gbps",
+   "part_numbers": [
+    "IC695PNC001"
+   ],
+   "quantity": "6 EA",
+   "price_usd": 10243.8,
+   "lead_time": null,
+   "sole_source_vendor": "CB Pacific Inc.",
+   "reason": "CB Pacific Inc. is the authorized distributor",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Riverside Energy Resource Center",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6546,
+  "out": 2435
+ },
+ "model": "claude-sonnet-5"
+}

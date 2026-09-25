@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Crime Tech Solutions, LLC",
+   "model": "Case Closed",
+   "part": "Cloud-based CJIS compliant software solution for managing law enforcement interactions",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 271244.5,
+   "lead_time": null,
+   "sole_source_vendor": "Crime Tech Solutions, LLC",
+   "reason": "Crime Tech Solutions, LLC (CTS) in Leander, Texas, is a sole source vendor for Informant & Money Management as the only cloud-based, CJIS-compliant, commercial off-the-shelf (COTS) software designed specifically for managing law enforcement interactions and cases with Confidential Informants.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3639,
+  "out": 282
+ },
+ "model": "claude-sonnet-5"
+}

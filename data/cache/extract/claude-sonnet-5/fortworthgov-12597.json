@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Leeds Precision Instruments, Inc.",
+   "model": "LCF3",
+   "part": "Leeds Firearms and Tool Marks Comparison Microscope (LCF3)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 100392.0,
+   "lead_time": null,
+   "sole_source_vendor": "Leeds Precision Instruments, Inc.",
+   "reason": "Leeds Precision Instruments, Inc. is the sole manufacturer and distributor of the Leeds LCF3 Firearms and Tool Marks Comparison Microscope.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Police Department Forensic Analysis Laboratory (Crime Lab)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Leica",
+   "model": "FS C",
+   "part": "Leica FS C Microscope (existing unit being replaced)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The Leica system is obsolete and parts are not readily available in the market for repairs.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Police Department Forensic Analysis Laboratory (Crime Lab)",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Microscope maintenance agreement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5220.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Current/Prior Agreement for item/service: Yes No CSC or Purchase Order #: CSC 56123 Microscope maintenance",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Police Department Forensic Analysis Laboratory (Crime Lab)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Camera",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 10000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Current/Prior Agreement for item/service: Yes No CSC or Purchase Order #: CSC 59825 Camera",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Police Department Forensic Analysis Laboratory (Crime Lab)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6475,
+  "out": 1946
+ },
+ "model": "claude-sonnet-5"
+}

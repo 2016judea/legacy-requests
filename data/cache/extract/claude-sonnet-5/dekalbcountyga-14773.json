@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rockwell Automation/Allen-Bradley",
+   "model": null,
+   "part": "Rockwell Automation service and support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2100000.0,
+   "lead_time": null,
+   "sole_source_vendor": "McNaughton-McKay Electric Company",
+   "reason": "McNaughton-McKay is the exclusive provider of Rockwell Automation parts and service for our region.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Scott Candler, Snapfinger, and Pole Bridge plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rockwell Automation/Allen-Bradley",
+   "model": null,
+   "part": "Variable Frequency Drives (VFDs)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "McNaughton-McKay Electric Company",
+   "reason": "The parts and services support vital systems such as Variable Frequency Drives (VFDs), Programmable Logic Controllers (PLCs), and other equipment",
+   "equipment_class": "motor/drive",
+   "installed_location": "Scott Candler, Snapfinger, and Pole Bridge plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rockwell Automation/Allen-Bradley",
+   "model": null,
+   "part": "Programmable Logic Controllers (PLCs)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "McNaughton-McKay Electric Company",
+   "reason": "The parts and services support vital systems such as Variable Frequency Drives (VFDs), Programmable Logic Controllers (PLCs), and other equipment",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Scott Candler, Snapfinger, and Pole Bridge plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rockwell Automation",
+   "model": null,
+   "part": "ROCKWELL AUTOM. HARDWARE",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 150000.0,
+   "lead_time": null,
+   "sole_source_vendor": "McNaughton-McKay Electric Company",
+   "reason": "McNaughton-McKay is the exclusive provider of Rockwell Automation parts and service for our region.",
+   "equipment_class": "other equipment",
+   "installed_location": "Pole Bridge WPC Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rockwell Automation",
+   "model": null,
+   "part": "ROCKWELL AUTOM. HARDWARE",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 1050000.0,
+   "lead_time": null,
+   "sole_source_vendor": "McNaughton-McKay Electric Company",
+   "reason": "McNaughton-McKay is the exclusive provider of Rockwell Automation parts and service for our region.",
+   "equipment_class": "other equipment",
+   "installed_location": "Scott Candler Filter Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rockwell Automation",
+   "model": null,
+   "part": "ROCKWELL AUTOM. HARDWARE",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 900000.0,
+   "lead_time": null,
+   "sole_source_vendor": "McNaughton-McKay Electric Company",
+   "reason": "McNaughton-McKay is the exclusive provider of Rockwell Automation parts and service for our region.",
+   "equipment_class": "other equipment",
+   "installed_location": "Snapfinger WPC Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 16109,
+  "out": 2459
+ },
+ "model": "claude-sonnet-5"
+}

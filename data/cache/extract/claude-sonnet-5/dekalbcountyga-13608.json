@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "LabWorks, LLC",
+   "model": "LABWORKS",
+   "part": "LABWORKS software, licenses, maintenance support, and training used for water and wastewater pollution tracking, analysis, and reporting",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 159498.0,
+   "lead_time": null,
+   "sole_source_vendor": "LABWORKS, LLC",
+   "reason": "This software is a vital lifeline of support that is imperative to maintain.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Watershed Management",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 25216,
+  "out": 210
+ },
+ "model": "claude-sonnet-5"
+}

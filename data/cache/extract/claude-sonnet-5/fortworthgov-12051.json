@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Huber",
+   "model": "Strain Press",
+   "part": "Three Huber Strain Press Units for the Water Department",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": 712673.0,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Improvements, Inc.",
+   "reason": "Environmental Improvements, Inc. is the sole source distributor in Texas of HUBER products, parts and services.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Village Creek Wastewater Treatment",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4883,
+  "out": 216
+ },
+ "model": "claude-sonnet-5"
+}

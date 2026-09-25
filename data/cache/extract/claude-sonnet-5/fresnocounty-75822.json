@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Evident Change",
+   "model": "SafeMeasures",
+   "part": "Internet reporting system subscription (SafeMeasures) providing case-level reports extracted from CWS/CMS for Child Welfare Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 379032,
+   "lead_time": null,
+   "sole_source_vendor": "Evident Change",
+   "reason": "this is the only vendor authorized to access the State of California\\u2019s Child Welfare Services/Case Management System data",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County Department of Social Services",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 19353,
+  "out": 221
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Basic Tier SCADA Service - monitoring and support for 37 existing sites, including communications airtime for field-installed modems",
+   "part_numbers": [],
+   "quantity": "37 sites online",
+   "price_usd": 79920.0,
+   "lead_time": null,
+   "sole_source_vendor": "eLynx Technologies, LLC",
+   "reason": "Contractor has bid to provide Web-Based SCADA System Suite and Support Services in response to Request for Bid/Proposal No. 7039",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Gas Operations Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Support Fees - image view/support needs, custom reporting, troubleshooting and consultation",
+   "part_numbers": [],
+   "quantity": "20 hours per year estimate",
+   "price_usd": 9000.0,
+   "lead_time": null,
+   "sole_source_vendor": "eLynx Technologies, LLC",
+   "reason": "Contractor has bid to provide Web-Based SCADA System Suite and Support Services in response to Request for Bid/Proposal No. 7039",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Gas Operations Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Multi-Input Kits",
+   "part": "Hardware for up to 20 new assets (Multi-Input Kits) including 3 years of service, hardware, and setup fees",
+   "part_numbers": [],
+   "quantity": "up to 20 new assets",
+   "price_usd": 129535.0,
+   "lead_time": null,
+   "sole_source_vendor": "eLynx Technologies, LLC",
+   "reason": "Contractor has bid to provide Web-Based SCADA System Suite and Support Services in response to Request for Bid/Proposal No. 7039",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Gas Operations Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Preventative Maintenance - two on-site service visits per year, minimum 24 hours per visit, including travel, mileage, and lodging",
+   "part_numbers": [],
+   "quantity": "2 site visits per year",
+   "price_usd": 22170.0,
+   "lead_time": null,
+   "sole_source_vendor": "eLynx Technologies, LLC",
+   "reason": "Contractor has bid to provide Web-Based SCADA System Suite and Support Services in response to Request for Bid/Proposal No. 7039",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Gas Operations Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Materials/Parts - Service, to be used for replacement parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 60000.0,
+   "lead_time": null,
+   "sole_source_vendor": "eLynx Technologies, LLC",
+   "reason": "Contractor has bid to provide Web-Based SCADA System Suite and Support Services in response to Request for Bid/Proposal No. 7039",
+   "equipment_class": "other equipment",
+   "installed_location": "Gas Operations Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 13326,
+  "out": 3267
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Gardner Denver Nash",
+   "model": null,
+   "part": "Digester compressors, gas booster pumps, and related equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 705000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Gardner Denver Nash LLC",
+   "reason": "Gardner Denver Nash LLC, the sole source distributor for Gardner Denver Nash digester compressors, gas booster pumps and related equipment, has submitted prices for the parts required.",
+   "equipment_class": "pump",
+   "installed_location": "various locations",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2975,
+  "out": 214
+ },
+ "model": "claude-sonnet-5"
+}

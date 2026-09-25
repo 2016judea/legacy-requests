@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Two 500 kW natural gas standby generators with Service Entrance Rated (SER) 2000A, 480/277V automatic transfer switch (ATS) for backup power",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 1944075.0,
+   "lead_time": "36 months",
+   "sole_source_vendor": null,
+   "reason": "Metro Nashville requests $1.9 million in Building Resilient Infrastructure and Communities (BRIC) funding to purchase and install two 500 kW generators to ensure continuous operations at The Fairgrounds Nashville",
+   "equipment_class": "generator",
+   "installed_location": "The Fairgrounds Nashville, 625 Benton Ave, Nashville, TN 37203",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 55356,
+  "out": 275
+ },
+ "model": "claude-sonnet-5"
+}

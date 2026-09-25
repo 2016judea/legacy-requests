@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "HSQ Tech Inc",
+   "model": "Miser",
+   "part": "Original equipment manufacturer replacement parts, equipment, repairs, professional services, and maintenance services for the Miser SCADA System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 249500.0,
+   "lead_time": null,
+   "sole_source_vendor": "HSQ Tech Inc",
+   "reason": "HSQ Tech Inc. is the documented sole source provider and original equipment manufacturer of the hardware and software for the SCADA System.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "water production plants and the distribution system",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3298,
+  "out": 233
+ },
+ "model": "claude-sonnet-5"
+}

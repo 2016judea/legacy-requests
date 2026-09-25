@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pierce",
+   "model": null,
+   "part": "Pierce Proprietary Parts and Maintenance Training Service",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 216000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Siddons - Martin Emergency Group, LLC",
+   "reason": "This was a Non-Competitive Award - Sole Source contract.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5776,
+  "out": 177
+ },
+ "model": "claude-sonnet-5"
+}

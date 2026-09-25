@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Comprise Technologies, Inc.",
+   "model": null,
+   "part": "SAM, SmartALEC, SmartPAY and Smart Kiosk Payment Centers - PC Time & Print Management software/hardware, continued services and additional licenses and kiosks for the Main Library",
+   "part_numbers": [],
+   "quantity": "All",
+   "price_usd": 120203.59,
+   "lead_time": null,
+   "sole_source_vendor": "Comprise Technologies Inc",
+   "reason": "the sole developer and provider of SAM, SmartALEC, SmartPAY and Smart Kiosk Payment Centers",
+   "equipment_class": "other equipment",
+   "installed_location": "Main Library",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8970,
+  "out": 244
+ },
+ "model": "claude-sonnet-5"
+}

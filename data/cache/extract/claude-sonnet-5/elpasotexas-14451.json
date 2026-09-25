@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "LSC Environmental Products, LLC",
+   "model": "Posi-Shell",
+   "part": "Posi-Shell base mix (landfill cover material)",
+   "part_numbers": [],
+   "quantity": "1,320 bags",
+   "price_usd": 189354.0,
+   "lead_time": null,
+   "sole_source_vendor": "LSC Environmental Products, LLC",
+   "reason": "No other vendors may infringe on these mixtures, including the use of pozzolanic mineral binders in landfill cover formulations, and therefore LSC Environmental Products, LLC is the sole source supplier of these methods and materials.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "landfill",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5819,
+  "out": 259
+ },
+ "model": "claude-sonnet-5"
+}

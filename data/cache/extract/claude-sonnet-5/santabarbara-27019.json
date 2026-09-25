@@ -1,0 +1,108 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bollegraaf Recycling Machinery",
+   "model": null,
+   "part": "Modifications existing chain conveyor: new angled section, 2,500 mm extension",
+   "part_numbers": [
+    "006009-1550"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Van Dyk Recycling Solutions",
+   "reason": "Van Dyk Recycling Solutions is the designer of the Materials Recovery Facility as well as the exclusive distributor of the technology and equipment used onsite, therefore the ability for outside companies to adequately supply these particular parts or compatible parts is limited.",
+   "equipment_class": "other equipment",
+   "installed_location": "Tajiguas ReSource Center Materials Recovery Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bollegraaf Recycling Machinery",
+   "model": "HBC120S(90kW)",
+   "part": "Options/accessories for baler including belt infeed hopper and electrical installation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Van Dyk Recycling Solutions",
+   "reason": "Van Dyk Recycling Solutions is the designer of the Materials Recovery Facility as well as the exclusive distributor of the technology and equipment used onsite, therefore the ability for outside companies to adequately supply these particular parts or compatible parts is limited.",
+   "equipment_class": "other equipment",
+   "installed_location": "Tajiguas ReSource Center Materials Recovery Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bollegraaf Recycling Machinery",
+   "model": "CC/2000*8000",
+   "part": "Feed conveyor with custom belt infeed hopper",
+   "part_numbers": [
+    "CC/2000*8000"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Van Dyk Recycling Solutions",
+   "reason": "Van Dyk Recycling Solutions is the designer of the Materials Recovery Facility as well as the exclusive distributor of the technology and equipment used onsite, therefore the ability for outside companies to adequately supply these particular parts or compatible parts is limited.",
+   "equipment_class": "other equipment",
+   "installed_location": "Tajiguas ReSource Center Materials Recovery Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bollegraaf Recycling Machinery",
+   "model": "CC/1600*12300",
+   "part": "Incline conveyor, chain conveyor type, 35\u00b0 incline",
+   "part_numbers": [
+    "CC/1600*12300"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Van Dyk Recycling Solutions",
+   "reason": "Van Dyk Recycling Solutions is the designer of the Materials Recovery Facility as well as the exclusive distributor of the technology and equipment used onsite, therefore the ability for outside companies to adequately supply these particular parts or compatible parts is limited.",
+   "equipment_class": "other equipment",
+   "installed_location": "Tajiguas ReSource Center Materials Recovery Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Switchbox components: motor groups for 2 motors, 2 frequency regulators, cables and electric diagram",
+   "part_numbers": [],
+   "quantity": "2 motors / 2 frequency regulators",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Van Dyk Recycling Solutions",
+   "reason": "Van Dyk Recycling Solutions is the designer of the Materials Recovery Facility as well as the exclusive distributor of the technology and equipment used onsite, therefore the ability for outside companies to adequately supply these particular parts or compatible parts is limited.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Tajiguas ReSource Center Materials Recovery Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bollegraaf Recycling Machinery",
+   "model": null,
+   "part": "Bollegraaf baler bypass setup: proprietary waste processing equipment including conveyor belts and associated equipment for MRF baler bypass, delivered and installed",
+   "part_numbers": [
+    "OC#VD2024312",
+    "NLA010802-3 (007992)"
+   ],
+   "quantity": "1 system",
+   "price_usd": 628775.14,
+   "lead_time": "3 \u00bd - 4 months, from date of signed approval drawing (if applicable)",
+   "sole_source_vendor": "Van Dyk Recycling Solutions",
+   "reason": "Van Dyk Recycling Solutions is the designer of the Materials Recovery Facility as well as the exclusive distributor of the technology and equipment used onsite, therefore the ability for outside companies to adequately supply these particular parts or compatible parts is limited.",
+   "equipment_class": "other equipment",
+   "installed_location": "Tajiguas ReSource Center Materials Recovery Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 23581,
+  "out": 5258
+ },
+ "model": "claude-sonnet-5"
+}

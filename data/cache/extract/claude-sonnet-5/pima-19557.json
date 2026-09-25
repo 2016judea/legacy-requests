@@ -1,0 +1,839 @@
+{
+ "records": [
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "10-year Frame Restoration",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 143550.0,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Angular Contact Ball Bearing",
+   "part_numbers": [
+    "0011-7232-250"
+   ],
+   "quantity": null,
+   "price_usd": 6795.27,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Ball and Roller Bearing Grease",
+   "part_numbers": [
+    "0015-0129-010"
+   ],
+   "quantity": null,
+   "price_usd": 149.41,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Bowl Shell",
+   "part_numbers": [
+    "8406-6601-060"
+   ],
+   "quantity": null,
+   "price_usd": 389950.0,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Countersunk Screw",
+   "part_numbers": [
+    "0019-9405-400"
+   ],
+   "quantity": null,
+   "price_usd": 6.01,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Cylindrical Roller Bearing",
+   "part_numbers": [
+    "0011-2040-650"
+   ],
+   "quantity": null,
+   "price_usd": 11777.67,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Engineering and Training Fees/Hourly",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 186.47,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Exchangeable Filter",
+   "part_numbers": [
+    "0018-7731-000"
+   ],
+   "quantity": null,
+   "price_usd": 1433.77,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0004-2234-780"
+   ],
+   "quantity": null,
+   "price_usd": 59.06,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0004-2633-730"
+   ],
+   "quantity": null,
+   "price_usd": 322.97,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-1707-750"
+   ],
+   "quantity": null,
+   "price_usd": 47.32,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-1816-760"
+   ],
+   "quantity": null,
+   "price_usd": 198.3,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-1905-830"
+   ],
+   "quantity": null,
+   "price_usd": 36.65,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-1954-750"
+   ],
+   "quantity": null,
+   "price_usd": 92.36,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-2175-750"
+   ],
+   "quantity": null,
+   "price_usd": 59.27,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-2502-830"
+   ],
+   "quantity": null,
+   "price_usd": 14.55,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-2577-750"
+   ],
+   "quantity": null,
+   "price_usd": 65.14,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-2578-750"
+   ],
+   "quantity": null,
+   "price_usd": 46.22,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-2637-750"
+   ],
+   "quantity": null,
+   "price_usd": 61.32,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-2640-750"
+   ],
+   "quantity": null,
+   "price_usd": 53.16,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-2641-750"
+   ],
+   "quantity": null,
+   "price_usd": 17.73,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-2649-750"
+   ],
+   "quantity": null,
+   "price_usd": 36.96,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-2700-830"
+   ],
+   "quantity": null,
+   "price_usd": 110.23,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-2703-750"
+   ],
+   "quantity": null,
+   "price_usd": 154.54,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-2704-830"
+   ],
+   "quantity": null,
+   "price_usd": 145.57,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-2706-830"
+   ],
+   "quantity": null,
+   "price_usd": 178.57,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-2707-830"
+   ],
+   "quantity": null,
+   "price_usd": 170.17,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-2736-830"
+   ],
+   "quantity": null,
+   "price_usd": 242.37,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-2842-750"
+   ],
+   "quantity": null,
+   "price_usd": 57.58,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-2862-750"
+   ],
+   "quantity": null,
+   "price_usd": 32.48,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-2862-830"
+   ],
+   "quantity": null,
+   "price_usd": 148.92,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-2889-830"
+   ],
+   "quantity": null,
+   "price_usd": 61.32,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-2941-750"
+   ],
+   "quantity": null,
+   "price_usd": 63.42,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "0007-3190-750"
+   ],
+   "quantity": null,
+   "price_usd": 399.93,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "8406-1265-000"
+   ],
+   "quantity": null,
+   "price_usd": 229.29,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Grease, High Pressure",
+   "part_numbers": [
+    "WS-0129"
+   ],
+   "quantity": null,
+   "price_usd": 131.0,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Grooved Ball Bearing",
+   "part_numbers": [
+    "0011-6194-940"
+   ],
+   "quantity": null,
+   "price_usd": 3364.2,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Labor Charges Hourly (Field Rate) - Overtime Hours",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 304.0,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Labor Charges Hourly (Field Rate) - Regular Hours",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 231.0,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Locking Lever, Compl",
+   "part_numbers": [
+    "0021-3330-300"
+   ],
+   "quantity": null,
+   "price_usd": 204.43,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Lubricating Oil",
+   "part_numbers": [
+    "0015-0020-200"
+   ],
+   "quantity": null,
+   "price_usd": 1979.1,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Packing Cord",
+   "part_numbers": [
+    "0004-3177-768"
+   ],
+   "quantity": null,
+   "price_usd": 75.7,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Proximity Sensor",
+   "part_numbers": [
+    "0005-4422-010"
+   ],
+   "quantity": null,
+   "price_usd": 630.37,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Regulating Plate, Dam Thickening",
+   "part_numbers": [
+    "8406-6629-090"
+   ],
+   "quantity": null,
+   "price_usd": 862.13,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Rotary Transmission",
+   "part_numbers": [
+    "0021-2999-000"
+   ],
+   "quantity": null,
+   "price_usd": 1381.61,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Rubber-Metal Cushions",
+   "part_numbers": [
+    "0021-3508-750"
+   ],
+   "quantity": null,
+   "price_usd": 132.06,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Set of Narrow V-Belts, AP.Order",
+   "part_numbers": [
+    "0021-3442-810"
+   ],
+   "quantity": null,
+   "price_usd": 602.27,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Set of Narrow V-Belts, AP.Order",
+   "part_numbers": [
+    "0021-3556-810"
+   ],
+   "quantity": null,
+   "price_usd": 1480.58,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Shaft Sealing Ring",
+   "part_numbers": [
+    "0004-3149-850"
+   ],
+   "quantity": null,
+   "price_usd": 1811.98,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Shaft Sealing Ring",
+   "part_numbers": [
+    "0004-3198-850"
+   ],
+   "quantity": null,
+   "price_usd": 3838.68,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Usit Ring",
+   "part_numbers": [
+    "0004-0732-400"
+   ],
+   "quantity": null,
+   "price_usd": 64.36,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEA",
+   "model": null,
+   "part": "Usit Ring",
+   "part_numbers": [
+    "0004-2508-400"
+   ],
+   "quantity": null,
+   "price_usd": 35.18,
+   "lead_time": null,
+   "sole_source_vendor": "GEA Mechanical Equipment US Inc.",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2400004875 is recommended to GEA Mechanical Equipment US Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Tres Rios WRF",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6561,
+  "out": 14212
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "OpportunitySpace, Inc. dba Tolemi",
+   "model": "BuildingBlocks",
+   "part": "Five-year service contract for licenses, hosting, maintenance, and support for a spatial analysis and predictive modeling solution",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 760104.0,
+   "lead_time": null,
+   "sole_source_vendor": "OpportunitySpace, Inc. dba Tolemi",
+   "reason": "Sole Source - Utilized for procurements where functional requirements can only be satisfied by one vendor, such as those where patents, copyrights or monopolies exists",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Code Compliance",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2784,
+  "out": 259
+ },
+ "model": "claude-sonnet-5"
+}

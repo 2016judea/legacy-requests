@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sutphen Manufacturing",
+   "model": "MOD-PA11",
+   "part": "Heavy duty custom pumper trucks",
+   "part_numbers": [
+    "MOD-PA11"
+   ],
+   "quantity": "four (4)",
+   "price_usd": 4798924.0,
+   "lead_time": "40 Months",
+   "sole_source_vendor": "Sutphen Manufacturing",
+   "reason": "It is recommended that Sutphen Manufacturing be approved as the vendor for the purchase of four (4) heavy duty custom pumper trucks. Sutphen Manufacturing pricing and discounts have been approved through the Sourcewell Cooperative.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "DeKalb County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 94169,
+  "out": 270
+ },
+ "model": "claude-sonnet-5"
+}

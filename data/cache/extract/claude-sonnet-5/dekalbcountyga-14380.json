@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Compressed natural gas (CNG) fuel for Sanitation CNG trucks",
+   "part_numbers": [],
+   "quantity": "approximately 33,000 gallons/month",
+   "price_usd": 2.461,
+   "lead_time": null,
+   "sole_source_vendor": "American Fueling Systems, LLC",
+   "reason": "This CNG fuel station is located at 4420 Buford Hwy.,Chamblee, GA. It is the only CNG fuel station within the 2 miles radius from Sanitation's facilities.",
+   "equipment_class": "other equipment",
+   "installed_location": "4420 Buford Highway, Chamblee, GA",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9584,
+  "out": 241
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "MERMEC",
+   "model": "Rail Inspection Vehicle (RIV) / Track Geometry Car",
+   "part": "Rail Inspection Vehicle Performance Package (spare parts, preventative maintenance, technical support, training)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 8000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "MERMEC Inc.",
+   "reason": "the vehicle design, measurement systems, data acquisition and analytics, spare parts, and software are proprietary designs of MERMEC",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "BART District",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MERMEC",
+   "model": "RAMSYS/RailStudio",
+   "part": "RAMSYS/RailStudio Software upgrade for RIV data collection and analytics",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MERMEC Inc.",
+   "reason": "the RIV utilizes a proprietary algorithm to process, analyze, and report data and those functions can only be fully utilized by MERMEC software",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "BART District",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5399,
+  "out": 845
+ },
+ "model": "claude-sonnet-5"
+}

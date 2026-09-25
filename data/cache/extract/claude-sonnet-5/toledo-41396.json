@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rebuild and/or replacement of electrical motors, actuators and other related equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 500000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Some equipment may require proprietary parts for rebuild and others can only be purchased from sole sources when needed.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Bay View Water Reclamation Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3370,
+  "out": 277
+ },
+ "model": "claude-sonnet-5"
+}

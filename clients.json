@@ -61,5 +61,10 @@
  {"slug": "elpasotexas", "agency": "City of El Paso", "state": "TX"},
  {"slug": "napa", "agency": "County of Napa", "state": "CA"},
  {"slug": "fresnocounty", "agency": "County of Fresno", "state": "CA"},
- {"slug": "nashville", "agency": "Metropolitan Nashville and Davidson County", "state": "TN"}
+ {"slug": "nashville", "agency": "Metropolitan Nashville and Davidson County", "state": "TN"},
+ {"slug": "madison", "agency": "City of Madison", "state": "WI"},
+ {"slug": "eldorado", "agency": "County of El Dorado", "state": "CA"},
+ {"slug": "santabarbara", "agency": "County of Santa Barbara", "state": "CA"},
+ {"slug": "coloradosprings", "agency": "City of Colorado Springs", "state": "CO"},
+ {"slug": "cook-county", "agency": "Cook County", "state": "IL"}
 ]

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cummins",
+   "model": "8.9-liter L9N 280HP",
+   "part": "Replacement compressed natural gas-powered engines for midlife bus overhaul",
+   "part_numbers": [],
+   "quantity": "Six",
+   "price_usd": 463697,
+   "lead_time": null,
+   "sole_source_vendor": "Cummins, Inc.",
+   "reason": "Only one engine manufacturer is certified by the State of California to meet these emission standards for use in transit buses.",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4565,
+  "out": 193
+ },
+ "model": "claude-sonnet-5"
+}

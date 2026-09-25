@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Amazon Web Services",
+   "model": "AWS Bedrock GenAI (Amazon Connect / Contact Lens)",
+   "part": "English and Spanish Generative AI (GenAI) for post-call summarization, recurring R&A Change Budget support services",
+   "part_numbers": [],
+   "quantity": "up to 545-561 hours/month support; 1,122 hours SFY 25/26",
+   "price_usd": 161369,
+   "lead_time": null,
+   "sole_source_vendor": "CalSAWS Consortium and Accenture, LLP",
+   "reason": "The Joint Powers Authority has procured the software, maintenance, and any necessary equipment support of English and Spanish Generative AI. English and Spanish Generative AI cannot be procured independently elsewhere.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County Department of Social Services Contact Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 20789,
+  "out": 322
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bloomberg",
+   "model": "Bloomberg Anywhere",
+   "part": "Bloomberg investment research, trading, market data and analytics subscription service",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 2665.0,
+   "lead_time": null,
+   "sole_source_vendor": "Bloomberg L.P.",
+   "reason": "There have been no like services identified and as such it is a single source purchase.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Snohomish County Treasury, 3000 Rockefeller Ave, Everett WA",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bloomberg",
+   "model": null,
+   "part": "Bloomberg terminal/data services (original 1999 schedule)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 1640.0,
+   "lead_time": null,
+   "sole_source_vendor": "Bloomberg L.P.",
+   "reason": "There have been no like services identified and as such it is a single source purchase.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Snohomish County Treasury, 3000 Rockefeller Avenue, Everett WA",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bloomberg",
+   "model": null,
+   "part": "Bloomberg investment services annual subscription authorized for five years",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 180000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Bloomberg",
+   "reason": "Bloomberg is the only known vendor that provides the required service for the Treasurer's Office.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Snohomish County Treasurer's Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 20616,
+  "out": 607
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "KME",
+   "model": "Severe Service Pumper",
+   "part": "Two (2) KME Severe Service Pumpers",
+   "part_numbers": [],
+   "quantity": "Two (2)",
+   "price_usd": 2732374.2,
+   "lead_time": "27 months from the signing of the preconstruction change order or 30 months from Purchase order or signing of a contract",
+   "sole_source_vendor": "Fire Apparatus Solutions",
+   "reason": "Fire Apparatus Solutions,located at 1762 S. Sycamore Ave., Rialto, CA 92376 is the Sole Source provider of KME fire apparatus in Southern California.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 1
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4297,
+  "out": 961
+ },
+ "model": "claude-sonnet-5"
+}

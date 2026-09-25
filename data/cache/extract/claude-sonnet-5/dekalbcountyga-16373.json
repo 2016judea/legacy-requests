@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "ImageTrend",
+   "model": "HIH (Health Information Hub)",
+   "part": "ImageTrend HIH\u2122 Setup - one time setup fee",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": 13000.0,
+   "lead_time": null,
+   "sole_source_vendor": "ImageTrend, LLC",
+   "reason": "To add the Health Information Hub app module for the life of the contract.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "DeKalb County Department of Fire-Rescue Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ImageTrend",
+   "model": "HIH Elite/Hospital Bi-Directional",
+   "part": "HIH\u2122 Elite/Hospital Bi-Directional recurring subscription fee",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": 14000.0,
+   "lead_time": null,
+   "sole_source_vendor": "ImageTrend, LLC",
+   "reason": "To add the Health Information Hub app module for the life of the contract. Initial cost year 1 $27,000, year 2 cost SaaS $14,980 Change order total $41,980.00",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "DeKalb County Department of Fire-Rescue Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ImageTrend",
+   "model": "Records Management System / Health Information Hub module",
+   "part": "Change Order No. 3 to add Health Information Hub app module to Records Management System maintenance and software support contract",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 41980.0,
+   "lead_time": null,
+   "sole_source_vendor": "ImageTrend, LLC",
+   "reason": "This module will also bring Fire Rescue in full alignment with the guidelines established by the Georgia Department of Public Health related to Mandatory Reporting Requirements for Emergency Medical Agencies and Medics statewide Regulation 511-9-2-14.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Department of Fire-Rescue Services",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9670,
+  "out": 1082
+ },
+ "model": "claude-sonnet-5"
+}

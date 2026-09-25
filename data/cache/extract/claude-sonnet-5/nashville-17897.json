@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": "NEC Corporation of America",
+   "model": "Integra-ID / AIM XM Multimodal Matcher",
+   "part": "AFIS upgrade, support and maintenance services for Automated Fingerprint Identification System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 6000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "NEC Corporation of America",
+   "reason": "NEC is the sole developer and provider for the AFIS system currently in operation within MNPD since 1995.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Metropolitan Nashville Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "NEC Corporation of America",
+   "model": "NEC Digital Platform (NDP) Transaction Controller Server",
+   "part": "Transaction controller server managing workflows, external interfaces, WIP queue, MBIS transaction control and archive services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "NEC Corporation of America",
+   "reason": "NEC is the sole developer and provider for the AFIS system currently in operation within MNPD since 1995.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "MNPD PD Data Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "NEC Corporation of America",
+   "model": "Image Processing Controller (IPC)",
+   "part": "Feature extraction, automatic classification, finger sequence check, and quality control processor for fingerprint and palmprint images",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "NEC Corporation of America",
+   "reason": "NEC is the sole developer and provider for the AFIS system currently in operation within MNPD since 1995.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "MNPD PD Data Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "NEC Corporation of America",
+   "model": "Unified Database (UDB)",
+   "part": "Database managing access and storage of MBIS images, descriptive information, feature data, audit trail data, report data, user profile data, and NIST archive metadata",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "NEC Corporation of America",
+   "reason": "NEC is the sole developer and provider for the AFIS system currently in operation within MNPD since 1995.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "MNPD PD Data Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "NEC Corporation of America",
+   "model": "AIM XM Multimodal Matcher",
+   "part": "Integrated fingerprint and palmprint matching services (Search Controller, Search Broker, Search Node, Extract Node, Verify Node)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "NEC Corporation of America",
+   "reason": "NEC is the sole developer and provider for the AFIS system currently in operation within MNPD since 1995.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "MNPD PD Data Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "NEC Corporation of America",
+   "model": "Integrated Biometric Workstation (IBW)",
+   "part": "Windows-based PC software suite serving as user interface to Integra-ID MBIS, providing tenprint, latent and palmprint functionality",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "NEC Corporation of America",
+   "reason": "NEC is the sole developer and provider for the AFIS system currently in operation within MNPD since 1995.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "MNPD PD Data Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "NEC Corporation of America",
+   "model": "FastID Workstation",
+   "part": "1:1 and 1:N fingerprint identification workstation for non-fingerprint experts, used for pre-booking and jail management identification, with single-finger scanner",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "NEC Corporation of America",
+   "reason": "NEC is the sole developer and provider for the AFIS system currently in operation within MNPD since 1995.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "MNPD",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "NEC Corporation of America",
+   "model": "SmartScan Livescan",
+   "part": "Livescan biometric capture system for forensic-grade fingerprint (rolled and slap), palmprint (full, split, writer's), and face images, with support for future SMT and iris modalities",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "NEC Corporation of America",
+   "reason": "NEC is the sole developer and provider for the AFIS system currently in operation within MNPD since 1995.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "MNPD",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "NEC Corporation of America",
+   "model": "UnCabinet",
+   "part": "Cabinet housing for SmartScan Livescan multimodal biometric image capture at fixed locations",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "NEC Corporation of America",
+   "reason": "NEC is the sole developer and provider for the AFIS system currently in operation within MNPD since 1995.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "MNPD",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 59816,
+  "out": 1958
+ },
+ "model": "claude-sonnet-5"
+}

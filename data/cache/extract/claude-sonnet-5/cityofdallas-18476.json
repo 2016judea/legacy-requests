@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Gladiator Forensics, LLC",
+   "model": "Enterprise Sensor Processing and Analytics platform, Autonomous Receiver platform, IQ Express Portal",
+   "part": "Law Enforcement Monitoring Facility (LEMF) product including system setup, licenses, training, and maintenance",
+   "part_numbers": [],
+   "quantity": "five licenses allowing fifteen end-users",
+   "price_usd": 196400.0,
+   "lead_time": null,
+   "sole_source_vendor": "Gladiator Forensics, LLC",
+   "reason": "Gladiator\u2019s platform is capable of harvesting data from 5G environments, a capability that the Police Department\u2019s current systems do not have.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Dallas Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3596,
+  "out": 279
+ },
+ "model": "claude-sonnet-5"
+}

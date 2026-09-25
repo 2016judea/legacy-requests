@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": "OASIS",
+   "part": "OASIS system core upgrade from physical infrastructure to cloud-based solution (WiPSN)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This project was accomplished at zero-cost to the County, while operating within existing Motorola contracts. All new hardware, resulting in a full refresh of the older OASIS system core, has been provided by Motorola.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Waukesha",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "OASIS Microwave Backhaul Network",
+   "part": "Full replacement of OASIS Microwave Backhaul Network, redesigning microwave antenna pathways",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3600000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Utilizing $3.6 million of American Rescue Plan Act (ARPA) funding, the Radio Division was able to fully replace the previous OASIS Microwave Backhaul Network.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "APX NEXT",
+   "part": "Replacement radios for Milwaukee County Sheriff's Office (MCSO), funded in part through the APX 7000 radio replacement capital project",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "These radios have been replaced with next generation radios from Motorola, which brings with them a host of new features to greatly improve first responder communications.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Milwaukee County Sheriff's Office (MCSO)",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8517,
+  "out": 737
+ },
+ "model": "claude-sonnet-5"
+}

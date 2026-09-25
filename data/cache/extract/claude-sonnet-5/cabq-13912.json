@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "GoodSAM Ltd",
+   "model": "GoodSAM Cardiac, AED Registry and Instant-On-Scene Video",
+   "part": "Web-based application for two-way video communication with 911 dispatchers and AI vital-signs measurement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 120000,
+   "lead_time": null,
+   "sole_source_vendor": "GoodSAM Ltd",
+   "reason": "After doing research, they are the only company that provides this level of privacy and technology.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Albuquerque Fire Rescue dispatch center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12869,
+  "out": 231
+ },
+ "model": "claude-sonnet-5"
+}

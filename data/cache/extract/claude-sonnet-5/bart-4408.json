@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Escalator handrails replacement, repair, and vulcanizing services for District vertical transportation assets",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1500000,
+   "lead_time": null,
+   "sole_source_vendor": "Semperit Industrial Products, Inc",
+   "reason": "the Board finds that Semperit Industrial Products, Inc. is the single source of supply for the purchase of handrails specified herein",
+   "equipment_class": "other equipment",
+   "installed_location": "BART District (187 escalators)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4654,
+  "out": 204
+ },
+ "model": "claude-sonnet-5"
+}

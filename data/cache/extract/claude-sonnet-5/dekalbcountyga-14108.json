@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "enQuesta",
+   "part": "Annual hosting, maintenance, and support of a CIS solution for customer billing system integration",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5674248.85,
+   "lead_time": null,
+   "sole_source_vendor": "Systems and Software, Inc.",
+   "reason": "enQuesta Annual Hosting, Maintenance, and Support (Sole Source)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Invoice Cloud",
+   "part": "Payment-by-phone solution integrated with enQuesta for various departments",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Systems and Software, Inc.",
+   "reason": "Approval of this request will allow for the payment of Invoice Cloud solutions to be integrated with enQuesta for the continuation of payment-by-phone services for various departments in the County.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3462,
+  "out": 389
+ },
+ "model": "claude-sonnet-5"
+}

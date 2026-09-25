@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Design and construction of a multi-modular building to relocate LASD personnel to Metro Division 4",
+   "part_numbers": [],
+   "quantity": "1 (15,000-square-foot modular building)",
+   "price_usd": 13200048,
+   "lead_time": null,
+   "sole_source_vendor": "Williams Scotsman, Inc. dba WillScot",
+   "reason": "Metro reached out to other modular building suppliers but was unable to find an alternate supplier that could meet Metro's and LASD's requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "Metro Division 4, Downey, CA (7878 Telegraph Rd., Downey, CA 90240)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11962,
+  "out": 253
+ },
+ "model": "claude-sonnet-5"
+}

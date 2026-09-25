@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Internet Protocol TV (\"IPTV\") Implementation, Support and Maintenance Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1356012.0,
+   "lead_time": null,
+   "sole_source_vendor": "ProCon Video Services Consulting, LLC",
+   "reason": "This contract is requested as a Sole Source Procurement pursuant to Section 34-139 of the Cook County Procurement Code.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Department of Corrections",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2922,
+  "out": 208
+ },
+ "model": "claude-sonnet-5"
+}

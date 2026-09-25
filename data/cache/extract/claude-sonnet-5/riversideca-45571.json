@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Procurement of one 15KV Metalclad Switchgear for La Colina Substation (Switchgear No. 1)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 2561551.88,
+   "lead_time": "Average 70 weeks",
+   "sole_source_vendor": null,
+   "reason": "Staff evaluated the bids based on pricing and compliance with bid requirements and deemed Avail Switchgear Systems, of Fulton, Missouri, to be the lowest responsive and responsible bidder",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "La Colina Substation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fabrication/Delivery of Transformer No. 1",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 1676085,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Fabrication/Delivery of Transformer No. 1 Virginia Transformer Corporation $1,676,085",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "La Colina Substation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Existing 15kV metalclad switchgears at La Colina Substation, identified for replacement",
+   "part_numbers": [],
+   "quantity": "four (4)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Switchgears and transformers have exceeded their design life and are identified for replacement",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "La Colina Substation",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Existing 66kV power transformers at La Colina Substation, identified for replacement",
+   "part_numbers": [],
+   "quantity": "four (4)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Switchgears and transformers have exceeded their design life and are identified for replacement",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "La Colina Substation",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7429,
+  "out": 3152
+ },
+ "model": "claude-sonnet-5"
+}

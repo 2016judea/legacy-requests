@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Harris Corrections Solutions, Inc.",
+   "model": "CCOMS",
+   "part": "Maintenance, Support and Enhancements to the Cook County Offender Management System (CCOMS)/Jail Management Information System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2878106.0,
+   "lead_time": null,
+   "sole_source_vendor": "Harris Corrections Solutions, Inc.",
+   "reason": "The original contract was awarded via a Sole Source procurement pursuant to Section 34-139 of the Cook County Procurement Code.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Cook County Sheriff's Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3448,
+  "out": 246
+ },
+ "model": "claude-sonnet-5"
+}

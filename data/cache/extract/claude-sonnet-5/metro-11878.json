@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Engineered Machined Products, Inc. (EMP)",
+   "model": null,
+   "part": "Engine Cooling System Rebuild Kit (includes new fans, electrical harnesses, master controller, steel frame and shroud, door seals, and related hardware) for New Flyer Xcelsior buses with Cummins L9N engines",
+   "part_numbers": [],
+   "quantity": "140 kits",
+   "price_usd": 807154.6,
+   "lead_time": null,
+   "sole_source_vendor": "Engineered Machined Products, Inc. (EMP)",
+   "reason": "The original cooling system installed in the New Flyer buses is proprietary to EMP and cannot be copied or duplicated by others.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Metro Central Maintenance Facility / New Flyer Xcelsior 3850-4199 series buses",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8374,
+  "out": 306
+ },
+ "model": "claude-sonnet-5"
+}

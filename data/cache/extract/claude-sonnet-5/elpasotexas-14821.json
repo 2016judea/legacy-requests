@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Brookville Equipment Corporation",
+   "model": null,
+   "part": "Truck Assemblies, Propulsion System, HVAC Parts and services for Streetcar",
+   "part_numbers": [],
+   "quantity": "All",
+   "price_usd": 500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Brookville Equipment Corporation",
+   "reason": "Brookville Equipment Corporation is the original manufacturer of the City's streetcars and the sole source for these captive replacement parts and services.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Streetcar system (El Paso)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Brookville Equipment Corporation",
+   "model": null,
+   "part": "Truck assemblies for Streetcar",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Brookville Equipment Corporation",
+   "reason": "Brookville is the OEM remanufacturer of these heritage streetcars and many or most of the parts therein, including truck assemblies, propulsion systems, HVAC, electrical and carbody are either manufactured at Brookville or are purchased and modified here at Brookville",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Streetcar system (El Paso)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Brookville Equipment Corporation",
+   "model": null,
+   "part": "Propulsion system parts for Streetcar",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Brookville Equipment Corporation",
+   "reason": "Brookville is the OEM remanufacturer of these heritage streetcars and many or most of the parts therein, including truck assemblies, propulsion systems, HVAC, electrical and carbody are either manufactured at Brookville or are purchased and modified here at Brookville",
+   "equipment_class": "motor/drive",
+   "installed_location": "Streetcar system (El Paso)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Brookville Equipment Corporation",
+   "model": null,
+   "part": "HVAC parts for Streetcar",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Brookville Equipment Corporation",
+   "reason": "Brookville is the OEM remanufacturer of these heritage streetcars and many or most of the parts therein, including truck assemblies, propulsion systems, HVAC, electrical and carbody are either manufactured at Brookville or are purchased and modified here at Brookville",
+   "equipment_class": "HVAC",
+   "installed_location": "Streetcar system (El Paso)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7271,
+  "out": 921
+ },
+ "model": "claude-sonnet-5"
+}

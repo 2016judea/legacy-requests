@@ -1,0 +1,327 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "110-foot-tall faux water tower telecommunications facility structure (stealth tower/antenna support structure)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "other equipment",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CCI",
+   "model": "TPA45R-BU6B",
+   "part": "AT&T panel antennas mounted inside faux water tower",
+   "part_numbers": [
+    "TPA45R-BU6B"
+   ],
+   "quantity": "9 (with 6 future)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "communications/radio",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ericsson",
+   "model": "AIR6419",
+   "part": "AT&T massive MIMO antennas mounted at position #2 per sector",
+   "part_numbers": [
+    "AIR6419 B77D",
+    "AIR6419 B77G"
+   ],
+   "quantity": "6 (2 per sector, 3 sectors)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "communications/radio",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ericsson",
+   "model": "RRUS",
+   "part": "Remote radio units (RRU) mounted per sector on antenna structure",
+   "part_numbers": [
+    "RRUS 4449",
+    "RRUS 4415",
+    "RRUS 4478",
+    "RRUS 8843"
+   ],
+   "quantity": "12",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "communications/radio",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Global Positioning System (GPS) unit/antenna for timing synchronization",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "communications/radio",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "30-kilowatt (kW) AC diesel standby generator",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "generator",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "190-gallon capacity diesel fuel belly tank attached to standby generator",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "other equipment",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vertiv",
+   "model": "WUC (Walk-Up Cabinet)",
+   "part": "Equipment shelter / walk-up-to-cabinet housing radio and power equipment",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "other equipment",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "EnerSys",
+   "model": "PowerSafe SBS Front Terminal",
+   "part": "190-Ampere-hour (Ah) backup batteries for telecommunications equipment",
+   "part_numbers": [],
+   "quantity": "8",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "DC power trunks (6AWG) running from equipment cabinet to antennas",
+   "part_numbers": [],
+   "quantity": "9",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fiber trunks running from equipment cabinet to antennas",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "communications/radio",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Raycap",
+   "model": "DC9-48-60-24-8C-EV",
+   "part": "DC9 surge suppressors, one per sector",
+   "part_numbers": [
+    "DC9-48-60-24-8C-EV"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Raycap",
+   "model": "DC50",
+   "part": "DC50 Raycap surge/power distribution unit mounted at antenna level",
+   "part_numbers": [
+    "DC50"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Ice bridge connecting equipment cabinet to tower/antenna structure",
+   "part_numbers": [],
+   "quantity": "1 (approx. 20' length)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "other equipment",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "MOD-G",
+   "part": "Precast foundation blocks for above-ground foundation supporting tower/equipment",
+   "part_numbers": [
+    "MOD-G"
+   ],
+   "quantity": "16",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "other equipment",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Seven (7) foot chain link fencing with earth tone privacy slats and barbed wire topping surrounding lease areas",
+   "part_numbers": [],
+   "quantity": "1 (surrounding 31'x35' lease area)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "other equipment",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "PG&E",
+   "model": null,
+   "part": "Pad-mounted power transformer(s) serving the telecommunications facility (one installed, one for future use)",
+   "part_numbers": [],
+   "quantity": "1 (plus 1 future)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "PG&E",
+   "reason": "",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "200A, 120/240V dual meter pedestal with meter socket for AT&T and future carrier",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Cienna/Hoffman",
+   "part": "Fiber management boxes stacked for fiber distribution",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "communications/radio",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Custom H-frame",
+   "part": "Custom H-frame antenna mounts, one per sector",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "other equipment",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rosenberger",
+   "model": "D220RRUDSM",
+   "part": "Back-to-back RRU mounting bracket kit",
+   "part_numbers": [
+    "D220RRUDSM"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "",
+   "equipment_class": "other equipment",
+   "installed_location": "3321 El Dorado Hills Boulevard, El Dorado Hills, CA 95762",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 10,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 81196,
+  "out": 8210
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Amazon Web Services",
+   "model": "AWS Bedrock GenAI / AWS Connect Contact Lens",
+   "part": "Spanish Generative AI (GenAI) solution for post-call summarization and real-time transcription",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 446452,
+   "lead_time": null,
+   "sole_source_vendor": "CalSAWS Consortium",
+   "reason": "There is no other vendor that has been acquired by the Consortium to provide generative artificial intelligence to counties. A sole source is justified as there are no other providers authorized by the CalSAWS Consortium.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County Department of Social Services Contact Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18687,
+  "out": 273
+ },
+ "model": "claude-sonnet-5"
+}

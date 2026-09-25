@@ -1,0 +1,384 @@
+{
+ "records": [
+  {
+   "manufacturer": "Western Systems",
+   "model": "P-Plus",
+   "part": "P-Plus double door traffic cabinets (signal parts) - purchase contract",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Western Systems",
+   "model": "P-Plus",
+   "part": "Traffic signal cabinets for Diamond Springs Parkway Project",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 70000,
+   "lead_time": null,
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "other equipment",
+   "installed_location": "Diamond Springs Parkway Project",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Western Systems",
+   "model": "SP+",
+   "part": "Enclosure Type SP+ w/Double Front Doors (UL) RS Handle (FF) RH Socket (F) (Unfinished)",
+   "part_numbers": [
+    "3017500210"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Alpha",
+   "model": "TS2-1 SP+ DLS 64CH",
+   "part": "Controller cabinet (TS2-1); El Dorado County Type SP+ DLS (Alpha) 64CH",
+   "part_numbers": [
+    "2515510009"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Sub-assembly 768 panel system installation (NEMA cabinet) 2016",
+   "part_numbers": [
+    "2100000000"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "MMU2-16LEIP",
+   "part": "Smart monitor (MMU2-16LEIP) 16 CH enhanced MMU w/FYA support & Ethernet",
+   "part_numbers": [
+    "5010030065"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "EDI",
+   "model": "PS250",
+   "part": "Power supply (PS250) shelf mount 5A EDI",
+   "part_numbers": [
+    "5070070250"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "EDI",
+   "model": "BIU700H",
+   "part": "Bus interface unit 1/2 width (BIU700H) EDI",
+   "part_numbers": [
+    "5060050710"
+   ],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Western Systems",
+   "model": null,
+   "part": "Load switch I/O dual, Western Systems",
+   "part_numbers": [
+    "5020010800"
+   ],
+   "quantity": "8",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Western Systems",
+   "model": null,
+   "part": "Flasher I/O dual, Western Systems",
+   "part_numbers": [
+    "5030020500"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Flasher transfer relay mini",
+   "part_numbers": [
+    "5040040500"
+   ],
+   "quantity": "8",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "ORACLE4EH",
+   "part": "Loop amplifier (ORACLE4EH) 4CH 1/2 width rack mount with timing and LCD display",
+   "part_numbers": [
+    "5610030006"
+   ],
+   "quantity": "16",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Opticom",
+   "model": "768",
+   "part": "Opticom (768) auxiliary interface panel (infrared / GPS)",
+   "part_numbers": [
+    "5455050072"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Corning",
+   "model": "SPH-01P",
+   "part": "Fiber enclosure (Corning) SPH-01P wall mount, holds 1 CCH panel, w/splice holder black",
+   "part_numbers": [
+    "6560020020"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Corning",
+   "model": "CCH-CP12-A9",
+   "part": "Coupler plate (Corning) CCH-CP12-A9 6 pack, 12 fiber, SM, LC, duplex blue APC/OS2",
+   "part_numbers": [
+    "6560020036"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Digi",
+   "model": "TX54-A246",
+   "part": "Rugged mobile access router (Digi) TX54-A246 dual LTE, First Net ready",
+   "part_numbers": [
+    "6770040000"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Digi",
+   "model": null,
+   "part": "Accessory kit; 12VDC power supply, power cords, cables & antennas (Digi)",
+   "part_numbers": [
+    "6770040025",
+    "76002085"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Alpha",
+   "model": null,
+   "part": "Automatic transfer switch assembly (Alpha); 19\" RM w/surge, UGTS, UATS 120VAC",
+   "part_numbers": [
+    "8025015010",
+    "020-168-21"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "UPS power module HP 1100W w/(6) relays & 120V input/output IP/SNMP",
+   "part_numbers": [
+    "8025000115"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "RBMS; controller, sensor int cables, (1) CAT5E cbls, (4) BS3B-12-4-EQ sensors (4 battery system)",
+   "part_numbers": [
+    "8025095500",
+    "BS3B-12-4-EQ"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "334/P+",
+   "part": "Battery cable harness kit 48V 8FT 1/4-20 terminals FXM series w/13in blk ext",
+   "part_numbers": [
+    "8025050032",
+    "334/P+"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Alphacell",
+   "model": "240XTV",
+   "part": "Battery Alphacell 240XTV (112AH / 75LB)",
+   "part_numbers": [
+    "8025040085",
+    "240XTV"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole distributor authorized to sell, install and support the P-Plus double door traffic cabinet.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Western Systems",
+   "model": null,
+   "part": "Onsite turn-on assistance",
+   "part_numbers": [
+    "9780010000"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Additionally, as Western Systems is the sole authorized distributor in the state of California, they provide first line repair services for Western Systems traffic control products and serve as the proper avenue for all service and warranty repairs.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 16583,
+  "out": 11430
+ },
+ "model": "claude-sonnet-5"
+}

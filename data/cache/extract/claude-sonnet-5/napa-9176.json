@@ -1,0 +1,59 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cisco",
+   "model": "Core Switch - Stackable",
+   "part": "Install Cisco Core Switch - Stackable as part of network wireless upgrade",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AMS.NET, Inc.",
+   "reason": "it would be time consuming, inefficient and cost prohibitive to educate another vendor with the necessary knowledge for custom configurations necessary to run the network",
+   "equipment_class": "communications/radio",
+   "installed_location": "Napa County Replacement Jail Building, 2210 Napa Vallejo Hwy, Napa, California 94558",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Palo Alto Networks",
+   "model": "PAN NG Firewall",
+   "part": "Install PAN NG Firewall as part of network wireless upgrade",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AMS.NET, Inc.",
+   "reason": "it would be time consuming, inefficient and cost prohibitive to educate another vendor with the necessary knowledge for custom configurations necessary to run the network",
+   "equipment_class": "communications/radio",
+   "installed_location": "Napa County Replacement Jail Building, 2210 Napa Vallejo Hwy, Napa, California 94558",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cisco",
+   "model": "Meraki AP",
+   "part": "Cisco Network Meraki Wireless Upgrade 3 Years Meraki AP Option",
+   "part_numbers": [
+    "#Q-00080533"
+   ],
+   "quantity": null,
+   "price_usd": 29800.0,
+   "lead_time": null,
+   "sole_source_vendor": "AMS.NET, Inc.",
+   "reason": "it would be time consuming, inefficient and cost prohibitive to educate another vendor with the necessary knowledge for custom configurations necessary to run the network",
+   "equipment_class": "communications/radio",
+   "installed_location": "Napa County Replacement Jail Building, 2210 Napa Vallejo Hwy, Napa, California 94558",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 28059,
+  "out": 1851
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Sole-source construction contract for electrical, mechanical and site upgrades to the fuel farm (Fuel Farm Improvement Project)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 543900,
+   "lead_time": null,
+   "sole_source_vendor": "American Environmental Aviation, Inc.",
+   "reason": "the sole source is justified by AEA's expertise as a fuel facility developer.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Napa County Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Installation of new Oil Water Separator and associated adjustments to existing piping",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Environmental Aviation, Inc.",
+   "reason": "the sole source is justified by AEA's expertise as a fuel facility developer.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Napa County Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "New PGE 12470-480V medium voltage pad-mounted transformer set on new concrete pad",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the sole source is justified by AEA's expertise as a fuel facility developer.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Napa County Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "600 Amp Main Service electric distribution equipment rack",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Environmental Aviation, Inc.",
+   "reason": "the sole source is justified by AEA's expertise as a fuel facility developer.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Napa County Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "New 15KV pole-mounted Gang Operated Air-Break switch (GOAB) and associated transformer primary overcurrent protection fusing",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the sole source is justified by AEA's expertise as a fuel facility developer.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Napa County Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement of existing Canopy downlighting with new LED fixtures",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Environmental Aviation, Inc.",
+   "reason": "the sole source is justified by AEA's expertise as a fuel facility developer.",
+   "equipment_class": "other equipment",
+   "installed_location": "Napa County Airport",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11724,
+  "out": 3858
+ },
+ "model": "claude-sonnet-5"
+}

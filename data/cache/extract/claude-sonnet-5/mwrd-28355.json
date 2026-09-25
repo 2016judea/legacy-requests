@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Alfa Laval",
+   "model": null,
+   "part": "Repair parts and components for Alfa Laval thickening centrifuges",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2970000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Alfa Laval, Inc.",
+   "reason": "Alfa Laval, Inc., is the sole source for Alfa Laval and Ashbrook Simon-Hartley repair parts and components.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "various locations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ashbrook Simon-Hartley",
+   "model": null,
+   "part": "Repair parts and components for Ashbrook Simon-Hartley gravity belt thickeners",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2970000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Alfa Laval, Inc.",
+   "reason": "Alfa Laval, Inc., is the sole source for Alfa Laval and Ashbrook Simon-Hartley repair parts and components.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "various locations",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3237,
+  "out": 497
+ },
+ "model": "claude-sonnet-5"
+}

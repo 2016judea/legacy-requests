@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bonded Filter Company",
+   "model": "PleatLink",
+   "part": "Provision and Installation of PleatLink\u00ae Filters",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Bonded Filter Company, LLC dba BFC Solutions",
+   "reason": "PleatLink filters are the only ones that meet the health and safety requirements and the sustainability goals of Metro's building programs. Bonded Filter is the only source that provides PleatLink products.",
+   "equipment_class": "HVAC",
+   "installed_location": "Metro Wide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 71088,
+  "out": 227
+ },
+ "model": "claude-sonnet-5"
+}

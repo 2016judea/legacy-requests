@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pierce Manufacturing",
+   "model": "IHC 2100 Gallon Water Tender",
+   "part": "New Water Tender 25 to replace current apparatus at Napa Station",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 675000,
+   "lead_time": null,
+   "sole_source_vendor": "Golden State Fire Apparatus",
+   "reason": "The Department has established Pierce brand engines as standard firefighting equipment as these engines have proven to be more reliable and less expensive to maintain than other manufacturer's engines.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Napa Station (Station 25)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3477,
+  "out": 236
+ },
+ "model": "claude-sonnet-5"
+}

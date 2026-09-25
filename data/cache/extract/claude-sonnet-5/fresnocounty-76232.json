@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Avenu Insights and Analytics, LLC",
+   "model": "RevQ",
+   "part": "RevQ collection system software subscription, implementation/data migration, and ongoing support replacing RPCS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 395124,
+   "lead_time": null,
+   "sole_source_vendor": "Avenu Insights and Analytics, LLC",
+   "reason": "Avenu is the only vendor equipped to convert and migrate data from Revenue Plus Collection System (RPCS) a collection system that is sunsetting on June 30, 2025",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County Auditor-Controller/Treasurer-Tax Collector Department (ACTTC)",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Columbia Ultimate Business Systems (CUBS)/Finvi/Avenu",
+   "model": "Revenue Plus Collector System (RPCS)",
+   "part": "Legacy revenue collection management system being replaced/sunset",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Avenu Insights and Analytics, LLC",
+   "reason": "RPCS is scheduled to be sunset by Avenu",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County Auditor-Controller/Treasurer-Tax Collector Department (ACTTC)",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Avenu Insights and Analytics, LLC",
+   "model": null,
+   "part": "One-time programming/implementation services for RevQ migration (Professional Services, Workflow Setup & Training, California Modules)",
+   "part_numbers": [],
+   "quantity": "1560 hours (Professional Services), 100 hours (Workflow Setup & Training), 50 hours (California Modules)",
+   "price_usd": 175500,
+   "lead_time": "7 months (initial implementation period)",
+   "sole_source_vendor": "Avenu Insights and Analytics, LLC",
+   "reason": "due to their intimate knowledge of RPCS's unique data structure for the integration into the RevQ system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County Auditor-Controller/Treasurer-Tax Collector Department (ACTTC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "LocateSmarter",
+   "part": "Third-party skip tracing data services integrated with RevQ",
+   "part_numbers": [],
+   "quantity": "500 responses/month",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Avenu Insights and Analytics, LLC",
+   "reason": "Avenu contracts with a third party to provide skip tracing services to help determine valid addresses and phone numbers for individuals",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County Auditor-Controller/Treasurer-Tax Collector Department (ACTTC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 47297,
+  "out": 1050
+ },
+ "model": "claude-sonnet-5"
+}

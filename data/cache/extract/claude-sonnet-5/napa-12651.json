@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cisco",
+   "model": "Cisco Collaboration Flex Plan (Cisco FLEX 25-30)",
+   "part": "EntW On-Premises Calling subscription license (A-FLEX-EAPL)",
+   "part_numbers": [
+    "A-FLEX-EAPL"
+   ],
+   "quantity": "1300",
+   "price_usd": 446940.0,
+   "lead_time": null,
+   "sole_source_vendor": "AMS.NET, LLC. D/B/A MGT Impact Solutions",
+   "reason": "AMS.NET is the vendor the County uses for its telephony software licenses, annual technical support, and Cisco Voice Over Internet Protocol (VoIP) telephone system. AMS.NET is a Cisco authorized vendor of the Cisco software licenses.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Napa County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 38649,
+  "out": 299
+ },
+ "model": "claude-sonnet-5"
+}

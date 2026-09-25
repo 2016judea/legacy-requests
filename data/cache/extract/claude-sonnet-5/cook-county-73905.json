@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Records Management System - development, maintenance services and new functionality",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1714168.0,
+   "lead_time": null,
+   "sole_source_vendor": "Clarity Partners, LLC",
+   "reason": "The original contract was awarded via a sole source procurement pursuant to section 34-139 of the Cook County Procurement Code",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Cook County Sheriff's Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3506,
+  "out": 194
+ },
+ "model": "claude-sonnet-5"
+}

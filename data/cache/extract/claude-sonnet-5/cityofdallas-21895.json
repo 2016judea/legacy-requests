@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Deccan International",
+   "model": null,
+   "part": "Maintenance and support for equipment tracking and deployment software for Dallas Fire-Rescue Department",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 399393.0,
+   "lead_time": null,
+   "sole_source_vendor": "Deccan International",
+   "reason": "Utilized for procurements where functional requirements can only be satisfied by one vendor, such as those where patents, copyrights or monopolies exists",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Dallas Fire-Rescue Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3089,
+  "out": 215
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Call answering services for the 511 Motorist Assistance and Traveler Information and Freeway call box systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 645455,
+   "lead_time": "six-year term",
+   "sole_source_vendor": "AAMCOM, LLC",
+   "reason": "AAMCOM, LLC (AAMCOM), is the only CAC provider authorized to operate the proprietary RTT system and the only provider with a CHP-approved RMS.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Orange County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5618,
+  "out": 559
+ },
+ "model": "claude-sonnet-5"
+}

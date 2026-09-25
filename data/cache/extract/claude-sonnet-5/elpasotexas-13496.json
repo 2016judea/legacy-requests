@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "OAG",
+   "model": "FlightView",
+   "part": "Flight View and Flight Status Software and Maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 145646.62,
+   "lead_time": null,
+   "sole_source_vendor": "OAG Aviation Worldwide, LLC",
+   "reason": "the sole and authorized distributor of FlightView Web Components and FlightView XML Flight Status Data",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "El Paso International Airport",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 24345,
+  "out": 193
+ },
+ "model": "claude-sonnet-5"
+}

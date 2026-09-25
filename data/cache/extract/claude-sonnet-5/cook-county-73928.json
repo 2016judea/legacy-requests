@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Harris Corrections Solutions, Inc.",
+   "model": null,
+   "part": "Juvenile Resident Management Information System (hand-held RFID management, risk assessments, resident demographics, scheduling, grievance tracking, medical/mental health management, disciplinary management, etc.)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3234296.0,
+   "lead_time": null,
+   "sole_source_vendor": "Harris Corrections Solutions, Inc.",
+   "reason": "Harris Corrections Solutions Inc. is the sole information technology provider that supports the core functionalities used by the JTDC in the resident management information system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Juvenile Temporary Detention Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2985,
+  "out": 272
+ },
+ "model": "claude-sonnet-5"
+}

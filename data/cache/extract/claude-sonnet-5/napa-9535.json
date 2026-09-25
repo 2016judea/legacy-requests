@@ -1,0 +1,250 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Axon Officer Safety Plan 10 Premium",
+   "part": "Body worn cameras, conducted energy devices, and fleet video systems bundle (BWC, CED, cloud storage, software)",
+   "part_numbers": [
+    "M00014"
+   ],
+   "quantity": "100",
+   "price_usd": 1890540.0,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "The consolidation of agreements will upgrade Axon OSP 7+ to Axon OSP 10 Premium and extend the agreement another 5 years.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Napa County Sheriff's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "TASER 10",
+   "part": "Conducted energy device (CED) upgrade from TASER 7, including handles, magazines, cartridges, holsters, dock and training suit",
+   "part_numbers": [
+    "100390",
+    "100393",
+    "100394",
+    "100395",
+    "100396",
+    "100399",
+    "100400",
+    "100401",
+    "100611",
+    "100613",
+    "100751",
+    "101193",
+    "74200",
+    "20018",
+    "85149",
+    "80087",
+    "80090",
+    "100623"
+   ],
+   "quantity": "100",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Axon OSP 10 Premium includes an upgrade of the current Taser 7 CED to Taser 10 CED. Taser 10 CED is more reliable, water resistant, and has a maximum range of 45 Ft",
+   "equipment_class": "other equipment",
+   "installed_location": "Napa County Sheriff's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Axon Body 4",
+   "part": "Body worn camera hardware, cables, docks and warranties for BWC program",
+   "part_numbers": [
+    "100775",
+    "100942",
+    "73309",
+    "73689",
+    "73310",
+    "73688",
+    "80464",
+    "80465",
+    "80379",
+    "71019",
+    "70033"
+   ],
+   "quantity": "100",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "In May of 2016, the Sheriff's Office implemented its body worn camera (BWC) program.",
+   "equipment_class": "other equipment",
+   "installed_location": "Napa County Sheriff's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Axon Fleet 3",
+   "part": "In-car fleet video system replacing prior Panasonic system, cloud-based software and storage",
+   "part_numbers": [
+    "Fleet3BRe",
+    "80400",
+    "80410",
+    "11641"
+   ],
+   "quantity": "57",
+   "price_usd": 227532.6,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "On October 18, 2022, the Board approved Agreement No. 230195B to replace the Sheriff's Office Panasonic in-car video system with the Axon Fleet 3 system that uses cloud-based software and storage",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Napa County Sheriff's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Axon Fleet 3 ALPR License",
+   "part": "Automatic License Plate Reader (ALPR) subscription activating ALPR feature within Axon Fleet 3 video system",
+   "part_numbers": [
+    "80401"
+   ],
+   "quantity": "57",
+   "price_usd": 203886.72,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Axon OSP 10 Premium would also include a subscription to activate the Automatic License Plate Reader (ALPR) feature in the Axon Fleet 3 video system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Napa County Sheriff's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Axon Interview Room",
+   "part": "Interview room video/audio recording equipment (cameras, mics, touch panels, server) integrated with Axon platform",
+   "part_numbers": [
+    "74056",
+    "50114",
+    "74059",
+    "50118",
+    "50218",
+    "50322",
+    "50294",
+    "50037",
+    "50045",
+    "50041",
+    "50039",
+    "50043",
+    "50448",
+    "85170"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "On December 15, 2020, the Board approved an amendment to Agreement No. 210016B to add interview room video equipment, which integrated with the existing Axon platform",
+   "equipment_class": "other equipment",
+   "installed_location": "Napa County Sheriff's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Axon VR (Virtual Reality Training System)",
+   "part": "Virtual reality training headsets, controllers, tablets and holsters for TASER/firearms training simulation",
+   "part_numbers": [
+    "100126",
+    "100748",
+    "100832",
+    "101122",
+    "101123",
+    "101294",
+    "101300",
+    "20378",
+    "100210",
+    "101009",
+    "101012",
+    "20373",
+    "101267"
+   ],
+   "quantity": "4",
+   "price_usd": 12000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Approve a waiver of competitive bidding and sole source award to Axon Enterprise, Inc. of Scottsdale, Arizona to provide the Axon Officer Safety Plan 10 Premium.",
+   "equipment_class": "other equipment",
+   "installed_location": "Napa County Sheriff's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Axon Evidence / Axon Records Cloud Software Suite",
+   "part": "Cloud-based digital evidence management, records, redaction, auto-tagging, transcription and storage software",
+   "part_numbers": [
+    "100165",
+    "100801",
+    "73686",
+    "73746",
+    "73840",
+    "73683",
+    "73638",
+    "73682",
+    "73478",
+    "73618",
+    "85760",
+    "20248",
+    "20370",
+    "100590",
+    "100105",
+    "101180"
+   ],
+   "quantity": "100",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "This agreement included hardware, software applications and updates, training and support, secure unlimited cloud-based storage of video and audio evidence, and video redaction software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Napa County Sheriff's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Axon Respond / FUSUS Real-Time Crime Center System",
+   "part": "Real-time interoperability/situational awareness hardware and SaaS license (FususCore storage, Respond Plus)",
+   "part_numbers": [
+    "101351",
+    "101356",
+    "101357",
+    "73680",
+    "11642",
+    "101184"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Approve a waiver of competitive bidding and sole source award to Axon Enterprise, Inc. of Scottsdale, Arizona to provide the Axon Officer Safety Plan 10 Premium.",
+   "equipment_class": "other equipment",
+   "installed_location": "Napa County Sheriff's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Unlimited Premium Bundle",
+   "part": "Additional VR/evidence/storage bundle add-on for supervisory or specialty users",
+   "part_numbers": [
+    "B00024"
+   ],
+   "quantity": "25",
+   "price_usd": 392655.0,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Approve a waiver of competitive bidding and sole source award to Axon Enterprise, Inc. of Scottsdale, Arizona to provide the Axon Officer Safety Plan 10 Premium.",
+   "equipment_class": "other equipment",
+   "installed_location": "Napa County Sheriff's Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 60548,
+  "out": 10008
+ },
+ "model": "claude-sonnet-5"
+}

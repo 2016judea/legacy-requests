@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Voltu Motor Inc.",
+   "model": "Voltu 3 Work Truck - Dual Motor 4WD - F350 chassis",
+   "part": "Voltu 3 Electric Truck (Class 3 all-electric pickup, dual motor 4WD, F-350 chassis)",
+   "part_numbers": [],
+   "quantity": "10",
+   "price_usd": 1744250,
+   "lead_time": null,
+   "sole_source_vendor": "Voltu Motor Inc.",
+   "reason": "Approve a sole source purchase of ten Voltu 3 Electric Trucks from Voltu Motor Inc., of Riverside, California, in the amount of $1,744,250",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Riverside, CA",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 15614,
+  "out": 1207
+ },
+ "model": "claude-sonnet-5"
+}

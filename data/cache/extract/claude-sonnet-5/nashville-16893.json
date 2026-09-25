@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "DuMor",
+   "model": null,
+   "part": "DuMor products such as bollards, receptacles, tables, bike racks and benches for Metropolitan Parks Department",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2000000,
+   "lead_time": null,
+   "sole_source_vendor": "Mid-South Recreation, Inc.",
+   "reason": "Mid-South Recreation is the only vendor that is a local representative for DuMor, which has been the sole product used throughout Metro Parks for tables, benches, bollards, bike racks, and trash receptacles.",
+   "equipment_class": "other equipment",
+   "installed_location": "Metropolitan Parks Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 88056,
+  "out": 248
+ },
+ "model": "claude-sonnet-5"
+}

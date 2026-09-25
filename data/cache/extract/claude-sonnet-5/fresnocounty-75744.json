@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "AssetWorks",
+   "model": "CMS",
+   "part": "Electric vehicle charging infrastructure installation and AssetWorks Charging Management System (CMS) subscription",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 325018,
+   "lead_time": null,
+   "sole_source_vendor": "AssetWorks Inc.",
+   "reason": "AssetWorks is the only vendor that offers an Open Charge Point Protocol (OCPP) solution that integrates with FleetFocus.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "AssetWorks",
+   "model": "FleetFocus",
+   "part": "Fleet Management System software used since 1996 that CMS must integrate with",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AssetWorks Inc.",
+   "reason": "AssetWorks is the owner, author, and Sole Source Provider of FleetFocus and CMS.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 1
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9636,
+  "out": 387
+ },
+ "model": "claude-sonnet-5"
+}

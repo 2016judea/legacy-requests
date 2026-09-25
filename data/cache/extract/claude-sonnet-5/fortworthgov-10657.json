@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Newbasis, LLC",
+   "model": "Lockjaw Security System",
+   "part": "Lockjaw Security Equipment to safeguard against copper wire theft in streetlight utility boxes",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 150000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Newbasis, LLC",
+   "reason": "Newbasis is the officially recognized sole manufacturer and dealer for the United States region, providing the only non-conductive wiring security protection available.",
+   "equipment_class": "other equipment",
+   "installed_location": "streetlight utility boxes",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3143,
+  "out": 222
+ },
+ "model": "claude-sonnet-5"
+}

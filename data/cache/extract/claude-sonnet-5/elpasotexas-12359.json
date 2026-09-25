@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Autocar",
+   "model": null,
+   "part": "Autocar Proprietary Parts and Service",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 843750,
+   "lead_time": null,
+   "sole_source_vendor": "TE of El Paso, LLC",
+   "reason": "due to contract expenditures being met",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5062,
+  "out": 534
+ },
+ "model": "claude-sonnet-5"
+}

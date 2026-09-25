@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Utility Associates, Inc.",
+   "model": "BodyWorn",
+   "part": "BodyWorn\u2122 Comprehensive Camera Systems and supporting hardware and software accessories",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 330204.0,
+   "lead_time": null,
+   "sole_source_vendor": "Utility Associates, Inc.",
+   "reason": "Title: BodyWorn\u2122 Body Camera System (Sole Source)",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Utility Associates, Inc.",
+   "model": "RiOT",
+   "part": "RIOT installation and alteration costs",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 207204.0,
+   "lead_time": null,
+   "sole_source_vendor": "Utility Associates, Inc.",
+   "reason": "The Riot installation is $190,250, and the alteration is $16,954.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Additional Body-Worn Cameras and alterations for Marshal's Office",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 123000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Utility Associates, Inc.",
+   "reason": "Due to the increase of our staff we are in need of an increase to cover additional Body-Worn Cameras and alterations as needed.",
+   "equipment_class": "other equipment",
+   "installed_location": "Marshal's Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6563,
+  "out": 3002
+ },
+ "model": "claude-sonnet-5"
+}

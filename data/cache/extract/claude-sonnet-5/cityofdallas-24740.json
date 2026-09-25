@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Veoci Inc.",
+   "model": null,
+   "part": "Continuous purchase, implementation, and maintenance of an airport safety and work-order management system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 144696.52,
+   "lead_time": null,
+   "sole_source_vendor": "VEOCI INC.",
+   "reason": "the functional requirements can only be satisfied by one source due to proprietary technology and copyrights",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Aviation",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3199,
+  "out": 193
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Journal Technologies, Inc.",
+   "model": "JustWare / eSupervision",
+   "part": "Case Management Software Upgrade for State Court Probation (rescinded award)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 831746.0,
+   "lead_time": null,
+   "sole_source_vendor": "Journal Technologies, Inc.",
+   "reason": "the awarded solution did not meet the County's long-term operational and integration needs for the State Court",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "State Court - Probation",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tyler Technologies",
+   "model": "Enterprise Supervision / Odyssey E-Supervision",
+   "part": "Replacement electronic probation case management system selected to replace Journal Technologies' B-Probation/JustWare",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Chief Davis has concluded that a different vendor, Tyler Technologies provides the best, case management system for the Dekalb County State Court Probation Department.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "State Court - Probation",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5334,
+  "out": 1416
+ },
+ "model": "claude-sonnet-5"
+}

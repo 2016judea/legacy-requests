@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "Syntech Systems",
+   "model": "FuelMaster",
+   "part": "Annual maintenance and upgrade to the existing Fuelmaster System that dispenses and tracks fuel usage for County vehicles",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 345999.03,
+   "lead_time": null,
+   "sole_source_vendor": "Syntech Systems, Inc.",
+   "reason": "Syntech Systems, Inc. holds the copyrights to the Fuelmaster code and patents on the hardware.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "DeKalb County (Multiple Sites), 1300 Commerce Dr Decatur, Ga 30030",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Syntech Systems",
+   "model": "FuelMaster model series 2000, 3000, 4000, 5000 and AIM",
+   "part": "FuelMaster Software and Hardware (island controller, access device, system software)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Syntech Systems, Inc.",
+   "reason": "Syntech Systems, Inc. designed and developed the software to work with its accompanying hardware \\u2013 FuelMaster model series 2000, 3000, 4000, 5000 and AIM product line.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Syntech Systems",
+   "model": "FMU (FuelMaster Unit)",
+   "part": "Install FM Live Upgrade Hardware on (29) Existing Legacy FMU's",
+   "part_numbers": [],
+   "quantity": "29",
+   "price_usd": 231860,
+   "lead_time": null,
+   "sole_source_vendor": "Syntech Systems, Inc.",
+   "reason": "We are upgrading the communication hardware and associated software that only this vendor can perform",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "DeKalb County (Multiple Sites), 1300 Commerce Dr Decatur, Ga 30030",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Powervar",
+   "model": "Powervar Surge Protection Equipment",
+   "part": "Install Powervar Surge Protection Equipment on (29) Existing FMU's",
+   "part_numbers": [],
+   "quantity": "29",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Syntech Systems, Inc.",
+   "reason": "Install Powervar Surge Protec(cid:415)on Equipment on (29) Exis(cid:415)ng FMU\\u2019s.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "DeKalb County (Multiple Sites), 1300 Commerce Dr Decatur, Ga 30030",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Syntech Systems",
+   "model": "FMLive",
+   "part": "FMLive Annual Subscription and one-time FMLive Services (software conversion, data import, training)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 27965.28,
+   "lead_time": null,
+   "sole_source_vendor": "Syntech Systems, Inc.",
+   "reason": "The Annual FMLive Subscrip(cid:415)on is invoiced the day the first batch of hardware ships.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "DeKalb County (Multiple Sites), 1300 Commerce Dr Decatur, Ga 30030",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Syntech Systems",
+   "model": "FMLive",
+   "part": "FMLive Services (One-Time) - software conversion scope of work",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 18152.5,
+   "lead_time": null,
+   "sole_source_vendor": "Syntech Systems, Inc.",
+   "reason": "The one-(cid:415)me FMLive Services are invoiced the day the first batch of hardware ships.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "DeKalb County (Multiple Sites), 1300 Commerce Dr Decatur, Ga 30030",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6867,
+  "out": 1463
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,95 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bloom Energy",
+   "model": "Energy Server (ES5)",
+   "part": "Solid oxide fuel cell (SOFC) power generation system for Fresno County Sheriff Office Jail",
+   "part_numbers": [
+    "ES5 Energy Server Systems",
+    "WDM",
+    "PDS",
+    "TC",
+    "AC-ECM",
+    "DC-ECM",
+    "BPS",
+    "Xformer"
+   ],
+   "quantity": "2,210 kW installed capacity",
+   "price_usd": null,
+   "lead_time": "24 months from the Order Date",
+   "sole_source_vendor": "Bloom Development, Inc.",
+   "reason": "Bloom Development, Inc. is the only vendor with access to their proprietary formulation and software for their solid oxide fuel cell systems, which offers the County a uniquely power-dense clean energy solution",
+   "equipment_class": "generator",
+   "installed_location": "Fresno County Sheriff Office Jail Buildings, 2280 Tulare Street, Fresno, CA 93721",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bloom Energy",
+   "model": "Energy Server (ES5)",
+   "part": "Solid oxide fuel cell (SOFC) power generation system for County Plaza Building",
+   "part_numbers": [
+    "ES5 Energy Server Systems",
+    "WDM",
+    "PDS",
+    "TC",
+    "AC-ECM",
+    "DC-ECM",
+    "BPS",
+    "Xformer"
+   ],
+   "quantity": "455 kW installed capacity",
+   "price_usd": null,
+   "lead_time": "24 months from the Order Date",
+   "sole_source_vendor": "Bloom Development, Inc.",
+   "reason": "Bloom Development, Inc. is the only vendor with access to their proprietary formulation and software for their solid oxide fuel cell systems, which offers the County a uniquely power-dense clean energy solution",
+   "equipment_class": "generator",
+   "installed_location": "County Plaza Building, 2220 Tulare Street, Fresno, CA 93721",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bloom Energy",
+   "model": "Microgrid Controller 5 (MI5) / Step Load 5 (SL5)",
+   "part": "Microgrid equipment enabling stand-alone (off-grid) operation during utility grid outages at FCSO Jail",
+   "part_numbers": [
+    "SL5",
+    "MI5"
+   ],
+   "quantity": "Guaranteed Critical Output 1,802 kW",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Bloom Development, Inc.",
+   "reason": "Bloom is the only vendor with access to their proprietary formulation and software for their solid oxide fuel cell systems, which offers the County a uniquely power-dense clean energy solution for the limited space available in downtown Fresno",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Fresno County Sheriff Office Jail Buildings, 2280 Tulare Street, Fresno, CA 93721",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bloom Energy",
+   "model": "Microgrid Controller 5 (MI5) / Step Load 5 (SL5)",
+   "part": "Microgrid equipment enabling stand-alone (off-grid) operation during utility grid outages at Plaza Building",
+   "part_numbers": [
+    "SL5",
+    "MI5"
+   ],
+   "quantity": "Guaranteed Critical Output 344 kW",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Bloom Development, Inc.",
+   "reason": "Bloom is the only vendor with access to their proprietary formulation and software for their solid oxide fuel cell systems, which offers the County a uniquely power-dense clean energy solution for the limited space available in downtown Fresno",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "County Plaza Building, 2220 Tulare Street, Fresno, CA 93721",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 7,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 54479,
+  "out": 7234
+ },
+ "model": "claude-sonnet-5"
+}

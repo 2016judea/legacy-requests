@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Network equipment to be procured for the Port's computer network infrastructure",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2147250.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Approving and authorizing the Executive Director to enter into a separate agreement with the lowest responsive and responsible bidder to procure network equipment for an amount not to exceed $2,147,250",
+   "equipment_class": "communications/radio",
+   "installed_location": "Port of Oakland",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Existing network equipment being replaced",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Designating existing network equipment replaced as surplus because they are no longer used, obsolete, or worn-out",
+   "equipment_class": "communications/radio",
+   "installed_location": "Port of Oakland",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4242,
+  "out": 847
+ },
+ "model": "claude-sonnet-5"
+}

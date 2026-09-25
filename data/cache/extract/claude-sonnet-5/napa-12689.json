@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Versaterm",
+   "model": "Mindbase",
+   "part": "Mindbase subscription",
+   "part_numbers": [],
+   "quantity": "177",
+   "price_usd": 8496.0,
+   "lead_time": null,
+   "sole_source_vendor": "Versaterm",
+   "reason": "Approve a waiver of competitive bidding and sole source award to Versaterm of Ottawa, Ontario.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Napa County Sheriff's Office (CA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Versaterm",
+   "model": "Mindbase",
+   "part": "Mindbase base subscription per agency",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 2500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Versaterm",
+   "reason": "Approve a waiver of competitive bidding and sole source award to Versaterm of Ottawa, Ontario.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Napa County Sheriff's Office (CA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Versaterm",
+   "model": "Mindbase",
+   "part": "Initial Mindbase configuration and training. Includes standard CAD/RMS Interface.",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 2750.0,
+   "lead_time": null,
+   "sole_source_vendor": "Versaterm",
+   "reason": "Approve a waiver of competitive bidding and sole source award to Versaterm of Ottawa, Ontario.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Napa County Sheriff's Office (CA)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 35617,
+  "out": 1881
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Idexx",
+   "model": null,
+   "part": "Companion Animal Products laboratory testing supplies (including analyzers, analyzer consumables and SNAP\u00ae kits) for in-house veterinary laboratory testing",
+   "part_numbers": [],
+   "quantity": "All",
+   "price_usd": 1200000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Idexx Distribution, Inc.",
+   "reason": "IDEXX Laboratories, Inc., together with its subsidiaries, has moved to an all-direct distribution model in the United States with respect to such products effective January 1, 2015 and will...thereafter be the exclusive supplier of such products in the United States.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Animal Services, 5001 Fred Wilson Ave, El Paso, TX 79906",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7261,
+  "out": 297
+ },
+ "model": "claude-sonnet-5"
+}

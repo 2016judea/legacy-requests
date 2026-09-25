@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "CGI Technologies and Solutions, Inc.",
+   "model": null,
+   "part": "Proprietary Software Maintenance for Enterprise Resource Planning (ERP) System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "CGI Technologies and Solutions, Inc.",
+   "reason": "This contract is terminated effective 03/31/2024.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Pervasive Data Integrator",
+   "part": "Additional software licenses maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 114220.0,
+   "lead_time": null,
+   "sole_source_vendor": "CGI Technologies and Solutions, Inc.",
+   "reason": "for additional Pervasive Data Integrator licenses.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IBM",
+   "model": "Maximo",
+   "part": "Maintenance on additional COBOL, Versala, and IBM Maximo licenses and removal of maintenance on certain other IBM Maximo licenses",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 350837.0,
+   "lead_time": null,
+   "sole_source_vendor": "CGI Technologies and Solutions, Inc.",
+   "reason": "for maintenance on additional COBOL, Versala, and IBM Maximo licenses and for the removal of maintenance on certain other IBM Maximo licenses.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Human Resource Management System software modules",
+   "part": "Decrease in software maintenance due to removal of HRMS modules",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": -867728.0,
+   "lead_time": null,
+   "sole_source_vendor": "CGI Technologies and Solutions, Inc.",
+   "reason": "for decreased maintenance due to the removal of the Human Resource Management System software modules.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IBM",
+   "model": "Maximo",
+   "part": "Maintenance on increased quantity of IBM Maximo licenses",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 95495.0,
+   "lead_time": null,
+   "sole_source_vendor": "CGI Technologies and Solutions, Inc.",
+   "reason": "for maintenance on the increased quantity of IBM Maximo licenses.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5211,
+  "out": 3824
+ },
+ "model": "claude-sonnet-5"
+}

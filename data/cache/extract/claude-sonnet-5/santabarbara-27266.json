@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Teleosoft",
+   "model": "CountySuite",
+   "part": "Teleosoft CountySuite civil process software license (E-Filing, Cloud Hosting, and maintenance)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 628017,
+   "lead_time": null,
+   "sole_source_vendor": "Teleosoft, Inc.",
+   "reason": "The CountySuite software is patented and proprietary in nature and is the only civil process software compatible with existing Teleosoft software in use by the Sheriff's Civil Unit; therefore, none of these features can be acquired from any other civil software manufacturer.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Sheriff's Civil Unit, Santa Barbara County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teleosoft",
+   "model": "CountySuite E-Filing",
+   "part": "CountySuite E-filing software license (one-time license fee)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 76983,
+   "lead_time": null,
+   "sole_source_vendor": "Teleosoft, Inc.",
+   "reason": "CountySuite offers this solution and is the only option compatible with existing Teleosoft Case Management Software currently in use by the Sheriff's Civil Unit.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Sheriff's Civil Unit, Santa Barbara County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teleosoft",
+   "model": "CountySuite E-Filing",
+   "part": "Annual maintenance and support services for CountySuite E-Filing software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 11433,
+   "lead_time": null,
+   "sole_source_vendor": "Teleosoft, Inc.",
+   "reason": "CountySuite offers this solution and is the only option compatible with existing Teleosoft Case Management Software currently in use by the Sheriff's Civil Unit.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Sheriff's Civil Unit, Santa Barbara County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teleosoft",
+   "model": "CountySuite Sheriff",
+   "part": "CountySuite Cloud Hosting service (Azure Government CJIS Compliant environment) - First-Year Hosting Fee",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 86311,
+   "lead_time": null,
+   "sole_source_vendor": "Teleosoft, Inc.",
+   "reason": "CountySuite offers this solution and is the only option compatible with existing Teleosoft Case Management Software currently in use by the Sheriff's Civil Unit.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Sheriff's Civil Unit, Santa Barbara County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teleosoft",
+   "model": "CountySuite Sheriff",
+   "part": "CountySuite\u2122 Servers Implementation in Hosted Environment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 32000,
+   "lead_time": null,
+   "sole_source_vendor": "Teleosoft, Inc.",
+   "reason": "CountySuite offers this solution and is the only option compatible with existing Teleosoft Case Management Software currently in use by the Sheriff's Civil Unit.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Sheriff's Civil Unit, Santa Barbara County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 30739,
+  "out": 2780
+ },
+ "model": "claude-sonnet-5"
+}

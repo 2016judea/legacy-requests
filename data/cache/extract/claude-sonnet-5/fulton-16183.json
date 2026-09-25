@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": "KNOWiNK",
+   "model": null,
+   "part": "Mailing & Voter Communication Services / Postage for Absentee Ballot Mailout / Postage for Confirmation Notice Mail-Outs - NOVEMBER ELECTION",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 185000.0,
+   "lead_time": null,
+   "sole_source_vendor": "KNOWiNK, LLC",
+   "reason": "Sole Source - KNOWiNK",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "KNOWiNK",
+   "model": null,
+   "part": "Mailing & Voter Communication Services / Postage for Absentee Ballot Mailout / Postage for Confirmation Notice Mail-Outs - DECEMBER RUNOFF",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 38300.0,
+   "lead_time": null,
+   "sole_source_vendor": "KNOWiNK, LLC",
+   "reason": "Sole Source - KNOWiNK",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "KNOWiNK",
+   "model": "Poll Pad",
+   "part": "Knowink Poll Pad Data Estimate - NOVEMBER ELECTION",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 7200.0,
+   "lead_time": null,
+   "sole_source_vendor": "KNOWiNK, LLC",
+   "reason": "Sole Source - KNOWiNK",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "KNOWiNK",
+   "model": "Poll Pad",
+   "part": "Knowink Poll Pad Data Estimate - DECEMBER RUNOFF",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 7200.0,
+   "lead_time": null,
+   "sole_source_vendor": "KNOWiNK, LLC",
+   "reason": "Sole Source - KNOWiNK",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Mailing ABS ballots services - NOVEMBER ELECTION",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 30000.0,
+   "lead_time": null,
+   "sole_source_vendor": "KNOWiNK, LLC",
+   "reason": "Sole Source - KNOWiNK",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Mailing ABS ballots services - DECEMBER RUNOFF",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 30000.0,
+   "lead_time": null,
+   "sole_source_vendor": "KNOWiNK, LLC",
+   "reason": "Sole Source - KNOWiNK",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Precinct card mailings (daily cards and special orders) - printing and mailing, State of GA pays $0.07 each",
+   "part_numbers": [],
+   "quantity": "500,000",
+   "price_usd": 0.62,
+   "lead_time": null,
+   "sole_source_vendor": "KNOWiNK, LLC",
+   "reason": "They will honor our state contract price for Fulton County, which means they\u2019ll pay for $0.07 for every card printed.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Confirmation notices printing/mailing (not including postage)",
+   "part_numbers": [],
+   "quantity": "20,000",
+   "price_usd": 0.27,
+   "lead_time": null,
+   "sole_source_vendor": "KNOWiNK, LLC",
+   "reason": "Sole Source - KNOWiNK",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Absentee ballot mailouts (packet, not including postage)",
+   "part_numbers": [],
+   "quantity": "20,000",
+   "price_usd": 3.25,
+   "lead_time": null,
+   "sole_source_vendor": "KNOWiNK, LLC",
+   "reason": "Sole Source - KNOWiNK",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 1
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5406,
+  "out": 1532
+ },
+ "model": "claude-sonnet-5"
+}

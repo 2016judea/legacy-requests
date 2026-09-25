@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Flowbird",
+   "model": "Axio",
+   "part": "FlowBird Axio validators",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Flowbird America, Inc.",
+   "reason": "the sole authorized distributor and provider for FlowBird Axio validators, Strada Ticket Vending Machines, and Flowbird software support and maintenance",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Flowbird",
+   "model": "Strada",
+   "part": "Strada Ticket Vending Machines",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Flowbird America, Inc.",
+   "reason": "the sole authorized distributor and provider for FlowBird Axio validators, Strada Ticket Vending Machines, and Flowbird software support and maintenance",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Flowbird",
+   "model": null,
+   "part": "Flowbird software support and maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2219995.49,
+   "lead_time": null,
+   "sole_source_vendor": "Flowbird America, Inc.",
+   "reason": "the sole authorized distributor and provider for FlowBird Axio validators, Strada Ticket Vending Machines, and Flowbird software support and maintenance",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3727,
+  "out": 545
+ },
+ "model": "claude-sonnet-5"
+}

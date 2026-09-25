@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Xylem Flygt A-C",
+   "model": null,
+   "part": "Pumps and replacement parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Flow-Technics, Inc.",
+   "reason": "to furnish and deliver Xylem Flygt A-C, Sulzer ABS, ITT Gould and Netzsch pumps and replacement parts to various locations",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sulzer ABS",
+   "model": null,
+   "part": "Pumps and replacement parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Flow-Technics, Inc.",
+   "reason": "to furnish and deliver Xylem Flygt A-C, Sulzer ABS, ITT Gould and Netzsch pumps and replacement parts to various locations",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ITT Gould",
+   "model": null,
+   "part": "Pumps and replacement parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Flow-Technics, Inc.",
+   "reason": "a greater than anticipated need for spare and replacement Netzsch and ITT pump parts and equipment at the Calumet and Stickney Water Reclamation Plants",
+   "equipment_class": "pump",
+   "installed_location": "Calumet and Stickney Water Reclamation Plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Netzsch",
+   "model": null,
+   "part": "Pumps and replacement parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Flow-Technics, Inc.",
+   "reason": "a greater than anticipated need for spare and replacement Netzsch and ITT pump parts and equipment at the Calumet and Stickney Water Reclamation Plants",
+   "equipment_class": "pump",
+   "installed_location": "Calumet and Stickney Water Reclamation Plants",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2991,
+  "out": 1222
+ },
+ "model": "claude-sonnet-5"
+}

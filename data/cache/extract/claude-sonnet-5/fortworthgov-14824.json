@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Monitor, maintain, and repair the Air Ventilation System for the Weapons Range",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 150000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Carey's Heating and Air Conditioning, Inc.",
+   "reason": "The ventilation system was originally designed, installed and calibrated by Carey\u2019s Heating and Air Conditioning, Inc. to ensure safe operation of the range. ... Any service by another contractor can put officers at risk of harm due to the range ventilation system\u2019s proprietary design and programming.",
+   "equipment_class": "HVAC",
+   "installed_location": "Weapons Range, Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6941,
+  "out": 261
+ },
+ "model": "claude-sonnet-5"
+}

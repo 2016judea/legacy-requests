@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fire and Security Systems Repair Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 200000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Johnson Controls Fire Protection, LP",
+   "reason": "This is a Sole Source Procurement pursuant to Section 34-139 of the Cook County Procurement Code.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Simplex",
+   "model": null,
+   "part": "upgrade to Simplex fire alarm panel",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 60000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Johnson Controls Fire Protection, LP",
+   "reason": "This is a Sole Source Procurement pursuant to Section 34-139 of the Cook County Procurement Code.",
+   "equipment_class": "other equipment",
+   "installed_location": "south campus building #3",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3155,
+  "out": 657
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Furnish and install one dual voltage transformer",
+   "part_numbers": [],
+   "quantity": "one (1)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Electric field crews identified a leaking transformer serving the VIP Nightclub on Merrill Avenue fed by a 4kV circuit, soon to be converted to 12kV",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Merrill Avenue, Riverside, CA (Ward 3)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Furnish and install one (1) transformer pad",
+   "part_numbers": [],
+   "quantity": "one (1)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Furnish and install one (1) transformer pad to replace one (1) pad transformer and one (1) commercial subsurface transformer enclosure (CST).",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Merrill Avenue, Riverside, CA (Ward 3)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replace one (1) commercial subsurface transformer enclosure (CST)",
+   "part_numbers": [],
+   "quantity": "one (1)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Furnish and install one (1) transformer pad to replace one (1) pad transformer and one (1) commercial subsurface transformer enclosure (CST).",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Merrill Avenue, Riverside, CA (Ward 3)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Obsolete switch feeding transformer from the getaway with no protection",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The transformer is fed directly from the getaway by an obsolete switch with no protection",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Merrill Avenue, Riverside, CA (Ward 3)",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Install approximately 70 linear feet of 4-inch conduit SCH40 and 28 linear feet of 4-inch conduit S40E, plus 42 trench feet of conduit",
+   "part_numbers": [],
+   "quantity": "42 trench feet; 70 linear feet SCH40; 28 linear feet S40E",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "To furnish and install approximately 42 trench feet of conduit, install approximately 70 linear feet of 4-inch conduit SCH40, and 28 linear feet of 4-inch conduit S40E.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Merrill Avenue, Riverside, CA (Ward 3)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Installation of approximately 1,160 circuit feet of underground cable",
+   "part_numbers": [],
+   "quantity": "1,160 circuit feet",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Installation of approximately 42 trench feet of conduit, and 1,160 circuit feet of underground cable",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Merrill Avenue, Riverside, CA (Ward 3)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Merrill Avenue Transformer P753 Upgrade Project construction contract",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 73828.0,
+   "lead_time": "4 weeks",
+   "sole_source_vendor": "Doty Bros. Equipment Company",
+   "reason": "The Purchasing Division has evaluated all bids received and recommends award be made to the lowest responsive and responsible bidder in compliance with Purchasing Resolution 24101.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Merrill Avenue, Riverside, CA (Ward 3)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5121,
+  "out": 2656
+ },
+ "model": "claude-sonnet-5"
+}

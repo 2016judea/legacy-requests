@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Wachs",
+   "model": "Truck-Mounted Valve Turner",
+   "part": "Purchase of one Wachs Truck-Mounted Valve Turner",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 153967,
+   "lead_time": null,
+   "sole_source_vendor": "Envirotech Equipment Company",
+   "reason": "Envirotech Equipment Company is the only vendor that can provide the Wachs valve equipment for MWU",
+   "equipment_class": "other equipment",
+   "installed_location": "Madison Water Utility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2584,
+  "out": 200
+ },
+ "model": "claude-sonnet-5"
+}

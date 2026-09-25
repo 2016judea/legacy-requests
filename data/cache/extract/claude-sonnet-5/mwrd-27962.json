@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Alfa Laval, Inc.",
+   "model": null,
+   "part": "Off-Site Centrifuge Rehabilitation and Repair Services and On-Site Technical Services as Needed for the Stickney Water Reclamation Plant",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3900000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Alfa Laval, Inc.",
+   "reason": "The original manufacturer, Alfa Laval, Inc., has historically been the sole source provider of acceptable quality rehabilitation services for these centrifuges.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Stickney Water Reclamation Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2986,
+  "out": 272
+ },
+ "model": "claude-sonnet-5"
+}

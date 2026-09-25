@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Wabtec Passenger Transit",
+   "model": "P2000 Friction Brake and Air Compressor Overhaul Kit",
+   "part": "Component overhaul services for P2000 LRV friction brake and air compressor equipment (57 kits, including spares)",
+   "part_numbers": [],
+   "quantity": "57 kits",
+   "price_usd": 10039572.57,
+   "lead_time": "48-month contract",
+   "sole_source_vendor": "Wabtec Passenger Transit",
+   "reason": "Wabtec is the OEM of the existing friction brake system and possesses rights and control over proprietary data, supplies, and equipment necessary to ensure the full operational capability of its friction brake system.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "P2000 Light Rail Vehicle Fleet - A, C, E, and K Lines",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8629,
+  "out": 297
+ },
+ "model": "claude-sonnet-5"
+}

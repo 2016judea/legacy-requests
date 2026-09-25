@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Itineris NA, Inc.",
+   "model": "Customer Information System",
+   "part": "Customer Information System software, licensing, and implementation/managed services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 43361513.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the panel concluded that Itineris NA presented the best value to the City. Therefore, the panel recommends that Council authorize an agreement with Itineris NA",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Water Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Microsoft",
+   "model": "Microsoft Dynamics 365",
+   "part": "Microsoft Dynamics licensing as defined by Itineris",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2764864.0,
+   "lead_time": null,
+   "sole_source_vendor": "SHI Government Solutions, Inc.",
+   "reason": "Authorize execution of a sole source agreement with SHI Government Solutions, Inc. as Microsoft\u2019s authorized distributor for Microsoft Dynamics licensing as defined by Itineris",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Water Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9046,
+  "out": 876
+ },
+ "model": "claude-sonnet-5"
+}

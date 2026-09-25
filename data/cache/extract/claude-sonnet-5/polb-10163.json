@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Notifier",
+   "model": null,
+   "part": "Fire alarm system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Notifier",
+   "reason": "The fire alarm system uses proprietary signaling and communication protocols to maintain system integrity and cannot be mixed between manufacturers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Pier E North Gate Expansion project",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fairbanks",
+   "model": null,
+   "part": "Truck scales",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks",
+   "reason": "The new truck scales must match existing to align with scale pit footprint and maintain consistency with controls.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Pier E North Gate Expansion project",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Square D",
+   "model": null,
+   "part": "Electrical equipment panel boards",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Square D",
+   "reason": "The new electrical equipment panel boards must match existing to properly communicate with the existing system.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Pier E North Gate Expansion project",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Holophane",
+   "model": null,
+   "part": "High mast light pole luminaire",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Holophane",
+   "reason": "Maintaining uniformity in the lighting fixtures across the terminal avoids reduction in existing system functionality, provides uniform light output and color temperature across the terminal, and streamlines maintenance procedures, repairs, and replacements.",
+   "equipment_class": "other equipment",
+   "installed_location": "Pier E North Gate Expansion project",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9698,
+  "out": 1380
+ },
+ "model": "claude-sonnet-5"
+}

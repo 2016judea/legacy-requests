@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "ESO Solutions, Inc.",
+   "model": "ESO Visual Fire Software",
+   "part": "Supplemental Agreement No. 5 to increase service contract for hosting, maintenance, and support of ESO Visual Fire Software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 168223.0,
+   "lead_time": null,
+   "sole_source_vendor": "ESO Solutions, Inc.",
+   "reason": "Utilized for procurements where functional requirements can only be satisfied by one vendor, such as those where patents, copyrights or monopolies exists",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Dallas Fire-Rescue Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ESO Solutions, Inc.",
+   "model": "ESO Visual Fire Software",
+   "part": "Two-year service contract for continuous hosting, maintenance, and support of ESO Visual Fire software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 362100.01,
+   "lead_time": null,
+   "sole_source_vendor": "ESO Solutions, Inc.",
+   "reason": "Utilized for procurements where functional requirements can only be satisfied by one vendor, such as those where patents, copyrights or monopolies exists",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Dallas Fire-Rescue Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3477,
+  "out": 478
+ },
+ "model": "claude-sonnet-5"
+}

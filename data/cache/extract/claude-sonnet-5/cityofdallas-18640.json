@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "LexisNexis Risk Solutions FL Inc.",
+   "model": "Desk Officer Reporting System (DORS)",
+   "part": "Three-year service agreement for online community member incident reporting portal and management system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 320909.64,
+   "lead_time": null,
+   "sole_source_vendor": "LexisNexis Risk Solutions FL Inc.",
+   "reason": "Utilized for procurements where functional requirements can only be satisfied by one vendor, such as those where patents, copyrights or monopolies exists",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3014,
+  "out": 236
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "HigherGround",
+   "model": "Live911",
+   "part": "911 audio livestreaming technology solution (software licenses, installation, training) - Amendment Number 2 increasing contract value and extending term",
+   "part_numbers": [],
+   "quantity": "200 Licenses (Base Software + 5 Concurrent Licenses + 195 Additional Concurrent Licenses)",
+   "price_usd": 772755.0,
+   "lead_time": null,
+   "sole_source_vendor": "HigherGround, Inc.",
+   "reason": "this manufacturer produces the only solution that livestreams 911 calls in real time, provides all current 911 call locations graphically on a map in the field, and automatically plays 911 calls directly to the officer's mobile digital communicator (MDC) based on a predefined geofence (patrol zone)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Nashville, Davidson County (Police)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 76364,
+  "out": 320
+ },
+ "model": "claude-sonnet-5"
+}

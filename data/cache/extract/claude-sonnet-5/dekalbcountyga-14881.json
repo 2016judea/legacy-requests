@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Dominion Voting Systems, Inc.",
+   "model": null,
+   "part": "Electronic voting software and hardware products, equipment, and supplies",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3750000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Dominion Voting Systems, Inc.",
+   "reason": "On August 9, 2019, the Office of the Secretary of State certified Dominion Voting Systems as the official voting system in the State of Georgia.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4752,
+  "out": 207
+ },
+ "model": "claude-sonnet-5"
+}

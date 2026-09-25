@@ -1,0 +1,135 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Adjust water valve box to grade",
+   "part_numbers": [
+    "611-8140"
+   ],
+   "quantity": "1",
+   "price_usd": 630,
+   "lead_time": null,
+   "sole_source_vendor": "The City of Johns Creek",
+   "reason": "the most cost-effective way to complete the water main relocations is by allowing the City of Johns Creek to bid out the work as part of their roadway project",
+   "equipment_class": "valve",
+   "installed_location": "Sargent Road @ Ashwick/Barton Place Roundabout",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fire hydrant - W/6\" GV",
+   "part_numbers": [
+    "670-4000"
+   ],
+   "quantity": "1",
+   "price_usd": 8441,
+   "lead_time": null,
+   "sole_source_vendor": "The City of Johns Creek",
+   "reason": "the most cost-effective way to complete the water main relocations is by allowing the City of Johns Creek to bid out the work as part of their roadway project",
+   "equipment_class": "other equipment",
+   "installed_location": "Sargent Road @ Ashwick/Barton Place Roundabout",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Remove existing fire hydrant",
+   "part_numbers": [
+    "670-9920"
+   ],
+   "quantity": "1",
+   "price_usd": 1325,
+   "lead_time": null,
+   "sole_source_vendor": "The City of Johns Creek",
+   "reason": "the most cost-effective way to complete the water main relocations is by allowing the City of Johns Creek to bid out the work as part of their roadway project",
+   "equipment_class": "other equipment",
+   "installed_location": "Sargent Road @ Ashwick/Barton Place Roundabout",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Relocate existing water meter, including box",
+   "part_numbers": [
+    "670-9730"
+   ],
+   "quantity": "1",
+   "price_usd": 752,
+   "lead_time": null,
+   "sole_source_vendor": "The City of Johns Creek",
+   "reason": "the most cost-effective way to complete the water main relocations is by allowing the City of Johns Creek to bid out the work as part of their roadway project",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Sargent Road @ Ashwick/Barton Place Roundabout",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Adjust water valve to grade in pavement",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 650,
+   "lead_time": null,
+   "sole_source_vendor": "The City of Johns Creek",
+   "reason": "the most cost-effective way to complete the water main relocations is by allowing the City of Johns Creek to bid out the work as part of their roadway project",
+   "equipment_class": "valve",
+   "installed_location": "Old Alabama Road Trail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Adjust water valve to grade in gutter or sidewalk",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": 650,
+   "lead_time": null,
+   "sole_source_vendor": "The City of Johns Creek",
+   "reason": "the most cost-effective way to complete the water main relocations is by allowing the City of Johns Creek to bid out the work as part of their roadway project",
+   "equipment_class": "valve",
+   "installed_location": "Old Alabama Road Trail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Adjust water valve to grade in dirt or SOD",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 350,
+   "lead_time": null,
+   "sole_source_vendor": "The City of Johns Creek",
+   "reason": "the most cost-effective way to complete the water main relocations is by allowing the City of Johns Creek to bid out the work as part of their roadway project",
+   "equipment_class": "valve",
+   "installed_location": "Old Alabama Road Trail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Relocation of hydrant at STA 108+95, 118+75, 128+56",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": 7150,
+   "lead_time": null,
+   "sole_source_vendor": "The City of Johns Creek",
+   "reason": "the most cost-effective way to complete the water main relocations is by allowing the City of Johns Creek to bid out the work as part of their roadway project",
+   "equipment_class": "other equipment",
+   "installed_location": "Old Alabama Road Trail",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 30276,
+  "out": 4626
+ },
+ "model": "claude-sonnet-5"
+}

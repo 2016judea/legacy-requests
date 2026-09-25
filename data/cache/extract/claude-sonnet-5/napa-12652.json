@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cisco",
+   "model": "Flex CC On-Premises UCCX Premium Concurrent Agent",
+   "part": "Cisco FLEX Call Center telephone system software subscription (SaaS)",
+   "part_numbers": [
+    "A-FLEX-PJXPC"
+   ],
+   "quantity": "20",
+   "price_usd": 39960.0,
+   "lead_time": null,
+   "sole_source_vendor": "AMS.NET, LLC.",
+   "reason": "AMS.NET is a Cisco authorized vendor of the Cisco software licenses.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Information Technology Services (ITS) and Health and Human Services (HHS) call centers",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 13801,
+  "out": 247
+ },
+ "model": "claude-sonnet-5"
+}

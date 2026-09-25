@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "L3Harris",
+   "model": "P25 Trunked Radio System",
+   "part": "Technical Services Agreement for P25 Trunked Radio Systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 180807,
+   "lead_time": null,
+   "sole_source_vendor": "Dailey-Wells Communications, Inc.",
+   "reason": "As the only regional distributor of this type of radio equipment, DWC possesses the expertise, unique and detailed knowledge, and resources to provide the District with the proprietary software integration and necessary configurations for the required AES and interoperability enhancements for the system.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "L3Harris",
+   "model": "P25 Trunked Radio System",
+   "part": "AES Encryption and Pathway Plus Interoperability Materials and Software, including all appurtenances",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 710125,
+   "lead_time": null,
+   "sole_source_vendor": "Dailey-Wells Communications, Inc.",
+   "reason": "Another vendor would not have the proprietary and security sensitive knowledge of the District\u2019s radio system software designs and hardware configurations.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "EDACS",
+   "part": "Legacy Enhanced Digital Access Communication System (EDACS) radio system being replaced",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The District recently implemented the new P25 Trunked Radio system to replace the end of life, legacy Enhanced Digital Access Communication System (EDACS) radio system.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4338,
+  "out": 822
+ },
+ "model": "claude-sonnet-5"
+}

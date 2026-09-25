@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Westmatic",
+   "model": null,
+   "part": "Preventative maintenance, repair, parts and related chemicals for two car wash systems",
+   "part_numbers": [],
+   "quantity": "2 car wash systems",
+   "price_usd": 110000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Westmatic Corporation",
+   "reason": "Westmatic is the original equipment manufacturer (OEM) of the existing car wash systems and the only vendor that can provide the parts.",
+   "equipment_class": "other equipment",
+   "installed_location": "Medical City and Alta Mere Emergency Medical Services (EMS) locations",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3476,
+  "out": 225
+ },
+ "model": "claude-sonnet-5"
+}

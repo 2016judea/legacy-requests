@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Microwave backhaul replacement project",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3588433,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Microwave backhaul replacement project, funded by the Capital Project allocation ($3,588,433) secured in 2023.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OASIS Microwave Backhaul network upgrade with MPLS data integration",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3600000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "With the assistance of ARPA federal funding ($3.6M), we are upgrading the network and integrating MPLS data to enhance system redundancy and extend infrastructure longevity.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "OASIS system core hardware refresh",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola",
+   "reason": "Motorola will lead a complete hardware refresh, guaranteeing a 100% renewal of the OASIS system core.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "SUA-II",
+   "part": "SUA-II radio cybersecurity services and infrastructure hardware",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The planned completion of SUA-II radio cybersecurity services and infrastructure hardware in Q2 of 2024 demonstrates substantial advancement in enhancing cybersecurity resilience within the OASIS network.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "County-wide PSAP cyber-security plan, including RSUS/MDR software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Full deployment of the County-wide PSAP cyber-security plan, including RSUS/MDR software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Additional software solution enabling agency-level control within the ePCR system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "OEM was successfully able to mitigate that concern by purchasing an additional software solution that enabled the agency level control",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11772,
+  "out": 6015
+ },
+ "model": "claude-sonnet-5"
+}

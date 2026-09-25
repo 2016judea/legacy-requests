@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ABB",
+   "model": null,
+   "part": "ABB pump drive replacement spare parts used during a recent equipment failure",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 42000.0,
+   "lead_time": null,
+   "sole_source_vendor": "ABB, Inc.",
+   "reason": "An increase is necessary to procure ABB pump drive replacement spare parts used during a recent equipment failure.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Calumet WRP TARP pumping station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2850,
+  "out": 951
+ },
+ "model": "claude-sonnet-5"
+}

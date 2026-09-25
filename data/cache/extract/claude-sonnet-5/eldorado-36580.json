@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "ServTraq",
+   "part": "Proprietary LIHEAP supporting software system \"ServTraq\" (subscription service, 100 user subscriptions)",
+   "part_numbers": [],
+   "quantity": "100 User Subscriptions",
+   "price_usd": 73800,
+   "lead_time": null,
+   "sole_source_vendor": "Central Coast Energy Services, Inc.",
+   "reason": "specialty skills and qualifications not expressly identified in County classifications are involved in the provision of proprietary LIHEAP supporting software system \"ServTraq\"",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "El Dorado County HHSA Community Services Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 25506,
+  "out": 248
+ },
+ "model": "claude-sonnet-5"
+}

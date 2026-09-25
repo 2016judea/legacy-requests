@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Flygt",
+   "model": null,
+   "part": "Pre-mixer tank mixer repair (pumps, mixers, and repair parts)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Buckeye Pumps",
+   "reason": "Buckeye Pumps is the exclusive Northern Ohio distributor for Flygt pumps, mixers, and repair parts. Competitive quotes cannot be solicited.",
+   "equipment_class": "pump",
+   "installed_location": "solids dewatering facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2098,
+  "out": 211
+ },
+ "model": "claude-sonnet-5"
+}

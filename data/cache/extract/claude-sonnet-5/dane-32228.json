@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "additional equipment, spare parts and consumables",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 225000.0,
+   "lead_time": null,
+   "sole_source_vendor": "BIOFERM HOLDINGS, LLC",
+   "reason": "Dane County Department of Waste and Renewables has determined that additional equipment, spare parts and consumables are need through December 31, 2026.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Renewable Natural Gas Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 13694,
+  "out": 1305
+ },
+ "model": "claude-sonnet-5"
+}

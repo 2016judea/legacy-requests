@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bobcat",
+   "model": null,
+   "part": "Proprietary Parts & Service for Bobcat Compact Construction Equipment (45 pieces of Bobcat Equipment owned by the City)",
+   "part_numbers": [],
+   "quantity": "45 pieces of Bobcat Equipment",
+   "price_usd": 450000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Total Equipment & Rental of El Paso, LLC dba Bobcat of El Paso",
+   "reason": "Bobcat Company authorizes and acknowledges Total Equipment (Bobcat of El Paso) as the sole source authorized dealer for Bobcat\u00ae Compact Construction Equipment, Parts, and Accessories for the territory of El Paso, TX.",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso, TX",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9730,
+  "out": 299
+ },
+ "model": "claude-sonnet-5"
+}

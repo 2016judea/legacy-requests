@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "3M Scott",
+   "model": null,
+   "part": "Cylinders for self-contained breathing apparatuses (SCBA)",
+   "part_numbers": [],
+   "quantity": "378 (93 decommissioned + 285 to be decommissioned over three years)",
+   "price_usd": 96960,
+   "lead_time": null,
+   "sole_source_vendor": "Jefferson Fire & Safety, Inc.",
+   "reason": "Jefferson Fire & Safety, Inc. is the only provider of 3M Scott products in Dane County, Wisconsin for public fire protection agencies",
+   "equipment_class": "other equipment",
+   "installed_location": "City of Madison Fire Department",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2701,
+  "out": 236
+ },
+ "model": "claude-sonnet-5"
+}

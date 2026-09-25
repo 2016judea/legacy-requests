@@ -1,0 +1,363 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Ford OEM parts and service for Port fleet trucks, vans and SUVs",
+   "part_numbers": [],
+   "quantity": "123 Ford trucks, vans and SUVs",
+   "price_usd": 500000,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "The Maintenance Division's Fleet Section requires Ford OEM parts and in some cases service by Ford repair technicians with specialized certification, training, and diagnostic equipment that cannot be provided in the Port's garage.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Port of Long Beach",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Front brake pads/shoes (BRF-1475)",
+   "part_numbers": [
+    "BRF-1475"
+   ],
+   "quantity": "10.0 EA",
+   "price_usd": 62.4,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Fuel filter/part DG1Z-9034-F",
+   "part_numbers": [
+    "DG1Z-9034-F"
+   ],
+   "quantity": "25.0 EA",
+   "price_usd": 137.28,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "MCF-2392 part",
+   "part_numbers": [
+    "MCF-2392"
+   ],
+   "quantity": "5.0 EA",
+   "price_usd": 127.92,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "GB5Z-6038-A part",
+   "part_numbers": [
+    "GB5Z-6038-A"
+   ],
+   "quantity": "25.0 EA",
+   "price_usd": 104.0,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Spark plug SP-526X",
+   "part_numbers": [
+    "SP-526X"
+   ],
+   "quantity": "10.0 EA",
+   "price_usd": 5.71,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Fuel pump FP89",
+   "part_numbers": [
+    "FP89"
+   ],
+   "quantity": "5.0 EA",
+   "price_usd": 18.27,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Brake rotor BR-1680",
+   "part_numbers": [
+    "BR-1680"
+   ],
+   "quantity": "5.0 EA",
+   "price_usd": 46.79,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Brake shoe BRSD-1066-A",
+   "part_numbers": [
+    "BRSD-1066-A"
+   ],
+   "quantity": "5.0 EA",
+   "price_usd": 62.39,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "YH-1715 part",
+   "part_numbers": [
+    "YH-1715"
+   ],
+   "quantity": "5.0 EA",
+   "price_usd": 27.46,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "DG-525 part",
+   "part_numbers": [
+    "DG-525"
+   ],
+   "quantity": "1.0 EA",
+   "price_usd": 102.65,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "DG-526 part",
+   "part_numbers": [
+    "DG-526"
+   ],
+   "quantity": "1.0 EA",
+   "price_usd": 102.65,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Brake shoe BRSD-1328-B",
+   "part_numbers": [
+    "BRSD-1328-B"
+   ],
+   "quantity": "1.0 EA",
+   "price_usd": 62.39,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Brake shoe BRSD-1330-B",
+   "part_numbers": [
+    "BRSD-1330-B"
+   ],
+   "quantity": "1.0 EA",
+   "price_usd": 62.39,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Brake rotor BRR-252",
+   "part_numbers": [
+    "BRR-252"
+   ],
+   "quantity": "1.0 EA",
+   "price_usd": 46.79,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Brake rotor BRRF-271",
+   "part_numbers": [
+    "BRRF-271"
+   ],
+   "quantity": "1.0 EA",
+   "price_usd": 43.64,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Brake rotor BRR-223",
+   "part_numbers": [
+    "BRR-223"
+   ],
+   "quantity": "1.0 EA",
+   "price_usd": 62.39,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "FB5Z-5G232-B part",
+   "part_numbers": [
+    "FB5Z-5G232-B"
+   ],
+   "quantity": "1.0 EA",
+   "price_usd": 268.32,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Brake rotor BRR-253",
+   "part_numbers": [
+    "BRR-253"
+   ],
+   "quantity": "1.0 EA",
+   "price_usd": 57.19,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "FB5Z-6038-B part",
+   "part_numbers": [
+    "FB5Z-6038-B"
+   ],
+   "quantity": "1.0 EA",
+   "price_usd": 137.28,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "YH1715 part",
+   "part_numbers": [
+    "YH1715"
+   ],
+   "quantity": "1.0 EA",
+   "price_usd": 27.46,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Standard service labor (7:00am-5:00pm)",
+   "part_numbers": [],
+   "quantity": "1.0 HR",
+   "price_usd": 165.0,
+   "lead_time": null,
+   "sole_source_vendor": "South Bay Ford, Inc.",
+   "reason": "Contractor shall sell, furnish and deliver to the Harbor Department Ford OEM services and parts of substantially the same type and kind purchased by the City of Long Beach",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 56192,
+  "out": 4377
+ },
+ "model": "claude-sonnet-5"
+}

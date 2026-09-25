@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vulcanite",
+   "model": null,
+   "part": "Journal rubber halves (primary suspension components) for revenue vehicle trucks/bogies",
+   "part_numbers": [],
+   "quantity": "sixteen per truck (eight upper and eight lower)",
+   "price_usd": 768538.55,
+   "lead_time": null,
+   "sole_source_vendor": "Vulcanite",
+   "reason": "the District's revenue fleet vehicle manufacturer has installed and specified Vulcanite components for the fleet",
+   "equipment_class": "other equipment",
+   "installed_location": "District revenue vehicles",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3956,
+  "out": 211
+ },
+ "model": "claude-sonnet-5"
+}

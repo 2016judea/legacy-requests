@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "SplashBI and GL Connect",
+   "part": "Support, maintenance, and technical/development services for the Splash BI and GL Connect reporting solution within R12 for Metro",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Splash Business Intelligence, Inc.",
+   "reason": "This reporting and consulting/development company has worked with our Oracle R12 implementations since the beginning and their reporting solution is what is used by all R12 end users to report off of R12 through their SplashBI and GL Connect reporting enterprise solutions implemented within each of the modules of R12.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 20831,
+  "out": 278
+ },
+ "model": "claude-sonnet-5"
+}

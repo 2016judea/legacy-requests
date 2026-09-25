@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Toughbook",
+   "part": "Mobile data computer (MDC) declared obsolete and removed from inventory for e-waste disposal",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 5023.92,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Obsolete Equipment/ E-Waste Disposal",
+   "equipment_class": "other equipment",
+   "installed_location": "Sheriff",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": "Toughbook",
+   "part": "Mobile data computer (MDC) declared obsolete and removed from inventory for e-waste disposal",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 5023.92,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Obsolete Equipment/ E-Waste Disposal",
+   "equipment_class": "other equipment",
+   "installed_location": "Sheriff",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": "Toughbook",
+   "part": "Mobile data computer (MDC) declared obsolete and removed from inventory for e-waste disposal",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 5023.92,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Obsolete Equipment/ E-Waste Disposal",
+   "equipment_class": "other equipment",
+   "installed_location": "Sheriff",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2720,
+  "out": 936
+ },
+ "model": "claude-sonnet-5"
+}

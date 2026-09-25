@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Harris",
+   "model": "P25 radio console equipment",
+   "part": "Radio console equipment (including proprietary software updates and configurations) for BPDHQ police dispatch",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2900000,
+   "lead_time": null,
+   "sole_source_vendor": "Dailey and Wells Communications, Inc.",
+   "reason": "they are the only regional distributor of Harris P25 radio system equipment. Dailey and Wells Communications, Inc. is also the only vendor that can provide proprietary software updates and configurations for radio console integration with the District\\u2019s existing radio system.",
+   "equipment_class": "communications/radio",
+   "installed_location": "BART Police Department Headquarters, 2000 Broadway, Oakland",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Technology hardware/software for BPDHQ (desktop computers, monitors, laptops, telephones, 911 telecommunications backend equipment, time collection devices, supporting networking equipment)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Project staff intends to procure such goods from vendors via the National Association of Procurement Officials (NASPO) and through California Multiple Award Schedules (CMAS)",
+   "equipment_class": "other equipment",
+   "installed_location": "BART Police Department Headquarters, 2000 Broadway, Oakland",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7296,
+  "out": 1779
+ },
+ "model": "claude-sonnet-5"
+}

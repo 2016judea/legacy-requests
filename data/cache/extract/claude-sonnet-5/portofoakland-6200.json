@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Seven (7) Port-owned ship-to-shore cranes at Oakland International Container Terminal, sold to SSAT",
+   "part_numbers": [],
+   "quantity": "7",
+   "price_usd": 20341650,
+   "lead_time": null,
+   "sole_source_vendor": "SSA Terminals, LLC / SSA Terminals (Oakland), LLC (SSAT)",
+   "reason": "the Port proposes to sell to SSA Terminals (Oakland), LLC and SSA Terminals, LLC (collectively, \"SSAT\") seven (7) Port-owned cranes for $20,341,650",
+   "equipment_class": "other equipment",
+   "installed_location": "Oakland International Container Terminal (Berths 55-60)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Associated crane spare parts sold to SSAT along with the seven ship-to-shore cranes",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 200000,
+   "lead_time": null,
+   "sole_source_vendor": "SSA Terminals, LLC / SSA Terminals (Oakland), LLC (SSAT)",
+   "reason": "an additional $200,000 for associated crane spare parts, for a total payment of $20,541,650 on the terms and conditions described in the Agenda Report (\"Crane Sale\")",
+   "equipment_class": "other equipment",
+   "installed_location": "Oakland International Container Terminal (Berths 55-60)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6171,
+  "out": 898
+ },
+ "model": "claude-sonnet-5"
+}

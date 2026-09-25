@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Northern Air Systems, Inc.",
+   "model": "Pre-Conditioned Air 30-Ton DX-3 Circuit - Bridge Mount",
+   "part": "Twelve Pre-Conditioned Air 30-Ton DX-3 Circuit - Bridge Mount HVAC units",
+   "part_numbers": [],
+   "quantity": "12",
+   "price_usd": 1514472.0,
+   "lead_time": null,
+   "sole_source_vendor": "Northern Air Systems, Inc.",
+   "reason": "These added functionalities/features are unique to Northern Air and they are an original equipment manufacturer who sells direct to customers or end users. These items are only available from Northern Air Systems, Inc. and not through any distribution or reseller network.",
+   "equipment_class": "HVAC",
+   "installed_location": "Dallas Love Field",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3168,
+  "out": 292
+ },
+ "model": "claude-sonnet-5"
+}

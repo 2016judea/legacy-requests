@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Design, bid, and construction phase services for addition of self-contained backup generators with OEM enclosures at Oso WWTP",
+   "part_numbers": [],
+   "quantity": "2 or 3 generators",
+   "price_usd": 729489.0,
+   "lead_time": "Assumes 68-week delivery for generator.",
+   "sole_source_vendor": null,
+   "reason": "Staff recommends awarding the professional services contract for the Oso WWTP Backup Generators project to Bath Engineering in an amount of $729,489.00",
+   "equipment_class": "generator",
+   "installed_location": "Oso Wastewater Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 5,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 24686,
+  "out": 1466
+ },
+ "model": "claude-sonnet-5"
+}

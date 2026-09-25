@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "WorkForce Software",
+   "model": "Cook County Time (CCT)",
+   "part": "Time and attendance software, maintenance, and support services including biometric time clocks, IVR punch in/out, SaaS, and Application Management Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5052346.0,
+   "lead_time": null,
+   "sole_source_vendor": "WorkForce Software LLC",
+   "reason": "WFS has proprietary ownership of the current time and attendance software \"Cook County Time\" (CCT).",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Cook County (all County locations)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4012,
+  "out": 231
+ },
+ "model": "claude-sonnet-5"
+}

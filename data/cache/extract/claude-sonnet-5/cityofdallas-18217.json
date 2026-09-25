@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Benevate, Inc.",
+   "model": "Neighborly Software",
+   "part": "Software licenses subscription, hosting services, and technical support for Department of Housing & Neighborhood Revitalization",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 495075.0,
+   "lead_time": null,
+   "sole_source_vendor": "Benevate, Inc. dba Neighborly Software",
+   "reason": "Benevate, Inc. dba Neighborly Software currently owns the database and data entry system used by the City and it allows for management of everything from application support to long term portfolio management.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Housing & Neighborhood Revitalization",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3309,
+  "out": 254
+ },
+ "model": "claude-sonnet-5"
+}

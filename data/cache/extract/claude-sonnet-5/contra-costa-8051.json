@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "manufacture and sale of electrical switchgear to ensure uninterrupted backup power",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 600000,
+   "lead_time": null,
+   "sole_source_vendor": "International Motor Controls, Inc.",
+   "reason": "The team identified International Motor Controls, Inc., who can provide semi-custom gear that meets the needs of the projects and can be delivered in a reasonable amount of time. No other vendors who can meet the project's needs on time have been identified, requiring this to be a sole source purchase.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Contra Costa Regional Communications Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2657,
+  "out": 257
+ },
+ "model": "claude-sonnet-5"
+}

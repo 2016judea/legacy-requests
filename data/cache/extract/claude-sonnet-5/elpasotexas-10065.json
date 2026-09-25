@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "New Flyer",
+   "model": "New Flyer-NABI",
+   "part": "Proprietary bus components necessary for the maintenance and repair of New Flyer-NABI manufactured buses",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 12000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Transit Holdings, Inc. dba The Aftermarket Parts Company, LLC",
+   "reason": "The Aftermarket Parts Company, LLC is the sole and authorized distributor of New Flyer products.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9034,
+  "out": 227
+ },
+ "model": "claude-sonnet-5"
+}

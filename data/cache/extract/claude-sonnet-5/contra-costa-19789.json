@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "JWC Environmental Inc.",
+   "model": "Muffin Monster",
+   "part": "grinder units and replacement parts on an as-needed basis, including new grinder units, related parts and equipment, and rebuilt grinder units",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 25000,
+   "lead_time": null,
+   "sole_source_vendor": "JWC Environmental Inc.",
+   "reason": "The Juvenile Hall and Martinez Detention Facilities rely on Muffin Monster grinders, manufactured by JWC Environmental Inc., to prevent pipe blockages caused by debris entering the wastewater system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Juvenile Hall and Martinez Detention Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2603,
+  "out": 271
+ },
+ "model": "claude-sonnet-5"
+}

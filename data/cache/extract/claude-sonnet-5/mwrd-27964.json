@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hayward Gordon",
+   "model": null,
+   "part": "Pumps and parts for primary, secondary, solids, and disinfection treatment processes",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Drydon Equipment, a DXP Company",
+   "reason": "Drydon Equipment, a DXP Company, is the sole source distributor for Hayward Gordon, Varec, Bredel, Fairbanks Morse, and Amiad filtration pumps and parts",
+   "equipment_class": "pump",
+   "installed_location": "Various Locations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Varec",
+   "model": null,
+   "part": "Pumps and parts for primary, secondary, solids, and disinfection treatment processes",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Drydon Equipment, a DXP Company",
+   "reason": "Drydon Equipment, a DXP Company, is the sole source distributor for Hayward Gordon, Varec, Bredel, Fairbanks Morse, and Amiad filtration pumps and parts",
+   "equipment_class": "pump",
+   "installed_location": "Various Locations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bredel",
+   "model": null,
+   "part": "Pumps and parts for primary, secondary, solids, and disinfection treatment processes",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Drydon Equipment, a DXP Company",
+   "reason": "Drydon Equipment, a DXP Company, is the sole source distributor for Hayward Gordon, Varec, Bredel, Fairbanks Morse, and Amiad filtration pumps and parts",
+   "equipment_class": "pump",
+   "installed_location": "Various Locations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Fairbanks Morse",
+   "model": null,
+   "part": "Pumps and parts for primary, secondary, solids, and disinfection treatment processes",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Drydon Equipment, a DXP Company",
+   "reason": "Drydon Equipment, a DXP Company, is the sole source distributor for Hayward Gordon, Varec, Bredel, Fairbanks Morse, and Amiad filtration pumps and parts",
+   "equipment_class": "pump",
+   "installed_location": "Various Locations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Amiad",
+   "model": null,
+   "part": "Filtration pumps and parts for primary, secondary, solids, and disinfection treatment processes",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Drydon Equipment, a DXP Company",
+   "reason": "Drydon Equipment, a DXP Company, is the sole source distributor for Hayward Gordon, Varec, Bredel, Fairbanks Morse, and Amiad filtration pumps and parts",
+   "equipment_class": "pump",
+   "installed_location": "Various Locations",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3148,
+  "out": 1199
+ },
+ "model": "claude-sonnet-5"
+}

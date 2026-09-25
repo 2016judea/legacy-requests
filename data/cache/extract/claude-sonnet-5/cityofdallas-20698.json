@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "CovertTrack Group, Inc.",
+   "model": null,
+   "part": "Asset tracking system equipment, maintenance, and support (covert tracking devices) for Dallas Police Department",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1071846.75,
+   "lead_time": null,
+   "sole_source_vendor": "CovertTrack Group, Inc.",
+   "reason": "Authorize a five-year sole source services agreement for asset tracking system equipment, maintenance, and support for the Police Department - CovertTrack Group, Inc., sole source",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Dallas Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3224,
+  "out": 239
+ },
+ "model": "claude-sonnet-5"
+}

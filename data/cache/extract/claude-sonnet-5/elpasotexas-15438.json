@@ -1,0 +1,189 @@
+{
+ "records": [
+  {
+   "manufacturer": "Allison",
+   "model": null,
+   "part": "Sensor Speed Retarder",
+   "part_numbers": [
+    "29537373"
+   ],
+   "quantity": null,
+   "price_usd": 215.57,
+   "lead_time": null,
+   "sole_source_vendor": "Stewart & Stevenson, LLC dba Stewart & Stevenson Power Products, LLC",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allison",
+   "model": null,
+   "part": "Seal Trans Output Shaft Rear",
+   "part_numbers": [
+    "9552704"
+   ],
+   "quantity": null,
+   "price_usd": 83.43,
+   "lead_time": null,
+   "sole_source_vendor": "Stewart & Stevenson, LLC dba Stewart & Stevenson Power Products, LLC",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allison",
+   "model": null,
+   "part": "TCM Transmission Control Module ALS",
+   "part_numbers": [
+    "29545535"
+   ],
+   "quantity": null,
+   "price_usd": 1427.73,
+   "lead_time": null,
+   "sole_source_vendor": "Stewart & Stevenson, LLC dba Stewart & Stevenson Power Products, LLC",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allison",
+   "model": null,
+   "part": "Trans Connectors",
+   "part_numbers": [
+    "29505516"
+   ],
+   "quantity": null,
+   "price_usd": 195.52,
+   "lead_time": null,
+   "sole_source_vendor": "Stewart & Stevenson, LLC dba Stewart & Stevenson Power Products, LLC",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allison",
+   "model": null,
+   "part": "Plate Retarder Separator",
+   "part_numbers": [
+    "29547921"
+   ],
+   "quantity": null,
+   "price_usd": 130.06,
+   "lead_time": null,
+   "sole_source_vendor": "Stewart & Stevenson, LLC dba Stewart & Stevenson Power Products, LLC",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allison",
+   "model": null,
+   "part": "Seal Transmission Output",
+   "part_numbers": [
+    "29552705"
+   ],
+   "quantity": null,
+   "price_usd": 113.21,
+   "lead_time": null,
+   "sole_source_vendor": "Stewart & Stevenson, LLC dba Stewart & Stevenson Power Products, LLC",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allison",
+   "model": null,
+   "part": "Transmission Output Seal",
+   "part_numbers": [
+    "29552703"
+   ],
+   "quantity": null,
+   "price_usd": 115.45,
+   "lead_time": null,
+   "sole_source_vendor": "Stewart & Stevenson, LLC dba Stewart & Stevenson Power Products, LLC",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allison",
+   "model": null,
+   "part": "Gasket",
+   "part_numbers": [
+    "29503283"
+   ],
+   "quantity": null,
+   "price_usd": 39.89,
+   "lead_time": null,
+   "sole_source_vendor": "Stewart & Stevenson, LLC dba Stewart & Stevenson Power Products, LLC",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allison",
+   "model": null,
+   "part": "Plug Drain Transmission Allison",
+   "part_numbers": [
+    "29534362"
+   ],
+   "quantity": null,
+   "price_usd": 33.57,
+   "lead_time": null,
+   "sole_source_vendor": "Stewart & Stevenson, LLC dba Stewart & Stevenson Power Products, LLC",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allison",
+   "model": null,
+   "part": "Sensor Speed Trany Allison Chevy",
+   "part_numbers": [
+    "29536408"
+   ],
+   "quantity": null,
+   "price_usd": 35.6,
+   "lead_time": null,
+   "sole_source_vendor": "Stewart & Stevenson, LLC dba Stewart & Stevenson Power Products, LLC",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allison",
+   "model": null,
+   "part": "Allison Proprietary Parts and Service contract for heavy duty emergency vehicle Allison Heavy Duty transmissions",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 765000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Stewart & Stevenson, LLC dba Stewart & Stevenson Power Products, LLC",
+   "reason": "the lowest responsive and responsible bidder",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12755,
+  "out": 2912
+ },
+ "model": "claude-sonnet-5"
+}

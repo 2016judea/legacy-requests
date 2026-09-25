@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Genfare",
+   "model": null,
+   "part": "Software support agreement for software, hardware maintenance and support for fare collection system reporting manager, farebox and ticket vending machines functions",
+   "part_numbers": [],
+   "quantity": "All",
+   "price_usd": 184577.0,
+   "lead_time": null,
+   "sole_source_vendor": "Genfare LLC.",
+   "reason": "Genfare is considered to be the sole source supplier of this equipment and their related maintenance parts/service.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8782,
+  "out": 200
+ },
+ "model": "claude-sonnet-5"
+}

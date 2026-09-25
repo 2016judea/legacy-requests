@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Xylem Flygt A-C",
+   "model": null,
+   "part": "Pumps and replacement pump parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Flow-Technics, Inc.",
+   "reason": "Flow-Technics, Inc., is the sole source distributor for Xylem Flygt A-C, Sulzer ABS, ITT Gould and Netzsch pumps and parts",
+   "equipment_class": "pump",
+   "installed_location": "various locations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sulzer ABS",
+   "model": null,
+   "part": "Pumps and replacement pump parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Flow-Technics, Inc.",
+   "reason": "Flow-Technics, Inc., is the sole source distributor for Xylem Flygt A-C, Sulzer ABS, ITT Gould and Netzsch pumps and parts",
+   "equipment_class": "pump",
+   "installed_location": "various locations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ITT Gould",
+   "model": null,
+   "part": "Pumps and replacement pump parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Flow-Technics, Inc.",
+   "reason": "Flow-Technics, Inc., is the sole source distributor for Xylem Flygt A-C, Sulzer ABS, ITT Gould and Netzsch pumps and parts",
+   "equipment_class": "pump",
+   "installed_location": "various locations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Netzsch",
+   "model": null,
+   "part": "Pumps and replacement pump parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Flow-Technics, Inc.",
+   "reason": "Flow-Technics, Inc., is the sole source distributor for Xylem Flygt A-C, Sulzer ABS, ITT Gould and Netzsch pumps and parts",
+   "equipment_class": "pump",
+   "installed_location": "various locations",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3015,
+  "out": 943
+ },
+ "model": "claude-sonnet-5"
+}

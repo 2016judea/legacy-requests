@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "internal low-voltage cabling services and emergency repairs (completion of nine ongoing cabling projects)",
+   "part_numbers": [],
+   "quantity": "nine ongoing projects",
+   "price_usd": 222890,
+   "lead_time": null,
+   "sole_source_vendor": "Teledata Services Co.",
+   "reason": "there is no other vendor that will finish the cabling that has been initiated by Teledata",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Area 2 Dispatch Station (Sheriff), Pontiac Campus Building 4 Remodel (Probation), Selma Building (Library), Heritage Centre (Behavioral Health)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 26306,
+  "out": 1696
+ },
+ "model": "claude-sonnet-5"
+}

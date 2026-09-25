@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement of blower motors",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "replacing blower motors and Variable Frequency Drives, replacing 4 backwash pumps, and adding a Return Activated Sludge pump",
+   "equipment_class": "motor/drive",
+   "installed_location": "Snapfinger Advanced Wastewater Treatment Facility (SFAWTF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement of Variable Frequency Drives",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "replacing blower motors and Variable Frequency Drives, replacing 4 backwash pumps, and adding a Return Activated Sludge pump",
+   "equipment_class": "motor/drive",
+   "installed_location": "Snapfinger Advanced Wastewater Treatment Facility (SFAWTF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement of backwash pumps",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "replacing blower motors and Variable Frequency Drives, replacing 4 backwash pumps, and adding a Return Activated Sludge pump",
+   "equipment_class": "pump",
+   "installed_location": "Snapfinger Advanced Wastewater Treatment Facility (SFAWTF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Addition of a Return Activated Sludge pump",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "replacing blower motors and Variable Frequency Drives, replacing 4 backwash pumps, and adding a Return Activated Sludge pump",
+   "equipment_class": "pump",
+   "installed_location": "Snapfinger Advanced Wastewater Treatment Facility (SFAWTF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Buildout and upgrade of SFAWTF membrane capacity in Clusters 1 through 4",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "to buildout and upgrade SFAWTF membrane capacity in Clusters 1 through 4",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Snapfinger Advanced Wastewater Treatment Facility (SFAWTF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Pre-Purchase Membrane Equipment (membrane equipment, technical support, training and freight)",
+   "part_numbers": [],
+   "quantity": "1 LS",
+   "price_usd": 4810000,
+   "lead_time": null,
+   "sole_source_vendor": "Membrane Filtration System Supplier (MFSS)",
+   "reason": "This allowance will be used to pay the remaining unpaid balance directly to the Membrane Filtration System Supplier (MFSS).",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Snapfinger Advanced Wastewater Treatment Facility (SFAWTF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "New 500 HP Motor Replacement for Centrifugal Blowers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1412410,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "CPO approved based on the imminent threat to health, welfare, and safety to property and citizens due to the need to quickly increase capacity of the County's wastewater treatment facility.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Snapfinger Advanced Wastewater Treatment Facility (SFAWTF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Membrane Equipment (SSK)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 8450000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "CPO approved based on the imminent threat to health, welfare, and safety to property and citizens due to the need to quickly increase capacity of the County's wastewater treatment facility.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Snapfinger Advanced Wastewater Treatment Facility (SFAWTF)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 16609,
+  "out": 7235
+ },
+ "model": "claude-sonnet-5"
+}

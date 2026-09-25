@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Community Safety Video Integration Service (contract amendment increasing sole source contract value)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 350000,
+   "lead_time": null,
+   "sole_source_vendor": "Fusus, Inc.",
+   "reason": "WHEREAS, Metro previously entered into a sole source contract, contract number 6518701, with Fusus, Inc., for community safety video integration services",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 29172,
+  "out": 197
+ },
+ "model": "claude-sonnet-5"
+}

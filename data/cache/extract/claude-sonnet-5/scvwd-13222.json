@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Shoreblock EPEC SD-900 OCT",
+   "part": "Extreme Performance Erosion Control (EPEC) revetment system / Articulated Concrete Block (ACB) System for temporary spillway construction",
+   "part_numbers": [
+    "Shoreblock EPEC SD-900 OCT"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Shoreblock EPEC SD-900 OCT is the only known product available that can meet the Project requirements, and the only product that can be used for the temporary spillways, as designed.",
+   "equipment_class": "other equipment",
+   "installed_location": "Anderson Dam, Morgan Hill, District 1",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18183,
+  "out": 266
+ },
+ "model": "claude-sonnet-5"
+}

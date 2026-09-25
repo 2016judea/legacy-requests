@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Wemco",
+   "model": null,
+   "part": "Wemco pumps, components and replacement parts for existing Wemco pump units",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 350000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Jay Martin Company, Inc.",
+   "reason": "The pumps are already in our system and they cannot be replaced with any other pump without changing the fittings, pad, and connections. No other sources are available to buy replacement parts or replacement pumps.",
+   "equipment_class": "pump",
+   "installed_location": "Village Creek Wastewater Reclamation Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3176,
+  "out": 225
+ },
+ "model": "claude-sonnet-5"
+}

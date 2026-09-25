@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Caterpillar",
+   "model": null,
+   "part": "Caterpillar Proprietary Parts and Service for Landfill heavy vehicles, equipment and machinery",
+   "part_numbers": [],
+   "quantity": "16 pieces of Caterpillar Heavy vehicles, equipment and machinery",
+   "price_usd": 5250000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Wagner Equipment Co.",
+   "reason": "(7) a procurement of items that are available from only one source, including: (D) captive replacement parts or components for equipment;",
+   "equipment_class": "other equipment",
+   "installed_location": "Landfill",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7020,
+  "out": 229
+ },
+ "model": "claude-sonnet-5"
+}

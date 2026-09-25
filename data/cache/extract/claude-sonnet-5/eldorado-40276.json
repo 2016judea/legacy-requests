@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tesco Controls",
+   "model": "CA-450",
+   "part": "Upsized control panel enclosure for Centrifuge #2 (72\"W x 74\"H x 24\"D, replacing original 60\"W x 62\"H)",
+   "part_numbers": [
+    "CA-450"
+   ],
+   "quantity": "1",
+   "price_usd": 52595.6,
+   "lead_time": null,
+   "sole_source_vendor": "TESCO Controls, LLC (via Con J. Franke Electric, Inc.)",
+   "reason": "it was determined that the originally specified CA-450 enclosure was undersized for the required installation.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Union Mine Wastewater Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9540,
+  "out": 983
+ },
+ "model": "claude-sonnet-5"
+}

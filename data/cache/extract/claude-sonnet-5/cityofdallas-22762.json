@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Itineris NA, Inc.",
+   "model": "UMAX",
+   "part": "Managed services supporting the Software as a Service UMAX billing system, including product level support, security event monitoring, release management, non-break-fix support, product training, and batch/interface monitoring",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 26361375.0,
+   "lead_time": null,
+   "sole_source_vendor": "Itineris NA, Inc.",
+   "reason": "Utilized for procurements where functional requirements can only be satisfied by one vendor, such as those where patents, copyrights or monopolies exist",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Dallas Water Utilities Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3479,
+  "out": 253
+ },
+ "model": "claude-sonnet-5"
+}

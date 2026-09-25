@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Elevator/Escalator Inspection Services (annual permit inspections on District conveyances)",
+   "part_numbers": [],
+   "quantity": "348 conveyances",
+   "price_usd": 750000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Bureau Veritas National Elevator Inspection Services, Inc.",
+   "reason": "is the only approved vertical transportation inspection agency outside of the California Department of Industrial Relations (DIR) capable of performing annual permit inspections",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4144,
+  "out": 597
+ },
+ "model": "claude-sonnet-5"
+}

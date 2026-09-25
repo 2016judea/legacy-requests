@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "KSB",
+   "model": null,
+   "part": "Pump and motor repairs and sales for all KSB brand pumps/motors at wastewater lift stations and treatment plants",
+   "part_numbers": [],
+   "quantity": "14 KSB pump/motor units",
+   "price_usd": 190850.0,
+   "lead_time": null,
+   "sole_source_vendor": "Pump Solutions, Inc.",
+   "reason": "is the sole authorized distributor of all KSB products in Texas",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "KSB",
+   "model": null,
+   "part": "KSB pump/motor units used at Everhart/Staples Lift Station",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Pump Solutions, Inc.",
+   "reason": "provided by the only authorized KSB distributor in Texas",
+   "equipment_class": "pump",
+   "installed_location": "780 Everhart Road",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "KSB",
+   "model": null,
+   "part": "KSB pump/motor units used at McBride Lift Station",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Pump Solutions, Inc.",
+   "reason": "provided by the only authorized KSB distributor in Texas",
+   "equipment_class": "pump",
+   "installed_location": "1200 McBride Ln.",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "KSB",
+   "model": null,
+   "part": "KSB pump/motor units used at Oso Wastewater Treatment Plant",
+   "part_numbers": [],
+   "quantity": "7",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Pump Solutions, Inc.",
+   "reason": "provided by the only authorized KSB distributor in Texas",
+   "equipment_class": "pump",
+   "installed_location": "601 Nile Dr.",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 17148,
+  "out": 1647
+ },
+ "model": "claude-sonnet-5"
+}

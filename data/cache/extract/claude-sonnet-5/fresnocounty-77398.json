@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Site servicing and repair of electrical controls and software for Programmable Logic Controllers (PLCs)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 214000,
+   "lead_time": null,
+   "sole_source_vendor": "A-C Electric Company",
+   "reason": "A-C Electric Company is the only vendor that can provide specialized services required to service and repair the existing electrical controls and PCLs software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County Special Districts, Juvenile Justice Campus (JJC), American Avenue Disposal Site (AADS), and Southeast Regional Disposal Site (SERDS)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 22724,
+  "out": 652
+ },
+ "model": "claude-sonnet-5"
+}

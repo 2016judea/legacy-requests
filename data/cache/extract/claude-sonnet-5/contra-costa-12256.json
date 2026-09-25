@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vactor Manufacturing",
+   "model": null,
+   "part": "Sewer vacuum, hydro-excavation, and municipal pumping equipment, and related accessories and supplies",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 4000000,
+   "lead_time": null,
+   "sole_source_vendor": "Owen Equipment Sales",
+   "reason": "Products are guaranteed through the master contract awarded by Sourcewell, a State of Minnesota Public Agency.",
+   "equipment_class": "other equipment",
+   "installed_location": "Public Works Road Maintenance, Countywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 94283,
+  "out": 1045
+ },
+ "model": "claude-sonnet-5"
+}

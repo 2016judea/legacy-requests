@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Valve condition assessment services (valve and fire hydrant location, cleaning, exercising, minor repair, GIS documentation)",
+   "part_numbers": [],
+   "quantity": "~8,000 valves and 5,000 fire hydrants over 3 years",
+   "price_usd": 600000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Pure Technologies US dba Wachs Water Services provided the overall lowest responsive and responsible bid.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "North Fulton water service area",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 46452,
+  "out": 1554
+ },
+ "model": "claude-sonnet-5"
+}

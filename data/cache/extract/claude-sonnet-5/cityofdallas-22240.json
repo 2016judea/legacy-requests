@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Warranty and maintenance service contract for National Integrated Ballistic Information Network (NIBIN) program equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 159934.0,
+   "lead_time": null,
+   "sole_source_vendor": "LeadsOnline LLC",
+   "reason": "The Office of Procurement Services conducted a sole source review and found no exceptions",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Dallas Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2837,
+  "out": 466
+ },
+ "model": "claude-sonnet-5"
+}

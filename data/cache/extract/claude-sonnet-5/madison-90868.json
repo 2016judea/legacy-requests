@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Printelect",
+   "model": "EZ Cart 3000 Security Truck",
+   "part": "election security carts equipped with a ramp for loading/unloading rolling tabulator machines",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 229608,
+   "lead_time": null,
+   "sole_source_vendor": "Printelect",
+   "reason": "in the search for security carts the City Clerk\u2019s Office have only found one vendor that offers a security cart with the dimensions required along with an affixed ramp",
+   "equipment_class": "other equipment",
+   "installed_location": "Madison City Clerk\u2019s Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3027,
+  "out": 214
+ },
+ "model": "claude-sonnet-5"
+}

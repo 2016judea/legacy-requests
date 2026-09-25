@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Five-year service agreement for preventative maintenance, emergency repairs, and training for CNG pumping stations",
+   "part_numbers": [],
+   "quantity": "5 years",
+   "price_usd": 174125.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mcore Energy, LLC",
+   "reason": "for preventative maintenance, emergency repairs, and training for the compressed natural gas (CNG) pumping stations operated by the Gas Department",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "5352 Ayers St., Building #20, Corpus Christi, TX 78415, and 1401 Sonny Watkins Dr., Rockport, TX 78382",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Preventative Maintenance Service - Quarterly, 1-day (8 hours) site visit each quarter",
+   "part_numbers": [],
+   "quantity": "30 EA",
+   "price_usd": 84000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mcore Energy, LLC",
+   "reason": "Preventative Maintenance Service- Quarterly Includes: 1-day (8 hours) site visit each quarter.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "5352 Ayers St., Building #20, Corpus Christi, TX 78415, and 1401 Sonny Watkins Dr., Rockport, TX 78382",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Technician Labor - Service Calls Regular Hours: M-F 8:00 AM - 5:00 PM",
+   "part_numbers": [],
+   "quantity": "450 HR",
+   "price_usd": 38250.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mcore Energy, LLC",
+   "reason": "Technician Labor- Service Calls Regular Hours: M-F 8:00 AM - 5:00 PM",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "5352 Ayers St., Building #20, Corpus Christi, TX 78415, and 1401 Sonny Watkins Dr., Rockport, TX 78382",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Technician Labor-Emergency Service Calls, Outside Regular Hours, including weekends and holidays",
+   "part_numbers": [],
+   "quantity": "300 HR",
+   "price_usd": 25500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mcore Energy, LLC",
+   "reason": "Technician Labor-Emergency Service Calls. Outside Regular Hours, including weekends and holidays.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "5352 Ayers St., Building #20, Corpus Christi, TX 78415, and 1401 Sonny Watkins Dr., Rockport, TX 78382",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "24/7 - 365 Phone Technical Support with Senior Service Technician",
+   "part_numbers": [],
+   "quantity": "75 HR",
+   "price_usd": 6375.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mcore Energy, LLC",
+   "reason": "24/7 - 365 Phone Technical Support with Senior Service Technician",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "5352 Ayers St., Building #20, Corpus Christi, TX 78415, and 1401 Sonny Watkins Dr., Rockport, TX 78382",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Parts/Materials - PM Service Calls, 15% Mark-Up of Cost",
+   "part_numbers": [],
+   "quantity": "EA",
+   "price_usd": 20000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mcore Energy, LLC",
+   "reason": "15 % Mark-Up of Cost Parts/Materials - PM Service Calls",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "5352 Ayers St., Building #20, Corpus Christi, TX 78415, and 1401 Sonny Watkins Dr., Rockport, TX 78382",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 15206,
+  "out": 2457
+ },
+ "model": "claude-sonnet-5"
+}

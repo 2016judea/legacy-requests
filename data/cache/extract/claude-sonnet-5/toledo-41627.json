@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Emergency repair services for Computer Room Air Conditioning (CRAC) units in VFD room",
+   "part_numbers": [],
+   "quantity": "2 CRAC units",
+   "price_usd": 25000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "work on units this size is beyond the certification level of skilled trades employed by the City",
+   "equipment_class": "HVAC",
+   "installed_location": "Low Service Pumping Station",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Compressors for CRAC units",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "24 weeks",
+   "sole_source_vendor": null,
+   "reason": "Lead time on the compressors is 24 weeks, and it is uncertain when compressors on the other unit may fail.",
+   "equipment_class": "HVAC",
+   "installed_location": "Low Service Pumping Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2934,
+  "out": 537
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "De Nora Water Technologies",
+   "model": null,
+   "part": "Gas Feed Instrumentation equipment, replacement parts and repair services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hartwell Environmental Corporation",
+   "reason": "De Nora Water Technologies, is the sole source manufacturer of the gas feed and instrumentation equipment currently in operation at the water and wastewater treatment plants",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "water and wastewater treatment plants",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3200,
+  "out": 225
+ },
+ "model": "claude-sonnet-5"
+}

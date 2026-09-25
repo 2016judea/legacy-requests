@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stryker",
+   "model": null,
+   "part": "Parts, repairs, preventative maintenance and calibration for automatic stretcher load systems and power stretchers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 615172.2,
+   "lead_time": null,
+   "sole_source_vendor": "Howmedica Osteonics Corp/Stryker Sales, LLC dba Stryker Instruments",
+   "reason": "Utilized for procurements where functional requirements can only be satisfied by one vendor, such as those where patents, copyrights or monopolies exists",
+   "equipment_class": "other equipment",
+   "installed_location": "Dallas Fire-Rescue Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2977,
+  "out": 241
+ },
+ "model": "claude-sonnet-5"
+}

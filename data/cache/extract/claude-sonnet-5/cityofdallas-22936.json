@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "HealthSpace USA, Inc.",
+   "model": null,
+   "part": "Hosting, support, and maintenance of a restaurant inspection solution",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 201357.18,
+   "lead_time": null,
+   "sole_source_vendor": "HS GovTech USA Inc.",
+   "reason": "This Sole Source agreement will provide continued hosting, support and maintenance, and warranty of the restaurant inspection solution.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Code Compliance",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2717,
+  "out": 210
+ },
+ "model": "claude-sonnet-5"
+}

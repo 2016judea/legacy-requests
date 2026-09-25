@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Barrier Systems by Lindsay",
+   "model": "Universal TAU-M Crash Cushion TL-3",
+   "part": "Universal TAU-M Crash Cushions, TL-Rated",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 40000,
+   "lead_time": null,
+   "sole_source_vendor": "Statewide Traffic Safety and Signs",
+   "reason": "TAU-M crash cushions are specified because the County has numerous bridges which are already equipped with this type of crash cushion.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bridges throughout Fresno County (Districts 1, 4, 5)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Road Systems Inc.",
+   "model": "Flared End Terminal Type MFLEAT",
+   "part": "Flared End Terminal - Type MFLEAT (MASH-compliant Flared Energy-Absorbing Terminal)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 4500,
+   "lead_time": null,
+   "sole_source_vendor": "Universal Industrial Sales, Inc.",
+   "reason": "currently, MFLEAT is the only flared end terminal system on the market that meets American Association of Highway and Transportation Officials (AASHTO) Manual for Assessing Safety Hardware (MASH) requirements",
+   "equipment_class": "other equipment",
+   "installed_location": "Bridges throughout Fresno County (Districts 1, 4, 5)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Road Systems Inc.",
+   "model": "In-line End Terminal Type MSKT",
+   "part": "In-line End Terminal - Type MSKT (MASH-compliant Sequential Kinking Terminal)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 7000,
+   "lead_time": null,
+   "sole_source_vendor": "Universal Industrial Sales, Inc.",
+   "reason": "The In-line End Terminal Type MSKT manufactured by Road Systems Inc. is specified because the Department intent is to use the same product for the same application in all our roads, and numerous bridges are already equipped with this system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bridges throughout Fresno County (Districts 1, 4, 5)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 5,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18601,
+  "out": 826
+ },
+ "model": "claude-sonnet-5"
+}

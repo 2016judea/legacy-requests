@@ -1,0 +1,121 @@
+{
+ "records": [
+  {
+   "manufacturer": "Amazon Web Services",
+   "model": "AWS Bedrock GenAI (Amazon Connect)",
+   "part": "English and Spanish Generative AI for post-call summarization (Contact Center)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 308854,
+   "lead_time": "10 month term (August 1, 2025 - May 31, 2026)",
+   "sole_source_vendor": "Gainwell Technologies, LLC",
+   "reason": "English and Spanish Generative AI and PBDS cannot be procured independently elsewhere.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department's Contact Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Purpose-Built, Curated Data Set (PBDS)",
+   "part": "PBDS access and Maintenance and Enhancements (M&E) support",
+   "part_numbers": [
+    "FR-02-2024"
+   ],
+   "quantity": null,
+   "price_usd": 587981,
+   "lead_time": "extending term from August 1, 2025, to January 31, 2026",
+   "sole_source_vendor": "Accenture, LLP",
+   "reason": "English and Spanish Generative AI and PBDS cannot be procured independently elsewhere.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "County of Fresno / Amazon S3 environment",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Amazon Web Services",
+   "model": "AWS Bedrock / Amazon S3 / Amazon Athena / Amazon Glue / EMR Serverless / Aurora Serverless",
+   "part": "Cloud infrastructure and compute resources supporting PBDS and GenAI solutions",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 22711.12,
+   "lead_time": null,
+   "sole_source_vendor": "CalSAWS Consortium",
+   "reason": "The Consortium will be fully responsible for making such resources and services available for supporting the project, including the procurement and payment for such services from AWS.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County AWS environment",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Amazon Web Services",
+   "model": "Amazon Bedrock / Amazon Contact Lens / DynamoDB / Lambda / API Gateway / Kinesis / WAF & Shield / Secrets Manager / VPC / CloudWatch",
+   "part": "AWS compute resources supporting GenAI Call Summarization Basic Support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 10421.25,
+   "lead_time": "August 2025 - May 2026",
+   "sole_source_vendor": "CalSAWS Consortium",
+   "reason": "The Consortium will be fully responsible for making such resources and services available for supporting the project, including the procurement and payment for such services from AWS.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County AWS environment (Production and Non-Production)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "GenAI Call Summary Assist Solution",
+   "part": "Recurring support for monitoring, maintenance, infrastructure and application support of GenAI post-call summarization solution",
+   "part_numbers": [
+    "FR-01-2025 GWT"
+   ],
+   "quantity": "196 hours per month",
+   "price_usd": 298432.4,
+   "lead_time": "August 1, 2025 through May 31, 2026",
+   "sole_source_vendor": "Gainwell Technologies, LLC",
+   "reason": "The Joint Powers Authority has procured the software, maintenance, and any necessary equipment support of English and Spanish Generative AI and PBDS.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno Contact Center (CC1) environment",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Accenture",
+   "model": null,
+   "part": "One-Time R&A Change Budget Services for PBDS infrastructure setup (AWS account vending, batch jobs, Glue Crawlers, Athena/ODBC/JDBC access)",
+   "part_numbers": [
+    "FR-02-2024"
+   ],
+   "quantity": "1,880 hours",
+   "price_usd": 279452.8,
+   "lead_time": "August 1, 2024 through expiration of Technical Infrastructure Services Base Agreement (currently January 31, 2025)",
+   "sole_source_vendor": "Accenture LLP",
+   "reason": "There is no other vendor that has been acquired by the Consortium to provide generative artificial intelligence to counties.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno County Amazon S3 environment",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Accenture",
+   "model": null,
+   "part": "Recurring R&A Change Budget Services (batch job execution, refactoring, Application Architecture, DBA support) for PBDS",
+   "part_numbers": [
+    "FR-02-2024"
+   ],
+   "quantity": "180 hours per month",
+   "price_usd": 285816.4,
+   "lead_time": "January 2025 through January 31, 2026",
+   "sole_source_vendor": "Accenture LLP",
+   "reason": "Recurring R&A Change Budget Services continuing beyond July 31, 2025 included in Revision 2 to this County Purchase are contingent upon the extension of the Base Agreement beyond the current term of the Base Agreement (July 31, 2025).",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno County Amazon S3 environment",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 34386,
+  "out": 1820
+ },
+ "model": "claude-sonnet-5"
+}

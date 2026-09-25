@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "HUB Parking Technology",
+   "model": null,
+   "part": "Parking access revenue control system - Parking Equipment, related services and software license fees",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "HUB Parking Technology USA, Inc.",
+   "reason": "Authorizing the execution of a sole source Contract for the purchase and installation of Parking Equipment, related services and software license fees with HUB Parking Technology USA, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": "Parking Structure at the Village on Park",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1999,
+  "out": 224
+ },
+ "model": "claude-sonnet-5"
+}

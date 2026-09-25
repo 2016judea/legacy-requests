@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "PeopleSoft",
+   "model": "PeopleSoft",
+   "part": "Hosting, managed, and professional services for the District's PeopleSoft enterprise system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1293035,
+   "lead_time": null,
+   "sole_source_vendor": "Sierra-Cedar",
+   "reason": "Authorized maintenance or upgrade agreements of proprietary software previously implemented at the District for \"critical infrastructure\" do not require competitive bidding.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6327,
+  "out": 214
+ },
+ "model": "claude-sonnet-5"
+}

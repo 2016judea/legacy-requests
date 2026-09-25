@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Software License Agreement for Data Monitoring and Biosurveillance Software (perpetual agreement continuation)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 340931.81,
+   "lead_time": null,
+   "sole_source_vendor": "FirstWatch Solutions, Inc.",
+   "reason": "specialty skills and qualifications not expressly identified in County classifications are involved in the performance of Agreement 6159",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "FirstPass Module",
+   "part": "Six additional FirstPass custom protocols (implementation)",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": 9000.0,
+   "lead_time": null,
+   "sole_source_vendor": "FirstWatch Solutions, Inc.",
+   "reason": "specialty skills and qualifications not expressly identified in County classifications are involved in the performance of Agreement 6159",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "FirstPass Module",
+   "part": "Custom Protocol Annual Support & Maintenance",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": 1980.0,
+   "lead_time": null,
+   "sole_source_vendor": "FirstWatch Solutions, Inc.",
+   "reason": "specialty skills and qualifications not expressly identified in County classifications are involved in the performance of Agreement 6159",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 1
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12052,
+  "out": 5912
+ },
+ "model": "claude-sonnet-5"
+}

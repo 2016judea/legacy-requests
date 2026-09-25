@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Benchmark Solutions, LLC dba Benchmark Analytics, LLC",
+   "model": "Benchmark Management System",
+   "part": "Benchmark Management System, First Sign Early Intervention, and C.A.R.E. software licensing, project management, training and support",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 336000,
+   "lead_time": null,
+   "sole_source_vendor": "Benchmark Solutions, LLC dba Benchmark Analytics, LLC",
+   "reason": "MNPD has used software from Benchmark Solutions through a sole source contract for the past five years -- the original sole source contract was adopted by Resolution No. RS2018-1462. The form also states that the Benchmark system is highly integrated within MNPD, and continuing the support and subscription licensing would allow continuity of MNPD operations.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Metro Nashville Police Department Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Benchmark Solutions, LLC dba Benchmark Analytics, LLC",
+   "model": "First Sign Early Intervention",
+   "part": "Early intervention software module",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Benchmark Solutions, LLC dba Benchmark Analytics, LLC",
+   "reason": "First Sign is the only research-based early warning/intervention product available in the market.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Metro Nashville Police Department Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Benchmark Solutions, LLC dba Benchmark Analytics, LLC",
+   "model": "C.A.R.E. | Case Action Response Engine",
+   "part": "Case management software module",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Benchmark Solutions, LLC dba Benchmark Analytics, LLC",
+   "reason": "the Benchmark system is highly integrated within MNPD, and continuing the support and subscription licensing would allow continuity of MNPD operations",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Metro Nashville Police Department Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Benchmark Solutions, LLC dba Benchmark Analytics, LLC",
+   "model": "Annual Software License",
+   "part": "Annual Software License (Profile, Disciplinary Reporting, First Sign, CARE modules)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 56000,
+   "lead_time": null,
+   "sole_source_vendor": "Benchmark Solutions, LLC dba Benchmark Analytics, LLC",
+   "reason": "The license includes continued access to the modules in use today: the Profile module, the Disciplinary Reporting module, access to the First Sign early intervention module and the CARE case management module.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Metro Nashville Police Department Crime Lab",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 59589,
+  "out": 1057
+ },
+ "model": "claude-sonnet-5"
+}

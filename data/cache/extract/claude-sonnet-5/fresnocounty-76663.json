@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Microsoft",
+   "model": "Unified Support Services",
+   "part": "One-year agreement for Microsoft Unified Support Services (account management, technical support, software maintenance, problem resolution, workshops, events)",
+   "part_numbers": [],
+   "quantity": "1 agreement",
+   "price_usd": 276710.19,
+   "lead_time": null,
+   "sole_source_vendor": "Microsoft Corporation",
+   "reason": "There are no other vendors capable of providing unified support for Microsoft products.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14514,
+  "out": 204
+ },
+ "model": "claude-sonnet-5"
+}

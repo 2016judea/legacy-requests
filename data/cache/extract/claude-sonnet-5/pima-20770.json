@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Field Vehicle (4WD), rugged, off-road with safety & warning lights",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 130000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This project will equip Pima County with two fully outfitted mobile damage assessment kits",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Pima County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11333,
+  "out": 175
+ },
+ "model": "claude-sonnet-5"
+}

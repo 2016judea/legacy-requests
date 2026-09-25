@@ -1,0 +1,207 @@
+{
+ "records": [
+  {
+   "manufacturer": "Broen",
+   "model": "BALLOMAX",
+   "part": "2\" BALLOMAX Ball Valves Flange x Flange-285 PSI-ANSI 150",
+   "part_numbers": [
+    "2BMF285PLFPSB14S"
+   ],
+   "quantity": "30",
+   "price_usd": 14938.5,
+   "lead_time": "within two weeks of received order",
+   "sole_source_vendor": "Broen, Inc.",
+   "reason": "Broen, Inc. is the sole source provider for these valves.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Broen",
+   "model": "BALLOMAX",
+   "part": "2\" BALLOMAX Ball Valves Weld x Weld 285 PSI -ANSI 150",
+   "part_numbers": [
+    "2BMW285PLFBSB14S"
+   ],
+   "quantity": "325",
+   "price_usd": 129463.75,
+   "lead_time": "within two weeks of received order",
+   "sole_source_vendor": "Broen, Inc.",
+   "reason": "Broen, Inc. is the sole source provider for these valves.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Broen",
+   "model": "BALLOMAX",
+   "part": "4\" BALLOMAX Ball Valves Weld x Weld 285 PSI -ANSI 150",
+   "part_numbers": [
+    "4BMW285PLFBSB14S"
+   ],
+   "quantity": "107",
+   "price_usd": 92769.0,
+   "lead_time": "within two weeks of received order",
+   "sole_source_vendor": "Broen, Inc.",
+   "reason": "Broen, Inc. is the sole source provider for these valves.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Broen",
+   "model": "BALLOMAX",
+   "part": "6\" BALLOMAX Ball Valves, Weld x Weld 285 PSI ANSI 150",
+   "part_numbers": [
+    "6BMW285PLFPSB14S"
+   ],
+   "quantity": "22",
+   "price_usd": 41741.7,
+   "lead_time": "within two weeks of received order",
+   "sole_source_vendor": "Broen, Inc.",
+   "reason": "Broen, Inc. is the sole source provider for these valves.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Broen",
+   "model": "BALLOMAX",
+   "part": "8\" BALLOMAX Ball Valves Weld x Weld 285 PSI ANSI 150 Epoxy",
+   "part_numbers": [
+    "8BMW285BFP TRSB VGI4 3M"
+   ],
+   "quantity": "6",
+   "price_usd": 44982.3,
+   "lead_time": "within two weeks of received order",
+   "sole_source_vendor": "Broen, Inc.",
+   "reason": "Broen, Inc. is the sole source provider for these valves.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Broen",
+   "model": "BALLOMAX",
+   "part": "10\" BALLOMAX Ball Valves Weld x Weld 285 PSI ANSI 150 Epoxy",
+   "part_numbers": [
+    "10BMW285BFP TRSB VG14 3M"
+   ],
+   "quantity": "3",
+   "price_usd": 33482.4,
+   "lead_time": "within two weeks of received order",
+   "sole_source_vendor": "Broen, Inc.",
+   "reason": "Broen, Inc. is the sole source provider for these valves.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Broen",
+   "model": "BALLOMAX PE Valve",
+   "part": "2\" BALLOMAX PE Valve PE 80/2708 Yellow",
+   "part_numbers": [
+    "12111050"
+   ],
+   "quantity": "354",
+   "price_usd": 33895.5,
+   "lead_time": "within two weeks of received order",
+   "sole_source_vendor": "Broen, Inc.",
+   "reason": "Broen, Inc. is the sole source provider for these valves.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Broen",
+   "model": "BALLOMAX PE Valve",
+   "part": "4\" BALLOMAX PE Valve PE 80/2708 Yellow",
+   "part_numbers": [
+    "12111100"
+   ],
+   "quantity": "40",
+   "price_usd": 10866.0,
+   "lead_time": "within two weeks of received order",
+   "sole_source_vendor": "Broen, Inc.",
+   "reason": "Broen, Inc. is the sole source provider for these valves.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Broen",
+   "model": "BALLOMAX PE Valve",
+   "part": "6\" BALLOMAX PE Valve PE 80/2708 Yellow",
+   "part_numbers": [
+    "1211115014"
+   ],
+   "quantity": "23",
+   "price_usd": 14734.95,
+   "lead_time": "within two weeks of received order",
+   "sole_source_vendor": "Broen, Inc.",
+   "reason": "Broen, Inc. is the sole source provider for these valves.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Broen",
+   "model": "BALLOMAX",
+   "part": "2\" FPT X FPT CLASS 150 REGULAR PORT WITH 2\" NUT",
+   "part_numbers": [
+    "2BMFT285PLRPCB 14S"
+   ],
+   "quantity": "130",
+   "price_usd": 37368.5,
+   "lead_time": "within two weeks of received order",
+   "sole_source_vendor": "Broen, Inc.",
+   "reason": "Broen, Inc. is the sole source provider for these valves.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Broen",
+   "model": "BALLOMAX",
+   "part": "8\" WELD X WELD CLASS 300 TRUNNION MOUNTED FULL PORT WITH VERTICAL GEAR, 2\" NUT AND 3M 323 EPOXY COATING",
+   "part_numbers": [
+    "8BMW740BFP TRSB VG143M"
+   ],
+   "quantity": "4",
+   "price_usd": 30389.2,
+   "lead_time": "within two weeks of received order",
+   "sole_source_vendor": "Broen, Inc.",
+   "reason": "Broen, Inc. is the sole source provider for these valves.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Broen",
+   "model": "BALLOMAX",
+   "part": "12\" Weld x Weld Class 300 Trunnion Mounted Full Port with vertical gear, 2\" nut and 3M 323 Epoxy Coating",
+   "part_numbers": [
+    "12BMW740BFP TRSB VG143"
+   ],
+   "quantity": "2",
+   "price_usd": 31851.14,
+   "lead_time": "within two weeks of received order",
+   "sole_source_vendor": "Broen, Inc.",
+   "reason": "Broen, Inc. is the sole source provider for these valves.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 5,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 15162,
+  "out": 3807
+ },
+ "model": "claude-sonnet-5"
+}

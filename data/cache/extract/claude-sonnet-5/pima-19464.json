@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Community Emergency Response Team (CERT) backpacks",
+   "part_numbers": [],
+   "quantity": "60",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Additional funding has been allocated to support training through the procurement of sixty (60) Community Emergency Response Team (CERT) backpacks, two life-size manequins, and fifteen (15) tourniquet trainers",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "life-size manequins",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Additional funding has been allocated to support training through the procurement of sixty (60) Community Emergency Response Team (CERT) backpacks, two life-size manequins, and fifteen (15) tourniquet trainers",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "tourniquet trainers",
+   "part_numbers": [],
+   "quantity": "15",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Additional funding has been allocated to support training through the procurement of sixty (60) Community Emergency Response Team (CERT) backpacks, two life-size manequins, and fifteen (15) tourniquet trainers",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 29935,
+  "out": 557
+ },
+ "model": "claude-sonnet-5"
+}

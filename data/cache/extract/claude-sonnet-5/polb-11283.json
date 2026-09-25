@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Allen-Bradley",
+   "model": "CompactLogix",
+   "part": "Programmable Logic Controller sole sourced to match existing SCADA system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Sole sourcing these products is required for compatibility in operations and maintenance of existing equipment.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Pier B ODRSF / North Yard Utilities and Pier B Street Widening project",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ericsson",
+   "model": "Cradlepoint",
+   "part": "Network and Communications Equipment sole sourced to match existing SCADA system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Sole sourcing these products is required for compatibility in operations and maintenance of existing equipment.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Pier B ODRSF / North Yard Utilities and Pier B Street Widening project",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens",
+   "model": "HydroRanger",
+   "part": "Ultrasonic Level Meter Monitoring Equipment sole sourced to match existing SCADA system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Sole sourcing these products is required for compatibility in operations and maintenance of existing equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Pier B ODRSF / North Yard Utilities and Pier B Street Widening project",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6876,
+  "out": 604
+ },
+ "model": "claude-sonnet-5"
+}

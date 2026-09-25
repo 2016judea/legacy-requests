@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "High-capacity alternate daily cover (ADC) spray application unit",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 182334.14,
+   "lead_time": null,
+   "sole_source_vendor": "LSC Environmental Products, LLC",
+   "reason": "LSC Environmental Products, LLC is the sole provider of the patented ADC materials and equipment compatible with the City's existing spray cover system, justifying the sole source designation.",
+   "equipment_class": "other equipment",
+   "installed_location": "McCommas Bluff Landfill",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2967,
+  "out": 212
+ },
+ "model": "claude-sonnet-5"
+}

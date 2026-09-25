@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Battery backup and recovery for ITS locations at 1125 3rd St (Hall of Justice) and 1195 3rd St (Administration Building)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 76700,
+   "lead_time": null,
+   "sole_source_vendor": "Fakouri Electric",
+   "reason": "For compatibility with existing equipment and consistency in service, Napa County needs retain Fakouri Electric.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "1125 3rd St (Hall of Justice) and 1195 3rd St (Administration Building)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Server memory expansion to increase recovery speed and support expanded security scanning and monitoring capabilities",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 66625,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "server memory expansion to increase recovery speed in the event of an adverse incident and to support expanded security scanning and monitoring capabilities",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3481,
+  "out": 1518
+ },
+ "model": "claude-sonnet-5"
+}

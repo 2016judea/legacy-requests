@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "On Board Systems",
+   "model": null,
+   "part": "Rescue hoist for Sheriff's Office rescue helicopter",
+   "part_numbers": [
+    "42325-12-3"
+   ],
+   "quantity": "1",
+   "price_usd": 361950,
+   "lead_time": null,
+   "sole_source_vendor": "On Board Systems H&W",
+   "reason": "There is only one other company that manufactures rescue hoists and their cable and pendant are not compatible with the existing hoist.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sheriff's Office rescue helicopter",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6478,
+  "out": 203
+ },
+ "model": "claude-sonnet-5"
+}

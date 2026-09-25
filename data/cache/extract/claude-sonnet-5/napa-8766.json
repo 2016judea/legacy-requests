@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Teupen",
+   "model": "18GT",
+   "part": "Teupen 18GT Hybrid Boom lift (surplus acquisition via GSA program)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 11240,
+   "lead_time": null,
+   "sole_source_vendor": "General Services Administration (GSA) program / California Department of General Services",
+   "reason": "authorize a waiver of competitive bidding and sole source award to the GSA program under California Department of General Services pursuant to Napa County Code Section 2.36.090",
+   "equipment_class": "other equipment",
+   "installed_location": "Napa County Airport",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3349,
+  "out": 222
+ },
+ "model": "claude-sonnet-5"
+}

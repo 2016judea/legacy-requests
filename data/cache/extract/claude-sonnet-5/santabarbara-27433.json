@@ -1,0 +1,93 @@
+{
+ "records": [
+  {
+   "manufacturer": "Radian Research",
+   "model": "RB-20 Bantam Plus",
+   "part": "RB-20 Bantam Plus, 0.04% Portable 50 Amp, Three phase Meter Site test solution with integrated Test socket & Optics",
+   "part_numbers": [
+    "8121250"
+   ],
+   "quantity": "1",
+   "price_usd": 25610.0,
+   "lead_time": "5-7 Weeks**",
+   "sole_source_vendor": "Radian Research Inc.",
+   "reason": "Radian Research is the only manufacturer of domestic watt-hour meters whose testing standards meet NIST certification and traceability.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Agricultural Commissioner/Weights & Measures Office (AGWM)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Radian Research",
+   "model": "RB-MECH",
+   "part": "RB-MECH,90 Deg S Base Adapter to test mechanical meters",
+   "part_numbers": [
+    "100087"
+   ],
+   "quantity": "1",
+   "price_usd": 2424.0,
+   "lead_time": "5-7 Weeks**",
+   "sole_source_vendor": "Radian Research Inc.",
+   "reason": "Radian Research is the only manufacturer of domestic watt-hour meters whose testing standards meet NIST certification and traceability.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Agricultural Commissioner/Weights & Measures Office (AGWM)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Radian Research",
+   "model": "OPTICOM",
+   "part": "OPTICOM Optics Kit",
+   "part_numbers": [
+    "BK0075"
+   ],
+   "quantity": "1",
+   "price_usd": 635.0,
+   "lead_time": "5-7 Weeks**",
+   "sole_source_vendor": "Radian Research Inc.",
+   "reason": "Radian Research is the only manufacturer of domestic watt-hour meters whose testing standards meet NIST certification and traceability.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Agricultural Commissioner/Weights & Measures Office (AGWM)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Radian Research",
+   "model": null,
+   "part": "Custom Three Year Extended Warranty with One-Day On-Site Training (extends the 2 Year Factory Warranty to a total of 5 Years warranty coverage)",
+   "part_numbers": [
+    "109932"
+   ],
+   "quantity": "1",
+   "price_usd": 6880.0,
+   "lead_time": "5-7 Weeks**",
+   "sole_source_vendor": "Radian Research Inc.",
+   "reason": "Radian Research is the only manufacturer of domestic watt-hour meters whose testing standards meet NIST certification and traceability.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Agricultural Commissioner/Weights & Measures Office (AGWM)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Knopp",
+   "model": "FS-9",
+   "part": "watt-hour meter tester",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "this equipment and the company that produced it have been obsolete now for over a decade. Recently, this testing equipment become inoperable.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Agricultural Commissioner/Weights & Measures Office (AGWM)",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11700,
+  "out": 1756
+ },
+ "model": "claude-sonnet-5"
+}

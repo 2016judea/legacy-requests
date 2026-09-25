@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": "Two-Way All-Band radio",
+   "part": "Motorola Two-Way All-Band radio",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 7400,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions",
+   "reason": "Motorola Two-Way All-Band radio enables first responders to use a single mobile radio to exchange critical voice and data communications with multiple agencies and jurisdictions operating on different radio bands.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Ford F250 truck, unit 239",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2955,
+  "out": 220
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Construction of Fort Worth Water SCADA Replacement project (City Project No. 103086)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 8233836.0,
+   "lead_time": null,
+   "sole_source_vendor": "Remont Engineering & Design Group, LLC",
+   "reason": "Based on the criteria above, Remont Engineering & Design Group, LLC was determined to offer the best value.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fort Worth Water Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Existing SCADA system (proprietary components) being replaced",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The existing SCADA system, initially installed in 1987, utilizes proprietary components, that are no longer manufactured and in need of replacement.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fort Worth Water Department",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Water Information Technology equipment purchases of servers, Fiber Chanel switches, storage, firewalls, work stations and tablets, cyber security suite, licensing, SequelData Pro services, and other equipment to support the SCADA upgrade",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1212000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This M&C is also funding the Water Information Technology equipment purchases of servers, Fiber Chanel switches, storage, firewalls, work stations and tablets, cyber security suite, licensing, SequelData Pro services, and other equipment to support the SCADA upgrade in the amount of $1,212,000.00.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fort Worth Water Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7491,
+  "out": 2209
+ },
+ "model": "claude-sonnet-5"
+}

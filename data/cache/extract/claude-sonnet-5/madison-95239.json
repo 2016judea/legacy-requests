@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "CemSites",
+   "model": null,
+   "part": "Cloud-Based Cemetery Record Management Software (software, implementation, and licensing/support/maintenance/hosting)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 61580,
+   "lead_time": null,
+   "sole_source_vendor": "CemSites",
+   "reason": "CemSites is the only vendor that can provide the software for the specific needs of Forest Hill Cemetery",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Forest Hill Cemetery",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "CemSites",
+   "model": null,
+   "part": "Annual license, support, maintenance, and hosting fees for Cemetery Record Management Software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 7080,
+   "lead_time": null,
+   "sole_source_vendor": "CemSites",
+   "reason": "CemSites is the only vendor that can provide the software for the specific needs of Forest Hill Cemetery",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Forest Hill Cemetery",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CemSites",
+   "model": null,
+   "part": "Annual license, support, maintenance, and hosting fees for Cemetery Record Management Software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 7435,
+   "lead_time": null,
+   "sole_source_vendor": "CemSites",
+   "reason": "CemSites is the only vendor that can provide the software for the specific needs of Forest Hill Cemetery",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Forest Hill Cemetery",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CemSites",
+   "model": null,
+   "part": "Annual license, support, maintenance, and hosting fees for Cemetery Record Management Software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 7805,
+   "lead_time": null,
+   "sole_source_vendor": "CemSites",
+   "reason": "CemSites is the only vendor that can provide the software for the specific needs of Forest Hill Cemetery",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Forest Hill Cemetery",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CemSites",
+   "model": null,
+   "part": "Annual license, support, maintenance, and hosting fees for Cemetery Record Management Software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 8195,
+   "lead_time": null,
+   "sole_source_vendor": "CemSites",
+   "reason": "CemSites is the only vendor that can provide the software for the specific needs of Forest Hill Cemetery",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Forest Hill Cemetery",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CemSites",
+   "model": null,
+   "part": "Annual license, support, maintenance, and hosting fees for Cemetery Record Management Software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 8605,
+   "lead_time": null,
+   "sole_source_vendor": "CemSites",
+   "reason": "CemSites is the only vendor that can provide the software for the specific needs of Forest Hill Cemetery",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Forest Hill Cemetery",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3595,
+  "out": 1119
+ },
+ "model": "claude-sonnet-5"
+}

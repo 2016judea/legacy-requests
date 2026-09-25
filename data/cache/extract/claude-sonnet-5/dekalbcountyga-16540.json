@@ -1,0 +1,178 @@
+{
+ "records": [
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": "DCR Digital Recording System",
+   "part": "On-Site Service & Support Renewal Contract, BIS Digital Recording System (Remote Support & Hardware Replacement Included)",
+   "part_numbers": [
+    "MNT-R-DCR",
+    "M-50029374",
+    "M-50031484",
+    "M-50031953"
+   ],
+   "quantity": "1",
+   "price_usd": 112486.5,
+   "lead_time": null,
+   "sole_source_vendor": "BIS (Business Information Systems) Digital, Inc.",
+   "reason": "BIS Digital, Inc. is the sole developer, designer and manufacturer of these products and services, and is the only certified and authorized reseller of facilitates, sales, installation, programming, and training.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Dekalb County State Court (GA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": "DCR Digital Recording System",
+   "part": "Annual DCR Software Assurance (SAS). Coincides with Maintenance Contract.",
+   "part_numbers": [
+    "DCR SAS w/ MNT",
+    "M-50029374",
+    "M-50031484",
+    "M-50031953"
+   ],
+   "quantity": "11",
+   "price_usd": 5225.0,
+   "lead_time": null,
+   "sole_source_vendor": "BIS (Business Information Systems) Digital, Inc.",
+   "reason": "BIS Digital, Inc. is the sole developer, designer and manufacturer of these products and services, and is the only certified and authorized reseller of facilitates, sales, installation, programming, and training.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Dekalb County State Court (GA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": "DCR Digital Recording System",
+   "part": "On-Site Service & Support Renewal Contract, BIS Digital Recording System (Remote Support & Hardware Replacement Included)",
+   "part_numbers": [
+    "MNT-R-DCR",
+    "M-50030440",
+    "M-50031902"
+   ],
+   "quantity": "1",
+   "price_usd": 43620.26,
+   "lead_time": null,
+   "sole_source_vendor": "BIS (Business Information Systems) Digital, Inc.",
+   "reason": "BIS Digital, Inc. is the sole developer, designer and manufacturer of these products and services, and is the only certified and authorized reseller of facilitates, sales, installation, programming, and training.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Magistrate Court (GA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": "DCR Digital Recording System",
+   "part": "Annual DCR Software Assurance (SAS). Coincides with Maintenance Contract.",
+   "part_numbers": [
+    "DCR SAS w/ MNT",
+    "M-50030440",
+    "M-50031902"
+   ],
+   "quantity": "5",
+   "price_usd": 2375.0,
+   "lead_time": null,
+   "sole_source_vendor": "BIS (Business Information Systems) Digital, Inc.",
+   "reason": "BIS Digital, Inc. is the sole developer, designer and manufacturer of these products and services, and is the only certified and authorized reseller of facilitates, sales, installation, programming, and training.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Magistrate Court (GA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": "DCR Digital Recording System",
+   "part": "On-Site Service & Support Renewal Contract, BIS Digital Recording System (Remote Support & Hardware Replacement Included)",
+   "part_numbers": [
+    "MNT-R-DCR",
+    "M-50030570",
+    "M-50011270"
+   ],
+   "quantity": "1",
+   "price_usd": 38599.05,
+   "lead_time": null,
+   "sole_source_vendor": "BIS (Business Information Systems) Digital, Inc.",
+   "reason": "BIS Digital, Inc. is the sole developer, designer and manufacturer of these products and services, and is the only certified and authorized reseller of facilitates, sales, installation, programming, and training.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Juvenile Court (GA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": "DCR Digital Recording System",
+   "part": "Annual DCR Software Assurance (SAS). Coincides with Maintenance Contract.",
+   "part_numbers": [
+    "DCR SAS w/ MNT",
+    "M-50030570",
+    "M-50011270"
+   ],
+   "quantity": "5",
+   "price_usd": 2375.0,
+   "lead_time": null,
+   "sole_source_vendor": "BIS (Business Information Systems) Digital, Inc.",
+   "reason": "BIS Digital, Inc. is the sole developer, designer and manufacturer of these products and services, and is the only certified and authorized reseller of facilitates, sales, installation, programming, and training.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Juvenile Court (GA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": "DCR Digital Recording System",
+   "part": "On-Site Service & Support Renewal Contract, BIS Digital Recording System (Remote Support & Hardware Replacement Included)",
+   "part_numbers": [
+    "MNT-R-DCR",
+    "M-50030641"
+   ],
+   "quantity": "1",
+   "price_usd": 54742.12,
+   "lead_time": null,
+   "sole_source_vendor": "BIS (Business Information Systems) Digital, Inc.",
+   "reason": "BIS Digital, Inc. is the sole developer, designer and manufacturer of these products and services, and is the only certified and authorized reseller of facilitates, sales, installation, programming, and training.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Dekalb County Facilities Management (GA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": "DCR Digital Recording System",
+   "part": "On-Site Service & Support Renewal Contract, BIS Digital Recording System (Remote Support & Hardware Replacement Included)",
+   "part_numbers": [
+    "MNT-R-DCR",
+    "M-50024644",
+    "M-50031860"
+   ],
+   "quantity": "1",
+   "price_usd": 6683.3,
+   "lead_time": null,
+   "sole_source_vendor": "BIS (Business Information Systems) Digital, Inc.",
+   "reason": "BIS Digital, Inc. is the sole developer, designer and manufacturer of these products and services, and is the only certified and authorized reseller of facilitates, sales, installation, programming, and training.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Probate Court (GA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": "DCR Digital Recording System",
+   "part": "Annual DCR Software Assurance (SAS). Coincides with Maintenance Contract.",
+   "part_numbers": [
+    "DCR SAS w/ MNT",
+    "M-50024644",
+    "M-50031860"
+   ],
+   "quantity": "1",
+   "price_usd": 475.0,
+   "lead_time": null,
+   "sole_source_vendor": "BIS (Business Information Systems) Digital, Inc.",
+   "reason": "BIS Digital, Inc. is the sole developer, designer and manufacturer of these products and services, and is the only certified and authorized reseller of facilitates, sales, installation, programming, and training.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Probate Court (GA)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 43144,
+  "out": 5756
+ },
+ "model": "claude-sonnet-5"
+}

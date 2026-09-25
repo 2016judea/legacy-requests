@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "FTR, LTD. d/b/a For the Record",
+   "model": null,
+   "part": "Five-year service contract for a digital audio and video recording solution for court proceedings",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1368520.84,
+   "lead_time": null,
+   "sole_source_vendor": "FTR, LTD. d/b/a For the Record",
+   "reason": "Utilized for procurements where functional requirements can only be satisfied by one vendor, such as those where patents, copyrights or monopolies exists",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "2014 Main Street (11 courtrooms)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2777,
+  "out": 232
+ },
+ "model": "claude-sonnet-5"
+}

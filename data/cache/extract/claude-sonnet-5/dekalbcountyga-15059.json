@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Microsoft",
+   "model": "Microsoft Unified Support",
+   "part": "Microsoft Unified Support Services - 3-Year Agreement (Office 365, SharePoint, Windows Operating Systems support)",
+   "part_numbers": [],
+   "quantity": "3-Year Agreement",
+   "price_usd": 3716493.0,
+   "lead_time": null,
+   "sole_source_vendor": "Microsoft Corporation",
+   "reason": "Microsoft United Support is a vital lifeline of support that is imperative to maintain in the event an issue was to occur, Office 365, SharePoint and the Windows Operating Systems is the core backbone for 90% of the county's enterprises systems and business processes.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County (Department of Innovation & Technology)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 5,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 22013,
+  "out": 290
+ },
+ "model": "claude-sonnet-5"
+}

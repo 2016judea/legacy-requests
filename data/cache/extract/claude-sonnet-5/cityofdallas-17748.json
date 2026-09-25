@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Emergency replacement of 60-inch diameter sanitary sewer pipeline (concrete)",
+   "part_numbers": [],
+   "quantity": "approximately 400 feet",
+   "price_usd": 676310.0,
+   "lead_time": null,
+   "sole_source_vendor": "SYB Construction Co., Inc.",
+   "reason": "Due to the poor condition of the pipeline, its depth, the high volume of wastewater flow, and the adverse site conditions, the resources of a private construction company will be necessary.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "behind 11400 Central Expressway",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3690,
+  "out": 473
+ },
+ "model": "claude-sonnet-5"
+}

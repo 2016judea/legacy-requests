@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Radio equipment, installation, maintenance, repairs and removal services for County vehicles' Motorola radios, towers, modems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5242000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America, Inc.",
+   "reason": "The County must preserve the warranty of its towers, modems and other Motorola Communications equipment purchased under the contract with Motorola Solutions, Inc. by utilizing a certified Motorola Service Elite Specialist to service and maintain this equipment.",
+   "equipment_class": "communications/radio",
+   "installed_location": "DeKalb County vehicles (Police Services and Public Works - Sanitation)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4811,
+  "out": 283
+ },
+ "model": "claude-sonnet-5"
+}

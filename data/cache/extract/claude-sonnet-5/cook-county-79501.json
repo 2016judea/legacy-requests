@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": "Bronco Sport",
+   "part": "Purchase of 2026 Ford Bronco Sport 4x4 (non-hybrid) vehicles for County agencies",
+   "part_numbers": [],
+   "quantity": "12",
+   "price_usd": 380256.0,
+   "lead_time": null,
+   "sole_source_vendor": "Sutton Ford",
+   "reason": "Sutton Ford was the lowest, responsive and responsible bidder.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3335,
+  "out": 638
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Continuation of hosting, maintenance, and support contract for the fire inspection system for Dallas Fire-Rescue Department",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 956650.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fire Recovery USA, LLC",
+   "reason": "This Sole Source agreement will provide continued hosting, maintenance, and support contract for Dallas Fire Rescue Inspection Software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Dallas Fire-Rescue Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2891,
+  "out": 227
+ },
+ "model": "claude-sonnet-5"
+}

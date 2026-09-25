@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "JSF Technologies",
+   "model": null,
+   "part": "24-hour flashing beacons, reticular rapid flashing beacons and school zone flashing beacons, and replacement parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 199000,
+   "lead_time": null,
+   "sole_source_vendor": "Traffic Signal Solutions",
+   "reason": "Traffic Signal Solutions has provided a sole source letter stating they are the sole supplier of JSF Technologies which is used for beacons across the county.",
+   "equipment_class": "other equipment",
+   "installed_location": "El Dorado County (countywide)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14642,
+  "out": 230
+ },
+ "model": "claude-sonnet-5"
+}

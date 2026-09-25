@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Non-Competitive Single Source Agreement for a Ninth Part 12D Independent Consultant's Safety Inspection Report of Anderson Dam",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 825000,
+   "lead_time": null,
+   "sole_source_vendor": "Geosyntec Consultants, Inc.",
+   "reason": "Geosyntec emerged as the single qualified provider, meeting all FERC Independent Consultant criteria without any disqualifying affiliations.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Anderson Dam, Morgan Hill, District 1",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 30220,
+  "out": 248
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Pumps requiring rebuild with proprietary parts or replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "waive all competitive bidding provisions of TMC Chapter 187 for equipment rebuilds with proprietary parts or equipment replacement from original equipment manufacturers or authorized distributors",
+   "equipment_class": "pump",
+   "installed_location": "Bay View Water Reclamation Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Valves requiring rebuild with proprietary parts or replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "waive all competitive bidding provisions of TMC Chapter 187 for equipment rebuilds with proprietary parts or equipment replacement from original equipment manufacturers or authorized distributors",
+   "equipment_class": "valve",
+   "installed_location": "Bay View Water Reclamation Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Gates requiring rebuild with proprietary parts or replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "waive all competitive bidding provisions of TMC Chapter 187 for equipment rebuilds with proprietary parts or equipment replacement from original equipment manufacturers or authorized distributors",
+   "equipment_class": "other equipment",
+   "installed_location": "Bay View Water Reclamation Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Motors requiring rebuild with proprietary parts or replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "waive all competitive bidding provisions of TMC Chapter 187 for equipment rebuilds with proprietary parts or equipment replacement from original equipment manufacturers or authorized distributors",
+   "equipment_class": "motor/drive",
+   "installed_location": "Bay View Water Reclamation Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Actuators requiring rebuild with proprietary parts or replacement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "waive all competitive bidding provisions of TMC Chapter 187 for equipment rebuilds with proprietary parts or equipment replacement from original equipment manufacturers or authorized distributors",
+   "equipment_class": "other equipment",
+   "installed_location": "Bay View Water Reclamation Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3510,
+  "out": 1537
+ },
+ "model": "claude-sonnet-5"
+}

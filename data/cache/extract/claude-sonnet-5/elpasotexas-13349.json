@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "CivicSmart Parking Technologies, Inc.",
+   "model": "Liberty Next Gen (LNG) Single Space Meters",
+   "part": "Parking meter housings, meters, sensors, spare parts and maintenance for existing parking system",
+   "part_numbers": [],
+   "quantity": "ALL",
+   "price_usd": 450000.0,
+   "lead_time": null,
+   "sole_source_vendor": "CivicSmart Parking Technologies, Inc.",
+   "reason": "CivicSmart Parking Technologies, Inc. is the manufacturer and sole source provider for parts and maintenance for existing parking system and mechanisms used by the City.",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso, TX",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CivicSmart Parking Technologies, Inc.",
+   "model": null,
+   "part": "Parking Meter Housings, Meters, Sensors, and Accessories",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CivicSmart Parking Technologies, Inc.",
+   "reason": "The above named company or firm is the sole source for the following item(s), product(s) or service(s): Parking Meter Housings, Meters, Sensors, and Accessories",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CivicSmart Parking Technologies, Inc.",
+   "model": null,
+   "part": "Coin boxes, lock assemblies, keys, coin tracks, card readers and other replacement parts used in meter mechanisms, housings and collection carts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CivicSmart Parking Technologies, Inc.",
+   "reason": "CivicSmart is also the sole source manufacturer and provider of coin boxes, lock assemblies, keys, coin tracks, card readers and other replacement parts used in these mechanisms, housings and collection carts.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8623,
+  "out": 718
+ },
+ "model": "claude-sonnet-5"
+}

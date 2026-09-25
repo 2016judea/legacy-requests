@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Enhancements and Maintenance Support for Environment Management System (custom application)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 450000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Clarity Partners, LLC.",
+   "reason": "Given their in-depth knowledge of the system\u2019s source code and specific customizations, Clarity Partners, LLC is uniquely positioned to continue providing essential support and maintenance.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2856,
+  "out": 209
+ },
+ "model": "claude-sonnet-5"
+}

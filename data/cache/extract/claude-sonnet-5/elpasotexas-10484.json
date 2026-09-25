@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Thermo King",
+   "model": null,
+   "part": "AC Proprietary Parts - preventive and corrective maintenance parts for Air Conditioner systems in Sun Metro buses and streetcars",
+   "part_numbers": [],
+   "quantity": "All",
+   "price_usd": 3240000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Thermo King West, Inc. dba Thermo King Chesapeake Inc.",
+   "reason": "Themo King West, Inc. is the sole and authorized distributor of Thermo King Parts for the El Paso region.",
+   "equipment_class": "HVAC",
+   "installed_location": "Sun Metro buses and streetcars",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7686,
+  "out": 240
+ },
+ "model": "claude-sonnet-5"
+}

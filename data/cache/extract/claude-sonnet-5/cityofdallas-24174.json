@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Vesta Next Cloud software maintenance and network support for 9-1-1 system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AT&T Enterprises, LLC",
+   "reason": "This sole source agreement will provide the services, support, and licensing needed to maintain the Primary 9-1-1 system as well as the offsite backup system.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Department of Information and Technology Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rapid Deploy software maintenance and network support for 9-1-1 system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AT&T Enterprises, LLC",
+   "reason": "This sole source agreement will provide the services, support, and licensing needed to maintain the Primary 9-1-1 system as well as the offsite backup system.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Department of Information and Technology Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Vesta Support software maintenance and network support for 9-1-1 system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AT&T Enterprises, LLC",
+   "reason": "This sole source agreement will provide the services, support, and licensing needed to maintain the Primary 9-1-1 system as well as the offsite backup system.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Department of Information and Technology Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "NICE software maintenance and network support for 9-1-1 Recording System and reporting application",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AT&T Enterprises, LLC",
+   "reason": "The contract will provide extensions of the support and maintenance of the 9-1-1 Recording System and the reporting application.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Department of Information and Technology Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Text to 9-1-1 software maintenance and network support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AT&T Enterprises, LLC",
+   "reason": "This sole source agreement will provide the services, support, and licensing needed to maintain the Primary 9-1-1 system as well as the offsite backup system.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Department of Information and Technology Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "9-1-1 telephone system infrastructure maintenance including 2 dedicated on-site technicians 24x7x365",
+   "part_numbers": [],
+   "quantity": "2 dedicated on-site technicians",
+   "price_usd": 28242272.05,
+   "lead_time": null,
+   "sole_source_vendor": "AT&T Enterprises, LLC",
+   "reason": "Additionally, the contract provides 2 dedicated on site technicians from AT&T available to respond to trouble tickets and incidents 24 x 7x 365.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Department of Information and Technology Services",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2797,
+  "out": 1676
+ },
+ "model": "claude-sonnet-5"
+}

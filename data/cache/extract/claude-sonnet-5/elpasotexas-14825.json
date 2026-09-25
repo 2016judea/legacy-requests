@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Chevrolet",
+   "model": null,
+   "part": "Chevrolet proprietary parts and specialized maintenance and repair services for fleet vehicles",
+   "part_numbers": [],
+   "quantity": "All",
+   "price_usd": 210000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Bravo Cadillac Southwest LP LLC",
+   "reason": "If a contract cannot be awarded after two competitive procurements/selection process, the requirement can be fulfilled by a non-competitive award.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "El Paso, TX",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9357,
+  "out": 218
+ },
+ "model": "claude-sonnet-5"
+}

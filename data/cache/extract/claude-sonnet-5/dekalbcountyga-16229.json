@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Karpel Computer Systems, Inc., dba Karpel Solutions",
+   "model": "PROSECUTORbyKarpel (PbK)",
+   "part": "Case management system including installation, companion services and annual subscription",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 392837.0,
+   "lead_time": null,
+   "sole_source_vendor": "Karpel Computer Systems, Inc., dba Karpel Solutions",
+   "reason": "Karpel Solutions is the sole owner of PbK software, maintains, develops, markets and supports the specific case management software in a sole capacity as the sole source provider.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Office of the Solicitor-General",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8886,
+  "out": 260
+ },
+ "model": "claude-sonnet-5"
+}

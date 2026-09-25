@@ -1,0 +1,443 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stryker",
+   "model": "Power-PRO 2",
+   "part": "6507 POWER PRO 2, HIGH CONFIG powered ambulance cot",
+   "part_numbers": [
+    "650705550001"
+   ],
+   "quantity": "5",
+   "price_usd": 167766.2,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "6257 Xpedition",
+   "part": "6257 XPEDITION HIGH CONFIG stair chair",
+   "part_numbers": [
+    "625705550002"
+   ],
+   "quantity": "5",
+   "price_usd": 76832.78,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": null,
+   "part": "ASSEMBLY, BATTERY CHARGER",
+   "part_numbers": [
+    "650700450301"
+   ],
+   "quantity": "5",
+   "price_usd": 5074.03,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "Alvarium",
+   "part": "KIT, ALVARIUM BATTERY, SERVICE",
+   "part_numbers": [
+    "650707000002"
+   ],
+   "quantity": "15",
+   "price_usd": 10638.89,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LUCAS 3",
+   "part": "LUCAS 3, v3.1 Chest Compression System, Includes Hard Shell Case, Slim Back Plate, Patient Straps, Stabilization Strap, Suction Cups, Rechargeable Battery",
+   "part_numbers": [
+    "99576-000063"
+   ],
+   "quantity": "5",
+   "price_usd": 90167.58,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker is the sole provider of the LIFEPAK and LUCAS devices that are a series of monitors and external cardiac defibrillators used in all the ambulances throughout DeKalb County.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LUCAS",
+   "part": "LUCAS Desk-Top Battery Charger",
+   "part_numbers": [
+    "11576-000060"
+   ],
+   "quantity": "5",
+   "price_usd": 1010.91,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LUCAS",
+   "part": "LUCAS External Power Supply",
+   "part_numbers": [
+    "11576-000071"
+   ],
+   "quantity": "5",
+   "price_usd": 319.85,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LUCAS 3",
+   "part": "LUCAS 3 Battery - Dark Grey - Rechargeable LiPo",
+   "part_numbers": [
+    "11576-000080"
+   ],
+   "quantity": "5",
+   "price_usd": 601.34,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LIFEPAK 15",
+   "part": "LIFEPAK 15 V4 Monitor/Defib - Manual & AED, Trending, Noninvasive Pacing, SpO2, SpCO, NIBP, 12-Lead ECG, EtCO2, BT",
+   "part_numbers": [
+    "99577-001957"
+   ],
+   "quantity": "5",
+   "price_usd": 41015.32,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker is the sole provider of the LIFEPAK and LUCAS devices that are a series of monitors and external cardiac defibrillators used in all the ambulances throughout DeKalb County.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LIFEPAK 15",
+   "part": "LP15 ACCRY SHIPKIT,AHA,S",
+   "part_numbers": [
+    "41577-000288"
+   ],
+   "quantity": "5",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LIFEPAK 15",
+   "part": "LP 15 Lithium-ion Battery 5.7 amp hrs",
+   "part_numbers": [
+    "21330-001176"
+   ],
+   "quantity": "15",
+   "price_usd": 405.66,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": null,
+   "part": "AC power cord",
+   "part_numbers": [
+    "11140-000015"
+   ],
+   "quantity": "5",
+   "price_usd": 70.21,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": null,
+   "part": "Extension Cable (5ft 3 in)",
+   "part_numbers": [
+    "11140-000080"
+   ],
+   "quantity": "5",
+   "price_usd": 269.79,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LIFEPAK 15",
+   "part": "LP15 AC Power Adapter (power cord not included)",
+   "part_numbers": [
+    "11140-000098"
+   ],
+   "quantity": "5",
+   "price_usd": 1450.37,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LIFEPAK 15",
+   "part": "LIFEPAK 15 Basic carry case w/right & left pouches; shoulder strap included",
+   "part_numbers": [
+    "11577-000002"
+   ],
+   "quantity": "5",
+   "price_usd": 289.29,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LIFEPAK 15",
+   "part": "LIFEPAK 15 Carry case top pouch",
+   "part_numbers": [
+    "11220-000028"
+   ],
+   "quantity": "5",
+   "price_usd": 52.01,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LIFEPAK 15",
+   "part": "LIFEPAK 15 Carry case back pouch",
+   "part_numbers": [
+    "11260-000039"
+   ],
+   "quantity": "5",
+   "price_usd": 74.11,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Masimo",
+   "model": "M-LNCSCI",
+   "part": "Masimo M-LNCSCI, Adult Reusable SpO2 only Sensor. For use with RC Patient Cable.",
+   "part_numbers": [
+    "11171-000046"
+   ],
+   "quantity": "5",
+   "price_usd": 262.64,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": null,
+   "part": "NIBP Cuff-Reusable, Adult X Large",
+   "part_numbers": [
+    "11160-000019"
+   ],
+   "quantity": "5",
+   "price_usd": 43.56,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": null,
+   "part": "NIBP Cuff-Reusable, Large Adult",
+   "part_numbers": [
+    "11160-000017"
+   ],
+   "quantity": "5",
+   "price_usd": 30.55,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": null,
+   "part": "NIBP Cuff-Reusable, Child",
+   "part_numbers": [
+    "11160-000013"
+   ],
+   "quantity": "5",
+   "price_usd": 22.1,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": null,
+   "part": "Test load (for use with QUIK COMBO therapy cable)",
+   "part_numbers": [
+    "21330-001365"
+   ],
+   "quantity": "5",
+   "price_usd": 64.36,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LIFEPAK 15",
+   "part": "LIFEPAK 15 Shoulder strap",
+   "part_numbers": [
+    "11577-000001"
+   ],
+   "quantity": "5",
+   "price_usd": 35.11,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "4G Titan III Trio Modem",
+   "part": "4G Titan III Trio Modem: AT&T WiFi/Cellular/Audio (audio on/off configurable by customer) for use with Stryker data plan",
+   "part_numbers": [
+    "11996-000484"
+   ],
+   "quantity": "5",
+   "price_usd": 1914.54,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "MultiTech 4G and Titan III gateways",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "CODE-STAT",
+   "part": "CODE-STAT data review software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "This purchase request is to equip five (5) new ambulances with Stryker LIPEPAK and LUCAS devices, medical equipment, accessories, CODE-STAT data review software, and service.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": null,
+   "part": "EZIO needles assorted sizes & power driver",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 50882.4,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corp",
+   "reason": "Stryker Sales Corp. is the sole-provider and owner of the proprietary tools, parts, devices, and employ their own field service team to service its products.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "LUCAS",
+   "part": "PROCARE-SVC-LUCAS-FIELD-REPAIR 1 Year Preventive Maintenance/Field Repair service plan for LUCAS chest compression devices",
+   "part_numbers": [
+    "LUCAS-FLD-PROCARE"
+   ],
+   "quantity": "46",
+   "price_usd": 50882.4,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation",
+   "reason": "Stryker employs its own field service team (known as ProCare Services) to service its products. Stryker only uses OEM parts for repairs and has exclusive use of certain proprietary tools for diagnostics and repairs.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 13223,
+  "out": 8046
+ },
+ "model": "claude-sonnet-5"
+}

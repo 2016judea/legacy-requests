@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Manifest MedEx",
+   "model": null,
+   "part": "Agreement with Manifest MedEx to implement a Community Information Exchange platform for the utilization of data exchange among varied partner data systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 14700000,
+   "lead_time": "not to exceed five consecutive years",
+   "sole_source_vendor": "Manifest MedEx",
+   "reason": "as this contractor is the current sole technical host of a Health Information Exchange platform used for Fresno County patient data transmission",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 1
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 47489,
+  "out": 225
+ },
+ "model": "claude-sonnet-5"
+}

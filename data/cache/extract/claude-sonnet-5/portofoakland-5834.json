@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Battery electric dive boat procurement",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 300000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Execute a contract to procure a battery electric dive boat at a total cost not to exceed $300,000",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Existing gas powered dive boat and trailer designated for disposal",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Designate an existing gas powered dive boat and trailer as no longer used, inadequate, obsolete or worn-out",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3674,
+  "out": 319
+ },
+ "model": "claude-sonnet-5"
+}

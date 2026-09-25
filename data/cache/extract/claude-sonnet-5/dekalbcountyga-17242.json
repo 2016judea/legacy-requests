@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Oracle",
+   "model": "Oracle Cloud Services",
+   "part": "Public Sector Agreement for Oracle Cloud Services - ongoing support and maintenance of all products and services for the County's Oracle Cloud Services platform, renewal of existing software licenses and HCM Cloud Services support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 14051995.75,
+   "lead_time": null,
+   "sole_source_vendor": "Oracle America, Inc.",
+   "reason": "Public Sector Agreement for Oracle Cloud Services (Sole Source)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "DeKalb County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7218,
+  "out": 243
+ },
+ "model": "claude-sonnet-5"
+}

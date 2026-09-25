@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Schneider Electric",
+   "model": null,
+   "part": "Telemetry interface services (automation, network obsolescence, cybersecurity of control systems) for Thorn Creek Diversion Structure, 95th Street Pumping Station, 125th Street Pumping Station",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 179134.0,
+   "lead_time": null,
+   "sole_source_vendor": "Schneider Electric Systems USA, Inc.",
+   "reason": "Schneider Electric Systems USA, Inc., is the only source of the products and services required",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Thorn Creek Diversion Structure, 95th Street Pumping Station, 125th Street Pumping Station at the Calumet Water Reclamation Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2914,
+  "out": 286
+ },
+ "model": "claude-sonnet-5"
+}

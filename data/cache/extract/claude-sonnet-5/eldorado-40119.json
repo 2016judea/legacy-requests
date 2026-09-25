@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": "Spaceworx Inc.",
+   "model": "DURAMATE\u2122 Deluxe, ADA Separated Meeting",
+   "part": "DURAMATE Deluxe, ADA Separated Meeting correctional privacy booth",
+   "part_numbers": [],
+   "quantity": "2.00 Units",
+   "price_usd": 43900.0,
+   "lead_time": null,
+   "sole_source_vendor": "Spaceworx Inc.",
+   "reason": "Spaceworx is the only manufacturer of correctional-grade pods with UL 962 certification, FireShield\u2122, and proprietary anti-ligature design.",
+   "equipment_class": "other equipment",
+   "installed_location": "Placerville Jail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Spaceworx Inc.",
+   "model": null,
+   "part": "Delivery & Install of Spaceworx meeting pods",
+   "part_numbers": [],
+   "quantity": "2.00 Units",
+   "price_usd": 4400.0,
+   "lead_time": null,
+   "sole_source_vendor": "Spaceworx Inc.",
+   "reason": "Spaceworx is the only manufacturer of correctional-grade pods with UL 962 certification, FireShield\u2122, and proprietary anti-ligature design.",
+   "equipment_class": "other equipment",
+   "installed_location": "Placerville Jail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Spaceworx Inc.",
+   "model": "DURAMATE\u2122 TV Enclosure Unit",
+   "part": "DURAMATE TV Enclosure Unit with sloped anti-ligature design",
+   "part_numbers": [],
+   "quantity": "2.00 Units",
+   "price_usd": 1550.0,
+   "lead_time": null,
+   "sole_source_vendor": "Spaceworx Inc.",
+   "reason": "Spaceworx is the only manufacturer of correctional-grade pods with UL 962 certification, FireShield\u2122, and proprietary anti-ligature design.",
+   "equipment_class": "other equipment",
+   "installed_location": "Placerville Jail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Spaceworx Inc.",
+   "model": "DURAMATE\u2122 Compact Separated Meeting Pod",
+   "part": "DURAMATE Compact Separated Meeting Pod correctional privacy booth",
+   "part_numbers": [],
+   "quantity": "1.00 Units",
+   "price_usd": 17020.0,
+   "lead_time": null,
+   "sole_source_vendor": "Spaceworx Inc.",
+   "reason": "Spaceworx Inc. is the only manufacturer capable of providing this specific product due to the following unique and non-substitutable characteristics",
+   "equipment_class": "other equipment",
+   "installed_location": "South Lake Tahoe Jail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Spaceworx Inc.",
+   "model": "DURAMATE\u2122 Deluxe, ADA Separated Meeting",
+   "part": "DURAMATE Deluxe, ADA Separated Meeting correctional privacy booth",
+   "part_numbers": [],
+   "quantity": "1.00 Units",
+   "price_usd": 21950.0,
+   "lead_time": null,
+   "sole_source_vendor": "Spaceworx Inc.",
+   "reason": "Spaceworx Inc. is the only manufacturer capable of providing this specific product due to the following unique and non-substitutable characteristics",
+   "equipment_class": "other equipment",
+   "installed_location": "South Lake Tahoe Jail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Spaceworx Inc.",
+   "model": null,
+   "part": "Delivery & Install of Spaceworx meeting pods",
+   "part_numbers": [],
+   "quantity": "2.00 Units",
+   "price_usd": 4400.0,
+   "lead_time": null,
+   "sole_source_vendor": "Spaceworx Inc.",
+   "reason": "Spaceworx Inc. is the only manufacturer capable of providing this specific product due to the following unique and non-substitutable characteristics",
+   "equipment_class": "other equipment",
+   "installed_location": "South Lake Tahoe Jail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Spaceworx Inc.",
+   "model": "DURAMATE\u2122 TV Enclosure Unit",
+   "part": "DURAMATE TV Enclosure Unit with sloped anti-ligature design",
+   "part_numbers": [],
+   "quantity": "2.00 Units",
+   "price_usd": 1550.0,
+   "lead_time": null,
+   "sole_source_vendor": "Spaceworx Inc.",
+   "reason": "Spaceworx Inc. is the only manufacturer capable of providing this specific product due to the following unique and non-substitutable characteristics",
+   "equipment_class": "other equipment",
+   "installed_location": "South Lake Tahoe Jail",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement commercial-grade dryer for Placerville Jail laundry operations",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 12000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The existing commercial dryer has reached the end of its useful life and is experiencing recurring maintenance issues that impact laundry operations.",
+   "equipment_class": "other equipment",
+   "installed_location": "Placerville Jail",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 4,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 24682,
+  "out": 3771
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "ITT Goulds",
+   "model": "3196 XLTi",
+   "part": "Centrifugal Pumps",
+   "part_numbers": [
+    "3196 XLTi"
+   ],
+   "quantity": "two (2)",
+   "price_usd": 104886.0,
+   "lead_time": "delivered by December 31, 2026",
+   "sole_source_vendor": "Flow-Technics Inc.",
+   "reason": "Flow-Technics Inc. is the only source of the pumps required, nothing would be gained by advertising for bids",
+   "equipment_class": "pump",
+   "installed_location": "Calumet Water Reclamation Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2698,
+  "out": 210
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "Wabtec/TransTech",
+   "model": "PADDLE, COLLECTOR",
+   "part": "OEM Current Collector Shoe Assembly Paddles for Fleet of the Future (FOTF) vehicles",
+   "part_numbers": [
+    "24-05-03-05471",
+    "054149-4001"
+   ],
+   "quantity": null,
+   "price_usd": 1071007.88,
+   "lead_time": null,
+   "sole_source_vendor": "Wabtec/TransTech",
+   "reason": "Wabtec/TransTech is the OEM and the sole qualified supplier due to proprietary design and data rights restrictions.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "District's Fleet of the Future (FOTF) vehicles",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4118,
+  "out": 259
+ },
+ "model": "claude-sonnet-5"
+}

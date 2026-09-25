@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Teleosoft, Inc.",
+   "model": "CountySuite\u2122 Sheriff",
+   "part": "Civil Process Software System initial licensing, cloud hosting, and annual maintenance/support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 282188,
+   "lead_time": null,
+   "sole_source_vendor": "Teleosoft, Inc.",
+   "reason": "in California there are two companies that provide software solutions necessary for sheriff's civil departments to run operations; one is the Sheriff's Office current civil software provider Tyler Technologies (which is not updated to meet the incoming mandates related to accepting online/remote electronic payments yet), and the other is Teleosoft, Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Napa County Sheriff's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tyler Technologies",
+   "model": "Civil Serve",
+   "part": "Current civil process software solution being replaced",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the software is cumbersome to deploy, update and support as it is already ten years old",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Napa County Sheriff's Office",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 44819,
+  "out": 467
+ },
+ "model": "claude-sonnet-5"
+}

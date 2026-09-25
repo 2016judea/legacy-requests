@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Microsoft",
+   "model": "Unified Support",
+   "part": "Microsoft Unified Support and Maintenance services including implementation support, problem resolution assistance, configuration assistance and training",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 597000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Microsoft Corporation",
+   "reason": "Microsoft Corporation is the sole provider of unified support services for their proprietary software and products",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno County Sheriff-Coroner-Public Administrator's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Microsoft",
+   "model": "DART Cybersecurity Incident Response",
+   "part": "Cybersecurity Incident Response Service including access to Microsoft's DART team for incident response to security incidents",
+   "part_numbers": [],
+   "quantity": "120 hr per year",
+   "price_usd": 232906.2,
+   "lead_time": null,
+   "sole_source_vendor": "Microsoft Corporation",
+   "reason": "They are also the only provider of the DART team which can assist with security incidents and have access to all of the Microsoft backend resources",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno County Sheriff-Coroner-Public Administrator's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Microsoft",
+   "model": "Enhanced Designated Engineering | Purview Security & Compliance",
+   "part": "Enhanced Designated Engineering Data Security services",
+   "part_numbers": [],
+   "quantity": "200 hr per year",
+   "price_usd": 239150.4,
+   "lead_time": null,
+   "sole_source_vendor": "Microsoft Corporation",
+   "reason": "Microsoft is the sole provider for direct technical support of the products and solutions included with our Microsoft Enterprise Agreement",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno County Sheriff-Coroner-Public Administrator's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Microsoft",
+   "model": "Unified Enterprise Support",
+   "part": "Unified Base Enterprise support services for licensed Microsoft products including Windows, Office, SQL Server, SharePoint Online",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 262599.9,
+   "lead_time": null,
+   "sole_source_vendor": "Microsoft Corporation",
+   "reason": "Microsoft is the sole provider for direct technical support of the products and solutions included with our Microsoft Enterprise Agreement",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno County Sheriff-Coroner-Public Administrator's Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18785,
+  "out": 914
+ },
+ "model": "claude-sonnet-5"
+}

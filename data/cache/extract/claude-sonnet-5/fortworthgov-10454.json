@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Cold pour concrete joint and crack sealant",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 300000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Allstates Coating Company",
+   "reason": "This product was approved as a sole source and provides Street Operations with the ability to crack seal the City\u2019s street network year-round, lowering cost and increasing overall performance by at least 25%.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3129,
+  "out": 191
+ },
+ "model": "claude-sonnet-5"
+}

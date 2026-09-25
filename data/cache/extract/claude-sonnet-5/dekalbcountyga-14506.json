@@ -1,0 +1,183 @@
+{
+ "records": [
+  {
+   "manufacturer": "AT&T",
+   "model": "AT&T ESInetTM (Emergency Services IP Network)",
+   "part": "Sole source \u201cESinet\u201d 911 call routing/network system upgrade for County's 911 system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3867044.0,
+   "lead_time": null,
+   "sole_source_vendor": "AT&T Enterprises, LLC",
+   "reason": "This request seeks to ratify the emergency purchase of the sole source \"ESinet\" 911 system with the \"APEX\" add on features from Carbyne Ltd.",
+   "equipment_class": "communications/radio",
+   "installed_location": "DeKalb County E911 Communications Center, 1960 W Exchange Place, Tucker, GA 30084",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Carbyne Ltd.",
+   "model": "Carbyne APEX Next Gen 9-1-1 Call Handling Platform",
+   "part": "Sole source \"APEX\" add-on cloud-native call handling solution (APEX Concurrent License, Control Center, Responder Connect, Translation & Transcription, Emergency Call Triage)",
+   "part_numbers": [],
+   "quantity": "30 concurrent positions / 48 workstations",
+   "price_usd": 3991692.0,
+   "lead_time": null,
+   "sole_source_vendor": "Carbyne Ltd.",
+   "reason": "This request seeks to ratify the emergency purchase of the sole source \"ESinet\" 911 system with the \"APEX\" add on features from Carbyne Ltd.",
+   "equipment_class": "communications/radio",
+   "installed_location": "DeKalb County E911 Communications Center, 1960 W Exchange Place, Tucker, GA 30084",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "AT&T",
+   "model": "IP Flexible Reach (IPFlex)",
+   "part": "Managed VoIP service for non-emergency administrative lines, two (2) IPFlex SIP circuits",
+   "part_numbers": [],
+   "quantity": "2 SIP circuits",
+   "price_usd": 56782.0,
+   "lead_time": null,
+   "sole_source_vendor": "AT&T Enterprises, LLC",
+   "reason": "the I Flex contract and the ADI Contract, as well as the \"Terms and Conditions\" from Carbyne",
+   "equipment_class": "communications/radio",
+   "installed_location": "DeKalb County E911 Communications Center, 1960 W Exchange Place, Tucker, GA 30084",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "AT&T",
+   "model": "AT&T Dedicated Internet (ADI)",
+   "part": "Dedicated Internet Access service and pricing schedule for County network connectivity",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AT&T Enterprises, LLC",
+   "reason": "the I Flex contract and the ADI Contract, as well as the \"Terms and Conditions\" from Carbyne",
+   "equipment_class": "communications/radio",
+   "installed_location": "1960 W Exchange Place, Tucker, GA 30084",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "Dell Precision 3581",
+   "part": "Workstation laptop for Carbyne APEX call-taking positions",
+   "part_numbers": [
+    "Dell Precision 3581 - 15.6\" - Intel Core i7 -13700H - vPro Essentials - 16 GB RAM - 512 GB SSD"
+   ],
+   "quantity": "12",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AT&T Enterprises, LLC",
+   "reason": "This request seeks to ratify the emergency purchase of the sole source \"ESinet\" 911 system with the \"APEX\" add on features from Carbyne Ltd.",
+   "equipment_class": "other equipment",
+   "installed_location": "DeKalb County E911 Communications Center, 1960 W Exchange Place, Tucker, GA 30084",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "Dell Pro KM5221W",
+   "part": "Keyboard and mouse set for Carbyne APEX workstations",
+   "part_numbers": [
+    "Dell Pro KM5221W - keyboard and mouse set - QWERTY - US - black"
+   ],
+   "quantity": "12",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AT&T Enterprises, LLC",
+   "reason": "This request seeks to ratify the emergency purchase of the sole source \"ESinet\" 911 system with the \"APEX\" add on features from Carbyne Ltd.",
+   "equipment_class": "other equipment",
+   "installed_location": "DeKalb County E911 Communications Center, 1960 W Exchange Place, Tucker, GA 30084",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Samsung",
+   "model": "QN90C Series",
+   "part": "65\" LED-backlit LCD television for Control Center Video Board",
+   "part_numbers": [
+    "Samsung QN65QN90CAF QN90C Series - 65\" Class (64.5\" viewable) LED-backlit LCD TV - Neo QLED - 4K"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AT&T Enterprises, LLC",
+   "reason": "This request seeks to ratify the emergency purchase of the sole source \"ESinet\" 911 system with the \"APEX\" add on features from Carbyne Ltd.",
+   "equipment_class": "other equipment",
+   "installed_location": "DeKalb County E911 Communications Center, 1960 W Exchange Place, Tucker, GA 30084",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tripp Lite",
+   "model": null,
+   "part": "Surge protector power strip for workstation positions",
+   "part_numbers": [
+    "Tripp Lite Surge Protector Power Strip 120V 6 Outlet 6' Cord 790 Joule Black"
+   ],
+   "quantity": "48",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AT&T Enterprises, LLC",
+   "reason": "This request seeks to ratify the emergency purchase of the sole source \"ESinet\" 911 system with the \"APEX\" add on features from Carbyne Ltd.",
+   "equipment_class": "other equipment",
+   "installed_location": "DeKalb County E911 Communications Center, 1960 W Exchange Place, Tucker, GA 30084",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "8200L",
+   "part": "PSSE network router for ESInet/APEX connectivity",
+   "part_numbers": [
+    "PSSE Routers - 8200L"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AT&T Enterprises, LLC",
+   "reason": "This request seeks to ratify the emergency purchase of the sole source \"ESinet\" 911 system with the \"APEX\" add on features from Carbyne Ltd.",
+   "equipment_class": "communications/radio",
+   "installed_location": "DeKalb County E911 Communications Center, 1960 W Exchange Place, Tucker, GA 30084",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "PSSE PoE network switches for ESInet/APEX connectivity",
+   "part_numbers": [
+    "PSSE Switches - PoE"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AT&T Enterprises, LLC",
+   "reason": "This request seeks to ratify the emergency purchase of the sole source \"ESinet\" 911 system with the \"APEX\" add on features from Carbyne Ltd.",
+   "equipment_class": "communications/radio",
+   "installed_location": "DeKalb County E911 Communications Center, 1960 W Exchange Place, Tucker, GA 30084",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Carbyne",
+   "model": "Carbyne Trigger Module (CTM)",
+   "part": "Trigger module hardware with RJ45 POE connection for APEX call handling integration",
+   "part_numbers": [
+    "Carbyne Trigger Module (CTM), RJ45 POE connect on required"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Carbyne Ltd.",
+   "reason": "This request seeks to ratify the emergency purchase of the sole source \"ESinet\" 911 system with the \"APEX\" add on features from Carbyne Ltd.",
+   "equipment_class": "communications/radio",
+   "installed_location": "DeKalb County E911 Communications Center, 1960 W Exchange Place, Tucker, GA 30084",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 63966,
+  "out": 6811
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Plymovent",
+   "model": "Vehicle Exhaust Extraction System",
+   "part": "Servicing of Plymovent Vehicle Exhaust Extraction System at various Fire Stations",
+   "part_numbers": [],
+   "quantity": "All",
+   "price_usd": 300000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Air Cleaning Technologies, Inc",
+   "reason": "the sole and authorized distributor",
+   "equipment_class": "other equipment",
+   "installed_location": "various Fire Stations",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5495,
+  "out": 191
+ },
+ "model": "claude-sonnet-5"
+}

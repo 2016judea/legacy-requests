@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "L3 Harris",
+   "model": "TranSim V57",
+   "part": "Interactive Driving Simulator for CDL and heavy equipment operator training",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 129975.0,
+   "lead_time": null,
+   "sole_source_vendor": "L3 Harris",
+   "reason": "L3 Harris is the sole source provider of real-world driving environments for drivers who operate commercial motor vehicles.",
+   "equipment_class": "other equipment",
+   "installed_location": "DMD/Street Maintenance Division, Training Section",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8345,
+  "out": 205
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": "Thermo Fisher Scientific",
+   "model": "Automate Express",
+   "part": "DNA extraction instrument",
+   "part_numbers": [],
+   "quantity": "two",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies Corporation",
+   "reason": "Only Thermo Fisher Scientific certified field service engineers are authorized to work on these instruments; no third-party service provider is authorized to perform any maintenance or repair Thermo Fisher Scientific equipment.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Police Department Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thermo Fisher Scientific",
+   "model": null,
+   "part": "Real Time Polymerase Chain Reaction (PCR) instrument for DNA sequence amplification",
+   "part_numbers": [],
+   "quantity": "one",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies Corporation",
+   "reason": "Only Thermo Fisher Scientific certified field service engineers are authorized to work on these instruments; no third-party service provider is authorized to perform any maintenance or repair Thermo Fisher Scientific equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Police Department Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thermo Fisher Scientific",
+   "model": "Genetic Analyzer",
+   "part": "Genetic Analyzer instrument",
+   "part_numbers": [],
+   "quantity": "one",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies Corporation",
+   "reason": "Only Thermo Fisher Scientific certified field service engineers are authorized to work on these instruments; no third-party service provider is authorized to perform any maintenance or repair Thermo Fisher Scientific equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Police Department Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thermo Fisher Scientific",
+   "model": null,
+   "part": "Validated system consumables including capillaries, cartridges, chips, polymer, buffers, size standards, and replacement parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 200000,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies Corporation",
+   "reason": "Life Technologies is the documented sole distributor of validated system consumables including capillaries, cartridges, chips, polymer, buffers, size standards, and replacement parts.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Police Department Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thermo Fisher Scientific",
+   "model": null,
+   "part": "Preventative maintenance service for Crime Lab existing Thermo Fisher equipment",
+   "part_numbers": [],
+   "quantity": "6/29/2025 through 6/28/2026",
+   "price_usd": 39440.88,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies Corporation",
+   "reason": "Only Thermo Fisher Scientific certified field service engineers are authorized to work on these instruments; no third-party service provider is authorized to perform any maintenance or repair Thermo Fisher Scientific equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Police Department Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thermo Fisher Scientific",
+   "model": null,
+   "part": "Preventative maintenance service for Crime Lab existing Thermo Fisher equipment",
+   "part_numbers": [],
+   "quantity": "6/29/2026 through 6/28/2027",
+   "price_usd": 41412.93,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies Corporation",
+   "reason": "Only Thermo Fisher Scientific certified field service engineers are authorized to work on these instruments; no third-party service provider is authorized to perform any maintenance or repair Thermo Fisher Scientific equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Police Department Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thermo Fisher Scientific",
+   "model": null,
+   "part": "Preventative maintenance service for Crime Lab existing Thermo Fisher equipment",
+   "part_numbers": [],
+   "quantity": "6/29/2027 through 6/28/2028",
+   "price_usd": 43384.98,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies Corporation",
+   "reason": "Only Thermo Fisher Scientific certified field service engineers are authorized to work on these instruments; no third-party service provider is authorized to perform any maintenance or repair Thermo Fisher Scientific equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Police Department Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Thermo Fisher Scientific",
+   "model": null,
+   "part": "Preventative maintenance service for Crime Lab existing Thermo Fisher equipment",
+   "part_numbers": [],
+   "quantity": "6/29/2028 through 6/28/2029",
+   "price_usd": 45357.0,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies Corporation",
+   "reason": "Only Thermo Fisher Scientific certified field service engineers are authorized to work on these instruments; no third-party service provider is authorized to perform any maintenance or repair Thermo Fisher Scientific equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Police Department Crime Lab",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6858,
+  "out": 2971
+ },
+ "model": "claude-sonnet-5"
+}

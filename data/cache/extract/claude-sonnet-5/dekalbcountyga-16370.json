@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Systems and Software, Inc.",
+   "model": "enQuesta",
+   "part": "Annual hosting, maintenance, and support of state-of-the-art Customer Information System (CIS) solution for the County's customer billing system integration",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 7550000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Systems and Software, Inc.",
+   "reason": "CO - Change Order No. 2 to Contract No. 1365939 enQuesta Annual Hosting, Maintenance, and Support (Sole Source)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Invoice Cloud",
+   "part": "15 months of Invoice Cloud pay on-line services integrated with the enQuesta payment-by-phone services",
+   "part_numbers": [],
+   "quantity": "15 months",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Systems and Software, Inc.",
+   "reason": "for the payment of 15 months of Invoice Cloud pay on-line services and system & software maintenance.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4399,
+  "out": 429
+ },
+ "model": "claude-sonnet-5"
+}

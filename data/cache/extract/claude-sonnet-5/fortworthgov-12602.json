@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Forensic Technology, Inc.",
+   "model": "BrassTrax\u2122 IBIS\u00ae",
+   "part": "Integrated Ballistic Identification System for Police Department Forensic Analysis Laboratory (Crime Lab)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 147494.0,
+   "lead_time": null,
+   "sole_source_vendor": "Forensic Technology, Inc.",
+   "reason": "Forensic Technology, Inc. is the documented sole source for the IBIS\u00ae patented technology and is the only system approved by ATF for integration with NIBIN.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Police Department Forensic Analysis Laboratory (Crime Lab)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3699,
+  "out": 263
+ },
+ "model": "claude-sonnet-5"
+}

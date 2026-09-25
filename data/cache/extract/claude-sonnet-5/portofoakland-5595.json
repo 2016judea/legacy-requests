@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bromma",
+   "model": null,
+   "part": "Replacement spreaders for two Port-owned ship-to-shore cranes (XC-40 and XC-41)",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 446000,
+   "lead_time": "approximately seven months",
+   "sole_source_vendor": "TraPac, LLC",
+   "reason": "TraPac crane operators prefer Bromma spreaders because they are lighter and more maneuverable, resulting in superior performance and productivity.",
+   "equipment_class": "other equipment",
+   "installed_location": "TraPac Terminal",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Existing (old) crane spreaders on Cranes XC-40 and XC-41 designated as surplus and to be disposed/recycled",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The Port will manage the disposal of the two obsolete spreaders within 30 days of installation of new spreaders.",
+   "equipment_class": "other equipment",
+   "installed_location": "TraPac Terminal",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7372,
+  "out": 813
+ },
+ "model": "claude-sonnet-5"
+}

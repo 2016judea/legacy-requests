@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Symphony Console",
+   "part": "radio dispatch communication consoles, including associated engineering, equipment, technical services and licenses",
+   "part_numbers": [],
+   "quantity": "six (6)",
+   "price_usd": 416910,
+   "lead_time": null,
+   "sole_source_vendor": "Dailey and Wells Communication, Inc.",
+   "reason": "Dailey Wells, Inc. is the only regional authorized seller of Harris EDACS equipment.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Operations Control Center (OCC), BART Lake Merritt Complex",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4349,
+  "out": 1003
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axis",
+   "model": null,
+   "part": "Video Surveillance - Axis Cameras",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "required to match LACFCD's existing Supervisory Control and Data Acquisition (SCADA) system in use",
+   "equipment_class": "other equipment",
+   "installed_location": "LA-04 Pump Station Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Salient",
+   "model": null,
+   "part": "Video Surveillance - Salient Video Recorders",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "required to match LACFCD's existing Supervisory Control and Data Acquisition (SCADA) system in use",
+   "equipment_class": "other equipment",
+   "installed_location": "LA-04 Pump Station Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cisco",
+   "model": null,
+   "part": "Video Surveillance - Cisco Network Switches",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "required to match LACFCD's existing Supervisory Control and Data Acquisition (SCADA) system in use",
+   "equipment_class": "other equipment",
+   "installed_location": "LA-04 Pump Station Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sierra Wireless",
+   "model": null,
+   "part": "Video Surveillance - Sierra Wireless Modem / Gateways",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "required to match LACFCD's existing Supervisory Control and Data Acquisition (SCADA) system in use",
+   "equipment_class": "communications/radio",
+   "installed_location": "LA-04 Pump Station Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MurCal",
+   "model": null,
+   "part": "Pump Programmable Logic Controllers (PLC)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Sole sourcing these products is required for compatibility in operations and maintenance of LACFCD existing equipment and its multiple flood control pump stations.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "LA-04 Pump Station Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Automation Direct",
+   "model": null,
+   "part": "Main Programmable Logic Controllers (PLC)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Sole sourcing these products is required for compatibility in operations and maintenance of LACFCD existing equipment and its multiple flood control pump stations.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "LA-04 Pump Station Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Telemetry System - Radios",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "required to match LACFCD's existing Supervisory Control and Data Acquisition (SCADA) system in use",
+   "equipment_class": "communications/radio",
+   "installed_location": "LA-04 Pump Station Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Telemetry System - Remotes",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "required to match LACFCD's existing Supervisory Control and Data Acquisition (SCADA) system in use",
+   "equipment_class": "communications/radio",
+   "installed_location": "LA-04 Pump Station Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6724,
+  "out": 2057
+ },
+ "model": "claude-sonnet-5"
+}

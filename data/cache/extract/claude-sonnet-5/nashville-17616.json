@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Carmanah",
+   "model": null,
+   "part": "Carmanah traffic control devices, products, equipment, and parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Temple, Inc.",
+   "reason": "NDOT currently operates and manages over 250 Carmanah products within Davidson County. Continuing to use Carmanah products will maintain equipment consistency.",
+   "equipment_class": "other equipment",
+   "installed_location": "Nashville and Davidson County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Carmanah",
+   "model": "MX Series",
+   "part": "Circular flashing crosswalk beacons (RRFB technology)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Temple, Inc.",
+   "reason": "their circular flashing crosswalk beacons, a key aspect of the MX Series, enhance pedestrian safety through high-intensity LEDs for superior visibility and driver compliance",
+   "equipment_class": "other equipment",
+   "installed_location": "Nashville and Davidson County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 81898,
+  "out": 420
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Modern Railway Systems, Inc.",
+   "model": "E-Line Track Driver eXtra (TDX)",
+   "part": "Proprietary software and maintenance support services for railway control system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 823817.27,
+   "lead_time": null,
+   "sole_source_vendor": "Modern Railway Systems, Inc.",
+   "reason": "The software is proprietary and is exclusively available from Modern Railway Systems, Inc., which also offers troubleshooting and maintenance support.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "E-Line",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3727,
+  "out": 225
+ },
+ "model": "claude-sonnet-5"
+}

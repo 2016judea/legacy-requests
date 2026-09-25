@@ -1,0 +1,36 @@
+{
+ "records": [
+  {
+   "manufacturer": "Agilent Technologies, Inc.",
+   "model": "GCMS 8890/5977C",
+   "part": "Gas Chromatography Mass Spectrometer (GCMS) system for Crime Lab, including mainframe, MSD, library, autoinjector, tray, install kit",
+   "part_numbers": [
+    "G3542A",
+    "G7077CA",
+    "G1041C",
+    "G4513A",
+    "G4514A",
+    "19199N"
+   ],
+   "quantity": "1",
+   "price_usd": 124257.5,
+   "lead_time": "8 weeks",
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "Agilent Technologies is the sole ISO 9001-certified equipment manufacturer of the GCMS configured with options and proprietary software used by the Crime Lab.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Police Department Forensic Analysis Laboratory (Crime Lab)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9412,
+  "out": 1010
+ },
+ "model": "claude-sonnet-5"
+}

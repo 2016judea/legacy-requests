@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Flygt",
+   "model": null,
+   "part": "Flygt Pump and Motor Repairs - disassembly, repair, remanufacturing of centrifugal and submersible pumps/motors (2-500 HP) and related sales of new units",
+   "part_numbers": [],
+   "quantity": "approximately 270 Flygt pump/motor units",
+   "price_usd": 775000,
+   "lead_time": null,
+   "sole_source_vendor": "Xylem Water Solutions USA, Inc",
+   "reason": "Xylem Water Solutions serves as the exclusive distributor of Flygt submersible pumps, mixers, and spare parts",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 42699,
+  "out": 1690
+ },
+ "model": "claude-sonnet-5"
+}

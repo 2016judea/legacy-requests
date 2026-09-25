@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Autocar",
+   "model": null,
+   "part": "Autocar proprietary parts and service for Autocar chassis refuse vehicles",
+   "part_numbers": [],
+   "quantity": "119 Refuse vehicles on Autocar Chassis",
+   "price_usd": 1140000.0,
+   "lead_time": null,
+   "sole_source_vendor": "TE El Paso, LLC dba Vernon Gene's Megastore",
+   "reason": "TE El Paso, LLC dba Vernon Gene's Megastore is the exclusive and only provider of Autocar service parts in the El Paso marketplace.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "El Paso, TX - Fleet Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8227,
+  "out": 329
+ },
+ "model": "claude-sonnet-5"
+}

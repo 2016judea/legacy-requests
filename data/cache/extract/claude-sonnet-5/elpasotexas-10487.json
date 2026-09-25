@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stertil-Koni",
+   "model": null,
+   "part": "Lift Parts, Equipment and Services for Stertil Koni vehicular lifting equipment",
+   "part_numbers": [],
+   "quantity": "All",
+   "price_usd": 270000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Performance Equipment of El Paso, Inc.",
+   "reason": "Performance Equipment of El Paso, Inc. is the sole and authorized distributor of Stertil Koni products.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sun Metro",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9173,
+  "out": 208
+ },
+ "model": "claude-sonnet-5"
+}

@@ -25,3 +25,48 @@ stockton: 3 matters sent, 5 records
 stpaul: 0 matters sent, 0 records
 TOTAL 1051 records (78 duplicates dropped); tokens in=6,009,418 out=714,557
 EXIT 0
+
+== 2026-09-24: 37 new Legistar clients (claude-sonnet-5, $3/$15 per M) ==
+mwrd: 21 matters sent, 47 records
+polb: 12 matters sent, 71 records
+scvwd: 9 matters sent, 12 records
+bart: 25 matters sent, 34 records
+actransit: 8 matters sent, 19 records
+metro: 6 matters sent, 11 records
+octa: 4 matters sent, 10 records
+portofoakland: 9 matters sent, 17 records
+pima: 25 matters sent, 136 records
+contra-costa: 11 matters sent, 11 records
+corpuschristi: 14 matters sent, 115 records
+toledo: 13 matters sent, 17 records
+fulton: 12 matters sent, 52 records
+riversideca: 14 matters sent, 40 records
+cityoftacoma: 3 matters sent, 4 records
+charlottenc: 3 matters sent, 6 records
+dekalbcountyga: 87 matters sent, 387 records
+cityofdallas: 84 matters sent, 69 records
+fortworthgov: 54 matters sent, 82 records
+snohomish: 3 matters sent, 4 records
+jaxcityc: 4 matters sent, 3 records
+dane: 6 matters sent, 15 records
+lakecounty: 0 matters sent, 0 records
+sanmateocounty: 2 matters sent, 0 records
+sonoma-county: 5 matters sent, 17 records
+solano: 3 matters sent, 8 records
+maricopa: 0 matters sent, 0 records
+cabq: 4 matters sent, 2 records
+milwaukeecounty: 8 matters sent, 9 records
+elpasotexas: 61 matters sent, 175 records
+TOTAL 1240 records (47 duplicates, 86 competitively bid rows dropped); tokens in=6,697,172 out=632,777
+THIS RUN: 510 new model calls, in=6,697,172 out=632,777, $29.58
+nashville: 43 matters sent, 197 records
+fresnocounty: 40 matters sent, 129 records
+eldorado: 29 matters sent, 131 records
+cook-county: 93 matters sent, 56 records
+napa: 47 matters sent, 87 records
+santabarbara: 23 matters sent, 105 records
+madison: 30 matters sent, 28 records
+coloradosprings: 0 matters sent, 0 records
+TOTAL 713 records (8 duplicates, 12 competitively bid rows dropped); tokens in=6,828,638 out=310,242
+THIS RUN: 305 new model calls, in=6,828,638 out=310,242, $25.14
+RUN SPEND: $29.58 + $25.14 = $54.72 (815 new model calls, in=13,525,810 out=943,019)

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "VL75 porcelain tile",
+   "part": "12\" VL75 porcelain tile (11.8\" actual) custom decorated for a 60' x 18' tile mural",
+   "part_numbers": [],
+   "quantity": "1,080",
+   "price_usd": 30780.0,
+   "lead_time": "8-10 weeks from the date of the final design/proof approval",
+   "sole_source_vendor": "Enduring Images, Inc.",
+   "reason": "Staff has identified Enduring Images, Inc. as uniquely capable of producing a cost-effective long-term tile solution. Their patented proprietary process utilizes the laser printing of true ceramic pigment...",
+   "equipment_class": "other equipment",
+   "installed_location": "Superior Court Building wall in Lompoc, CA",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9604,
+  "out": 275
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cummins, Inc.",
+   "model": null,
+   "part": "Bus parts not under warranty but manufactured only by Cummins",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Cummins, Inc.",
+   "reason": "only these companies manufacture compatible parts for their own equipment already in Metro Transit's bus fleet",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gillig, LLC",
+   "model": null,
+   "part": "Bus parts not under warranty but manufactured only by Gillig",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gillig, LLC",
+   "reason": "only these companies manufacture compatible parts for their own equipment already in Metro Transit's bus fleet",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Transit Holding, Inc. (dba New Flyer)",
+   "model": null,
+   "part": "Bus parts not under warranty but manufactured only by Transit Holding, Inc. (dba New Flyer)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Transit Holding, Inc. (dba New Flyer)",
+   "reason": "only these companies manufacture compatible parts for their own equipment already in Metro Transit's bus fleet",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Clever Devices, Inc.",
+   "model": null,
+   "part": "Bus parts not under warranty but manufactured only by Clever Devices",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Clever Devices, Inc.",
+   "reason": "only these companies manufacture compatible parts for their own equipment already in Metro Transit's bus fleet",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Interstate Power Systems, Inc.",
+   "model": null,
+   "part": "Bus parts not under warranty but manufactured only by Interstate Power Systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Interstate Power Systems, Inc.",
+   "reason": "only these companies manufacture compatible parts for their own equipment already in Metro Transit's bus fleet",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SPX Corporation",
+   "model": null,
+   "part": "Bus parts not under warranty but manufactured only by SPX Corporation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SPX Corporation",
+   "reason": "only these companies manufacture compatible parts for their own equipment already in Metro Transit's bus fleet",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2684,
+  "out": 1238
+ },
+ "model": "claude-sonnet-5"
+}

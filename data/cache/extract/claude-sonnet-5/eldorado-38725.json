@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Security system monitoring, as-needed maintenance and repairs, and emergency repair services for security and access control systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 400000,
+   "lead_time": null,
+   "sole_source_vendor": "Sonitrol of Sacramento LLC",
+   "reason": "security system monitoring, as-needed maintenance and repairs, and emergency repair services for security and access control systems requires specialty skills and qualifications not expressly identified in County classifications",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "various County-operated facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 1
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5641,
+  "out": 225
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Caterpillar",
+   "model": null,
+   "part": "Original Equipment Manufacturer Caterpillar parts to repair and maintain heavy equipment fleet",
+   "part_numbers": [],
+   "quantity": "127 Caterpillar heavy equipment units (32 under warranty)",
+   "price_usd": 1080000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Holt Texas, LTD.",
+   "reason": "No other vendor has the diagnostic software to handle the repairs except Caterpillar. Non-OEM parts would directly influence the performance and reliability of the equipment operation.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3261,
+  "out": 244
+ },
+ "model": "claude-sonnet-5"
+}

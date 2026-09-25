@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": "Peraton",
+   "model": "CAD to CAD (C2C)",
+   "part": "CAD to CAD services and software between Napa County Fire/CAL FIRE LNU Peraton Altaris CAD and City of Napa Central Square Hub CAD, including gateway/database installation, Go-Live, and 2 years maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 285000,
+   "lead_time": "The estimated implementation period is three months.",
+   "sole_source_vendor": "Peraton, Inc.",
+   "reason": "Consultant was selected to provide professional services without a competitive process because the professional services needed are only available from one source.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Napa County Fire/CAL FIRE LNU",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Peraton",
+   "model": "CAD to CAD Gateway Software",
+   "part": "Software license and labor cost for Year 1 implementation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 118740,
+   "lead_time": null,
+   "sole_source_vendor": "Peraton, Inc.",
+   "reason": "Request waiver of competitive bidding requirements and sole source award for $285,000 to Peraton, Inc. due to technical compatibility requirements, pursuant to County Ordinance Code 2.36.090.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Napa County Fire/CAL FIRE LNU",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Peraton",
+   "model": "CAD to CAD Gateway and SQL Database",
+   "part": "Labor and installation for gateway and database",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 33120,
+   "lead_time": null,
+   "sole_source_vendor": "Peraton, Inc.",
+   "reason": "Request waiver of competitive bidding requirements and sole source award for $285,000 to Peraton, Inc. due to technical compatibility requirements, pursuant to County Ordinance Code 2.36.090.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Napa County Fire/CAL FIRE LNU",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Peraton",
+   "model": "CAD to CAD",
+   "part": "GoLive and Acceptance labor along with 1st year maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 48120,
+   "lead_time": null,
+   "sole_source_vendor": "Peraton, Inc.",
+   "reason": "Request waiver of competitive bidding requirements and sole source award for $285,000 to Peraton, Inc. due to technical compatibility requirements, pursuant to County Ordinance Code 2.36.090.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Napa County Fire/CAL FIRE LNU",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Amazon",
+   "model": "AWS",
+   "part": "Estimated annual AWS (Amazon Web Service) usage for hosting Gateway & SQL database servers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 17000,
+   "lead_time": null,
+   "sole_source_vendor": "Peraton, Inc.",
+   "reason": "These Servers/VMs cannot be installed in the CAL FIRE network. Customer has requested Peraton to provide an AWS instance to house the Gateway & SQL database servers.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Microsoft",
+   "model": "SQL Server Standard",
+   "part": "Recommended SQL Server license and software assurance per SQL Server/VM",
+   "part_numbers": [],
+   "quantity": "1 license",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Licenses Recommended per SQL Server/VM: Microsoft SQL Server Standard - license - 1 license",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Microsoft",
+   "model": "Windows Server",
+   "part": "Operating system for Gateway and SQL Servers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Windows Server 2019 minimum, 2022 recommended- Any edition",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 42586,
+  "out": 1503
+ },
+ "model": "claude-sonnet-5"
+}

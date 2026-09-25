@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "JetWind Power Corporation",
+   "model": "Energy Capturing Pod System",
+   "part": "Purchase, installation, and maintenance of Energy Capturing Pod System pods and equipment that capture exhaust from aircraft engines and convert it to clean renewable energy",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1311910.0,
+   "lead_time": null,
+   "sole_source_vendor": "JetWind Power Corporation",
+   "reason": "No other vendor currently offers this product, JetWind Power Corporation is the sole source provider.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Dallas Love Field Airport",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3004,
+  "out": 264
+ },
+ "model": "claude-sonnet-5"
+}

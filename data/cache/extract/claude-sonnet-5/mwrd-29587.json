@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "SEPA 3 and 4 Screw Pumps",
+   "part": "Lower Bearing Assembly for the SEPA 3 and 4 Screw Pumps",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 68000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies LLC",
+   "reason": "Evoqua Water Technologies LLC is the only source of supply for this lower bearing assembly",
+   "equipment_class": "pump",
+   "installed_location": "Calumet Water Reclamation Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2705,
+  "out": 213
+ },
+ "model": "claude-sonnet-5"
+}

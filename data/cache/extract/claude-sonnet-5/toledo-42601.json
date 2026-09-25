@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Mobile Data Terminals (MDT) replacement for Police and Fire vehicles",
+   "part_numbers": [],
+   "quantity": "over 160",
+   "price_usd": 845000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This update will make over 160 emergency vehicle MDTs obsolete.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Police and Fire emergency vehicles",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2959,
+  "out": 470
+ },
+ "model": "claude-sonnet-5"
+}

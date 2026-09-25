@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Electrical equipment that serves ship to shore cranes at Berths 61, 62, and 63",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 400000,
+   "lead_time": null,
+   "sole_source_vendor": "Wesco International, Inc.",
+   "reason": "WAIVE FORMAL COMPETITIVE PROCUREMENT PROCEDURES AND ENTER INTO A CONTRACT WITH WESCO INTERNATIONAL, INC. TO FURNISH ELECTRICAL EQUIPMENT",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Berths 61, 62, and 63",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Existing electrical transformer",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "DESIGNATE AN EXISTING ELECTRICAL TRANSFORMER AS NO LONGER USED, INADEQUATE, OBSOLETE OR WORN-OUT",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Berths 61, 62, and 63",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4436,
+  "out": 615
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "O'Neil Records Management Software (RMS)",
+   "part": "Off-site records storage system/service for County Clerk Superior Court records, compatible with O'Neil Records Management software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 125000.0,
+   "lead_time": null,
+   "sole_source_vendor": "GRM Information Management Services",
+   "reason": "GRM is the sole vendor utilizing the same software,O'Neil Systems, as DeKalb County Records Management Program. This allows seamless systems interface, allows electronic transfer of existing data, promotes data integrity and avoids additional costs for data entry.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "County Clerk Superior Court",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 22760,
+  "out": 268
+ },
+ "model": "claude-sonnet-5"
+}

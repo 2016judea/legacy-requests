@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Backup Generator - 1,000 KW",
+   "part_numbers": [],
+   "quantity": "1 LS",
+   "price_usd": 1055000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Lowest Responsive and Responsible Bidder",
+   "equipment_class": "generator",
+   "installed_location": "LA-04 Pump Station, Pier B Street",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Bridge Crane",
+   "part_numbers": [],
+   "quantity": "1 EA",
+   "price_usd": 262000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Lowest Responsive and Responsible Bidder",
+   "equipment_class": "other equipment",
+   "installed_location": "LA-04 Pump Station, Pier B Street",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Turbine Pump - 250 HP",
+   "part_numbers": [],
+   "quantity": "4 EA",
+   "price_usd": 2236000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Lowest Responsive and Responsible Bidder",
+   "equipment_class": "pump",
+   "installed_location": "LA-04 Pump Station, Pier B Street",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Submersible Pump - 50 HP",
+   "part_numbers": [],
+   "quantity": "1 EA",
+   "price_usd": 105000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Lowest Responsive and Responsible Bidder",
+   "equipment_class": "pump",
+   "installed_location": "LA-04 Pump Station, Pier B Street",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 16837,
+  "out": 2083
+ },
+ "model": "claude-sonnet-5"
+}

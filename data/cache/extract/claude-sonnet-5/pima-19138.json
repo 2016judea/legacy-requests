@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Community Emergency Response Team (CERT) backpacks",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1800.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Funding provided to support training by procuring Community Emergency Response Team (CERT) backpacks",
+   "equipment_class": "other equipment",
+   "installed_location": "Pima County Office of Emergency Management",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 22070,
+  "out": 1081
+ },
+ "model": "claude-sonnet-5"
+}

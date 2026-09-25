@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vaughan",
+   "model": null,
+   "part": "Pumps, parts, and equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gasvoda & Associates, Inc.",
+   "reason": "Gasvoda & Associates, Inc., the sole source distributor for these pumps, parts, and equipment, has submitted pricing for the material required.",
+   "equipment_class": "pump",
+   "installed_location": "various locations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "YSI",
+   "model": null,
+   "part": "Instrumentation parts and equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gasvoda & Associates, Inc.",
+   "reason": "Gasvoda & Associates, Inc., the sole source distributor for these pumps, parts, and equipment, has submitted pricing for the material required.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "various locations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Grundfos",
+   "model": null,
+   "part": "Pumps, parts, and equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gasvoda & Associates, Inc.",
+   "reason": "Gasvoda & Associates, Inc., the sole source distributor for these pumps, parts, and equipment, has submitted pricing for the material required.",
+   "equipment_class": "pump",
+   "installed_location": "various locations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Chicago Pumps",
+   "model": null,
+   "part": "Pumps, parts, and equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gasvoda & Associates, Inc.",
+   "reason": "Gasvoda & Associates, Inc., the sole source distributor for these pumps, parts, and equipment, has submitted pricing for the material required.",
+   "equipment_class": "pump",
+   "installed_location": "various locations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Yeomans",
+   "model": null,
+   "part": "Pumps, parts, and equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gasvoda & Associates, Inc.",
+   "reason": "Gasvoda & Associates, Inc., the sole source distributor for these pumps, parts, and equipment, has submitted pricing for the material required.",
+   "equipment_class": "pump",
+   "installed_location": "various locations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Emerson EIM/Bettis",
+   "model": null,
+   "part": "Valve actuator equipment and parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gasvoda & Associates, Inc.",
+   "reason": "Due to market volatility, pricing for Emerson EIM/Bettis and Vaughan equipment, as needed, will be based on market pricing, determined by quotation at the time of request.",
+   "equipment_class": "valve",
+   "installed_location": "various locations",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3173,
+  "out": 1518
+ },
+ "model": "claude-sonnet-5"
+}

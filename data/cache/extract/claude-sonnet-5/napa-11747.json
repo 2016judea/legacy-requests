@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Modify two mechanic service trucks - add bolt bin for right first compartment and line truck bed, walls, and work bench with LineX",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 16000,
+   "lead_time": null,
+   "sole_source_vendor": "Interstate Assembly Systems",
+   "reason": "This is due to the technical compatibility of the mechanic service trucks and the vendor capacity to provide the required equipment and service.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3015,
+  "out": 205
+ },
+ "model": "claude-sonnet-5"
+}

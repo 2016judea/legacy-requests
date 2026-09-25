@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Pump Repair Service (labor, machining/welding, and parts discount) under Master Agreement for repair of various industrial pump brands",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 482000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Bestway Electric Motor Service Co., Inc.",
+   "reason": "Award is recommended to the lowest, responsive and responsible Bidder.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "various County facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 23454,
+  "out": 845
+ },
+ "model": "claude-sonnet-5"
+}

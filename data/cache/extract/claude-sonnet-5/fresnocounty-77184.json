@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Just Appraised Inc.",
+   "model": "Just Appraised Deeds Solution (Transfer of Ownership application)",
+   "part": "Software-as-a-service platform for facilitation of recorded document processing / deed data extraction and CAMA integration",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 858064,
+   "lead_time": null,
+   "sole_source_vendor": "Just Appraised Inc.",
+   "reason": "Just Appraised Inc. is the only vendor that has proven integration with the County's CAMA environment",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Assessor-Recorder's Office, County of Fresno",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 42628,
+  "out": 241
+ },
+ "model": "claude-sonnet-5"
+}

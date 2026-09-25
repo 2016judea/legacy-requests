@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Transitair Systems, LLC",
+   "model": null,
+   "part": "HVAC evaporator fans for revenue vehicles",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2186828,
+   "lead_time": null,
+   "sole_source_vendor": "Transitair Systems, LLC",
+   "reason": "Transitair is the original equipment manufacturer (OEM) of the revenue vehicle HVAC fan and the fan is proprietary to Transitair.",
+   "equipment_class": "HVAC",
+   "installed_location": "revenue vehicles",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3814,
+  "out": 203
+ },
+ "model": "claude-sonnet-5"
+}

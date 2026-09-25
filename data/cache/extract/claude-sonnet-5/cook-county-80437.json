@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cummins-Allison",
+   "model": null,
+   "part": "Purchase of Money Counters and Citizen Printers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 256203.6,
+   "lead_time": null,
+   "sole_source_vendor": "Cummins-Allison, a CPI Brand dba Cummins-Allison Corp",
+   "reason": "Cummins-Allison is the sole proprietary vendor authorized to provide the parts, equipment, and software required for the operation and service of Cummins-Allison money counter machines and citizen printers.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Cummins-Allison",
+   "model": null,
+   "part": "Maintenance and repair services for Money Counters and Citizen Printers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 132947.2,
+   "lead_time": null,
+   "sole_source_vendor": "Cummins-Allison, a CPI Brand dba Cummins-Allison Corp",
+   "reason": "In addition, Cummins-Allison currently provides maintenance and repair services for the existing money counter machines and citizen printers currently in use.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3650,
+  "out": 928
+ },
+ "model": "claude-sonnet-5"
+}

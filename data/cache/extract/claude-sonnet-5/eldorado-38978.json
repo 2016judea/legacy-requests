@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": "Flock Safety",
+   "model": "Flock Safety Platform (FlockOS)",
+   "part": "License Plate Recognition cameras and proprietary software platform (cloud-based, includes hardware, software, technical support and maintenance)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 50000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Flock Safety",
+   "reason": "Flock Safety is the sole manufacturer of the LPR cameras and the exclusive provider of the integrated hardware, proprietary software platform, technical support, and ongoing maintenance services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "El Dorado County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Flock Safety",
+   "model": "Flock Safety LPR, fka Falcon",
+   "part": "Law enforcement grade infrastructure-free (solar power + LTE) license plate recognition camera with Vehicle Fingerprint proprietary machine learning software",
+   "part_numbers": [],
+   "quantity": "8",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Flock Safety",
+   "reason": "Flock Safety is the sole manufacturer of the LPR cameras and the exclusive provider of the integrated hardware, proprietary software platform, technical support, and ongoing maintenance services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "El Dorado County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Flock Safety",
+   "model": "Solar Long-Range LPR, fka Solar Falcon LR",
+   "part": "Long range and high vehicle speed license plate recognition camera with Vehicle Fingerprint technology, LTE, solar power only",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Flock Safety",
+   "reason": "Flock Safety is the sole manufacturer of the LPR cameras and the exclusive provider of the integrated hardware, proprietary software platform, technical support, and ongoing maintenance services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "El Dorado County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Flock Safety",
+   "model": "Solar Video Camera, fka Condor",
+   "part": "Law enforcement grade solar-powered video fixed camera addition to existing LPR install",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Flock Safety",
+   "reason": "Flock Safety is the sole manufacturer of the LPR cameras and the exclusive provider of the integrated hardware, proprietary software platform, technical support, and ongoing maintenance services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "El Dorado County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Flock Safety",
+   "model": "Enhanced LPR Upgrade",
+   "part": "Software add-on for FlockOS tiers providing advanced License Plate Recognition features for investigations",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Flock Safety",
+   "reason": "Flock Safety is the sole manufacturer of the LPR cameras and the exclusive provider of the integrated hardware, proprietary software platform, technical support, and ongoing maintenance services.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "El Dorado County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Professional Services - Standard Implementation Fee (site/safety assessment, camera setup and testing, shipping and handling)",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": 2600.0,
+   "lead_time": null,
+   "sole_source_vendor": "Flock Safety",
+   "reason": "Flock Safety is the sole manufacturer of the LPR cameras and the exclusive provider of the integrated hardware, proprietary software platform, technical support, and ongoing maintenance services.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "El Dorado County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Professional Services - Advanced Implementation Fee (site/safety assessment, camera setup and testing, shipping and handling)",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": 7600.0,
+   "lead_time": null,
+   "sole_source_vendor": "Flock Safety",
+   "reason": "Flock Safety is the sole manufacturer of the LPR cameras and the exclusive provider of the integrated hardware, proprietary software platform, technical support, and ongoing maintenance services.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "El Dorado County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Professional Services - MASH Tested Pole Implementation Fee - Non-Coastal Region (MASH tested pole meeting DOT crashworthiness requirements, includes materials, installation, maintenance)",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 2500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Flock Safety",
+   "reason": "Flock Safety is the sole manufacturer of the LPR cameras and the exclusive provider of the integrated hardware, proprietary software platform, technical support, and ongoing maintenance services.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "El Dorado County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Professional Services - Existing Infrastructure Implementation Fee (site/safety assessment of existing vertical infrastructure, camera setup and testing, shipping and handling)",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 300.0,
+   "lead_time": null,
+   "sole_source_vendor": "Flock Safety",
+   "reason": "Flock Safety is the sole manufacturer of the LPR cameras and the exclusive provider of the integrated hardware, proprietary software platform, technical support, and ongoing maintenance services.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "El Dorado County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 23698,
+  "out": 2110
+ },
+ "model": "claude-sonnet-5"
+}

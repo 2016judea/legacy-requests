@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Intergraph Corporation",
+   "model": null,
+   "part": "Maintenance services for records management system (RMS) utilized by the Metropolitan Nashville Police Department",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 658852.98,
+   "lead_time": null,
+   "sole_source_vendor": "Intergraph Corporation",
+   "reason": "Intergraph is the sole provider of maintenance and support for the Records Management System (\"RMS\") currently in use by MNPD.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Metropolitan Nashville Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 55868,
+  "out": 221
+ },
+ "model": "claude-sonnet-5"
+}

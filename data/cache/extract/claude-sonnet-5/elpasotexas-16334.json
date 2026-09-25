@@ -1,0 +1,145 @@
+{
+ "records": [
+  {
+   "manufacturer": "The Revenue Markets, Inc. (TRMI)",
+   "model": null,
+   "part": "Computerized Toll Collection System Maintenance Agreement (support for revenue collection equipment and software applications)",
+   "part_numbers": [],
+   "quantity": "1 Year",
+   "price_usd": 250000.0,
+   "lead_time": null,
+   "sole_source_vendor": "The Revenue Markets, Inc.",
+   "reason": "TRMI is the designer and developer for the hardware and software for this system. We are the only integrator of record who can install and produce changes to our design and specifications.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City of El Paso International Bridges",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "RFID Tags (min order 2,000)",
+   "part_numbers": [
+    "75-0302-3247-6"
+   ],
+   "quantity": "1",
+   "price_usd": 3.55,
+   "lead_time": null,
+   "sole_source_vendor": "The Revenue Markets, Inc.",
+   "reason": "TRMI is the designer, developer and integrator for the hardware and software for the toll collection system. We are the only one who can install and make changes to our design and specifications.",
+   "equipment_class": "other equipment",
+   "installed_location": "City of El Paso International Bridges",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "8.5' 4C - Downlead Treadle",
+   "part": "8.5' 4C - Downlead Treadle",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 5088.0,
+   "lead_time": null,
+   "sole_source_vendor": "The Revenue Markets, Inc.",
+   "reason": "TRMI is the designer, developer and integrator for the hardware and software for the toll collection system. We are the only one who can install and make changes to our design and specifications.",
+   "equipment_class": "other equipment",
+   "installed_location": "City of El Paso International Bridges",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ELO",
+   "model": "15\" Touch Screen",
+   "part": "15\" ELO Touch Screen (17\" has been discontinued)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 903.0,
+   "lead_time": null,
+   "sole_source_vendor": "The Revenue Markets, Inc.",
+   "reason": "15\" ELO Touch Screen (17\" has been discontinued)",
+   "equipment_class": "other equipment",
+   "installed_location": "City of El Paso International Bridges",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": "Toll Pro Gate",
+   "part": "Toll Pro Gate",
+   "part_numbers": [
+    "RC01002"
+   ],
+   "quantity": "1",
+   "price_usd": 5707.0,
+   "lead_time": null,
+   "sole_source_vendor": "The Revenue Markets, Inc.",
+   "reason": "TRMI is the designer, developer and integrator for the hardware and software for the toll collection system. We are the only one who can install and make changes to our design and specifications.",
+   "equipment_class": "other equipment",
+   "installed_location": "City of El Paso International Bridges",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "10' Alum. Swing Away Gate Arm",
+   "part": "10' Alum. Swing Away Gate Arm",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 931.0,
+   "lead_time": null,
+   "sole_source_vendor": "The Revenue Markets, Inc.",
+   "reason": "TRMI is the designer, developer and integrator for the hardware and software for the toll collection system. We are the only one who can install and make changes to our design and specifications.",
+   "equipment_class": "other equipment",
+   "installed_location": "City of El Paso International Bridges",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Banner",
+   "model": "Photo Sensors (for Traffic Gates)",
+   "part": "Banner Photo Sensors (for Traffic Gates)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 329.0,
+   "lead_time": null,
+   "sole_source_vendor": "The Revenue Markets, Inc.",
+   "reason": "TRMI is the designer, developer and integrator for the hardware and software for the toll collection system. We are the only one who can install and make changes to our design and specifications.",
+   "equipment_class": "other equipment",
+   "installed_location": "City of El Paso International Bridges",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Banner",
+   "model": "Photo Sensor Brackets",
+   "part": "Banner Photo Sensor Brackets",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 24.0,
+   "lead_time": null,
+   "sole_source_vendor": "The Revenue Markets, Inc.",
+   "reason": "TRMI is the designer, developer and integrator for the hardware and software for the toll collection system. We are the only one who can install and make changes to our design and specifications.",
+   "equipment_class": "other equipment",
+   "installed_location": "City of El Paso International Bridges",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Photo Sensor Hoods",
+   "part": "Photo Sensor Hoods",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 90.0,
+   "lead_time": null,
+   "sole_source_vendor": "The Revenue Markets, Inc.",
+   "reason": "TRMI is the designer, developer and integrator for the hardware and software for the toll collection system. We are the only one who can install and make changes to our design and specifications.",
+   "equipment_class": "other equipment",
+   "installed_location": "City of El Paso International Bridges",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18126,
+  "out": 4066
+ },
+ "model": "claude-sonnet-5"
+}

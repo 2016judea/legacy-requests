@@ -1,0 +1,88 @@
+{
+ "records": [
+  {
+   "manufacturer": "Kovalus Separation Solutions (KSS)",
+   "model": "PURON",
+   "part": "Initial downpayment to purchase membranes to buildout Snapfinger AWTF (SFAWTF) membrane clusters 1-4",
+   "part_numbers": [
+    "PURON\u00ae PSH 1800-44-GG",
+    "PURON\u00ae PSH-41"
+   ],
+   "quantity": "40 membrane modules; 1,280 membrane rows",
+   "price_usd": 550000,
+   "lead_time": "40-week lead time",
+   "sole_source_vendor": "Kovalus Separation Solutions, LLC",
+   "reason": "SFAWTF MBR Clusters 1-4 are filled with KSS membranes with remaining life of ~10 years. It would cost millions of dollars to use another membrane manufacturer, well surpassing the cost of buildout with KSS membranes.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Snapfinger Advanced Wastewater Treatment Facility (SFAWTF) Clusters 1-4",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kovalus Separation Solutions (KSS)",
+   "model": "PURON PSH1800",
+   "part": "Membrane traverses for lifting and installation of PURON PSH1800 membrane modules",
+   "part_numbers": [],
+   "quantity": "40",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kovalus Separation Solutions, LLC",
+   "reason": "SFAWTF MBR Clusters 1-4 are filled with KSS membranes with remaining life of ~10 years. It would cost millions of dollars to use another membrane manufacturer, well surpassing the cost of buildout with KSS membranes.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Snapfinger Advanced Wastewater Treatment Facility (SFAWTF) Clusters 1-4",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kovalus Separation Solutions (KSS)",
+   "model": "PURON PSH1800",
+   "part": "Module connection kits to connect the PURON PSH1800 modules (permeate and aeration kits)",
+   "part_numbers": [],
+   "quantity": "40",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kovalus Separation Solutions, LLC",
+   "reason": "SFAWTF MBR Clusters 1-4 are filled with KSS membranes with remaining life of ~10 years. It would cost millions of dollars to use another membrane manufacturer, well surpassing the cost of buildout with KSS membranes.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Snapfinger Advanced Wastewater Treatment Facility (SFAWTF) Clusters 1-4",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kovalus Separation Solutions (KSS)",
+   "model": "PURON PSH1800",
+   "part": "Module isolation valves for the PURON PSH1800 modules; includes forty (40) permeate isolation valves and eighty (80) aeration isolation valves",
+   "part_numbers": [],
+   "quantity": "lot (40 permeate + 80 aeration valves)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kovalus Separation Solutions, LLC",
+   "reason": "SFAWTF MBR Clusters 1-4 are filled with KSS membranes with remaining life of ~10 years. It would cost millions of dollars to use another membrane manufacturer, well surpassing the cost of buildout with KSS membranes.",
+   "equipment_class": "valve",
+   "installed_location": "Snapfinger Advanced Wastewater Treatment Facility (SFAWTF) Clusters 1-4",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kovalus Separation Solutions (KSS)",
+   "model": "PURON PSH1800",
+   "part": "Spare connection kit to connect the PURON PSH1800 modules (permeate and aeration kits)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kovalus Separation Solutions, LLC",
+   "reason": "SFAWTF MBR Clusters 1-4 are filled with KSS membranes with remaining life of ~10 years. It would cost millions of dollars to use another membrane manufacturer, well surpassing the cost of buildout with KSS membranes.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Snapfinger Advanced Wastewater Treatment Facility (SFAWTF) Clusters 1-4",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 46747,
+  "out": 1614
+ },
+ "model": "claude-sonnet-5"
+}

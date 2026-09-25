@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Dominion Voting Systems",
+   "model": "ImageCast",
+   "part": "Emergency ballot printing services utilizing ImageCast Ballots on Dominion security ballot stock",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 200000.0,
+   "lead_time": "48 hours",
+   "sole_source_vendor": "The Tattnall Journal dba Tattnall Ballot Solutions, Inc.",
+   "reason": "This vendor is a designated qualified manufacturer and finisher of ImageCast ballots located in the state of Georgia.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7656,
+  "out": 1816
+ },
+ "model": "claude-sonnet-5"
+}

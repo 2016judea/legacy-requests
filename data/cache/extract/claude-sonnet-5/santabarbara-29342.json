@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "NOAA Weather Radios",
+   "part_numbers": [],
+   "quantity": "950",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The project will fund the purchase and distribution of approximately 950 NOAA Weather Radios, as well as assistive devices (i.e. strobe lights and pillow shakers) at no cost to eligible individuals.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Santa Barbara County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Assistive devices (strobe lights and pillow shakers) paired with NOAA Weather Radios",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "as well as assistive devices (i.e. strobe lights and pillow shakers) at no cost to eligible individuals",
+   "equipment_class": "other equipment",
+   "installed_location": "Santa Barbara County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12291,
+  "out": 1205
+ },
+ "model": "claude-sonnet-5"
+}

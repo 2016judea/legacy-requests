@@ -1,0 +1,347 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": null,
+   "part": "HPE Software, License, and Server Maintenance Support (Sole Source)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 260870.34,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "Consists of providing proprietary hardware and software maintenance needed to support HPE equipment and software currently used by the County.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": null,
+   "part": "Education Quote - HPE Education Learning Credits annual support",
+   "part_numbers": [
+    "HA167AC"
+   ],
+   "quantity": "500 Total Education Units",
+   "price_usd": 47520.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE retains exclusive control and ownership of the patents, trademarks, and/or other intellectual property (IP) that is relevant to this purchase.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": null,
+   "part": "DC CORE annual hardware/software maintenance support",
+   "part_numbers": [
+    "H2T12BC",
+    "U1V83AS",
+    "H39WWAC",
+    "H40VTAS"
+   ],
+   "quantity": null,
+   "price_usd": 92729.76,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE retains exclusive control and ownership of the patents, trademarks, and/or other intellectual property (IP) that is relevant to this purchase.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Dekalb County Information Systems, 120 West Trinity Pl Rm L8, Decatur GA 30030-3304",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": null,
+   "part": "Case 5306595078 hardware/software maintenance support",
+   "part_numbers": [
+    "H2T12BC",
+    "605881-005",
+    "U1V83AS"
+   ],
+   "quantity": null,
+   "price_usd": 2145.48,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE retains exclusive control and ownership of the patents, trademarks, and/or other intellectual property (IP) that is relevant to this purchase.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "3630 Camp Circle, Decatur GA 30032-1304",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": null,
+   "part": "Case 5306595078 hardware/software maintenance support",
+   "part_numbers": [
+    "H2T12BC",
+    "670632-S01",
+    "399524-B21",
+    "579243-001",
+    "435459-B21",
+    "411243-B21",
+    "459585-005",
+    "U1V83AS"
+   ],
+   "quantity": null,
+   "price_usd": 10607.88,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE retains exclusive control and ownership of the patents, trademarks, and/or other intellectual property (IP) that is relevant to this purchase.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DEKALB COUNTY GOVERNMENT, RM L 8, 120 W Trinity Pl, Decatur GA 30030-3313",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": null,
+   "part": "Case 5306595078 hardware/software maintenance support",
+   "part_numbers": [
+    "H2T12BC",
+    "670852-S01",
+    "670857-S01",
+    "670632-S01",
+    "800078-S01",
+    "QW036A",
+    "640012-005",
+    "435457-B21",
+    "435459-B21",
+    "447707-B21",
+    "633405-001",
+    "633404-001",
+    "633778-001",
+    "605881-005",
+    "605877-005",
+    "640010-005",
+    "589152-001",
+    "459959-005",
+    "595241-001",
+    "633407-001",
+    "U1V83AS",
+    "HE808AC",
+    "504634-001"
+   ],
+   "quantity": null,
+   "price_usd": 81963.18,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE retains exclusive control and ownership of the patents, trademarks, and/or other intellectual property (IP) that is relevant to this purchase.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "1950 W EXCHANGE, TUCKER GA 30084-5329",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Case 5306770554 / CSIF ID N/A multivendor hardware maintenance support",
+   "part_numbers": [
+    "H2T12AC",
+    "DEL88889687",
+    "IBM88889675",
+    "DEL80000392",
+    "U1V83AS",
+    "DEL88929405",
+    "DEL80009585"
+   ],
+   "quantity": null,
+   "price_usd": 1235.16,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE retains exclusive control and ownership of the patents, trademarks, and/or other intellectual property (IP) that is relevant to this purchase.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "1950 W EXCHANGE, TUCKER GA 30084-5329",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": null,
+   "part": "Case 5306595078 hardware/software maintenance support",
+   "part_numbers": [
+    "H2T12BC",
+    "605877-005",
+    "633404-001",
+    "633778-001",
+    "579243-001",
+    "670632-S01",
+    "605881-005",
+    "459585-005",
+    "U1V83AS"
+   ],
+   "quantity": null,
+   "price_usd": 13791.12,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE retains exclusive control and ownership of the patents, trademarks, and/or other intellectual property (IP) that is relevant to this purchase.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "556 N MCDONOUGH ST, DECATUR GA 30030-3355",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Case 5306770554 / CSIF ID N/A multivendor hardware maintenance support",
+   "part_numbers": [
+    "H2T12AC",
+    "DEL80000392",
+    "DEL88889686",
+    "U1V83AS"
+   ],
+   "quantity": null,
+   "price_usd": 309.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE retains exclusive control and ownership of the patents, trademarks, and/or other intellectual property (IP) that is relevant to this purchase.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "556 N MCDONOUGH ST, DECATUR GA 30030-3355",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": null,
+   "part": "MXQ701030G-HP hardware/software maintenance support",
+   "part_numbers": [
+    "H2T12BC",
+    "867446-S01",
+    "U1V83AS"
+   ],
+   "quantity": null,
+   "price_usd": 2913.84,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE retains exclusive control and ownership of the patents, trademarks, and/or other intellectual property (IP) that is relevant to this purchase.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Dekalb County Police Department, 1960 W Exchange Pl Fl 1, Tucker GA 30084-5329",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": null,
+   "part": "Case 5306595078 hardware/software maintenance support",
+   "part_numbers": [
+    "H2T12BC",
+    "459585-005",
+    "U1V83AS"
+   ],
+   "quantity": null,
+   "price_usd": 2015.76,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE retains exclusive control and ownership of the patents, trademarks, and/or other intellectual property (IP) that is relevant to this purchase.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "1960 W EXCHANGE, TUCKER GA 30084-5329",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Case 5306770554 / CSIF ID N/A multivendor hardware maintenance support",
+   "part_numbers": [
+    "H2T12AC",
+    "DEL88889687",
+    "DEL80000301",
+    "DEL80000314",
+    "H2T12BC"
+   ],
+   "quantity": null,
+   "price_usd": 1499.88,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE retains exclusive control and ownership of the patents, trademarks, and/or other intellectual property (IP) that is relevant to this purchase.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "1960 W EXCHANGE, TUCKER GA 30084-5329",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Case 5306770554 / CSIF ID N/A multivendor hardware maintenance support",
+   "part_numbers": [
+    "H2T12AC",
+    "DEL88889779",
+    "U1V83AS"
+   ],
+   "quantity": null,
+   "price_usd": 464.16,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE retains exclusive control and ownership of the patents, trademarks, and/or other intellectual property (IP) that is relevant to this purchase.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "4124 FLAKES MILL RD, DECATUR GA 30034-5827",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Case 5306770554 / CSIF ID N/A multivendor hardware maintenance support",
+   "part_numbers": [
+    "H2T12AC",
+    "DEL88889686",
+    "H2T12BC"
+   ],
+   "quantity": null,
+   "price_usd": 150.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE retains exclusive control and ownership of the patents, trademarks, and/or other intellectual property (IP) that is relevant to this purchase.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "4664 FLAT BRIDGE RD, LITHONIA GA 30038-4232",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Case 5306770554 / CSIF ID N/A multivendor hardware maintenance support",
+   "part_numbers": [
+    "H2T12AC",
+    "DEL88889780",
+    "DEL88889687",
+    "DEL88889689",
+    "DEL80000315",
+    "DEL88889738",
+    "DEL88889765",
+    "DEL88889778",
+    "DEL88889779",
+    "U1V83AS"
+   ],
+   "quantity": null,
+   "price_usd": 2587.8,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE retains exclusive control and ownership of the patents, trademarks, and/or other intellectual property (IP) that is relevant to this purchase.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County DWM, 1580 Roadhaven Drive, Stone Mountain GA 30083",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Case 5306770554 / CSIF ID N/A multivendor hardware maintenance support",
+   "part_numbers": [
+    "H2T12AC",
+    "DEL80000297",
+    "DEL88889780",
+    "DEL88889778",
+    "DEL88889759",
+    "H2T12BC",
+    "U1V83AS"
+   ],
+   "quantity": null,
+   "price_usd": 937.32,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE retains exclusive control and ownership of the patents, trademarks, and/or other intellectual property (IP) that is relevant to this purchase.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "S Candler Filter Plant, Water & Sewer, 4830 Winters Chapel Rd, Decatur GA 30030-3222",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 36907,
+  "out": 12322
+ },
+ "model": "claude-sonnet-5"
+}

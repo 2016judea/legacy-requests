@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Allison",
+   "model": null,
+   "part": "Allison Bus Transmissions and Replacement Parts for CATS bus fleet maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Reliable Transmission Service",
+   "reason": "were selected as the lowest responsive, responsible bidders",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Charlotte Area Transit System (CATS) bus fleet",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allison",
+   "model": null,
+   "part": "Allison Bus Transmissions and Replacement Parts for CATS bus fleet maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Rush Truck Center",
+   "reason": "were selected as the lowest responsive, responsible bidders",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Charlotte Area Transit System (CATS) bus fleet",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allison",
+   "model": null,
+   "part": "Allison Bus Transmissions and Replacement Parts for CATS bus fleet maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Transaxle LLC",
+   "reason": "were selected as the lowest responsive, responsible bidders",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Charlotte Area Transit System (CATS) bus fleet",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2388,
+  "out": 1122
+ },
+ "model": "claude-sonnet-5"
+}

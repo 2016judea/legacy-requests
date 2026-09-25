@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Alstom",
+   "model": "Vital Harmon Logic Controller (VHLC)",
+   "part": "Train Control System Vital Harmon Logic Controller Final Spare Boards (seven types of VHLC Train Control Boards)",
+   "part_numbers": [],
+   "quantity": "7 types of boards",
+   "price_usd": 761000.0,
+   "lead_time": null,
+   "sole_source_vendor": "KB Signaling Operations, LLC",
+   "reason": "the board components are obsolete and not capable of engineering revision.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "M, C, R, and A-Lines throughout the District",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3906,
+  "out": 328
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Autocar",
+   "model": null,
+   "part": "Autocar Proprietary Parts and Service - repair services and parts for all Autocar manufactured chassis and cabs on refuse trucks",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 168750.0,
+   "lead_time": null,
+   "sole_source_vendor": "TE of El Paso, LLC",
+   "reason": "This is a sole source procurement that requires an updated sole source letter each year",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "El Paso, TX",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8544,
+  "out": 201
+ },
+ "model": "claude-sonnet-5"
+}

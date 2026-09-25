@@ -1,0 +1,197 @@
+{
+ "records": [
+  {
+   "manufacturer": "Utility Associates Inc",
+   "model": "EOS",
+   "part": "EOS Camera and Mount, Holster Sensor, Media Controller, USB-C Breakaway Charging Cable, CAD Activation, POLARIS",
+   "part_numbers": [
+    "EOS-H/S-1"
+   ],
+   "quantity": "795",
+   "price_usd": 1342755.0,
+   "lead_time": null,
+   "sole_source_vendor": "Utility Associates, Inc.",
+   "reason": "BodyWorn\u2122 Body Camera System (Multi-Year)(Sole Source)",
+   "equipment_class": "other equipment",
+   "installed_location": "DeKalb County GA Police",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Utility Associates Inc",
+   "model": "Rocket",
+   "part": "Rocket High Speed Data Communications System, POLARIS SaaS, Warranty, and 24/7 Technical Support, Training",
+   "part_numbers": [
+    "COM-H/S-1"
+   ],
+   "quantity": "680",
+   "price_usd": 1339600.0,
+   "lead_time": null,
+   "sole_source_vendor": "Utility Associates, Inc.",
+   "reason": "BodyWorn\u2122 Body Camera System (Multi-Year)(Sole Source)",
+   "equipment_class": "communications/radio",
+   "installed_location": "DeKalb County GA Police",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Utility Associates Inc",
+   "model": "EOS",
+   "part": "EOS Camera and Mount, In-Car Video System Hardware Bundle, POLARIS SaaS, Warranty, and 24/7 Technical Support - 1 Year",
+   "part_numbers": [
+    "EOS-ICV-H/S-1"
+   ],
+   "quantity": "5",
+   "price_usd": 28557.5,
+   "lead_time": null,
+   "sole_source_vendor": "Utility Associates, Inc.",
+   "reason": "BodyWorn\u2122 Body Camera System (Multi-Year)(Sole Source)",
+   "equipment_class": "other equipment",
+   "installed_location": "DeKalb County GA Police",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Utility Associates Inc",
+   "model": "CAD",
+   "part": "CAD Activation SaaS",
+   "part_numbers": [
+    "CAD-S-1"
+   ],
+   "quantity": "800",
+   "price_usd": 72000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Utility Associates, Inc.",
+   "reason": "BodyWorn\u2122 Body Camera System (Multi-Year)(Sole Source)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "DeKalb County GA Police",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Utility Associates Inc",
+   "model": "EOS",
+   "part": "EOS Camera and Mount, Rocket In-Car Video System Hardware Bundle, POLARIS SaaS, Warranty, and 24/7 Technical Support",
+   "part_numbers": [
+    "EOS-ICV-H/S-1"
+   ],
+   "quantity": "10",
+   "price_usd": 47230.0,
+   "lead_time": null,
+   "sole_source_vendor": "Utility Associates, Inc.",
+   "reason": "BodyWorn\u2122 Body Camera System (Multi-Year)(Sole Source)",
+   "equipment_class": "other equipment",
+   "installed_location": "DeKalb County Animal Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Utility Associates Inc",
+   "model": "EOS",
+   "part": "EOS Camera and Mount, POLARIS SaaS, Warranty, and 24/7 Technical Support, Training",
+   "part_numbers": [
+    "EOS-H/S-1"
+   ],
+   "quantity": "5",
+   "price_usd": 8112.5,
+   "lead_time": null,
+   "sole_source_vendor": "Utility Associates, Inc.",
+   "reason": "BodyWorn\u2122 Body Camera System (Multi-Year)(Sole Source)",
+   "equipment_class": "other equipment",
+   "installed_location": "DeKalb County Animal Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Utility Associates Inc",
+   "model": "Rocket",
+   "part": "In-car Video System with Rocket High Speed Mobile Data Communications Hub, POLARIS SaaS, Warranty, and 24/7 Technical Support, Training",
+   "part_numbers": [
+    "ICV-H/S-1"
+   ],
+   "quantity": "3",
+   "price_usd": 16644.0,
+   "lead_time": null,
+   "sole_source_vendor": "Utility Associates, Inc.",
+   "reason": "BodyWorn\u2122 Body Camera System (Multi-Year)(Sole Source)",
+   "equipment_class": "communications/radio",
+   "installed_location": "DeKalb County Animal Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "BodyWorn",
+   "part": "funding to replace cameras as needed",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 25000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Utility Associates, Inc.",
+   "reason": "BodyWorn\u2122 Body Camera System (Multi-Year)(Sole Source)",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "BodyWorn",
+   "part": "funding to purchase BodyWorn\u2122 Body Camera Systems for Animal Enforcement Officers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 156209.26,
+   "lead_time": null,
+   "sole_source_vendor": "Utility Associates, Inc.",
+   "reason": "BodyWorn\u2122 Body Camera System (Multi-Year)(Sole Source)",
+   "equipment_class": "other equipment",
+   "installed_location": "Animal Enforcement",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "RiOT",
+   "part": "complete the upgrade of RiOT devices by Utility's personnel to maintain the hardware warranty under this contract",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 113000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Utility Associates, Inc.",
+   "reason": "to complete the upgrade of RiOT devices by Utility's personnel to maintain the hardware warranty under this contract",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "BodyWorn",
+   "part": "additional purchases of the BodyWorn\u2122 Camera Systems for Police and Marshal services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 330204.0,
+   "lead_time": null,
+   "sole_source_vendor": "Utility Associates, Inc.",
+   "reason": "BodyWorn\u2122 Body Camera System (Multi-Year)(Sole Source)",
+   "equipment_class": "other equipment",
+   "installed_location": "Police Services and Marshal's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "BodyWorn",
+   "part": "obtain BodyWorn\u2122 Comprehensive Camera Systems and supporting hardware and software accessories",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 833606.0,
+   "lead_time": null,
+   "sole_source_vendor": "Utility Associates, Inc.",
+   "reason": "BodyWorn\u2122 Body Camera System (Multi-Year)(Sole Source)",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 23664,
+  "out": 10149
+ },
+ "model": "claude-sonnet-5"
+}

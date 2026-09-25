@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "PINMap",
+   "part": "Software application for property tax parcel management (development and maintenance)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1354161.72,
+   "lead_time": null,
+   "sole_source_vendor": "Great Arc Technologies",
+   "reason": "This is a Sole Source Procurement pursuant to Section 34-139 of the Cook County Procurement Code.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Cook County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3230,
+  "out": 186
+ },
+ "model": "claude-sonnet-5"
+}

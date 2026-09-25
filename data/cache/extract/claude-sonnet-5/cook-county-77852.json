@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Azteca Systems",
+   "model": "Cityworks AMS (Asset Management Server)",
+   "part": "Cityworks Software License and Maintenance - Asset Management Server",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 527773.0,
+   "lead_time": null,
+   "sole_source_vendor": "Azteca Systems LLC",
+   "reason": "Azteca Systems is the sole provider of licensing for the Cityworks AMS and PLL products.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "CCDOTH Maintenance Bureau",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Azteca Systems",
+   "model": "Cityworks PLL (Permit, Land and Licensing)",
+   "part": "Cityworks Permit, Land and Licensing software component, with planned public portal expansion",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Azteca Systems LLC",
+   "reason": "Azteca Systems is the sole provider of licensing for the Cityworks AMS and PLL products.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "CCDOTH Permit Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4183,
+  "out": 424
+ },
+ "model": "claude-sonnet-5"
+}

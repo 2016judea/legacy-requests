@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Geonexus Technologies, LLC",
+   "model": "MapEngine",
+   "part": "Implementation of, and software subscription for, the MapEngine software (replaces GeoWorx Office)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 226834.45,
+   "lead_time": null,
+   "sole_source_vendor": "Geonexus Technologies, LLC",
+   "reason": "The Water Department was approved for a sole source exemption by the Legal Department.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3413,
+  "out": 200
+ },
+ "model": "claude-sonnet-5"
+}

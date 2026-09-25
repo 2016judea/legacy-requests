@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Alfa Laval, Inc.",
+   "model": null,
+   "part": "Sludge dewatering centrifuges and related appurtenances for the Centrifuge Dewatering Facility, including start-up, commissioning, and training",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": 6119054.0,
+   "lead_time": "delivered before December 31, 2026",
+   "sole_source_vendor": "Alfa Laval, Inc.",
+   "reason": "Inasmuch as Alfa Laval, Inc. is the only source of supply for the equipment required, nothing would be gained by advertising for bids (Section 11.4 of the Purchasing Act).",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Calumet Water Reclamation Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2794,
+  "out": 290
+ },
+ "model": "claude-sonnet-5"
+}

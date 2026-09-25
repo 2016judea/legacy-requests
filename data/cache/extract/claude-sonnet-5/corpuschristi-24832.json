@@ -1,0 +1,73 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cummins",
+   "model": "C1300N6B",
+   "part": "Eight new natural gas-powered spark ignited engine generator sets replacing four existing backup generators",
+   "part_numbers": [
+    "C1300N6B"
+   ],
+   "quantity": "Eight (8)",
+   "price_usd": 27700000,
+   "lead_time": "574 days",
+   "sole_source_vendor": "Exergy Energy LLC",
+   "reason": "They are the vendor that submitted the most competitive proposal and received the highest overall score of 88.8 out of 100 points.",
+   "equipment_class": "generator",
+   "installed_location": "O.N. Stevens Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cummins",
+   "model": null,
+   "part": "Switchgear for the new backup generator system",
+   "part_numbers": [],
+   "quantity": "One (1)",
+   "price_usd": null,
+   "lead_time": "574 days",
+   "sole_source_vendor": "Exergy Energy LLC",
+   "reason": "They are the vendor that submitted the most competitive proposal and received the highest overall score of 88.8 out of 100 points.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "O.N. Stevens Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Digital Master Controller (DMC)",
+   "part": "Digital master controller for monitoring and controlling the backup generator system",
+   "part_numbers": [],
+   "quantity": "One (1)",
+   "price_usd": null,
+   "lead_time": "574 days",
+   "sole_source_vendor": "Exergy Energy LLC",
+   "reason": "They are the vendor that submitted the most competitive proposal and received the highest overall score of 88.8 out of 100 points.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "O.N. Stevens Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Exergy Energy LLC",
+   "model": null,
+   "part": "10-year (plus optional 10-year) backup power and energy management service and preventative/corrective maintenance contract for the generator system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Exergy Energy LLC",
+   "reason": "They are the vendor that submitted the most competitive proposal and received the highest overall score of 88.8 out of 100 points.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "O.N. Stevens Water Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 37088,
+  "out": 3201
+ },
+ "model": "claude-sonnet-5"
+}

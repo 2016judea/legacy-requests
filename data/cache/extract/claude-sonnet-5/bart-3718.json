@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ZIEHL-ABEGG",
+   "model": null,
+   "part": "HVAC condenser fans for revenue vehicles",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1554273.74,
+   "lead_time": null,
+   "sole_source_vendor": "ZIEHL-ABEGG, Inc.",
+   "reason": "ZAI is the original equipment manufacturer (OEM) of the revenue vehicle HVAC fan and the fan is proprietary to ZAI. Therefore, ZAI is the only vendor capable of manufacturing the fan needed for the District's revenue vehicles.",
+   "equipment_class": "HVAC",
+   "installed_location": "revenue vehicles",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3875,
+  "out": 251
+ },
+ "model": "claude-sonnet-5"
+}

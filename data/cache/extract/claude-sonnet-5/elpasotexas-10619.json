@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Exeloo",
+   "model": "Automated Public Toilets",
+   "part": "Three-year maintenance service agreement for automated public restrooms",
+   "part_numbers": [],
+   "quantity": "2 units",
+   "price_usd": 270000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Public Facilities and Services, Inc.",
+   "reason": "the sole developer and provider of Exeloo Automated Public Toilets",
+   "equipment_class": "other equipment",
+   "installed_location": "Stanton and Paso Del Norte Bridges in El Paso",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 1
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5070,
+  "out": 201
+ },
+ "model": "claude-sonnet-5"
+}

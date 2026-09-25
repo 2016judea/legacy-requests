@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Runbeck Election Services, Inc.",
+   "model": null,
+   "part": "Ballot Sorting System Maintenance, Support and Licensing",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 90655.0,
+   "lead_time": null,
+   "sole_source_vendor": "Runbeck Election Services, Inc.",
+   "reason": "This is a Sole Source Procurement pursuant to Section 34-139 of the Cook County Procurement Code.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3238,
+  "out": 199
+ },
+ "model": "claude-sonnet-5"
+}

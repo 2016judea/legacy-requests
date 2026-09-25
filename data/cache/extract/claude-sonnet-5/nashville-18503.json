@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Splash BI and GL Connect",
+   "part": "Support, maintenance, and technical/development services for the Splash BI and GL Connect reporting solution within R12 for Metro",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 4500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Splash Business Intelligence, Inc.",
+   "reason": "This Contract has an estimated value of $4,500,000.00.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 20048,
+  "out": 205
+ },
+ "model": "claude-sonnet-5"
+}

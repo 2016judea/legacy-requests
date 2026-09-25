@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "SCADA instrumentation components specified as specific brand or trade name products to match existing Valley Water SCADA system equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "necessary to match the existing equipment already in use at other Valley Water facilities using the District's SCADA system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "East Pipeline, San Jose (Districts 1, 3, and 6)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 17069,
+  "out": 1088
+ },
+ "model": "claude-sonnet-5"
+}

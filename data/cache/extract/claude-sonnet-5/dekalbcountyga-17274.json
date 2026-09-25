@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Environmental Systems Research Institute (ESRI), Inc.",
+   "model": "ArcGIS Enterprise Agreement",
+   "part": "Proprietary GIS software enterprise license agreement including software licenses, maintenance, training and professional services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3900000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute (ESRI), Inc.",
+   "reason": "The manufacturer is the only supplier that can provide annual maintenance, training and professional services.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8167,
+  "out": 234
+ },
+ "model": "claude-sonnet-5"
+}

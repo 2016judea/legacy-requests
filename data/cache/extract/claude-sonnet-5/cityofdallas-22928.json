@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Purchase, installation, training, and support of Artificial Intelligence-powered camera technology (data collection units) mounted on sanitation trucks",
+   "part_numbers": [],
+   "quantity": "100 AI-enabled data collection units on 50 trucks",
+   "price_usd": 2556000.0,
+   "lead_time": null,
+   "sole_source_vendor": "City Detect Inc.",
+   "reason": "Utilized for procurements where functional requirements can only be satisfied by one vendor, such as those where patents, copyrights or monopolies exists",
+   "equipment_class": "other equipment",
+   "installed_location": "Department of Sanitation Services brush and bulky waste collection trucks, Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3129,
+  "out": 753
+ },
+ "model": "claude-sonnet-5"
+}

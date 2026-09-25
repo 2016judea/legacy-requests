@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Wabtec Passenger Transit",
+   "model": "A650 HRV Friction Brake and Air Compressor System",
+   "part": "Component overhaul services of the A650 HRV fleet friction brake and air compressor systems (transport, inspect, overhaul, and test 54 kits)",
+   "part_numbers": [],
+   "quantity": "54 kits",
+   "price_usd": 7980914.57,
+   "lead_time": "60-month firm fixed-price contract",
+   "sole_source_vendor": "Wabtec Passenger Transit",
+   "reason": "Wabtec is the OEM of the existing friction brake system and possesses rights and control over proprietary data, supplies, and equipment necessary to ensure the full operational capability of its friction brake system.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "A650 Heavy Rail Vehicle fleet (B and D Lines)",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Coupler Overhaul for A650 HRV fleet (Component Overhaul Phase 2)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 4459320,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Separate contracts for additional required overhauls are currently in various stages of development and solicitation, with contract awards for coupler, collector shoe, GTO, and gearbox components expected during FY25.",
+   "equipment_class": "other equipment",
+   "installed_location": "A650 Heavy Rail Vehicle fleet",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "GTO Module Overhaul for A650 HRV fleet (Component Overhaul Phase 2)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1945800,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Separate contracts for additional required overhauls are currently in various stages of development and solicitation, with contract awards for coupler, collector shoe, GTO, and gearbox components expected during FY25.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "A650 Heavy Rail Vehicle fleet",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Collector Shoe Replacement for A650 HRV fleet (Component Overhaul Phase 2)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1295470,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Separate contracts for additional required overhauls are currently in various stages of development and solicitation, with contract awards for coupler, collector shoe, GTO, and gearbox components expected during FY25.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "A650 Heavy Rail Vehicle fleet",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GE",
+   "model": null,
+   "part": "GE Gearbox Overhaul for A650 HRV fleet (Component Overhaul Phase 2)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5541992,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Separate contracts for additional required overhauls are currently in various stages of development and solicitation, with contract awards for coupler, collector shoe, GTO, and gearbox components expected during FY25.",
+   "equipment_class": "motor/drive",
+   "installed_location": "A650 Heavy Rail Vehicle fleet",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9921,
+  "out": 3326
+ },
+ "model": "claude-sonnet-5"
+}

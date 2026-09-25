@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola Solutions",
+   "model": "APX series",
+   "part": "Mobile and handheld radios and equipment accessories for emergency response",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1069196,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "both Departments have established that Motorola Solutions, Inc. is the sole manufacturer and vendor of APX series radios.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Napa County Fire",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3042,
+  "out": 199
+ },
+ "model": "claude-sonnet-5"
+}

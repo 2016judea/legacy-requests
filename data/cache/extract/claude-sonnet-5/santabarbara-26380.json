@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": "TESCO",
+   "model": "T4350",
+   "part": "DC Fast Charge EVSE Test Set with PL4150 Load - Test Module (J1772/CCS1, DUO Single Phase AC 250V, 80A DC 1000V, 350A, Tesla connector)",
+   "part_numbers": [
+    "T4350"
+   ],
+   "quantity": "1",
+   "price_usd": 54164,
+   "lead_time": "12 Weeks ARO",
+   "sole_source_vendor": "TESCO - The Eastern Specialty Company",
+   "reason": "Currently, only one manufacturer, TESCO, has developed a testing unit which meets NIST specifications and has the capability to test the majority of all EVSE fueling stations.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Agricultural Commissioner's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "TESCO",
+   "model": "PL4100",
+   "part": "Load - Single Phase AC/DC, 28A at 120V | 50A at 208V | 58A at 240V | 32A at 480V",
+   "part_numbers": [
+    "PL4100"
+   ],
+   "quantity": "1",
+   "price_usd": 21303,
+   "lead_time": "12 Weeks ARO",
+   "sole_source_vendor": "TESCO - The Eastern Specialty Company",
+   "reason": "Currently, only one manufacturer, TESCO, has developed a testing unit which meets NIST specifications and has the capability to test the majority of all EVSE fueling stations.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Agricultural Commissioner's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "TESCO",
+   "model": "MM-CCS1-DC-350",
+   "part": "Man-in-the-Middle CCS1-DC Cable Set 350A",
+   "part_numbers": [
+    "MM-CCS1-DC-350"
+   ],
+   "quantity": "1",
+   "price_usd": 7664,
+   "lead_time": "12 Weeks ARO",
+   "sole_source_vendor": "TESCO - The Eastern Specialty Company",
+   "reason": "Currently, only one manufacturer, TESCO, has developed a testing unit which meets NIST specifications and has the capability to test the majority of all EVSE fueling stations.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Agricultural Commissioner's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "TESCO",
+   "model": "PL4150",
+   "part": "150kW DC load box, 200A at 500V, 150A at 1kV (optional)",
+   "part_numbers": [
+    "PL4150"
+   ],
+   "quantity": "1",
+   "price_usd": 51240,
+   "lead_time": "Scheduled to begin shipping in March, 2024",
+   "sole_source_vendor": "TESCO - The Eastern Specialty Company",
+   "reason": "Currently, only one manufacturer, TESCO, has developed a testing unit which meets NIST specifications and has the capability to test the majority of all EVSE fueling stations.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Agricultural Commissioner's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "TESCO",
+   "model": null,
+   "part": "Diamond Level Support package on T4350/PL150 (optional)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 12470,
+   "lead_time": null,
+   "sole_source_vendor": "TESCO - The Eastern Specialty Company",
+   "reason": "Currently, only one manufacturer, TESCO, has developed a testing unit which meets NIST specifications and has the capability to test the majority of all EVSE fueling stations.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Agricultural Commissioner's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "TESCO",
+   "model": "B00-0001",
+   "part": "Spare Battery 11.1V (optional)",
+   "part_numbers": [
+    "B00-0001"
+   ],
+   "quantity": "1",
+   "price_usd": 421,
+   "lead_time": null,
+   "sole_source_vendor": "TESCO - The Eastern Specialty Company",
+   "reason": "Currently, only one manufacturer, TESCO, has developed a testing unit which meets NIST specifications and has the capability to test the majority of all EVSE fueling stations.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Agricultural Commissioner's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "TESCO",
+   "model": "1060",
+   "part": "UtiliCart with Umbrella (included with all T4350 purchases at no additional price)",
+   "part_numbers": [
+    "1060"
+   ],
+   "quantity": "1",
+   "price_usd": 0,
+   "lead_time": null,
+   "sole_source_vendor": "TESCO - The Eastern Specialty Company",
+   "reason": "Currently, only one manufacturer, TESCO, has developed a testing unit which meets NIST specifications and has the capability to test the majority of all EVSE fueling stations.",
+   "equipment_class": "other equipment",
+   "installed_location": "Agricultural Commissioner's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "TESCO",
+   "model": "TS4350",
+   "part": "EVSE testing unit for annual inspections of electric vehicle charging stations",
+   "part_numbers": [
+    "TS4350"
+   ],
+   "quantity": "1",
+   "price_usd": 105000,
+   "lead_time": null,
+   "sole_source_vendor": "The Eastern Specialty Company (TESCO)",
+   "reason": "Since January 12, 2021, DMS has confirmed that TESCO is the only manufacturer who has a testing unit which can be certified to the NIST standard and can be used as a legal standard to enforce the new regulations.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Agricultural Commissioner's Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8637,
+  "out": 1907
+ },
+ "model": "claude-sonnet-5"
+}

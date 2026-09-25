@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Unite USA Inc.",
+   "model": "Unite Us Platform",
+   "part": "Web-based integrated information system to house and administer the community screening tool for the Multi-Agency Access Program (MAP), including technical support, training, access to insights dashboard, and monthly data delivery.",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 26667,
+   "lead_time": null,
+   "sole_source_vendor": "Unite USA Inc.",
+   "reason": "Unite USA Inc. has a unique data collection and information system that has been customized to meet the needs of MAP and has been in use by MAP for more than two years.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County Department of Behavioral Health - Multi-Agency Access Program (MAP)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 22043,
+  "out": 287
+ },
+ "model": "claude-sonnet-5"
+}

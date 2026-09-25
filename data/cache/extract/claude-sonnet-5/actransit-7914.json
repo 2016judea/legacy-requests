@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ABB/Hitachi",
+   "model": "Ellipse",
+   "part": "Hosting, managed, and professional services for the Ellipse Enterprise Asset Management system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 726600,
+   "lead_time": null,
+   "sole_source_vendor": "COSOL",
+   "reason": "Due to system complexity, vendor-specific expertise, and integration dependencies, COSOL continues to be the only vendor capable of providing these services without disruption.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6958,
+  "out": 209
+ },
+ "model": "claude-sonnet-5"
+}

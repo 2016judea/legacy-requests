@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Purpose-Built, Curated Data Set (PBDS)",
+   "part": "Purchase of PBDS access, infrastructure support and technical training via CalSAWS Amazon S3 location",
+   "part_numbers": [],
+   "quantity": "320 hours (80 hrs SFY24/25, 240 hrs SFY25/26)",
+   "price_usd": 48530.4,
+   "lead_time": null,
+   "sole_source_vendor": "Gainwell Technologies LLC",
+   "reason": "A PBDS cannot be procured independently elsewhere.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County Department of Social Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Purpose-Built, Curated Data Set (PBDS)",
+   "part": "First Amendment for PBDS access and Maintenance & Enhancements (M&E) support, decreasing recurring R&A charges",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 460258.0,
+   "lead_time": null,
+   "sole_source_vendor": "Accenture LLP",
+   "reason": "A PBDS cannot be procured independently elsewhere.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County Department of Social Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Recurring R&A Change Budget Services (infrastructure support for AWS issues, configuration, Technical Operations, Technical Architecture, DBA support, batch job execution support, refactoring support, Application Architecture support, Application DBA support, and administration) under County Purchase FR-02-2024 Revision 1",
+   "part_numbers": [],
+   "quantity": "1,040 hours total (760 SFY24/25 + 280 SFY25/26)",
+   "price_usd": 158094.4,
+   "lead_time": null,
+   "sole_source_vendor": "Accenture LLP",
+   "reason": "A PBDS cannot be procured independently elsewhere.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County Department of Social Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "One-Time R&A Change Budget Services for initial PBDS configuration (AWS account vending, infrastructure build, batch job configuration, Glue Crawlers, user access, Athena/ODBC/JDBC access, serverless architecture, relational database, testing, documentation)",
+   "part_numbers": [],
+   "quantity": "1,880 hours",
+   "price_usd": 279452.8,
+   "lead_time": null,
+   "sole_source_vendor": "Accenture LLP",
+   "reason": "A PBDS cannot be procured independently elsewhere.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County Department of Social Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Amazon Web Services",
+   "model": "Amazon Simple Storage Solution (Amazon S3) / EMR Serverless / Aurora MySQL-Compatible / Secrets Manager / CloudWatch",
+   "part": "Estimated AWS compute resources and services (storage, egress, EMR Serverless, Aurora Serverless, Secrets Manager) supporting PBDS solution",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 22711.12,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The Consortium will make such resources and services available for supporting the project, including the procurement and payment for such services from AWS.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County Department of Social Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Technical training on CalSAWS system for generating, customizing, and interpreting reports",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gainwell Technologies LLC",
+   "reason": "the Department will receive technical training from Gainwell, the vendor selected by the CalSAWS Consortium",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County Department of Social Services",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 31275,
+  "out": 1412
+ },
+ "model": "claude-sonnet-5"
+}

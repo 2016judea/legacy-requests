@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "MEPPI (Mitsubishi)",
+   "model": null,
+   "part": "Ozone generator products, parts, maintenance and repair (rebuild of two existing ozone generators)",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fin Tek Corporation",
+   "reason": "Fin-Tek is the exclusive service provider for MEPPI (Mitsubishi) ozone generating equipment as authorized by Mitsubishi Electric Company (MELCO).",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Westside Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Mitsubishi",
+   "model": null,
+   "part": "Parts, preventative maintenance and repair services for ozone generators using ozone as a disinfectant",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 125000.0,
+   "lead_time": null,
+   "sole_source_vendor": "FIN TEK Corporation",
+   "reason": "The parts and services are only available through Fin-Tek.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5257,
+  "out": 443
+ },
+ "model": "claude-sonnet-5"
+}

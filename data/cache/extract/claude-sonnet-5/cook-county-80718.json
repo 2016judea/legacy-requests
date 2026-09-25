@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lablynx",
+   "model": "Lablynx Case Management System",
+   "part": "System maintenance, support services, and server storage subscription for the Lablynx Case Management System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 186000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Lablynx, Inc.",
+   "reason": "This contract was awarded through a Sole Source Procurement pursuant to Section 34-139 of the Cook County Procurement Code.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Medical Examiner's Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5038,
+  "out": 217
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Victim Information and Notification Everyday (VINE) Services - automated victim notification service",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 270908.0,
+   "lead_time": null,
+   "sole_source_vendor": "Appriss Insights, LLC.",
+   "reason": "They are uniquely qualified to provide this service to victims of crime.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3306,
+  "out": 174
+ },
+ "model": "claude-sonnet-5"
+}

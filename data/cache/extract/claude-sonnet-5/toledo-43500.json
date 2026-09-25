@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Roots",
+   "model": null,
+   "part": "Rebuild and/or replacement of proprietary parts and equipment (bearings, seals, other components) for two air blowers",
+   "part_numbers": [],
+   "quantity": "2 air blowers",
+   "price_usd": 400000,
+   "lead_time": null,
+   "sole_source_vendor": "Tomlin Equipment Company",
+   "reason": "Roots is the Original Equipment Manufacturer and Tomlin Equipment Company is the authorized sales representative and supplier of Roots proprietary parts and equipment in Northern Ohio.",
+   "equipment_class": "pump",
+   "installed_location": "Main Equipment Building, Bay View Water Reclamation Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3801,
+  "out": 249
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Agilent Technologies, Inc.",
+   "model": "Gas Chromatograph",
+   "part": "Purchase of a Gas Chromatograph with software and services (GCMS), on-site consulting and technical support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 178539.4,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "Agilent Technologies is the sole source manufacturer of the GCMS, its hardware, software, parts, training, technical support and at-your-site service and support procedures.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Water Department Laboratory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3006,
+  "out": 243
+ },
+ "model": "claude-sonnet-5"
+}

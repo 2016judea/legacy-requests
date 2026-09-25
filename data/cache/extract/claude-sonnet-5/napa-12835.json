@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Skeeter",
+   "model": "Type VI Engine",
+   "part": "Purchase of one Type VI Engine to replace County Unit Number 8154",
+   "part_numbers": [],
+   "quantity": "one",
+   "price_usd": 605000,
+   "lead_time": null,
+   "sole_source_vendor": "Golden State Fire Apparatus/Skeeter Emergency Vehicles",
+   "reason": "The Department has established Skeeter brand engines as standard firefighting equipment. The engines have proven to be more reliable and less expensive to maintain than other manufacturers' engines.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2956,
+  "out": 230
+ },
+ "model": "claude-sonnet-5"
+}

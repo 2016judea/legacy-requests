@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "Harris Corrections Solutions, Inc.",
+   "model": "Offender 360 / Nucleus JMS",
+   "part": "Mobile Access for Nucleus JMS - tablet access via custom Microsoft Canvas applications",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 420000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Harris Corrections Solutions, Inc. A Division of Harris Computers",
+   "reason": "The original contract was awarded via a sole source procurement pursuant to section 34-139 of the Cook County Procurement Code.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Cook County Sheriff's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harris Corrections Solutions, Inc.",
+   "model": "Offender 360 / Nucleus JMS",
+   "part": "Digital Conversion of Supplemental Logs - digitizing paper-based supplemental logs into Nucleus",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 250000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Harris Corrections Solutions, Inc. A Division of Harris Computers",
+   "reason": "The original contract was awarded via a sole source procurement pursuant to section 34-139 of the Cook County Procurement Code.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division 11",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harris Corrections Solutions, Inc.",
+   "model": "Offender 360 / Nucleus JMS",
+   "part": "Artificial Intelligence (AI) Integration Discovery (Research and Development ONLY)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 200000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Harris Corrections Solutions, Inc. A Division of Harris Computers",
+   "reason": "The original contract was awarded via a sole source procurement pursuant to section 34-139 of the Cook County Procurement Code.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Cook County Sheriff's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harris Corrections Solutions, Inc.",
+   "model": "Offender 360 / Nucleus JMS",
+   "part": "Population and Facility Controls - visual bed assignment map, modernized data tables, progress bar visualizations, configuration utility",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 420000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Harris Corrections Solutions, Inc. A Division of Harris Computers",
+   "reason": "The original contract was awarded via a sole source procurement pursuant to section 34-139 of the Cook County Procurement Code.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Cook County Sheriff's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harris Corrections Solutions, Inc.",
+   "model": "Offender 360 / Nucleus JMS",
+   "part": "Advanced Inmate Relationship and Contact Analysis - relationship model and contact analysis tool",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 625000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Harris Corrections Solutions, Inc. A Division of Harris Computers",
+   "reason": "The original contract was awarded via a sole source procurement pursuant to section 34-139 of the Cook County Procurement Code.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Cook County Sheriff's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Harris Corrections Solutions, Inc.",
+   "model": "Offender 360 / Nucleus JMS",
+   "part": "Pretrial Fairness Act (PFA) enhancement - business process rules, UI, data model modifications, dashboards, BI Sync data synchronization",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 260000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Harris Corrections Solutions, Inc. A Division of Harris Computers",
+   "reason": "The original contract was awarded via a sole source procurement pursuant to section 34-139 of the Cook County Procurement Code.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Cook County Sheriff's Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7004,
+  "out": 2526
+ },
+ "model": "claude-sonnet-5"
+}

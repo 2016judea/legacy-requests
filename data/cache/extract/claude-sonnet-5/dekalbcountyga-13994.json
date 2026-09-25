@@ -1,0 +1,191 @@
+{
+ "records": [
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": "DCR",
+   "part": "On-Site Service & Support Renewal Contract, BIS Digital Recording System (Remote Support & Hardware Replacement)",
+   "part_numbers": [
+    "MNT-R-DCR #25-08-A-95105/M-50029374"
+   ],
+   "quantity": "0.99178",
+   "price_usd": 30255.93,
+   "lead_time": null,
+   "sole_source_vendor": "BIS Digital, Inc. (Business Information Systems)",
+   "reason": "BIS Digital is the only provider of DCR software updates, maintenance, and support.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Dekalb County State Court (GA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": "DCR",
+   "part": "Annual DCR Software Assurance (SAS), coincides with Maintenance Contract",
+   "part_numbers": [
+    "DCR SAS #25-08-A-95105/M-50029374"
+   ],
+   "quantity": "0.99178",
+   "price_usd": 843.01,
+   "lead_time": null,
+   "sole_source_vendor": "BIS Digital, Inc. (Business Information Systems)",
+   "reason": "BIS Digital is the only provider of DCR software updates, maintenance, and support.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Dekalb County State Court (GA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": "DCR",
+   "part": "On-Site Service & Support Renewal Contract, BIS Digital Recording System (Remote Support & Hardware Replacement)",
+   "part_numbers": [
+    "MNT-R-DCR #25-12-A-94811/M-50030440"
+   ],
+   "quantity": "0.64658",
+   "price_usd": 11537.77,
+   "lead_time": null,
+   "sole_source_vendor": "BIS Digital, Inc. (Business Information Systems)",
+   "reason": "BIS Digital is the only provider of DCR software updates, maintenance, and support.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Magistrate Court (GA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": "DCR",
+   "part": "Annual DCR Software Assurance (SAS), coincides with Maintenance Contract",
+   "part_numbers": [
+    "DCR SAS #25-12-A-94811/M-50030440"
+   ],
+   "quantity": "0.64658",
+   "price_usd": 549.59,
+   "lead_time": null,
+   "sole_source_vendor": "BIS Digital, Inc. (Business Information Systems)",
+   "reason": "BIS Digital is the only provider of DCR software updates, maintenance, and support.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Magistrate Court (GA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": "DCR",
+   "part": "On-Site Service & Support Renewal Contract, BIS Digital Recording System (Remote Support & Hardware Replacement)",
+   "part_numbers": [
+    "MNT-R-DCR #25-01-A-96601/M-50030570"
+   ],
+   "quantity": "0.56986",
+   "price_usd": 19808.9,
+   "lead_time": null,
+   "sole_source_vendor": "BIS Digital, Inc. (Business Information Systems)",
+   "reason": "BIS Digital is the only provider of DCR software updates, maintenance, and support.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Juvenile Court (GA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": "DCR",
+   "part": "On-Site Service & Support Renewal Contract, BIS Digital Recording System (Remote Support & Hardware Replacement)",
+   "part_numbers": [
+    "MNT-R-DCR #25-08-A-67604/M-50011270"
+   ],
+   "quantity": "1.95342",
+   "price_usd": 3906.84,
+   "lead_time": null,
+   "sole_source_vendor": "BIS Digital, Inc. (Business Information Systems)",
+   "reason": "BIS Digital is the only provider of DCR software updates, maintenance, and support.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Juvenile Court (GA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": "DCR (8Ch)",
+   "part": "Reinstatement of Expired 8ch DCR License - DCR (8Ch) Digital Audio/Video Recording Software w/Notes & Software Assurance",
+   "part_numbers": [
+    "DCR-SAS_8CH #25-08-A-67604/M-50011270 REINSTATE"
+   ],
+   "quantity": "5",
+   "price_usd": 4625.0,
+   "lead_time": null,
+   "sole_source_vendor": "BIS Digital, Inc. (Business Information Systems)",
+   "reason": "BIS Digital is the only provider of DCR software updates, maintenance, and support.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Juvenile Court (GA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": "DCR",
+   "part": "On-Site Service & Support Renewal Contract, BIS Digital Recording System (Remote Support & Hardware Replacement)",
+   "part_numbers": [
+    "MNT-R-DCR #25-12-A-93578/M-50030641"
+   ],
+   "quantity": "0.63836",
+   "price_usd": 33281.12,
+   "lead_time": null,
+   "sole_source_vendor": "BIS Digital, Inc. (Business Information Systems)",
+   "reason": "BIS Digital is the only provider of DCR software updates, maintenance, and support.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Dekalb County Facilities Management (GA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": "DCR",
+   "part": "On-Site Service & Support Renewal Contract, BIS Digital Recording System (Remote Support & Hardware Replacement)",
+   "part_numbers": [
+    "MNT-R-DCR #25-06-A-89872/M-50024644"
+   ],
+   "quantity": "1.12329",
+   "price_usd": 6806.07,
+   "lead_time": null,
+   "sole_source_vendor": "BIS Digital, Inc. (Business Information Systems)",
+   "reason": "BIS Digital is the only provider of DCR software updates, maintenance, and support.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Probate Court (GA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": "DCR",
+   "part": "Annual DCR Software Assurance (SAS), coincides with Maintenance Contract",
+   "part_numbers": [
+    "DCR SAS #25-06-A-89872/M-50024644"
+   ],
+   "quantity": "1.12329",
+   "price_usd": 477.4,
+   "lead_time": null,
+   "sole_source_vendor": "BIS Digital, Inc. (Business Information Systems)",
+   "reason": "BIS Digital is the only provider of DCR software updates, maintenance, and support.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County Probate Court (GA)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BIS Digital, Inc.",
+   "model": null,
+   "part": "Maintenance and Support of the County's Audio-Visual Equipment (overall consolidated contract)",
+   "part_numbers": [
+    "M-50031234"
+   ],
+   "quantity": null,
+   "price_usd": 112091.63,
+   "lead_time": null,
+   "sole_source_vendor": "BIS Digital, Inc. (Business Information Systems)",
+   "reason": "Due to the custom installation, and tight integration of the newly installed AV room management system it would be difficult for another provider to fully support the environment with all the current complex customizations.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 29324,
+  "out": 4537
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,202 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cummins",
+   "model": "QSX15-G9",
+   "part": "Preventative maintenance and repair service for Cummins generator at lift station",
+   "part_numbers": [
+    "A080151167",
+    "79284804",
+    "DFEG-6254688",
+    "QSX15-G9"
+   ],
+   "quantity": "1",
+   "price_usd": 2351.21,
+   "lead_time": null,
+   "sole_source_vendor": "Cummins Southern Plains, LLC dba Cummins Sales and Service",
+   "reason": "this item is available from only one source because of patents, copyrights, secret processes, or natural monopolies",
+   "equipment_class": "generator",
+   "installed_location": "Wood River Lift Station, 4601 Spring Creek Dr.",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cummins",
+   "model": "QSB5-G3-NR3",
+   "part": "Preventative maintenance and repair service for Cummins generator at lift station",
+   "part_numbers": [
+    "DSFAE-5782087",
+    "1100159146",
+    "73132871",
+    "QSB5-G3-NR3"
+   ],
+   "quantity": "1",
+   "price_usd": 1872.75,
+   "lead_time": null,
+   "sole_source_vendor": "Cummins Southern Plains, LLC dba Cummins Sales and Service",
+   "reason": "this item is available from only one source because of patents, copyrights, secret processes, or natural monopolies",
+   "equipment_class": "generator",
+   "installed_location": "Cimarron Lift Station, 7401 Cimarron",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cummins",
+   "model": "QSX15-G9",
+   "part": "Preventative maintenance and repair service for Cummins generator at lift station",
+   "part_numbers": [
+    "DFEJ1716425",
+    "1597421",
+    "C170169476",
+    "79970180",
+    "QSX15-G9"
+   ],
+   "quantity": "1",
+   "price_usd": 2847.09,
+   "lead_time": null,
+   "sole_source_vendor": "Cummins Southern Plains, LLC dba Cummins Sales and Service",
+   "reason": "this item is available from only one source because of patents, copyrights, secret processes, or natural monopolies",
+   "equipment_class": "generator",
+   "installed_location": "Sharpsburg Lift Station, 4412 Sharpsburg Rd",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cummins",
+   "model": "QSB5-G6 NR3",
+   "part": "Preventative maintenance and repair service for Cummins generator at lift station",
+   "part_numbers": [
+    "190473333",
+    "D6C1878990",
+    "QSB5-G6 NR3",
+    "74430874",
+    "JI8M442360"
+   ],
+   "quantity": "1",
+   "price_usd": 1920.99,
+   "lead_time": null,
+   "sole_source_vendor": "Cummins Southern Plains, LLC dba Cummins Sales and Service",
+   "reason": "this item is available from only one source because of patents, copyrights, secret processes, or natural monopolies",
+   "equipment_class": "generator",
+   "installed_location": "North Beach \"B\" Lift Station, 3002 Timon",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cummins",
+   "model": "QSX15-G9",
+   "part": "Preventative maintenance and repair service for Cummins generator at lift station",
+   "part_numbers": [
+    "J180443996",
+    "DFEJ-1831226",
+    "QSX15-G9",
+    "80113966",
+    "J18M438146"
+   ],
+   "quantity": "1",
+   "price_usd": 2883.84,
+   "lead_time": null,
+   "sole_source_vendor": "Cummins Southern Plains, LLC dba Cummins Sales and Service",
+   "reason": "this item is available from only one source because of patents, copyrights, secret processes, or natural monopolies",
+   "equipment_class": "generator",
+   "installed_location": "Port and Pearse Lift Station, 2306 Pearce St.",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cummins",
+   "model": "QST30-G5NR2",
+   "part": "Preventative maintenance and repair service for Cummins generator at wastewater treatment plant",
+   "part_numbers": [
+    "DQFAC-1748207",
+    "G170215059",
+    "QST30-G5NR2",
+    "37271888"
+   ],
+   "quantity": "1",
+   "price_usd": 4725.47,
+   "lead_time": null,
+   "sole_source_vendor": "Cummins Southern Plains, LLC dba Cummins Sales and Service",
+   "reason": "this item is available from only one source because of patents, copyrights, secret processes, or natural monopolies",
+   "equipment_class": "generator",
+   "installed_location": "Whitecap WWTP, 13409 Whitecap Blvd.",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cummins",
+   "model": "QSK60-G6",
+   "part": "Preventative maintenance and repair service for Cummins generator at wastewater treatment plant",
+   "part_numbers": [
+    "DQKAB-7889872",
+    "J110266097",
+    "QSK60-G6",
+    "33188170"
+   ],
+   "quantity": "1",
+   "price_usd": 7973.11,
+   "lead_time": null,
+   "sole_source_vendor": "Cummins Southern Plains, LLC dba Cummins Sales and Service",
+   "reason": "this item is available from only one source because of patents, copyrights, secret processes, or natural monopolies",
+   "equipment_class": "generator",
+   "installed_location": "Broadway WWTP, 801 Resaca",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cummins",
+   "model": "QST30-G5NR2",
+   "part": "Preventative maintenance and repair service for Cummins generator at wastewater treatment plant",
+   "part_numbers": [
+    "D120326462",
+    "QST30-G5NR2",
+    "37253755"
+   ],
+   "quantity": "1",
+   "price_usd": 4215.72,
+   "lead_time": null,
+   "sole_source_vendor": "Cummins Southern Plains, LLC dba Cummins Sales and Service",
+   "reason": "this item is available from only one source because of patents, copyrights, secret processes, or natural monopolies",
+   "equipment_class": "generator",
+   "installed_location": "Oso WWTP #1, 601 Nile",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cummins",
+   "model": "QST30-G2",
+   "part": "Preventative maintenance and repair service for Cummins generator at wastewater treatment plant",
+   "part_numbers": [
+    "DFHB5691276",
+    "IO40697738",
+    "QST30-G2",
+    "100376306"
+   ],
+   "quantity": "1",
+   "price_usd": 4215.72,
+   "lead_time": null,
+   "sole_source_vendor": "Cummins Southern Plains, LLC dba Cummins Sales and Service",
+   "reason": "this item is available from only one source because of patents, copyrights, secret processes, or natural monopolies",
+   "equipment_class": "generator",
+   "installed_location": "Oso WWTP #2, 601 Nile",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cummins",
+   "model": null,
+   "part": "Parts/Material for generator preventative maintenance and repairs",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 70000,
+   "lead_time": null,
+   "sole_source_vendor": "Cummins Southern Plains, LLC dba Cummins Sales and Service",
+   "reason": "this item is available from only one source because of patents, copyrights, secret processes, or natural monopolies",
+   "equipment_class": "generator",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 19279,
+  "out": 7237
+ },
+ "model": "claude-sonnet-5"
+}

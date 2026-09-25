@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Zeteky, Inc.",
+   "model": "CloseWatch",
+   "part": "Real-time online reporting platform and criminal activity database services, including 10K user licenses, web training, and specialty services",
+   "part_numbers": [],
+   "quantity": "10K user licenses",
+   "price_usd": 105750.0,
+   "lead_time": null,
+   "sole_source_vendor": "Zeteky, Inc.",
+   "reason": "Utilized for procurements where functional requirements can only be satisfied by one vendor, such as those where patents, copyrights or monopolies exists",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Dallas Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3093,
+  "out": 533
+ },
+ "model": "claude-sonnet-5"
+}

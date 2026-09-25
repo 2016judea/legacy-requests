@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Agilent Technologies, Inc.",
+   "model": null,
+   "part": "Inductively Coupled Plasma Mass Spectrometer, software, parts, and support services",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 210256.86,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "Agilent Technologies, Inc. is the sole source manufacturer of ICP-MS, its hardware, software, parts, training, technical support and at-your-site service and support procedures.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Water Department Laboratory Division",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3248,
+  "out": 238
+ },
+ "model": "claude-sonnet-5"
+}

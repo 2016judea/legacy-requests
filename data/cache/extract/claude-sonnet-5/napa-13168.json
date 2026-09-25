@@ -1,0 +1,89 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "L-861E",
+   "part": "F&I L-861E LED Threshold Lights Complete",
+   "part_numbers": [
+    "L-861E"
+   ],
+   "quantity": "8 EA",
+   "price_usd": 43200,
+   "lead_time": "12-week lead time on electrical components",
+   "sole_source_vendor": "Vellutini Corporation dba Royal Electric Company",
+   "reason": "Due to the 12-week lead time on electrical components, Royal Electric was asked to move forward and order the required airfield lighting.",
+   "equipment_class": "other equipment",
+   "installed_location": "Napa County Airport, Runway 6-24",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "L-824",
+   "part": "F&I L-824 Lighting Cable Installed in Conduit",
+   "part_numbers": [
+    "L-824"
+   ],
+   "quantity": "220 LF",
+   "price_usd": 3300,
+   "lead_time": null,
+   "sole_source_vendor": "Vellutini Corporation dba Royal Electric Company",
+   "reason": "Due to the 12-week lead time on electrical components, Royal Electric was asked to move forward and order the required airfield lighting.",
+   "equipment_class": "other equipment",
+   "installed_location": "Napa County Airport, Runway 6-24",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "No. 6 Solid Bare Counter Poise Above Conduit",
+   "part_numbers": [],
+   "quantity": "220 LF",
+   "price_usd": 660,
+   "lead_time": null,
+   "sole_source_vendor": "Vellutini Corporation dba Royal Electric Company",
+   "reason": "Due to the 12-week lead time on electrical components, Royal Electric was asked to move forward and order the required airfield lighting.",
+   "equipment_class": "other equipment",
+   "installed_location": "Napa County Airport, Runway 6-24",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "F&I 1W-2\" Underground Conduit",
+   "part_numbers": [],
+   "quantity": "340 LF",
+   "price_usd": 21760,
+   "lead_time": null,
+   "sole_source_vendor": "Vellutini Corporation dba Royal Electric Company",
+   "reason": "Due to the 12-week lead time on electrical components, Royal Electric was asked to move forward and order the required airfield lighting.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Napa County Airport, Runway 6-24",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Remove & Salvage Existing RW Threshold Light Fixture",
+   "part_numbers": [],
+   "quantity": "1 LS",
+   "price_usd": 9000,
+   "lead_time": null,
+   "sole_source_vendor": "Vellutini Corporation dba Royal Electric Company",
+   "reason": "there was no way to repair the existing system as the end threshold lighting is original to the 1940's era runway, with high voltage electrical cables directly buried in the ground without conduits or safety measures",
+   "equipment_class": "other equipment",
+   "installed_location": "Napa County Airport, Runway 6-24",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 40110,
+  "out": 5799
+ },
+ "model": "claude-sonnet-5"
+}

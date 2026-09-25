@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Flygt",
+   "model": null,
+   "part": "Submersible pumps, parts and repair service for drainage of water/wastewater, sludge and raw water pipelines",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Xylem Water Solutions USA, Inc.",
+   "reason": "Xylem Water Solutions USA, Inc., is the documented Sole Source provider for OEM Flygt submersible pumps, parts and repair service.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3056,
+  "out": 214
+ },
+ "model": "claude-sonnet-5"
+}

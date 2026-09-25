@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Neurologica",
+   "model": "CT BodyTom",
+   "part": "Maintenance and service agreement for Neurologica CT BodyTom (Portable Full Body 32-Slice CT Scanner)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 228000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Neurologica, Corp.",
+   "reason": "Neurologica Corp is the only vendor that can perform these services because the MEO\u2019s current equipment is one of Neurologica Corp\u2019s product models, and Neurologica Corp. is the only manufacturer and supplier of the proprietary parts.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Cook County Medical Examiners (MEO)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2849,
+  "out": 271
+ },
+ "model": "claude-sonnet-5"
+}

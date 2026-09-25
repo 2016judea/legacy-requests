@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "CentralSquare Technologies, LLC",
+   "model": "Inform RMS (Web RMS/NIBRS)",
+   "part": "Record Management System (RMS) Software Maintenance and Support (Multiyear)(Sole Source) - Change Order No. 2",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 36465.09,
+   "lead_time": null,
+   "sole_source_vendor": "CentralSquare Technologies, LLC",
+   "reason": "proprietary software packages used by public safety for records management and field-based reporting",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "DeKalb County Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "LexisNexis",
+   "model": "Coplogic",
+   "part": "Standard LexisNexis DORS Incident Importer (Coplogic) License Fee",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 9500.36,
+   "lead_time": null,
+   "sole_source_vendor": "CentralSquare Technologies, LLC",
+   "reason": "Add the interface for LexisNexis DORS incident that cost $36,465.09.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "DeKalb County Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "LexisNexis",
+   "model": "Coplogic",
+   "part": "Coplogic Integration with Web RMS Annual Maintenance Fee",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2090.36,
+   "lead_time": null,
+   "sole_source_vendor": "CentralSquare Technologies, LLC",
+   "reason": "Add the interface for LexisNexis DORS incident that cost $36,465.09.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "DeKalb County Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9047,
+  "out": 3415
+ },
+ "model": "claude-sonnet-5"
+}

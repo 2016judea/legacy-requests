@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": "Transit 350",
+   "part": "2023 Ford Transit 350 Cargo Van declared surplus and sold to Ace Medical, LLC",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "submitted an offer to the agency in writing to purchase the items, less depreciation, in the amount of $26,850.63",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "MacBook Pro",
+   "part": "MacBook Pro computer declared surplus and sold to Ace Medical, LLC (Property No. 2030294)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "submitted an offer to the agency in writing to purchase the items, less depreciation, in the amount of $26,850.63",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "MacBook Pro",
+   "part": "MacBook Pro computer declared surplus and sold to Ace Medical, LLC (Property No. 2030295)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "submitted an offer to the agency in writing to purchase the items, less depreciation, in the amount of $26,850.63",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 5,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18855,
+  "out": 2537
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "CV Technology, Inc.",
+   "model": null,
+   "part": "OEM parts, repairs and services for the existing fire suppression system at the City's Biosolids Dryer Facility",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 300000.0,
+   "lead_time": null,
+   "sole_source_vendor": "CV Technology, Inc.",
+   "reason": "Non-OEM parts and repairs are not compatible with the existing fire suppression system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Biosolids Dryer Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3276,
+  "out": 204
+ },
+ "model": "claude-sonnet-5"
+}

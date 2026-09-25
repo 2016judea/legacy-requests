@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Aria Filtra (Trojan Technologies Corporation, FKA Pall Technologies)",
+   "model": "Aria Microfiltration Membrane System",
+   "part": "Two Aria Filtra 14\" Traverse Racks, four 14-inch Quad Rack Extensions, parts, and components for the Aria Microfiltration Membrane System",
+   "part_numbers": [],
+   "quantity": "2 Traverse Racks; 4 Quad Rack Extensions",
+   "price_usd": 2400406.18,
+   "lead_time": null,
+   "sole_source_vendor": "Aria Filtra, a division of Trojan Technologies Corporation FKA Pall Technologies",
+   "reason": "The Microfiltration Membrane System located at Westside Water Treatment Plant (WSWTP) is designed and manufactured only by Aria Filtra, a division of Trojan Technologies Corp. No other manufacturer or parts distributor can supply this equipment or its proprietary components.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Westside Water Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6802,
+  "out": 393
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tyler Technologies, Inc.",
+   "model": null,
+   "part": "Cashier software system (licensing and professional services) for the Assessor-Recorder's Office",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2596286,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "Tyler Technologies, Inc. is the only vendor who can provide licensing and professional services for their proprietary software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Assessor-Recorder's Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 1
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8971,
+  "out": 216
+ },
+ "model": "claude-sonnet-5"
+}

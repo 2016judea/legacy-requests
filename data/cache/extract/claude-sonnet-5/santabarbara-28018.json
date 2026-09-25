@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "CEMTEK Environmental, Inc.",
+   "model": null,
+   "part": "Maintenance services and replacement parts for Continuous Emissions Monitoring System (CEMS) and Data Acquisition System (DAS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 200000,
+   "lead_time": null,
+   "sole_source_vendor": "CEMTEK Environmental, Inc.",
+   "reason": "Due to the absence of alternative vendors supplying the specialty equipment locally, pursuant to County Code Section 2-39(c), the Board may waive the competitive bidding requirement where there are limitations on the source or supply.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Tajiguas ReSource Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CEMTEK Environmental, Inc.",
+   "model": null,
+   "part": "Replacement analyzers that monitor for carbon monoxide and oxides of nitrogen",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "CEMTEK Environmental, Inc.",
+   "reason": "CEMTEK Environmental, Inc. is the leading supplier of specialized equipment, including gas analyzers and sensor technology that continuously monitor air emissions from stationary sources.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Tajiguas ReSource Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5477,
+  "out": 1207
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Limitorque",
+   "model": null,
+   "part": "Refurbishing Limitorque valve actuators including replacement parts (Group A)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Group A for refurbishing Limitorque valve actuators including replacement parts, and Group B for procuring new Limitorque valve actuators.",
+   "equipment_class": "valve",
+   "installed_location": "District's process and collection facilities located throughout Cook and Will counties in Illinois",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Limitorque",
+   "model": null,
+   "part": "Procuring new Limitorque valve actuators (Group B)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Group A for refurbishing Limitorque valve actuators including replacement parts, and Group B for procuring new Limitorque valve actuators.",
+   "equipment_class": "valve",
+   "installed_location": "District's process and collection facilities located throughout Cook and Will counties in Illinois",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Limitorque",
+   "model": null,
+   "part": "Repair services and technical field services for valve actuators",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1227700.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The purpose of this contract is to procure rebuilt and replacement Limitorque valve actuators and parts, repair services, and technical field services.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "District's process and collection facilities located throughout Cook and Will counties in Illinois",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3519,
+  "out": 853
+ },
+ "model": "claude-sonnet-5"
+}

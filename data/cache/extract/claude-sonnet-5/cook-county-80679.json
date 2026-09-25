@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Azteca Systems",
+   "model": "Cityworks",
+   "part": "Cityworks Software License and Maintenance (AMS and PLL) - Amendment No. 3 increase and extension",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 449161.66,
+   "lead_time": null,
+   "sole_source_vendor": "Azteca Systems LLC, Sandy, Utah",
+   "reason": "Azteca Systems is the sole provider of licensing for Cityworks AMS and PLL products.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Countywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Azteca Systems",
+   "model": "Cityworks",
+   "part": "Cityworks Software License and Maintenance - original contract",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1431099.0,
+   "lead_time": null,
+   "sole_source_vendor": "Azteca Systems Inc., Sandy, Utah",
+   "reason": "Azteca Systems is the sole provider of licensing for the Cityworks AMS and PLL products.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Countywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Azteca Systems",
+   "model": "Cityworks",
+   "part": "Cityworks Software License and Maintenance - Amendment No. 1 (renewal and increase; move from in-house server to Cityworks Online hosting)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 511320.0,
+   "lead_time": null,
+   "sole_source_vendor": "Azteca Systems Inc., Sandy, Utah",
+   "reason": "Azteca Systems is the sole provider of licensing for the Cityworks AMS and PLL products.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Countywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Azteca Systems",
+   "model": "Cityworks",
+   "part": "Cityworks Software License and Maintenance - Amendment No. 2 (renewal and increase)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 527773.0,
+   "lead_time": null,
+   "sole_source_vendor": "Azteca Systems LLC, Sandy, Utah",
+   "reason": "Azteca Systems is the sole provider of licensing for the Cityworks AMS and PLL products.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Countywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12797,
+  "out": 827
+ },
+ "model": "claude-sonnet-5"
+}

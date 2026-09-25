@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Radio equipment installation, maintenance, repair and removal services (mounted two-way radios in garbage trucks and handheld radios)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 10000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mobile Communications America, Inc.",
+   "reason": "The County must preserve the warranty of its towers, modems and other Motorola Communications equipment purchased under the contract with Motorola Solutions, Inc. by utilizing a certified Motorola Service Elite Specialist to service and maintain this equipment.",
+   "equipment_class": "communications/radio",
+   "installed_location": "DeKalb County vehicles (PW-Sanitation garbage trucks)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3816,
+  "out": 276
+ },
+ "model": "claude-sonnet-5"
+}

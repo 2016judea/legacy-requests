@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hach Company",
+   "model": null,
+   "part": "Water quality monitoring equipment parts and services including start-up, calibration, and repairs",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2190000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hach Company",
+   "reason": "Hach Company is the sole provider of these proprietary instruments and is the only entity authorized to perform related calibration and repair services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hach",
+   "model": null,
+   "part": "Lab and Field Chemistries (reagents/consumables for water quality testing)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hach Company",
+   "reason": "Their factory trained technician are the only technicians certified to start-up,calibrate and repair their equipment",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hach",
+   "model": null,
+   "part": "Lab Equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hach Company",
+   "reason": "Hach factory trained technicians are the only individuals certified to perform start-up, calibration, and repair services on Hach Co. products.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hach",
+   "model": null,
+   "part": "Process Instrumentation (process analyzers)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hach Company",
+   "reason": "Hach Co. does not recognize or authorize any other service organizations to conduct repairs or calibrations on its instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hach",
+   "model": null,
+   "part": "Instrumentation Services (start-up, calibration, and repair services)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hach Company",
+   "reason": "Only Hach's factory-trained technicians are authorized to perform the required start-up, calibration, and repairs of Hach equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hach",
+   "model": "CLAROS",
+   "part": "Claros Software as a Service Subscription (water quality monitoring software)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hach Company",
+   "reason": "Hach delivers accurate data that supports regulatory compliance and operational efficiency.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 22433,
+  "out": 1018
+ },
+ "model": "claude-sonnet-5"
+}

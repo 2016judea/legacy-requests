@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Locality Media, LLC dba First Due",
+   "model": "First Due Software",
+   "part": "First Due software for Fire and Emergency Medical Services, contract amendment to increase annual spending authority",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 250000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Locality Media, LLC dba First Due",
+   "reason": "The City Attorney\u2019s Office has approved this contract as a sole source agreement exempt from competitive bidding pursuant to Chapter 252.022(a)(7).",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3211,
+  "out": 478
+ },
+ "model": "claude-sonnet-5"
+}

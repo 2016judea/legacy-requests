@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Azteca Systems, LLC",
+   "model": "Cityworks",
+   "part": "Licensing, Maintenance, and Support Services for Cityworks (public asset and work management software)",
+   "part_numbers": [],
+   "quantity": "Unlimited Users (Server AMS Premium Enterprise License Agreement)",
+   "price_usd": 1279205.74,
+   "lead_time": null,
+   "sole_source_vendor": "Azteca Systems, LLC",
+   "reason": "Cityworks is designed, created and owned exclusively by Azteca Systems, LLC.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 47748,
+  "out": 227
+ },
+ "model": "claude-sonnet-5"
+}

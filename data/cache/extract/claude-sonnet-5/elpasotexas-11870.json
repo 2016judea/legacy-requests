@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Automated Logic",
+   "model": "WebCtrl",
+   "part": "Building automation controls parts and services for controls systems used in City facilities",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 300000.0,
+   "lead_time": null,
+   "sole_source_vendor": "PC Automated Controls, Inc.",
+   "reason": "PC Automated Controls is the sole authorized distributor in our area for Automated Logic\\u2019s WebCtrl Building Automation Controls.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9785,
+  "out": 210
+ },
+ "model": "claude-sonnet-5"
+}

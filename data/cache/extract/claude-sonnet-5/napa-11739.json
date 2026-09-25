@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Novo",
+   "model": "Novo Tactical III X-Ray System",
+   "part": "Explosive Ordinance Device Portable X-Ray",
+   "part_numbers": [],
+   "quantity": "one",
+   "price_usd": 70450,
+   "lead_time": null,
+   "sole_source_vendor": "Novo Dr INC",
+   "reason": "its alignment with specific requirements and unique capabilities, its ease of integration into existing Sheriff's Office hardware and software, and its potential for rapid deployment at prominent Napa County Events",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Napa County Sheriff's Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3645,
+  "out": 227
+ },
+ "model": "claude-sonnet-5"
+}

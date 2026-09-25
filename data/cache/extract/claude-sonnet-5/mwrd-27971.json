@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Multi-Year Service Agreement to Provide Upgrades, Maintenance, and Repair Services for the TARP Pump Station HVAC Control System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 84500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Control Systems of Chicago, Inc.",
+   "reason": "Precision Control Systems of Chicago, Inc., is the only source of supply for the services required",
+   "equipment_class": "HVAC",
+   "installed_location": "Calumet Water Reclamation Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2907,
+  "out": 220
+ },
+ "model": "claude-sonnet-5"
+}

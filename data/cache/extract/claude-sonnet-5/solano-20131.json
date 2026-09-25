@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Storm pumps replacement (two storm pumps)",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 551000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Both existing pumps are obsolete and no longer repairable.",
+   "equipment_class": "pump",
+   "installed_location": "517/523 Delaware Street, Fairfield",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3307,
+  "out": 158
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Cityworks",
+   "part": "Upgrade of the Cityworks AMS software to the newest version plus ongoing maintenance and support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 310000,
+   "lead_time": null,
+   "sole_source_vendor": "Woolpert, Inc.",
+   "reason": "City Works Public Asset Management System (AMS) (Multi-Year Contract) [Sole Source]",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4412,
+  "out": 193
+ },
+ "model": "claude-sonnet-5"
+}

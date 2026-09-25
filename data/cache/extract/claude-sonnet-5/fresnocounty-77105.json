@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "One-time setup for Electronic Return Mail Notification services (CalSAWS Central Print)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 7500,
+   "lead_time": null,
+   "sole_source_vendor": "CalSAWS Consortium and Gainwell Technologies, LLC",
+   "reason": "The Joint Powers Authority has procured the software, maintenance, and any necessary equipment support of Electronic Return Mail Notification services and cannot be procured independently elsewhere.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 15638,
+  "out": 732
+ },
+ "model": "claude-sonnet-5"
+}

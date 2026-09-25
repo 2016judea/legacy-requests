@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lexipol, LLC",
+   "model": null,
+   "part": "First Responder State-Specific Policy and Training Support Solution Services (SaaS) - policy, training and wellness, hosted application service, and maintenance service",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 193660.86,
+   "lead_time": null,
+   "sole_source_vendor": "Lexipol, LLC",
+   "reason": "Lexipol is the only source for the services required by your department.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Fire Rescue (FR)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 21790,
+  "out": 218
+ },
+ "model": "claude-sonnet-5"
+}

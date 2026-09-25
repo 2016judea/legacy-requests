@@ -1,0 +1,176 @@
+{
+ "records": [
+  {
+   "manufacturer": "COBAN Technologies, Inc.",
+   "model": "FOCUS H2",
+   "part": "Focus H2 In-Car System - Package 2 (2 cameras and wireless microphone)",
+   "part_numbers": [
+    "FOCUS2-51-00"
+   ],
+   "quantity": "75",
+   "price_usd": 391875.0,
+   "lead_time": null,
+   "sole_source_vendor": "COBAN Technologies, Inc.",
+   "reason": "COBAN is the sole authorized distributor for COBAN in-car video systems currently utilized by the Sheriff's Office.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sheriff's patrol vehicles",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "COBAN Technologies, Inc.",
+   "model": "FOCUS H2",
+   "part": "Mounting hardware for secure mounting of in-car video system within vehicle",
+   "part_numbers": [
+    "MZZ-01"
+   ],
+   "quantity": "75",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "COBAN Technologies, Inc.",
+   "reason": "COBAN is the sole authorized distributor for COBAN in-car video systems currently utilized by the Sheriff's Office.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sheriff's patrol vehicles",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "COBAN Technologies, Inc.",
+   "model": "FOCUS H2",
+   "part": "Two Dual Band Antennas (802.11 A/G/N/AC) for wireless upload to Access Point",
+   "part_numbers": [
+    "SCOPT-27"
+   ],
+   "quantity": "75",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "COBAN Technologies, Inc.",
+   "reason": "COBAN is the sole authorized distributor for COBAN in-car video systems currently utilized by the Sheriff's Office.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sheriff's patrol vehicles",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "COBAN Technologies, Inc.",
+   "model": null,
+   "part": "Cloud Courier Annual - Evidence sharing via SafeFleet Azure Cloud Services, 100GB/unlimited downloads and exports",
+   "part_numbers": [
+    "CCL1001Y",
+    "CCL 100 1Y"
+   ],
+   "quantity": "1",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "COBAN Technologies, Inc.",
+   "reason": "COBAN is the sole authorized distributor for COBAN in-car video systems currently utilized by the Sheriff's Office.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Sheriff's patrol vehicles",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "COBAN Technologies, Inc.",
+   "model": null,
+   "part": "Installation \u2013 In-Car (installation of new hardware components in patrol vehicles)",
+   "part_numbers": [
+    "LINST-01"
+   ],
+   "quantity": "70",
+   "price_usd": 38500.0,
+   "lead_time": null,
+   "sole_source_vendor": "COBAN Technologies, Inc.",
+   "reason": "COBAN is the sole authorized distributor for COBAN in-car video systems currently utilized by the Sheriff's Office.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Sheriff's patrol vehicles",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "COBAN Technologies, Inc.",
+   "model": null,
+   "part": "Quick In-Car Hardware De-installation - removal of current in-car video components from patrol vehicles",
+   "part_numbers": [
+    "LINST-15"
+   ],
+   "quantity": "70",
+   "price_usd": 13650.0,
+   "lead_time": null,
+   "sole_source_vendor": "COBAN Technologies, Inc.",
+   "reason": "COBAN is the sole authorized distributor for COBAN in-car video systems currently utilized by the Sheriff's Office.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Sheriff's patrol vehicles",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "COBAN Technologies, Inc.",
+   "model": null,
+   "part": "Back Office Setup Package (Remote & Onsite) - project deployment, configuration, and admin/user training",
+   "part_numbers": [
+    "LSET-19"
+   ],
+   "quantity": "2",
+   "price_usd": 9900.0,
+   "lead_time": null,
+   "sole_source_vendor": "COBAN Technologies, Inc.",
+   "reason": "COBAN is the sole authorized distributor for COBAN in-car video systems currently utilized by the Sheriff's Office.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Sheriff's patrol vehicles",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "COBAN Technologies, Inc.",
+   "model": "NEXUS",
+   "part": "Nexus Cloud Subscription - Data Only for ICV (Package 7), 5-Year Subscription, Software Right to Use license, maintenance and technical support, 3-Year Retention, 10% Retained",
+   "part_numbers": [
+    "CL-ICV-07",
+    "CL-IVC-07-RY2",
+    "CL-IVC-07-RY3",
+    "CL-IVC-07-RY4",
+    "CL-IVC-07-RY5"
+   ],
+   "quantity": "70",
+   "price_usd": 46200.0,
+   "lead_time": null,
+   "sole_source_vendor": "COBAN Technologies, Inc.",
+   "reason": "COBAN is the sole authorized distributor for COBAN in-car video systems currently utilized by the Sheriff's Office.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Sheriff's patrol vehicles",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "COBAN Technologies, Inc.",
+   "model": "FOCUS H2 / NEXUS",
+   "part": "Provision, installation, licensing, cloud storage, and support of in-car video hardware and software systems for the Sheriff's patrol vehicles",
+   "part_numbers": [],
+   "quantity": "65 patrol vehicles plus 5 spare kits",
+   "price_usd": 693503.0,
+   "lead_time": null,
+   "sole_source_vendor": "COBAN Technologies, Inc.",
+   "reason": "COBAN is the sole authorized distributor for COBAN in-car video systems currently utilized by the Sheriff's Office.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Sheriff's Office patrol vehicles",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "COBAN Technologies, Inc.",
+   "model": null,
+   "part": "Existing in-car video hardware being replaced (six-year-old, end-of-life equipment)",
+   "part_numbers": [],
+   "quantity": "65 patrol vehicles",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "COBAN will undertake a comprehensive upgrade to replace six-year-old, end-of-life equipment currently installed in 65 patrol vehicles with new H2 hardware components.",
+   "equipment_class": "other equipment",
+   "installed_location": "Sheriff's patrol vehicles",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 13,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 58423,
+  "out": 5746
+ },
+ "model": "claude-sonnet-5"
+}

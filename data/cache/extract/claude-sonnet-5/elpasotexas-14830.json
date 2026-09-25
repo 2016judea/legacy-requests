@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ADB Safegate",
+   "model": null,
+   "part": "Sign Panels and Airfield Lighting parts/upgrade for Airport Lighting Control and Monitoring System (ALCMS)",
+   "part_numbers": [],
+   "quantity": "All",
+   "price_usd": 589671.58,
+   "lead_time": null,
+   "sole_source_vendor": "ADB Safegate Americas, LLC",
+   "reason": "The ADB products you have installed at your airport are exclusive to ADB and cannot or will not be interchangeable with parts from other manufacturers.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "El Paso International Airport - Electrical Vault and Air Traffic Control Tower",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7615,
+  "out": 256
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Environmental Systems Research Institute, Inc. (ESRI)",
+   "model": null,
+   "part": "Geographic Information Systems (GIS) Enterprise Software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 4907300.0,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute, Inc. (ESRI), Redland, California",
+   "reason": "Unfortunately, ESRI\u2019s suite has no competitors in terms of size, scope and integration.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Cook County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3707,
+  "out": 221
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,138 @@
+{
+ "records": [
+  {
+   "manufacturer": "Oracle",
+   "model": null,
+   "part": "Renewal of existing Oracle Cloud Services software licenses, Oracle Cloud Software License Support and Maintenance, and HCM Cloud Services under the County's Oracle Cloud Services platform",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3576495.5,
+   "lead_time": null,
+   "sole_source_vendor": "Oracle America, Inc.",
+   "reason": "Public Sector Agreement for Oracle Cloud Services (Sole Source)",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Oracle",
+   "model": "Oracle RightNow / Oracle Policy Automation Cloud Services",
+   "part": "Renewal of Oracle RightNow Enterprise Contact Center, Universal Policy Automation, Policy Automation Agent/Enterprise Assessment API, RightNow Emails/Core Service, Connect Web Services API, Non-Contact Center User, and Policy Automation Collaboration cloud services",
+   "part_numbers": [
+    "B88488",
+    "B72233",
+    "B86965",
+    "B88133",
+    "B68548",
+    "B72236",
+    "B76483",
+    "B82255",
+    "B78443"
+   ],
+   "quantity": null,
+   "price_usd": 288057.49,
+   "lead_time": null,
+   "sole_source_vendor": "Oracle America, Inc.",
+   "reason": "Public Sector Agreement for Cloud Services US-CSA-CPQ-QT5065 effective 01-JAN-2016",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Oracle",
+   "model": "Oracle Fusion HCM/ERP Cloud Services",
+   "part": "Renewal of Oracle Digital Assistant, Integration Cloud, Guided Learning, Fusion ERP, Procurement, Document Recognition, Supply Chain Execution, HCM Base, Recruiting, Recruiting Booster, Payroll, Additional Test Environment, Learning, and Talent Management cloud services (Regular Workers)",
+   "part_numbers": [
+    "B91939",
+    "B91110",
+    "B94872",
+    "B95966",
+    "B95967",
+    "B94110",
+    "B94112",
+    "B91084",
+    "B91086",
+    "B86841",
+    "B91057",
+    "B85800",
+    "B87675",
+    "B95763",
+    "B86334",
+    "B84490",
+    "B85242",
+    "B91066"
+   ],
+   "quantity": "6500 employees",
+   "price_usd": 1729107.0,
+   "lead_time": null,
+   "sole_source_vendor": "Oracle America, Inc.",
+   "reason": "Public Sector Agreement for Cloud Services US-CSA-CPQ-QT5065 effective 01-JAN-2016",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Oracle",
+   "model": "Oracle Fusion HCM Cloud Services",
+   "part": "Renewal of Oracle Fusion HCM Base, Recruiting, Recruiting Booster, Payroll, and Additional Test Environment cloud services (Poll Workers)",
+   "part_numbers": [
+    "B85800",
+    "B87675",
+    "B95763",
+    "B86334",
+    "B84490"
+   ],
+   "quantity": "2500 employees",
+   "price_usd": 108300.0,
+   "lead_time": null,
+   "sole_source_vendor": "Oracle America, Inc.",
+   "reason": "Public Sector Agreement for Cloud Services US-CSA-CPQ-QT5065 effective 01-JAN-2016",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Oracle",
+   "model": "Oracle PaaS and IaaS Universal Credits",
+   "part": "Replenishment of Oracle PaaS and IaaS Universal Credits funded allocation for cloud infrastructure services",
+   "part_numbers": [
+    "B88206"
+   ],
+   "quantity": "821412",
+   "price_usd": 821412.0,
+   "lead_time": "1.0-12.0 mo",
+   "sole_source_vendor": "Oracle America, Inc.",
+   "reason": "Public Sector Agreement for Cloud Services US-CSA-CPQ-QT5065 effective 01-JAN-2016",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Oracle",
+   "model": "Oracle Advanced Management for Hybrid Cloud",
+   "part": "Managed Services - Oracle Advanced Management for Hybrid Cloud (Managed Services)",
+   "part_numbers": [
+    "B95183"
+   ],
+   "quantity": "1",
+   "price_usd": 207531.01,
+   "lead_time": "12 months",
+   "sole_source_vendor": "Oracle America, Inc.",
+   "reason": "This order incorporates by reference the Master Agreement US-CSA-CPQ-QT5065",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 8,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 51460,
+  "out": 4558
+ },
+ "model": "claude-sonnet-5"
+}

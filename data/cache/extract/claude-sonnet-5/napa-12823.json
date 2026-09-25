@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "John Deere",
+   "model": null,
+   "part": "Compact Utility Tractor and attachments",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 77166,
+   "lead_time": null,
+   "sole_source_vendor": "Deere & Company",
+   "reason": "Given the unique design, useful attachments, and consistency with other airport off-road equipment that meets various airport needs, staff recommends a sole source procurement for the replacement tractor through Sourcewell cooperative procurement pricing",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "John Deere",
+   "model": "Utility Tractor",
+   "part": "Surplus capital asset #101470, utility tractor to be sold at auction",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Originally purchased in 1998, this asset has become non-reparable, and it has outlived its useful life.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Airport",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3725,
+  "out": 379
+ },
+ "model": "claude-sonnet-5"
+}

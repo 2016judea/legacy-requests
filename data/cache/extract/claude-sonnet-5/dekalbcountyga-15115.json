@@ -1,0 +1,159 @@
+{
+ "records": [
+  {
+   "manufacturer": "IDEXX",
+   "model": null,
+   "part": "Reagent and supply agreement for total coliform testing in drinking water and fecal coliform testing in wastewater",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 326645.05,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Distribution, Inc.",
+   "reason": "Colilert is the primary method approved by the EPD for the lab to analyze total coliform in drinking water throughout DeKalb Watershed Managment's distribution system.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Snapfinger Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IDEXX",
+   "model": "Simplate",
+   "part": "HPC,SIMPLATE MULTI DOSE 1.5 reagent kit",
+   "part_numbers": [
+    "98-05761-01"
+   ],
+   "quantity": "60",
+   "price_usd": 25021.8,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Distribution, Inc.",
+   "reason": "Colilert is the primary method approved by the EPD for the lab to analyze total coliform in drinking water throughout DeKalb Watershed Managment's distribution system.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Snapfinger Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IDEXX",
+   "model": null,
+   "part": "VESSELS W/O ST, 200PK",
+   "part_numbers": [
+    "98-09222-00"
+   ],
+   "quantity": "30",
+   "price_usd": 5844.3,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Distribution, Inc.",
+   "reason": "Colilert is the primary method approved by the EPD for the lab to analyze total coliform in drinking water throughout DeKalb Watershed Managment's distribution system.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Snapfinger Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IDEXX",
+   "model": "QT2000",
+   "part": "PRE-DISP.QT 2000 COMPARATOR",
+   "part_numbers": [
+    "98-09227-00"
+   ],
+   "quantity": "6",
+   "price_usd": 226.32,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Distribution, Inc.",
+   "reason": "Colilert is the primary method approved by the EPD for the lab to analyze total coliform in drinking water throughout DeKalb Watershed Managment's distribution system.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Snapfinger Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IDEXX",
+   "model": null,
+   "part": "WP104 COLI P/A COMPARATOR",
+   "part_numbers": [
+    "98-11682-00"
+   ],
+   "quantity": "3",
+   "price_usd": 59.28,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Distribution, Inc.",
+   "reason": "Colilert is the primary method approved by the EPD for the lab to analyze total coliform in drinking water throughout DeKalb Watershed Managment's distribution system.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Snapfinger Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IDEXX",
+   "model": "Colilert",
+   "part": "WP200I GAMMA IRRAD COLILERT 100ML 200PK reagent",
+   "part_numbers": [
+    "98-12973-00"
+   ],
+   "quantity": "120",
+   "price_usd": 124154.4,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Distribution, Inc.",
+   "reason": "Colilert is the primary method approved by the EPD for the lab to analyze total coliform in drinking water throughout DeKalb Watershed Managment's distribution system.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Snapfinger Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IDEXX",
+   "model": "Quanti-Tray 2000",
+   "part": "WQT2K QUANTI-TRAY 2000 DISPOSABLE 100/BX",
+   "part_numbers": [
+    "98-21675-00"
+   ],
+   "quantity": "36",
+   "price_usd": 11194.56,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Distribution, Inc.",
+   "reason": "Colilert is the primary method approved by the EPD for the lab to analyze total coliform in drinking water throughout DeKalb Watershed Managment's distribution system.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Snapfinger Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IDEXX",
+   "model": null,
+   "part": "WAFDB ANTI-FOAM DROPPER BOTTLE",
+   "part_numbers": [
+    "98-21904-00"
+   ],
+   "quantity": "18",
+   "price_usd": 561.24,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Distribution, Inc.",
+   "reason": "Colilert is the primary method approved by the EPD for the lab to analyze total coliform in drinking water throughout DeKalb Watershed Managment's distribution system.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Snapfinger Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IDEXX",
+   "model": "Colilert-18",
+   "part": "COLILERT-18 200-PACK COMBO PACK 2K (includes Colilert-18 200PK and Quanti-Tray 2000 disposable 100/BX)",
+   "part_numbers": [
+    "99-27074",
+    "98-08877-00",
+    "98-21675-00"
+   ],
+   "quantity": "60",
+   "price_usd": 151575.6,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX Distribution, Inc.",
+   "reason": "Colilert is the primary method approved by the EPD for the lab to analyze total coliform in drinking water throughout DeKalb Watershed Managment's distribution system.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Snapfinger Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18548,
+  "out": 4063
+ },
+ "model": "claude-sonnet-5"
+}

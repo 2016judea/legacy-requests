@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Pumps, replacement parts, and process equipment at various locations",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 200000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Gasvoda & Associates, Inc.",
+   "reason": "An increase to the third year of the agreement is necessary due to a greater than anticipated need for pumps and process equipment replacement parts at the Egan and Hanover Park Water Reclamation Plants.",
+   "equipment_class": "pump",
+   "installed_location": "Egan and Hanover Park Water Reclamation Plants",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3552,
+  "out": 740
+ },
+ "model": "claude-sonnet-5"
+}

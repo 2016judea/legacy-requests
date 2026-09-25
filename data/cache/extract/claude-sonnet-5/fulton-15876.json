@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Operation & Maintenance Services for Wastewater Facilities & Pump Stations in the North Fulton Service Area (3 Water Reclamation Facilities, 28 wastewater pumping stations w/ forcemain air release valves, 5 potable water pump stations)",
+   "part_numbers": [],
+   "quantity": "3 WRFs, 28 wastewater pump stations, 5 potable water pump stations",
+   "price_usd": 28084782.0,
+   "lead_time": null,
+   "sole_source_vendor": "The Inframark-Slater Joint Venture doing business as Fulton County Wastewater Partners (\"FCWWP\")",
+   "reason": "After review, evaluation and consideration of all available information related to the requirements and evaluation criteria of the RFP, the Evaluation Committee held Oral Interviews and has determined that the proposal submitted by Fulton County Wastewater Partners (Inframark \u2013 Slater) JV with a total score of 72.68, is the recommended vendor for the award",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "North Fulton Service Area",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 50870,
+  "out": 1059
+ },
+ "model": "claude-sonnet-5"
+}

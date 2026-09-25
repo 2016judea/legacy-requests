@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vactor Manufacturing",
+   "model": "Ramjet Sewer Cleaner",
+   "part": "Sewer vacuum/hydro-excavation truck: Vactor Ramjet Sewer Cleaner, Single Engine mounted on a Heavy Duty Truck Chassis, 1500 gallon Water Tank",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 313255.0,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Products Group, Inc.",
+   "reason": "The Department of Real Estate and Asset Management on behalf of Public Works, is requesting approval for the purchase and delivery of one (1) Vactor Ramjet Sewer Cleaner, Single Engine mounted on a Heavy-Duty Truck Chassis, 1500-gallon Water Tank.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Public Works Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 93096,
+  "out": 340
+ },
+ "model": "claude-sonnet-5"
+}

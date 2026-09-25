@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Teledyne ISCO",
+   "model": null,
+   "part": "Training and Support, Equipment, Software and Licenses, Parts and Related System Components for Sanitary Sewer Flow Monitoring",
+   "part_numbers": [],
+   "quantity": "300+ flow monitors",
+   "price_usd": 3000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Teledyne Instruments, Inc. as a business unit Teledyne ISCO",
+   "reason": "Only Teledyne ISCO equipment, parts and system components are compatible with existing Teledyne equipment, parts, and system components.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5538,
+  "out": 276
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "250 HP effluent pumps installed outside and adjacent to the existing building in a new below-grade concrete structure",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This equipment is at the end of its expected life and replacement parts for several components are no longer available.",
+   "equipment_class": "pump",
+   "installed_location": "Sonoma Valley County Sanitation District Treatment Plant (WWTP) pump building",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "85 HP influent pumps installed in their existing positions in the pump building",
+   "part_numbers": [],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This equipment is at the end of its expected life and replacement parts for several components are no longer available.",
+   "equipment_class": "pump",
+   "installed_location": "Sonoma Valley County Sanitation District Treatment Plant (WWTP) pump building",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Construction contract for Treatment Plant Influent/Effluent Pumping and Piping Upgrade Project including connecting pipes and electrical appurtenances",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 10658200,
+   "lead_time": null,
+   "sole_source_vendor": "W.M. Lyles Co.",
+   "reason": "Award the contract to W.M. Lyles Co. for $10,658,200 for construction of the Sonoma Valley County Sanitation District Treatment Plant Influent/Effluent Pumping and Piping Upgrade Project",
+   "equipment_class": "pump",
+   "installed_location": "Sonoma Valley County Sanitation District Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8269,
+  "out": 1362
+ },
+ "model": "claude-sonnet-5"
+}

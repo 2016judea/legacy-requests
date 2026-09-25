@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Headworks",
+   "model": null,
+   "part": "Bar screen parts for the Bay View Pump Station",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 26000,
+   "lead_time": null,
+   "sole_source_vendor": "BL Anderson, Inc.",
+   "reason": "Most of the components are manufactured for or by Headworks Incorporated and are proprietary in nature, patented and can only be sourced through Headworks or B.L Anderson, our local authorized Manufacturer Representative in Ohio.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Bay View Wastewater Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4681,
+  "out": 249
+ },
+ "model": "claude-sonnet-5"
+}

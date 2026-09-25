@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hart Halsey LLC dba Extra Duty Solutions",
+   "model": "Xtra Duty Software",
+   "part": "Sole source overtime and extra duty scheduling software subscription for MNPD",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 290000,
+   "lead_time": null,
+   "sole_source_vendor": "Hart Halsey LLC dba Extra Duty Solutions",
+   "reason": "Extra Duty Solutions is a subscription service and is already implemented within MNPD. This service has the unique capability of providing scheduling solutions that can manage assignments for overtime initiatives, special events, and secondary employment opportunities",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Metro Nashville Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 59028,
+  "out": 273
+ },
+ "model": "claude-sonnet-5"
+}

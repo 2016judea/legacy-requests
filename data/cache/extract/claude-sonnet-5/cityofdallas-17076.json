@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Esri",
+   "model": null,
+   "part": "Enterprise software licenses and maintenance for a geographic information system (GIS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3498000,
+   "lead_time": null,
+   "sole_source_vendor": "ESRI, Inc. dba Esri",
+   "reason": "Utilized for procurements where functional requirements can only be satisfied by one vendor, such as those where patents, copyrights or monopolies exists",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Information and Technology Services",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3475,
+  "out": 210
+ },
+ "model": "claude-sonnet-5"
+}

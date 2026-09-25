@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "Serpentix",
+   "model": "Model-H",
+   "part": "Two Serpentix Model-H Conveyors to replace existing sludge pumps at Riverside Water Quality Control Plant",
+   "part_numbers": [
+    "ECM5823.2 Rev0",
+    "Q5823.2 Rev0"
+   ],
+   "quantity": "2",
+   "price_usd": 2769350.0,
+   "lead_time": "59 \u2013 73 weeks",
+   "sole_source_vendor": "Serpentix Conveyor Corporation",
+   "reason": "Purchase of two Serpentix Model-H Conveyors from Serpentix Conveyor Corporation, Westminster, Colorado",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Riverside Water Quality Control Plant - 5950 Acorn Street",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 24715,
+  "out": 295
+ },
+ "model": "claude-sonnet-5"
+}

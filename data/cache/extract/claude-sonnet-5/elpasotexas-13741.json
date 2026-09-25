@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Toll collection system upgrade (hardware and software) and ongoing maintenance/warranty services, parts/mechanisms repairs/replacements and service connectivity",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 6177406.32,
+   "lead_time": null,
+   "sole_source_vendor": "The Revenue Markets, Inc., dba TRMI Systems Integration",
+   "reason": "TRMI is the designer and developer for the hardware and software for this system. We are the only integrator of record who can produce, install, and upgrade our software design and specifications.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "International Bridges (all three International Bridges, El Paso)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8191,
+  "out": 262
+ },
+ "model": "claude-sonnet-5"
+}

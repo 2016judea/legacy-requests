@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": "KME",
+   "model": "Severe Service Pumper",
+   "part": "Three (3) KME Severe Service Pumpers",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": 4082248.8,
+   "lead_time": "27 months",
+   "sole_source_vendor": "Fire Apparatus Solutions",
+   "reason": "This purchase will be made via the Sourcewell Contract# 113021 RVG 3.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Riverside City Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cummins",
+   "model": "X15 565",
+   "part": "Cummins Model X15 565 diesel engine for fire pumper chassis",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Engine shall be a Cummins, Model X15 565, diesel, turbo-charged, per the following specifications:",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allison",
+   "model": "4000 EVS",
+   "part": "Allison World Transmission automatic transmission for fire pumper chassis",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "An Allison World Transmission, Model 4000 EVS electronically controlled, automatic transmission shall be provided.",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hale",
+   "model": "QMAX-1500-1500 GPM SINGLE STAGE",
+   "part": "Hale QMAX-1500 1500 GPM single stage fire pump",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "PUMP: HALE QMAX-1500-1500 GPM SINGLE STAGE",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FoamPro",
+   "model": "2001",
+   "part": "FoamPro 2001 foam proportioning system",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "FOAM SYSTEM: FOAM PRO 2001",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Radios and Radio Installation",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": 144000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Johnson Equipment Company",
+   "reason": "Please refer to quote #5942, which Johnson Equipment Company provided.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Riverside City Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Seek Attack Pro",
+   "part": "\"Seek Attack Pro\" and tool mounting",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": 35000.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "$35,000.00 has been budgeted per unit to purchase a \"Seek Attack Pro\" and for tool mounting.",
+   "equipment_class": "other equipment",
+   "installed_location": "Riverside City Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 5,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 1
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 59399,
+  "out": 12036
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Avaya",
+   "model": null,
+   "part": "Avaya telephone system to support the building telephones and call recording server used to record calls of 911 dispatchers, Remote Operations Control Center, Emergency Operations Center and Evidence rooms",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 600000,
+   "lead_time": null,
+   "sole_source_vendor": "Norstan Communications, Inc. (dba Black Box Network Services)",
+   "reason": "Such equipment/services must be procured from Black Box since they are the only Avaya-authorized service provider that supports the ongoing maintenance of BART's telephone systems.",
+   "equipment_class": "communications/radio",
+   "installed_location": "new BART Police Department Headquarters",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Toshiba",
+   "model": null,
+   "part": "configuring Toshiba copiers for fax functionality",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Norstan Communications, Inc. (dba Black Box Network Services)",
+   "reason": "Such equipment/services must be procured from Black Box since they are the only Avaya-authorized service provider that supports the ongoing maintenance of BART's telephone systems.",
+   "equipment_class": "other equipment",
+   "installed_location": "new BART Police Department Headquarters",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Crestron",
+   "model": null,
+   "part": "integration of Crestron equipment in the conference room system with telephone numbers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Norstan Communications, Inc. (dba Black Box Network Services)",
+   "reason": "Such equipment/services must be procured from Black Box since they are the only Avaya-authorized service provider that supports the ongoing maintenance of BART's telephone systems.",
+   "equipment_class": "other equipment",
+   "installed_location": "new BART Police Department Headquarters",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "radio console equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2900000,
+   "lead_time": null,
+   "sole_source_vendor": "Dailey and Wells Communications, Inc.",
+   "reason": "for the procurement of radio console equipment needed for the new BART Police Department Headquarters",
+   "equipment_class": "communications/radio",
+   "installed_location": "new BART Police Department Headquarters",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4317,
+  "out": 3192
+ },
+ "model": "claude-sonnet-5"
+}

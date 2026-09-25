@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Runbeck Election Services, LLC",
+   "model": "Sentinel Secure Smart Dropbox",
+   "part": "Sentinel Secure Smart Dropbox units",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1456380.0,
+   "lead_time": null,
+   "sole_source_vendor": "Runbeck Election Services, LLC",
+   "reason": "Runbeck Election Services, LLC developed the technology used for the Sentinel Secure Smart Dropbox and are the only producer for the product.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2909,
+  "out": 214
+ },
+ "model": "claude-sonnet-5"
+}

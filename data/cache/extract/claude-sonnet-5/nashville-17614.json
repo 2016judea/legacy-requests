@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": "UTJ Holdco, Inc dba Teaching Strategies, LLC",
+   "model": "GOLD",
+   "part": "Research-based, birth through kindergarten educational assessment software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 504923.0,
+   "lead_time": null,
+   "sole_source_vendor": "UTJ Holdco, Inc. dba Teaching Strategies, LLC",
+   "reason": "Teaching Strategies is the only company that implements and supports the curriculum.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teaching Strategies, LLC",
+   "model": "ReadyRosie",
+   "part": "ReadyRosie Community and Library Resources subscription",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 20000.0,
+   "lead_time": null,
+   "sole_source_vendor": "UTJ Holdco, Inc. dba Teaching Strategies, LLC",
+   "reason": "Teaching Strategies is the only company that implements and supports the curriculum.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teaching Strategies, LLC",
+   "model": "ReadyRosie",
+   "part": "ReadyRosie Classroom Resources (up to 78 participants), $245 per participant",
+   "part_numbers": [],
+   "quantity": "up to 78 participants",
+   "price_usd": 245.0,
+   "lead_time": null,
+   "sole_source_vendor": "UTJ Holdco, Inc. dba Teaching Strategies, LLC",
+   "reason": "Teaching Strategies is the only company that implements and supports the curriculum.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teaching Strategies, LLC",
+   "model": "Tadpoles",
+   "part": "Tadpoles powered by Teaching Strategies (up to 120 participants), $24.23 per participant",
+   "part_numbers": [],
+   "quantity": "up to 120 participants",
+   "price_usd": 24.23,
+   "lead_time": null,
+   "sole_source_vendor": "UTJ Holdco, Inc. dba Teaching Strategies, LLC",
+   "reason": "Teaching Strategies is the only company that implements and supports the curriculum.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teaching Strategies, LLC",
+   "model": "PD Teacher Membership",
+   "part": "PD Teacher Membership (up to 184 participants), $165.20 per participant",
+   "part_numbers": [],
+   "quantity": "up to 184 participants",
+   "price_usd": 165.2,
+   "lead_time": null,
+   "sole_source_vendor": "UTJ Holdco, Inc. dba Teaching Strategies, LLC",
+   "reason": "Teaching Strategies is the only company that implements and supports the curriculum.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teaching Strategies, LLC",
+   "model": "GOLD",
+   "part": "GOLD Online Assessment Portfolios (up to 1349 participants), $21.00 per participant",
+   "part_numbers": [],
+   "quantity": "up to 1349 participants",
+   "price_usd": 21.0,
+   "lead_time": null,
+   "sole_source_vendor": "UTJ Holdco, Inc. dba Teaching Strategies, LLC",
+   "reason": "Teaching Strategies is the only company that implements and supports the curriculum.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teaching Strategies, LLC",
+   "model": "GOLD Archives",
+   "part": "GOLD Archives (up to 13490 participants), $0.00 per participant",
+   "part_numbers": [],
+   "quantity": "up to 13490 participants",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "UTJ Holdco, Inc. dba Teaching Strategies, LLC",
+   "reason": "Teaching Strategies is the only company that implements and supports the curriculum.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 60276,
+  "out": 1440
+ },
+ "model": "claude-sonnet-5"
+}

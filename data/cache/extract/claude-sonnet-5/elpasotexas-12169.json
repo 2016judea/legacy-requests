@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "LSC Environmental Products",
+   "model": "Posi-Shell PSA-2000",
+   "part": "Posi-Shell sprayer to assist on the daily operations at the landfill for environmental compliance with TCEQ",
+   "part_numbers": [
+    "PSA-2000"
+   ],
+   "quantity": "1",
+   "price_usd": 166817.5,
+   "lead_time": null,
+   "sole_source_vendor": "LSC Environmental Products, LLC",
+   "reason": "items that are available from only one source because of patents, copyrights, secret processes, or natural monopolies",
+   "equipment_class": "other equipment",
+   "installed_location": "Landfill",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7276,
+  "out": 220
+ },
+ "model": "claude-sonnet-5"
+}

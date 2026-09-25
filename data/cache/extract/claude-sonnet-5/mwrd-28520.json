@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Xylem Flygt",
+   "model": "A-C",
+   "part": "pumps and replacement parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Flow-Technics, Inc.",
+   "reason": "a greater than anticipated need for spare and replacement Xylem and ITT pump parts and equipment in the Stickney, Calumet, and North Service Areas",
+   "equipment_class": "pump",
+   "installed_location": "Stickney, Calumet, and North Service Areas",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sulzer ABS",
+   "model": null,
+   "part": "pumps and replacement parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Flow-Technics, Inc.",
+   "reason": "a greater than anticipated need for spare and replacement Xylem and ITT pump parts and equipment in the Stickney, Calumet, and North Service Areas",
+   "equipment_class": "pump",
+   "installed_location": "Stickney, Calumet, and North Service Areas",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ITT Gould",
+   "model": null,
+   "part": "pumps and replacement parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Flow-Technics, Inc.",
+   "reason": "a greater than anticipated need for spare and replacement Xylem and ITT pump parts and equipment in the Stickney, Calumet, and North Service Areas",
+   "equipment_class": "pump",
+   "installed_location": "Stickney, Calumet, and North Service Areas",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Netzsch",
+   "model": null,
+   "part": "pumps and replacement parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Flow-Technics, Inc.",
+   "reason": "a greater than anticipated need for spare and replacement Xylem and ITT pump parts and equipment in the Stickney, Calumet, and North Service Areas",
+   "equipment_class": "pump",
+   "installed_location": "Stickney, Calumet, and North Service Areas",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3649,
+  "out": 766
+ },
+ "model": "claude-sonnet-5"
+}

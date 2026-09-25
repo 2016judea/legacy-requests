@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "Centrisys",
+   "model": "CS26-4EV 2PH",
+   "part": "Decanter Centrifuge unit with Automatic Hydraulic Backdrive",
+   "part_numbers": [
+    "CS26-4EV 2PH"
+   ],
+   "quantity": "1",
+   "price_usd": 827700,
+   "lead_time": "40-45 weeks following receipt of the Approval drawings.",
+   "sole_source_vendor": "Centrisys-CNP",
+   "reason": "Purchase of one Decanter Centrifuge unit, Model CS26 - 4EV 2PH with Automatic Hydraulic Backdrive... from Centrisys-CNP, Kenosha, Wisconsin",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Riverside Water Quality Control Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Centrisys",
+   "model": "CS21-4HC",
+   "part": "Decanter Centrifuge Panel Upgrade (complete panel replacement) for existing Centrifuge",
+   "part_numbers": [
+    "CS21-4HC"
+   ],
+   "quantity": "1",
+   "price_usd": 121400,
+   "lead_time": "45 weeks following receipt of the approval drawings",
+   "sole_source_vendor": "Centrisys-CNP",
+   "reason": "one Decanter Centrifuge Panel Upgrade for existing Centrifuge Model CS21 - 4HC from Centrisys-CNP, Kenosha, Wisconsin",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Riverside Water Quality Control Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Seepex",
+   "model": "BN 130-6LS",
+   "part": "Sludge Feed Pumps included with Decanter Centrifuge unit",
+   "part_numbers": [
+    "BN 130-6LS"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Centrisys-CNP",
+   "reason": "Two (2) Seepex BN 130-6LS Sludge Feed Pumps",
+   "equipment_class": "pump",
+   "installed_location": "Riverside Water Quality Control Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Seepex",
+   "model": "MD 006-12",
+   "part": "Polymer Transfer Pumps included with Decanter Centrifuge unit",
+   "part_numbers": [
+    "MD 006-12"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Centrisys-CNP",
+   "reason": "Two (2) Seepex MD 006-12 Polymer Transfer Pumps",
+   "equipment_class": "pump",
+   "installed_location": "Riverside Water Quality Control Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11382,
+  "out": 2469
+ },
+ "model": "claude-sonnet-5"
+}

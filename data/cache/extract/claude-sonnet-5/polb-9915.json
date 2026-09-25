@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tracsis",
+   "model": "Railroad Signal Control System",
+   "part": "Railroad Signal Control System sole sourced to match existing rail network switch control/dispatch system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Tracsis (formerly known as RailComm)",
+   "reason": "Sole source for Tracsis (formerly known as RailComm) Railroad Signal Control System is required to match other products in use at the Port for maintenance and operation of the entire rail network within the Port area and the Alameda Corridor.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Pier B Rail Yard Locomotive Facility, Control Points Gaspur & Perry",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calsense",
+   "model": "Irrigation Controller",
+   "part": "Irrigation Controller sole sourced for compatibility with existing Port irrigation network",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Calsense",
+   "reason": "Sole source for Calsense Irrigation Controller is required to match other products in use at the Port and to ensure compatibility with the other irrigation controllers throughout the Port's network.",
+   "equipment_class": "other equipment",
+   "installed_location": "Pier B Rail Yard Locomotive Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6823,
+  "out": 489
+ },
+ "model": "claude-sonnet-5"
+}

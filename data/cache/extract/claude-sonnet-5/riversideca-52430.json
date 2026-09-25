@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pratt",
+   "model": "150B",
+   "part": "66\" Pratt Flange 150B Butterfly Valve, EPDM Seat, DI Body, DI Disc, 316SS Shaft, Teflon Lined Fiberglass Backing Bearing, Limitorque Wormgear w/ Handwheel, 8 Mils Amercoat 370 Epoxy Interior/Exterior, CS Extension Bonnet and CS Torque Tube, 10' CS Extension Bonnet Quoted",
+   "part_numbers": [
+    "Limitorque WG-08-1SD-B"
+   ],
+   "quantity": "1",
+   "price_usd": 174400.76,
+   "lead_time": "33-34 Weeks",
+   "sole_source_vendor": "Southwest Valve and Equipment",
+   "reason": "Purchase one 66-inch Pratt Flange 150B Butterfly Valve and necessary appurtenances from Southwest Valve and Equipment",
+   "equipment_class": "valve",
+   "installed_location": "Riverside Water Quality Control Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8303,
+  "out": 364
+ },
+ "model": "claude-sonnet-5"
+}

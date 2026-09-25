@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Catalis Courts & Land Records, LLC",
+   "model": "Caseload Explorer",
+   "part": "Maintenance and support for Probation Department's case management software (CE, including Ce SRF, Ce Drug Testing, Ce Check-In, Ce Pretrial, Data Extract Services)",
+   "part_numbers": [
+    "006Ph00000Z6JBvIAN"
+   ],
+   "quantity": null,
+   "price_usd": 332850.0,
+   "lead_time": null,
+   "sole_source_vendor": "Catalis Courts & Land Records, LLC",
+   "reason": "Proprietary Software is software that is licensed, copyrighted, or patented that only one vendor provides.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Probation Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 1
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 50462,
+  "out": 278
+ },
+ "model": "claude-sonnet-5"
+}

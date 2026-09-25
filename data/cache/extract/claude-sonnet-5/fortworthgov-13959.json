@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Mitchell Adding Machine Company, Inc.",
+   "model": null,
+   "part": "Parking automation equipment for the automation of the Commerce Street Garage",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 131013.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mitchell Adding Machine Company, Inc., dba Mitchell Time and Parking",
+   "reason": "MTP is the sole source provider of software and related services.",
+   "equipment_class": "other equipment",
+   "installed_location": "Commerce Street Garage",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Mitchell Adding Machine Company, Inc.",
+   "model": null,
+   "part": "Monthly fees associated with parking automation equipment/service at Commerce Street Garage",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 18987.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mitchell Adding Machine Company, Inc., dba Mitchell Time and Parking",
+   "reason": "MTP is the sole source provider of software and related services.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Commerce Street Garage",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5906,
+  "out": 850
+ },
+ "model": "claude-sonnet-5"
+}

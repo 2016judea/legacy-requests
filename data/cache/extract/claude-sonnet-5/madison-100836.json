@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Action Target",
+   "model": null,
+   "part": "Repair and replacement of proprietary and patented firearms range equipment/infrastructure",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 89093.44,
+   "lead_time": null,
+   "sole_source_vendor": "Action Target",
+   "reason": "there are no other firms in the country with the specific knowledge of Action Target\u2019s proprietary and patented equipment who can provide this service",
+   "equipment_class": "other equipment",
+   "installed_location": "MPD indoor shooting range, 5702 Femrite Drive (District 16)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2691,
+  "out": 210
+ },
+ "model": "claude-sonnet-5"
+}

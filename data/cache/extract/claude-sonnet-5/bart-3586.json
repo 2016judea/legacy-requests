@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "CORYS",
+   "model": "D-Car Train Simulator",
+   "part": "Hardware and Software Update to the D-Car Train Simulator to Reflect CBTC Modifications",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1743088,
+   "lead_time": null,
+   "sole_source_vendor": "CORYS",
+   "reason": "Since the CORYS simulator product is proprietary to CORYS and no other vendor can perform such system updates, this award is a permissible single source agreement under FTA Circular 4220.1F.",
+   "equipment_class": "other equipment",
+   "installed_location": "Hayward Yard Training Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3898,
+  "out": 229
+ },
+ "model": "claude-sonnet-5"
+}

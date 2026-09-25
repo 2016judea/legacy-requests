@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Irth Solutions",
+   "model": "UtiliSphere",
+   "part": "Three-year UtiliSphere software subscription for field workforce operations, underground asset management, and GA811 compliance",
+   "part_numbers": [],
+   "quantity": "1 subscription (up to 12 users, up to 175,000 tickets, up to 5 GB attachment storage)",
+   "price_usd": 199018.68,
+   "lead_time": null,
+   "sole_source_vendor": "Irth Solutions, LLC",
+   "reason": "Irth Solutions, LLC is the sole provider of UtiliSphere Software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Watershed Management (DWM)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14667,
+  "out": 251
+ },
+ "model": "claude-sonnet-5"
+}

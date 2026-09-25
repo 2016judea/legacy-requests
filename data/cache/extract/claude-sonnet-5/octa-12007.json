@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": "Air Products and Chemicals, Inc.",
+   "model": null,
+   "part": "Hydrogen fueling station operation, maintenance, and hydrogen fuel supply",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2460000,
+   "lead_time": null,
+   "sole_source_vendor": "Air Products and Chemicals, Inc.",
+   "reason": "the unique circumstances of a public exigency or emergency, where the urgency of the need would not allow for delays associated with a competitive solicitation process",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Santa Ana Bus Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Air Products and Chemicals, Inc.",
+   "model": null,
+   "part": "18,000-gallon above-ground, cryogenic liquid hydrogen storage tank",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "18 to 24 months",
+   "sole_source_vendor": "Air Products and Chemicals, Inc.",
+   "reason": "OCTA owns the hydrogen fueling station with the exception of the 18,000-gallon liquid hydrogen storage tank and vaporizers, which are leased from Air Products.",
+   "equipment_class": "other equipment",
+   "installed_location": "Santa Ana Bus Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Air Products and Chemicals, Inc.",
+   "model": null,
+   "part": "Vaporizers (leased)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "18 to 24 months",
+   "sole_source_vendor": "Air Products and Chemicals, Inc.",
+   "reason": "they chose to retain ownership of the storage tank and vaporizers, consistent with their standard business model",
+   "equipment_class": "other equipment",
+   "installed_location": "Santa Ana Bus Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Cryogenic Hydrogen Compressor (CHC) pumps",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "18 to 24 months",
+   "sole_source_vendor": "Air Products and Chemicals, Inc.",
+   "reason": "The hydrogen fueling station includes proprietary components, the cryogenic hydrogen compressor (CHC) pumps, dispensers, and software, which hinder OCTA\\u2019s ability to contract for on-going operations and maintenance.",
+   "equipment_class": "pump",
+   "installed_location": "Santa Ana Bus Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fuel dispensers (proprietary)",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "18 to 24 months",
+   "sole_source_vendor": "Air Products and Chemicals, Inc.",
+   "reason": "The hydrogen fueling station includes proprietary components, the cryogenic hydrogen compressor (CHC) pumps, dispensers, and software, which hinder OCTA\\u2019s ability to contract for on-going operations and maintenance.",
+   "equipment_class": "other equipment",
+   "installed_location": "Santa Ana Bus Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Operating software (proprietary)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "18 to 24 months",
+   "sole_source_vendor": "Air Products and Chemicals, Inc.",
+   "reason": "The hydrogen fueling station includes proprietary components, the cryogenic hydrogen compressor (CHC) pumps, dispensers, and software, which hinder OCTA\\u2019s ability to contract for on-going operations and maintenance.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Santa Ana Bus Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Rooftop chiller",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Air Products and Chemicals, Inc.",
+   "reason": "Rooftop Chiller",
+   "equipment_class": "HVAC",
+   "installed_location": "Santa Ana Bus Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Vapor storage tanks",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Air Products and Chemicals, Inc.",
+   "reason": "Vapor Storage Tanks",
+   "equipment_class": "other equipment",
+   "installed_location": "Santa Ana Bus Base",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7478,
+  "out": 3167
+ },
+ "model": "claude-sonnet-5"
+}

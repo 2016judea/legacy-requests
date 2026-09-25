@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Royer Industries, Inc.",
+   "model": "Royer 466",
+   "part": "Parts and repair services for topsoil shredder",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 89995,
+   "lead_time": null,
+   "sole_source_vendor": "Royer Industries, Inc.",
+   "reason": "Royer Industries, Inc. is the only contractor in the area that can provide the specific parts and repairs for the Royer 466",
+   "equipment_class": "other equipment",
+   "installed_location": "City of Madison Parks",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2605,
+  "out": 194
+ },
+ "model": "claude-sonnet-5"
+}

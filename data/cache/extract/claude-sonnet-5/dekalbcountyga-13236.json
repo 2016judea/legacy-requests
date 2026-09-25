@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Oracle",
+   "model": "Oracle Service Cloud (Gov CX City 311)",
+   "part": "Application Maintenance and Operations Support for DeKalb County's Gov CX City 311 application",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 600000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Speridian Technologies, LLC",
+   "reason": "This vendor is the sole firm capable of providing the annual maintenance and operation support needed for the specifically designed application.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DeKalb County",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6748,
+  "out": 220
+ },
+ "model": "claude-sonnet-5"
+}

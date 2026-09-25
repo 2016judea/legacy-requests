@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Two old digester heat exchangers to be replaced at Bay View Water Reclamation Plant",
+   "part_numbers": [],
+   "quantity": "two",
+   "price_usd": 100000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "It is now necessary to replace the two old heat exchangers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bay View Water Reclamation Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3232,
+  "out": 928
+ },
+ "model": "claude-sonnet-5"
+}

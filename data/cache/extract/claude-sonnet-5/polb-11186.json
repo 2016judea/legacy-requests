@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": "Calsense",
+   "model": null,
+   "part": "Irrigation Controllers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Sole sourcing these products is required for compatibility in operations and maintenance of existing equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "Harbor Scenic Drive Roadway and Infrastructure Improvements Project",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Calsense",
+   "model": null,
+   "part": "Flow Sensors",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Sole sourcing these products is required for compatibility in operations and maintenance of existing equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Harbor Scenic Drive Roadway and Infrastructure Improvements Project",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rain Bird",
+   "model": null,
+   "part": "Spray Heads",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Sole sourcing these products is required for compatibility in operations and maintenance of existing equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "Harbor Scenic Drive Roadway and Infrastructure Improvements Project",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hunter",
+   "model": null,
+   "part": "Bubblers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Sole sourcing these products is required for compatibility in operations and maintenance of existing equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "Harbor Scenic Drive Roadway and Infrastructure Improvements Project",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axis",
+   "model": null,
+   "part": "Security Cameras",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Sole sourcing these products is required for compatibility in operations and maintenance of existing equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "Harbor Scenic Drive Roadway and Infrastructure Improvements Project",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hanwha",
+   "model": null,
+   "part": "Security Cameras",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Sole sourcing these products is required for compatibility in operations and maintenance of existing equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "Harbor Scenic Drive Roadway and Infrastructure Improvements Project",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bosch",
+   "model": null,
+   "part": "Security Cameras",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Sole sourcing these products is required for compatibility in operations and maintenance of existing equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "Harbor Scenic Drive Roadway and Infrastructure Improvements Project",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cisco",
+   "model": null,
+   "part": "Network Switches",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Sole sourcing these products is required for compatibility in operations and maintenance of existing equipment.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Harbor Scenic Drive Roadway and Infrastructure Improvements Project",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9844,
+  "out": 2062
+ },
+ "model": "claude-sonnet-5"
+}

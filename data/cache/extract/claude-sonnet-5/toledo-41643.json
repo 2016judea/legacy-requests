@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Variable frequency drives that power pumps 1 and 3 at the Reynolds Area Pumping Station (repair/replacement)",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 400000,
+   "lead_time": null,
+   "sole_source_vendor": "Romanoff Electric Company LLC",
+   "reason": "Existing drives are obsolete and cannot be serviced.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Reynolds Area Pumping Station, 4150 Airport Hwy, Toledo Ohio",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3052,
+  "out": 216
+ },
+ "model": "claude-sonnet-5"
+}

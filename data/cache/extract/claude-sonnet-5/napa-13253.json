@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "IDEMIA",
+   "model": null,
+   "part": "LiveScan fingerprinting system replacement for Juvenile Hall",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 30600,
+   "lead_time": null,
+   "sole_source_vendor": "IDEMIA",
+   "reason": "A waiver of competitive bidding requirements and sole source award for the purchase of a LiveScan fingerprinting systems from IDEMIA for a total of $30,600 pursuant to County Ordinance Code 2.36.090.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Probation's Juvenile Hall",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Current LiveScan fingerprint system to be disposed (Asset 101121, Tag 27899)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The LiveScan system located in the Juvenile Hall was purchased in 2020 and has reached its shelf life and replacement is needed.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Probation's Juvenile Hall",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3329,
+  "out": 424
+ },
+ "model": "claude-sonnet-5"
+}

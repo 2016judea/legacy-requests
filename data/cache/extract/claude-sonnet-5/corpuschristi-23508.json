@@ -1,0 +1,225 @@
+{
+ "records": [
+  {
+   "manufacturer": "American Generator Services, LLC",
+   "model": null,
+   "part": "One-year service agreement, with four one-year options to renew, for generator preventative maintenance and repairs for Corpus Christi Water",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 146500.0,
+   "lead_time": null,
+   "sole_source_vendor": "American Generator Services, LLC",
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Sandia.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Corpus Christi Water (O.N. Stevens WTP, pump stations, storage tanks, dams)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Caterpillar",
+   "model": "DG150-2",
+   "part": "Generator preventative maintenance and repair",
+   "part_numbers": [
+    "4500502"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Generator Services, LLC",
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Sandia.",
+   "equipment_class": "generator",
+   "installed_location": "Holly EST; 4917 Holly Rd, CC, TX 78411",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Taylor",
+   "model": "TD450",
+   "part": "Generator preventative maintenance and repair",
+   "part_numbers": [
+    "X16c113606"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Generator Services, LLC",
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Sandia.",
+   "equipment_class": "generator",
+   "installed_location": "Staples Pump Station; 5501 Co Rd 2444, CC, TX 78415",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Caterpillar",
+   "model": "DG-150-2",
+   "part": "Generator preventative maintenance and repair",
+   "part_numbers": [
+    "CATD6150LT4500581"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Generator Services, LLC",
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Sandia.",
+   "equipment_class": "generator",
+   "installed_location": "Rand Morgan GST; 9355 Leopard St., CC, TX 78409",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Taylor",
+   "model": "TD450",
+   "part": "Generator preventative maintenance and repair",
+   "part_numbers": [
+    "X16E196614"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Generator Services, LLC",
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Sandia.",
+   "equipment_class": "generator",
+   "installed_location": "Navigation Pump Station; 302 Navigation Blvd., Corpus Christi, TX 78408",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Kohler",
+   "model": "10RESVL",
+   "part": "Generator preventative maintenance and repair",
+   "part_numbers": [
+    "SGV324DJ7"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Generator Services, LLC",
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Sandia.",
+   "equipment_class": "generator",
+   "installed_location": "Oso Wetlands Preserve; 2446 N. Oso Pkwy, Corpus Christi, TX 78414",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rolls Royce",
+   "model": "MTU 10V0068",
+   "part": "Generator preventative maintenance and repair",
+   "part_numbers": [
+    "MT-0092651-0520"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Generator Services, LLC",
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Sandia.",
+   "equipment_class": "generator",
+   "installed_location": "ONS Maintenance Shop Generator, 13101 Leopard St., Corpus Christi, TX 78410",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Generac",
+   "model": "S6",
+   "part": "Generator preventative maintenance and repair",
+   "part_numbers": [
+    "3013999493"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Generator Services, LLC",
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Sandia.",
+   "equipment_class": "generator",
+   "installed_location": "Flour Bluff EST, 2034 Flour Bluff Dr., Corpus Christi, TX 78418",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CK-Power",
+   "model": "CK430VM-T4",
+   "part": "Generator preventative maintenance and repair",
+   "part_numbers": [
+    "20132095-407"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Generator Services, LLC",
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Sandia.",
+   "equipment_class": "generator",
+   "installed_location": "ONS Mobile Generator, ONS Water Treatment Plant, 13101 Leopard St., Corpus Christi, TX 78410",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Olympian",
+   "model": "B50P3",
+   "part": "Generator preventative maintenance and repair",
+   "part_numbers": [
+    "OLY00000CNPF01601"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Generator Services, LLC",
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Sandia.",
+   "equipment_class": "generator",
+   "installed_location": "Wesley Seale Dam, 299 County Road 365, Sandia, TX 78383",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Generac",
+   "model": "13092150200",
+   "part": "Generator preventative maintenance and repair",
+   "part_numbers": [
+    "#1842-2011 Generac Model 13092150200",
+    "S60040K6034.2V18HPNLA",
+    "2110773"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Generator Services, LLC",
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Sandia.",
+   "equipment_class": "generator",
+   "installed_location": "Choke Canyon Dam (Spillway), 150 South Shore Park Road, Three Rivers, TX 78071",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Generac",
+   "model": "G0070430",
+   "part": "Generator preventative maintenance and repair",
+   "part_numbers": [
+    "#1843-2022 Generac Model G0070430",
+    "3001422103"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Generator Services, LLC",
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Sandia.",
+   "equipment_class": "generator",
+   "installed_location": "Choke Canyon Dam (Shop), 150 South Shore Park Road, Three Rivers, TX 78071",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Generac",
+   "model": "G0069981",
+   "part": "Generator preventative maintenance and repair",
+   "part_numbers": [
+    "#1846-2022 Generac Model G0069981",
+    "3013047359"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "American Generator Services, LLC",
+   "reason": "Staff recommends the award to the lowest, responsive, and responsible bidder, American Generator Services, LLC of Sandia.",
+   "equipment_class": "generator",
+   "installed_location": "Choke Canyon Dam, 150 South Shore Park Road, Three Rivers, TX 78071",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 17845,
+  "out": 4234
+ },
+ "model": "claude-sonnet-5"
+}

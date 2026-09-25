@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola Solutions Inc.",
+   "model": "APX 1500 and APX900",
+   "part": "Two-way radio equipment lease (final, year 5 installment) and related appurtenances",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 158990.56,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "Awarded to Motorola Solutions Inc.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola Solutions Inc.",
+   "model": "APX 1500 and APX900",
+   "part": "Two-way radio equipment lease (year 4 installment, ratification of PO No. 5016433)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 158990.56,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "ratification of Purchase Order No. 5016433 for the year 4 lease payment in the amount of $158,990.56",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4208,
+  "out": 392
+ },
+ "model": "claude-sonnet-5"
+}

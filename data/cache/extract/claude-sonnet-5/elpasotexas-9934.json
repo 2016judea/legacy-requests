@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Amano McGann",
+   "model": null,
+   "part": "Service, Software, Preventative Maintenance and Parts needed to secure and operate the entry and exit gates of the parking garage",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 149037.0,
+   "lead_time": null,
+   "sole_source_vendor": "Mitchell Adding Machine Co., Inc. dba Mitchell Time and Parking",
+   "reason": "Mitchell Time and Parking is the only authorized dealer of Amano McGann, Inc. parking access and revenue control system products sold in El Paso, Texas.",
+   "equipment_class": "other equipment",
+   "installed_location": "parking garage",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6490,
+  "out": 243
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Construction of physical components (pumps, pipe supports, protective barriers, valves and appurtenances) for the temporary bypass pumping system",
+   "part_numbers": [],
+   "quantity": "1 LS",
+   "price_usd": 6680000,
+   "lead_time": null,
+   "sole_source_vendor": "Ruby-Collins, Inc.",
+   "reason": "Ruby Collins working with Sunbelt Rentals Pump Solutions has proposed a system that will meet the County's needs within the time frame required.",
+   "equipment_class": "pump",
+   "installed_location": "Snapfinger Advance Wastewater Treatment Facility (SFAWTF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Installation and integration of tank level monitoring (unused old aeration basin and bypass pumping control valve actuators) into existing SCADA system",
+   "part_numbers": [],
+   "quantity": "1 LS",
+   "price_usd": 255000,
+   "lead_time": null,
+   "sole_source_vendor": "Ruby-Collins, Inc.",
+   "reason": "Ruby Collins working with Sunbelt Rentals Pump Solutions has proposed a system that will meet the County's needs within the time frame required.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Snapfinger Advance Wastewater Treatment Facility (SFAWTF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Additional monthly cost beyond June 2029 (until New IPS is operational as needed) for temporary bypass pumping system operations",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": 750000,
+   "lead_time": null,
+   "sole_source_vendor": "Ruby-Collins, Inc.",
+   "reason": "Ruby Collins working with Sunbelt Rentals Pump Solutions has proposed a system that will meet the County's needs within the time frame required.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Snapfinger Advance Wastewater Treatment Facility (SFAWTF)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12682,
+  "out": 2902
+ },
+ "model": "claude-sonnet-5"
+}

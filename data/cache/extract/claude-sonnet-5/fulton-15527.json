@@ -1,0 +1,149 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Factory-built grinder pump stations for low-pressure sanitary sewer service",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Acceptable Low Pressure Sewer Manufacturers: 1. Barnes Pressure Systems, 2. Environment One Corporation, 3. Liberty Pumps, 4. Zoeller, or 5. Approved Equal",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Plug valve and backflow assembly",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Manufacturers: Acceptable Manufacturers are listed below. 1. DeZurik 2. Val-Matic 3. Or approved equal",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Watts",
+   "model": "LF007",
+   "part": "Double Check Assembly for backflow prevention, 5/8 inch to 2 inch",
+   "part_numbers": [
+    "LF007"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Backflow prevention assemblies shall be among those listed on the list below for the size of the wastewater force main service line. A. Double Check Assemblies 1. Watts LF007",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Watts",
+   "model": "774",
+   "part": "Double Check Assembly for backflow prevention, 2-1/2 inch to 12 inch",
+   "part_numbers": [
+    "774"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "2. Watts 774 Double Check Assembly for 2-1/2 inch to 12 inch. 3. Or approved equal.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "3M",
+   "model": "EMS Warning Tape 7904-XT",
+   "part": "Electronic Marking System (EMS) Warning Tape for force main/waste water line marking",
+   "part_numbers": [
+    "7904-XT"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The Contractor/Installer shall install 3M\u2122 Electronic Marking System (EMS) Warning Tape 7904-XT, Green, 4 in, WasteWater",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Oldcastle",
+   "model": "FRP 2700",
+   "part": "Flushing connection vault/box for low pressure sewer system",
+   "part_numbers": [
+    "FRP 2700"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "OLDCASTLE FRP 2700",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Composite Access Products",
+   "model": null,
+   "part": "Water tight cover and ring for manhole structure adjustment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Composite Access Products (CAP)",
+   "reason": "WATER TIGHT COVER AND RING BY COMPOSITE ACCESS PRODUCTS (CAP)",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ladtech",
+   "model": null,
+   "part": "Composite manhole riser ring below concrete collar",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "COMPOSITE MANHOLE RISER RING BELOW CONCRETE COLLAR BY LADTECH OR APPROVED EQUAL",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HI-TEC",
+   "model": "Project1",
+   "part": "Neutral cure RTV silicone sealant for manhole joint sealing",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "HI-TEC PROJECT1 NEUTRAL CURE 100% RTV SILICONE SEALANT OR APPROVED EQUAL",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 1
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 68883,
+  "out": 5054
+ },
+ "model": "claude-sonnet-5"
+}

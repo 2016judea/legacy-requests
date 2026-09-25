@@ -1,0 +1,173 @@
+{
+ "records": [
+  {
+   "manufacturer": "Western Systems",
+   "model": "HyMax",
+   "part": "Hymax Fuel Cell System Parts purchase contract (systems, replacement parts, maintenance)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": "WESTERN SYSTEMS INC.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole producer, manufacturer and sole distribution channel for Hymax Fuel Cell parts.",
+   "equipment_class": "generator",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Western Systems",
+   "model": "HYMAX 332S",
+   "part": "HYMAX Hydrogen Cabinet System: 332S (6) cylinder storage, fuel cell engine, UPS, C (unfinished)",
+   "part_numbers": [
+    "2700020000"
+   ],
+   "quantity": "2",
+   "price_usd": 83454.0,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole producer, manufacturer and sole distribution channel for Hymax Fuel Cell parts.",
+   "equipment_class": "generator",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Western Systems",
+   "model": null,
+   "part": "Contract preventative maintenance & service: annual fee (2) services/year, w/remote monitoring",
+   "part_numbers": [
+    "9999400460"
+   ],
+   "quantity": "4",
+   "price_usd": 9375.0,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole producer, manufacturer and sole distribution channel for Hymax Fuel Cell parts.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Western Systems",
+   "model": null,
+   "part": "Hydrogen cylinder lease & management program, annual PM & top off (6 cylinder) annual fee (includes cylinder rental, 5 year recertification & valve maintenance, leak free guarantee, & initial hydrogen fill for 6C)",
+   "part_numbers": [
+    "9999400401"
+   ],
+   "quantity": "2",
+   "price_usd": 4162.5,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole producer, manufacturer and sole distribution channel for Hymax Fuel Cell parts.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Western Systems",
+   "model": null,
+   "part": "UPS power module HP 1100W w/(6) relays & 120V input/output IP/SNMP",
+   "part_numbers": [
+    "8025000115"
+   ],
+   "quantity": "2",
+   "price_usd": 3833.92,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole producer, manufacturer and sole distribution channel for Hymax Fuel Cell parts.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Western Systems",
+   "model": "Alpha",
+   "part": "Automatic transfer switch assembly (Alpha); 19\" RM w/blank, UATS, BLAVK 120VAC (020-168-31)",
+   "part_numbers": [
+    "8025015020"
+   ],
+   "quantity": "2",
+   "price_usd": 968.52,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole producer, manufacturer and sole distribution channel for Hymax Fuel Cell parts.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Western Systems",
+   "model": "AlphaGuard",
+   "part": "Battery cable harness kit w/integrated AlphaGuard 48V 5FT 1/4-20 terminals",
+   "part_numbers": [
+    "8025050015"
+   ],
+   "quantity": "2",
+   "price_usd": 777.7,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole producer, manufacturer and sole distribution channel for Hymax Fuel Cell parts.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Western Systems",
+   "model": "RBMS",
+   "part": "RBMS; controller, sensor int cables, (1) CAT5E cbls, (4) BS3B-12-4-EQ sensors (4 battery system)",
+   "part_numbers": [
+    "8025095500"
+   ],
+   "quantity": "2",
+   "price_usd": 1891.36,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole producer, manufacturer and sole distribution channel for Hymax Fuel Cell parts.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Western Systems",
+   "model": "AlphaCell 100XTV",
+   "part": "Battery AlphaCell 100XTV (56AH / 39LB) (100XTV)",
+   "part_numbers": [
+    "8025040031"
+   ],
+   "quantity": "8",
+   "price_usd": 1790.96,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole producer, manufacturer and sole distribution channel for Hymax Fuel Cell parts.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Western Systems",
+   "model": null,
+   "part": "Onsite turn-on assistance",
+   "part_numbers": [
+    "9780010000"
+   ],
+   "quantity": "2",
+   "price_usd": 4000.0,
+   "lead_time": "TBD",
+   "sole_source_vendor": "Western Systems Inc.",
+   "reason": "Western Systems Inc has provided a sole source letter stating they are the sole producer, manufacturer and sole distribution channel for Hymax Fuel Cell parts.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 14254,
+  "out": 5168
+ },
+ "model": "claude-sonnet-5"
+}

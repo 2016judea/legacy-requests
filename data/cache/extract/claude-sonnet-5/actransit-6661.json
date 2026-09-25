@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Technological equipment, supplies, and labor for upgrade of tenth-floor conference room audio-visual equipment and IT infrastructure",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 347800.0,
+   "lead_time": "4-6 months after contract execution",
+   "sole_source_vendor": "One WorkPlace Construction, LLC (dba Vantis)",
+   "reason": "With only one vendor able to meet the District's schedule for this project, staff recommends that the Board approve a single-source contract",
+   "equipment_class": "other equipment",
+   "installed_location": "10th Floor Executive Conference Room, District's General Office building",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8366,
+  "out": 820
+ },
+ "model": "claude-sonnet-5"
+}

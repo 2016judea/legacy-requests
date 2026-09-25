@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Seven (7) Ship-To-Shore Cranes and associated spare parts sold to SSAT",
+   "part_numbers": [],
+   "quantity": "7",
+   "price_usd": 20541650,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "To Sell To SSAT Seven (7) Ship-To-Shore Cranes And Associated Spare Parts At A Price Of $20,541,650",
+   "equipment_class": "other equipment",
+   "installed_location": "Oakland International Container Terminal (Berths 55-60)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2736,
+  "out": 211
+ },
+ "model": "claude-sonnet-5"
+}

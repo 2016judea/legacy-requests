@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cityworks",
+   "model": "Public Asset Management System (AMS)",
+   "part": "Implementation of a custom AMS for Facilities Management, Public Works - Roads and Drainage, Public Works - Traffic, and Watershed Management (Pump Stations)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 225000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Woolpert Inc.",
+   "reason": "Solicitation Name and Number (AMS) (Multi-Year Contract) (Sole Source)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4809,
+  "out": 515
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Deaf Link, Inc.",
+   "model": "Accessible Hazard Alert System (AHAS\u2122)",
+   "part": "Three-year service contract for accessible emergency notification system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 352755.0,
+   "lead_time": null,
+   "sole_source_vendor": "Deaf Link, Inc.",
+   "reason": "The Office of Procurement Services conducted a sole source review and found no exceptions",
+   "equipment_class": "communications/radio",
+   "installed_location": "Office of Emergency Management and Crisis Response",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3141,
+  "out": 584
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "voestalpine",
+   "model": "CSV-24",
+   "part": "Onsite technical support, training, and spare parts for power switch machines",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Voestalpine Railway Systems Nortrak, LLC",
+   "reason": "Nortrak is the only supplier based in North America that offers training and spare parts for the proprietary CSV-24 and CSV-34 switch machines and Unilock turnout control system.",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Streetcar",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "voestalpine",
+   "model": "CSV-34",
+   "part": "Onsite technical support, training, and spare parts for manual switch machines",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Voestalpine Railway Systems Nortrak, LLC",
+   "reason": "Nortrak is the only supplier based in North America that offers training and spare parts for the proprietary CSV-24 and CSV-34 switch machines and Unilock turnout control system.",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Streetcar",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "voestalpine",
+   "model": "Unilock",
+   "part": "Onsite technical support, training, and spare parts for turnout control system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Voestalpine Railway Systems Nortrak, LLC",
+   "reason": "Nortrak is the only supplier based in North America that offers training and spare parts for the proprietary CSV-24 and CSV-34 switch machines and Unilock turnout control system.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "El Paso Streetcar",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Streetcar Signal and Switch System parts and services",
+   "part_numbers": [],
+   "quantity": "All",
+   "price_usd": 160000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Voestalpine Railway Systems Nortrak, LLC",
+   "reason": "Voestalpine Railway Systems Nortrak LLC is the sole and authorized distributor of Voestalpine products.",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Streetcar",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9604,
+  "out": 925
+ },
+ "model": "claude-sonnet-5"
+}

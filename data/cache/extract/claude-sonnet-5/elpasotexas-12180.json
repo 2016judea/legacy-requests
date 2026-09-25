@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pierce",
+   "model": null,
+   "part": "Pierce proprietary parts, repair, maintenance and training service for fire apparatus",
+   "part_numbers": [],
+   "quantity": "All",
+   "price_usd": 1185560.55,
+   "lead_time": null,
+   "sole_source_vendor": "Siddons-Martin Emergency Group, LLC",
+   "reason": "a procurement of items that are available from only one source, including: (D) captive replacement parts or components for equipment.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8862,
+  "out": 196
+ },
+ "model": "claude-sonnet-5"
+}

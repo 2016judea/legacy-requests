@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hitachi",
+   "model": "onboard automatic train control (ATC) system",
+   "part": "Modify the onboard automatic train control (ATC) software on Metro's LRVs to only allow platform-side doors to open upon vehicle berthing",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 24444798.94,
+   "lead_time": null,
+   "sole_source_vendor": "Hitachi Rail STS USA, Inc.",
+   "reason": "Hitachi STS USA, Inc. (Hitachi), is the sole manufacturer and distributor of the car-borne ATC package including hardware and software in all Metro's light rail vehicles. The hardware and software are proprietary.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Metro A and E Lines Light Rail Vehicles",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9408,
+  "out": 291
+ },
+ "model": "claude-sonnet-5"
+}

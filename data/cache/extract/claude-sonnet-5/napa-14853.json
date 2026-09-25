@@ -1,0 +1,59 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axon",
+   "model": "Justice Premier Plus Plan",
+   "part": "Cloud based Digital Evidence System (DEMS) subscription including software licenses",
+   "part_numbers": [
+    "S00031",
+    "100165",
+    "101866",
+    "101905",
+    "101966",
+    "102525",
+    "102610",
+    "73478",
+    "73686",
+    "73838",
+    "85762",
+    "85767",
+    "11642"
+   ],
+   "quantity": "28",
+   "price_usd": 540960.0,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Axon remains the only solution that provides countywide access to digital evidence uploaded by county law enforcement agencies. Based on this exclusivity and Axon's existing contracts with county law enforcement partners, Axon qualifies as a sole source provider.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Napa County Public Defender's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon",
+   "model": null,
+   "part": "AXON JUSTICE - PSO - Standard Deployment (professional services)",
+   "part_numbers": [
+    "100491"
+   ],
+   "quantity": "1",
+   "price_usd": 7500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Axon remains the only solution that provides countywide access to digital evidence uploaded by county law enforcement agencies. Based on this exclusivity and Axon's existing contracts with county law enforcement partners, Axon qualifies as a sole source provider.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Napa County Public Defender's Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 43893,
+  "out": 571
+ },
+ "model": "claude-sonnet-5"
+}

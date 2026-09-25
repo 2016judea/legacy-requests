@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "CovertTrack Group, Inc.",
+   "model": null,
+   "part": "Asset tracking system equipment, maintenance and support (hardware, software, installation, batteries, patches, updates)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1071846.75,
+   "lead_time": null,
+   "sole_source_vendor": "CovertTrack Group, Inc.",
+   "reason": "Sole Source * Utilized for procurements where functional requirements can only be satisfied by one vendor, such as those where patents, copyrights or monopolies exists",
+   "equipment_class": "other equipment",
+   "installed_location": "Dallas Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3027,
+  "out": 230
+ },
+ "model": "claude-sonnet-5"
+}

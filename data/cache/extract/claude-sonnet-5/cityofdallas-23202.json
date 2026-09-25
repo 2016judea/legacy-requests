@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "In-Situ, Inc.",
+   "model": "ChemScan",
+   "part": "Maintenance and repairs of ChemScan analyzers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 438610.0,
+   "lead_time": null,
+   "sole_source_vendor": "In-Situ, Inc.",
+   "reason": "In-Situ, Inc., sole source",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Dallas Water Utilities Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2052,
+  "out": 180
+ },
+ "model": "claude-sonnet-5"
+}

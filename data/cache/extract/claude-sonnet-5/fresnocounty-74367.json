@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Purpose-Built, Curated Data Set (PBDS)",
+   "part": "Purchase of Purpose-Built, Curated Data Set (PBDS) access and Technical Training through the CalSAWS Consortium",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 469251,
+   "lead_time": null,
+   "sole_source_vendor": "CalSAWS Consortium",
+   "reason": "The Joint Powers Authority has procured the software, maintenance, and any necessary equipment support of a PBDS. A PBDS cannot be procured independently elsewhere.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "County of Fresno Department of Social Services",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18620,
+  "out": 262
+ },
+ "model": "claude-sonnet-5"
+}

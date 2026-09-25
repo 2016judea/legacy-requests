@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Delta",
+   "model": "Direct Digital Control (DDC) System",
+   "part": "Maintenance, repair and installation services for building automation/HVAC controls for County facilities",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 174900.0,
+   "lead_time": null,
+   "sole_source_vendor": "ATS Waypoint, Inc.",
+   "reason": "ATS Waypoint is the authorized distributor and installer of the Delta Direct Digital Control (DDC) System that is installed throughout DeKalb County facilities.",
+   "equipment_class": "HVAC",
+   "installed_location": "DeKalb County facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4627,
+  "out": 228
+ },
+ "model": "claude-sonnet-5"
+}

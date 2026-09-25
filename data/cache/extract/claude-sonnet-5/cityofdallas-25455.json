@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "IDEXX",
+   "model": null,
+   "part": "Laboratory supplies for water/wastewater testing",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 440101.76,
+   "lead_time": null,
+   "sole_source_vendor": "IDEXX DISTRIBUTION INC",
+   "reason": "Utilized for procurements where functional requirements can only be satisfied by one vendor, such as those where patents, copyrights or monopolies exists",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Dallas Water Utilities Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2975,
+  "out": 207
+ },
+ "model": "claude-sonnet-5"
+}

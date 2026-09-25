@@ -1,0 +1,249 @@
+{
+ "records": [
+  {
+   "manufacturer": "Starlink",
+   "model": null,
+   "part": "Satellite internet service - initial set up fee for backup EOC",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 349.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "STARLINK, satellite internet link, services; initial set up fee $349.00, QTY 1.",
+   "equipment_class": "communications/radio",
+   "installed_location": "5625 Confetti Dr, West El Paso, Texas 79912 (back EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Starlink",
+   "model": null,
+   "part": "Satellite internet service - monthly subscription fee for backup EOC",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 1440.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "STARLINK, internet services; monthly fee of $120.00 per months for 12 months. $1440. QTY.1",
+   "equipment_class": "communications/radio",
+   "installed_location": "5625 Confetti Dr, West El Paso, Texas 79912 (back EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HP",
+   "model": "17 Inch Laptop",
+   "part": "Computer equipment for EOC - HP 17 Inch Laptop Computer",
+   "part_numbers": [],
+   "quantity": "8",
+   "price_usd": 8792.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Computer equipment for EOC, HP 17 Inch Laptop Computer, 17.3\" FHD IPS Business Laptop PC... $1099.00 EACH.",
+   "equipment_class": "other equipment",
+   "installed_location": "6055 Threadgill Avenue, El Paso, Texas 79924 (primary EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Portable Monitor 15.6\" FHD",
+   "part": "Portable Monitor for Laptops",
+   "part_numbers": [],
+   "quantity": "8",
+   "price_usd": 479.84,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Portable Monitor, 15.6\" FHD 1080P Travel Portable Monitor for Laptops... 59.98 EACH",
+   "equipment_class": "other equipment",
+   "installed_location": "6055 Threadgill Avenue, El Paso, Texas 79924 (primary EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VEVOR",
+   "model": "39 Inch Cold Laminator Machine",
+   "part": "Cold Laminator Machine for EOC",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 273.8,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "VEVOR 39 Inch Cold Laminator Machine 10mm Manual Vinyl Photo Film Cold laminator Hand Crank Pressure Cold Roll laminator(39Inch) $136.90 EACH.",
+   "equipment_class": "other equipment",
+   "installed_location": "6055 Threadgill Avenue, El Paso, Texas 79924 (primary EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "DJI",
+   "model": "Osmo Pocket 3 Creator Combo",
+   "part": "Handheld camera for EOC",
+   "part_numbers": [
+    "CP.OS.00000302.01"
+   ],
+   "quantity": "1",
+   "price_usd": 994.95,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "DJI Osmo Pocket 3 Creator Combo, 4K/120fps Video 3-Axis Stabilization, Handheld Vlogging Camera with Rotatable Touchscreen Mic 2 (CP.OS.00000302.01)",
+   "equipment_class": "other equipment",
+   "installed_location": "6055 Threadgill Avenue, El Paso, Texas 79924 (primary EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Adjustable Pedestal Floor Stand Sign Holder",
+   "part": "Sign holder stands for EOC",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 111.98,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "2 Pack 12.87 x 17.72 Inch Adjustable Pedestal Floor Stand Sign Holder with Adhesive Whiteboard Sticker and Dry Erase Whiteboard Pen Rotation Outdoor Indoor Standing Display Sign Holder. $55.99 EACH.",
+   "equipment_class": "other equipment",
+   "installed_location": "6055 Threadgill Avenue, El Paso, Texas 79924 (primary EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lincia",
+   "model": "Dry Erase Board Arrow Sign Stand",
+   "part": "Sign stands for EOC",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 205.99,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Lincia 3 Pack Dry Erase Board Arrow Sign Stand Adjustable Holder Floor Signs 11.7 x 16.5 Inch Dual Sided with Heavy Duty Pedestal for Indoor Outdoor Hotel School. $205.99 EACH",
+   "equipment_class": "other equipment",
+   "installed_location": "6055 Threadgill Avenue, El Paso, Texas 79924 (primary EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HP",
+   "model": "DesignJet T630",
+   "part": "Large format plotter printer for EOC",
+   "part_numbers": [
+    "5HB11D"
+   ],
+   "quantity": "1",
+   "price_usd": 2025.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "HP DesignJet T630 Large Format 36-inch Color Plotter Printer with Auto Sheet Feeder, Media Bin & Stand (5HB11D) - New Model. $2025.00 EACH.",
+   "equipment_class": "other equipment",
+   "installed_location": "6055 Threadgill Avenue, El Paso, Texas 79924 (primary EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HP",
+   "model": "712 DesignJet Ink Cartridge",
+   "part": "Ink cartridges for HP DesignJet plotter printers",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 377.9,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "HP 712 29ml DesignJet Original Ink Cartridge for T650, T630, T230, T210 & Studio Plotter Printers. $188.95 PER PACK, QTY. 2 PACKS.",
+   "equipment_class": "other equipment",
+   "installed_location": "6055 Threadgill Avenue, El Paso, Texas 79924 (primary EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "BOYA",
+   "model": "BY-GM18CB",
+   "part": "Desktop gooseneck condenser microphones for EOC",
+   "part_numbers": [
+    "BY-GM18CB"
+   ],
+   "quantity": "10",
+   "price_usd": 620.0,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BOYA Desktop Gooseneck Condenser Microphone 18\" Podium Microphones with Base LED Indicator XLR Mic for Meetings Video Conferences Streaming Lectures BY-GM18CB. $62.00 EACH.",
+   "equipment_class": "other equipment",
+   "installed_location": "6055 Threadgill Avenue, El Paso, Texas 79924 (primary EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "AOFO",
+   "model": "Tower Power Strip",
+   "part": "Surge protector power strips for EOC",
+   "part_numbers": [],
+   "quantity": "5",
+   "price_usd": 149.95,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Tower Power Strip Flat Plug with 12 Outlets 4 USB(1 USB C),AOFO Surge Protector Charging Station with Overload Protection... $29.99 EACH, QTY. 5",
+   "equipment_class": "other equipment",
+   "installed_location": "6055 Threadgill Avenue, El Paso, Texas 79924 (primary EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "USB to HDMI Cable",
+   "part": "USB-A to HDMI adapter cables for EOC computer equipment",
+   "part_numbers": [],
+   "quantity": "10",
+   "price_usd": 69.9,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "USB to HDMI Cable, USB-A to HDMI Adapter for Monitor... $6.99 EACH. QTY. 10.",
+   "equipment_class": "other equipment",
+   "installed_location": "6055 Threadgill Avenue, El Paso, Texas 79924 (primary EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Atlas Copco",
+   "model": "QAS330",
+   "part": "Back up generator for backup EOC",
+   "part_numbers": [
+    "GEO2-20DA08"
+   ],
+   "quantity": "1",
+   "price_usd": 185149.65,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Atlas Copco QAS330 - Trailer: Diesel; Output, standby/prime, 290/264KW, 60hz, Engine, John Deere, 9L, 399hp. Tier 4 Final | HGACBuy. #GEO2-20DA08 BACK UP GENERATOR FOR BACK EOC, $185,149.65 EACH. QTY 1.",
+   "equipment_class": "generator",
+   "installed_location": "5625 Confetti Dr, West El Paso, Texas 79912 (back EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Maxtek",
+   "model": "Rolling Whiteboard",
+   "part": "Large double-sided rolling whiteboards for EOC",
+   "part_numbers": [],
+   "quantity": "10",
+   "price_usd": 1999.9,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Maxtek Rolling Whiteboard, 72x40 Large Double-Sided White Board Dry Erase on Wheels, Giant Magnetic White Board Standing for Office, School, Home Office, Homeschool(72 x 40). $199.99 EACH, QTY. 10.",
+   "equipment_class": "other equipment",
+   "installed_location": "6055 Threadgill Avenue, El Paso, Texas 79924 (primary EOC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Brother",
+   "model": "DCP-L2640DW",
+   "part": "Wireless compact monochrome multi-function laser printer for EOC",
+   "part_numbers": [
+    "DCP-L2640DW"
+   ],
+   "quantity": "2",
+   "price_usd": 419.98,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brother DCP-L2640DW Wireless Compact Monochrome Multi-Function Laser Printer with Copy and Scan, Duplex, Mobile, Black & White... $209.99 EACH. QTY. 2.",
+   "equipment_class": "other equipment",
+   "installed_location": "6055 Threadgill Avenue, El Paso, Texas 79924 (primary EOC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 22693,
+  "out": 8134
+ },
+ "model": "claude-sonnet-5"
+}

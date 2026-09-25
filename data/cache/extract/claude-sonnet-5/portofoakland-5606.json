@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Vehicles for use by the Aviation Division",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 590000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Waive Formal Competitive Procurement Procedures and Execute Contracts to Procure Vehicles for Use by the Aviation Division at a Total Cost Not to Exceed $590,000",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Certain existing vehicles designated for disposal",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Designate Certain Existing Vehicles as No Longer Used, Inadequate, Obsolete or Worn-Out and the Sale, Donation, and/or Other Disposition of Such Other Existing Vehicles",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3977,
+  "out": 964
+ },
+ "model": "claude-sonnet-5"
+}

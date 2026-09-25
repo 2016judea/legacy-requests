@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pierce Manufacturing",
+   "model": "Type II Engine",
+   "part": "Two Type II Engines to replace County Engine Numbers 8121 and 8125",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 1795000,
+   "lead_time": null,
+   "sole_source_vendor": "Golden State Fire Apparatus",
+   "reason": "The Department has established Pierce brand engines as standard firefighting equipment. The engines have proven to be more reliable and less expensive to maintain than other manufactures' engines.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2905,
+  "out": 220
+ },
+ "model": "claude-sonnet-5"
+}

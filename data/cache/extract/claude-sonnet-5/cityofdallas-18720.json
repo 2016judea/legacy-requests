@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Gunshot detection equipment and services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 336362.0,
+   "lead_time": null,
+   "sole_source_vendor": "Crime Gun Intelligence Technologies, LLC",
+   "reason": "Crime Gun Intelligence Technologies, LLC sole source",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Dallas",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3336,
+  "out": 172
+ },
+ "model": "claude-sonnet-5"
+}

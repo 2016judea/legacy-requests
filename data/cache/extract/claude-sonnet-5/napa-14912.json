@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "B&H",
+   "model": "Security Camera System",
+   "part": "Security camera system disposed as e-waste",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "deprecated, obsolete, and unusable security camera system",
+   "equipment_class": "other equipment",
+   "installed_location": "Communications - ewaste",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3968,
+  "out": 152
+ },
+ "model": "claude-sonnet-5"
+}

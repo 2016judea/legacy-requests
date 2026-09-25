@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Dominion Voting Systems Inc.",
+   "model": null,
+   "part": "Purchase of electronic voting software and hardware products, equipment, and supplies for the 2026 election cycle",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Dominion Voting Systems Inc.",
+   "reason": "The Office of the Secretary of State certified Dominion Voting Systems as the official voting systems in the State of Georgia.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3679,
+  "out": 210
+ },
+ "model": "claude-sonnet-5"
+}

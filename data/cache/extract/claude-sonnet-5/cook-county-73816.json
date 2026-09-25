@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Harris Corrections Solutions, Inc.",
+   "model": null,
+   "part": "Resident Management Information Services Software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 183707.5,
+   "lead_time": null,
+   "sole_source_vendor": "Harris Corrections Solutions, Inc.",
+   "reason": "This system was purpose built on the needs of Cook County and is customized to JTDC daily operations.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Juvenile Temporary Detention Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3556,
+  "out": 568
+ },
+ "model": "claude-sonnet-5"
+}

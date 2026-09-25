@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Maintenance and repair of membrane filtration pump and process skid facility (mechanical and electrical)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 831226,
+   "lead_time": null,
+   "sole_source_vendor": "Cushman Contracting Corporation",
+   "reason": "The work is considered maintenance pursuant to Public Contract Code Section 22002(d)(5) and was not bid.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Laguna County Sanitation District Wastewater Reclamation Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veolia Water Technologies (formerly Suez Water Technologies & Solutions and parent company of Zenon)",
+   "model": null,
+   "part": "Membrane filtration skid replacement system (membrane tanks, UF membranes, blowers, pumps, piping, electrical cabinets, instrumentation)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1564975.65,
+   "lead_time": "The skid system is scheduled to arrive in October of this year.",
+   "sole_source_vendor": "Veolia, Inc.",
+   "reason": "a proprietary membrane filtration facility designed and manufactured by Veolia Water Technologies (formerly Suez Water Technologies & Solutions and parent company of Zenon)",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Laguna County Sanitation District Wastewater Reclamation Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 30716,
+  "out": 2851
+ },
+ "model": "claude-sonnet-5"
+}

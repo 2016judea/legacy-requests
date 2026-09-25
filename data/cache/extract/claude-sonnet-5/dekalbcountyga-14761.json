@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Blue Star Power Systems",
+   "model": null,
+   "part": "150KW Mobile Diesel Generator for Tobie Grant Recreation Center emergency warming shelter",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 133535.0,
+   "lead_time": null,
+   "sole_source_vendor": "Power and Energy Services Inc.",
+   "reason": "Power and Energy Services Inc was selected because the proposed generator is of higher capacity and is better suited for the energy need at this emergency warming site.",
+   "equipment_class": "generator",
+   "installed_location": "DeKalb County Tobie Grant Recreation Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "50' 4/0 Cam Lock Cable",
+   "part_numbers": [],
+   "quantity": "13",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Power and Energy Services Inc.",
+   "reason": "Customer desires for a mobile power system similar to systems which we installed at other locations within the county",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "DeKalb County Tobie Grant Recreation Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "4/0 Cam to bare tales",
+   "part_numbers": [],
+   "quantity": "13",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Power and Energy Services Inc.",
+   "reason": "Customer desires for a mobile power system similar to systems which we installed at other locations within the county",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "DeKalb County Tobie Grant Recreation Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "50' 12 ga Extension Cord",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Power and Energy Services Inc.",
+   "reason": "Customer desires for a mobile power system similar to systems which we installed at other locations within the county",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "DeKalb County Tobie Grant Recreation Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "50' Start Wire",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Power and Energy Services Inc.",
+   "reason": "Customer desires for a mobile power system similar to systems which we installed at other locations within the county",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "DeKalb County Tobie Grant Recreation Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11508,
+  "out": 929
+ },
+ "model": "claude-sonnet-5"
+}

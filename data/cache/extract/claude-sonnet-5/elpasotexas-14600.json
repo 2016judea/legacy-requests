@@ -1,0 +1,244 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther",
+   "part": "Panther instrument system (System)",
+   "part_numbers": [
+    "303095"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC",
+   "reason": "Hologic Sales and Service, LLC (\u201cHologic\u201d) is the sole source in the United States for the instrument systems, kits, and reagents listed in the tables below.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "EL PASO DEPARTMENT OF PUBLIC HEALTH, 9566 RAILROAD DR, EL PASO, TX 79924",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther Plus System",
+   "part": "Panther Plus instrument system",
+   "part_numbers": [
+    "PRD-06067"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC",
+   "reason": "Hologic Sales and Service, LLC (\u201cHologic\u201d) is the sole source in the United States for the instrument systems, kits, and reagents listed in the tables below.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "EL PASO DEPARTMENT OF PUBLIC HEALTH, 9566 RAILROAD DR, EL PASO, TX 79924",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Aptima Assay Kits",
+   "part": "Aptima assay kits for use on the Panther System / Panther Plus System (CT/NG, HPV, Trichomonas, HIV-1, HCV, HSV, HBV, Mycoplasma, BV, CV/TV, SARS-CoV-2, SARS-CoV-2/Flu, CMV)",
+   "part_numbers": [
+    "PRD-05571",
+    "PRD-05576",
+    "303585",
+    "303570",
+    "303236",
+    "303537",
+    "303536",
+    "PRD-04037-D",
+    "PRD-03565",
+    "PRD-03705",
+    "PRD-03568",
+    "PRD-03868",
+    "PRD-03919",
+    "PRD-05186",
+    "PRD-07662",
+    "PRD-05189",
+    "PRD-07665",
+    "PRD-06419",
+    "PRD-06815",
+    "PRD-05074",
+    "PRD-07881"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC",
+   "reason": "The Aptima assays have been validated for use with the Panther system. The firmware in the Panther system is necessary for running the Aptima assays and is unique to Hologic. Hologic is the sole source of this firmware.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "EL PASO DEPARTMENT OF PUBLIC HEALTH, 9566 RAILROAD DR, EL PASO, TX 79924",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther System Kits and Reagents",
+   "part": "Kits and reagents associated with the Aptima assay kits for use on the Panther System / Panther Plus System",
+   "part_numbers": [
+    "301040",
+    "301041",
+    "PRD-03546",
+    "105575",
+    "301154C",
+    "PRD-04339",
+    "PRD-06997",
+    "PRD-07403",
+    "303096",
+    "303014",
+    "303013",
+    "104772-02",
+    "902731",
+    "504405",
+    "CL0040",
+    "CL0041",
+    "105668",
+    "303085",
+    "501604",
+    "501616",
+    "PRD-03455",
+    "MTL-02093"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC",
+   "reason": "Hologic is the sole source of the listed kits and reagents, as well as any assay-specific panels, calibrators, and controls which are not included in the table below.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "EL PASO DEPARTMENT OF PUBLIC HEALTH, 9566 RAILROAD DR, EL PASO, TX 79924",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther Scalable Solutions",
+   "part": "Scalable upgrade/expansion solutions developed and qualified for use with the Panther system",
+   "part_numbers": [
+    "PRD-05487",
+    "PRD-05486",
+    "PRD-05844",
+    "PRD-05845",
+    "ASY-13106",
+    "ASY-13105",
+    "PRD-06119",
+    "PRD-06120"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC",
+   "reason": "The following scalable solutions were developed and qualified to be used with the Panther system and may include proprietary technology. Hologic is the sole source of these solutions.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "EL PASO DEPARTMENT OF PUBLIC HEALTH, 9566 RAILROAD DR, EL PASO, TX 79924",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther",
+   "part": "Panther Standard preventative maintenance and field repair service (labor, travel, parts, PM)",
+   "part_numbers": [
+    "902615"
+   ],
+   "quantity": "3 annual service periods (1/7/2026-1/6/2029)",
+   "price_usd": 78000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC",
+   "reason": "Hologic Sales and Service, LLC (\u201cHologic\u201d) is the sole source in the United States for the instrument systems, kits, and reagents listed in the tables below.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "EL PASO DEPARTMENT OF PUBLIC HEALTH, 9566 RAILROAD DR, EL PASO, TX 79924",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Aptima Combo 2 (CT/NG) Assay - Panther",
+   "part": "Aptima Combo 2 Assay kits for CT/NG testing on Panther, committed annual purchase",
+   "part_numbers": [
+    "PRD-05571",
+    "PRD-05576"
+   ],
+   "quantity": "5,800 committed tests annually",
+   "price_usd": 7.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC",
+   "reason": "Hologic Sales and Service, LLC (\u201cHologic\u201d) is the sole source in the United States for the instrument systems, kits, and reagents listed in the tables below.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "EL PASO DEPARTMENT OF PUBLIC HEALTH, 9566 RAILROAD DR, EL PASO, TX 79924",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Aptima SARS-CoV-2 Assay (IVD) - Panther",
+   "part": "Aptima SARS-CoV-2 Assay, 100-test kit, IVD, for Panther",
+   "part_numbers": [
+    "PRD-07881"
+   ],
+   "quantity": "100-test kit",
+   "price_usd": 2800.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC",
+   "reason": "Hologic Sales and Service, LLC (\u201cHologic\u201d) is the sole source in the United States for the instrument systems, kits, and reagents listed in the tables below.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "EL PASO DEPARTMENT OF PUBLIC HEALTH, 9566 RAILROAD DR, EL PASO, TX 79924",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Aptima Specimen Collection Devices",
+   "part": "Specimen collection devices/kits used with Aptima assays on Panther, committed annual purchase",
+   "part_numbers": [
+    "105575",
+    "301040",
+    "301041",
+    "301154C",
+    "PRD-03546"
+   ],
+   "quantity": "5,800 committed tests annually",
+   "price_usd": 1.25,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC",
+   "reason": "Hologic Sales and Service, LLC (\u201cHologic\u201d) is the sole source in the United States for the instrument systems, kits, and reagents listed in the tables below.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "EL PASO DEPARTMENT OF PUBLIC HEALTH, 9566 RAILROAD DR, EL PASO, TX 79924",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hologic",
+   "model": "Panther Non-Committed Supply Items",
+   "part": "Non-committed supply items and consumables for the Panther system (controls, tubes, caps, waste kits, lysis tubes, etc.)",
+   "part_numbers": [
+    "301110",
+    "PRD-07882",
+    "MTL-02093",
+    "303096",
+    "303014",
+    "303013",
+    "104772-02",
+    "902731",
+    "504405",
+    "CL0040",
+    "CL0041",
+    "105668",
+    "303085",
+    "501604",
+    "501616",
+    "PRD-04339",
+    "PRD-04423"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hologic Sales and Service, LLC",
+   "reason": "Hologic Sales and Service, LLC (\u201cHologic\u201d) is the sole source in the United States for the instrument systems, kits, and reagents listed in the tables below.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "EL PASO DEPARTMENT OF PUBLIC HEALTH, 9566 RAILROAD DR, EL PASO, TX 79924",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 41653,
+  "out": 6855
+ },
+ "model": "claude-sonnet-5"
+}

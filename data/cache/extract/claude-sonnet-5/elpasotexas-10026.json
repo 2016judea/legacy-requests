@@ -1,0 +1,247 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tyler Technologies, Inc.",
+   "model": "RunIt Software-MDC/TABLET/PDA/iOS Compatible",
+   "part": "Enforcement Mobile License - REF License (RunIt Software-MDC/TABLET/PDA/iOS Compatible) [184/PDA Lics] (ONE-TIME SPECIAL OFFER)",
+   "part_numbers": [],
+   "quantity": "184",
+   "price_usd": 105800,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "a procurement of items that are available from only one source \n\u2013 (D) captive replacement parts or components for equipment.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "El Paso Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tyler Technologies, Inc.",
+   "model": null,
+   "part": "Task: Tow/Impound Report (standard) software task (Delivered w/Enhancements)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3250,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "a procurement of items that are available from only one source \n\u2013 (D) captive replacement parts or components for equipment.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "El Paso Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tyler Technologies, Inc.",
+   "model": null,
+   "part": "Enforcement Mobile Hosting Fee (SaaS hosting service for Tyler Software)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 7406,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "a procurement of items that are available from only one source \n\u2013 (D) captive replacement parts or components for equipment.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "El Paso Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Zebra",
+   "model": "TC72",
+   "part": "Zebra EVM, TC72, no cellular - handheld mobile data computer",
+   "part_numbers": [
+    "TC720L-0ME24B0-NA"
+   ],
+   "quantity": "184",
+   "price_usd": 156400,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "a procurement of items that are available from only one source \n\u2013 (D) captive replacement parts or components for equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Zebra",
+   "model": "TC7X",
+   "part": "Zebra EVM, TC7X, Power Supply for Battery Charger",
+   "part_numbers": [
+    "PWR-BGA12V50W0WW"
+   ],
+   "quantity": "40",
+   "price_usd": 1720,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "a procurement of items that are available from only one source \n\u2013 (D) captive replacement parts or components for equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Zebra",
+   "model": null,
+   "part": "Zebra EVM, USA CL Line Cord, grounded",
+   "part_numbers": [
+    "23844-00-00R"
+   ],
+   "quantity": "40",
+   "price_usd": 560,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "a procurement of items that are available from only one source \n\u2013 (D) captive replacement parts or components for equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Zebra",
+   "model": "TC7X",
+   "part": "Zebra EVM, TC7X, 4 Slot Battery Charger",
+   "part_numbers": [
+    "SAC-TC7X-4BTYPP"
+   ],
+   "quantity": "40",
+   "price_usd": 5760,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "a procurement of items that are available from only one source \n\u2013 (D) captive replacement parts or components for equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Zebra",
+   "model": "TC7X",
+   "part": "Zebra EVM, TC7X Battery",
+   "part_numbers": [
+    "BTRY-TC7X-46MAH-01"
+   ],
+   "quantity": "168",
+   "price_usd": 12264,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "a procurement of items that are available from only one source \n\u2013 (D) captive replacement parts or components for equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Zebra",
+   "model": null,
+   "part": "Zebra EVM, Acc-HH, US DC Line Cord",
+   "part_numbers": [
+    "CBL-DC-388A1-01"
+   ],
+   "quantity": "40",
+   "price_usd": 480,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "a procurement of items that are available from only one source \n\u2013 (D) captive replacement parts or components for equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Zebra",
+   "model": null,
+   "part": "Zebra AIT, 3 Slot Battery Charger Series; includes power supply and US power cord (Delivered)",
+   "part_numbers": [
+    "SAC-MPP-3BCHGUS1-01"
+   ],
+   "quantity": "10",
+   "price_usd": 2450,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "a procurement of items that are available from only one source \n\u2013 (D) captive replacement parts or components for equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Zebra",
+   "model": "ZQ520/RW420",
+   "part": "Zebra ZQ520/RW420, Paper, 36 rolls per case (Delivered)",
+   "part_numbers": [
+    "LD-R4KN5B"
+   ],
+   "quantity": "20",
+   "price_usd": 2140,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "a procurement of items that are available from only one source \n\u2013 (D) captive replacement parts or components for equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Zebra",
+   "model": "ZQ520",
+   "part": "Zebra Acc-Printer, ZQ520, Battery (replaces P1031365-059) (Delivered)",
+   "part_numbers": [
+    "BTRY-MPP-34MA1-01"
+   ],
+   "quantity": "30",
+   "price_usd": 1980,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "a procurement of items that are available from only one source \n\u2013 (D) captive replacement parts or components for equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Zebra",
+   "model": "ZQ521",
+   "part": "Zebra Printer, ZQ521 (Delivered)",
+   "part_numbers": [
+    "ZQ52-BUE0000-00"
+   ],
+   "quantity": "125",
+   "price_usd": 76375,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "a procurement of items that are available from only one source \n\u2013 (D) captive replacement parts or components for equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "L-Tron",
+   "model": null,
+   "part": "L-Tron, Acc-Laptop, DL Scanner w/Magnetic Mount - OLM item, being returned to Tyler under RMA",
+   "part_numbers": [
+    "4910LR-152-LTRK-MM"
+   ],
+   "quantity": "300",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "a procurement of items that are available from only one source \n\u2013 (D) captive replacement parts or components for equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tyler Technologies, Inc.",
+   "model": null,
+   "part": "Amendment to License and Services Agreement to continue software, products, and services (Enforcement Mobile Software, Hardware and Services) for El Paso Police Department",
+   "part_numbers": [],
+   "quantity": "All",
+   "price_usd": 499343,
+   "lead_time": null,
+   "sole_source_vendor": "Tyler Technologies, Inc.",
+   "reason": "a procurement of items that are available from only one source \n\u2013 (D) captive replacement parts or components for equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "El Paso Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 38199,
+  "out": 8514
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement of existing obsolete and/or non-functioning municipal fire hydrants with new fire hydrants",
+   "part_numbers": [],
+   "quantity": "various locations within service area",
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "replacement of existing obsolete and/or non-functioning municipal fire hydrants with new fire hydrants at various locations within the Del Rey Community Services District service area",
+   "equipment_class": "other equipment",
+   "installed_location": "Del Rey Community Services District service area",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 19550,
+  "out": 673
+ },
+ "model": "claude-sonnet-5"
+}

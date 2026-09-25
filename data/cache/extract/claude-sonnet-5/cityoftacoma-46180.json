@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cummins Inc.",
+   "model": null,
+   "part": "Standby generator to operate the solid waste compactors in the Solid Waste Main Receiving Building",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 506769.0,
+   "lead_time": "one-year lead time to manufacture and deliver",
+   "sole_source_vendor": "Cummins Inc.",
+   "reason": "The standby generator, switchgear, and electrical panel are very specialized pieces of equipment and require a one-year lead time to manufacture and deliver.",
+   "equipment_class": "generator",
+   "installed_location": "Solid Waste Main Receiving Building",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cummins Inc.",
+   "model": null,
+   "part": "Switchgear to be used in the event of a power failure to operate the solid waste compactors",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "one-year lead time to manufacture and deliver",
+   "sole_source_vendor": "Cummins Inc.",
+   "reason": "The standby generator, switchgear, and electrical panel are very specialized pieces of equipment and require a one-year lead time to manufacture and deliver.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Solid Waste Main Receiving Building",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Cummins Inc.",
+   "model": null,
+   "part": "Automatic transfer switch to be used in the event of a power failure to operate the solid waste compactors",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "one-year lead time to manufacture and deliver",
+   "sole_source_vendor": "Cummins Inc.",
+   "reason": "The standby generator, switchgear, and electrical panel are very specialized pieces of equipment and require a one-year lead time to manufacture and deliver.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Solid Waste Main Receiving Building",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5339,
+  "out": 1233
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Original Equipment Manufacturer (OEM) Warranty Parts, and Repairs",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 134799.98,
+   "lead_time": null,
+   "sole_source_vendor": "Holmes Tuttle Ford, Inc., d.b.a. Holmes Tuttle Ford Lincoln",
+   "reason": "To establish multiple contracts to have Original Equipment Manufacturer (OEM) for warranty, non-warranty repairs, service, and parts.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Chevrolet",
+   "model": null,
+   "part": "Original Equipment Manufacturer (OEM) Warranty Parts, and Repairs",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 666338.59,
+   "lead_time": null,
+   "sole_source_vendor": "Watson Chevrolet, Inc.",
+   "reason": "To establish multiple contracts to have Original Equipment Manufacturer (OEM) for warranty, non-warranty repairs, service, and parts.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Toyota",
+   "model": null,
+   "part": "Original Equipment Manufacturer (OEM) Warranty Parts, and Repairs",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 62399.99,
+   "lead_time": null,
+   "sole_source_vendor": "DT Automotive Center, Inc., d.b.a. Desert Toyota of Tucson",
+   "reason": "To establish multiple contracts to have Original Equipment Manufacturer (OEM) for warranty, non-warranty repairs, service, and parts.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Chevrolet",
+   "model": null,
+   "part": "Original Equipment Manufacturer (OEM) Warranty Parts, and Repairs",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 127661.37,
+   "lead_time": null,
+   "sole_source_vendor": "O'Reily Chevrolet, Inc.",
+   "reason": "To establish multiple contracts to have Original Equipment Manufacturer (OEM) for warranty, non-warranty repairs, service, and parts.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dodge",
+   "model": null,
+   "part": "Original Equipment Manufacturer (OEM) Warranty Parts, and Repairs",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 96109.57,
+   "lead_time": null,
+   "sole_source_vendor": "Jim Click, Inc., d.b.a. Jim Click Dodge",
+   "reason": "To establish multiple contracts to have Original Equipment Manufacturer (OEM) for warranty, non-warranty repairs, service, and parts.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Original Equipment Manufacturer (OEM) Warranty Parts, and Repairs",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 312000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Jim Click Ford, Inc., d.b.a. Jim Click Ford Lincoln",
+   "reason": "To establish multiple contracts to have Original Equipment Manufacturer (OEM) for warranty, non-warranty repairs, service, and parts.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hyundai",
+   "model": null,
+   "part": "Original Equipment Manufacturer (OEM) Warranty Parts, and Repairs",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 28690.5,
+   "lead_time": null,
+   "sole_source_vendor": "Jim Click, Inc., d.b.a. Jim Click Hyundai",
+   "reason": "To establish multiple contracts to have Original Equipment Manufacturer (OEM) for warranty, non-warranty repairs, service, and parts.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 16444,
+  "out": 1648
+ },
+ "model": "claude-sonnet-5"
+}

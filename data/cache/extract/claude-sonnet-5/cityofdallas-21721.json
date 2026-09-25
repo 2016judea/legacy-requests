@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "EMV compliant credit card terminals (P2PE)",
+   "part_numbers": [],
+   "quantity": "approximately 127",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "RecTrac, LLC dba Vermont Systems",
+   "reason": "Authorize (1) a three-year service price agreement for the delivery of an Europay, MasterCard and Visa (EMV) compliant credit card single-source payment solution with purchase of EMV terminals",
+   "equipment_class": "other equipment",
+   "installed_location": "Park & Recreation Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vermont Systems, Inc.",
+   "model": "RecTrac Point of Sale (POS) software version 3.1 and above",
+   "part": "PayTrac EMV compliant credit card single-source payment solution integrated with RecTrac POS software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 431826.17,
+   "lead_time": null,
+   "sole_source_vendor": "RecTrac, LLC dba Vermont Systems",
+   "reason": "an PCI-DSS compliant credit card processing single-source payment solution is required. PayTrac, the payment solution from RecTrac, LLC dba Vermont Systems, meets this requirement",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Park & Recreation Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3507,
+  "out": 1006
+ },
+ "model": "claude-sonnet-5"
+}

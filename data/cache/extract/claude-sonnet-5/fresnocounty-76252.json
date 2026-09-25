@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Levi, Ray & Shoup, Inc.",
+   "model": "PageCenterX",
+   "part": "Additional licensing, maintenance, and support services for digital report management software",
+   "part_numbers": [],
+   "quantity": "50 users licensed",
+   "price_usd": 207402,
+   "lead_time": null,
+   "sole_source_vendor": "Levi, Ray & Shoup, Inc.",
+   "reason": "LRS developed the digital report management software used by the County and are the only vendor that can provide maintenance and support for their proprietary product",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "1020 S. 10th Street, Fresno, CA 93702",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Levi, Ray & Shoup, Inc.",
+   "model": "VPSX Enterprise",
+   "part": "Additional licensing, maintenance, and support services for scalable output management software",
+   "part_numbers": [],
+   "quantity": "Twenty-five (25) Definitions",
+   "price_usd": 207402,
+   "lead_time": null,
+   "sole_source_vendor": "Levi, Ray & Shoup, Inc.",
+   "reason": "LRS is the only vendor that can provide licenses, maintenance, and services for the established and functioning software solution.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "1020 S. 10th Street, Fresno, CA 93702",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Levi, Ray & Shoup, Inc.",
+   "model": null,
+   "part": "Extended Engineering (EE) Services - professional services support for the Software",
+   "part_numbers": [],
+   "quantity": "up to 20 hours/month for 6 months; additional blocks purchasable",
+   "price_usd": 58067,
+   "lead_time": null,
+   "sole_source_vendor": "Levi, Ray & Shoup, Inc.",
+   "reason": "LRS is the only vendor that can provide licenses, maintenance, and services for the established and functioning software solution.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "1020 S. 10th Street, Fresno, CA 93702",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 51846,
+  "out": 703
+ },
+ "model": "claude-sonnet-5"
+}

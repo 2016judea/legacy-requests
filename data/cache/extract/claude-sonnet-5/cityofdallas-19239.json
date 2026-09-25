@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "LexisNexis",
+   "model": "Accurint Suite",
+   "part": "Online investigative solutions and criminal activity database services (unlimited users, training, annual maintenance, consulting)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 498645.0,
+   "lead_time": null,
+   "sole_source_vendor": "LexisNexis Risk Solutions FL Inc.",
+   "reason": "Utilized for procurements where functional requirements can only be satisfied by one vendor, such as those where patents, copyrights or monopolies exists",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Dallas Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2978,
+  "out": 232
+ },
+ "model": "claude-sonnet-5"
+}

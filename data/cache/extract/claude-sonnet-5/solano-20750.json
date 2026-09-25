@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "Westates",
+   "model": null,
+   "part": "Fire Engine",
+   "part_numbers": [],
+   "quantity": "one",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "no longer serviceable, has reached the end of its useful life, has become obsolete, or is no longer required due to operational changes or replacement with newer property",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Beck",
+   "model": null,
+   "part": "Fire Engine",
+   "part_numbers": [],
+   "quantity": "one",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "no longer serviceable, has reached the end of its useful life, has become obsolete, or is no longer required due to operational changes or replacement with newer property",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Pierce",
+   "model": null,
+   "part": "Fire Engine",
+   "part_numbers": [],
+   "quantity": "one",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "no longer serviceable, has reached the end of its useful life, has become obsolete, or is no longer required due to operational changes or replacement with newer property",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Ford",
+   "model": "F-350",
+   "part": "pickup truck",
+   "part_numbers": [],
+   "quantity": "one",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "no longer serviceable, has reached the end of its useful life, has become obsolete, or is no longer required due to operational changes or replacement with newer property",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Ford",
+   "model": "F-350",
+   "part": "pickup truck",
+   "part_numbers": [],
+   "quantity": "one",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "no longer serviceable, has reached the end of its useful life, has become obsolete, or is no longer required due to operational changes or replacement with newer property",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "skid-mounted pump and tank unit",
+   "part_numbers": [],
+   "quantity": "one",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "no longer serviceable, has reached the end of its useful life, has become obsolete, or is no longer required due to operational changes or replacement with newer property",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3570,
+  "out": 1574
+ },
+ "model": "claude-sonnet-5"
+}

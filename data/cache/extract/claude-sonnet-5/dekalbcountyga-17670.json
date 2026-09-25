@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Syntech Systems",
+   "model": "Fuelmaster",
+   "part": "Maintenance and upgrade services to the existing Fuelmaster System that dispenses and tracks fuel usage for various County vehicles",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 266286.0,
+   "lead_time": null,
+   "sole_source_vendor": "Syntech Systems, Inc.",
+   "reason": "Fuelmaster Software and Hardware Upgrade (Multiyear Contract) [Sole Source]",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4618,
+  "out": 224
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pierce Manufacturing",
+   "model": "Type VI Engine",
+   "part": "one new Pierce Type VI Engine",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 630000,
+   "lead_time": null,
+   "sole_source_vendor": "Golden State Fire Apparatus",
+   "reason": "due to technical compatibility requirements",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2890,
+  "out": 162
+ },
+ "model": "claude-sonnet-5"
+}

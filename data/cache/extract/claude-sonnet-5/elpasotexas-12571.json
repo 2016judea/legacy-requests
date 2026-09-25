@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Auxiliary Generator Maintenance - continual maintenance and upkeep of auxiliary generators",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 549923.52,
+   "lead_time": null,
+   "sole_source_vendor": "American Generator Services North America",
+   "reason": "if a contract cannot be awarded after two competitive procurement/selection process, the requirement can be fulfilled by a non-competitive award",
+   "equipment_class": "generator",
+   "installed_location": "Fire, Police, Emergency Management and transmitter sites",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6290,
+  "out": 339
+ },
+ "model": "claude-sonnet-5"
+}

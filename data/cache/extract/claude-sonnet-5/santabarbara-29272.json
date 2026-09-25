@@ -1,0 +1,48 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lindner Recyclingtech America, LLC",
+   "model": "Atlas 5500",
+   "part": "Cassette ASx8 - replaceable component inserted into shredder's feed opening",
+   "part_numbers": [
+    "RT395789",
+    "RT395789-1"
+   ],
+   "quantity": "2",
+   "price_usd": 225400.0,
+   "lead_time": "20-22 weeks + transport time",
+   "sole_source_vendor": "Lindner Recyclingtech America, LLC",
+   "reason": "Lindner Recyclingtech America, LLC (Lindner) is the sole manufacturer and supplier of proprietary replacement parts for the Lindner Atlas 5500 shredder.",
+   "equipment_class": "other equipment",
+   "installed_location": "ReSource Center, Material Recovery Facility (MRF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lindner Recyclingtech America, LLC",
+   "model": "Atlas 5500",
+   "part": "Cutting shaft AS4.8 C&I with bearing unit",
+   "part_numbers": [
+    "RT315308-P"
+   ],
+   "quantity": "2",
+   "price_usd": 187833.34,
+   "lead_time": "20-22 weeks + transport time",
+   "sole_source_vendor": "Lindner Recyclingtech America, LLC",
+   "reason": "Lindner Recyclingtech America, LLC (Lindner) is the sole manufacturer and supplier of proprietary replacement parts for the Lindner Atlas 5500 shredder.",
+   "equipment_class": "other equipment",
+   "installed_location": "ReSource Center, Material Recovery Facility (MRF)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8513,
+  "out": 1741
+ },
+ "model": "claude-sonnet-5"
+}

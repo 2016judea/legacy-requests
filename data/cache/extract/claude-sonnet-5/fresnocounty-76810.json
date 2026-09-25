@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lexipol, LLC",
+   "model": "Knowledge Management System (KMS)",
+   "part": "Subscription-based policy management and training services (Policy Manuals, Daily Training Bulletins, Policy Updates, Web-Based Delivery Platform and Mobile App, Reports, Supplemental Publication Service)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 390971.89,
+   "lead_time": null,
+   "sole_source_vendor": "Lexipol, LLC",
+   "reason": "Lexipol is the only vendor that provides a comprehensive policy management solution suite that meets the requirements of the Probation Department",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno County Probation Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 22125,
+  "out": 670
+ },
+ "model": "claude-sonnet-5"
+}

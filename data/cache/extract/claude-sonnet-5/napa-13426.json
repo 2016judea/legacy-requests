@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Holmatro Rescue Equipment",
+   "model": null,
+   "part": "Rescue tool equipment (extrication tools)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 127278,
+   "lead_time": null,
+   "sole_source_vendor": "Western Extrication Specialists",
+   "reason": "WES is the California West Coast distributor of Holmatro equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3019,
+  "out": 167
+ },
+ "model": "claude-sonnet-5"
+}

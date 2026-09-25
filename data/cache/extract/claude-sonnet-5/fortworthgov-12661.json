@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Teleflex, LLC",
+   "model": "Arrow EZ-IO",
+   "part": "Intraosseous Vascular Access System and related components",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 400000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Teleflex, LLC",
+   "reason": "Teleflex, LLC is the sole source equipment manufacturer and vendor of the Arrow EZ-IO Intraosseous Vascular Access System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3094,
+  "out": 207
+ },
+ "model": "claude-sonnet-5"
+}

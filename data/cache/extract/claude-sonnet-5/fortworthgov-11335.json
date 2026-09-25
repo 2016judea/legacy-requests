@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "AVAYA",
+   "model": null,
+   "part": "Licensing, Maintenance & Support and Monitoring of the AVAYA Phone System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 418965.0,
+   "lead_time": null,
+   "sole_source_vendor": "Blackpoint IT Services Inc.",
+   "reason": "The Agreement is an approved sole source agreement and is therefore exempt from competitive bidding.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Water Customer Contact Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Vuesion Contact Center Suite",
+   "part": "Addition of Water Dispatch to the Vuesion Contact Center Suite platform",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Blackpoint IT Services Inc.",
+   "reason": "The Agreement is an approved sole source agreement and is therefore exempt from competitive bidding.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Water Dispatch",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "AVAYA",
+   "model": "AVAYA Experience Platform",
+   "part": "Migration of Water Dispatch and the Water Customer Contact Center to the AVAYA Experience Platform",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 262106.5,
+   "lead_time": null,
+   "sole_source_vendor": "Blackpoint IT Services Inc.",
+   "reason": "The Agreement is an approved sole source agreement and is therefore exempt from competitive bidding.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Water Customer Contact Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3710,
+  "out": 1860
+ },
+ "model": "claude-sonnet-5"
+}

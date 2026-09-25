@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "KCI Technologies, Inc",
+   "model": null,
+   "part": "Consulting, development, implementation and managed services for CAL related suite of application replacements for end of life versions of Cityworks, Hanson, ePermits, ePlans, Land Management, and various other similar applications",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 12500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "KCI Technologies, Inc.",
+   "reason": "KCI possesses proprietary knowledge and expertise for these applications and their underlying business processes.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Metro Wide",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 74942,
+  "out": 240
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": "Escape",
+   "part": "2026 or newer Ford Escape vehicle (gas version only, hybrid discontinued)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ILF1, LLC d/b/a Elmhurst Ford",
+   "reason": "As of 2026, the hybrid version for the Ford Escape is no longer manufactured, only gas.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Ford",
+   "model": "Maverick Hybrid",
+   "part": "2026 or newer Ford Maverick Hybrid vehicle",
+   "part_numbers": [],
+   "quantity": "up to 14",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ILF1, LLC d/b/a Elmhurst Ford",
+   "reason": "This contract has the option of purchasing up to 14 Ford Maverick Hybrids.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "2026 or newer Ford vehicles for county agency fleet",
+   "part_numbers": [],
+   "quantity": "up to 33",
+   "price_usd": 1228875.0,
+   "lead_time": null,
+   "sole_source_vendor": "ILF1, LLC d/b/a Elmhurst Ford",
+   "reason": "This contract will allow the Assessor, Clerk of the Circuit Court, Animal Control, Facilities Management, Bureau of Technology, Public Guardian, States Attorney, Veterans Assistance Commission of Cook County, Juvenile Probation and Juvenile Temporary Detention Center to purchase up to a quantity of 33, 2026 or newer Ford vehicles approved by the Vehicle Steering Committee.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3611,
+  "out": 938
+ },
+ "model": "claude-sonnet-5"
+}

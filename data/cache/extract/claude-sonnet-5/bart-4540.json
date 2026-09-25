@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bombardier",
+   "model": "GEALOC",
+   "part": "Replacement of the Automatic Train Operation (ATO) Subsystem of the GEALOC Automatic Train Control (ATC) System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 13200000,
+   "lead_time": null,
+   "sole_source_vendor": "B&C Transit, Inc.",
+   "reason": "KB Signaling has the proprietary data rights to the GEALOC system which is essential to upgrade an obsolete ATO subsystem with iVPI based ATO system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "W20, W30, W34, W40, and Y10 (W and Y Lines, south of Daly City Station)",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": "Matrix 360",
+   "part": "ATO subsystem PLC (Programmable Logic Controller)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "B&C Transit, Inc.",
+   "reason": "replace the obsolete Matrix 360 PLC ATO system with an iVPI-based ATO system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "W and Y Lines",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": "GEALOC ATO CPU Board",
+   "part": "Proprietary circuit boards functioning as the GEALOC ATO CPU Board",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "B&C Transit, Inc.",
+   "reason": "proprietary Circuit Boards (functioning as the GEALOC ATO CPU Board), specifically engineered to operate within the GEALOC environment on BART's W and Y Lines",
+   "equipment_class": "other equipment",
+   "installed_location": "W and Y Lines",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "KB Signaling",
+   "model": "iVPI",
+   "part": "iVPI-based ATO system to replace obsolete Matrix 360 PLC ATO system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "B&C Transit, Inc.",
+   "reason": "aims to replace the obsolete Matrix 360 PLC ATO system with an iVPI-based ATO system, as well as to supply replacement parts, consistent with systems currently in use at other District locations systemwide",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "W and Y Lines",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5692,
+  "out": 1563
+ },
+ "model": "claude-sonnet-5"
+}

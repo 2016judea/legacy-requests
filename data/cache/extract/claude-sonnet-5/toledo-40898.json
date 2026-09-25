@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "EMS",
+   "model": null,
+   "part": "pressure compensators for high-pressure dewatering pumps",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 26430,
+   "lead_time": null,
+   "sole_source_vendor": "Universal Filtration & Pumping Solutions, Inc.",
+   "reason": "sole-source equipment standardization is critical for operation continuity and equipment availability within the Solids Dewatering Facility at the CPWTP",
+   "equipment_class": "pump",
+   "installed_location": "Solids Dewatering Facility at the Collins Park Water Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3183,
+  "out": 225
+ },
+ "model": "claude-sonnet-5"
+}

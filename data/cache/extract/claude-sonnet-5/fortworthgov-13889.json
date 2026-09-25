@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "LiveView Technologies, Inc.",
+   "model": "D3 Live Unit",
+   "part": "D3 Live Unit Camera Monitoring, Maintenance, and Support (D3 Live Unit Security System)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 126160.0,
+   "lead_time": null,
+   "sole_source_vendor": "LiveView Technologies, Inc.",
+   "reason": "The City Attorney's Office has determined that this sole-source purchase is exempt from competitive bidding under the provisions of Chapter 252 of the Texas Local Government Code as a professional service.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3266,
+  "out": 766
+ },
+ "model": "claude-sonnet-5"
+}

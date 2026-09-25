@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Voltu Motor Inc",
+   "model": "Voltu 3 Work Truck - Dual Motor 4WD - F350 chassis",
+   "part": "Voltu3 Electric Truck - SRW XL Crew Cab 6.75 Bed Units, Class 3 all-electric pickup truck",
+   "part_numbers": [],
+   "quantity": "20",
+   "price_usd": 3145500,
+   "lead_time": null,
+   "sole_source_vendor": "Voltu Motor Inc.",
+   "reason": "The Voltu 3 Electrified Dual Motor 4WD Crew Cab Truck is the first Class 3 all-electric pickup truck in the U.S.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Riverside, CA (Central Garage / City Fleet)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Design, construction, and installation of vehicle charging stations to support green fleet",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 843434,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Funding is also requested for the design, construction and installation of vehicle charging stations.",
+   "equipment_class": "other equipment",
+   "installed_location": "Riverside, CA",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7505,
+  "out": 438
+ },
+ "model": "claude-sonnet-5"
+}

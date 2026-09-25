@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Esi Acquisition, Inc.",
+   "model": "WebEOC",
+   "part": "WebEOC Virtual Management System - maintenance and support renewal",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 299518.19,
+   "lead_time": null,
+   "sole_source_vendor": "Esi Acquisition, Inc.",
+   "reason": "This is a Sole Source Procurement pursuant to Section 34-139 of the Cook County Procurement Code",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3283,
+  "out": 201
+ },
+ "model": "claude-sonnet-5"
+}

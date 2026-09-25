@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Flygt",
+   "model": null,
+   "part": "Amendment #2 increasing quantities of labor, parts, and materials for repairs to Flygt pumps and motors",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 300000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Xylem Water Solutions U.S.A., Inc.",
+   "reason": "The increase necessitated by this Amendment #2 is warranted due to the unforeseen amount of maintenance, repairs, and replacement parts needed on Flygt brand pumps and motors located at the City's wastewater lift stations and wastewater treatment plants.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City's wastewater lift stations and wastewater treatment plants",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3552,
+  "out": 1943
+ },
+ "model": "claude-sonnet-5"
+}

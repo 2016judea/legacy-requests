@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "Closure Intelligence, Inc.",
+   "model": "Closure Intelligence Platform",
+   "part": "License to use the Closure Intelligence Platform, implementation and configuration services, training, support, and subscription service allotment increases",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 680000,
+   "lead_time": null,
+   "sole_source_vendor": "Closure Intelligence, Inc.",
+   "reason": "Closure Intelligence, Inc. is the sole distributor and manufacturer of the Closure Intelligence Platform",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County District Attorney's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Closure Intelligence, Inc.",
+   "model": "Closure Intelligence Platform",
+   "part": "Closure Intelligence Platform License (subscription, 3-year base term)",
+   "part_numbers": [],
+   "quantity": "3 Years",
+   "price_usd": 405000,
+   "lead_time": null,
+   "sole_source_vendor": "Closure Intelligence, Inc.",
+   "reason": "Closure's platform is the only service that unifies administrative, investigative, and prosecutorial evidence analysis in a single interface",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County District Attorney's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Closure Intelligence, Inc.",
+   "model": "Closure Intelligence Platform",
+   "part": "Implementation & Configuration Services (one-time setup and integration)",
+   "part_numbers": [],
+   "quantity": "One-Time Fee",
+   "price_usd": 10000,
+   "lead_time": "implementation period shall not exceed six (6) months",
+   "sole_source_vendor": "Closure Intelligence, Inc.",
+   "reason": "Closure's platform is the only service that unifies administrative, investigative, and prosecutorial evidence analysis in a single interface",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno County District Attorney's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Closure Intelligence, Inc.",
+   "model": "Closure Intelligence Platform",
+   "part": "White Glove Onsite Training & Support",
+   "part_numbers": [],
+   "quantity": "3 Years",
+   "price_usd": 75000,
+   "lead_time": null,
+   "sole_source_vendor": "Closure Intelligence, Inc.",
+   "reason": "Closure's platform is the only service that unifies administrative, investigative, and prosecutorial evidence analysis in a single interface",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno County District Attorney's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Closure Intelligence, Inc.",
+   "model": "Closure Intelligence Platform",
+   "part": "Optional one-year extension: Closure Intelligence Platform License plus White Glove Onsite Training & Support",
+   "part_numbers": [],
+   "quantity": "1 Year",
+   "price_usd": 135000,
+   "lead_time": null,
+   "sole_source_vendor": "Closure Intelligence, Inc.",
+   "reason": "the County shall have a one-time option to extend the Agreement for one additional annual period at the same annual rate ($135,000 fee for the annual Closure Intelligence Platform License plus the $25,000 fee for the White Glove Onsite Training & Support)",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno County District Attorney's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Closure Intelligence, Inc.",
+   "model": "Closure Intelligence Platform",
+   "part": "Subscription Service Allotment Increase (audio/video, document, and image processing capacity increase)",
+   "part_numbers": [],
+   "quantity": "3,000 hours audio/video; 1,000,000 pages document; 2,000,000 images",
+   "price_usd": 13500,
+   "lead_time": null,
+   "sole_source_vendor": "Closure Intelligence, Inc.",
+   "reason": "Each Allotment Increase will increase the Annual Price of the Closure Intelligence Platform License by 10% for the then current annual period (with no proration)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fresno County District Attorney's Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 42104,
+  "out": 1418
+ },
+ "model": "claude-sonnet-5"
+}

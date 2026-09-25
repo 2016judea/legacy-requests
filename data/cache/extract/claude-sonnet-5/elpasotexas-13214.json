@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trapeze Software Group, Inc. (dba Vontas)",
+   "model": "Transit Master & Response Master CAD & AVL",
+   "part": "Trapeze Software and Equipment Maintenance for CAD/AVL system",
+   "part_numbers": [],
+   "quantity": "All",
+   "price_usd": 2066911.0,
+   "lead_time": null,
+   "sole_source_vendor": "Trapeze Software Group, Inc., dba Vontas",
+   "reason": "the sole and authorized distributor of the Transit Master & Response Master CAD & A VL software",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Sun Metro - Mass Transit",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7389,
+  "out": 240
+ },
+ "model": "claude-sonnet-5"
+}

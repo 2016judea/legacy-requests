@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Class 8 battery electric truck and charger",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 630000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Execute a contract to procure a Class 8 battery electric truck and charger at a total cost not to exceed $630,000",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Port of Oakland",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Existing diesel powered Class 8 electric truck designated for disposal",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Designate an existing diesel powered Class 8 electric truck as no longer used, inadequate, obsolete or worn-out",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Port of Oakland",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4821,
+  "out": 341
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Axon Justice Premier (Justice Premier Plus)",
+   "part": "cloud based Digital Evidence Management System (DEMS)",
+   "part_numbers": [
+    "S00019",
+    "100165",
+    "100789",
+    "101866",
+    "73478",
+    "73618",
+    "73686",
+    "73838",
+    "85762",
+    "85767"
+   ],
+   "quantity": "65",
+   "price_usd": 1377750.77,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc. of Scottsdale, Arizona",
+   "reason": "Axon remains the only solution that provides countywide access to digital evidence uploaded by county law enforcement agencies.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Napa County District Attorney's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Axon Body 4",
+   "part": "five (5) body-worn camera devices and the associated software licensing bundles",
+   "part_numbers": [
+    "H00001",
+    "100147",
+    "100466",
+    "100775",
+    "74020"
+   ],
+   "quantity": "5",
+   "price_usd": 96821.03,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc. of Scottsdale, Arizona",
+   "reason": "These devices are fully compatible with those used by the Napa County Sheriff\u2019s Office, ensuring consistency and interoperability across agencies.",
+   "equipment_class": "other equipment",
+   "installed_location": "Napa County District Attorney's Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "AXON BODY 4 - 8 BAY DOCK",
+   "part": "multi-bay charging/upload dock for body-worn cameras",
+   "part_numbers": [
+    "H00002",
+    "100206",
+    "70033",
+    "71019"
+   ],
+   "quantity": "1",
+   "price_usd": 1638.9,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc. of Scottsdale, Arizona",
+   "reason": "Axon remains the only solution that provides countywide access to digital evidence uploaded by county law enforcement agencies.",
+   "equipment_class": "other equipment",
+   "installed_location": "Napa County District Attorney's Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 44209,
+  "out": 2956
+ },
+ "model": "claude-sonnet-5"
+}

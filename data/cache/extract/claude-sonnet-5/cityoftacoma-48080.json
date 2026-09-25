@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Flowserve",
+   "model": null,
+   "part": "Components to upgrade and retrofit three Flowserve Influent Pump units (125 horsepower, manufactured 1967) at North End Treatment Plant",
+   "part_numbers": [],
+   "quantity": "3 pump units (components for)",
+   "price_usd": 1460540,
+   "lead_time": null,
+   "sole_source_vendor": "Apsco, LLC",
+   "reason": "Apsco, LLC is the sole regional distributor of Flowserve pump components for municipal wastewater applications in Washington and Oregon.",
+   "equipment_class": "pump",
+   "installed_location": "North End Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7624,
+  "out": 231
+ },
+ "model": "claude-sonnet-5"
+}

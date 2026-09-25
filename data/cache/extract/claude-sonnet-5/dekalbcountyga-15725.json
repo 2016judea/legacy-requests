@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Schneider Geospatial",
+   "model": "qPublic.net",
+   "part": "Portal Development, Maintenance and Hosting Services for County's publicly accessible property appraisal web portal",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 253068.0,
+   "lead_time": null,
+   "sole_source_vendor": "Schneider Geospatial, LLC",
+   "reason": "Schneider Geospatial, LLC, is the sole source provider of the qPublic.net technology, which powers the portal",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "DeKalb County, Georgia - Property Appraisal Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7071,
+  "out": 233
+ },
+ "model": "claude-sonnet-5"
+}

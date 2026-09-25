@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Genasys, Inc.",
+   "model": "EVAC",
+   "part": "Emergency zone mapping software-as-a-service (SaaS) solution for protective action coordination and public information",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Genasys, Inc.",
+   "reason": "In June 2024 the Board of Supervisors approved a contract with Genasys, Inc. for an emergency zone mapping software-as-a-service (SaaS) solution called Genasys EVAC for use by all public safety agencies within the County.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Santa Barbara County (countywide)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Everbridge",
+   "model": null,
+   "part": "ReadySBC Alerts system software for public alert dissemination (email, text, voice, TTY/TDD, IPAWS WEA/EAS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Everbridge",
+   "reason": "The Everbridge software powering the ReadySBC Alerts system is currently funded by the County\u2019s General Fund.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Santa Barbara County Operational Area",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "DASDEC",
+   "part": "Secondary hardware for alerting backup systems and processes",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Backup systems and processes, including DASDEC (secondary hardware for alerting) and a MOU with the County of Ventura for support.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Santa Barbara County Office of Emergency Management",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 26583,
+  "out": 1955
+ },
+ "model": "claude-sonnet-5"
+}

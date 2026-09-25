@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hog Technologies",
+   "model": "SH 8000 Stripe Hog",
+   "part": "Supply parts and maintenance services for two SH 8000 Stripe Hogs",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 184800,
+   "lead_time": null,
+   "sole_source_vendor": "Waterblasting, LLC dba Hog Technologies",
+   "reason": "This is a specialized piece of equipment made by Stripe Hog where parts must be purchased through them to match existing purchased equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "Dallas Love Field/Air Field Management",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3316,
+  "out": 227
+ },
+ "model": "claude-sonnet-5"
+}

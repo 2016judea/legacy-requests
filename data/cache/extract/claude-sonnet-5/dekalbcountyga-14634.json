@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Endress+Hauser",
+   "model": null,
+   "part": "Endress+Hauser Products & Service Annual Purchase Agreement for Snapfinger Plant w/ 2 one year options",
+   "part_numbers": [],
+   "quantity": "3.00",
+   "price_usd": 1080000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Endress+Hauser",
+   "reason": "Endress+Hauser is the exclusive authorized sales representation in the USA for Endress+Hauser products & services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Snapfinger Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Endress+Hauser",
+   "model": null,
+   "part": "Endress+Hauser Products & Service Annual Purchase Agreement for Scott Chandler Water Treatment Plant w/ 2 one year options",
+   "part_numbers": [],
+   "quantity": "3.00",
+   "price_usd": 1080000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Endress+Hauser",
+   "reason": "Endress+Hauser instruments are currently the only equipment compatible with the Scott Candler SCADA system, making them essential for accurate monitoring and control.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Scott Candler Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Endress+Hauser",
+   "model": null,
+   "part": "Endress+Hauser Products & Service Annual Purchase Agreement for Pole Bridge Creek Advanced Wastewater Facility w/ 2 one year options",
+   "part_numbers": [],
+   "quantity": "3.00",
+   "price_usd": 540000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Endress+Hauser",
+   "reason": "As the exclusive manufacturer of its instruments, Endress+Hauser, along with its authorized representative, Carotek, are the only entities approved to verify, calibrate, and repair Endress+Hauser equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Pole Bridge Creek Advanced Wastewater Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Endress+Hauser",
+   "model": null,
+   "part": "Maintenance parts and services for verification, calibration, and repair of Endress+Hauser instruments",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2700000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Endress+Hauser",
+   "reason": "The sole manufacturer for the requested equipment and services is Endress+Hauser, making them the exclusive provider for these needs.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Snapfinger, Pole Bridge, and Scott Candler Wastewater Treatment Plants",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7925,
+  "out": 1131
+ },
+ "model": "claude-sonnet-5"
+}

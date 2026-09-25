@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Panoramic Software Corporation",
+   "model": "PG-Pro Web",
+   "part": "Software license and maintenance agreement for Panoramic PG-Pro Web case management software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 415540,
+   "lead_time": null,
+   "sole_source_vendor": "Panosoft",
+   "reason": "Pursuant to Board Policy C-17, 3.5 Specific Exemptions, proprietary software is exempt from competitive bidding.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "HHSA Public Guardian Office and Self-Sufficiency General Assistance Program, County of El Dorado",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 57067,
+  "out": 888
+ },
+ "model": "claude-sonnet-5"
+}

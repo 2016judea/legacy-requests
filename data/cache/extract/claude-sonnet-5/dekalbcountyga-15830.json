@@ -1,0 +1,637 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": null,
+   "part": "Software, License, and Server Maintenance Support (proprietary hardware, software maintenance, and software licenses)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 372944.37,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment. DeKalb County utilizes HPE services to cover server maintenance and proprietary software licenses used in support of all County business units.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": "HPE Tech Care Essential wDMR SVC",
+   "part": "Hardware Tech Support / Remote Tech Support service",
+   "part_numbers": [
+    "HU4A7AC"
+   ],
+   "quantity": "1",
+   "price_usd": 798.3,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "POLICE-WESTEXCH-HP",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": "HPE Tech Care Essential wDMR SVC",
+   "part": "Hardware Tech Support / Remote Tech Support service",
+   "part_numbers": [
+    "HU4A7AC"
+   ],
+   "quantity": "1",
+   "price_usd": 11874.45,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "IT-HP",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": "HPE Tech Care Essential wDMR SVC",
+   "part": "Hardware Tech Support / Remote Tech Support service",
+   "part_numbers": [
+    "HU4A7AC"
+   ],
+   "quantity": "1",
+   "price_usd": 27311.58,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "MCDONOUGH-HP",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": "HPE Tech Care Essential wDMR SVC",
+   "part": "Hardware Tech Support service",
+   "part_numbers": [
+    "HU4A7AC"
+   ],
+   "quantity": "1",
+   "price_usd": 450.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "WATER-FLATBRIDGE-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": "HPE Tech Care Essential wDMR SVC",
+   "part": "Hardware Tech Support / Remote Tech Support service",
+   "part_numbers": [
+    "HU4A7AC"
+   ],
+   "quantity": "1",
+   "price_usd": 4822.92,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "IT-CAMPCIR-HP",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": "HPE Tech Care Essential wDMR SVC",
+   "part": "Hardware Tech Support / Remote Tech Support service",
+   "part_numbers": [
+    "HU4A7AC"
+   ],
+   "quantity": "1",
+   "price_usd": 9049.68,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "MXQ701030G-HP",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": "HPE Tech Care Essential wDMR SVC",
+   "part": "Hardware Tech Support service",
+   "part_numbers": [
+    "HU4A7AC"
+   ],
+   "quantity": "1",
+   "price_usd": 7763.4,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "WATER-ROADHAVEN-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": "HPE Tech Care Essential wDMR SVC",
+   "part": "Hardware Tech Support service",
+   "part_numbers": [
+    "HU4A7AC"
+   ],
+   "quantity": "1",
+   "price_usd": 1392.48,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "WATER-FLAKESMILL-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": "HPE Tech Care Essential wDMR SVC",
+   "part": "Hardware Tech Support service",
+   "part_numbers": [
+    "HU4A7AC"
+   ],
+   "quantity": "1",
+   "price_usd": 2811.96,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "WATERSHED-WINTERS-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": "HPE Tech Care Essential wDMR SVC",
+   "part": "Hardware Tech Support service",
+   "part_numbers": [
+    "HU4A7AC"
+   ],
+   "quantity": "1",
+   "price_usd": 3705.48,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "IT-WESTEXCH-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": "HPE Tech Care Essential wDMR SVC",
+   "part": "Hardware Tech Support service",
+   "part_numbers": [
+    "HU4A7AC"
+   ],
+   "quantity": "1",
+   "price_usd": 4499.64,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "POLICE-WESTEXCH-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": "HPE Tech Care Essential wDMR SVC",
+   "part": "Hardware Tech Support service",
+   "part_numbers": [
+    "HU4A7AC"
+   ],
+   "quantity": "1",
+   "price_usd": 927.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "MCDONOUGH-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hewlett Packard Enterprise",
+   "model": "HPE Education Learning Credits",
+   "part": "Training related to computer / Education Learning Credits",
+   "part_numbers": [
+    "HA167AC"
+   ],
+   "quantity": "1,255.000 Total Education Units",
+   "price_usd": 297537.48,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "DEKALB-EDU-HP",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HPE",
+   "model": "ProLiant DL380 Gen10",
+   "part": "Server hardware covered under support (2U2P E5450 US G4)",
+   "part_numbers": [
+    "875585-005"
+   ],
+   "quantity": "1",
+   "price_usd": 146.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "POLICE-WESTEXCH-HP",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HPE",
+   "model": "ProLiant DL360 Gen8",
+   "part": "Server hardware covered under support (S-Buy E5-2609)",
+   "part_numbers": [
+    "670632-S01"
+   ],
+   "quantity": "1",
+   "price_usd": 139.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "IT-HP",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HPE",
+   "model": "ProLiant DL360 Gen9",
+   "part": "Server hardware covered under support (Entry SU 730US)",
+   "part_numbers": [
+    "793524-B21"
+   ],
+   "quantity": "1",
+   "price_usd": 105.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "IT-HP",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "HPE",
+   "model": "ProLiant DL360 Gen7",
+   "part": "Server hardware covered under support (Entry SU E5506)",
+   "part_numbers": [
+    "579342-001"
+   ],
+   "quantity": "1",
+   "price_usd": 128.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "IT-HP",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HPE",
+   "model": "BladeSystem c460c GEN1 1GB Server X5535 P2",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "534459-B21"
+   ],
+   "quantity": "1",
+   "price_usd": 83.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "IT-HP",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "HPE",
+   "model": "BLc StorageBlade 40BSc",
+   "part": "Storage Blade hardware covered under support",
+   "part_numbers": [
+    "411342-B21"
+   ],
+   "quantity": "1",
+   "price_usd": 47.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "IT-HP",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "PowerEdge R610",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "DEL88888986"
+   ],
+   "quantity": "1",
+   "price_usd": 6.25,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "WATER-FLATBRIDGE-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "PowerEdge R710",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "DEL88888987"
+   ],
+   "quantity": "1",
+   "price_usd": 21.17,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "WATER-ROADHAVEN-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "PowerEdge R900",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "DEL88888989"
+   ],
+   "quantity": "1",
+   "price_usd": 28.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "WATER-ROADHAVEN-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "PowerEdge 1900",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "DEL88888937"
+   ],
+   "quantity": "1",
+   "price_usd": 9.67,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "WATER-ROADHAVEN-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "PowerEdge 6850",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "DEL88888965"
+   ],
+   "quantity": "1",
+   "price_usd": 14.75,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "WATER-ROADHAVEN-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "PowerEdge 2850",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "DEL88888978"
+   ],
+   "quantity": "1",
+   "price_usd": 9.66,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "WATER-ROADHAVEN-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "PowerEdge 2900",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "DEL88888979"
+   ],
+   "quantity": "1",
+   "price_usd": 9.67,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "WATER-ROADHAVEN-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "PowerEdge 2950",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "DEL88888980"
+   ],
+   "quantity": "1",
+   "price_usd": 9.67,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "WATER-ROADHAVEN-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "PowerEdge R420",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "DEL80002997"
+   ],
+   "quantity": "1",
+   "price_usd": 9.92,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "WATERSHED-WINTERS-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "PowerEdge 2600",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "DEL88888959"
+   ],
+   "quantity": "1",
+   "price_usd": 9.67,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "WATERSHED-WINTERS-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "PowerEdge R310",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "DEL80003992"
+   ],
+   "quantity": "1",
+   "price_usd": 13.25,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "IT-WESTEXCH-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "PowerEdge R230",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "DEL80059585"
+   ],
+   "quantity": "1",
+   "price_usd": 8.33,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "IT-WESTEXCH-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "PowerEdge R730",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "DEL89294205"
+   ],
+   "quantity": "1",
+   "price_usd": 27.58,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "IT-WESTEXCH-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IBM",
+   "model": "System x3550",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "IBM88886975"
+   ],
+   "quantity": "1",
+   "price_usd": 7.92,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "IT-WESTEXCH-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "PowerEdge R810",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "DEL80003001"
+   ],
+   "quantity": "1",
+   "price_usd": 21.0,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "POLICE-WESTEXCH-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "PowerEdge R820",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "DEL80003014"
+   ],
+   "quantity": "1",
+   "price_usd": 18.58,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "POLICE-WESTEXCH-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "PowerEdge R310",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "DEL88888987"
+   ],
+   "quantity": "1",
+   "price_usd": 6.25,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "POLICE-WESTEXCH-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "PowerEdge R310",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "DEL80003992"
+   ],
+   "quantity": "1",
+   "price_usd": 6.25,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "MCDONOUGH-MV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dell",
+   "model": "PowerEdge R610",
+   "part": "Server hardware covered under support",
+   "part_numbers": [
+    "DEL88888986"
+   ],
+   "quantity": "1",
+   "price_usd": 6.25,
+   "lead_time": null,
+   "sole_source_vendor": "Hewlett Packard Enterprise Company",
+   "reason": "HPE products and services are proprietary to their manufactured equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": "MCDONOUGH-MV",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 43296,
+  "out": 7241
+ },
+ "model": "claude-sonnet-5"
+}

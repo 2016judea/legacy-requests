@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Replacement pumps, pump parts, and process equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 100000,
+   "lead_time": null,
+   "sole_source_vendor": "Combs Technologies, Inc.",
+   "reason": "This contract provides replacement pumps, pump parts, and process equipment that can only be obtained from assigned representatives or the Original Equipment Manufacturer.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Maintenance services for pumps and process equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Combs Technologies, Inc.",
+   "reason": "Maintenance service may be required by manufacturer authorized representatives to honor warranties.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2565,
+  "out": 494
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Teaching Strategies",
+   "model": "GOLD",
+   "part": "Research-based, birth through kindergarten educational assessment software (subscription services including ReadyRosie, Tadpoles, PD Teacher Membership, GOLD Online Assessment Portfolios, GOLD Archives)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 504923.0,
+   "lead_time": null,
+   "sole_source_vendor": "UTJ Holdco, Inc. dba Teaching Strategies, LLC",
+   "reason": "Teaching Strategies is the only company that implements and supports the curriculum.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Metropolitan Action Commission",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 60249,
+  "out": 259
+ },
+ "model": "claude-sonnet-5"
+}

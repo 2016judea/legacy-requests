@@ -1,0 +1,107 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Equipment and capital improvements to the ReSource Center MRF (baler bypass system: conveyors, baler modifications, and related components)",
+   "part_numbers": [],
+   "quantity": "1.00 Lot",
+   "price_usd": 753652.65,
+   "lead_time": "Approximately 4 \u2013 4 \u00bd months, from date of signed approval drawing",
+   "sole_source_vendor": "Van Dyk Recycling Solutions",
+   "reason": "due to limitations on the source or supply of the proprietary equipment",
+   "equipment_class": "other equipment",
+   "installed_location": "ReSource Center, Materials Recovery Facility (MRF), Tajiguas",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bollegraaf",
+   "model": null,
+   "part": "Modifications existing chain conveyor: new angled section, 2,500 mm ext.",
+   "part_numbers": [
+    "006009-1550"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Van Dyk Recycling Solutions",
+   "reason": "due to limitations on the source or supply of the proprietary equipment",
+   "equipment_class": "other equipment",
+   "installed_location": "ReSource Center, Materials Recovery Facility (MRF), Tajiguas",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bollegraaf",
+   "model": "HBC120S",
+   "part": "Options/accessories baler, including belt infeed hopper with Siemens electrical components",
+   "part_numbers": [
+    "HBC120S(90kW)"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Van Dyk Recycling Solutions",
+   "reason": "due to limitations on the source or supply of the proprietary equipment",
+   "equipment_class": "other equipment",
+   "installed_location": "ReSource Center, Materials Recovery Facility (MRF), Tajiguas",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bollegraaf",
+   "model": "CC/2000*8000",
+   "part": "Feed conveyor, chain conveyor type CC/2000*8000 - 0\u00b0",
+   "part_numbers": [
+    "CC/2000*8000"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Van Dyk Recycling Solutions",
+   "reason": "due to limitations on the source or supply of the proprietary equipment",
+   "equipment_class": "other equipment",
+   "installed_location": "ReSource Center, Materials Recovery Facility (MRF), Tajiguas",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bollegraaf",
+   "model": "CC/1600*12300",
+   "part": "Incline conveyor, chain conveyor type CC/1600*12300 - 35\u00b0",
+   "part_numbers": [
+    "CC/1600*12300"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Van Dyk Recycling Solutions",
+   "reason": "due to limitations on the source or supply of the proprietary equipment",
+   "equipment_class": "other equipment",
+   "installed_location": "ReSource Center, Materials Recovery Facility (MRF), Tajiguas",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bollegraaf",
+   "model": null,
+   "part": "Switchbox components, including 2 motor groups and 2 frequency regulators",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Van Dyk Recycling Solutions",
+   "reason": "due to limitations on the source or supply of the proprietary equipment",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "ReSource Center, Materials Recovery Facility (MRF), Tajiguas",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 5,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 37616,
+  "out": 5130
+ },
+ "model": "claude-sonnet-5"
+}

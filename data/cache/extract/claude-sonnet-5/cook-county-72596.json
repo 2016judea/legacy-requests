@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Mainframe",
+   "part": "Mainframe hosting services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ensono, LLC",
+   "reason": "The Mainframe and AS/400 represent two legacy platforms that are end-of-life.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": "iSeries (AS/400)",
+   "part": "iSeries (AS/400) hosting services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ensono, LLC",
+   "reason": "The Mainframe and AS/400 represent two legacy platforms that are end-of-life.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Private cloud hosting for the Integrated Property Tax System Project",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ensono, LLC",
+   "reason": "Ensono provides mission critical private cloud hosting services for the Integrated Property Tax System and the Clerk of the Circuit Court's Disaster Recovery environment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Private cloud hosting for the Clerk of the Circuit Court's Case Management System's Disaster Recovery Infrastructure",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ensono, LLC",
+   "reason": "Ensono provides mission critical private cloud hosting services for the Integrated Property Tax System and the Clerk of the Circuit Court's Disaster Recovery environment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Clerk of the Circuit Court",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4552,
+  "out": 1294
+ },
+ "model": "claude-sonnet-5"
+}

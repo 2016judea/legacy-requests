@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": "Expedition",
+   "part": "2023 Ford Expedition command vehicle with code three (lights and siren) package, command box, installed radios",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 70000,
+   "lead_time": null,
+   "sole_source_vendor": "Cordelia Fire District",
+   "reason": "This purchase provides a cost savings to the County of approximately $60,000, a 50% savings surpassing the savings that the County receives through the Enterprise lease agreement.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Napa County Fire Marshal",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": "Dual Band Radio",
+   "part": "6 Motorola dual band radios with speaker microphones and bank charger, capable of Fairfield/Vacaville 800 MHZ",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Cordelia Fire District",
+   "reason": "providing a cost savings of $25,000 due to existing licensing that come with the radios",
+   "equipment_class": "communications/radio",
+   "installed_location": "Battalion Chief 1416A vehicle",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3511,
+  "out": 425
+ },
+ "model": "claude-sonnet-5"
+}

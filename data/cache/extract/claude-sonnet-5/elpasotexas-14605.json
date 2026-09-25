@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Almott",
+   "model": "550-amp alternator",
+   "part": "New Alternators and parts for fleet of fixed-route vehicles operating with Almott 550amp alternators",
+   "part_numbers": [
+    "221711-219"
+   ],
+   "quantity": null,
+   "price_usd": 255000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Romaine Electric Corporation",
+   "reason": "Romaine Electric Corporation is the only Entity authorized to sell Almott Products as their designated Distributor, in the state of Texas.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Sun Metro Mass Transit fixed-route vehicles",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7308,
+  "out": 237
+ },
+ "model": "claude-sonnet-5"
+}

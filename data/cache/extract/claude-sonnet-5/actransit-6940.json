@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Clever Devices",
+   "model": "Celrado Dispatch Client",
+   "part": "purchase and upgrade radio communication dispatch consoles' hardware and software equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 353500,
+   "lead_time": null,
+   "sole_source_vendor": "Clever Devices",
+   "reason": "the upgrade is available from only Clever Devices and there is no comparable or \"as equal\" solution available",
+   "equipment_class": "communications/radio",
+   "installed_location": "Operations Control Center (OCC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Telex",
+   "model": "Telex C",
+   "part": "replace 11 end-of-life Telex C soft consoles with the new Clever Devices Celrado Dispatch Client",
+   "part_numbers": [],
+   "quantity": "11",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Clever Devices",
+   "reason": "We will replace 11 end-of-life Telex C soft consoles with the new Clever Devices Celrado Dispatch Client.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Operations Control Center (OCC)",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "replace the existing voice logging equipment that records all calls with a new logging recorder",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Clever Devices",
+   "reason": "We will also replace the existing voice logging equipment that records all calls with a new logging recorder.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Operations Control Center (OCC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Clever Devices",
+   "model": null,
+   "part": "one year of software maintenance included with hardware/software implementation services",
+   "part_numbers": [],
+   "quantity": "1 year",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Clever Devices",
+   "reason": "this project includes all costs for project hardware, software, implementation services (design, configuration, testing, training, and project management) and one year of software maintenance",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Operations Control Center (OCC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7305,
+  "out": 1335
+ },
+ "model": "claude-sonnet-5"
+}

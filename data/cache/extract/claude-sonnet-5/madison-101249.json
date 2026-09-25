@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "video surveillance cameras",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Integral Building Systems, Inc.",
+   "reason": "sole source Contract for the purchase and installation of video surveillance cameras and camera software licenses",
+   "equipment_class": "other equipment",
+   "installed_location": "Atrium building and Parking Structure at the Village on Park",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "camera software licenses",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Integral Building Systems, Inc.",
+   "reason": "sole source Contract for the purchase and installation of video surveillance cameras and camera software licenses",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Atrium building and Parking Structure at the Village on Park",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1979,
+  "out": 636
+ },
+ "model": "claude-sonnet-5"
+}

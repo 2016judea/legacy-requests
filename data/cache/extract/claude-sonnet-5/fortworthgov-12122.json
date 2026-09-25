@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "System Innovators",
+   "model": "iNovah Enterprise Revenue Management System",
+   "part": "Support and maintenance expenses for iNovah Enterprise Revenue Management System (transaction fees increase)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 152000.0,
+   "lead_time": null,
+   "sole_source_vendor": "N. Harris Computer Corporation",
+   "reason": "This project was approved for a waiver per the Chapter 252 exemption, as a sole source by the Legal Department.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3631,
+  "out": 293
+ },
+ "model": "claude-sonnet-5"
+}

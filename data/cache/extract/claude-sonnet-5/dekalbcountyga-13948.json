@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trane",
+   "model": null,
+   "part": "Repair Parts and Services for HVAC Systems (parts and labor) at Scott Candler Water Treatment Plant, Snapfinger Wastewater Treatment Plant, and Pole Bridge Wastewater Treatment Plant",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 900000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Trane Company",
+   "reason": "Trane is the original equipment manufacture for the HVAC equipment at the Scott Candler Water Treatment Plant. They are the proprietary owners of the software and diagnostic tools necessary to diagnose and repair that equipment.",
+   "equipment_class": "HVAC",
+   "installed_location": "Scott Candler Water Treatment Plant, Snapfinger Wastewater Treatment Plant, Pole Bridge Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trane",
+   "model": "chillers",
+   "part": "Four Trane chillers onsite with software and building automation control systems",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Trane Company",
+   "reason": "Trane Company also programmed and supplied all software for the HVAC systems at the plant, including the four Trane chillers onsite.",
+   "equipment_class": "HVAC",
+   "installed_location": "Scott Candler Water Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 48244,
+  "out": 506
+ },
+ "model": "claude-sonnet-5"
+}

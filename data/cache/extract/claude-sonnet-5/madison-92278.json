@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stryker",
+   "model": "Power Load System",
+   "part": "Annual preventative maintenance and service for ambulance power load systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 135793.8,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation - Medical Division",
+   "reason": "only Stryker can support and maintain its Power Load Cot systems",
+   "equipment_class": "other equipment",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": "Power Cot",
+   "part": "Annual preventative maintenance and service for ambulance power cots",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 135793.8,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker Sales Corporation - Medical Division",
+   "reason": "Stryker utilizes proprietary diagnostic tools and software when servicing the Power Load systems and maintains its own field service team to perform maintenance using only parts manufactured specifically for Stryker products",
+   "equipment_class": "other equipment",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2698,
+  "out": 390
+ },
+ "model": "claude-sonnet-5"
+}

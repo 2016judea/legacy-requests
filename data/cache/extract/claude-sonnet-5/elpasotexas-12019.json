@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": "Zoll Medical Corporation",
+   "model": "X-Series",
+   "part": "Defibrillator Equipment and Maintenance - X-Series cardiac monitor defibrillators and services",
+   "part_numbers": [],
+   "quantity": "9 new cardiac monitor defibrillators units",
+   "price_usd": 1815220.65,
+   "lead_time": null,
+   "sole_source_vendor": "Zoll Medical Corporation",
+   "reason": "the sole source provider for the X-Series cardiac monitor defibrillators and services",
+   "equipment_class": "other equipment",
+   "installed_location": "El Paso Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Zoll Medical Corporation",
+   "model": "X Series",
+   "part": "Professional Defibrillators/Monitors - Worry-Free Service Plan - 3 Years On-Site",
+   "part_numbers": [
+    "8889-89033-WF"
+   ],
+   "quantity": "33",
+   "price_usd": 182605.5,
+   "lead_time": null,
+   "sole_source_vendor": "Zoll Medical Corporation",
+   "reason": "is the sole manufacturer and source of X Series\u00ae and X Series Advanced Defibrillators for the EMS Market",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "El Paso Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Zoll Medical Corporation",
+   "model": "X Series, R Series, Propaq",
+   "part": "Worry-Free Pro-Rated Service Plan - X Series, R Series, Propaq",
+   "part_numbers": [
+    "8889-89900-WFP"
+   ],
+   "quantity": "18",
+   "price_usd": 3240.0,
+   "lead_time": null,
+   "sole_source_vendor": "Zoll Medical Corporation",
+   "reason": "is the sole manufacturer and source of X Series\u00ae and X Series Advanced Defibrillators for the EMS Market",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "El Paso Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Zoll Medical Corporation",
+   "model": "X Series",
+   "part": "Professional Defibrillators/Monitors - Worry-Free Service Plan - 2 Years On-Site",
+   "part_numbers": [
+    "8889-89022-WF"
+   ],
+   "quantity": "3",
+   "price_usd": 11296.5,
+   "lead_time": null,
+   "sole_source_vendor": "Zoll Medical Corporation",
+   "reason": "is the sole manufacturer and source of X Series\u00ae and X Series Advanced Defibrillators for the EMS Market",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "El Paso Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Zoll Medical Corporation",
+   "model": "X Series, R Series, Propaq",
+   "part": "Worry-Free Pro-Rated Service Plan - X Series, R Series, Propaq",
+   "part_numbers": [
+    "8889-89900-WFP"
+   ],
+   "quantity": "18",
+   "price_usd": 2754.0,
+   "lead_time": null,
+   "sole_source_vendor": "Zoll Medical Corporation",
+   "reason": "is the sole manufacturer and source of X Series\u00ae and X Series Advanced Defibrillators for the EMS Market",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "El Paso Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Zoll Medical Corporation",
+   "model": "X Series, R Series, Propaq",
+   "part": "Worry-Free Pro-Rated Service Plan - X Series, R Series, Propaq",
+   "part_numbers": [
+    "8889-89900-WFP"
+   ],
+   "quantity": "12",
+   "price_usd": 1836.0,
+   "lead_time": null,
+   "sole_source_vendor": "Zoll Medical Corporation",
+   "reason": "is the sole manufacturer and source of X Series\u00ae and X Series Advanced Defibrillators for the EMS Market",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "El Paso Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Zoll Medical Corporation",
+   "model": "X Series",
+   "part": "Professional Defibrillators/Monitors - Worry-Free Service Plan - 1 Year On-Site",
+   "part_numbers": [
+    "8889-89011-WF"
+   ],
+   "quantity": "8",
+   "price_usd": 16014.0,
+   "lead_time": null,
+   "sole_source_vendor": "Zoll Medical Corporation",
+   "reason": "is the sole manufacturer and source of X Series\u00ae and X Series Advanced Defibrillators for the EMS Market",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "El Paso Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Zoll Medical Corporation",
+   "model": "X Series, R Series, Propaq",
+   "part": "Worry-Free Pro-Rated Service Plan - X Series, R Series, Propaq",
+   "part_numbers": [
+    "8889-89900-WFP"
+   ],
+   "quantity": "6",
+   "price_usd": 1080.0,
+   "lead_time": null,
+   "sole_source_vendor": "Zoll Medical Corporation",
+   "reason": "is the sole manufacturer and source of X Series\u00ae and X Series Advanced Defibrillators for the EMS Market",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "El Paso Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 46263,
+  "out": 6013
+ },
+ "model": "claude-sonnet-5"
+}

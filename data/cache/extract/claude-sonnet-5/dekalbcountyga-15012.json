@@ -1,0 +1,45 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hyland Software, Inc.",
+   "model": "OnBase",
+   "part": "Hyland OnBase Software Licenses and Maintenance (enterprise content management system)",
+   "part_numbers": [
+    "AEMPI2",
+    "CTMPC",
+    "CTMPN",
+    "DIMPW1",
+    "DPMPW1",
+    "GWMPI1",
+    "KXMPI1",
+    "OBMPW1",
+    "PTMPC1",
+    "RIMPI1",
+    "UFMPI1",
+    "UNMPI1",
+    "WLMPC",
+    "DXIPW1_SUBS",
+    "WTIPW1_SUBS"
+   ],
+   "quantity": null,
+   "price_usd": 214128.99,
+   "lead_time": null,
+   "sole_source_vendor": "Hyland Software, Inc.",
+   "reason": "is needed to avoid putting the County's management system at critical risk, which will impact the continuity of operations",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7243,
+  "out": 1699
+ },
+ "model": "claude-sonnet-5"
+}

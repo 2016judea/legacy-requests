@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Selectron Technologies, Inc.",
+   "model": "Atlas Insight",
+   "part": "Atlas Insight Software Implementation, Maintenance, Support and Professional Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 574452.45,
+   "lead_time": null,
+   "sole_source_vendor": "Selectron Technologies, Inc.",
+   "reason": "Selectron\u2019s Atlas Insight platform is the only solution that provides a fully integrated, tailored mobile field inspection application along with a visual, map-based management tool with drag and drop inspection management, assignment, and re-assignment capabilities.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Development Services and Information Technology Solutions Departments",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5270,
+  "out": 590
+ },
+ "model": "claude-sonnet-5"
+}

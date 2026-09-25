@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Esri",
+   "model": "ArcGIS Enterprise",
+   "part": "GIS licensing software, maintenance, and online service",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1085000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute, Inc. dba Esri",
+   "reason": "items that are available from only one source because of patents, copyrights, secret processes, or natural monopolies",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7093,
+  "out": 195
+ },
+ "model": "claude-sonnet-5"
+}

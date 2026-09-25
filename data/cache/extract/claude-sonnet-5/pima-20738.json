@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hewlett Packard",
+   "model": null,
+   "part": "Group 1: OEM New Toner/Ink Cartridges for Pima County printers and fax machines",
+   "part_numbers": [],
+   "quantity": "as required basis (no minimum or maximum guarantee)",
+   "price_usd": 246470.77,
+   "lead_time": "less than five (5) calendar days after issue date of order",
+   "sole_source_vendor": "Central Jersey Office Equipment Inc. DBA State Toner",
+   "reason": "Award is recommended to the: Lowest, responsive and responsible bidders",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Group 2: Remanufactured Toner/Ink Cartridges for Pima County printers and fax machines",
+   "part_numbers": [],
+   "quantity": "as required basis (no minimum or maximum guarantee)",
+   "price_usd": 11843.0,
+   "lead_time": "less than five (5) calendar days after issue date of order",
+   "sole_source_vendor": "CVR Computer Supplies, Inc.",
+   "reason": "Award is recommended to the: Lowest, responsive and responsible bidders",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 2
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 71323,
+  "out": 2886
+ },
+ "model": "claude-sonnet-5"
+}

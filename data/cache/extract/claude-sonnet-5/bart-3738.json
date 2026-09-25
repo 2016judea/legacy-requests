@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Knorr Brake Company",
+   "model": null,
+   "part": "Brake system discs and overhaul kits for D&E revenue vehicles braking system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 25419102.58,
+   "lead_time": "9-12 months",
+   "sole_source_vendor": "Knorr Brake Company",
+   "reason": "Knorr is the original equipment manufacturer (OEM) of the revenue vehicle braking system and the components are proprietary to Knorr. Therefore, Knorr is the only vendor capable of manufacturing the discs and overhaul kits needed for the District\u2019s revenue vehicles.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "District revenue vehicles (D&E fleet)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4059,
+  "out": 271
+ },
+ "model": "claude-sonnet-5"
+}

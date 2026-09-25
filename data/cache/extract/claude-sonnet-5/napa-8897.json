@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Closed Captioning Encoder",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 60000,
+   "lead_time": null,
+   "sole_source_vendor": "Link Electronics",
+   "reason": "supplies the only encoder that offers two SDI outs, one in Spanish and one in English",
+   "equipment_class": "other equipment",
+   "installed_location": "Board Chambers",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "New air conditioning unit / HVAC equipment for Board Chambers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 15000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "it is imperative we update the HVAC in that room to maintain a temperature that will prevent further overheating and damage",
+   "equipment_class": "HVAC",
+   "installed_location": "Board Chambers",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3675,
+  "out": 319
+ },
+ "model": "claude-sonnet-5"
+}

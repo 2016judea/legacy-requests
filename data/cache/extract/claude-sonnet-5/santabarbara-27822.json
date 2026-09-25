@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Patriot Homes",
+   "model": null,
+   "part": "Mobile home to replace Jalama Beach ranger residence",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 125000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Patriot Homes",
+   "reason": "After researching over seven (7) mobile home companies, only one unit from Patriot Homes was found that meets all of the required size, orientation and accessibility needs and is aesthetically comparable to the mobile home most recently installed in 2016.",
+   "equipment_class": "other equipment",
+   "installed_location": "Jalama Beach Campground",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4726,
+  "out": 339
+ },
+ "model": "claude-sonnet-5"
+}

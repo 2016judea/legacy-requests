@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "BRINC",
+   "model": "Lemur 2",
+   "part": "Unmanned aerial system (UAS) BRINC Lemur 2 Operations Bundle drone",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 21549,
+   "lead_time": null,
+   "sole_source_vendor": "BRINC",
+   "reason": "BRINC is the sole manufacturer and developer of the Lemur 2 drone as well as the sole provider of a proprietary comprehensive fleet management, live streaming and operations hub.",
+   "equipment_class": "other equipment",
+   "installed_location": "Napa County Sheriff's Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3517,
+  "out": 225
+ },
+ "model": "claude-sonnet-5"
+}

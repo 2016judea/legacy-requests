@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Messer North America",
+   "model": null,
+   "part": "Maintenance and repair services for District-operated hydrogen fuel stations (East Oakland and Emeryville Divisions), including cryogenic tanks and compressors",
+   "part_numbers": [],
+   "quantity": "2 stations (with option to add a third)",
+   "price_usd": 2502663,
+   "lead_time": null,
+   "sole_source_vendor": "Messer North America, Inc.",
+   "reason": "Messer will not allow anyone else to service the tank while it is leased. Since the tank and compressors are all part of a very high-pressure system, due to safety concerns it is better to have a single vendor (Messer) providing maintenance and repairs.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "East Oakland and Emeryville Divisions",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Refrigerated liquid hydrogen storage tank (leased) at Emeryville station",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Messer North America, Inc.",
+   "reason": "The refrigerated liquid hydrogen storage tank in Emeryville will be the only item still under lease, and it will be upgraded or purchased during the next station update in 2031.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Emeryville Division (D2)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8415,
+  "out": 504
+ },
+ "model": "claude-sonnet-5"
+}

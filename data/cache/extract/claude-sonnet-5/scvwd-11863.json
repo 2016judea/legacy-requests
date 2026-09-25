@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "electromagnetic inspection, acoustic fiber optic (AFO) monitoring system, and AFO system services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Pure Technologies U.S., Inc.",
+   "reason": "the Board approved a sole source purchase of equipment and services from Pure Technologies U.S., Inc. to provide electromagnetic inspection, acoustic fiber optic (AFO) monitoring system, and AFO system services for the 10-Year Pipeline Inspection and Rehabilitation Program.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Santa Clara Conduit",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "replacement of line valves",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "replacement of line valves",
+   "equipment_class": "valve",
+   "installed_location": "Santa Clara Conduit",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Carbon Fiber Reinforcement Polymers (CFRP) Supplemental Bid Item used for pipeline internal repair",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The credits associated also included Carbon Fiber Reinforcement Polymers (CFRP) Supplemental Bid Item.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Santa Clara Conduit",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "procurement and installation of electrical fixtures",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "procurement and installation of electrical fixtures, generator modifications, and minor vault wall repair.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Santa Clara Conduit",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "generator modifications",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "procurement and installation of electrical fixtures, generator modifications, and minor vault wall repair.",
+   "equipment_class": "generator",
+   "installed_location": "Santa Clara Conduit",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "deleted flowmeter replacement work",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "deleted flowmeter replacement work",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Santa Clara Conduit",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "stem extensions (planned but not installed)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "stem extensions not installed for a total credit of $125,397.57",
+   "equipment_class": "valve",
+   "installed_location": "Santa Clara Conduit",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 22351,
+  "out": 4096
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Microsoft Corporation",
+   "model": null,
+   "part": "Microsoft Unified Support Services - support services that help minimize downtime in the event an issue occurs and impact the Microsoft environment within the County",
+   "part_numbers": [
+    "GVS0246-465432-593666"
+   ],
+   "quantity": null,
+   "price_usd": 999627.0,
+   "lead_time": null,
+   "sole_source_vendor": "Microsoft Corporation",
+   "reason": "Without the support access to patches, security alerts, and support will be non-existent delaying remediation response time.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 6,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 13530,
+  "out": 515
+ },
+ "model": "claude-sonnet-5"
+}

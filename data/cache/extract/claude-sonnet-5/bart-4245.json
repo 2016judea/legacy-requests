@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hitachi Rail STS USA, Inc.",
+   "model": null,
+   "part": "Systems and Vehicle Integration Work for the Communications Based Train Control (CBTC) Vehicle Interface",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 330000000,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This Contract Amendment provides for the completion of the Final Design and execution of Systems and Vehicle Integration work.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Alstom Transit Inc.",
+   "model": null,
+   "part": "Equipment, Material, Installation and Modifications support to the District Revenue Vehicle Fleet for CBTC compatibility",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 53400000,
+   "lead_time": null,
+   "sole_source_vendor": "Alstom Transit Inc.",
+   "reason": "since the equipment and software systems on the Vehicles are proprietary to Alstom and no other vendor can perform such work, this award is a permissible single source agreement",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "District Revenue Vehicle Fleet",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11529,
+  "out": 878
+ },
+ "model": "claude-sonnet-5"
+}

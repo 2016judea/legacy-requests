@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Emergency generator replacement (permanent generator with higher capacity fuel tank) for Mt. St. Helena Communications Tower",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 145313,
+   "lead_time": null,
+   "sole_source_vendor": "Peterson Power Systems, Inc.",
+   "reason": "Based on the Sourcewell quote received, Public Works requests to sole source construction to Peterson Power Systems, Inc. for the replacement of the emergency generator at the Mt. St. Helena Communications Tower.",
+   "equipment_class": "generator",
+   "installed_location": "Mt. St. Helena Communications Tower",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3613,
+  "out": 247
+ },
+ "model": "claude-sonnet-5"
+}

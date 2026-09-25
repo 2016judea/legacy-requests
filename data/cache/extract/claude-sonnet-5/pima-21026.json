@@ -1,0 +1,169 @@
+{
+ "records": [
+  {
+   "manufacturer": "Spaans Babcock",
+   "model": null,
+   "part": "Spaans Babcock Screw Pumps, Parts and Service",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Spaans Babcock Inc",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2500026674 is recommended to Spaans Babcock Inc, which has accepted the terms of County's Offer Agreement.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Tres Rios Water Treatment Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Spaans Babcock",
+   "model": "BE2591",
+   "part": "Screw Pump BE2591, including bearings, drive unit, side profiles and 2 trips for site services and installation",
+   "part_numbers": [
+    "BE2591"
+   ],
+   "quantity": null,
+   "price_usd": 359000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Spaans Babcock Inc",
+   "reason": "This is a \"no substitute\" contract. Contractor must provide items that conform to the specifications and requirements herein. Substitution of any item for an equivalent item is not permitted, and County will not allow any deviations.",
+   "equipment_class": "pump",
+   "installed_location": "Tres Rios Water Treatment Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Spaans Babcock",
+   "model": "LGB-36",
+   "part": "Internals upper bearing LGB-36, including roller bearing, sealing ring and V-ring",
+   "part_numbers": [
+    "LGB-36"
+   ],
+   "quantity": null,
+   "price_usd": 13699.0,
+   "lead_time": null,
+   "sole_source_vendor": "Spaans Babcock Inc",
+   "reason": "This is a \"no substitute\" contract. Contractor must provide items that conform to the specifications and requirements herein. Substitution of any item for an equivalent item is not permitted, and County will not allow any deviations.",
+   "equipment_class": "pump",
+   "installed_location": "Tres Rios Water Treatment Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Spaans Babcock",
+   "model": "CLV-50",
+   "part": "Holdback device CLV 50",
+   "part_numbers": [
+    "CLV-50"
+   ],
+   "quantity": null,
+   "price_usd": 2749.0,
+   "lead_time": null,
+   "sole_source_vendor": "Spaans Babcock Inc",
+   "reason": "This is a \"no substitute\" contract. Contractor must provide items that conform to the specifications and requirements herein. Substitution of any item for an equivalent item is not permitted, and County will not allow any deviations.",
+   "equipment_class": "pump",
+   "installed_location": "Tres Rios Water Treatment Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rupex",
+   "model": "RWN-710",
+   "part": "Rupex RWN-710 Buffer",
+   "part_numbers": [
+    "RWN-710"
+   ],
+   "quantity": null,
+   "price_usd": 13299.0,
+   "lead_time": null,
+   "sole_source_vendor": "Spaans Babcock Inc",
+   "reason": "This is a \"no substitute\" contract. Contractor must provide items that conform to the specifications and requirements herein. Substitution of any item for an equivalent item is not permitted, and County will not allow any deviations.",
+   "equipment_class": "pump",
+   "installed_location": "Tres Rios Water Treatment Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Spaans Babcock",
+   "model": "ECO-22-S",
+   "part": "Set of internals ECO-22-S",
+   "part_numbers": [
+    "ECO-22-S"
+   ],
+   "quantity": null,
+   "price_usd": 11599.0,
+   "lead_time": null,
+   "sole_source_vendor": "Spaans Babcock Inc",
+   "reason": "This is a \"no substitute\" contract. Contractor must provide items that conform to the specifications and requirements herein. Substitution of any item for an equivalent item is not permitted, and County will not allow any deviations.",
+   "equipment_class": "pump",
+   "installed_location": "Tres Rios Water Treatment Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Spaans Babcock",
+   "model": "ERGO22",
+   "part": "Lower gearing guard ERGO22",
+   "part_numbers": [
+    "ERGO22"
+   ],
+   "quantity": null,
+   "price_usd": 2899.0,
+   "lead_time": null,
+   "sole_source_vendor": "Spaans Babcock Inc",
+   "reason": "This is a \"no substitute\" contract. Contractor must provide items that conform to the specifications and requirements herein. Substitution of any item for an equivalent item is not permitted, and County will not allow any deviations.",
+   "equipment_class": "pump",
+   "installed_location": "Tres Rios Water Treatment Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Spaans Babcock",
+   "model": "SPC4500",
+   "part": "V-belts (set of 6) - SPC4500",
+   "part_numbers": [
+    "SPC4500"
+   ],
+   "quantity": "set of 6",
+   "price_usd": 1499.0,
+   "lead_time": null,
+   "sole_source_vendor": "Spaans Babcock Inc",
+   "reason": "This is a \"no substitute\" contract. Contractor must provide items that conform to the specifications and requirements herein. Substitution of any item for an equivalent item is not permitted, and County will not allow any deviations.",
+   "equipment_class": "pump",
+   "installed_location": "Tres Rios Water Treatment Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Spaans Babcock",
+   "model": null,
+   "part": "Site Services: limited to equipment inspection and/or supervision of repairs performed by 3rd parties",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Spaans Babcock Inc",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2500026674 is recommended to Spaans Babcock Inc, which has accepted the terms of County's Offer Agreement.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Tres Rios Water Treatment Facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Spaans Babcock",
+   "model": null,
+   "part": "Additional Site Services: additional 8-hour day on-site including expenses",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1400.0,
+   "lead_time": null,
+   "sole_source_vendor": "Spaans Babcock Inc",
+   "reason": "Pursuant to Pima County Procurement Code 11.12.050, Sole source procurement, award of Requisition No. RQ2500026674 is recommended to Spaans Babcock Inc, which has accepted the terms of County's Offer Agreement.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Tres Rios Water Treatment Facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 20638,
+  "out": 4297
+ },
+ "model": "claude-sonnet-5"
+}

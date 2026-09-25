@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ABB",
+   "model": "Distributed Control System (DCS)",
+   "part": "Multi-year system update providing controller migration in PCB, Grit, Clarifier, and Pump and Blower House for ABB DCS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5857110.0,
+   "lead_time": null,
+   "sole_source_vendor": "ABB Inc.",
+   "reason": "ABB, Inc. is registered and in good standing with the State of Illinois. Inasmuch as ABB, Inc. is the only source of supply for the services and parts required, nothing would be gained by advertising for bids",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "O\u2019Brien Water Reclamation Plant",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3056,
+  "out": 262
+ },
+ "model": "claude-sonnet-5"
+}

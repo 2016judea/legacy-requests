@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "LeadsOnline",
+   "model": "PowerPlus",
+   "part": "LeadsOnline PowerPlus Investigation System Service subscription",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 107542.0,
+   "lead_time": null,
+   "sole_source_vendor": "LeadsOnline",
+   "reason": "LeadsOnline is a proprietary investigative software system used by the Police Department since 2013.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "LeadsOnline",
+   "model": "CellHawk",
+   "part": "CellHawk cell phone mapping and analysis system subscription",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 6175.0,
+   "lead_time": null,
+   "sole_source_vendor": "LeadsOnline",
+   "reason": "LeadsOnline CellHawk is a proprietary cell phone mapping and analysis system for use by law enforcement.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4337,
+  "out": 691
+ },
+ "model": "claude-sonnet-5"
+}

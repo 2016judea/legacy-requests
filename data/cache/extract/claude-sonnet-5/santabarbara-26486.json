@@ -1,0 +1,201 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Install (2) 4\u201d isolation plug valves with manual gear actuator",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Nviro Corporation",
+   "reason": "Nviro Corporation has demonstrated competence with the professional qualifications necessary for the satisfactory performance of the services required",
+   "equipment_class": "valve",
+   "installed_location": "Tajiguas Landfill ReSource Center, 14470 Calle Real, Goleta, CA 93117",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Install (2) 6\u201d isolation plug valves with manual gear actuator",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Nviro Corporation",
+   "reason": "Nviro Corporation has demonstrated competence with the professional qualifications necessary for the satisfactory performance of the services required",
+   "equipment_class": "valve",
+   "installed_location": "Tajiguas Landfill ReSource Center, 14470 Calle Real, Goleta, CA 93117",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Provide (1) spare VFD for stormwater pumps",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Nviro Corporation",
+   "reason": "Nviro Corporation has demonstrated competence with the professional qualifications necessary for the satisfactory performance of the services required",
+   "equipment_class": "motor/drive",
+   "installed_location": "Tajiguas Landfill ReSource Center, 14470 Calle Real, Goleta, CA 93117",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Perform pump inspection and maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Nviro Corporation",
+   "reason": "Nviro Corporation has demonstrated competence with the professional qualifications necessary for the satisfactory performance of the services required",
+   "equipment_class": "pump",
+   "installed_location": "Tajiguas Landfill ReSource Center, 14470 Calle Real, Goleta, CA 93117",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fabricate and install custom stainless steel overflow weir on Baker tank. Connect existing 24\u201d HDPE overflow piping to overflow weir",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 33200,
+   "lead_time": null,
+   "sole_source_vendor": "Nviro Corporation",
+   "reason": "Nviro Corporation has demonstrated competence with the professional qualifications necessary for the satisfactory performance of the services required",
+   "equipment_class": "other equipment",
+   "installed_location": "Tajiguas Landfill ReSource Center, 14470 Calle Real, Goleta, CA 93117",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Limitorque",
+   "model": "MXa",
+   "part": "Install (2) Limitorque MXa electric valve actuators on stormwater bypass (Client to furnish valve actuators)",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 36400,
+   "lead_time": null,
+   "sole_source_vendor": "Nviro Corporation",
+   "reason": "Nviro Corporation has demonstrated competence with the professional qualifications necessary for the satisfactory performance of the services required",
+   "equipment_class": "valve",
+   "installed_location": "Tajiguas Landfill ReSource Center, 14470 Calle Real, Goleta, CA 93117",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Install (2) circuit breakers at load center",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Nviro Corporation",
+   "reason": "Nviro Corporation has demonstrated competence with the professional qualifications necessary for the satisfactory performance of the services required",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Tajiguas Landfill ReSource Center, 14470 Calle Real, Goleta, CA 93117",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rosemount",
+   "model": "8750W",
+   "part": "Install (2) 4\u201d Rosemount 8750W Flow Meters on discharge of the stormwater pumps",
+   "part_numbers": [
+    "8750W"
+   ],
+   "quantity": "2",
+   "price_usd": 21600,
+   "lead_time": null,
+   "sole_source_vendor": "Nviro Corporation",
+   "reason": "Nviro Corporation has demonstrated competence with the professional qualifications necessary for the satisfactory performance of the services required",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Tajiguas Landfill ReSource Center, 14470 Calle Real, Goleta, CA 93117",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allen Bradley",
+   "model": "CompactLogix L27",
+   "part": "Allen Bradley CompactLogix L27 PLC, network connection to ADF SCADA network, integrate stormwater tank level, pumps, and bypass valves into PLC",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 52800,
+   "lead_time": null,
+   "sole_source_vendor": "Nviro Corporation",
+   "reason": "Nviro Corporation has demonstrated competence with the professional qualifications necessary for the satisfactory performance of the services required",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Tajiguas Landfill ReSource Center, 14470 Calle Real, Goleta, CA 93117",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Weintek",
+   "model": null,
+   "part": "Weintek HMI with remote access, program to display tank water level, pump operating status, flow rate, and flow totalization",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Nviro Corporation",
+   "reason": "Nviro Corporation has demonstrated competence with the professional qualifications necessary for the satisfactory performance of the services required",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Tajiguas Landfill ReSource Center, 14470 Calle Real, Goleta, CA 93117",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Ethernet switch",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Nviro Corporation",
+   "reason": "Nviro Corporation has demonstrated competence with the professional qualifications necessary for the satisfactory performance of the services required",
+   "equipment_class": "communications/radio",
+   "installed_location": "Tajiguas Landfill ReSource Center, 14470 Calle Real, Goleta, CA 93117",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Pulsar",
+   "model": "AVFM6.1DC",
+   "part": "Install (1) Pulsar AVFM6.1DC flow meter into North Basin flow line (Client to furnish flow meter)",
+   "part_numbers": [
+    "AVFM6.1DC"
+   ],
+   "quantity": "1",
+   "price_usd": 14900,
+   "lead_time": null,
+   "sole_source_vendor": "Nviro Corporation",
+   "reason": "Nviro Corporation has demonstrated competence with the professional qualifications necessary for the satisfactory performance of the services required",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Tajiguas Landfill ReSource Center, 14470 Calle Real, Goleta, CA 93117",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne ISCO",
+   "model": null,
+   "part": "Install (1) Teledyne ISCO automatic refrigerated stormwater sampler with flow trigger (Client to furnish refrigerated automatic sampler)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 7200,
+   "lead_time": null,
+   "sole_source_vendor": "Nviro Corporation",
+   "reason": "Nviro Corporation has demonstrated competence with the professional qualifications necessary for the satisfactory performance of the services required",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Tajiguas Landfill ReSource Center, 14470 Calle Real, Goleta, CA 93117",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 5,
+  "pdfs_scanned": 3,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 113330,
+  "out": 8829
+ },
+ "model": "claude-sonnet-5"
+}

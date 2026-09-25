@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": "4Sight Labs Inc",
+   "model": "Overwatch",
+   "part": "Overwatch Sensors - ruggedized biosensor wearable wrist band units",
+   "part_numbers": [],
+   "quantity": "100",
+   "price_usd": 75000.0,
+   "lead_time": null,
+   "sole_source_vendor": "4Sight Labs Inc",
+   "reason": "4Sight Labs Inc. is the sole designer, manufacturer, training provider, and authorized seller of the Overwatch system. The lack of resellers precludes competitive bidding.",
+   "equipment_class": "other equipment",
+   "installed_location": "County Jail facilities in Placerville and South Lake Tahoe",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "4Sight Labs Inc",
+   "model": "Overwatch",
+   "part": "18-Sensor Charging Dock",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": 3570.0,
+   "lead_time": null,
+   "sole_source_vendor": "4Sight Labs Inc",
+   "reason": "4Sight Labs Inc. is the sole designer, manufacturer, training provider, and authorized seller of the Overwatch system. The lack of resellers precludes competitive bidding.",
+   "equipment_class": "other equipment",
+   "installed_location": "County Jail facilities in Placerville and South Lake Tahoe",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "4Sight Labs Inc",
+   "model": "Overwatch",
+   "part": "Reusable Locking-Wrist Bands",
+   "part_numbers": [],
+   "quantity": "100",
+   "price_usd": 8750.0,
+   "lead_time": null,
+   "sole_source_vendor": "4Sight Labs Inc",
+   "reason": "4Sight Labs Inc. is the sole designer, manufacturer, training provider, and authorized seller of the Overwatch system. The lack of resellers precludes competitive bidding.",
+   "equipment_class": "other equipment",
+   "installed_location": "County Jail facilities in Placerville and South Lake Tahoe",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "4Sight Labs Inc",
+   "model": "Overwatch",
+   "part": "Reusable Locking-Wrist Band Keys",
+   "part_numbers": [],
+   "quantity": "20",
+   "price_usd": 510.0,
+   "lead_time": null,
+   "sole_source_vendor": "4Sight Labs Inc",
+   "reason": "4Sight Labs Inc. is the sole designer, manufacturer, training provider, and authorized seller of the Overwatch system. The lack of resellers precludes competitive bidding.",
+   "equipment_class": "other equipment",
+   "installed_location": "County Jail facilities in Placerville and South Lake Tahoe",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "4Sight Labs Inc",
+   "model": "Overwatch",
+   "part": "Ultra Long-Range Wireless Gateway (w/ POE Splitter & Power cables)",
+   "part_numbers": [],
+   "quantity": "8",
+   "price_usd": 7600.0,
+   "lead_time": null,
+   "sole_source_vendor": "4Sight Labs Inc",
+   "reason": "4Sight Labs Inc. is the sole designer, manufacturer, training provider, and authorized seller of the Overwatch system. The lack of resellers precludes competitive bidding.",
+   "equipment_class": "communications/radio",
+   "installed_location": "County Jail facilities in Placerville and South Lake Tahoe",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "4Sight Labs Inc",
+   "model": "Overwatch",
+   "part": "NFC Provisioning Device",
+   "part_numbers": [],
+   "quantity": "8",
+   "price_usd": 800.0,
+   "lead_time": null,
+   "sole_source_vendor": "4Sight Labs Inc",
+   "reason": "4Sight Labs Inc. is the sole designer, manufacturer, training provider, and authorized seller of the Overwatch system. The lack of resellers precludes competitive bidding.",
+   "equipment_class": "other equipment",
+   "installed_location": "County Jail facilities in Placerville and South Lake Tahoe",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "4Sight Labs Inc",
+   "model": "Overwatch",
+   "part": "JMS Integration (100+ units) - Jail Management System integration for Overwatch platform",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 7500.0,
+   "lead_time": null,
+   "sole_source_vendor": "4Sight Labs Inc",
+   "reason": "4Sight Labs Inc. is the sole designer, manufacturer, training provider, and authorized seller of the Overwatch system. The lack of resellers precludes competitive bidding.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "County Jail facilities in Placerville and South Lake Tahoe",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "4Sight Labs Inc",
+   "model": "Overwatch",
+   "part": "Ultra Long-Range Wireless Service",
+   "part_numbers": [],
+   "quantity": "100",
+   "price_usd": 18750.0,
+   "lead_time": null,
+   "sole_source_vendor": "4Sight Labs Inc",
+   "reason": "4Sight Labs Inc. is the sole designer, manufacturer, training provider, and authorized seller of the Overwatch system. The lack of resellers precludes competitive bidding.",
+   "equipment_class": "communications/radio",
+   "installed_location": "County Jail facilities in Placerville and South Lake Tahoe",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "4Sight Labs Inc",
+   "model": "Overwatch",
+   "part": "Overwatch Licensing and Cloud Services",
+   "part_numbers": [],
+   "quantity": "100",
+   "price_usd": 187500.0,
+   "lead_time": null,
+   "sole_source_vendor": "4Sight Labs Inc",
+   "reason": "4Sight Labs Inc. is the sole designer, manufacturer, training provider, and authorized seller of the Overwatch system. The lack of resellers precludes competitive bidding.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "County Jail facilities in Placerville and South Lake Tahoe",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 3,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 57260,
+  "out": 4530
+ },
+ "model": "claude-sonnet-5"
+}

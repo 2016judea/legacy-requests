@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vermont Systems",
+   "model": "PayTrac",
+   "part": "EMV compliant credit card single-source payment solution service agreement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 431826.17,
+   "lead_time": null,
+   "sole_source_vendor": "RecTrac, LLC dba Vermont Systems",
+   "reason": "PayTrac, the payment solution from RecTrac, LLC dba Vermont Systems, meets this requirement",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Park & Recreation Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vermont Systems",
+   "model": "RecTrac Point of Sale (POS) software version 3.1 and above",
+   "part": "Purchase of EMV terminals",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "RecTrac, LLC dba Vermont Systems",
+   "reason": "The single-source payment solution will be fully managed from within the City's current Vermont Systems, Inc. RecTrac recreation/facility management software system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Park & Recreation Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3507,
+  "out": 852
+ },
+ "model": "claude-sonnet-5"
+}

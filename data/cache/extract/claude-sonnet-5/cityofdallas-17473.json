@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "CALLYO 2009 CORP",
+   "model": "callyo recording system",
+   "part": "maintenance, support, and licenses for an audio and video recording system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 148584.6,
+   "lead_time": null,
+   "sole_source_vendor": "CALLYO 2009 CORP",
+   "reason": "Utilized for procurements where functional requirements can only be satisfied by one vendor, such as those where patents, copyrights or monopolies exists",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Dallas Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3110,
+  "out": 600
+ },
+ "model": "claude-sonnet-5"
+}

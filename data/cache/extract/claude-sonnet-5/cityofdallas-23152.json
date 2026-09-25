@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "IRIS Intel, Inc. dba IRIS",
+   "model": "Intelligence Request and Information System (IRIS)",
+   "part": "Intelligence management SaaS software platform service agreement for the Dallas Police Department",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 453294.88,
+   "lead_time": null,
+   "sole_source_vendor": "IRIS Intel, Inc. dba IRIS",
+   "reason": "Utilized for procurements where functional requirements can only be satisfied by one vendor, such as those where patents, copyrights or monopolies exists",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Dallas Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3022,
+  "out": 244
+ },
+ "model": "claude-sonnet-5"
+}
