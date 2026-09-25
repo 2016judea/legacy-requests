@@ -11,7 +11,8 @@
    "reason": "Other companies manufacture similar meter kits and filters, but they are not compatible or have the same functionality.",
    "equipment_class": "other equipment",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "SICK",
@@ -24,7 +25,8 @@
    "reason": "Other companies manufacture similar meter kits and filters, but they are not compatible or have the same functionality.",
    "equipment_class": "instrumentation/calibration",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -37,7 +39,8 @@
    "reason": "Other companies manufacture similar meter kits and filters, but they are not compatible or have the same functionality.",
    "equipment_class": "service/maintenance contract",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -50,5 +53,12 @@
   "in": 1933,
   "out": 696
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 2181,
+   "out": 581
+  },
+  "stop_reason": "end_turn"
+ }
 }

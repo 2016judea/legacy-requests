@@ -11,7 +11,8 @@
    "reason": "The above referenced PremierOne Records solution contains proprietary software developed and owned by Motorola. To provide complete PremierOne Essential Support Services for this solution, another vendor would need access to Motorola's proprietary software source code.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Division of Police",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Motorola",
@@ -128,5 +129,12 @@
   "in": 29875,
   "out": 1854
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 30123,
+   "out": 2019
+  },
+  "stop_reason": "end_turn"
+ }
 }

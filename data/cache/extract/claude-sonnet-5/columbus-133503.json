@@ -11,7 +11,8 @@
    "reason": "Intergraph Corporation is the only known company that can provide maintenance services 24 hours a day, seven days a week for this system",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Department of Public Safety, Division of Support Services, Columbus, OH",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 116500,
   "out": 214
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 116748,
+   "out": 232
+  },
+  "stop_reason": "end_turn"
+ }
 }

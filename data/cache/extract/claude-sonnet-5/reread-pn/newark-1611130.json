@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM Automotive Parts and Accessories for light duty vehicles",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 400000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Franks Truck Center Inc",
+   "reason": "State Contracts #T2760 OEM Automotive Parts and Accessories for Light Duty Vehicles, Master Blanket PO #25-FLEET-92268 awarded to Franks Truck Center Inc., 325 Orient Way, Lyndhurst, NJ 07071",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 4520,
+  "out": 537
+ },
+ "model": "claude-sonnet-5"
+}

@@ -11,7 +11,8 @@
    "reason": "RTN's products, due to their customized and proprietary nature, are not available through any other providers.",
    "equipment_class": "other equipment",
    "installed_location": "Jackson Pike Waste Water Treatment Plant",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Real Time Networks Inc.",
@@ -24,7 +25,8 @@
    "reason": "RTN's products, due to their customized and proprietary nature, are not available through any other providers.",
    "equipment_class": "other equipment",
    "installed_location": "Jackson Pike Waste Water Treatment Plant",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Real Time Networks Inc.",
@@ -50,7 +52,8 @@
    "reason": "This exclusivity extends to sales, support, configuration, and software upgrades, making RTN the sole source for these advanced technology solutions.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Jackson Pike Waste Water Treatment Plant",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -63,5 +66,12 @@
   "in": 4996,
   "out": 785
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 5244,
+   "out": 815
+  },
+  "stop_reason": "end_turn"
+ }
 }

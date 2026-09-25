@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Annual preventative maintenance, hardware replacement, technical support and service for the Audio Digital Communications Recording System for Police and Fire",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 110424.64,
+   "lead_time": null,
+   "sole_source_vendor": "Sound Communications, Inc.",
+   "reason": "Sound Communications, Inc. is the original provider of the current system and is the sole provider of maintenance, software, and licenses for the system",
+   "equipment_class": "communications/radio",
+   "installed_location": "Police and Fire Communications System",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 3632,
+  "out": 217
+ },
+ "model": "claude-sonnet-5"
+}

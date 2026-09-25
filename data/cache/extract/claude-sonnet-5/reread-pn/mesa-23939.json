@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tungsten",
+   "model": "TotalAgility",
+   "part": "Enterprise document scanning platform subscription and installation services (replacement for end-of-life system)",
+   "part_numbers": [],
+   "quantity": "3-year term contract",
+   "price_usd": 150000.0,
+   "lead_time": null,
+   "sole_source_vendor": "enChoice",
+   "reason": "The Department of Innovation and Technology and Procurement Services recommend awarding the contract to the sole source vendor, enChoice",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Citywide",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2344,
+  "out": 621
+ },
+ "model": "claude-sonnet-5"
+}

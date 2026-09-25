@@ -11,7 +11,8 @@
    "reason": "The Transportation Department and Procurement Services recommend awarding the contract to the sole source vendor, OMJC Signal",
    "equipment_class": "other equipment",
    "installed_location": "Citywide",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 2005,
   "out": 168
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 2253,
+   "out": 192
+  },
+  "stop_reason": "end_turn"
+ }
 }

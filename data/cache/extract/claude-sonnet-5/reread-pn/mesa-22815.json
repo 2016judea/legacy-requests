@@ -1,0 +1,44 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola",
+   "model": "ASTRO 25",
+   "part": "800 MHz 6-Channel ASTRO Standalone Repeater Site add-on to the TOPAZ ASTRO 25 Network",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 665100,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "(Sole Source)",
+   "equipment_class": "communications/radio",
+   "installed_location": "TOPAZ Regional Wireless Cooperative (Citywide)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Motorola",
+   "model": null,
+   "part": "Six-Year Service and Capital Expenditure Agreement for Motorola System Upgrade II providing annual software upgrades, network core hardware upgrades, and technical support services for the TRWC Public Safety voice two-way radio network",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 13312800,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "(Sole Source)",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "TOPAZ Regional Wireless Cooperative (Citywide)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2663,
+  "out": 432
+ },
+ "model": "claude-sonnet-5"
+}

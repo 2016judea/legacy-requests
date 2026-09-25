@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Arcadis U.S., Inc.",
+   "model": "Orion PMIS",
+   "part": "Orion Project Management Information System Support Services application",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 260190.0,
+   "lead_time": null,
+   "sole_source_vendor": "Arcadis U.S., Inc.",
+   "reason": "Arcadis has been the sole implementer/programmer of the Orion PMIS for the City of Columbus since inception and has been the sole source of all underlying programming that operates the Orion PMIS system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Columbus Department of Public Utilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 6697,
+  "out": 237
+ },
+ "model": "claude-sonnet-5"
+}

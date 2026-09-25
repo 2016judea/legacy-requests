@@ -24,7 +24,8 @@
    "reason": "The product shall replace the end of sale/support of current on-premises Microsoft SharePoint 2019 software with an announced end date of July 14, 2026.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Broward.org / BrowardEmployee.org",
-   "is_obsolete": true
+   "is_obsolete": true,
+   "part_numbers": []
   },
   {
    "manufacturer": "Adobe",
@@ -102,5 +103,12 @@
   "in": 13466,
   "out": 1419
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 13714,
+   "out": 662
+  },
+  "stop_reason": "end_turn"
+ }
 }

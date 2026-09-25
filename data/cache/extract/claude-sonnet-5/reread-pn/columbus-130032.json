@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Intergraph Corporation",
+   "model": "I/CAD",
+   "part": "Premium Maintenance Services and software licenses for the CAD system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 636045.48,
+   "lead_time": null,
+   "sole_source_vendor": "Intergraph Corporation",
+   "reason": "Intergraph Corporation is the only known company that can provide maintenance services 24 hours a day, seven days a week for this system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Safety dispatch center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 85987,
+  "out": 534
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Freightliner",
+   "model": null,
+   "part": "Freightliner OEM Parts and Services used to repair and maintain City commercial trucks",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Fyda Freightliner Columbus, Inc.",
+   "reason": "Fyda Freightliner Columbus, Inc. is the sole source for these parts and services as they are the only local distributor and authorized service provider for this specific manufacturer.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Division of Fleet Management",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 7615,
+  "out": 226
+ },
+ "model": "claude-sonnet-5"
+}

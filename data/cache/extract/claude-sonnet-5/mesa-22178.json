@@ -11,7 +11,8 @@
    "reason": "The Dynamo playground park equipment installed at Eastmark Great Park and Riverview Park is proprietary and was custom designed for these parks.",
    "equipment_class": "other equipment",
    "installed_location": "Eastmark Great Park and Riverview Park",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 2035,
   "out": 202
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 2283,
+   "out": 247
+  },
+  "stop_reason": "end_turn"
+ }
 }

@@ -11,7 +11,8 @@
    "reason": "it has been determined that PG&E is the only available electrical utility provider in the region surrounding FAX's facility",
    "equipment_class": "electrical/switchgear/transformer",
    "installed_location": "FAX Facility, 2223 G Street, Fresno (Municipal Service Center)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 21261,
   "out": 713
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 21509,
+   "out": 253
+  },
+  "stop_reason": "end_turn"
+ }
 }

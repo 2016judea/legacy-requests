@@ -11,7 +11,8 @@
    "reason": "require sole source procurement to maintain, service, or replace equipment currently in operation at District facilities, because the parts and/or service can only be provided by the OEM or their designated representative",
    "equipment_class": "pump",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Agilent",
@@ -24,7 +25,8 @@
    "reason": "Board Approved OEM Sole Source List M.O. 12/14/16, Item 12(B)",
    "equipment_class": "instrumentation/calibration",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Bently Nevada",
@@ -50,7 +52,8 @@
    "reason": "Sole Source Justification 2780 Reason: OEM Equipment/Part/Service",
    "equipment_class": "pump",
    "installed_location": "Lido Pump Station",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Milestone",
@@ -63,7 +66,8 @@
    "reason": "Sourcewell Contract # 081419-CDW, in Accordance with Ordinance OC SAN-61 Section 2.03 (B) Cooperative Purchases",
    "equipment_class": "other equipment",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -76,7 +80,8 @@
    "reason": "GM Article 2, Section 2.2 (b) (1)",
    "equipment_class": "generator",
    "installed_location": "Plant 2",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Cubic ITS",
@@ -89,7 +94,8 @@
    "reason": "Sole Source Justification 2775 Reason: OEM Equipment/Part/Service",
    "equipment_class": "other equipment",
    "installed_location": "2-49 Taft Branch Improvement Project",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -102,7 +108,8 @@
    "reason": "Specification No. E-2022-1367BD",
    "equipment_class": "pipe/fitting",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -115,7 +122,8 @@
    "reason": "NASPO Valuepoint AR3227 # 7-20-70-47-01, in Accordance with Ordinance OC SAN-61 Section 2.03 (B) Cooperative Purchases",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Plant No. 2",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Fairbanks Morse",
@@ -128,7 +136,8 @@
    "reason": "Board Approved OEM Sole Source List M.O. 8/28/19, Item 3(B)(Fairbanks); M.O. 2/24/21 Item 10(B)(Hidrostal)",
    "equipment_class": "pump",
    "installed_location": "MacArthur Pump Station",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Hidrostal",
@@ -141,7 +150,8 @@
    "reason": "Board Approved OEM Sole Source List M.O. 8/28/19, Item 3(B)(Fairbanks); M.O. 2/24/21 Item 10(B)(Hidrostal)",
    "equipment_class": "pump",
    "installed_location": "Edinger Pump Station",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Toshiba",
@@ -154,7 +164,8 @@
    "reason": "Informal Bid 131875-OR",
    "equipment_class": "motor/drive",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Colchester",
@@ -167,7 +178,8 @@
    "reason": "Approved CORF Budget FY22/23 Informal Bid 132115-OR",
    "equipment_class": "other equipment",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -193,7 +205,8 @@
    "reason": "Board Approved OEM Sole Source List M.O. 12/14/16, Item 12(B)",
    "equipment_class": "instrumentation/calibration",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Putzmeister",
@@ -206,7 +219,8 @@
    "reason": "Board Approved OEM Sole Source List M.O. 5/27/20, Item 14(B)",
    "equipment_class": "other equipment",
    "installed_location": "Plant No. 2",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Gooch Thermal Systems",
@@ -219,7 +233,8 @@
    "reason": "Board Approved OEM Sole Source List M.O. 2/24/21, Item 10(B)",
    "equipment_class": "other equipment",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Schwing Bioset",
@@ -232,7 +247,8 @@
    "reason": "Board Approved OEM Sole Source List M.O. 12/14/16, Item 12(B)",
    "equipment_class": "pump",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -245,7 +261,8 @@
    "reason": "GM Article 2, Section 2.2 (b) (1)",
    "equipment_class": "electrical/switchgear/transformer",
    "installed_location": "Plant Nos. 1 and 2",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Tuttnauer",
@@ -258,7 +275,8 @@
    "reason": "Informal Bid 132385-OR",
    "equipment_class": "instrumentation/calibration",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -271,7 +289,8 @@
    "reason": "Informal Bid 132385-OR",
    "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -284,7 +303,8 @@
    "reason": "Board Approved OEM Sole Source List M.O. 8/23/17, Item 9(B)",
    "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
    "installed_location": "Plant No. 2",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -297,7 +317,8 @@
    "reason": "NASPO Contract # CTR058809, in Accordance with Ordinance OC SAN-61 Section 2.03 (B) Cooperative Purchases",
    "equipment_class": "other equipment",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -310,7 +331,8 @@
    "reason": "Specification No. TOB-2023-1438 of Master Service Contract S-2021-1234BD-2",
    "equipment_class": "pump",
    "installed_location": "Plant No.1",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -323,5 +345,12 @@
   "in": 16511,
   "out": 13257
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 16759,
+   "out": 9678
+  },
+  "stop_reason": "end_turn"
+ }
 }

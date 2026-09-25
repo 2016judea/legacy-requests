@@ -11,7 +11,8 @@
    "reason": "iNovah cashiering software is used to process and account for all payments tendered within the Office of the City Treasurer.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "City Treasurer Office",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Trane",
@@ -24,7 +25,8 @@
    "reason": "The City would not receive the warranty, factory certified labor and new factory serial number if another company rebuilt the chiller without Trane's assistance.",
    "equipment_class": "HVAC",
    "installed_location": "City Hall Complex",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Priority Dispatch Corp.",
@@ -37,7 +39,8 @@
    "reason": "ProQA is proprietary software of Priority Dispatch Corp. and has a contract already in place for the Milwaukee Fire Department and for use by the DEC for annual maintenance support of the software.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Department of Emergency Communications",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "FirstWatch Solutions, Inc.",
@@ -50,7 +53,8 @@
    "reason": "Software support and maintenance for the FirstWatch Dashboard System are proprietary and must be provided by FirstWatch Solutions, Inc. d/b/a FirstWatch.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Milwaukee Fire Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "CentralSquare Technologies, LLC",
@@ -89,7 +93,8 @@
    "reason": "The vehicle is a custom build from Pierce Manufacturing, Inc. Reliant Fire Apparatus, Inc. is the only local authorized dealer for original Pierce parts and repair services in the area.",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Milwaukee Fire Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -102,5 +107,12 @@
   "in": 18537,
   "out": 4141
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 18785,
+   "out": 4171
+  },
+  "stop_reason": "end_turn"
+ }
 }

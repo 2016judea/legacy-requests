@@ -1,0 +1,78 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Install one 138 kV load-break air switch with SCADA control on the new tap and build approximately 3.3 miles of new 138 kV line to the POI with the Customer.",
+   "part_numbers": [
+    "OE-T-5895"
+   ],
+   "quantity": "1 switch; approximately 3.3 miles of 138 kV line",
+   "price_usd": 10301735.0,
+   "lead_time": "26 Months",
+   "sole_source_vendor": "The Ohio Edison Company",
+   "reason": "Ohio Edison is the electric utility that serves the FWP site and surrounding area.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Fourth Water Plant, 8415 Dublin Road, Delaware, Ohio 43065",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Build last span to POI with Customer",
+   "part_numbers": [
+    "OE-T-5897"
+   ],
+   "quantity": null,
+   "price_usd": 63641.0,
+   "lead_time": "26 Months",
+   "sole_source_vendor": "The Ohio Edison Company",
+   "reason": "Ohio Edison is the electric utility that serves the FWP site and surrounding area.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Fourth Water Plant, 8415 Dublin Road, Delaware, Ohio 43065",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Integrate Customer protection and controls to the FE transmission system",
+   "part_numbers": [
+    "OE-S\u20146528"
+   ],
+   "quantity": null,
+   "price_usd": 55617.33,
+   "lead_time": "26 Months",
+   "sole_source_vendor": "The Ohio Edison Company",
+   "reason": "Ohio Edison is the electric utility that serves the FWP site and surrounding area.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fourth Water Plant, 8415 Dublin Road, Delaware, Ohio 43065",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "138 kV revenue metering equipment installed at the Customer substation within the local zone of protection",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "The Ohio Edison Company",
+   "reason": "Ohio Edison is the electric utility that serves the FWP site and surrounding area.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Fourth Water Plant, 8415 Dublin Road, Delaware, Ohio 43065",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 20752,
+  "out": 3845
+ },
+ "model": "claude-sonnet-5"
+}

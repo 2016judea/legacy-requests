@@ -24,7 +24,8 @@
    "reason": "Digital Water Solutions Inc. currently is the sole provider of installation, integration, service and support for the hydrant.AI software",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Division of Water",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Digital Water Solutions Inc.",
@@ -37,7 +38,8 @@
    "reason": "Digital Water Solutions Inc. currently is the sole provider of installation, integration, service and support for the hydrant.AI software",
    "equipment_class": "service/maintenance contract",
    "installed_location": "Division of Water",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -50,7 +52,8 @@
    "reason": "due to the proprietary nature of the hydrant.AI software and equipment, it is in the best interest of the City to enter into contract with Digital Water Solutions Inc.",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "Division of Water",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -63,7 +66,8 @@
    "reason": "due to the proprietary nature of the hydrant.AI software and equipment, it is in the best interest of the City to enter into contract with Digital Water Solutions Inc.",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "Division of Water",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Digital Water Solutions Inc.",
@@ -76,7 +80,8 @@
    "reason": "Digital Water Solutions Inc. maintains licensing and programming.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Division of Water",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -89,5 +94,12 @@
   "in": 5930,
   "out": 1769
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 6178,
+   "out": 2179
+  },
+  "stop_reason": "end_turn"
+ }
 }

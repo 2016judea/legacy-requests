@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hansen Banner, LLC",
+   "model": "Hansen CIS-B (formerly \"Banner CIS\")",
+   "part": "Continued professional services associated with the Hansen CIS system (billing/CIS software support)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 150000.0,
+   "lead_time": "one year",
+   "sole_source_vendor": "Hansen Banner, LLC",
+   "reason": "Hansen Banner, LLC is the sole source vendor for the Hansen CIS-B (formerly \"Banner CIS\") Software and the sole provider of services for services performed in relation to the Hansen CIS-B Software.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 4127,
+  "out": 268
+ },
+ "model": "claude-sonnet-5"
+}

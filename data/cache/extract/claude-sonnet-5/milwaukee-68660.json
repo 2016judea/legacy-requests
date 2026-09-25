@@ -11,7 +11,8 @@
    "reason": "Avaya branded equipment and the associated service assistance is proprietary, and it must be purchased and serviced through a licensed secondary partner \u2013 ConvergeOne Inc.",
    "equipment_class": "communications/radio",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -24,7 +25,8 @@
    "reason": "ArgSoft's Argent Basic Support products and services are proprietary and are only available from one source",
    "equipment_class": "SCADA/controls/software",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Detroit / Allison",
@@ -50,5 +52,12 @@
   "in": 19962,
   "out": 3593
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 20210,
+   "out": 2760
+  },
+  "stop_reason": "end_turn"
+ }
 }

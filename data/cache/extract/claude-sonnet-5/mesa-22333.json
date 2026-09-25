@@ -11,7 +11,8 @@
    "reason": "MFMD and Procurement Services recommend awarding the contract to the sole source vendor, Rescue Intellitech at $119,955, based on estimated requirements.",
    "equipment_class": "other equipment",
    "installed_location": "Mesa Fire and Medical Department (MFMD)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 2021,
   "out": 221
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 2269,
+   "out": 230
+  },
+  "stop_reason": "end_turn"
+ }
 }

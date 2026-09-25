@@ -1,0 +1,58 @@
+{
+ "records": [
+  {
+   "manufacturer": "Filter Fab",
+   "model": null,
+   "part": "Filters used for the LG battery factory project",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Meter, Valve & Control, Inc.",
+   "reason": "Other companies manufacture similar meter kits and filters, but they are not compatible or have the same functionality.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SICK",
+   "model": null,
+   "part": "Flow meter kits used for the LG battery factory project",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Meter, Valve & Control, Inc.",
+   "reason": "Other companies manufacture similar meter kits and filters, but they are not compatible or have the same functionality.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Field service for filters and flow meter kits used for the LG battery factory project",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 190000,
+   "lead_time": null,
+   "sole_source_vendor": "Meter, Valve & Control, Inc.",
+   "reason": "The Energy Resources Department and Procurement Services recommend authorizing the purchase from the sole source vendor, Meter, Valve & Control, Inc. at $190,000, based on estimated requirements.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2181,
+  "out": 581
+ },
+ "model": "claude-sonnet-5"
+}

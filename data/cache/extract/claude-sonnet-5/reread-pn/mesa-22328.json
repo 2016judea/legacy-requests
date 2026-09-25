@@ -1,0 +1,44 @@
+{
+ "records": [
+  {
+   "manufacturer": "Indumar",
+   "model": "BoreShield ARO II",
+   "part": "Coating applied to exposed pipe joints to protect the pipe from moisture and corrosion",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "B&W Distributors",
+   "reason": "Stop it BoreShield ARO II and VIS-COTAQ ViscoWrap are needed to complete the Gantzel Road High-Pressure Gas Line Project.",
+   "equipment_class": "other equipment",
+   "installed_location": "Gantzel Road High-Pressure Gas Line Project",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VIS-COTAQ",
+   "model": "ViscoWrap",
+   "part": "Overcoat wrap applied when performing directional boring to protect the BoreShield coating from mechanical damage",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "B&W Distributors",
+   "reason": "Stop it BoreShield ARO II and VIS-COTAQ ViscoWrap are needed to complete the Gantzel Road High-Pressure Gas Line Project.",
+   "equipment_class": "other equipment",
+   "installed_location": "Gantzel Road High-Pressure Gas Line Project",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2277,
+  "out": 740
+ },
+ "model": "claude-sonnet-5"
+}

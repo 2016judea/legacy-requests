@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "US Digital Designs (USDD)",
+   "model": "G2 Fire Station Alert System",
+   "part": "G2 Fire Station Alerting System equipment, software, interfaces, and support services, including G2 Communications Gateway servers and proprietary alerting components",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1000000,
+   "lead_time": null,
+   "sole_source_vendor": "Honeywell International, Inc. dba US Digital Designs by Honeywell",
+   "reason": "requires continued access to the system, equipment, software, interfaces, and support services provided exclusively by US Digital Designs (USDD)",
+   "equipment_class": "communications/radio",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2763,
+  "out": 252
+ },
+ "model": "claude-sonnet-5"
+}

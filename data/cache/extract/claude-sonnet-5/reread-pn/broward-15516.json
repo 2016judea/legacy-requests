@@ -1,0 +1,128 @@
+{
+ "records": [
+  {
+   "manufacturer": "Brooks Instrument",
+   "model": null,
+   "part": "Brooks Instrument Ammonia Gas Feed System (Ammoniator) - equipment, maintenance and repair services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 137796.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cross Technologies, Inc. dba Cross Company",
+   "reason": "Cross Company is the sole exclusive authorized representative/distributor for Brooks Instrument for the territories of Alabama, Florida, Georgia, Maryland, North Carolina, South Carolina, Tennessee, Virginia, and Washington, DC.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Broward County Water Treatment Plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Brooks Instrument",
+   "model": null,
+   "part": "Set point controller for ammonia gas feed system, recently installed at County Water Treatment Plants",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Cross Technologies, Inc. dba Cross Company",
+   "reason": "alternate manufacturer's ammonia gas systems are not compatible with the Brooks Instrument set point controllers recently installed at the County's Water Treatment Plants",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Broward County Water Treatment Plants",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Brooks Instrument",
+   "model": null,
+   "part": "Labor, In-shop Chemical Feed System Repaired by Factory Authorized Technician",
+   "part_numbers": [],
+   "quantity": "120 / hour",
+   "price_usd": 49200.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cross Company",
+   "reason": "The parts are not interchangeable with any other manufacturers equipment and can only be serviced by Factory Authorized Technicians.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Brooks Instrument",
+   "model": null,
+   "part": "Labor, On-site chemical feed system inspection, calibration and repair by factory authorized technician",
+   "part_numbers": [],
+   "quantity": "80 / hour",
+   "price_usd": 62800.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cross Company",
+   "reason": "The parts are not interchangeable with any other manufacturers equipment and can only be serviced by Factory Authorized Technicians.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Brooks Instrument",
+   "model": null,
+   "part": "Mass Flow Controller",
+   "part_numbers": [],
+   "quantity": "2 / each",
+   "price_usd": 12462.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cross Company",
+   "reason": "Brooks Instrument equipment is manufactured, fabricated, installed, and maintained under extended warranty and sold solely by Brooks Instrument.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Brooks Instrument",
+   "model": null,
+   "part": "Mass Flow Secondary Electronic Controller",
+   "part_numbers": [],
+   "quantity": "1 / each",
+   "price_usd": 3644.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cross Company",
+   "reason": "Brooks Instrument equipment is manufactured, fabricated, installed, and maintained under extended warranty and sold solely by Brooks Instrument.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Brooks Instrument",
+   "model": null,
+   "part": "Glass Flowmeter",
+   "part_numbers": [],
+   "quantity": "2 / each",
+   "price_usd": 4190.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cross Company",
+   "reason": "Brooks Instrument equipment is manufactured, fabricated, installed, and maintained under extended warranty and sold solely by Brooks Instrument.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Brooks Instrument",
+   "model": null,
+   "part": "Equipment Calibration",
+   "part_numbers": [],
+   "quantity": "2/each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Cross Company",
+   "reason": "No Bids",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 21454,
+  "out": 3664
+ },
+ "model": "claude-sonnet-5"
+}

@@ -11,7 +11,10 @@
    "reason": "ATEC Water Systems, LLC. (ATEC) is the sole supplier of the ATEC Water Filtration System, the City's preferred product in this region",
    "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
    "installed_location": "Pump Station 347, 2220 N. Armstrong Avenue",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "Model 1+06-60-48"
+   ]
   },
   {
    "manufacturer": "ATEC",
@@ -50,7 +53,10 @@
    "reason": "Main operating valves shall be Bermad IR-4x4-350-P. Substitutions will not be allowed.",
    "equipment_class": "valve",
    "installed_location": "Pump Station 347",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "IR-4x4-350-P"
+   ]
   },
   {
    "manufacturer": "Alex-Tronic",
@@ -76,7 +82,8 @@
    "reason": "All filter vessel immersion service surfaces and manifold immersion surfaces shall be coated with 3M Corporation ScotchKote 134, a fusion bonded epoxy coating, certified to ANSI/NSF Standard 61 for contact with potable water",
    "equipment_class": "other equipment",
    "installed_location": "Pump Station 347",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -89,7 +96,8 @@
    "reason": "The media shall be Pyrolox Advantage.",
    "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
    "installed_location": "Pump Station 347",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Parker",
@@ -115,7 +123,10 @@
    "reason": "Peter-Paul Model 73 3-Way Solenoid Valves are used to control the water or air that actuates the 3-Way Backwash Control Valves.",
    "equipment_class": "valve",
    "installed_location": "Pump Station 347",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "Model 73"
+   ]
   }
  ],
  "info": {
@@ -128,5 +139,12 @@
   "in": 73586,
   "out": 1859
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 73834,
+   "out": 1333
+  },
+  "stop_reason": "end_turn"
+ }
 }

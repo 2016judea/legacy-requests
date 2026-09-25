@@ -1,0 +1,58 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hansen Banner, LLC",
+   "model": "Hansen CIS-B (formerly \"Banner CIS\")",
+   "part": "Annual software maintenance and support for the Columbus Utility Billing System (CUBS) - Banner CIS Maintenance",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 607990.75,
+   "lead_time": null,
+   "sole_source_vendor": "Hansen Banner, LLC",
+   "reason": "Hansen Banner, LLC is the sole source vendor for the Hansen CIS-B (formerly \"Banner CIS\") Software and the sole provider of services for services performed in relation to the Hansen CIS-B Software.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City of Columbus",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Microfocus",
+   "part": "Annual Maintenance for software associated with CUBS",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 17353.18,
+   "lead_time": null,
+   "sole_source_vendor": "Hansen Banner, LLC",
+   "reason": "Hansen Banner, LLC is the sole distributor of the software products associated with the CUBS system, and does not utilize distributors or resellers to provide maintenance and support or professional services for its software products.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City of Columbus",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "TCP+ & MV90 Interface",
+   "part": "Annual Maintenance for TCP+ & MV90 Interface",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 147153.03,
+   "lead_time": null,
+   "sole_source_vendor": "Hansen Banner, LLC",
+   "reason": "Hansen Banner, LLC is the sole distributor of the software products associated with the CUBS system, and does not utilize distributors or resellers to provide maintenance and support or professional services for its software products.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "City of Columbus",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 10590,
+  "out": 704
+ },
+ "model": "claude-sonnet-5"
+}

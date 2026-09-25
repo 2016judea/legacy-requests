@@ -11,7 +11,8 @@
    "reason": "The City has seven parks that have playground equipment manufactured by Dynamo Industries.",
    "equipment_class": "other equipment",
    "installed_location": "Citywide (seven parks)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 1935,
   "out": 178
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 2183,
+   "out": 177
+  },
+  "stop_reason": "end_turn"
+ }
 }

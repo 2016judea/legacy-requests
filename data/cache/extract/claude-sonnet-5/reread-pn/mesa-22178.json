@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Dynamo Industries",
+   "model": null,
+   "part": "Playground equipment repair, maintenance, and add-on equipment (proprietary, custom designed for Eastmark Great Park and Riverview Park)",
+   "part_numbers": [],
+   "quantity": "seven parks",
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": "Dynamo Industries",
+   "reason": "The Dynamo playground park equipment installed at Eastmark Great Park and Riverview Park is proprietary and was custom designed for these parks.",
+   "equipment_class": "other equipment",
+   "installed_location": "Citywide (seven parks including Eastmark Great Park and Riverview Park)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2283,
+  "out": 247
+ },
+ "model": "claude-sonnet-5"
+}

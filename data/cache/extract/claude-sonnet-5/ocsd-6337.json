@@ -11,7 +11,8 @@
    "reason": "Informal Bid 45243-OQ",
    "equipment_class": "HVAC",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Agilent Technologies Inc",
@@ -37,7 +38,8 @@
    "reason": "County of Orange Contract # MA-080-25010052, in Accordance with Ordinance No. OC SAN-61 Section 2.03 (B) Cooperative Purchases",
    "equipment_class": "HVAC",
    "installed_location": "Plant No.1, Plant No. 2, and Headquarters",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "SKF",
@@ -50,7 +52,8 @@
    "reason": "Informal Bid 45455-OQ",
    "equipment_class": "other equipment",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -89,7 +92,10 @@
    "reason": "State Contracts 1-23-26-01A Daniel's Tire Service and 1-23-26-01C The Goodyear Company",
    "equipment_class": "vehicle/fleet",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "22MBWR260"
+   ]
   },
   {
    "manufacturer": "Xylem",
@@ -154,7 +160,8 @@
    "reason": "OEM Equipment/Part/Service for water and wastewater treatment processes",
    "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Hach",
@@ -167,7 +174,8 @@
    "reason": "Board Approved OEM Sole Source List",
    "equipment_class": "instrumentation/calibration",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Gooch Thermal Systems",
@@ -206,7 +214,11 @@
    "reason": "OEM Equipment/Part/Service",
    "equipment_class": "pump",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "ECO-21-R",
+    "LGB-35-R"
+   ]
   },
   {
    "manufacturer": null,
@@ -232,7 +244,8 @@
    "reason": "Specification No. TOB-2025-670 of Master Service Contract S-2024-1447BD-10",
    "equipment_class": "electrical/switchgear/transformer",
    "installed_location": "Plant No. 2",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -297,7 +310,8 @@
    "reason": "because the parts and/or service can only be provided by the OEM or their designated representative.",
    "equipment_class": "pump",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -310,5 +324,12 @@
   "in": 18724,
   "out": 14165
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 18972,
+   "out": 12373
+  },
+  "stop_reason": "end_turn"
+ }
 }

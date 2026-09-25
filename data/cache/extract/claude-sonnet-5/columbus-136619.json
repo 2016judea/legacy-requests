@@ -11,7 +11,8 @@
    "reason": "is the sole authorized Vac\u2010Con dealer for sales, parts, and service in the states of Indiana, Kentucky, Michigan, and Ohio.",
    "equipment_class": "vehicle/fleet",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Envirosight, LLC",
@@ -37,5 +38,12 @@
   "in": 4395,
   "out": 539
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 4643,
+   "out": 533
+  },
+  "stop_reason": "end_turn"
+ }
 }

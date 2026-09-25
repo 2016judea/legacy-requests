@@ -11,7 +11,8 @@
    "reason": "The CourtView software is proprietary property of CourtView Justice Solutions Inc. d/b/a equivant and protected by law.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Franklin County Municipal Court",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "CourtView Justice Solutions Inc. d/b/a equivant",
@@ -24,7 +25,8 @@
    "reason": "The CourtView software is proprietary property of CourtView Justice Solutions Inc. d/b/a equivant and protected by law.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Franklin County Municipal Court",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "CourtView Justice Solutions Inc. d/b/a equivant",
@@ -37,7 +39,8 @@
    "reason": "The CourtView software is proprietary property of CourtView Justice Solutions Inc. d/b/a equivant and protected by law.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Franklin County Municipal Court",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "CourtView Justice Solutions Inc. d/b/a equivant",
@@ -50,7 +53,8 @@
    "reason": "The CourtView software is proprietary property of CourtView Justice Solutions Inc. d/b/a equivant and protected by law.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Franklin County Municipal Court",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "CourtView Justice Solutions Inc. d/b/a equivant",
@@ -63,7 +67,8 @@
    "reason": "The CourtView software is proprietary property of CourtView Justice Solutions Inc. d/b/a equivant and protected by law.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Franklin County Municipal Court",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "CourtView Justice Solutions Inc. d/b/a equivant",
@@ -76,7 +81,8 @@
    "reason": "The CourtView software is proprietary property of CourtView Justice Solutions Inc. d/b/a equivant and protected by law.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Franklin County Municipal Court",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "CourtView Justice Solutions Inc. d/b/a equivant",
@@ -89,7 +95,8 @@
    "reason": "The CourtView software is proprietary property of CourtView Justice Solutions Inc. d/b/a equivant and protected by law.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Franklin County Municipal Court",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "CourtView Justice Solutions Inc. d/b/a equivant",
@@ -102,7 +109,8 @@
    "reason": "The CourtView software is proprietary property of CourtView Justice Solutions Inc. d/b/a equivant and protected by law.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Franklin County Municipal Court",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "CourtView Justice Solutions Inc. d/b/a equivant",
@@ -115,7 +123,8 @@
    "reason": "The CourtView software is proprietary property of CourtView Justice Solutions Inc. d/b/a equivant and protected by law.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Franklin County Municipal Court",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "CourtView Justice Solutions Inc. d/b/a equivant",
@@ -128,7 +137,8 @@
    "reason": "The CourtView software is proprietary property of CourtView Justice Solutions Inc. d/b/a equivant and protected by law.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Franklin County Municipal Court",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "CourtView Justice Solutions Inc. d/b/a equivant",
@@ -141,7 +151,8 @@
    "reason": "The CourtView software is proprietary property of CourtView Justice Solutions Inc. d/b/a equivant and protected by law.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Franklin County Municipal Court",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "CourtView Justice Solutions Inc. d/b/a equivant",
@@ -154,7 +165,8 @@
    "reason": "The CourtView software is proprietary property of CourtView Justice Solutions Inc. d/b/a equivant and protected by law.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Franklin County Municipal Court",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "CourtView Justice Solutions Inc. d/b/a equivant",
@@ -167,7 +179,8 @@
    "reason": "The CourtView software is proprietary property of CourtView Justice Solutions Inc. d/b/a equivant and protected by law.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Franklin County Municipal Court",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "CourtView Justice Solutions Inc. d/b/a equivant",
@@ -180,7 +193,8 @@
    "reason": "The CourtView software is proprietary property of CourtView Justice Solutions Inc. d/b/a equivant and protected by law.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Franklin County Municipal Court",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -193,5 +207,12 @@
   "in": 7191,
   "out": 4583
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 7439,
+   "out": 4165
+  },
+  "stop_reason": "end_turn"
+ }
 }

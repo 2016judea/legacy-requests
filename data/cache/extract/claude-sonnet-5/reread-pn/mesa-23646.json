@@ -1,0 +1,44 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Variable Frequency Drives (VFDs) serving the washwater recovery basin pumps",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Border States",
+   "reason": "The existing drives have exceeded their useful life and have become increasingly unreliable due to age and component obsolescence, making ongoing maintenance difficult.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Brown Road Water Treatment Plant",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Six VFDs operating the flocculator drives for basins 1-6",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Border States",
+   "reason": "The existing drives have exceeded their useful life and have become increasingly unreliable due to age and component obsolescence, making ongoing maintenance difficult.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Brown Road Water Treatment Plant",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2369,
+  "out": 640
+ },
+ "model": "claude-sonnet-5"
+}

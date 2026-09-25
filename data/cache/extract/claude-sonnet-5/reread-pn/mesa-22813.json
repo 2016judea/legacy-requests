@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "McNeilus Truck and Manufacturing Company",
+   "model": null,
+   "part": "OEM refuse body parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": "Haaker Equipment Company",
+   "reason": "Certain critical parts must be sourced directly from the OEM and having a contract in place ensures continuity of service. Under this contract, Haaker Equipment Company is the only authorized local vendor for supplying these OEM parts",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2461,
+  "out": 217
+ },
+ "model": "claude-sonnet-5"
+}

@@ -11,7 +11,8 @@
    "reason": "As a consequence, this is a sole source provider under section 329.19 (e) of the City Code.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Franklin County Municipal Court",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 12677,
   "out": 210
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 12925,
+   "out": 485
+  },
+  "stop_reason": "end_turn"
+ }
 }

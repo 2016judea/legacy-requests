@@ -11,7 +11,8 @@
    "reason": "it has been determined that NextGen is the sole provider of direct hosted NextGen systems and is the sole owner of NextGen software",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Columbus Public Health Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 13497,
   "out": 198
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 13745,
+   "out": 226
+  },
+  "stop_reason": "end_turn"
+ }
 }

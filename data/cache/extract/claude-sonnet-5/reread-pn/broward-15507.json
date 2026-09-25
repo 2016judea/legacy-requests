@@ -1,0 +1,443 @@
+{
+ "records": [
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": "FC-Series Thermal Camera",
+   "part": "CAMERA THERMAL FLIR-FC for Detection System",
+   "part_numbers": [
+    "2050-FCXXX-BNB"
+   ],
+   "quantity": "100 each",
+   "price_usd": 302300.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": "FC-Series IP Thermal Camera",
+   "part": "CAMERA THERMAL FLIR-IP FC-3xx-IP SENSOR",
+   "part_numbers": [
+    "FC-3xx-IP"
+   ],
+   "quantity": "2 each",
+   "price_usd": 7208.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": "VIP3D.1s",
+   "part": "BOARD FLIR VIP3D.1s Video Detection Processor Optical/Thermal",
+   "part_numbers": [
+    "7250-117"
+   ],
+   "quantity": "20 each",
+   "price_usd": 40000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": "VIP3D.2s",
+   "part": "BOARD FLIR VIP3D.2s Video Detection Processor Optical/Thermal",
+   "part_numbers": [
+    "7250-113"
+   ],
+   "quantity": "75 each",
+   "price_usd": 262500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Control Technologies, Inc.",
+   "model": "PIM Card SDLC Interface",
+   "part": "MODULE PIM CARD SDLC INTERFACE",
+   "part_numbers": [
+    "6010-PIM-PORT-1"
+   ],
+   "quantity": "75 each",
+   "price_usd": 34125.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "Control Technologies is the sole manufacturer for related equipment such as :",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": "ViewCom/E Max+",
+   "part": "ENCODER FLIR ViewCom/E Max+ Mpeg4H.264 Encoder",
+   "part_numbers": [
+    "7250-210"
+   ],
+   "quantity": "100 each",
+   "price_usd": 340000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": null,
+   "part": "CABLE VIDEO 2500 ft",
+   "part_numbers": [
+    "WIRE-VC-RG18/6"
+   ],
+   "quantity": "5 each",
+   "price_usd": 13165.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Control Technologies, Inc.",
+   "model": "Video Interface Panel",
+   "part": "PANEL Video Interface 4 camera input",
+   "part_numbers": [
+    "2285-104C",
+    "2285-124C"
+   ],
+   "quantity": "25 each",
+   "price_usd": 6350.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "Control Technologies is the sole manufacturer for related equipment such as :",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": null,
+   "part": "CABLE Military-type interface for RDP CAMERA",
+   "part_numbers": [
+    "2300-240-6"
+   ],
+   "quantity": "175 each",
+   "price_usd": 42175.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": null,
+   "part": "CONNECTOR BNC COAXIAL MALE",
+   "part_numbers": [
+    "CP882"
+   ],
+   "quantity": "500 each",
+   "price_usd": 2000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": null,
+   "part": "CONNECTOR BNC COAXIAL FEMALE",
+   "part_numbers": [
+    "CP892"
+   ],
+   "quantity": "500 each",
+   "price_usd": 2000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": null,
+   "part": "CABLE, VIDEO, BNC, Y TERMINATION",
+   "part_numbers": [
+    "OEM-357154-2"
+   ],
+   "quantity": "200 each",
+   "price_usd": 2200.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": null,
+   "part": "Expansion Board 4 I/O USB",
+   "part_numbers": [],
+   "quantity": "2 each",
+   "price_usd": 700.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": null,
+   "part": "Cable 18 AWG bare copper three conductor PVC/Nylon 600V Tray cable (ADC)",
+   "part_numbers": [],
+   "quantity": "5 each",
+   "price_usd": 2765.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": null,
+   "part": "Mast Arm Camera Mount Assembly (Astro Bracket, 72-inch 1-1/2-inch Pipe, St)",
+   "part_numbers": [],
+   "quantity": "10 each",
+   "price_usd": 2510.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": "TI BPL2 EDGE",
+   "part": "TI BPL2 EDGE interface Rack",
+   "part_numbers": [],
+   "quantity": "5 each",
+   "price_usd": 1205.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Control Technologies, Inc.",
+   "model": "NEMA TS2-1 Cabinet Termination Panel",
+   "part": "NEMA TS2-1 Cabinet Termination Panel (48VDC Power Supply for BPL, Circuit)",
+   "part_numbers": [],
+   "quantity": "10 each",
+   "price_usd": 4230.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "Control Technologies is the sole manufacturer for related equipment such as :",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Control Technologies, Inc.",
+   "model": "Card Rack Assembly",
+   "part": "Card Rack Assembly 2-POS PS, ViewCom & PIM",
+   "part_numbers": [
+    "2035-109"
+   ],
+   "quantity": "10 each",
+   "price_usd": 4880.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "Control Technologies is the sole manufacturer for related equipment such as :",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": null,
+   "part": "Connector Ribbon Male Cable 8 inches 9-PIN (PIM to ViewCom Max)",
+   "part_numbers": [
+    "2330-517"
+   ],
+   "quantity": "50 each",
+   "price_usd": 800.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Control Technologies, Inc.",
+   "model": "Card Rack Video 8 Position",
+   "part": "Card Rack Video 8 Position Hard Wired",
+   "part_numbers": [
+    "2035-302SP"
+   ],
+   "quantity": "5 each",
+   "price_usd": 2440.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "Control Technologies is the sole manufacturer for related equipment such as :",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": null,
+   "part": "Power Supply Video EDI",
+   "part_numbers": [
+    "PS175B"
+   ],
+   "quantity": "80 each",
+   "price_usd": 31200.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sony",
+   "model": "TC650",
+   "part": "Camera Replacement Traffic SONY TC650",
+   "part_numbers": [
+    "TC650"
+   ],
+   "quantity": "250 each",
+   "price_usd": 65000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": "TrafiSense AI FLIR-4",
+   "part": "CAMERA SYSTEM TrafiSense AI FLIR-4 - Complete Assembly",
+   "part_numbers": [],
+   "quantity": "5 each",
+   "price_usd": 113285.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": "Trafisense AI 632/645/690",
+   "part": "Trafisense AI 632/645/690",
+   "part_numbers": [],
+   "quantity": "30 each",
+   "price_usd": 134940.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": "TI BPL3 EDGE B",
+   "part": "TI BPL3 EDGE B Interface",
+   "part_numbers": [],
+   "quantity": "15 each",
+   "price_usd": 21690.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": null,
+   "part": "VIP Programming Device, Keypad",
+   "part_numbers": [],
+   "quantity": "15 each",
+   "price_usd": 3420.0,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "This system is a proprietary design in which alternate manufacturer's intersection control products are not compatible with the systems already implemented throughout the County.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": null,
+   "part": "Repair on FLIR Camera",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "All repairs and services related to Flir intersection control products are exclusively managed by Control Technologies.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Teledyne FLIR",
+   "model": null,
+   "part": "Repair, Video Processor Board",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Control Technologies, Inc.",
+   "reason": "All repairs and services related to Flir intersection control products are exclusively managed by Control Technologies.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 37864,
+  "out": 12861
+ },
+ "model": "claude-sonnet-5"
+}

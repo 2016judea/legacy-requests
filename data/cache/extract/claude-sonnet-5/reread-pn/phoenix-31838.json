@@ -1,0 +1,58 @@
+{
+ "records": [
+  {
+   "manufacturer": "ADB Safegate",
+   "model": null,
+   "part": "Airfield lighting products and replacement parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ADB Safegate, LLC",
+   "reason": "Group 1 - ADB Safegate, LLC products",
+   "equipment_class": "other equipment",
+   "installed_location": "Phoenix Sky Harbor International Airport, Deer Valley Airport, Goodyear Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Eaton Crouse-Hinds",
+   "model": null,
+   "part": "Airfield lighting products and replacement parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "No offers were received for Group 2, however, staff identified a Citywide contract as the purchasing solution for Group 2.",
+   "equipment_class": "other equipment",
+   "installed_location": "Phoenix Sky Harbor International Airport, Deer Valley Airport, Goodyear Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Monroe Integro",
+   "model": null,
+   "part": "Airfield lighting products and replacement parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Monroe Integro, LLC",
+   "reason": "Group 3 - Monroe Integro, LLC products",
+   "equipment_class": "other equipment",
+   "installed_location": "Phoenix Sky Harbor International Airport, Deer Valley Airport, Goodyear Airport",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2798,
+  "out": 720
+ },
+ "model": "claude-sonnet-5"
+}

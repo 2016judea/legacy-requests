@@ -1,0 +1,58 @@
+{
+ "records": [
+  {
+   "manufacturer": "Jenbacher",
+   "model": "JMS 420 B825",
+   "part": "Ten-year Long Term Service Agreement (LTSA) for maintenance, repair, parts and remote monitoring of biogas cogeneration engines",
+   "part_numbers": [],
+   "quantity": "2 engines",
+   "price_usd": 522400.0,
+   "lead_time": null,
+   "sole_source_vendor": "Northeast-Western Energy Systems USA LLC",
+   "reason": "Northeast-Western Energy Systems USA LLC is currently is the sole provider of Jenbacher parts, factory authorized maintenance and service in the northeastern United States",
+   "equipment_class": "generator",
+   "installed_location": "Jackson Pike Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Jenbacher",
+   "model": null,
+   "part": "Major Overhaul service at 60,000 operating hours",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 458000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Northeast-Western Energy Systems USA LLC",
+   "reason": "NES-WES has been INNIO Jenbacher\\u2019s sole authorized sales and services distributor since 2004 for the northeastern U.S. including Ohio.",
+   "equipment_class": "generator",
+   "installed_location": "Jackson Pike Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Jenbacher",
+   "model": null,
+   "part": "Sole source Jenbacher spare parts supply",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northeast-Western Energy Systems USA LLC",
+   "reason": "Northeast Western Energy Systems USA is the Sole Source for authentic Jenbacher spare parts.",
+   "equipment_class": "generator",
+   "installed_location": "Jackson Pike Wastewater Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 8196,
+  "out": 665
+ },
+ "model": "claude-sonnet-5"
+}

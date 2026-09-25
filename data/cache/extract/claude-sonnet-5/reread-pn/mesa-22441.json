@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Filtration media and filter basin underdrain system replacement and installation",
+   "part_numbers": [],
+   "quantity": "One",
+   "price_usd": 600000,
+   "lead_time": null,
+   "sole_source_vendor": "SH Engineering & MFG, LLC",
+   "reason": "The Water Resources Department and Procurement Services recommend awarding the contract to the sole source vendor, SH Engineering & MFG, LLC at $600,000, based on estimated requirements.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Southeast Water Reclamation Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2419,
+  "out": 237
+ },
+ "model": "claude-sonnet-5"
+}

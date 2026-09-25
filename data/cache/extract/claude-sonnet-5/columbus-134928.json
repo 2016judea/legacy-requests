@@ -11,7 +11,8 @@
    "reason": "Intrado Life & Safety, Inc (formally Intrado Life & Safety Solutions Corporation) is the only vendor who can maintain this system",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Columbus wireless PSAP, Columbus backup PSAP",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 6609,
   "out": 220
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 6857,
+   "out": 261
+  },
+  "stop_reason": "end_turn"
+ }
 }

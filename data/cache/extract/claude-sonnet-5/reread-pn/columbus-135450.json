@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Orion Communications, Inc.",
+   "model": "AgencyWeb IWM Workforce Management Solution",
+   "part": "Software and maintenance support for the Workforce Management System (LIONS Time and Attendance System) and associated Mobile Application",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 67682.0,
+   "lead_time": "1 year (March 24, 2026 to March 23, 2027)",
+   "sole_source_vendor": "Orion Communications, Inc.",
+   "reason": "Orion Communications, Inc. is the sole source provider for the application software marketed as AgencyWeb IWM Workforce Management Solution and associated Mobile Application and all associated modules including Maintenance and Support.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Police, City of Columbus",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 7248,
+  "out": 294
+ },
+ "model": "claude-sonnet-5"
+}

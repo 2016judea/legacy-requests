@@ -11,7 +11,8 @@
    "reason": "Ecoverse, LLC is the sole source for these parts as they are the only local distributor for this specific manufacturer.",
    "equipment_class": "other equipment",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 3586,
   "out": 180
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 3834,
+   "out": 189
+  },
+  "stop_reason": "end_turn"
+ }
 }

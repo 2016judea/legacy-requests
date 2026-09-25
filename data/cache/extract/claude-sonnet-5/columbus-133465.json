@@ -11,7 +11,8 @@
    "reason": "A. & H. Equipment Company is the sole source for these parts as they are the only local distributor for this specific manufacturer.",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Division of Fleet Management",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 3934,
   "out": 195
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 4182,
+   "out": 204
+  },
+  "stop_reason": "end_turn"
+ }
 }

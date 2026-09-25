@@ -1,0 +1,86 @@
+{
+ "records": [
+  {
+   "manufacturer": "Schwarze",
+   "model": null,
+   "part": "OEM parts and services for Schwarze street sweeper",
+   "part_numbers": [],
+   "quantity": "one Schwarze street sweeper",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Municipal Maintenance Equipment, Inc. (MME)",
+   "reason": "A single vendor-MME-is the authorized parts and service provider for all these manufacturers",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VacCon",
+   "model": null,
+   "part": "OEM parts and services for VacCon sewer cleaning units",
+   "part_numbers": [],
+   "quantity": "twelve VacCon sewer cleaning units",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Municipal Maintenance Equipment, Inc. (MME)",
+   "reason": "A single vendor-MME-is the authorized parts and service provider for all these manufacturers",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VacCon",
+   "model": null,
+   "part": "Rental VacCon sewer cleaning equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Municipal Maintenance Equipment, Inc. (MME)",
+   "reason": "MME is the only local authorized vendor that provides rental VacCon equipment.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tiger",
+   "model": null,
+   "part": "OEM parts and services for Tiger mower",
+   "part_numbers": [],
+   "quantity": "one Tiger mower",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Municipal Maintenance Equipment, Inc. (MME)",
+   "reason": "A single vendor-MME-is the authorized parts and service provider for all these manufacturers",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Pipehunter",
+   "model": null,
+   "part": "OEM parts and services for Pipehunter sewer jetters",
+   "part_numbers": [],
+   "quantity": "six Pipehunter sewer jetters",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Municipal Maintenance Equipment, Inc. (MME)",
+   "reason": "A single vendor-MME-is the authorized parts and service provider for all these manufacturers",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 5199,
+  "out": 1077
+ },
+ "model": "claude-sonnet-5"
+}

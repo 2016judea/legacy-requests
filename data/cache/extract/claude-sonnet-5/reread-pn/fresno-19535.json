@@ -1,0 +1,158 @@
+{
+ "records": [
+  {
+   "manufacturer": "VirTra",
+   "model": "VirTra force option training simulator",
+   "part": "Force option training simulator equipment used to facilitate first responder De-Escalation and Crisis Response Training",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "VirTra, Inc.",
+   "reason": "Virtra, Inc. is the sole developer of the Virtra force option training simulator.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fresno Police Department Regional Training Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VirTra",
+   "model": null,
+   "part": "Extended warranty-based service and maintenance agreement subscription plan for the VirTra training simulator",
+   "part_numbers": [],
+   "quantity": "3 years",
+   "price_usd": 66634.8,
+   "lead_time": null,
+   "sole_source_vendor": "VirTra, Inc.",
+   "reason": "The equipment as well as the computer software can only be purchased and serviced through Virtra, Inc.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno Police Department Regional Training Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VirTra",
+   "model": "V-180",
+   "part": "Service Plan - V-180 Annual: telephone support, remote assistance, screens, cameras, truss system, cabling, computers, projectors, accessories, minor build software upgrades, security patches, annual service and maintenance visit",
+   "part_numbers": [
+    "8000816",
+    "SP-V180-A"
+   ],
+   "quantity": "1.00",
+   "price_usd": 17752.8,
+   "lead_time": null,
+   "sole_source_vendor": "VirTra, Inc.",
+   "reason": "There are no authorized sales or service dealers, and all requests must go directly through Virtra.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno Police Department Regional Training Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VirTra",
+   "model": "V-180",
+   "part": "Service Plan - V-180 Annual (second contract year): telephone support, remote assistance, screens, cameras, truss system, cabling, computers, projectors, accessories, minor build software upgrades, security patches, annual service and maintenance visit",
+   "part_numbers": [
+    "8000816",
+    "SP-V180-A"
+   ],
+   "quantity": "1.00",
+   "price_usd": 17752.8,
+   "lead_time": null,
+   "sole_source_vendor": "VirTra, Inc.",
+   "reason": "There are no authorized sales or service dealers, and all requests must go directly through Virtra.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno Police Department Regional Training Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VirTra",
+   "model": "V-180-V-300",
+   "part": "Service Plan V-180-V-300 Platinum Year 4: telephone support, remote assistance, screens, cameras, truss system, cabling, computers, projectors, accessories, minor build software upgrades, security patches, annual service and maintenance visit",
+   "part_numbers": [
+    "8000830",
+    "SP-Y4-PLAT"
+   ],
+   "quantity": "1.00",
+   "price_usd": 26629.2,
+   "lead_time": null,
+   "sole_source_vendor": "VirTra, Inc.",
+   "reason": "There are no authorized sales or service dealers, and all requests must go directly through Virtra.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno Police Department Regional Training Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VirTra",
+   "model": "V-ATCC-5",
+   "part": "VirTra Advanced Trainer Certification Course (ATCC): 40-hour course on incorporating video simulation into training program",
+   "part_numbers": [
+    "7000001",
+    "V-ATCC-5"
+   ],
+   "quantity": "2.00",
+   "price_usd": 3000.0,
+   "lead_time": null,
+   "sole_source_vendor": "VirTra, Inc.",
+   "reason": "The equipment as well as the computer software can only be purchased and serviced through Virtra, Inc.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno Police Department Regional Training Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Performa",
+   "model": "Performa Platform",
+   "part": "Training application for mobile platforms which facilitates first responder Crisis Response Training",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Performa, Inc.",
+   "reason": "Performa, Inc. is the sole developer of the Performa Platform.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Performa Labs, Inc.",
+   "model": "Performa Platform",
+   "part": "Mental Health Decision Making Course - Year 1 Seat licenses (POST ID 1487-20908)",
+   "part_numbers": [
+    "CA_MH_25/26"
+   ],
+   "quantity": "215",
+   "price_usd": 38700.0,
+   "lead_time": null,
+   "sole_source_vendor": "Performa Labs, Inc.",
+   "reason": "The Performa Platform is proprietary and is not offered through any other vendors.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Performa Labs, Inc.",
+   "model": "Performa Platform",
+   "part": "Mental Health Decision Making Course - Year 2 Seat licenses (POST ID 1487-20908), up to 635 seats",
+   "part_numbers": [
+    "CA_MH_25/26"
+   ],
+   "quantity": "635",
+   "price_usd": 114300.0,
+   "lead_time": null,
+   "sole_source_vendor": "Performa Labs, Inc.",
+   "reason": "The Performa Platform is proprietary and is not offered through any other vendors.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 3,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 71279,
+  "out": 5828
+ },
+ "model": "claude-sonnet-5"
+}

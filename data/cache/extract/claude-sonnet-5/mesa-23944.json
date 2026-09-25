@@ -11,7 +11,8 @@
    "reason": "(Sole Source)",
    "equipment_class": "service/maintenance contract",
    "installed_location": "TOPAZ Regional Wireless Cooperative (TRWC) Public Safety voice two-way radio network",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Motorola",
@@ -24,7 +25,8 @@
    "reason": "(Sole Source)",
    "equipment_class": "communications/radio",
    "installed_location": "TRWC Fire Hazard Zone (VHF) core",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Motorola",
@@ -50,5 +52,12 @@
   "in": 2733,
   "out": 1436
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 2981,
+   "out": 945
+  },
+  "stop_reason": "end_turn"
+ }
 }

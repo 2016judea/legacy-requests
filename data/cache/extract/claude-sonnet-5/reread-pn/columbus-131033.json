@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Heil",
+   "model": null,
+   "part": "Heil OEM Parts and Services used to repair and maintain City refuse vehicles",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Equipment Sales and Services Holdings, LLC",
+   "reason": "Environmental Equipment Sales and Services Holdings, LLC. is the sole source for these parts and services as they are the only local distributor and authorized service provider for this specific manufacturer.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 4955,
+  "out": 224
+ },
+ "model": "claude-sonnet-5"
+}

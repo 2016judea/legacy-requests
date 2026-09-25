@@ -11,7 +11,8 @@
    "reason": "Hansen Banner, LLC is the sole source vendor for the Hansen CIS-B (formerly \"Banner CIS\") Software and the sole provider of services for services performed in relation to the Hansen CIS-B Software.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Department of Columbus Water and Power (CWP)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Microfocus",
@@ -37,7 +38,8 @@
    "reason": "Hansen Banner, LLC is the sole source vendor for the Hansen CIS-B (formerly \"Banner CIS\") Software and the sole provider of services for services performed in relation to the Hansen CIS-B Software.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Department of Columbus Water and Power (CWP)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -50,5 +52,12 @@
   "in": 10342,
   "out": 732
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 10590,
+   "out": 704
+  },
+  "stop_reason": "end_turn"
+ }
 }

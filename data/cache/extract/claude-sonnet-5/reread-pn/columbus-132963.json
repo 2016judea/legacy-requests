@@ -1,0 +1,54 @@
+{
+ "records": [
+  {
+   "manufacturer": "Intergraph Corporation",
+   "model": "I/CAD 9.4",
+   "part": "9.4 upgrade to the City's Computer Aided Dispatching (CAD) System - I/CAD Maintenance Release Update Services",
+   "part_numbers": [
+    "IPS0001HATSTSU",
+    "IPS0002TSTSU",
+    "IPS0003TSTSU",
+    "IPS0004TSTSU",
+    "IPS0008TSTSU",
+    "IPS0009TSTSU",
+    "IPS0009ATSTSU",
+    "IPS0015TSTSU",
+    "IPS0015ATSTSU",
+    "IPS0035TSTSU",
+    "IPS0042ITSTSU",
+    "IPS0045ITSTSU",
+    "IPS0048TSTSU",
+    "IPS0051TSTSU",
+    "IPS0052TSTSU",
+    "IPS0065TSTSU",
+    "IPS0080TSTSU",
+    "IPS0082TSTSU",
+    "IPS1128UGTSTSU",
+    "IPS1163TSTSU",
+    "IPS1183TSTSU",
+    "IPS2303TSTSU",
+    "IPS3042-TSTSU"
+   ],
+   "quantity": "1",
+   "price_usd": 385732.37,
+   "lead_time": null,
+   "sole_source_vendor": "Intergraph Corporation",
+   "reason": "Intergraph Corporation is the only known company that can provide maintenance, support, & licensing for Fire's Emergency Alerting System; therefore, this contract is being executed in accordance with the sole source provisions of Chapter 329 of the Columbus City Code.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Columbus Department of Public Safety",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 35124,
+  "out": 1299
+ },
+ "model": "claude-sonnet-5"
+}

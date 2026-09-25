@@ -11,7 +11,8 @@
    "reason": "Ohio Machinery Co. is the sole Ohio dealer for this specialized equipment that aids in litter reduction and recycling initiatives.",
    "equipment_class": "other equipment",
    "installed_location": "DOIM 25th Avenue Facility, Columbus",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 30554,
   "out": 220
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 30802,
+   "out": 272
+  },
+  "stop_reason": "end_turn"
+ }
 }

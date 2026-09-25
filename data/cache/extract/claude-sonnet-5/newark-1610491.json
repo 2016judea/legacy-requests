@@ -11,7 +11,8 @@
    "reason": "they have the exclusive right to make and sell these goods and services, which the City Clerk certifies is essential and necessary for the conduct of its affairs",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Office of the City Clerk",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 12524,
   "out": 243
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 12772,
+   "out": 243
+  },
+  "stop_reason": "end_turn"
+ }
 }

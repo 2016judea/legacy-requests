@@ -11,7 +11,8 @@
    "reason": "due to the proprietary nature of the charging station software and compatibility of existing charging equipment, it is in the best interest of the City to enter into contract with ChargePoint Inc.",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Front Street Garage",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 3973,
   "out": 203
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 4221,
+   "out": 206
+  },
+  "stop_reason": "end_turn"
+ }
 }

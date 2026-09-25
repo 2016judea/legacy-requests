@@ -11,7 +11,8 @@
    "reason": "The vehicle design is identical to the previously approved supplied for 26 AMP300R (CONTRACT NO. 201841190) by DEN at the time of final completion.",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Denver International Airport",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Alstom",
@@ -24,7 +25,8 @@
    "reason": "as the mutually agreed resolution of the liabilities associated with the delayed vehicle delivery under the current CONTRACT NO. 201841190.",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Denver International Airport",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -37,7 +39,8 @@
    "reason": "Obsolete ORS radio equipment/components will be harvested from decommissioned APM 100 vehicles and refurbished and reused for the 15 of 19 APM 300R vehicles.",
    "equipment_class": "communications/radio",
    "installed_location": "Denver International Airport",
-   "is_obsolete": true
+   "is_obsolete": true,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -50,5 +53,12 @@
   "in": 54853,
   "out": 3540
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 55101,
+   "out": 1507
+  },
+  "stop_reason": "end_turn"
+ }
 }

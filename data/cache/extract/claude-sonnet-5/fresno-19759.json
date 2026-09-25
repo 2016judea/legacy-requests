@@ -11,7 +11,20 @@
    "reason": "ATEC Water Systems, LLC, is the sole manufacturer and exclusive provider of this proprietary filtration system. No other vendor offers a comparable product with the same design specifications and performance characteristics.",
    "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
    "installed_location": "Pump Station 345-1, 185 South Burgan Avenue",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "08-60-36",
+    "PFS-CPL03",
+    "PFS-CPL04",
+    "PFS-CAPOS",
+    "PFS-CPL08",
+    "PFS-HHPl 11",
+    "PFS-HHGl 11",
+    "PFS-HHGS11",
+    "PFS-HHCR11",
+    "V-BF4",
+    "UA SS48"
+   ]
   },
   {
    "manufacturer": "Bermad",
@@ -24,7 +37,10 @@
    "reason": "Main operating valves shall be Bermad IR-4x4-350-P. Substitutions will not be allowed.",
    "equipment_class": "valve",
    "installed_location": "Pump Station 345-1",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "IR-4x4-350-P"
+   ]
   },
   {
    "manufacturer": null,
@@ -76,5 +92,12 @@
   "in": 56474,
   "out": 1099
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 56722,
+   "out": 1320
+  },
+  "stop_reason": "end_turn"
+ }
 }

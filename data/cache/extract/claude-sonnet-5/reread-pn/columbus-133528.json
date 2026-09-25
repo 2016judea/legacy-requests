@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Genetec",
+   "model": "Genetec Advantage",
+   "part": "GENETEC ADVANTAGE RENEWAL 2025 - 5 YEAR RENEWAL, comprehensive maintenance package including software upgrades, premium support, and system monitoring",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 68359.62,
+   "lead_time": null,
+   "sole_source_vendor": "K.N.S. Services, Inc.",
+   "reason": "Due to the proprietary nature of the security software and the need to maintain compatibility with the Genetec system, it is in the best interest of the City to enter into a contract with K.N.S. Services Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Neighborhood Safety Camera program / Columbus Division of Police",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 5242,
+  "out": 287
+ },
+ "model": "claude-sonnet-5"
+}

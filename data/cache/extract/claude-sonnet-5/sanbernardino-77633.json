@@ -63,7 +63,8 @@
    "reason": "ArcGIS Desktop enters mature support on March 1, 2024. At this Mature Support milestone, you can only access technical support - software updates, hotfixes, and patches will cease.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "San Bernardino County",
-   "is_obsolete": true
+   "is_obsolete": true,
+   "part_numbers": []
   },
   {
    "manufacturer": "Esri",
@@ -128,7 +129,8 @@
    "reason": "Licensing and support services for Esri software are only available through Esri, as they are the exclusive provider.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "San Bernardino County",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Esri",
@@ -141,7 +143,8 @@
    "reason": "Licensing and support services for Esri software are only available through Esri, as they are the exclusive provider.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "San Bernardino County",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Esri",
@@ -154,7 +157,8 @@
    "reason": "Licensing and support services for Esri software are only available through Esri, as they are the exclusive provider.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "San Bernardino County",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Esri",
@@ -284,7 +288,8 @@
    "reason": "Licensing and support services for Esri software are only available through Esri, as they are the exclusive provider.",
    "equipment_class": "service/maintenance contract",
    "installed_location": "San Bernardino County",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Esri",
@@ -297,7 +302,8 @@
    "reason": "Licensing and support services for Esri software are only available through Esri, as they are the exclusive provider.",
    "equipment_class": "service/maintenance contract",
    "installed_location": "San Bernardino County",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -310,5 +316,12 @@
   "in": 52426,
   "out": 4958
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 52674,
+   "out": 5835
+  },
+  "stop_reason": "end_turn"
+ }
 }

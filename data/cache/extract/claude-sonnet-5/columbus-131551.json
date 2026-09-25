@@ -11,7 +11,8 @@
    "reason": "There are no resellers, and no other vendors are capable of providing support, updates or maintenance to the code or data of our systems.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Division of Police",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Right Stuff Software Corporation",
@@ -24,7 +25,8 @@
    "reason": "There are no resellers, and no other vendors are capable of providing support, updates or maintenance to the code or data of our systems.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Division of Police",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -37,5 +39,12 @@
   "in": 4145,
   "out": 448
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 4393,
+   "out": 487
+  },
+  "stop_reason": "end_turn"
+ }
 }

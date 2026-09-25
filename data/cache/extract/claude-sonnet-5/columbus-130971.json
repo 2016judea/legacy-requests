@@ -11,7 +11,8 @@
    "reason": "Sound Communications, Inc. is the proprietary software licensing and maintenance contractor for the City's current Audio Digital Communications Recording Systems",
    "equipment_class": "communications/radio",
    "installed_location": "Police and Fire Communications System",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 3384,
   "out": 217
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 3632,
+   "out": 217
+  },
+  "stop_reason": "end_turn"
+ }
 }

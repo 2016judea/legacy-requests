@@ -11,7 +11,8 @@
    "reason": "Flock cameras are the only license plate reader cameras that also connect with Axon's proprietary software that catalogs and stores MPD body-camera footage",
    "equipment_class": "other equipment",
    "installed_location": "Milwaukee Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -24,7 +25,8 @@
    "reason": "Intrado is AT&T's preferred vendor for this implementation with no other vendors able to do this work.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -37,7 +39,8 @@
    "reason": "Lumen provides IP addresses and network connectivity that cannot be provided through any other entity.",
    "equipment_class": "communications/radio",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "GoTo Technologies USA, Inc.",
@@ -50,7 +53,8 @@
    "reason": "DOA-ITMD waived the competitive bidding process and executed a Sale Source Vendor Service Contract with GoToTechnologies USA, Inc. for proprietary services",
    "equipment_class": "SCADA/controls/software",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -63,5 +67,12 @@
   "in": 22816,
   "out": 2476
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 23064,
+   "out": 3009
+  },
+  "stop_reason": "end_turn"
+ }
 }

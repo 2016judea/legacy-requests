@@ -1,0 +1,142 @@
+{
+ "records": [
+  {
+   "manufacturer": "Election Systems & Software, LLC",
+   "model": null,
+   "part": "Voting equipment, software, and related services (sole source designation and Amended and Restated Master Agreement)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 29813207,
+   "lead_time": null,
+   "sole_source_vendor": "Election Systems & Software, LLC",
+   "reason": "ES&S was, and indeed continues to be, the only feasible voting system option available to the County.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Broward County Supervisor of Elections",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Election Systems & Software, LLC",
+   "model": "DS300",
+   "part": "Poll Place Scanner and Tabulator with internal backup battery, 4GB CFast card, paper roll, and 8GB thumb drive",
+   "part_numbers": [
+    "DS300"
+   ],
+   "quantity": "1500",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Election Systems & Software, LLC",
+   "reason": "ES&S was, and indeed continues to be, the only feasible voting system option available to the County.",
+   "equipment_class": "other equipment",
+   "installed_location": "Broward County Supervisor of Elections",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Election Systems & Software, LLC",
+   "model": "DS300",
+   "part": "Ballot Box with Power Supply and AC Cord for DS300 scanner",
+   "part_numbers": [
+    "DS300"
+   ],
+   "quantity": "1500",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Election Systems & Software, LLC",
+   "reason": "ES&S was, and indeed continues to be, the only feasible voting system option available to the County.",
+   "equipment_class": "other equipment",
+   "installed_location": "Broward County Supervisor of Elections",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Election Systems & Software, LLC",
+   "model": "DS300",
+   "part": "Wireless Modem (Verizon) for DS300 scanner",
+   "part_numbers": [
+    "DS300"
+   ],
+   "quantity": "1500",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Election Systems & Software, LLC",
+   "reason": "ES&S was, and indeed continues to be, the only feasible voting system option available to the County.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Broward County Supervisor of Elections",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Election Systems & Software, LLC",
+   "model": "DS300",
+   "part": "8GB Thumb Drive (Additional) for DS300 scanner",
+   "part_numbers": [
+    "DS300"
+   ],
+   "quantity": "50",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Election Systems & Software, LLC",
+   "reason": "ES&S was, and indeed continues to be, the only feasible voting system option available to the County.",
+   "equipment_class": "other equipment",
+   "installed_location": "Broward County Supervisor of Elections",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Election Systems & Software, LLC",
+   "model": "ExpressVote",
+   "part": "8GB Innodisk to upgrade the ExpressVote 2.1 BMD firmware",
+   "part_numbers": [
+    "ExpressVote\u00ae"
+   ],
+   "quantity": "722",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Election Systems & Software, LLC",
+   "reason": "ES&S was, and indeed continues to be, the only feasible voting system option available to the County.",
+   "equipment_class": "other equipment",
+   "installed_location": "Broward County Supervisor of Elections",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Election Systems & Software, LLC",
+   "model": "DS950",
+   "part": "High-Speed Scanner and Tabulator with Steel Table/Cart, Start-up Kit, Dust Cover, Reports Printer, Battery Backup, USB Cable, and Two 8GB Thumb Drives",
+   "part_numbers": [
+    "DS950"
+   ],
+   "quantity": "12",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Election Systems & Software, LLC",
+   "reason": "ES&S was, and indeed continues to be, the only feasible voting system option available to the County.",
+   "equipment_class": "other equipment",
+   "installed_location": "Broward County Supervisor of Elections",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Election Systems & Software, LLC",
+   "model": "ElectionWare",
+   "part": "Election management software upgrade (EVS 6510)",
+   "part_numbers": [
+    "EVS 6510"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Election Systems & Software, LLC",
+   "reason": "ES&S was, and indeed continues to be, the only feasible voting system option available to the County.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Broward County Supervisor of Elections",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 5,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 52707,
+  "out": 6168
+ },
+ "model": "claude-sonnet-5"
+}

@@ -24,7 +24,8 @@
    "reason": "The original contract was put in place with Life Technologies Corporation in 2020 for service plan coverage for four (4) pieces of lab equipment.",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "Milwaukee Health Department (MHD) Lab",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -37,5 +38,12 @@
   "in": 16446,
   "out": 3961
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 16694,
+   "out": 3280
+  },
+  "stop_reason": "end_turn"
+ }
 }

@@ -1,0 +1,72 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Exacq Vision",
+   "part": "MPD Card Access Maintenance - ongoing maintenance of the Milwaukee Police Department's building surveillance systems using the Exacq Vision video management system and license renewals",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 773550.0,
+   "lead_time": null,
+   "sole_source_vendor": "Toepfer Security LLC",
+   "reason": "Toepfer's access, surveillance, and security systems, including the corresponding software, is proprietary. Therefore, maintenance and support for these systems can only be provided by Toepfer.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Milwaukee Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Intellinetics, Inc.",
+   "model": "IntelliCloud (Intellivue)",
+   "part": "IntelliCloud (Intellivue) Expansion and Optimization - software upgrade to site license, digital photo enhancements, arrest report application improvements, new index card application, platform administrator and developer training",
+   "part_numbers": [],
+   "quantity": "thirty (30) licenses",
+   "price_usd": 459760.59,
+   "lead_time": null,
+   "sole_source_vendor": "Intellinetics, Inc.",
+   "reason": "The Intellivue Software is proprietary and can only be purchased, upgraded, supported and maintained by the manufacturer, Intellinetics, Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Milwaukee Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "ClimateView Monitoring Tool",
+   "part": "ClimateView Monitoring Tool - software licensing for forecasting and publicly reporting on emissions data, plus support for updating the metrics",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 118500.0,
+   "lead_time": null,
+   "sole_source_vendor": "Keramida Environmental, Inc. dba Keramida, Inc.",
+   "reason": "Keramida, Inc. is the only trained and certified ClimateView partner in the United States.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Administration \\u2013 Environmental Collaboration Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "Preventative Maintenance for Laboratory Equipment - service plan coverage for four (4) pieces of lab equipment used in testing patient samples for communicable diseases including COVID-19",
+   "part_numbers": [],
+   "quantity": "four (4) pieces of lab equipment",
+   "price_usd": 598018.73,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Life Technologies Corporation has met MHD\\u2019s expectations and there have been no service interruptions. This service is required to be able to test clinical patient samples and is mandatory as long as the instruments are in use.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Milwaukee Health Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 17580,
+  "out": 3301
+ },
+ "model": "claude-sonnet-5"
+}

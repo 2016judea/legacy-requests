@@ -1,0 +1,192 @@
+{
+ "records": [
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": "Crime-lite AUTO",
+   "part": "CRIME-LITE AUTO KIT 120V CHARGER (NON SP) - All-in-one forensic evidence imaging system for CSI and laboratory use",
+   "part_numbers": [
+    "QCL/AUTO"
+   ],
+   "quantity": "2",
+   "price_usd": 35764.95,
+   "lead_time": "6-8 working weeks from receipt of order",
+   "sole_source_vendor": "Foster & Freeman USA, Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police Crime Lab, Columbus, OH",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": null,
+   "part": "CRIME-LITE AUTO RECHARGEABLE 2Ah BATTERY",
+   "part_numbers": [
+    "QCL/AUTO/ACC/1"
+   ],
+   "quantity": "2.0",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA, Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police Crime Lab, Columbus, OH",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": null,
+   "part": "CRIME-LITE AUTO RECHARGEABLE 4Ah BATTERY",
+   "part_numbers": [
+    "QCL/AUTO/ACC/2"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA, Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police Crime Lab, Columbus, OH",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": null,
+   "part": "CRIME-LITE AUTO CARRY CASE",
+   "part_numbers": [
+    "QCL/AUTO/ACC/4"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA, Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police Crime Lab, Columbus, OH",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": null,
+   "part": "CRIME-LITE AUTO SHOULDER/NECK STRAP",
+   "part_numbers": [
+    "QCL/AUTO/ACC/5",
+    "257-187-00"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA, Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police Crime Lab, Columbus, OH",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": null,
+   "part": "CRIME-LITE AUTO HIGH SPEED MICRO SD CARD READER",
+   "part_numbers": [
+    "QCL/AUTO/ACC/6"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA, Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police Crime Lab, Columbus, OH",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": null,
+   "part": "CRIME-LITE AUTO HIGH SPEED USB STICK",
+   "part_numbers": [
+    "QCL/AUTO/ACC/7"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA, Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police Crime Lab, Columbus, OH",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": null,
+   "part": "CRIME-LITE AUTO MAINS ADAPTOR",
+   "part_numbers": [
+    "QCL/AUTO/ACC/8"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA, Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police Crime Lab, Columbus, OH",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": null,
+   "part": "CRIME-LITE AUTO BATTERY CHARGER",
+   "part_numbers": [
+    "QCL/AUTO/ACC/3120V"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA, Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police Crime Lab, Columbus, OH",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": null,
+   "part": "L-SHAPE FORENSIC SCALE RULE",
+   "part_numbers": [
+    "ASSY DWG 035-106-AS-01",
+    "DCS/RULE"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA, Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police Crime Lab, Columbus, OH",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foster & Freeman",
+   "model": "Crime-lite AUTO",
+   "part": "PRODUCT VERIFICATION LIBRARY (PVL) 1 YEAR SUBSCRIPTION",
+   "part_numbers": [],
+   "quantity": "1 year subscription",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foster & Freeman USA, Inc.",
+   "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Police Crime Lab, Columbus, OH",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 3,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 16136,
+  "out": 6244
+ },
+ "model": "claude-sonnet-5"
+}

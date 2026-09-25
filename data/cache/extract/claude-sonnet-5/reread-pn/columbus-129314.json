@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "Labworks, LLC",
+   "model": "LABWORKS",
+   "part": "LABWORKS Assist Support Plan Renewal - software maintenance and support for Laboratory Information Management System (LIMS)",
+   "part_numbers": [
+    "B6W60-01CS200-000XT72-0AA1"
+   ],
+   "quantity": "1.00 Annual",
+   "price_usd": 63774.0,
+   "lead_time": null,
+   "sole_source_vendor": "Labworks, LLC",
+   "reason": "we are the developer and sole distributor of LABWORKS software. We do not have any distributors or resellers due to the complex nature of our product.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 5348,
+  "out": 246
+ },
+ "model": "claude-sonnet-5"
+}

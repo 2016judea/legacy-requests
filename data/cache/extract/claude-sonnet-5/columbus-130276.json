@@ -11,7 +11,8 @@
    "reason": "NicheVision Forensic LLC is the sole distributor of the STRmix software.  There is no other source for these licenses in the United States than to purchase directly from NicheVision Forensic LLC",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "Division of Police Crime Lab, DNA section",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 3789,
   "out": 261
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 4037,
+   "out": 266
+  },
+  "stop_reason": "end_turn"
+ }
 }

@@ -1,0 +1,480 @@
+{
+ "records": [
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "SwabSolution(TM) Kit",
+   "part": "SwabSolution(TM) Kit, 100 preps",
+   "part_numbers": [
+    "DC8271"
+   ],
+   "quantity": "100 preps",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "Casework Extraction Kit",
+   "part": "Casework Extraction Kit, 100 rxn",
+   "part_numbers": [
+    "DC6745"
+   ],
+   "quantity": "100 rxn",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "CW Microfuge Tubes",
+   "part": "CW Microfuge Tubes, 1.5ml, 50/pk",
+   "part_numbers": [
+    "AS8201"
+   ],
+   "quantity": "50/pk",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "PowerPlex(R) Y23 System",
+   "part": "PowerPlex(R) Y23 System, 200rxn",
+   "part_numbers": [
+    "DC2320"
+   ],
+   "quantity": "200rxn",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "PowerQuant(R) System",
+   "part": "PowerQuant(R) System, 800rxn",
+   "part_numbers": [
+    "PQ5008"
+   ],
+   "quantity": "800rxn",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "CW Spin Baskets",
+   "part": "CW Spin Baskets, 50/pk",
+   "part_numbers": [
+    "AS8101"
+   ],
+   "quantity": "50/pk",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "Maxwell(R) FSC DNA IQ(TM) Casework Kit",
+   "part": "Maxwell(R) FSC DNA IQ(TM) Casework Kit",
+   "part_numbers": [
+    "AS1550"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "WEN Internal Lane Standard 500",
+   "part": "WEN Internal Lane Standard 500, 200ul",
+   "part_numbers": [
+    "DG5001"
+   ],
+   "quantity": "200ul",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "2800M Control DNA",
+   "part": "2800M Control DNA, 10ng/ul, 25ul",
+   "part_numbers": [
+    "DD7101"
+   ],
+   "quantity": "25ul",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "PunchSolution(TM) Kit",
+   "part": "PunchSolution(TM) Kit, 100 preps",
+   "part_numbers": [
+    "DC9271"
+   ],
+   "quantity": "100 preps",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "PowerPlex(R) 6C Matrix Standard",
+   "part": "PowerPlex(R) 6C Matrix Standard, 5 preps",
+   "part_numbers": [
+    "DG4900"
+   ],
+   "quantity": "5 preps",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "DNA IQ(TM) Spin Baskets",
+   "part": "DNA IQ(TM) Spin Baskets, 1,000/bag",
+   "part_numbers": [
+    "V1221"
+   ],
+   "quantity": "1,000/bag",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "Slicprep(TM) 96 Device",
+   "part": "Slicprep(TM) 96 Device, 10 pack",
+   "part_numbers": [
+    "V1391"
+   ],
+   "quantity": "10 pack",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "PowerPlex(R) 5C Matrix Standard",
+   "part": "PowerPlex(R) 5C Matrix Standard, 5 preps",
+   "part_numbers": [
+    "DG4850"
+   ],
+   "quantity": "5 preps",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "ClickFit Microtube",
+   "part": "ClickFit Microtube, 1.5ml, 1000/pack",
+   "part_numbers": [
+    "V4741"
+   ],
+   "quantity": "1000/pack",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "PowerPlex(R) Y23 System",
+   "part": "PowerPlex(R) Y23 System, 50rxn",
+   "part_numbers": [
+    "DC2305"
+   ],
+   "quantity": "50rxn",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "5X AmpSolution(TM) Reagent",
+   "part": "5X AmpSolution(TM) Reagent, 500ul",
+   "part_numbers": [
+    "DM1231"
+   ],
+   "quantity": "500ul",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "PowerQuant(R) System",
+   "part": "PowerQuant(R) System, 200rxn",
+   "part_numbers": [
+    "PQ5002"
+   ],
+   "quantity": "200rxn",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "PowerQuant(R) Calibration Kit",
+   "part": "PowerQuant(R) Calibration Kit",
+   "part_numbers": [
+    "DS1221"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "PowerPlex(R) Fusion 6C System",
+   "part": "PowerPlex(R) Fusion 6C System, 200rxn or 400 direct-amp rxn",
+   "part_numbers": [
+    "DC2720"
+   ],
+   "quantity": "200rxn or 400 direct-amp rxn",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "WEN Internal Lane Standard 500 Y23",
+   "part": "WEN Internal Lane Standard 500 Y23, 200ul",
+   "part_numbers": [
+    "DG5201"
+   ],
+   "quantity": "200ul",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "PowerPlex(R) Fusion 6C System",
+   "part": "PowerPlex(R) Fusion 6C System, 50rxn or 100 direct-amp rxn",
+   "part_numbers": [
+    "DC2705"
+   ],
+   "quantity": "50rxn or 100 direct-amp rxn",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "Casework Direct System",
+   "part": "Casework Direct System, 100ml",
+   "part_numbers": [
+    "DC4560"
+   ],
+   "quantity": "100ml",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "Maxprep(TM) 50uL Conductive Filter Tips",
+   "part": "Maxprep(TM) 50uL Conductive Filter Tips (60 Tip Boxes)",
+   "part_numbers": [
+    "AS9301"
+   ],
+   "quantity": "60 Tip Boxes",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "Maxprep(TM) 300uL Conductive Filter Tips",
+   "part": "Maxprep(TM) 300uL Conductive Filter Tips (60 Tip Boxes)",
+   "part_numbers": [
+    "AS9302"
+   ],
+   "quantity": "60 Tip Boxes",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "Maxprep(TM) 1000uL Conductive Filter Tips",
+   "part": "Maxprep(TM) 1000uL Conductive Filter Tips (40 Tip Boxes)",
+   "part_numbers": [
+    "AS9303"
+   ],
+   "quantity": "40 Tip Boxes",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "Reagent Reservoir",
+   "part": "Reagent Reservoir, 60mL (pkg 28)",
+   "part_numbers": [
+    "AS9304"
+   ],
+   "quantity": "pkg 28",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "Maxprep(TM) Waste Bags",
+   "part": "Maxprep(TM) Waste Bags, Clear (pkg 100)",
+   "part_numbers": [
+    "AS9305"
+   ],
+   "quantity": "pkg 100",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Promega Corporation",
+   "model": "Stabilizer Reagent",
+   "part": "Stabilizer Reagent",
+   "part_numbers": [
+    "DM6571"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Promega Corporation",
+   "reason": "Promega Corporation is the sole manufacturer and distributor of the following products. There is no other source for these products in the US than to purchase directly from Promega Corporation.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police\u2013Crime Lab",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 5552,
+  "out": 8555
+ },
+ "model": "claude-sonnet-5"
+}

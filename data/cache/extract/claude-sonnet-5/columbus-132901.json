@@ -11,7 +11,8 @@
    "reason": "The software program that is utilized by the Department of Public Utilities was developed and supported by Tom Synnott Associates, Inc. dba tsaADVET. Their proprietary software products are not available through any other service.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Department of Public Utilities",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 4540,
   "out": 275
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 4788,
+   "out": 284
+  },
+  "stop_reason": "end_turn"
+ }
 }

@@ -11,7 +11,8 @@
    "reason": "H&L Systems, Inc. has represented that they are qualified, by their training and experience, to provide the required services, and that they are the sole source provider of the aforementioned goods and services",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "City of Newark, Department of Finance / Office of the Tax Collector",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 4450,
   "out": 243
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 4698,
+   "out": 230
+  },
+  "stop_reason": "end_turn"
+ }
 }

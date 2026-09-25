@@ -11,7 +11,8 @@
    "reason": "There is only one product available that can meet all of these needs, which is provided by Communico, called 'Interact.'",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Broward County Libraries",
-   "is_obsolete": true
+   "is_obsolete": true,
+   "part_numbers": []
   },
   {
    "manufacturer": "Communico",
@@ -24,7 +25,8 @@
    "reason": "'Roam' and 'Schedule' cannot be compared with any other service as they are proprietary and there are no other similar services known.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Broward County Libraries",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Communico",
@@ -37,7 +39,8 @@
    "reason": "'Roam' and 'Schedule' cannot be compared with any other service as they are proprietary and there are no other similar services known.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Broward County Libraries",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -76,7 +79,8 @@
    "reason": "Communico LLC offers unique software as a service (SaaS) solution, with individual modules all connected to the same platform, thereby eliminating the need for additional modification and contracts with multiple vendors.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Broward County Libraries",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Communico",
@@ -89,7 +93,8 @@
    "reason": "Communico LLC offers unique software as a service (SaaS) solution, with individual modules all connected to the same platform, thereby eliminating the need for additional modification and contracts with multiple vendors.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Broward County Libraries",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Communico",
@@ -102,7 +107,8 @@
    "reason": "Communico LLC offers unique software as a service (SaaS) solution, with individual modules all connected to the same platform, thereby eliminating the need for additional modification and contracts with multiple vendors.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Broward County Libraries",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Communico",
@@ -115,7 +121,8 @@
    "reason": "Communico LLC offers unique software as a service (SaaS) solution, with individual modules all connected to the same platform, thereby eliminating the need for additional modification and contracts with multiple vendors.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Broward County Libraries",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Communico",
@@ -219,5 +226,12 @@
   "in": 61190,
   "out": 3024
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 61438,
+   "out": 5695
+  },
+  "stop_reason": "end_turn"
+ }
 }

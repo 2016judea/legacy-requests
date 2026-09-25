@@ -24,7 +24,8 @@
    "reason": "Paul and Tracey Tikalsky dba PAT Sales Company, LLC has provided support and maintenance to the Milwaukee Police Department's security system at the Police Administration Building, including the jail system. The Contractor has engineered the control system, related servers, control equipment, microphones, cameras, control panels, intercom controllers, network video recorders, and speakers.",
    "equipment_class": "other equipment",
    "installed_location": "Police Administration Building",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Priority Dispatch Corp.",
@@ -37,7 +38,8 @@
    "reason": "ProQA is proprietary software of Priority Dispatch Corp. and has a contract already in place for the Milwaukee Fire Department and for use by the DEC for annual maintenance support of the software.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Department of Emergency Communications (DEC)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -63,5 +65,12 @@
   "in": 19768,
   "out": 2314
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 20016,
+   "out": 3674
+  },
+  "stop_reason": "end_turn"
+ }
 }

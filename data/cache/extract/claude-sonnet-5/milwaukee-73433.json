@@ -11,7 +11,8 @@
    "reason": "MEI will provide MPD with less downtime, reliability and lower costs for services.",
    "equipment_class": "service/maintenance contract",
    "installed_location": "Police Administration Building",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "HAAS Alert",
@@ -76,5 +77,12 @@
   "in": 12610,
   "out": 3401
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 12858,
+   "out": 3556
+  },
+  "stop_reason": "end_turn"
+ }
 }

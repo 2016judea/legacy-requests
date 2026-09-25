@@ -11,7 +11,8 @@
    "reason": "The LIS uses proprietary software that was developed and maintained by Soft Computer Consultants (SCC).",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Milwaukee Health Department Lab / Keenan Health Center",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Bentley Systems, Incorporated",
@@ -24,7 +25,8 @@
    "reason": "The software is proprietary and can only be purchased, upgraded, supported, and maintained by the manufacturer, Bentley Systems, Incorporated.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Citywide - ITMD, DPW, DNS, MMSD, Port of Milwaukee",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "NICE Systems",
@@ -37,7 +39,8 @@
    "reason": "This software is used to analyze the processing and dispatching of 911 calls and is proprietary to NICE Systems (the manufacturer).",
    "equipment_class": "communications/radio",
    "installed_location": "Milwaukee Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -76,5 +79,12 @@
   "in": 26194,
   "out": 4141
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 26442,
+   "out": 3914
+  },
+  "stop_reason": "end_turn"
+ }
 }

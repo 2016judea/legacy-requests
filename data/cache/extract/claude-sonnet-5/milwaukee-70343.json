@@ -11,7 +11,8 @@
    "reason": "Magic Software was originally installed in 1995 and is only available without additional upcharges or embedded in other software via Magic Software Enterprises, Inc.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Municipal Court",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 5225,
   "out": 209
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 5473,
+   "out": 218
+  },
+  "stop_reason": "end_turn"
+ }
 }

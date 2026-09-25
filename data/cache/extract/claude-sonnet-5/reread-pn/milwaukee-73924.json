@@ -1,0 +1,142 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": null,
+   "part": "Axon Body Cameras",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Axon Enterprise, Inc. products and services are proprietary and Axon is the only vendor that can provide these services to Milwaukee Police Department.",
+   "equipment_class": "other equipment",
+   "installed_location": "Milwaukee Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Taser",
+   "part": "Taser Conducted Electronic Weapons",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Axon Enterprise, Inc. products and services are proprietary and Axon is the only vendor that can provide these services to Milwaukee Police Department.",
+   "equipment_class": "other equipment",
+   "installed_location": "Milwaukee Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": null,
+   "part": "Computer Aided Dispatch (CAD) Integration",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Axon Enterprise, Inc. products and services are proprietary and Axon is the only vendor that can provide these services to Milwaukee Police Department.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Milwaukee Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Evidence.com",
+   "part": "Evidence.com Service Offerings",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Axon Enterprise, Inc. products and services are proprietary and Axon is the only vendor that can provide these services to Milwaukee Police Department.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Milwaukee Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Axon Interview Room",
+   "part": "Axon Interview Room",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Axon Enterprise, Inc. products and services are proprietary and Axon is the only vendor that can provide these services to Milwaukee Police Department.",
+   "equipment_class": "other equipment",
+   "installed_location": "Milwaukee Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "CradlePoint",
+   "model": null,
+   "part": "CradlePoint Router/Monitoring Services System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Axon Enterprise, Inc. products and services are proprietary and Axon is the only vendor that can provide these services to Milwaukee Police Department.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Milwaukee Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Axon In-Car Fleet System",
+   "part": "Axon In-Car Fleet System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Axon Enterprise, Inc. products and services are proprietary and Axon is the only vendor that can provide these services to Milwaukee Police Department.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Milwaukee Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": null,
+   "part": "Automatic License Plate Readers (ALPR) software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 135699.2,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "Amendment #1: Incorporate the software for Automatic License Plate Readers (ALPR). Increase the contract total by $135,699.20 from $13,620,598.06 to $13,756,297.26.",
+   "equipment_class": "other equipment",
+   "installed_location": "Milwaukee Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon Enterprise, Inc.",
+   "model": "Interview Room 1 Camera Essential",
+   "part": "Interview Room 1 Camera Essential software/service license",
+   "part_numbers": [],
+   "quantity": "Twenty (20) months",
+   "price_usd": 18294.8,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprise, Inc.",
+   "reason": "MPD Criminal Investigations Bureau is requesting to add Interview Room 1 Camera Essential to a \"soft\" interview room where interviews can be held with individuals who are not in custody.",
+   "equipment_class": "other equipment",
+   "installed_location": "Milwaukee Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 8829,
+  "out": 5055
+ },
+ "model": "claude-sonnet-5"
+}

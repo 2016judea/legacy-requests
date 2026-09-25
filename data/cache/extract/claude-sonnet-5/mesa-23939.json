@@ -11,7 +11,8 @@
    "reason": "The existing platform will reach end of life in December 2026, after which it will no longer receive vendor support, security updates, or product enhancements.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Citywide",
-   "is_obsolete": true
+   "is_obsolete": true,
+   "part_numbers": []
   },
   {
    "manufacturer": "Tungsten",
@@ -37,5 +38,12 @@
   "in": 2096,
   "out": 359
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 2344,
+   "out": 621
+  },
+  "stop_reason": "end_turn"
+ }
 }

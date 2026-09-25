@@ -11,7 +11,8 @@
    "reason": "Reason: OEM Equipment/Part/Service",
    "equipment_class": "SCADA/controls/software",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "AVEVA",
@@ -24,7 +25,8 @@
    "reason": "Board Approved OEM Sole Source List",
    "equipment_class": "SCADA/controls/software",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Beamex",
@@ -37,7 +39,10 @@
    "reason": "Board Approved OEM Sole Source List",
    "equipment_class": "instrumentation/calibration",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "MC6-WS"
+   ]
   },
   {
    "manufacturer": "Beamex",
@@ -50,7 +55,11 @@
    "reason": "Board Approved OEM Sole Source List",
    "equipment_class": "instrumentation/calibration",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "MC6-EX",
+    "ePG"
+   ]
   },
   {
    "manufacturer": null,
@@ -63,7 +72,8 @@
    "reason": "Specification No. S-2023-1384BD",
    "equipment_class": "vehicle/fleet",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -76,7 +86,8 @@
    "reason": "Board Approved OEM Sole Source List",
    "equipment_class": "pump",
    "installed_location": "Plant 1",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Patterson",
@@ -89,7 +100,10 @@
    "reason": "Board Approved OEM Sole Source List",
    "equipment_class": "pump",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "MAA 12X10"
+   ]
   },
   {
    "manufacturer": "SEEPEX",
@@ -102,7 +116,10 @@
    "reason": "Board Approved OEM Sole Source List",
    "equipment_class": "pump",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "60/500-6L"
+   ]
   },
   {
    "manufacturer": "SEEPEX",
@@ -115,7 +132,10 @@
    "reason": "Board Approved OEM Sole Source List",
    "equipment_class": "pump",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "60/300-12T"
+   ]
   },
   {
    "manufacturer": null,
@@ -128,7 +148,8 @@
    "reason": "Specification No. E-2022-1367BD",
    "equipment_class": "pipe/fitting",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Altronic",
@@ -141,7 +162,10 @@
    "reason": "Board Approved OEM Sole Source List",
    "equipment_class": "generator",
    "installed_location": "Plant 2",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "NG1500"
+   ]
   },
   {
    "manufacturer": null,
@@ -154,7 +178,10 @@
    "reason": "Informal Bid 131163-OR",
    "equipment_class": "instrumentation/calibration",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "FS3700"
+   ]
   },
   {
    "manufacturer": "GEA Westfalia",
@@ -167,7 +194,8 @@
    "reason": "Board Approved OEM Sole Source List",
    "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
    "installed_location": "Plant 1",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -193,7 +221,8 @@
    "reason": "Informal Bid 130444-OR",
    "equipment_class": "electrical/switchgear/transformer",
    "installed_location": "Plant 2",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Felling",
@@ -219,7 +248,8 @@
    "reason": "Sourcewell Contract # 092222-CAT, in Accordance with Ordinance OC SAN-61 Section 2.03 (B) Cooperative Purchases",
    "equipment_class": "generator",
    "installed_location": "Plant 2",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Schneider Electric",
@@ -245,7 +275,8 @@
    "reason": "Sourcewell Contract # 080420, in Accordance with Ordinance OC SAN-61 Section 2.03 (B) Cooperative Purchases",
    "equipment_class": "other equipment",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Veolia",
@@ -258,7 +289,10 @@
    "reason": "Board Approved OEM Sole Source List",
    "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "TYPE IIIAS"
+   ]
   },
   {
    "manufacturer": "Ford",
@@ -310,5 +344,12 @@
   "in": 23498,
   "out": 12220
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 23746,
+   "out": 14216
+  },
+  "stop_reason": "end_turn"
+ }
 }

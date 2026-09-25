@@ -11,7 +11,8 @@
    "reason": "Standardization allows the County to maintain subscription and ensures continued use of Korn Ferry's intellectual property used in the development of job-related competencies, job classification descriptions, recruitment, performance management, and learning and development processes",
    "equipment_class": "SCADA/controls/software",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Korn Ferry",
@@ -24,7 +25,8 @@
    "reason": "thus, making it more cost-effective than recreating these functions in another platform",
    "equipment_class": "SCADA/controls/software",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -37,5 +39,12 @@
   "in": 15804,
   "out": 483
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 16052,
+   "out": 1394
+  },
+  "stop_reason": "end_turn"
+ }
 }

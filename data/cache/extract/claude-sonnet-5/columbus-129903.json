@@ -11,7 +11,8 @@
    "reason": "CourtView Justice Solutions, Inc. is the sole source supplier of CourtView software, maintenance and support services. The case management system is proprietary in nature",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Franklin County Municipal Court Clerk's Office",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 15723,
   "out": 253
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 15971,
+   "out": 301
+  },
+  "stop_reason": "end_turn"
+ }
 }

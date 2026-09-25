@@ -1,0 +1,86 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Vendor Service Contract for Elevator Maintenance, Repairs and Testing Services",
+   "part_numbers": [],
+   "quantity": "two (2) passenger elevators",
+   "price_usd": 1724852.09,
+   "lead_time": null,
+   "sole_source_vendor": "Minnesota Elevator, Inc. dba MEI Total Elevator Solutions",
+   "reason": "MEI was selected because of an existing contract with Milwaukee Public Library and was considered further based on positive feedback from the Library Facilities Manager.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Police Administration Building",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HAAS, Inc. dba HAAS Alert",
+   "model": "HA-7 Digital Alerting Transporter",
+   "part": "Hardware and accessories of HA-7 Digital Alerting Transporter and R2R Indicator Double Unit Two LED Kit",
+   "part_numbers": [],
+   "quantity": "80",
+   "price_usd": 48000.0,
+   "lead_time": null,
+   "sole_source_vendor": "HAAS, Inc. dba HAAS Alert",
+   "reason": "HAAS Alert is the original equipment manufacturer, technology provider, and distributor of the Interoperable Real-Time Digital Alert service.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HAAS, Inc. dba HAAS Alert",
+   "model": null,
+   "part": "Safety Cloud Service via HAAS Alert Transporter",
+   "part_numbers": [],
+   "quantity": "80",
+   "price_usd": 23920.0,
+   "lead_time": null,
+   "sole_source_vendor": "HAAS, Inc. dba HAAS Alert",
+   "reason": "HAAS Alert is the only commercially available service provider that allows for an interoperable, intra and inter agency emergency response, road work, vehicle collision prevention solution",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HAAS, Inc. dba HAAS Alert",
+   "model": "R2RS",
+   "part": "Responder-to-Responder Service (R2RS)",
+   "part_numbers": [],
+   "quantity": "80",
+   "price_usd": 15920.0,
+   "lead_time": null,
+   "sole_source_vendor": "HAAS, Inc. dba HAAS Alert",
+   "reason": "HAAS Alert is the only commercially available service provider that allows for an interoperable, intra and inter agency emergency response, road work, vehicle collision prevention solution",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems, Inc.",
+   "model": "PrimeAlert / CADVoice",
+   "part": "Maintenance Services for PrimeAlert / CADVoice System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 189624.0,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems, Inc.",
+   "reason": "Locution Systems, Inc. is the sole authorized provider for Locution's dedicated automated voice announcement system in the United States and has not authorized any other parties to provide maintenance and support for their products.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Milwaukee Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 12858,
+  "out": 3556
+ },
+ "model": "claude-sonnet-5"
+}

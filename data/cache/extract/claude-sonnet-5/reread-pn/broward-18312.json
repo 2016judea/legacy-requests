@@ -1,0 +1,90 @@
+{
+ "records": [
+  {
+   "manufacturer": "MWI Corporation",
+   "model": null,
+   "part": "MWI Pumps, Parts, and Installation/Removal services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 256548.0,
+   "lead_time": null,
+   "sole_source_vendor": "MWI Corporation dba MWI Pumps",
+   "reason": "the manufacturer, MWI Corporation dba MWI Pumps, indicated that they were the sole representative for the purchase of MWI Pump products",
+   "equipment_class": "pump",
+   "installed_location": "Water and Wastewater Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MWI",
+   "model": "SEA 318P25",
+   "part": "MWI SCLO Pump",
+   "part_numbers": [
+    "SEA 318P25"
+   ],
+   "quantity": "1 Each",
+   "price_usd": 77336.0,
+   "lead_time": null,
+   "sole_source_vendor": "MWI Corporation dba MWI Pumps",
+   "reason": "the manufacturer, MWI Corporation dba MWI Pumps, indicated that they were the sole representative for the purchase of MWI Pump products",
+   "equipment_class": "pump",
+   "installed_location": "Water and Wastewater Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MWI",
+   "model": "SEA 324",
+   "part": "MWI SCLO Pump",
+   "part_numbers": [
+    "SEA 324"
+   ],
+   "quantity": "1 Each",
+   "price_usd": 116712.0,
+   "lead_time": null,
+   "sole_source_vendor": "MWI Corporation dba MWI Pumps",
+   "reason": "the manufacturer, MWI Corporation dba MWI Pumps, indicated that they were the sole representative for the purchase of MWI Pump products",
+   "equipment_class": "pump",
+   "installed_location": "Water and Wastewater Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MWI",
+   "model": null,
+   "part": "Onsite Installation / Removal Services, Labor Only",
+   "part_numbers": [],
+   "quantity": "40 Hour",
+   "price_usd": 30000.0,
+   "lead_time": null,
+   "sole_source_vendor": "MWI Corporation dba MWI Pumps",
+   "reason": "the manufacturer, MWI Corporation dba MWI Pumps, indicated that they were the sole representative for the purchase of MWI Pump products",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Water and Wastewater Services",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MWI Corporation",
+   "model": null,
+   "part": "MWI surface water pumps installed at WMD pump stations (PS-1, PS-4, PS-46) and planned for PS-45",
+   "part_numbers": [],
+   "quantity": "7 in service, 2 stored",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MWI Corporation",
+   "reason": "MWI pumps are proprietary and are not interchangeable with other brands. In the state of Florida, there are no representatives authorized by MWI to provide repair services to MWI pumps; MWI covers the entire state of Florida.",
+   "equipment_class": "pump",
+   "installed_location": "Hillsboro Canal pump stations PS-1, PS-4, PS-46, S-45",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 79556,
+  "out": 2916
+ },
+ "model": "claude-sonnet-5"
+}

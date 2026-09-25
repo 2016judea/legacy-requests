@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Idemia Identity & Security USA, LLC",
+   "model": "Automated Fingerprint Identification System (AFIS)",
+   "part": "Maintenance and services for upgraded Automated Fingerprint Identification System (AFIS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1003761.0,
+   "lead_time": null,
+   "sole_source_vendor": "Idemia Identity & Security USA, LLC",
+   "reason": "awarded pursuant to the sole source provisions of Chapter 329 of Columbus City Code due to the proprietary nature of AFIS technology, and the prohibitive cost of conversion to a different system",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 4447,
+  "out": 264
+ },
+ "model": "claude-sonnet-5"
+}

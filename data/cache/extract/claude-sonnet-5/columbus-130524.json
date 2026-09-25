@@ -11,7 +11,8 @@
    "reason": "NextGen Healthcare, Inc. (f/k/a NextGen Healthcare Information Systems, LLC) (\"NextGen Healthcare\") through its hosting services partner, AWS, is the sole authorized provider of direct hosted NextGen\u00ae EHR/PM software solutions.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Columbus Public Health Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 4392,
   "out": 264
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 4640,
+   "out": 223
+  },
+  "stop_reason": "end_turn"
+ }
 }

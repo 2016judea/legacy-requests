@@ -11,7 +11,8 @@
    "reason": "Best Equipment is the sole distributor authorized to sell, service, and support Labrie Enviroquip products per Sourcewell Contract # 110223-LEG within the State of Ohio.",
    "equipment_class": "vehicle/fleet",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 3763,
   "out": 235
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 4011,
+   "out": 249
+  },
+  "stop_reason": "end_turn"
+ }
 }

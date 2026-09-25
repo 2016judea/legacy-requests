@@ -1,0 +1,52 @@
+{
+ "records": [
+  {
+   "manufacturer": "OraSure Technologies, Inc.",
+   "model": "OraQuick\u00ae HCV Rapid Antibody Test PH",
+   "part": "HCV Rapid Testing Supplies (secondary test for preliminary positive HIV tests)",
+   "part_numbers": [
+    "1001-0713",
+    "1001-0714",
+    "1001-0715"
+   ],
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Orasure Technologies, Inc.",
+   "reason": "OraSure Technologies, Inc. is the only licensed manufacturer and distributor of the OraQuick\u00ae HCV Rapid Antibody Test PH...to public health customers.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Columbus Public Health Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "OraSure Technologies, Inc.",
+   "model": "OraQuick ADVANCE\u00ae Rapid HIV-1/2 Antibody Test PH",
+   "part": "HIV Rapid Testing Supplies used to perform preliminary positive HIV testing",
+   "part_numbers": [
+    "1001-0712",
+    "1001-0711",
+    "1001-0710"
+   ],
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Orasure Technologies, Inc.",
+   "reason": "OraSure Technologies, Inc. is the only licensed manufacturer and distributor of the OraQuick ADVANCE\u00ae Rapid HIV-1/2 Antibody Test PH...to public health customers.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Columbus Public Health Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 5481,
+  "out": 921
+ },
+ "model": "claude-sonnet-5"
+}

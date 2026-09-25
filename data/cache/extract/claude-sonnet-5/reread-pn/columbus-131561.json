@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Itron",
+   "model": null,
+   "part": "Water meter reading equipment, software and maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Itron, Inc.",
+   "reason": "Itron Inc is the sole source for these parts and services as they are the only distributor and authorized service provider for this specific manufacturer.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "City of Columbus",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 3253,
+  "out": 186
+ },
+ "model": "claude-sonnet-5"
+}

@@ -11,7 +11,8 @@
    "reason": "The parts are not interchangeable with any other manufacturers equipment and can only be serviced by Factory Authorized Technicians.",
    "equipment_class": "service/maintenance contract",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Brooks Instrument",
@@ -24,7 +25,8 @@
    "reason": "The parts are not interchangeable with any other manufacturers equipment and can only be serviced by Factory Authorized Technicians.",
    "equipment_class": "service/maintenance contract",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Brooks Instrument",
@@ -37,7 +39,8 @@
    "reason": "This system is a proprietary design on which alternate manufacturer's ammonia gas systems are not compatible with the Brooks Instrument set point controllers",
    "equipment_class": "instrumentation/calibration",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Brooks Instrument",
@@ -50,7 +53,8 @@
    "reason": "This system is a proprietary design on which alternate manufacturer's ammonia gas systems are not compatible with the Brooks Instrument set point controllers",
    "equipment_class": "instrumentation/calibration",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Brooks Instrument",
@@ -63,7 +67,8 @@
    "reason": "This system is a proprietary design on which alternate manufacturer's ammonia gas systems are not compatible with the Brooks Instrument set point controllers",
    "equipment_class": "instrumentation/calibration",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Brooks Instrument",
@@ -76,7 +81,8 @@
    "reason": "This system is a proprietary design on which alternate manufacturer's ammonia gas systems are not compatible with the Brooks Instrument set point controllers",
    "equipment_class": "instrumentation/calibration",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Brooks Instrument",
@@ -89,7 +95,8 @@
    "reason": "Cross Company/ Process Solutions Group is our exclusive authorized representative/distributor for the territory of Alabama, Florida, Georgia, Maryland, North Carolina, South Carolina, Tennessee, Virginia, & Washington, DC.",
    "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
    "installed_location": "Broward County Water Treatment Plants",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -102,5 +109,12 @@
   "in": 21206,
   "out": 3945
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 21454,
+   "out": 3664
+  },
+  "stop_reason": "end_turn"
+ }
 }

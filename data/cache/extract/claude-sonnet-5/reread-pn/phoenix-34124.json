@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cyclone Technology LLC",
+   "model": null,
+   "part": "Equipment, equipment upgrades, parts, and repair services for existing runway rubber, paint, coating removal, and hard surface cleaners",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2000000,
+   "lead_time": null,
+   "sole_source_vendor": "Cyclone Technology LLC",
+   "reason": "Cyclone owns all intellectual property rights and is the sole supplier of its products.",
+   "equipment_class": "other equipment",
+   "installed_location": "Phoenix Sky Harbor International Airport, Phoenix Deer Valley Airport, Phoenix Goodyear Airport",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2566,
+  "out": 651
+ },
+ "model": "claude-sonnet-5"
+}

@@ -24,7 +24,8 @@
    "reason": "Contractor has engineered the control system, related servers, control equipment, microphones, cameras, control panels, intercom controllers, network video recorders, and speakers.",
    "equipment_class": "service/maintenance contract",
    "installed_location": "Police Administration Building",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -37,5 +38,12 @@
   "in": 21252,
   "out": 2280
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 21500,
+   "out": 2863
+  },
+  "stop_reason": "end_turn"
+ }
 }

@@ -11,7 +11,8 @@
    "reason": "A single vendor-MME-is the authorized parts and service provider for all these manufacturers",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Citywide",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "VacCon",
@@ -24,7 +25,8 @@
    "reason": "MME is the only local authorized dealer supporting all four manufacturers.",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Citywide",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Tiger",
@@ -37,7 +39,8 @@
    "reason": "A single vendor-MME-is the authorized parts and service provider for all these manufacturers",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Citywide",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Pipehunter",
@@ -50,7 +53,8 @@
    "reason": "MME is the only local authorized dealer supporting all four manufacturers.",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Citywide",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "VacCon",
@@ -63,7 +67,8 @@
    "reason": "MME is the only local authorized vendor that provides rental VacCon equipment.",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Citywide",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -76,5 +81,12 @@
   "in": 4951,
   "out": 939
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 5199,
+   "out": 1077
+  },
+  "stop_reason": "end_turn"
+ }
 }

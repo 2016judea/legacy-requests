@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "First Due, LLC",
+   "model": "First Due Size Up",
+   "part": "First Due Size Up Pre-Incident Planning Software licenses, maintenance, and support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1100000,
+   "lead_time": null,
+   "sole_source_vendor": "First Due, LLC",
+   "reason": "First Due, LLC, as the software developer, is the only company that offers First Due Size Up software licenses, maintenance, and support.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Broward County Office of Regional Communications and Technology",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 8853,
+  "out": 219
+ },
+ "model": "claude-sonnet-5"
+}

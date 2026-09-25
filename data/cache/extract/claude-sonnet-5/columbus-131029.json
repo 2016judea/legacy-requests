@@ -11,7 +11,8 @@
    "reason": "Southeastern Equipment is the sole authorized dealer for the BOMAG new product equipment categories listed below for the state of Ohio.",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Division of Fleet Management",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Case",
@@ -24,7 +25,8 @@
    "reason": "Southeastern Equipment Co, Inc.is the sole authorized Case CE dealership for Sales, Service and Parts with a branch located at 6430 Shier Rings Rd, Dublin, OH for City of Columbus in the State of Ohio.",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Division of Fleet Management",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Eager Beaver",
@@ -37,7 +39,8 @@
    "reason": "Southeastern Equipment Co., Inc. is the sole source for these Bomag, Case, Eager Beaver, Etnyre, Gradall, KM, Kobelco, Mauldin, Schwarze, Superior Broom and Vacall parts and services as they are the only local distributor and authorized service provider for this specific manufacturers.",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Division of Fleet Management",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Etnyre",
@@ -50,7 +53,8 @@
    "reason": "Southeastern Equipment Co., Inc. is the sole source for these Bomag, Case, Eager Beaver, Etnyre, Gradall, KM, Kobelco, Mauldin, Schwarze, Superior Broom and Vacall parts and services as they are the only local distributor and authorized service provider for this specific manufacturers.",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Division of Fleet Management",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Gradall",
@@ -76,7 +80,8 @@
    "reason": "Southeastern Equipment Co., Inc. is the sole source for these Bomag, Case, Eager Beaver, Etnyre, Gradall, KM, Kobelco, Mauldin, Schwarze, Superior Broom and Vacall parts and services as they are the only local distributor and authorized service provider for this specific manufacturers.",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Division of Fleet Management",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Kobelco",
@@ -154,5 +159,12 @@
   "in": 5633,
   "out": 3944
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 5881,
+   "out": 3421
+  },
+  "stop_reason": "end_turn"
+ }
 }

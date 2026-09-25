@@ -1,0 +1,44 @@
+{
+ "records": [
+  {
+   "manufacturer": "Gorman Rupp",
+   "model": "T series",
+   "part": "Self-Priming pumps for Effluent Channel Return Pump Station",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Self-Priming pumps shall be Gorman Rupp T series so as to ensure consistency and compatibility with other self-priming pumps onsite.",
+   "equipment_class": "pump",
+   "installed_location": "WRRF Pond 4",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allen Bradley",
+   "model": "Powerflex 755",
+   "part": "Variable Frequency Drives (VFDs) for adjustable pumping rates",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "VFDs shall be Allen Bradley Powerflex 755 so as to match other variable frequency drives at the WRRF site.",
+   "equipment_class": "motor/drive",
+   "installed_location": "WRRF",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 8235,
+  "out": 376
+ },
+ "model": "claude-sonnet-5"
+}

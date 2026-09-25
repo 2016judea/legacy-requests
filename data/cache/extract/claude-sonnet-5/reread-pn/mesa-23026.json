@@ -1,0 +1,44 @@
+{
+ "records": [
+  {
+   "manufacturer": "Global",
+   "model": null,
+   "part": "Street sweeper parts, repairs, and warranty services",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 150000,
+   "lead_time": null,
+   "sole_source_vendor": "AZ Wastewater Industries, Inc.",
+   "reason": "AZ Wastewater Industries, Inc. is the sole authorized service provider for repairs and replacement parts for both Global Sweepers and SECA Sewer Cleaner trucks.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SECA",
+   "model": null,
+   "part": "Sewer cleaner truck parts, repairs, and warranty services",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 150000,
+   "lead_time": null,
+   "sole_source_vendor": "AZ Wastewater Industries, Inc.",
+   "reason": "AZ Wastewater Industries, Inc. is the sole authorized service provider for repairs and replacement parts for both Global Sweepers and SECA Sewer Cleaner trucks.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2287,
+  "out": 418
+ },
+ "model": "claude-sonnet-5"
+}

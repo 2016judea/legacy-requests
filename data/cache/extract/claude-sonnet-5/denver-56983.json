@@ -11,7 +11,8 @@
    "reason": "Purchase pursuant to SOLE SOURCE \u2013 Bidding Exception Justification \u2013 DRMC Sec. 20-64 (a)(1)",
    "equipment_class": "other equipment",
    "installed_location": "Denver International Airport",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 17203,
   "out": 209
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 17451,
+   "out": 204
+  },
+  "stop_reason": "end_turn"
+ }
 }

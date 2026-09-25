@@ -11,7 +11,8 @@
    "reason": "The new equipment will replace a ten-year-old system that is nearing its end of life.",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "Mesa Police Department Forensic Services Toxicology Unit",
-   "is_obsolete": true
+   "is_obsolete": true,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 1987,
   "out": 215
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 2235,
+   "out": 228
+  },
+  "stop_reason": "end_turn"
+ }
 }

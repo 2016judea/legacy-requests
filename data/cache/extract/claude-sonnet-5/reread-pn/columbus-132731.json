@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vactor",
+   "model": null,
+   "part": "Vactor OEM Parts used to repair and maintain City sewer cleaning truck equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Jack Doheny Companies, Inc.",
+   "reason": "Jack Doheny Companies, Inc. is the sole source for these parts as they are the only local distributor for this specific manufacturer.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 3419,
+  "out": 204
+ },
+ "model": "claude-sonnet-5"
+}

@@ -102,7 +102,8 @@
    "reason": "Sound Communications Inc. is the proprietary software licensing and maintenance contractor for the City's current Audio Digital Communications Recording Systems",
    "equipment_class": "other equipment",
    "installed_location": "Primary Communication Center",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Intel",
@@ -219,7 +220,8 @@
    "reason": "Sound Communications Inc. is the proprietary software licensing and maintenance contractor for the City's current Audio Digital Communications Recording Systems",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Primary Communication Center",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Motorola",
@@ -310,7 +312,8 @@
    "reason": "Sound Communications Inc. is the proprietary software licensing and maintenance contractor for the City's current Audio Digital Communications Recording Systems",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Arlingate",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -336,5 +339,12 @@
   "in": 8018,
   "out": 5113
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 8266,
+   "out": 9310
+  },
+  "stop_reason": "end_turn"
+ }
 }

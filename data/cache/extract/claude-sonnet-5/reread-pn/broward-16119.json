@@ -1,0 +1,128 @@
+{
+ "records": [
+  {
+   "manufacturer": "Communico",
+   "model": "Interact",
+   "part": "Self-service kiosk functionality (self-checkout, item lookup, catalog browsing, event check-in, account management, self-registration)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 83817.0,
+   "lead_time": null,
+   "sole_source_vendor": "Communico LLC",
+   "reason": "There is only one product available that can meet all of these needs, which is provided by Communico, called 'Interact.'",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Broward County Libraries Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Communico",
+   "model": "Roam",
+   "part": "extending this proprietary software to staff users with a mobile device that can manage events and rooms, checkout items, and search for physical items in the library",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 51433.5,
+   "lead_time": null,
+   "sole_source_vendor": "Communico LLC",
+   "reason": "'Roam' and 'Schedule' cannot be compared with any other service as they are proprietary and there are no other similar services known.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Broward County Libraries Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Communico",
+   "model": "Schedule",
+   "part": "provides the ability for external customers to reserve time for a certain function, such as an appointment with the Bienes Museum for research",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 21430.5,
+   "lead_time": null,
+   "sole_source_vendor": "Communico LLC",
+   "reason": "'Roam' and 'Schedule' cannot be compared with any other service as they are proprietary and there are no other similar services known.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Broward County Libraries Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Communico",
+   "model": "Core (Control Panel, Exchange, Create)",
+   "part": "Centralized management system with data exchange and content management tools",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 19915.0,
+   "lead_time": null,
+   "sole_source_vendor": "Communico LLC",
+   "reason": "Communico LLC offers unique software as a service (SaaS) solution, with individual modules all connected to the same platform, thereby eliminating the need for additional modification and contracts with multiple vendors.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Broward County Libraries Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Communico",
+   "model": "Attend",
+   "part": "Event and program management capabilities",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 14287.0,
+   "lead_time": null,
+   "sole_source_vendor": "Communico LLC",
+   "reason": "Communico LLC offers unique software as a service (SaaS) solution, with individual modules all connected to the same platform, thereby eliminating the need for additional modification and contracts with multiple vendors.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Broward County Libraries Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Communico",
+   "model": "Reserve",
+   "part": "Room and asset management system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 14287.0,
+   "lead_time": null,
+   "sole_source_vendor": "Communico LLC",
+   "reason": "Communico LLC offers unique software as a service (SaaS) solution, with individual modules all connected to the same platform, thereby eliminating the need for additional modification and contracts with multiple vendors.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Broward County Libraries Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Communico",
+   "model": "Broadcast",
+   "part": "Digital signage system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 14287.0,
+   "lead_time": null,
+   "sole_source_vendor": "Communico LLC",
+   "reason": "Communico LLC offers unique software as a service (SaaS) solution, with individual modules all connected to the same platform, thereby eliminating the need for additional modification and contracts with multiple vendors.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Broward County Libraries Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Communico",
+   "model": "Connect",
+   "part": "Mobile app for patron engagement",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 34289.0,
+   "lead_time": null,
+   "sole_source_vendor": "Communico LLC",
+   "reason": "Communico LLC offers unique software as a service (SaaS) solution, with individual modules all connected to the same platform, thereby eliminating the need for additional modification and contracts with multiple vendors.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Broward County Libraries Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 61438,
+  "out": 5695
+ },
+ "model": "claude-sonnet-5"
+}

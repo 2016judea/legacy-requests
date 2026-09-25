@@ -11,7 +11,8 @@
    "reason": "Granicus, LLC, owns the rights to Legistar the Legislative Management Software System, and is engaged in the business of providing various \"goods and services\"",
    "equipment_class": "SCADA/controls/software",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 12519,
   "out": 223
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 12767,
+   "out": 237
+  },
+  "stop_reason": "end_turn"
+ }
 }

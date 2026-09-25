@@ -11,7 +11,16 @@
    "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
    "equipment_class": "communications/radio",
    "installed_location": "City of Columbus 800 MHz tower sites",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "SVC02SVC0201A",
+    "SVC02SVC0344A",
+    "SVC02SVC0343A",
+    "LSV01S02973A",
+    "SVC04SVC0169A",
+    "SVC02SVC0433A",
+    "LSV01S01109A"
+   ]
   },
   {
    "manufacturer": "Motorola",
@@ -115,5 +124,12 @@
   "in": 13534,
   "out": 1342
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 13782,
+   "out": 302
+  },
+  "stop_reason": "end_turn"
+ }
 }

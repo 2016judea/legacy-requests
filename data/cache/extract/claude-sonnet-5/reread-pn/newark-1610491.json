@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "GovPilot",
+   "model": "Marriage Template Module and OPRA Template Module",
+   "part": "Hosting, support, upgrades, maintenance and managed services of computer hardware and software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 91560.0,
+   "lead_time": null,
+   "sole_source_vendor": "Property Pilot LLC dba GovPilot",
+   "reason": "GovPilot, has represented that they are qualified, by their training and experience, to provide the required services and that they have the exclusive right to make and sell these goods and services",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Office of the City Clerk",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 12772,
+  "out": 243
+ },
+ "model": "claude-sonnet-5"
+}

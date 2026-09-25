@@ -1,0 +1,44 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vislink Technologies",
+   "model": null,
+   "part": "Airborne Video Downlink System",
+   "part_numbers": [],
+   "quantity": "Two",
+   "price_usd": 227000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Vislink Technologies",
+   "reason": "The Police Department and Procurement Services recommend awarding the contract to the sole source vendor, Vislink Technologies, at $227,000.00.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Mesa Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vislink Technologies",
+   "model": null,
+   "part": "Ground-Based Antenna (Addition)",
+   "part_numbers": [],
+   "quantity": "One",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vislink Technologies",
+   "reason": "The Police Department and Procurement Services recommend awarding the contract to the sole source vendor, Vislink Technologies, at $227,000.00.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Mesa Police Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2657,
+  "out": 490
+ },
+ "model": "claude-sonnet-5"
+}

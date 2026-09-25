@@ -1,0 +1,58 @@
+{
+ "records": [
+  {
+   "manufacturer": "Microfocus",
+   "model": null,
+   "part": "Microfocus - Annual Maintenance; Coverage Period: Oct 01 2024 to Sept 30 2025",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 16954.74,
+   "lead_time": null,
+   "sole_source_vendor": "Hansen Banner, LLC",
+   "reason": "it has been determined that Hansen Banner, LLC is the sole distributor of the software products associated with the CUBS system, and does not utilize distributors or resellers for any services associated with its software products",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Department of Public Utilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hansen Banner, LLC",
+   "model": "Banner CIS",
+   "part": "Banner CIS Maintenance- Annual Maintenance; Coverage Period: Oct 01, 2024 to Sept 30, 2025",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 486392.6,
+   "lead_time": null,
+   "sole_source_vendor": "Hansen Banner, LLC",
+   "reason": "it has been determined that Hansen Banner, LLC is the sole distributor of the software products associated with the CUBS system, and does not utilize distributors or resellers for any services associated with its software products",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Department of Public Utilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "TCP+ & MV90 Interface",
+   "part": "TCP+ & MV90 Interface; Annual Maintenance; Coverage Period: Oct 01, 2024 to Sept 30, 2025",
+   "part_numbers": [],
+   "quantity": "1.00",
+   "price_usd": 123520.25,
+   "lead_time": null,
+   "sole_source_vendor": "Hansen Banner, LLC",
+   "reason": "it has been determined that Hansen Banner, LLC is the sole distributor of the software products associated with the CUBS system, and does not utilize distributors or resellers for any services associated with its software products",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Department of Public Utilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 4654,
+  "out": 1594
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Environmental Systems Research Institute, Inc. (ESRI)",
+   "model": "ArcGIS Enterprise Agreement (EA)",
+   "part": "Software licensing, maintenance and support for the City's geographic information systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 525000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Environmental Systems Research Institute, Inc.",
+   "reason": "Esri (which is the City's technology standard for GIS software) is the sole provider of licensing, maintenance and support for its GIS software products.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Columbus",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 6722,
+  "out": 242
+ },
+ "model": "claude-sonnet-5"
+}

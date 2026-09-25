@@ -1,0 +1,72 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Vendor Service Contract for Elevator Maintenance, Repairs and Testing Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1224852.09,
+   "lead_time": null,
+   "sole_source_vendor": "Minnesota Elevator, Inc. dba MEI Total Elevator Solutions",
+   "reason": "MEI was selected because of an existing contract with Milwaukee Public Library and was considered further based on positive feedback from the Library Facilities Manager.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Police Administration Building",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "System Innovators",
+   "model": "iNovah",
+   "part": "Vendor Service Contract for the Proprietary Software Support and Maintenance Agreement for the iNovah Software in Use Within the City Treasurer Office",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 928191.95,
+   "lead_time": null,
+   "sole_source_vendor": "System Innovators \u2013 A Division of N. Harris Computer Corporation",
+   "reason": "iNovah cashiering software is used to process and account for all payments tendered within the Office of the City Treasurer.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City Treasurer Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Caterpillar",
+   "model": null,
+   "part": "Vendor Service Contract for Generator Maintenance covering warranty, annual and monthly maintenance for Caterpillar backup power generators",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 329212.0,
+   "lead_time": null,
+   "sole_source_vendor": "JFTCO, Inc. a/k/a John Fabick Tractor Company, Fabick Cat, Fabick Power Systems, Inc., Fabick Rents",
+   "reason": "Thus, Fabick Cat is solely authorized to perform warranty, preventative maintenance, and repairs for all Caterpillar products within this service region.",
+   "equipment_class": "generator",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Records Management System (RMS)",
+   "part": "Vendor Service Contract for Annual Maintenance for Records Management System (RMS), including upgrade to the CentralSquare Unify Hub",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 259060.0,
+   "lead_time": null,
+   "sole_source_vendor": "CentralSquare Technologies, LLC",
+   "reason": "The RMS is proprietary to CentralSquare Technologies, LLC; therefore, no other vendors have the authority to maintain the software applicable to the RMS System.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Milwaukee Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 18491,
+  "out": 7916
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Electrical service extension (circuit extension, poles, switchgear connection) to FAX bus facility",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 194704.11,
+   "lead_time": null,
+   "sole_source_vendor": "Pacific Gas and Electric Company (PG&E)",
+   "reason": "despite FAX's efforts to locate additional electrical utility service providers, it has been determined that PG&E is the only available electrical utility provider in the region surrounding FAX's facility",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "FAX Facility, 2223 G Street, Fresno (Municipal Service Center)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 21509,
+  "out": 253
+ },
+ "model": "claude-sonnet-5"
+}

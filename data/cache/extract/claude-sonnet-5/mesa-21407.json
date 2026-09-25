@@ -11,7 +11,8 @@
    "reason": "The Mesa Police Department and Procurement Services recommend awarding the contract to the sole source vendor, Axon Enterprises, Inc.",
    "equipment_class": "other equipment",
    "installed_location": "Mesa Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -37,7 +38,8 @@
    "reason": "The Mesa Police Department and Procurement Services recommend awarding the contract to the sole source vendor, Axon Enterprises, Inc.",
    "equipment_class": "other equipment",
    "installed_location": "Mesa Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -76,7 +78,8 @@
    "reason": "The Mesa Police Department and Procurement Services recommend awarding the contract to the sole source vendor, Axon Enterprises, Inc.",
    "equipment_class": "other equipment",
    "installed_location": "Mesa Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -89,7 +92,8 @@
    "reason": "Provides three technical account managers for the next two years",
    "equipment_class": "service/maintenance contract",
    "installed_location": "Mesa Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -102,7 +106,8 @@
    "reason": "New Body-worn cameras (BWCs) - Taser X",
    "equipment_class": "other equipment",
    "installed_location": "Mesa Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -128,7 +133,8 @@
    "reason": "With a maximum range of 45 feet, TASER 10 creates more time and space to de-escalate and resolve conflicts.",
    "equipment_class": "other equipment",
    "installed_location": "Mesa Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -141,7 +147,8 @@
    "reason": "CEW: 809 Taser 7 system",
    "equipment_class": "other equipment",
    "installed_location": "Mesa Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -154,5 +161,12 @@
   "in": 16961,
   "out": 1836
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 17209,
+   "out": 5292
+  },
+  "stop_reason": "end_turn"
+ }
 }

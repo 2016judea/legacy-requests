@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "GE",
+   "model": "Orbit",
+   "part": "900 MHz telemetry radios for SCADA remote pump station communication",
+   "part_numbers": [],
+   "quantity": "110",
+   "price_usd": 317000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Applied Technology Group, Inc.",
+   "reason": "Applied Technology Group, Inc. is the only authorized vendor of GE Orbit 900 MHz radios in this region.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Regional Wastewater Control Facility (RWCF) and remote water, sanitary sewer, and stormwater pump stations, Citywide",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 3904,
+  "out": 236
+ },
+ "model": "claude-sonnet-5"
+}

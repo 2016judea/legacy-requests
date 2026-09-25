@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "iReportSource, Inc.",
+   "model": "iReport",
+   "part": "Technical support, maintenance, and hosting of the iReport software system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 109000.0,
+   "lead_time": "1 year (4/1/25 through 3/31/26)",
+   "sole_source_vendor": "iReportSource, Inc.",
+   "reason": "iReportSource, Inc. is the sole provider of support and hosting services for the iReport application",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 5781,
+  "out": 202
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,72 @@
+{
+ "records": [
+  {
+   "manufacturer": "Brock Solutions",
+   "model": "SmartSort",
+   "part": "Baggage handling system controls and software services (sole source designation for coordination/connection to BHS controls software)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 600000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Brock Solutions US Systems LLC",
+   "reason": "the current hardware and software for the baggage system is a proprietary item to Brock that cannot be duplicated...certain controls are based on Brock's proprietary SmartSort product and intellectual property, and that they are the only company with the source code",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fort Lauderdale-Hollywood International Airport (FLL)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Johnson Controls",
+   "model": "METASYS",
+   "part": "Building automation system expansion and modification services (Metasys Energy Management Control System)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2900000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Johnson Controls, Inc.",
+   "reason": "The Metasys Energy Management Control System utilized at Ft Lauderdale-Hollywood International Airport was manufactured (OEM) and installed by Johnson Controls, and has been the maintainer of this proprietary building controls system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fort Lauderdale-Hollywood International Airport (FLL)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "American Dynamics/Software House",
+   "model": null,
+   "part": "Closed-circuit television (CCTV) system installation, repair, and maintenance - storage devices and software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Micro Security Systems Integration, Inc.",
+   "reason": "MSSI is currently the only authorized single source for product distribution at FLL, for the storage devices and software provided by American Dynamics/Software House.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fort Lauderdale-Hollywood International Airport (FLL)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Access control system - 24/7 support/maintenance, software licenses, equipment enhancements",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 10000000.0,
+   "lead_time": null,
+   "sole_source_vendor": "SGI Matrix LLC",
+   "reason": "There is currently a vast amount of proprietary software and hardware interwoven into the majority of the fabric here at the Fort Laudedale-Hollywood International Airport.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Fort Lauderdale-Hollywood International Airport (FLL)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 10,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 1
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 60227,
+  "out": 3157
+ },
+ "model": "claude-sonnet-5"
+}

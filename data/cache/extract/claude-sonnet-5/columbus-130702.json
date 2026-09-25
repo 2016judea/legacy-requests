@@ -11,7 +11,8 @@
    "reason": "Intergraph Corporation is the only known company that can provide maintenance, support, and licensing for the Hexagon product.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Columbus Division of Fire",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Hexagon Safety, Infrastructure & Geospatial Division",
@@ -63,5 +64,12 @@
   "in": 64045,
   "out": 4001
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 64293,
+   "out": 5046
+  },
+  "stop_reason": "end_turn"
+ }
 }

@@ -11,7 +11,10 @@
    "reason": "No other company provides maintenance and support for the Geonexus product.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Department of Public Utilities",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "4933603000082972093"
+   ]
   },
   {
    "manufacturer": "GeoNexus Technologies L.L.C.",
@@ -37,5 +40,12 @@
   "in": 5068,
   "out": 439
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 5316,
+   "out": 448
+  },
+  "stop_reason": "end_turn"
+ }
 }

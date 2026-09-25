@@ -11,7 +11,8 @@
    "reason": "Northeast-Western Energy Systems USA LLC is currently is the sole provider of Jenbacher parts, factory authorized maintenance and service in the northeastern United States",
    "equipment_class": "generator",
    "installed_location": "Jackson Pike Wastewater Treatment Plant",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Jenbacher",
@@ -24,7 +25,8 @@
    "reason": "Northeast Western Energy Systems USA is the Sole Source for authentic Jenbacher spare parts.",
    "equipment_class": "generator",
    "installed_location": "Jackson Pike Wastewater Treatment Plant",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Jenbacher",
@@ -37,7 +39,8 @@
    "reason": "NES-WES currently remains the sole factory authorized-approved provider in the northeast, and specifically Ohio, for Jenbacher gas engine-generator sets, Jenbacher parts, warranty, and factory authorized maintenance and repair Services.",
    "equipment_class": "generator",
    "installed_location": "Jackson Pike Wastewater Treatment Plant",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -50,5 +53,12 @@
   "in": 7948,
   "out": 694
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 8196,
+   "out": 665
+  },
+  "stop_reason": "end_turn"
+ }
 }

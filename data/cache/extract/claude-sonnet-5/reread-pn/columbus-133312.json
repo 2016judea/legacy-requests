@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Data Ticket, Inc.",
+   "model": null,
+   "part": "Citation Processing Management System and Permit Management System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1500000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Data Ticket, Inc.",
+   "reason": "Data Ticket, Inc. is the sole proprietor and manufacturer of the equipment, expertise, and software needed to manage the citation processing and permit management system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 4546,
+  "out": 509
+ },
+ "model": "claude-sonnet-5"
+}

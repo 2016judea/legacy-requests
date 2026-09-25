@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "CourtView Justice Solutions, Inc.",
+   "model": "CourtView",
+   "part": "Customizing the add-on integration to meet the needs of the Municipal Court Clerk to issue FedEx service (Commercial Carrier software)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 23865.0,
+   "lead_time": null,
+   "sole_source_vendor": "CourtView Justice Solutions, Inc.",
+   "reason": "The CourtView software is proprietary property of CourtView Justice Solutions Inc. d/b/a equivant and protected by law. Another party cannot alter, modify, change, manipulate or provide maintenance for this product without infringing upon equivant's ownership rights.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Franklin County Municipal Court, Columbus, Ohio",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 15971,
+  "out": 301
+ },
+ "model": "claude-sonnet-5"
+}

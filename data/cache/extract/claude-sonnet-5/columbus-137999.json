@@ -11,7 +11,19 @@
    "reason": "The vendor is the sole developer of the software and provides all licenses, support, maintenance, and modifications required to keep the system up to date.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Division of Water, Division of Power, and Division of Water Reclamation",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "Falcon/DMS",
+    "Falcon/SVP",
+    "Falcon/Enterprise",
+    "Falcon/Indexer",
+    "Falcon/Deliver",
+    "Falcon/PDF Publisher",
+    "Falcon/FCS",
+    "Falcon/Workflow",
+    "Falcon/Transmittal",
+    "Falcon/API"
+   ]
   },
   {
    "manufacturer": "Tom Synnott Associates, Inc.",
@@ -50,5 +62,12 @@
   "in": 7049,
   "out": 757
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 7297,
+   "out": 1021
+  },
+  "stop_reason": "end_turn"
+ }
 }

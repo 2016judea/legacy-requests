@@ -1,0 +1,72 @@
+{
+ "records": [
+  {
+   "manufacturer": "Real Time Networks Inc.",
+   "model": "Key Tracer System",
+   "part": "Key cabinet lock box system to secure keys to Department of Sewers and Drains vehicles",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 80755.0,
+   "lead_time": null,
+   "sole_source_vendor": "Real Time Networks Inc.",
+   "reason": "RTN's products, due to their customized and proprietary nature, are not available through any other providers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Jackson Pike Waste Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Real Time Networks Inc.",
+   "model": "Door Exit Solution",
+   "part": "Proprietary door exit/key exit security system using active RFID technology",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Real Time Networks Inc.",
+   "reason": "RTN's products, due to their customized and proprietary nature, are not available through any other providers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Jackson Pike Waste Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Real Time Networks Inc.",
+   "model": "Asset Tracer Locker System",
+   "part": "Modular locker system for secure and accountable asset management",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Real Time Networks Inc.",
+   "reason": "The Asset Tracer Locker system stands as the only modular locker solution in the market",
+   "equipment_class": "other equipment",
+   "installed_location": "Jackson Pike Waste Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Real Time Networks Inc.",
+   "model": "RTNConnect",
+   "part": "Software integration solution enabling data exchange between systems for user profiles, credentials, and asset assignments",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Real Time Networks Inc.",
+   "reason": "This exclusivity extends to sales, support, configuration, and software upgrades, making RTN the sole source for these advanced technology solutions.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Jackson Pike Waste Water Treatment Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 5244,
+  "out": 815
+ },
+ "model": "claude-sonnet-5"
+}

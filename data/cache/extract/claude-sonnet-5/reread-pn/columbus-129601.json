@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Medical Priority Consultants Inc., DBA Priority Dispatch",
+   "model": "ProQa",
+   "part": "Software maintenance and support agreement (One Plan Maintenance Package) for ProQa software application, license renewal, services & support",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 66867.0,
+   "lead_time": null,
+   "sole_source_vendor": "Medical Priority Consultants Inc., DBA Priority Dispatch",
+   "reason": "Medical Priority Consultants Inc. dba Priority Dispatch is the only known provider of maintenance, support, and licensing of their software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City's 911 Emergency and back-up Dispatching Center(s)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 6249,
+  "out": 274
+ },
+ "model": "claude-sonnet-5"
+}

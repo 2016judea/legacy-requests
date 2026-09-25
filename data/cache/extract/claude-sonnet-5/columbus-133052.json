@@ -11,7 +11,10 @@
    "reason": "we are the developer and sole distributor of LABWORKS software. We do not have any distributors or resellers due to the complex nature of our product.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "B6W60-01CS200-000XT72-0AA1"
+   ]
   }
  ],
  "info": {
@@ -24,5 +27,12 @@
   "in": 5692,
   "out": 219
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 5940,
+   "out": 260
+  },
+  "stop_reason": "end_turn"
+ }
 }

@@ -11,7 +11,8 @@
    "reason": "(Sole Source)",
    "equipment_class": "communications/radio",
    "installed_location": "TOPAZ Regional Wireless Cooperative (Citywide)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Motorola",
@@ -24,7 +25,8 @@
    "reason": "(Sole Source)",
    "equipment_class": "communications/radio",
    "installed_location": "TOPAZ Regional Wireless Cooperative (Citywide)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -37,5 +39,12 @@
   "in": 2415,
   "out": 376
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 2663,
+   "out": 432
+  },
+  "stop_reason": "end_turn"
+ }
 }

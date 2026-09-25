@@ -1,0 +1,118 @@
+{
+ "records": [
+  {
+   "manufacturer": "Continental Blower LLC",
+   "model": null,
+   "part": "All parts, maintenance, and repairs for existing electric motor driven, multi-stage centrifugal blower units used in aeration process",
+   "part_numbers": [],
+   "quantity": "13",
+   "price_usd": 168531,
+   "lead_time": null,
+   "sole_source_vendor": "Continental Blower LLC",
+   "reason": "Continental Blower LLC (Continental) is the manufacturer and only authorized service provider for the blower units located at NRWWTP.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "North Regional Wastewater Treatment Plant (NRWWTP), Pompano Beach, Florida",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Continental Blower LLC",
+   "model": "500.05",
+   "part": "Semiannual Preventive Maintenance Inspections for Continental Blowers at Module C Building",
+   "part_numbers": [
+    "18500007",
+    "18500009",
+    "18500008"
+   ],
+   "quantity": "2 lump sum",
+   "price_usd": 22520.0,
+   "lead_time": null,
+   "sole_source_vendor": "Continental Blower LLC",
+   "reason": "Blower equipment is manufactured, fabricated, installed and sold by Continental Blower, LLC. The parts are not interchangeable with any other brand and the equipment can be serviced only by Continental authorized service technicians.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Module C Building, North Regional Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Continental Blower LLC",
+   "model": "500.05",
+   "part": "Semiannual Preventive Maintenance Inspections for Continental Blowers at Module D/E Building",
+   "part_numbers": [
+    "18500019",
+    "18500021",
+    "18500020",
+    "18500018",
+    "18500017"
+   ],
+   "quantity": "2 lump sum",
+   "price_usd": 28010.0,
+   "lead_time": null,
+   "sole_source_vendor": "Continental Blower LLC",
+   "reason": "Blower equipment is manufactured, fabricated, installed and sold by Continental Blower, LLC. The parts are not interchangeable with any other brand and the equipment can be serviced only by Continental authorized service technicians.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Module D/E Building, North Regional Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Continental Blower LLC",
+   "model": "500.05 & 600A.03",
+   "part": "Semiannual Preventive Maintenance Inspections for Continental Blowers at Module A/B Building",
+   "part_numbers": [
+    "18500016",
+    "18500015",
+    "18600024",
+    "18600023",
+    "18600022"
+   ],
+   "quantity": "2 lump sum",
+   "price_usd": 28010.0,
+   "lead_time": null,
+   "sole_source_vendor": "Continental Blower LLC",
+   "reason": "Blower equipment is manufactured, fabricated, installed and sold by Continental Blower, LLC. The parts are not interchangeable with any other brand and the equipment can be serviced only by Continental authorized service technicians.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Module A/B Building, North Regional Wastewater Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Continental Blower LLC",
+   "model": null,
+   "part": "Parts and Materials purchased at a fixed percentage discount off Manufacturer's Published Catalog/Price List",
+   "part_numbers": [],
+   "quantity": "1 lump sum",
+   "price_usd": 40000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Continental Blower LLC",
+   "reason": "As per the attached correspondence, Continental Blower, LLC is the sole source manufacturer and exclusive distributor of all parts and equipment.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "North Regional Wastewater Treatment Plant (NRWWTP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Continental Blower LLC",
+   "model": null,
+   "part": "Continental Blower Parts, Maintenance, and Repairs open-end contract (Quotation No. OPN2130129Q1) for Water and Wastewater Operations Division",
+   "part_numbers": [
+    "OPN2130129Q1"
+   ],
+   "quantity": null,
+   "price_usd": 842655,
+   "lead_time": null,
+   "sole_source_vendor": "Continental Blower LLC",
+   "reason": "Continental Blower, LLC is the original equipment manufacturer (OEM) of the subject proprietary equipment, and as such there is no other combination of OEM supplier and OEM authorized installer that can offer both factory approved components and factory approved installation services.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "North Regional Wastewater Treatment Plant (NRWWTP)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 13963,
+  "out": 3207
+ },
+ "model": "claude-sonnet-5"
+}

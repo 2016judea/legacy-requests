@@ -1,0 +1,46 @@
+{
+ "records": [
+  {
+   "manufacturer": "Duke's Root Control, Inc.",
+   "model": "Vaporooter",
+   "part": "Annual purchase of Vaporooter\u00ae herbicide for sewer mainline root control, applied Citywide in identified City sanitary sewer mainlines",
+   "part_numbers": [
+    "V-F-SAN-VAPOC-01X05G"
+   ],
+   "quantity": "48 (5-Gal boxes per quote)",
+   "price_usd": 180000,
+   "lead_time": null,
+   "sole_source_vendor": "Affect Industries, Inc.",
+   "reason": "efforts to locate all possible suppliers of Vaporooter\u00ae were unsuccessful as Duke's Root Control, Inc., (Duke's) is the EPA registrant for and sole manufacturer of Vaporooter\u00ae",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Citywide sanitary sewer mainlines",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vactor",
+   "model": "Ramjet",
+   "part": "Jet rodder vehicles specially outfitted with Vaporooter\u00ae machinery",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "WMD's Wastewater Management Division (WMD) owns and operates two Vactor Ramjet (jet rodder) vehicles specially outfitted with Vaporooter\u00ae machinery",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "City of Fresno Wastewater Management Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 3,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 31044,
+  "out": 535
+ },
+ "model": "claude-sonnet-5"
+}

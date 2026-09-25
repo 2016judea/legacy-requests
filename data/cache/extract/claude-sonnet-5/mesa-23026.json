@@ -11,7 +11,8 @@
    "reason": "AZ Wastewater Industries, Inc. is the sole authorized service provider for repairs and replacement parts for both Global Sweepers and SECA Sewer Cleaner trucks.",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Citywide",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "SECA",
@@ -24,7 +25,8 @@
    "reason": "AZ Wastewater Industries, Inc. is the sole authorized service provider for repairs and replacement parts for both Global Sweepers and SECA Sewer Cleaner trucks.",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Citywide",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -37,5 +39,12 @@
   "in": 2039,
   "out": 416
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 2287,
+   "out": 418
+  },
+  "stop_reason": "end_turn"
+ }
 }

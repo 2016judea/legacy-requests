@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cornerstone OnDemand, Inc.",
+   "model": "Cornerstone Learning Management Software (CyberU Program) - Content Subscription: Gold",
+   "part": "Software Support and Maintenance / Content Subscription for Cornerstone Learning Management Software",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 31045.35,
+   "lead_time": null,
+   "sole_source_vendor": "Cornerstone OnDemand, Inc.",
+   "reason": "it is affirmed that Cornerstone OnDemand is the sole source in providing support and software updates for the Cornerstone OnDemand Learning Management Software and Content used by The City of Columbus",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Utilities (Columbus Water and Power)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 8206,
+  "out": 289
+ },
+ "model": "claude-sonnet-5"
+}

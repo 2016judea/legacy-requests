@@ -1,0 +1,128 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tritech Software Systems, a CentralSquare company",
+   "model": "Enterprise Asset Mgmt (work and asset management system)",
+   "part": "Maintenance and support of the City's work and asset management system",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 51113.45,
+   "lead_time": null,
+   "sole_source_vendor": "Tritech Software Systems, a CentralSquare company",
+   "reason": "The City's work and asset management system is a proprietary system from Tritech Software Systems, a CentralSquare company, and as such, Tritech Software Systems is the sole provider of maintenance and support.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tritech Software Systems, a CentralSquare company",
+   "model": "API",
+   "part": "Software maintenance/support module - API",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 1188.65,
+   "lead_time": null,
+   "sole_source_vendor": "Tritech Software Systems, a CentralSquare company",
+   "reason": "This letter is to confirm that Enterprise Asset Mgmt is a sole source product, manufactured, sold, serviced, and distributed exclusively by CentralSquare Technologies, LLC",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tritech Software Systems, a CentralSquare company",
+   "model": "AssetManagement",
+   "part": "Software maintenance/support module - AssetManagement",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 17830.46,
+   "lead_time": null,
+   "sole_source_vendor": "Tritech Software Systems, a CentralSquare company",
+   "reason": "This letter is to confirm that Enterprise Asset Mgmt is a sole source product, manufactured, sold, serviced, and distributed exclusively by CentralSquare Technologies, LLC",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tritech Software Systems, a CentralSquare company",
+   "model": "Custom",
+   "part": "Software maintenance/support module - Custom",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 3565.98,
+   "lead_time": null,
+   "sole_source_vendor": "Tritech Software Systems, a CentralSquare company",
+   "reason": "This letter is to confirm that Enterprise Asset Mgmt is a sole source product, manufactured, sold, serviced, and distributed exclusively by CentralSquare Technologies, LLC",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tritech Software Systems, a CentralSquare company",
+   "model": "GISDesktop",
+   "part": "Software maintenance/support module - GISDesktop",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 2377.31,
+   "lead_time": null,
+   "sole_source_vendor": "Tritech Software Systems, a CentralSquare company",
+   "reason": "This letter is to confirm that Enterprise Asset Mgmt is a sole source product, manufactured, sold, serviced, and distributed exclusively by CentralSquare Technologies, LLC",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tritech Software Systems, a CentralSquare company",
+   "model": "GISWeb",
+   "part": "Software maintenance/support module - GISWeb",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 2377.31,
+   "lead_time": null,
+   "sole_source_vendor": "Tritech Software Systems, a CentralSquare company",
+   "reason": "This letter is to confirm that Enterprise Asset Mgmt is a sole source product, manufactured, sold, serviced, and distributed exclusively by CentralSquare Technologies, LLC",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tritech Software Systems, a CentralSquare company",
+   "model": "MobileManagement",
+   "part": "Software maintenance/support module - MobileManagement",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 2377.31,
+   "lead_time": null,
+   "sole_source_vendor": "Tritech Software Systems, a CentralSquare company",
+   "reason": "This letter is to confirm that Enterprise Asset Mgmt is a sole source product, manufactured, sold, serviced, and distributed exclusively by CentralSquare Technologies, LLC",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tritech Software Systems, a CentralSquare company",
+   "model": "WorkManagement",
+   "part": "Software maintenance/support module - WorkManagement",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 21396.43,
+   "lead_time": null,
+   "sole_source_vendor": "Tritech Software Systems, a CentralSquare company",
+   "reason": "This letter is to confirm that Enterprise Asset Mgmt is a sole source product, manufactured, sold, serviced, and distributed exclusively by CentralSquare Technologies, LLC",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 4690,
+  "out": 1806
+ },
+ "model": "claude-sonnet-5"
+}

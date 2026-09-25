@@ -11,7 +11,8 @@
    "reason": "Trojan Technologies is the only source for replacement parts and repair services in the United States.",
    "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
    "installed_location": "Regional Wastewater Control Facility (RWCF)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 22221,
   "out": 219
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 22469,
+   "out": 237
+  },
+  "stop_reason": "end_turn"
+ }
 }

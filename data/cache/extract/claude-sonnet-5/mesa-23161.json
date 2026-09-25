@@ -11,7 +11,8 @@
    "reason": "The Mesa Police Department and Procurement Services recommend authorizing the purchase of an integrated data platform with the sole source vendor, Peregrine, at $216,000 based on estimated requirements for a pilot program.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Mesa Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 2934,
   "out": 226
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 3182,
+   "out": 226
+  },
+  "stop_reason": "end_turn"
+ }
 }

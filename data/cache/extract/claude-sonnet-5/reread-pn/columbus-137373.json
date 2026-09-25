@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "PowerDMS, Inc.",
+   "model": "PowerDMS",
+   "part": "User licenses for document management system (PowerPolicy, PowerTraining, PowerStandards) for Division of Police, renewal",
+   "part_numbers": [],
+   "quantity": "multiple user licenses",
+   "price_usd": 53074.61,
+   "lead_time": null,
+   "sole_source_vendor": "GovernmentJobs.com, Inc. (D/B/A/ NEOGOV), parent company of PowerDMS, Inc.",
+   "reason": "PowerDMS is the only software license that is approved and sanctioned by CALEA.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Police",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 15938,
+  "out": 261
+ },
+ "model": "claude-sonnet-5"
+}

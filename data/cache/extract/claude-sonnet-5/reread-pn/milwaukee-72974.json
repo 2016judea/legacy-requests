@@ -1,0 +1,72 @@
+{
+ "records": [
+  {
+   "manufacturer": "Flock",
+   "model": null,
+   "part": "License Plate Reader Cameras and Related Services (renewal of licenses)",
+   "part_numbers": [],
+   "quantity": "31",
+   "price_usd": 182900.0,
+   "lead_time": null,
+   "sole_source_vendor": "Flock Group, Inc. dba Flock Safety",
+   "reason": "Flock cameras are the only license plate reader cameras that also connect with Axon's proprietary software that catalogs and stores MPD body-camera footage, allowing photos and recordings to be stored and accessed in a single system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Milwaukee Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Text-to-911 Functionality (licenses, initial configuration, and ongoing licensing)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 91230.41,
+   "lead_time": null,
+   "sole_source_vendor": "Intrado Life & Safety, Inc",
+   "reason": "Intrado is AT&T's preferred vendor for this implementation with no other vendors able to do this work.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Department of Administration - Information Technology Management Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Secondary Internet Access (IP addresses and network connectivity)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 89100.0,
+   "lead_time": null,
+   "sole_source_vendor": "Level 3 Communications, LLC, An Affiliate of CenturyLink Communications, LLC DBA Lumen Technologies Group",
+   "reason": "Lumen provides IP addresses and network connectivity that cannot be provided through any other entity.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Department of Administration - Information Technology Management Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "GoToMeeting Plus / GoToWebinar Service Plus / GoToAssist Remote Support Software",
+   "part": "GoToMeeting Plus, GoToWebinar Service Plus, GoToAssist Remote Support Software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 64992.0,
+   "lead_time": null,
+   "sole_source_vendor": "GoTo Technologies USA, Inc.",
+   "reason": "DOA-ITMD waived the competitive bidding process and executed a Sale Source Vendor Service Contract with GoToTechnologies USA, Inc. for proprietary services which include GoToMeeting Plus, GoToWebinar Service Plus, and GoToAssist Remote Support Software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Administration - Info & Tech Management Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 23064,
+  "out": 3009
+ },
+ "model": "claude-sonnet-5"
+}

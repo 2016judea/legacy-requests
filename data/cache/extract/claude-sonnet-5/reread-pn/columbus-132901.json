@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tom Synnott Associates, Inc. DBA tsaADVET",
+   "model": "Falcon Enterprise, Falcon DMS",
+   "part": "Software licenses, support, and maintenance of the Falcon Enterprise, Falcon DMS software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 49125.0,
+   "lead_time": null,
+   "sole_source_vendor": "Tom Synnott Associates, Inc. DBA tsaADVET",
+   "reason": "The software program that is utilized by the Department of Public Utilities was developed and supported by Tom Synnott Associates, Inc. dba tsaADVET. Their proprietary software products are not available through any other service.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Utilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 4788,
+  "out": 284
+ },
+ "model": "claude-sonnet-5"
+}

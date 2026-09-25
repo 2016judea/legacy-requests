@@ -11,7 +11,8 @@
    "reason": "the sole source vendor, US Digital Designs (USDD) at $1,000,000, based on estimated requirements",
    "equipment_class": "communications/radio",
    "installed_location": "Mesa Fire Stations",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 2203,
   "out": 193
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 2451,
+   "out": 235
+  },
+  "stop_reason": "end_turn"
+ }
 }

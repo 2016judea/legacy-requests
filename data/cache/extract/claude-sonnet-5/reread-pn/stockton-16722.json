@@ -1,0 +1,68 @@
+{
+ "records": [
+  {
+   "manufacturer": "AVEVA",
+   "model": "AVEVA Flex",
+   "part": "AVEVA Flex Subscription Renewal - 3 Year - Customer FIRST Premium Support (Software maintenance for SCADA system)",
+   "part_numbers": [
+    "FLEX-Pr-1-R",
+    "CF# 103711",
+    "Flex# F23269-3M00A-VA",
+    "Credits # 1,000"
+   ],
+   "quantity": "1,000 Credits",
+   "price_usd": 60535.0,
+   "lead_time": "5-7 Business Days for Electronic Delivery",
+   "sole_source_vendor": "InSource Software Solutions, Inc.",
+   "reason": "Insource Software Solutions Inc. is the authorized vendor for Wonderware software maintenance in California.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Delta Water Treatment Plant (DWTP), 11373 N Lower Sacramento Road, Lodi, CA 95242",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "AVEVA",
+   "model": "AVEVA Flex",
+   "part": "AVEVA Flex Subscription Renewal - 3 Year - Customer FIRST Premium Support (Software maintenance for SCADA system)",
+   "part_numbers": [
+    "FLEX-Pr-1-R",
+    "AVEVA CF# 44379",
+    "Flex# F23269-3M191-JF",
+    "Credits # 1,960"
+   ],
+   "quantity": "1,960 Credits",
+   "price_usd": 118645.0,
+   "lead_time": "5-7 Business Days for Electronic Delivery",
+   "sole_source_vendor": "InSource Software Solutions, Inc.",
+   "reason": "Because AVEVA is the SCADA software currently implemented by MUD, other SCADA software vendors cannot provide software updates, maintenance releases, licensing support, or technical support for the City's existing AVEVA platform.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Regional Wastewater Control Facility (RWCF), 2500 Navy Drive, Stockton, CA 95206",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "AVEVA",
+   "model": "Wonderware SCADA software",
+   "part": "Annual software maintenance for Wonderware SCADA software controlling water/wastewater treatment plants, distribution sites, and pump stations",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 179180.0,
+   "lead_time": null,
+   "sole_source_vendor": "InSource Software Solutions, Inc.",
+   "reason": "Only the California division of Wonderware software, Aveva - Wonderware California, sells maintenance for it in California. Since Wonderware is the software Implemented at MUD, we can only get support and updates for it from Wonderware.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Municipal Utilities Department (Delta Water Treatment Plant, Regional Wastewater Control Facility, Water Field Office)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 43623,
+  "out": 2392
+ },
+ "model": "claude-sonnet-5"
+}

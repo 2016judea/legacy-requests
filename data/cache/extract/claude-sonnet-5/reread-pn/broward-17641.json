@@ -1,0 +1,172 @@
+{
+ "records": [
+  {
+   "manufacturer": "Andritz",
+   "model": "Decanter Centrifuges",
+   "part": "Andritz Decanter Centrifuges Maintenance and Repair Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1237340,
+   "lead_time": null,
+   "sole_source_vendor": "Andritz Separation, Inc.",
+   "reason": "Andritz Separation, Inc. is an original equipment manufacturer (OEM) of the liquid/solid separation equipment and hold the sole rights and ownership to the Andritz-Ruthner, Bird Machine, Netzsch, R & B and Humboldt product lines. We are the sole source for all replacement parts, accessories and service.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "North Regional Wastewater Treatment Plant (NRWWTP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Andritz",
+   "model": "D7LLC60CHEP2",
+   "part": "Decanter Centrifuge unit in operation at NRWWTP",
+   "part_numbers": [
+    "D7LLC60CHEP2"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Andritz Separation, Inc.",
+   "reason": "Equipment Item: D7LLC60CHEP2 Centrifuge Equipment Serial No.'s: CFG#1: 133222286 (CTF-73110) & CFG#2:133222287 (CTF-73120)",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "North Regional Wastewater Treatment Plant (NRWWTP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Andritz",
+   "model": "Decanter Centrifuges",
+   "part": "9,000 or 27,000 hours Preventative Maintenance Inspection (including travel time)",
+   "part_numbers": [],
+   "quantity": "4 each",
+   "price_usd": 19004.0,
+   "lead_time": null,
+   "sole_source_vendor": "Andritz Separation, Inc.",
+   "reason": "Andritz Separation, Inc. is the exclusive supplier of these components and they do not operate with local distributor networks.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "North Regional Wastewater Treatment Plant (NRWWTP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Andritz",
+   "model": "Decanter Centrifuges",
+   "part": "12,000 or 18,000 hours Preventative Maintenance Inspection (including travel time)",
+   "part_numbers": [],
+   "quantity": "4 each",
+   "price_usd": 29088.0,
+   "lead_time": null,
+   "sole_source_vendor": "Andritz Separation, Inc.",
+   "reason": "Andritz Separation, Inc. is the exclusive supplier of these components and they do not operate with local distributor networks.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "North Regional Wastewater Treatment Plant (NRWWTP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Andritz",
+   "model": "Decanter Centrifuges",
+   "part": "15,000 hours Preventative Maintenance Inspection (including travel time)",
+   "part_numbers": [],
+   "quantity": "4 each",
+   "price_usd": 356636.0,
+   "lead_time": null,
+   "sole_source_vendor": "Andritz Separation, Inc.",
+   "reason": "Andritz Separation, Inc. is the exclusive supplier of these components and they do not operate with local distributor networks.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "North Regional Wastewater Treatment Plant (NRWWTP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Andritz",
+   "model": "Decanter Centrifuges",
+   "part": "21,000 hours Preventative Maintenance Inspection (including travel time)",
+   "part_numbers": [],
+   "quantity": "4 each",
+   "price_usd": 19004.0,
+   "lead_time": null,
+   "sole_source_vendor": "Andritz Separation, Inc.",
+   "reason": "Andritz Separation, Inc. is the exclusive supplier of these components and they do not operate with local distributor networks.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "North Regional Wastewater Treatment Plant (NRWWTP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Andritz",
+   "model": "Decanter Centrifuges",
+   "part": "24,000 hours Preventative Maintenance Inspection (including travel time)",
+   "part_numbers": [],
+   "quantity": "4 each",
+   "price_usd": 91271.6,
+   "lead_time": null,
+   "sole_source_vendor": "Andritz Separation, Inc.",
+   "reason": "Andritz Separation, Inc. is the exclusive supplier of these components and they do not operate with local distributor networks.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "North Regional Wastewater Treatment Plant (NRWWTP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Andritz",
+   "model": "Decanter Centrifuges",
+   "part": "30,000 hours Preventative Maintenance Inspection (including travel time)",
+   "part_numbers": [],
+   "quantity": "4 each",
+   "price_usd": 463888.0,
+   "lead_time": null,
+   "sole_source_vendor": "Andritz Separation, Inc.",
+   "reason": "Andritz Separation, Inc. is the exclusive supplier of these components and they do not operate with local distributor networks.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "North Regional Wastewater Treatment Plant (NRWWTP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Andritz",
+   "model": "Decanter Centrifuges",
+   "part": "On-site training (including travel time)",
+   "part_numbers": [],
+   "quantity": "16 hour",
+   "price_usd": 4368.0,
+   "lead_time": null,
+   "sole_source_vendor": "Andritz Separation, Inc.",
+   "reason": "Andritz Separation, Inc. is the exclusive supplier of these components and they do not operate with local distributor networks.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "North Regional Wastewater Treatment Plant (NRWWTP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Andritz",
+   "model": "Decanter Centrifuges",
+   "part": "Field Diagnostic Inspection Services (including travel time)",
+   "part_numbers": [],
+   "quantity": "80 hour",
+   "price_usd": 21840.0,
+   "lead_time": null,
+   "sole_source_vendor": "Andritz Separation, Inc.",
+   "reason": "Andritz Separation, Inc. is the exclusive supplier of these components and they do not operate with local distributor networks.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "North Regional Wastewater Treatment Plant (NRWWTP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Andritz",
+   "model": "Decanter Centrifuges",
+   "part": "In-Shop repairs",
+   "part_numbers": [],
+   "quantity": "32 hour",
+   "price_usd": 6240.0,
+   "lead_time": null,
+   "sole_source_vendor": "Andritz Separation, Inc.",
+   "reason": "Andritz Separation, Inc. is the exclusive supplier of these components and they do not operate with local distributor networks.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "North Regional Wastewater Treatment Plant (NRWWTP)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 18664,
+  "out": 2652
+ },
+ "model": "claude-sonnet-5"
+}

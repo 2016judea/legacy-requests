@@ -11,7 +11,8 @@
    "reason": "it has been determined that Hansen Banner, LLC is the sole distributor of the software products associated with the CUBS system, and does not utilize distributors or resellers for any services associated with its software products",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Department of Public Utilities",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Hansen Banner, LLC",
@@ -50,5 +51,12 @@
   "in": 4406,
   "out": 782
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 4654,
+   "out": 1594
+  },
+  "stop_reason": "end_turn"
+ }
 }

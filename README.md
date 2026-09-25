@@ -71,10 +71,15 @@ static page anyone can search.
 - `extract.py` keeps a row only if its `reason` states a sole-source, proprietary,
   standardization or obsolescence justification (`JUSTIFY_RE`); full board packets
   (Metrolink, Caltrain) otherwise leak capital-budget list items into the index.
+- `scripts/reread_part_numbers.py` re-reads matters extracted before `part_numbers`
+  existed. `make extract` cannot: its per-matter cache returns the old response. The
+  script calls the model fresh, keeps the raw reply under `data/cache/extract/<model>/reread-pn/`,
+  and merges only `part_numbers` (verbatim-checked against the text layer) into the
+  cached response; then `extract.py --cached-only`.
 
 ## Record fields
 
-agency, state, date, manufacturer, model, part_numbers (every catalog/part number printed, verbatim; empty on rows extracted before 2026-09-24), part, quantity, price_usd,
+agency, state, date, manufacturer, model, part_numbers (every catalog/part number printed, verbatim; absent on 336 older rows the 2026-09-25 re-read could not pair, and on older service contracts), part, quantity, price_usd,
 lead_time, sole_source_vendor, reason (verbatim quote), equipment_class,
 installed_location, is_obsolete, source_url, legistar_url.
 

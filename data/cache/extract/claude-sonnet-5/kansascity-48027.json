@@ -11,7 +11,8 @@
    "reason": "Sole Brand Pierce Brand Mechanical Parts And Components",
    "equipment_class": "vehicle/fleet",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -24,7 +25,8 @@
    "reason": "to purchase specialized fire services and supplies and to purchase various appliance nozzles related to an awarded FEMA Grant",
    "equipment_class": "vehicle/fleet",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -37,5 +39,12 @@
   "in": 14203,
   "out": 889
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 14451,
+   "out": 835
+  },
+  "stop_reason": "end_turn"
+ }
 }

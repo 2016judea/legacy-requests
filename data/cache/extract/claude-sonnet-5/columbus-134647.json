@@ -11,7 +11,8 @@
    "reason": "Atlantic Emergency Solutions, Inc. is the sole source for these parts and services as they are the only local distributor and authorized service provider for this specific manufacturer.",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Division of Fleet Management",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 5286,
   "out": 207
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 5534,
+   "out": 219
+  },
+  "stop_reason": "end_turn"
+ }
 }

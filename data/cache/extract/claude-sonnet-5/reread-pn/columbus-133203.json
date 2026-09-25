@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Exmark",
+   "model": null,
+   "part": "Exmark OEM Parts to repair and maintain Exmark mowers",
+   "part_numbers": [],
+   "quantity": "All Items",
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Buckeye Power Sales Co., Inc.",
+   "reason": "without it there could be an interruption in supply of Exmark OEM Parts",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Division of Fleet Management",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 4299,
+  "out": 189
+ },
+ "model": "claude-sonnet-5"
+}

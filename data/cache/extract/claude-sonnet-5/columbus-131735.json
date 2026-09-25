@@ -11,7 +11,10 @@
    "reason": "Ohio Edison Company is the sole provider of electrical service in the area where the Fourth Water Plant will be built",
    "equipment_class": "electrical/switchgear/transformer",
    "installed_location": "Fourth Water Plant, 8415 Dublin Road, Delaware, Ohio 43065",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "OE-T-5895"
+   ]
   },
   {
    "manufacturer": null,
@@ -63,7 +66,10 @@
    "reason": "Due to the rules of the FE Operating Company retail tariffs, the cost of metering for a new Customer is the responsibility of the Operating Company",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "Fourth Water Plant, 8415 Dublin Road, Delaware, Ohio 43065",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "OE-T-5897"
+   ]
   }
  ],
  "info": {
@@ -76,5 +82,12 @@
   "in": 20504,
   "out": 2854
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 20752,
+   "out": 3845
+  },
+  "stop_reason": "end_turn"
+ }
 }

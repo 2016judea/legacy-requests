@@ -11,7 +11,8 @@
    "reason": "Due to the proprietary nature of the security software and the need to maintain compatibility with the Genetec system, it is in the best interest of the City to enter into a contract with K.N.S. Services Inc.",
    "equipment_class": "other equipment",
    "installed_location": "Hap Cremean Water Plant",
-   "is_obsolete": true
+   "is_obsolete": true,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 5442,
   "out": 233
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 5690,
+   "out": 237
+  },
+  "stop_reason": "end_turn"
+ }
 }

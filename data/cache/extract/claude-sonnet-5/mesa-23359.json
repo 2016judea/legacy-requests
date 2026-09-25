@@ -11,7 +11,8 @@
    "reason": "The Public Safety Support Services Department and Procurement Services recommend awarding the contract to the sole source vendor Qiagen",
    "equipment_class": "other equipment",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 2012,
   "out": 165
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 2260,
+   "out": 229
+  },
+  "stop_reason": "end_turn"
+ }
 }

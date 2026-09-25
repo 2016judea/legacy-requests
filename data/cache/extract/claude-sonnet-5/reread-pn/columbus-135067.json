@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola Solutions, Inc.",
+   "model": "PremierOne Records",
+   "part": "Ongoing maintenance and support of the PremierOne Records system (software/records management system)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 363557.0,
+   "lead_time": "January 1, 2026 through December 31, 2026",
+   "sole_source_vendor": "Motorola Solutions, Inc.",
+   "reason": "The above referenced PremierOne Records solution contains proprietary software developed and owned by Motorola. To provide complete PremierOne Essential Support Services for this solution, another vendor would need access to Motorola's proprietary software source code. No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 9293,
+  "out": 301
+ },
+ "model": "claude-sonnet-5"
+}

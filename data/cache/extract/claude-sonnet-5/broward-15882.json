@@ -11,7 +11,8 @@
    "reason": "ESO is the ony company capable of offering the ESQ Fire RMS software, product lk:enses {keys), and maintenance/suppat fot the ESQ product",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Broward County Fire Rescue agencies",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "ESO Solutions",
@@ -24,7 +25,8 @@
    "reason": "ESQ is currenlly in use and has been used for the past 5 years by the following eleven (11) County regional participating Fire Rescue agencies",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Broward Sheriff's Office, Dania, Hollywood, Lauderdale By The Sea, Lauderhill, Lighthouse Point, Margate, Oakland Park, Pompano Beach, Pembroke Pines and Tamarac",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "ESO Solutions",
@@ -76,5 +78,12 @@
   "in": 25668,
   "out": 1167
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 25916,
+   "out": 1348
+  },
+  "stop_reason": "end_turn"
+ }
 }

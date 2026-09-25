@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM Auto and Light Duty Truck Parts and Repair Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 500000,
+   "lead_time": null,
+   "sole_source_vendor": "Courtesy Auto of Mesa, Don Sanderson Ford, Earnhardt Ford, Earnhart Gilbert Dodge, Inc., Midway Chevrolet, Sands Motor Company, and Tex Chevrolet dba Earnhardt Chevrolet",
+   "reason": "did not receive bids from Ford OEM or GM OEM dealerships",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2629,
+  "out": 258
+ },
+ "model": "claude-sonnet-5"
+}

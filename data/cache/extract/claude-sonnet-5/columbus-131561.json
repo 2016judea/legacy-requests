@@ -11,7 +11,8 @@
    "reason": "Itron Inc is the sole source for these parts and services as they are the only distributor and authorized service provider for this specific manufacturer.",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "City of Columbus",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 3005,
   "out": 178
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 3253,
+   "out": 186
+  },
+  "stop_reason": "end_turn"
+ }
 }

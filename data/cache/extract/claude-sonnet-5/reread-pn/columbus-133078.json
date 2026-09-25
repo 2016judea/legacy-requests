@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Genetec",
+   "model": null,
+   "part": "Security cameras and related equipment - purchase, installation, maintenance and repair of Genetec security surveillance system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 314765.08,
+   "lead_time": null,
+   "sole_source_vendor": "K.N.S. Services, Inc.",
+   "reason": "due to the proprietary nature of the security software and compatibility of existing security and camera equipment, it is in the best interest of the City to enter into contract with K.N.S. Services, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 5647,
+  "out": 220
+ },
+ "model": "claude-sonnet-5"
+}

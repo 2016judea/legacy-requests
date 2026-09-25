@@ -11,7 +11,8 @@
    "reason": "Tom Synnott Associates, Inc., also known as tsaADVET, is the sole developer of the software and will provide all licenses and support.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Department of Public Utilities",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 4360,
   "out": 345
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 4608,
+   "out": 368
+  },
+  "stop_reason": "end_turn"
+ }
 }

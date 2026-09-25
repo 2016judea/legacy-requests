@@ -11,7 +11,8 @@
    "reason": "Axon Body 4 cameras, sold exclusively by Axon Enterprise, is the only camera which provides the necessary features and specifications required to be compatible with Axon CAD and RMS",
    "equipment_class": "other equipment",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -24,7 +25,8 @@
    "reason": "Manufactured and available for purchase only from Axon Enterprise. Axon is also the sole distributor and retailer of all Taser brand products.",
    "equipment_class": "other equipment",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -50,7 +52,8 @@
    "reason": "The development of new RMS and CAD systems was necessary due to the prior program, Data 911, no longer supporting necessary upgrades, which were necessary to gain compliance with the National Incident Based Reporting System (NIBRS).",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department Communications Center",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -63,7 +66,8 @@
    "reason": "Axon RMS is also NIBRS compliant, unlike numerous other available records management systems.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -76,7 +80,8 @@
    "reason": "multiple components of the system are not offered by other providers and are solely available through Axon, including, but not limited to Respond Plus live streaming of body camera video",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -89,7 +94,8 @@
    "reason": "Draft One artificial intelligence driven police report writing narrative assistance",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -102,7 +108,8 @@
    "reason": "This software provides the ability to conduct both internal and external surveys designed to measure efficiency in the department.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -115,7 +122,8 @@
    "reason": "Software used to identify and redact items from body-worn camera videos, such as selected screens, faces, license plates, and audio as required prior to release.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -128,7 +136,8 @@
    "reason": "Allows the agency to create an evidence submission portal for the public to submit digital evidence related to an investigation.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -141,7 +150,8 @@
    "reason": "Standards would replace two existing software applications currently in use: IA Pro and Blue Team.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -154,7 +164,8 @@
    "reason": "Uses information from CAD and RMS to automatically label digital evidence (primarily body-worn camera video) in AXON Evidence.com.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -167,7 +178,8 @@
    "reason": "Performance randomly selects videos for auditing by supervisors on a weekly basis to ensure customer service standards are being met by officers and their actions are in compliance with department policy.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -193,7 +205,8 @@
    "reason": "A smart sensor, attached to a firearm holster, Axon activates an officer's body-worn camera anytime their firearm is drawn from the holster.",
    "equipment_class": "other equipment",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -206,7 +219,8 @@
    "reason": "Allows investigators to utilize Axon technology to playback various file formats natively.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -245,7 +259,8 @@
    "reason": "Provided at no cost, this Real Time Information Center (RTIC) software integrates multiple sources of information to enhance situational awareness.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -271,7 +286,8 @@
    "reason": "Axon is solely qualified to meet the vast majority of technology needs for the Fresno Police Department.",
    "equipment_class": "service/maintenance contract",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -284,5 +300,12 @@
   "in": 68407,
   "out": 8814
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 68655,
+   "out": 7379
+  },
+  "stop_reason": "end_turn"
+ }
 }

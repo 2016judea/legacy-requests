@@ -1,0 +1,86 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Vendor Service Contract for VAV Box Replacement for District 3",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 438426.0,
+   "lead_time": null,
+   "sole_source_vendor": "Belonger Corporation, Inc.",
+   "reason": "These aged materials in District 3 are critical components that ensure the City's Data Communications Equipment remain functional and should be replaced before the heating season is fully realized.",
+   "equipment_class": "HVAC",
+   "installed_location": "District 3 (Milwaukee Police Department)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Legistar and CRM Module",
+   "part": "Vendor Service Contract for Legistar and CRM Module Software Support and Maintenance Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 527982.4,
+   "lead_time": null,
+   "sole_source_vendor": "Granicus, LLC dba Granicus",
+   "reason": "Granicus is uniquely positioned to continue this work due to its specific insight and prior experience with the City's structure and operational needs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Magic Software Enterprises, Inc.",
+   "model": "Magic Software",
+   "part": "Service Contract for Magic Software Licenses and Maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 66326.1,
+   "lead_time": null,
+   "sole_source_vendor": "Magic Software Enterprises, Inc.",
+   "reason": "Magic Software was originally installed in 1995 and is only available without additional upcharges or embedded in other software via Magic Software Enterprises, Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Illumina, Inc.",
+   "model": "MiSeq System",
+   "part": "Vendor Service Contract for MiSeq System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1439082.84,
+   "lead_time": null,
+   "sole_source_vendor": "Illumina, Inc.",
+   "reason": "The MiSeq System is a proprietary Next Generation Sequencing (NGS) instrument, solely manufactured by Illumina, Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Milwaukee Health Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "OnSolve, LLC",
+   "model": "One Call Now",
+   "part": "Vendor Service Contract for One Call Now",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 276679.04,
+   "lead_time": null,
+   "sole_source_vendor": "OnSolve, LLC",
+   "reason": "OnSolve, LLC is the sole source for the One Call Now system, as it is a proprietary software.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 16802,
+  "out": 2460
+ },
+ "model": "claude-sonnet-5"
+}

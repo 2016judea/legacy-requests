@@ -11,7 +11,8 @@
    "reason": "Xylem Water Solutions Inc. is the sole source provider of these goods and services",
    "equipment_class": "pump",
    "installed_location": "City\u2019s two wastewater treatment plants",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Flygt",
@@ -50,5 +51,12 @@
   "in": 3479,
   "out": 613
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 3727,
+   "out": 207
+  },
+  "stop_reason": "end_turn"
+ }
 }

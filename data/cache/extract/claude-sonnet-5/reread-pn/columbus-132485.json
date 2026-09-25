@@ -1,0 +1,48 @@
+{
+ "records": [
+  {
+   "manufacturer": "GeoNexus Technologies L.L.C.",
+   "model": "GeoWorx Sync",
+   "part": "Software support and maintenance for GeoWorx Sync (mapping and record synchronization system for Oracle WAM)",
+   "part_numbers": [
+    "4933603000082972093"
+   ],
+   "quantity": "1",
+   "price_usd": 33556.71,
+   "lead_time": "12 Months (4/1/2025 to 3/31/2026)",
+   "sole_source_vendor": "GeoNexus Technologies L.L.C.",
+   "reason": "No other company provides maintenance and support for the Geonexus product.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Utilities",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GeoNexus Technologies L.L.C.",
+   "model": "GeoWorx Sync",
+   "part": "Perpetual license tier upgrade - additional sync records capacity",
+   "part_numbers": [
+    "4933603000086625032"
+   ],
+   "quantity": "2",
+   "price_usd": 4000.0,
+   "lead_time": null,
+   "sole_source_vendor": "GeoNexus Technologies L.L.C.",
+   "reason": "No other company provides maintenance and support for the Geonexus product.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Utilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 5316,
+  "out": 448
+ },
+ "model": "claude-sonnet-5"
+}

@@ -11,7 +11,8 @@
    "reason": "iReportSource Software is currently the only company from which the City of Columbus may license iReportSource software products and from which the City of Columbus may obtain technical support, maintenance and hosting service for such software products.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 5533,
   "out": 209
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 5781,
+   "out": 202
+  },
+  "stop_reason": "end_turn"
+ }
 }

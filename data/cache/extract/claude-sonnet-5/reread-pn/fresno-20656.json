@@ -1,0 +1,62 @@
+{
+ "records": [
+  {
+   "manufacturer": "Skydio",
+   "model": "Drones as First Responder (DFR) units",
+   "part": "Purchase of two (2) Drones as First Responder (DFR) units with Axon Air software and service support for 12 months",
+   "part_numbers": [
+    "Q-763045-45943BW"
+   ],
+   "quantity": "2",
+   "price_usd": 234470.77,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc.",
+   "reason": "Axon Enterprises Inc., is the sole provider of equipment and operating system, manufactured by Skydio UAS Solutions, with exclusive Axon Air subscription services",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Northeast and Northwest District stations",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Skydio",
+   "model": "Drone as First Responder (DFR) unit",
+   "part": "Purchase of the third DFR unit from Axon Services, Inc. with Axon Air software and service support for a total period of four (4) years",
+   "part_numbers": [
+    "Q-754195-45994BW"
+   ],
+   "quantity": "1",
+   "price_usd": 149588.62,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Services, Inc.",
+   "reason": "Axon Enterprises Inc., is the sole provider of equipment and operating system, manufactured by Skydio UAS Solutions, with exclusive Axon Air subscription services",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "police annex building",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Axon",
+   "model": "Axon Air",
+   "part": "Axon Air software and service support subscription for DFR units",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises, Inc.",
+   "reason": "Axon Enterprises Inc., is the sole provider of equipment and operating system, manufactured by Skydio UAS Solutions, with exclusive Axon Air subscription services",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 72690,
+  "out": 702
+ },
+ "model": "claude-sonnet-5"
+}

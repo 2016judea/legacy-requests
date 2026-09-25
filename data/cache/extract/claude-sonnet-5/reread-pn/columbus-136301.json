@@ -1,0 +1,114 @@
+{
+ "records": [
+  {
+   "manufacturer": "Granicus",
+   "model": "Legistar",
+   "part": "Software licensing service agreement for Legistar and the Granicus Operations Cloud services (city's electronic legislative records/agenda management system)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 98373.25,
+   "lead_time": null,
+   "sole_source_vendor": "Granicus, Inc.",
+   "reason": "Legistar software proprietary and Granicus is the sole supplier.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus City Clerk / Columbus City Council",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Granicus",
+   "model": "Granicus Operations Cloud - Governance (Legislative)",
+   "part": "New annual subscription for Operations Cloud Governance (Legislative) edition, the most recent version of Legistar including data insights, enhanced public portal, and security updates",
+   "part_numbers": [],
+   "quantity": "1 Each",
+   "price_usd": 59822.5,
+   "lead_time": null,
+   "sole_source_vendor": "Granicus, Inc.",
+   "reason": "Legistar software proprietary and Granicus is the sole supplier.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus City Clerk / Columbus City Council",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Granicus",
+   "model": "Granicus Operations Cloud - Governance (Legislative)",
+   "part": "Setup, Configuration, and Training one-time fee for Operations Cloud Governance (Legislative) implementation",
+   "part_numbers": [],
+   "quantity": "1 Each",
+   "price_usd": 38550.75,
+   "lead_time": null,
+   "sole_source_vendor": "Granicus, Inc.",
+   "reason": "Legistar software proprietary and Granicus is the sole supplier.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus City Clerk / Columbus City Council",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Granicus",
+   "model": "Legistar",
+   "part": "Legistar - Setup & Config (existing client) - abbreviated configuration process for existing Legistar clients",
+   "part_numbers": [],
+   "quantity": "1 Each",
+   "price_usd": 0,
+   "lead_time": null,
+   "sole_source_vendor": "Granicus, Inc.",
+   "reason": "Legistar software proprietary and Granicus is the sole supplier.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus City Clerk / Columbus City Council",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Granicus",
+   "model": "Legistar",
+   "part": "Legistar - Training (existing client) - abbreviated training on modifications to existing Legistar configuration",
+   "part_numbers": [],
+   "quantity": "1 Each",
+   "price_usd": 0,
+   "lead_time": null,
+   "sole_source_vendor": "Granicus, Inc.",
+   "reason": "Legistar software proprietary and Granicus is the sole supplier.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus City Clerk / Columbus City Council",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Granicus",
+   "model": "Legistar",
+   "part": "Terminating subscription - prior annual fee for Legistar (subscription being replaced by Operations Cloud)",
+   "part_numbers": [],
+   "quantity": "0 Each",
+   "price_usd": 42111.36,
+   "lead_time": null,
+   "sole_source_vendor": "Granicus, Inc.",
+   "reason": "Legistar software proprietary and Granicus is the sole supplier.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus City Clerk / Columbus City Council",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Granicus",
+   "model": "Open Platform Suite",
+   "part": "Renewing subscription - Open Platform Suite (MediaManager access, archive upload, agenda/document posting, searchable index)",
+   "part_numbers": [],
+   "quantity": "1 Each",
+   "price_usd": 0,
+   "lead_time": null,
+   "sole_source_vendor": "Granicus, Inc.",
+   "reason": "Legistar software proprietary and Granicus is the sole supplier.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Columbus City Clerk / Columbus City Council",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 22105,
+  "out": 1443
+ },
+ "model": "claude-sonnet-5"
+}

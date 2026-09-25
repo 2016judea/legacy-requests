@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "ESR (Institute of Environmental Science and Research Ltd.)",
+   "model": "STRmix",
+   "part": "Software support services for Crime Lab STRmix expert DNA analysis system instruments",
+   "part_numbers": [],
+   "quantity": "10 instruments",
+   "price_usd": 52520.0,
+   "lead_time": null,
+   "sole_source_vendor": "NicheVision Forensic LLC",
+   "reason": "NicheVision Forensic LLC is the sole distributor of the STRmix software. There is no other source for these licenses in the United States than to purchase directly from NicheVision Forensic LLC",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Columbus Police Crime Lab, 120 Marconi Blvd",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 4037,
+  "out": 266
+ },
+ "model": "claude-sonnet-5"
+}

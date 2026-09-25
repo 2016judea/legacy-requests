@@ -11,7 +11,8 @@
    "reason": "They are the only Genetec Unified Elite integrator in the Central Ohio area.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Neighborhood Safety Camera program",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 4994,
   "out": 221
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 5242,
+   "out": 287
+  },
+  "stop_reason": "end_turn"
+ }
 }

@@ -1,0 +1,464 @@
+{
+ "records": [
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": "PrimeAlert",
+   "part": "PrimeAlert Remote Client add-on module for relay switching and advanced zoned audio/lighting (up to 10 devices)",
+   "part_numbers": [
+    "SSL-VSB-ST"
+   ],
+   "quantity": "15",
+   "price_usd": 29790,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": "PrimeAlert",
+   "part": "PrimeAlert Remote Client add-on module for Zone Tracker (for zoned systems)",
+   "part_numbers": [
+    "SSL-VSC-01"
+   ],
+   "quantity": "4",
+   "price_usd": 4116,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Control Panel, Multi-zone: includes system power, multiple relays with relay backplane, isolated inputs, wire management, 120V surge-protection and isolation, with locked front panel door access. 2 chassis",
+   "part_numbers": [
+    "LCPN33-MZ"
+   ],
+   "quantity": "4",
+   "price_usd": 36300,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Audio Controlled Relay",
+   "part_numbers": [
+    "TRLY-AU"
+   ],
+   "quantity": "4",
+   "price_usd": 832,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Option: Add Relay Extension Unit, No Bus Master, 6 Relay",
+   "part_numbers": [
+    "LOPT-EN-RX3-NB"
+   ],
+   "quantity": "3",
+   "price_usd": 2550,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "S-18 Power Supply",
+   "part_numbers": [
+    "RHT-PWS-CO"
+   ],
+   "quantity": "4",
+   "price_usd": 696,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Station PC Assembly",
+   "part_numbers": [
+    "MPCA"
+   ],
+   "quantity": "4",
+   "price_usd": 6160,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Radio Interface Unit - Active",
+   "part_numbers": [
+    "RHL-RIA30"
+   ],
+   "quantity": "4",
+   "price_usd": 3796,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Uninterrupted Power Supply 1500VA",
+   "part_numbers": [
+    "TUPS-15"
+   ],
+   "quantity": "4",
+   "price_usd": 1672,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Wire required per audio/visual/switch station requirements (if applicable)",
+   "part_numbers": [
+    "TWIR-AV"
+   ],
+   "quantity": "1",
+   "price_usd": 24263,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Door Bell",
+   "part_numbers": [
+    "LSWI-DB"
+   ],
+   "quantity": "16",
+   "price_usd": 1856,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Amplifier - Single 240W",
+   "part_numbers": [
+    "MAMP-A24"
+   ],
+   "quantity": "4",
+   "price_usd": 7476,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Amplifier - Single 120W",
+   "part_numbers": [
+    "MAMP-A12"
+   ],
+   "quantity": "2",
+   "price_usd": 3078,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Speaker - Ceiling",
+   "part_numbers": [
+    "TSPK-CL"
+   ],
+   "quantity": "172",
+   "price_usd": 17028,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Speaker - Ceiling - Blind Mount",
+   "part_numbers": [
+    "TSPK-CL-BM"
+   ],
+   "quantity": "49",
+   "price_usd": 7301,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Speaker - Wall Baffle",
+   "part_numbers": [
+    "TSPK-WB"
+   ],
+   "quantity": "130",
+   "price_usd": 24570,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Speaker - Horn",
+   "part_numbers": [
+    "TSPK-HR"
+   ],
+   "quantity": "20",
+   "price_usd": 4980,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Volume Control",
+   "part_numbers": [
+    "TAVC"
+   ],
+   "quantity": "36",
+   "price_usd": 2844,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Volume Control, Rack Mount, 25W, 6 Position",
+   "part_numbers": [
+    "MAVC-25W-RM"
+   ],
+   "quantity": "8",
+   "price_usd": 5280,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Station Zone Tracker (Touch Panel)",
+   "part_numbers": [
+    "MZTS"
+   ],
+   "quantity": "4",
+   "price_usd": 9180,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Night Vision Recessed LED - Ceiling Mount",
+   "part_numbers": [
+    "LNVR"
+   ],
+   "quantity": "57",
+   "price_usd": 13053,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Night Vision Recessed LED - Ceiling Mount DALI (Ramped)",
+   "part_numbers": [
+    "LNVR-DL"
+   ],
+   "quantity": "72",
+   "price_usd": 25848,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Reader Board 1 Line 22-25 char Color, Ethernet",
+   "part_numbers": [
+    "MLRB-1L-ET"
+   ],
+   "quantity": "8",
+   "price_usd": 13992,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Reader Board 4 Line 25 char Color, Ethernet",
+   "part_numbers": [
+    "MLRB-4L"
+   ],
+   "quantity": "5",
+   "price_usd": 29975,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Multi-unit Indicator Light - Flush Mount - LED position",
+   "part_numbers": [
+    "TMUI-FM5-AB"
+   ],
+   "quantity": "15",
+   "price_usd": 13875,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Multi-unit Indicator Light - Flush Mount - LED position (Includes two 4 position MUIs, Ethernet control)",
+   "part_numbers": [
+    "TMUI-FM8"
+   ],
+   "quantity": "7",
+   "price_usd": 11865,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Strobe Light - Indoor Ceiling Mount",
+   "part_numbers": [
+    "TSTB-IN-C"
+   ],
+   "quantity": "8",
+   "price_usd": 792,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution is the only known provider who can service and maintain their equipment and is the current vendor for alerting systems for the Division of Fire.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Locution Systems Inc.",
+   "model": null,
+   "part": "Annual maintenance for PrimeAlert Station Software Client Add-ons, Locution Station Control Panel(s), Enclosure(s), Radio Interface Unit(s), Switches, Amplifier(s), Speaker(s)/Volume Control(s), Zone Tracker(s), Reader Board(s), Multi-Unit Indicator(s), LED Lighting (switched and ramped), Strobe(s)",
+   "part_numbers": [
+    "MAINT01"
+   ],
+   "quantity": null,
+   "price_usd": 31559,
+   "lead_time": null,
+   "sole_source_vendor": "Locution Systems Inc.",
+   "reason": "Locution Systems Inc. is the only known company that can provide maintenance services 24 hours a day, seven days a week, for this system and is our current vendor for alerting systems across the division",
+   "equipment_class": "communications/radio",
+   "installed_location": "Fire Stations 10, 14, 17, & 18",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 7079,
+  "out": 9856
+ },
+ "model": "claude-sonnet-5"
+}

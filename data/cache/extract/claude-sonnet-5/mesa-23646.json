@@ -11,7 +11,8 @@
    "reason": "The existing drives have exceeded their useful life and have become increasingly unreliable due to age and component obsolescence, making ongoing maintenance difficult.",
    "equipment_class": "motor/drive",
    "installed_location": "Brown Road Water Treatment Plant",
-   "is_obsolete": true
+   "is_obsolete": true,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -24,7 +25,8 @@
    "reason": "The existing drives have exceeded their useful life and have become increasingly unreliable due to age and component obsolescence, making ongoing maintenance difficult.",
    "equipment_class": "motor/drive",
    "installed_location": "Brown Road Water Treatment Plant",
-   "is_obsolete": true
+   "is_obsolete": true,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -37,5 +39,12 @@
   "in": 2121,
   "out": 538
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 2369,
+   "out": 640
+  },
+  "stop_reason": "end_turn"
+ }
 }

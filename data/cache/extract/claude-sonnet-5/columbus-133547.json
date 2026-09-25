@@ -11,7 +11,8 @@
    "reason": "GEA Mechanical Equipment US, Inc. is the sole source for these parts and services as they are the only distributor and authorized service provider for their own products.",
    "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
    "installed_location": "City's wastewater plants",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 3758,
   "out": 261
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 4006,
+   "out": 291
+  },
+  "stop_reason": "end_turn"
+ }
 }

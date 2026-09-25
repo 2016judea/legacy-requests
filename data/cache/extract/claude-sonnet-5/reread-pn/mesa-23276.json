@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Dynamo Industries",
+   "model": null,
+   "part": "Playground Equipment Repair and Replacement Parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": "Dynamo Industries",
+   "reason": "The City has seven parks that have playground equipment manufactured by Dynamo Industries.",
+   "equipment_class": "other equipment",
+   "installed_location": "Citywide (seven parks)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2183,
+  "out": 177
+ },
+ "model": "claude-sonnet-5"
+}

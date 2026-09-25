@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "H&L Systems, Inc.",
+   "model": "Tax Office for Windows",
+   "part": "Support, maintenance services, and upgrades of integrated municipal revenue collection software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 400000.0,
+   "lead_time": null,
+   "sole_source_vendor": "H&L Systems, Inc.",
+   "reason": "H&L Systems, Inc. has represented that they are qualified, by their training and experience, to provide the required services, and that they are the sole source provider of the aforementioned goods and services",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Newark",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 4698,
+  "out": 230
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Thermo Fisher Scientific",
+   "model": null,
+   "part": "Reagents and consumables to determine the quantity of DNA present, to make copies of DNA, and to detect DNA on genetic instruments",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 250000,
+   "lead_time": null,
+   "sole_source_vendor": "Thermo Fisher Scientific",
+   "reason": "The Mesa Police Department and Procurement Services recommend awarding the contract to the sole source vendor, Thermo Fisher Scientific at $250,000, based on estimated requirements.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mesa Police Department Forensic Services Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2261,
+  "out": 664
+ },
+ "model": "claude-sonnet-5"
+}

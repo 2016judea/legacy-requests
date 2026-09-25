@@ -1,0 +1,72 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM and Non-OEM Maintenance and Repair Services for Light/Medium Duty Vehicles",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 650000.0,
+   "lead_time": null,
+   "sole_source_vendor": "American Hose & Hydraulics",
+   "reason": "N.J.S.A. 40A:11-12 authorizes local contracting units to purchase goods and services without advertising for bids when the same were purchased under any contract entered into by the State of New Jersey Division of Purchase and Property",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM and Non-OEM Maintenance and Repair Services for Light/Medium Duty Vehicles",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 650000.0,
+   "lead_time": null,
+   "sole_source_vendor": "On-Site Fleet Service Inc.",
+   "reason": "N.J.S.A. 40A:11-12 authorizes local contracting units to purchase goods and services without advertising for bids when the same were purchased under any contract entered into by the State of New Jersey Division of Purchase and Property",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM and Non-OEM Maintenance and Repair Services for Light/Medium Duty Vehicles",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 650000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Cliffside Body Corp.",
+   "reason": "N.J.S.A. 40A:11-12 authorizes local contracting units to purchase goods and services without advertising for bids when the same were purchased under any contract entered into by the State of New Jersey Division of Purchase and Property",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "OEM and Non-OEM Maintenance and Repair Services for Light/Medium Duty Vehicles",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 650000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Tra-Par Transmissions",
+   "reason": "N.J.S.A. 40A:11-12 authorizes local contracting units to purchase goods and services without advertising for bids when the same were purchased under any contract entered into by the State of New Jersey Division of Purchase and Property",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 12191,
+  "out": 1896
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Arcadis U.S., Inc.",
+   "model": "Orion PMIS",
+   "part": "Renewal and increase of sole source service agreement for Orion Project Management Information System (PMIS) Support Services application",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 273200.0,
+   "lead_time": null,
+   "sole_source_vendor": "Arcadis U.S., Inc.",
+   "reason": "Arcadis has been the sole implementer/programmer of the Orion PMIS for the City of Columbus since inception and has been the sole source of all underlying programming that operates the Orion PMIS system thus only Arcadis can provide the services required to implement this contract.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 7820,
+  "out": 273
+ },
+ "model": "claude-sonnet-5"
+}

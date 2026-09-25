@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hach",
+   "model": null,
+   "part": "OEM Hach instruments, replacement parts, and certified repair services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 580000,
+   "lead_time": null,
+   "sole_source_vendor": "Hach",
+   "reason": "This contract is for OEM Hach instruments, replacement parts, and certified repair services.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2395,
+  "out": 167
+ },
+ "model": "claude-sonnet-5"
+}

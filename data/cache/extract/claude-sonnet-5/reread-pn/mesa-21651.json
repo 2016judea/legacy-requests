@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "US Digital Designs",
+   "model": "Phoenix G2",
+   "part": "Fire Station Alerting System Equipment, Maintenance, and Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1000000,
+   "lead_time": null,
+   "sole_source_vendor": "US Digital Designs (USDD)",
+   "reason": "The DoIT, MFMD, and Procurement Services recommend authorizing a one year term contract with the sole source vendor, US Digital Designs (USDD) at $1,000,000, based on estimated requirements.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Mesa Fire Stations",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2451,
+  "out": 235
+ },
+ "model": "claude-sonnet-5"
+}

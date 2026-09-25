@@ -37,7 +37,8 @@
    "reason": "requesting authorization to specify, with no equal, grit removal equipment to be provided by Hydro International",
    "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
    "installed_location": "Water Resource Recovery Facility (WRRF)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -50,5 +51,12 @@
   "in": 2330,
   "out": 951
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 2578,
+   "out": 1215
+  },
+  "stop_reason": "end_turn"
+ }
 }

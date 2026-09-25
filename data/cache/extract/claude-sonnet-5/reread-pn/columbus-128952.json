@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "iReportSource",
+   "model": "iReport",
+   "part": "Renewal of onboarding, hosting services, technical support, and maintenance and support services for the iReport Software system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 109000.0,
+   "lead_time": null,
+   "sole_source_vendor": "iReportSource",
+   "reason": "iReportSource is the sole provider of hosting services, technical support and maintenance and support services for iReportSource software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "City of Columbus",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 8627,
+  "out": 201
+ },
+ "model": "claude-sonnet-5"
+}

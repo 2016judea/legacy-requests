@@ -11,7 +11,8 @@
    "reason": "The amount of infrastructure development, security clearance access, and continued excellent support provided by this company leaves it as the only clear choice to continue logistical support for our systems.",
    "equipment_class": "other equipment",
    "installed_location": "Citywide parks and facilities",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 4368,
   "out": 229
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 4616,
+   "out": 260
+  },
+  "stop_reason": "end_turn"
+ }
 }

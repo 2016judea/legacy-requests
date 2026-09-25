@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Qiagen",
+   "model": null,
+   "part": "Forensic DNA supplies (reagents and consumables for the extraction of DNA)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 170000,
+   "lead_time": null,
+   "sole_source_vendor": "Qiagen",
+   "reason": "The Public Safety Support Services Department and Procurement Services recommend awarding the contract to the sole source vendor Qiagen, in an amount not to exceed $170,000, based on estimated requirements.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2260,
+  "out": 229
+ },
+ "model": "claude-sonnet-5"
+}

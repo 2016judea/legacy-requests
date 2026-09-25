@@ -11,7 +11,8 @@
    "reason": "due to the proprietary nature of the security software and compatibility of existing security and camera equipment, it is in the best interest of the City enter into contract with K.N.S.",
    "equipment_class": "other equipment",
    "installed_location": "Facilities Management Division",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 3075,
   "out": 196
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 3323,
+   "out": 204
+  },
+  "stop_reason": "end_turn"
+ }
 }

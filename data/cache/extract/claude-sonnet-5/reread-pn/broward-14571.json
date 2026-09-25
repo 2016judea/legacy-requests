@@ -1,0 +1,62 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hach Company",
+   "model": null,
+   "part": "Hach brand Analytical Instruments, Consumable Parts, Pre-prepared Chemicals, and Test Kits",
+   "part_numbers": [
+    "OPN2123100Q1"
+   ],
+   "quantity": null,
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": "Hach Company",
+   "reason": "WWOD is requesting approval of sole source because Hach is the manufacturer and sole distributor for all Hach Analytical Instruments, Consumable Parts, Pre-prepared Chemicals, and Test Kits.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Water Treatment Plants and at the North Regional Wastewater Treatment Plant (NRWWTP)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hach Company",
+   "model": null,
+   "part": "Hach brand bench scale meters used for State regulatory testing",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hach Company",
+   "reason": "These scales are used for State regulatory testing in support of water and wastewater permits.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Water and Wastewater Services Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hach Company",
+   "model": null,
+   "part": "Hach Preventative Maintenance & Repair Services for analytical instruments",
+   "part_numbers": [
+    "OPN2126578Q1"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hach Company",
+   "reason": "Our factory-trained service personnel are the only people authorized to perform any startup service, maintenance, or repair of these instruments.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Water Treatment Plants and at the North Regional Wastewater Treatment Plant (NRWWTP)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 19154,
+  "out": 3466
+ },
+ "model": "claude-sonnet-5"
+}

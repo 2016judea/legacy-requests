@@ -37,7 +37,8 @@
    "reason": "Axon Enterprise, Inc. products and services are proprietary; therefore, for this reason and in accordance with City Charter 16-05-4a, Finance and Personnel Committee approval is waived for services authorized by the Common Council.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Milwaukee Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon Enterprise",
@@ -63,7 +64,8 @@
    "reason": "Axon Enterprise, Inc. products and services are proprietary; therefore, for this reason and in accordance with City Charter 16-05-4a, Finance and Personnel Committee approval is waived for services authorized by the Common Council.",
    "equipment_class": "communications/radio",
    "installed_location": "Milwaukee Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon Enterprise",
@@ -102,7 +104,8 @@
    "reason": "Tactical Support Equipment, Inc. is the only vendor that can support the equipment as the equipment and software is proprietary.",
    "equipment_class": "other equipment",
    "installed_location": "Milwaukee Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Flock Group, Inc. dba Flock Safety",
@@ -154,7 +157,8 @@
    "reason": "ArgSoft's Argent Basic Support products and services are proprietary and are only available from one (1) source.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Department of Emergency Communications",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Detroit / Allison",
@@ -180,5 +184,12 @@
   "in": 68044,
   "out": 6593
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 68292,
+   "out": 7493
+  },
+  "stop_reason": "end_turn"
+ }
 }

@@ -11,7 +11,8 @@
    "reason": "StepMobile is the sole provider of any changes to the OCSS system",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Franklin County Municipal Court",
-   "is_obsolete": true
+   "is_obsolete": true,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 2812,
   "out": 165
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 3060,
+   "out": 174
+  },
+  "stop_reason": "end_turn"
+ }
 }

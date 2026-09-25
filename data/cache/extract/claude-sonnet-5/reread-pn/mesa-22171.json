@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Agilent Technologies",
+   "model": null,
+   "part": "Gas Chromatograph Mass Selective Detector/Flame Ionization Detector (Replacement)",
+   "part_numbers": [],
+   "quantity": "One",
+   "price_usd": 137000,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies",
+   "reason": "an older unit that has reached the end of its useful life",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Mesa Police Department",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2171,
+  "out": 184
+ },
+ "model": "claude-sonnet-5"
+}

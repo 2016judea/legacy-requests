@@ -50,7 +50,8 @@
    "reason": "The services for equipment installed by Trane U.S., Inc. are proprietary and cannot be subcontracted out.",
    "equipment_class": "HVAC",
    "installed_location": "Police Administration Building (PAB)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Trane",
@@ -63,7 +64,10 @@
    "reason": "The services for equipment installed by Trane U.S., Inc. are proprietary and cannot be subcontracted out.",
    "equipment_class": "HVAC",
    "installed_location": "Second District",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "L04B00843"
+   ]
   },
   {
    "manufacturer": "Trane",
@@ -76,7 +80,10 @@
    "reason": "The services for equipment installed by Trane U.S., Inc. are proprietary and cannot be subcontracted out.",
    "equipment_class": "HVAC",
    "installed_location": "Third District",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "L04B00857"
+   ]
   },
   {
    "manufacturer": "Trane",
@@ -89,7 +96,8 @@
    "reason": "The services for equipment installed by Trane U.S., Inc. are proprietary and cannot be subcontracted out.",
    "equipment_class": "HVAC",
    "installed_location": "Third District",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Trane",
@@ -102,7 +110,8 @@
    "reason": "The services for equipment installed by Trane U.S., Inc. are proprietary and cannot be subcontracted out.",
    "equipment_class": "HVAC",
    "installed_location": "Third District",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Trane",
@@ -115,7 +124,8 @@
    "reason": "The services for equipment installed by Trane U.S., Inc. are proprietary and cannot be subcontracted out.",
    "equipment_class": "HVAC",
    "installed_location": "Fourth District",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Trane",
@@ -128,7 +138,8 @@
    "reason": "The services for equipment installed by Trane U.S., Inc. are proprietary and cannot be subcontracted out.",
    "equipment_class": "HVAC",
    "installed_location": "Fifth District",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Trane",
@@ -141,7 +152,8 @@
    "reason": "The services for equipment installed by Trane U.S., Inc. are proprietary and cannot be subcontracted out.",
    "equipment_class": "HVAC",
    "installed_location": "Fifth District",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Intellinetics, Inc.",
@@ -154,7 +166,8 @@
    "reason": "The Intellivue Software is proprietary and can only be purchased, upgraded, supported and maintained by the manufacturer, Intellinetics, Inc.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Milwaukee Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -206,7 +219,8 @@
    "reason": "OnSolve is the sole source provider for the One Call Now system and Code RED, as it is a proprietary software.",
    "equipment_class": "communications/radio",
    "installed_location": "Fire and Police Commission Office of Emergency Management",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "GovWorx, Inc.",
@@ -219,7 +233,8 @@
    "reason": "GovWorx is not only the most readily compatible with the existing technology, but it also has a more comprehensive AI-powered solution.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Department of Emergency Communication (DEC) 911 Call Center",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Versalift, Challenger, Skylift",
@@ -232,7 +247,8 @@
    "reason": "Utility Sales and Service, Inc. is the only local factory-authorized service dealer for Versalift, Challenger, and Skylift branded equipment.",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Department of Public Works - Fleet",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -245,5 +261,12 @@
   "in": 30245,
   "out": 8700
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 30493,
+   "out": 8211
+  },
+  "stop_reason": "end_turn"
+ }
 }

@@ -11,7 +11,8 @@
    "reason": "Solutions by Design, Inc. is the only provider of such utility services in the City of Fresno, making the company a sole source for the necessary work",
    "equipment_class": "other equipment",
    "installed_location": "City Hall",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Planar",
@@ -24,7 +25,8 @@
    "reason": "Solutions by Design, Inc. is the only provider of such utility services in the City of Fresno, making the company a sole source for the necessary work",
    "equipment_class": "other equipment",
    "installed_location": "City Hall 3rd Floor Exhibit",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -37,7 +39,8 @@
    "reason": "Solutions by Design, Inc. is the only provider of such utility services in the City of Fresno, making the company a sole source for the necessary work",
    "equipment_class": "other equipment",
    "installed_location": "City Hall 3rd Floor Exhibit",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -50,7 +53,8 @@
    "reason": "Solutions by Design, Inc. is the only provider of such utility services in the City of Fresno, making the company a sole source for the necessary work",
    "equipment_class": "other equipment",
    "installed_location": "City Hall 3rd Floor Exhibit",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Dell",
@@ -63,7 +67,8 @@
    "reason": "Solutions by Design, Inc. is the only provider of such utility services in the City of Fresno, making the company a sole source for the necessary work",
    "equipment_class": "other equipment",
    "installed_location": "City Hall 3rd Floor Exhibit",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -76,7 +81,8 @@
    "reason": "AUTHORIZING AN EXCEPTION TO THE FORMAL BIDDING PROCEDURES AND AWARD A SOLE SOURCE AGREEMENT WITH SOLUTIONS BY DESIGN, INC... FOR THE VIDEO WALL DISPLAY AT CITY HALL AND REPLACEMENT OF THE COUNCIL CHAMBERS SCREEN",
    "equipment_class": "other equipment",
    "installed_location": "Council Chambers, City Hall",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -89,7 +95,8 @@
    "reason": "Contractor will be the exclusive provider to Client of certain ongoing web-based application hosting, IT maintenance, and help desk services related to the City Hall Display",
    "equipment_class": "service/maintenance contract",
    "installed_location": "City Hall",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -102,5 +109,12 @@
   "in": 40100,
   "out": 4191
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 40348,
+   "out": 3619
+  },
+  "stop_reason": "end_turn"
+ }
 }

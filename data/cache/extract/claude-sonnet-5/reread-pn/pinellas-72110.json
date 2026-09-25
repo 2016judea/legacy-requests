@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rhythm Engineering",
+   "model": "In|Sync",
+   "part": "24/7/365 Tech Support, software updates and repair or replacement of proprietary hardware for adaptive traffic signal system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 187000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Rhythm Engineering, LLC",
+   "reason": "In|Sync is a next generation adaptive signal system which allows County traffic professionals to automate signals in real time.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 4081,
+  "out": 216
+ },
+ "model": "claude-sonnet-5"
+}

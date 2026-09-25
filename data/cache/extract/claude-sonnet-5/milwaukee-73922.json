@@ -11,7 +11,8 @@
    "reason": "Simsi is the sole and exclusive licensor of Risk Terrain Modeling and RTMDx software, as well as related products.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Milwaukee Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 3649,
   "out": 235
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 3897,
+   "out": 236
+  },
+  "stop_reason": "end_turn"
+ }
 }

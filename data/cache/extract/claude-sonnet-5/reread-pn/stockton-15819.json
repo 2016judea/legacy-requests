@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trojan Technologies",
+   "model": "UVSIGNA",
+   "part": "OEM repair and replacement parts and on-call repair/maintenance/certified service for the UV disinfection system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1250000,
+   "lead_time": null,
+   "sole_source_vendor": "Trojan Technologies",
+   "reason": "Trojan Technologies is the only source for replacement parts and repair services in the United States.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Regional Wastewater Control Facility (RWCF)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 22469,
+  "out": 237
+ },
+ "model": "claude-sonnet-5"
+}

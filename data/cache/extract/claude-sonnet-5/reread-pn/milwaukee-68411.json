@@ -1,0 +1,100 @@
+{
+ "records": [
+  {
+   "manufacturer": "Heil",
+   "model": null,
+   "part": "Vendor Service Contract to Perform Supplemental Service Work on Heil Refuse Packer Bodies",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacQueen Equipment, LLC",
+   "reason": "MacQueen Equipment, LLC is the authorized distributor for Heil Refuse Packer Bodies and Elgin Street Sweepers sales, service, parts, and warranty repairs in Wisconsin. Most of these parts are patented by the manufacturer. No other sources are available for Heil OEM refuse packer parts in Wisconsin.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Elgin",
+   "model": null,
+   "part": "Vendor Service Contract to Perform Supplemental Service Work on Elgin Street Sweepers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MacQueen Equipment, LLC",
+   "reason": "MacQueen Equipment, LLC is the authorized distributor for Heil Refuse Packer Bodies and Elgin Street Sweepers sales, service, parts, and warranty repairs in Wisconsin. Most of these parts are patented by the manufacturer. No other sources are available for Heil OEM refuse packer parts in Wisconsin.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Versalift",
+   "model": null,
+   "part": "Vendor Service Contract to Perform Supplemental Service Work and Annual Inspections on Versalift Aerial Equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "USSI Holdings, Inc. d/b/a Utility Sales and Service",
+   "reason": "USSI Holdings, Inc. d/b/a Utility Sales and Service is the only local factory-authorized service dealer for Versalift, Challenger, and Skylift branded equipment.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Challenger",
+   "model": null,
+   "part": "Vendor Service Contract to Perform Supplemental Service Work and Annual Inspections on Challenger Aerial Equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "USSI Holdings, Inc. d/b/a Utility Sales and Service",
+   "reason": "USSI Holdings, Inc. d/b/a Utility Sales and Service is the only local factory-authorized service dealer for Versalift, Challenger, and Skylift branded equipment.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Skylift",
+   "model": null,
+   "part": "Vendor Service Contract to Perform Supplemental Service Work and Annual Inspections on Skylift Aerial Equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "USSI Holdings, Inc. d/b/a Utility Sales and Service",
+   "reason": "USSI Holdings, Inc. d/b/a Utility Sales and Service is the only local factory-authorized service dealer for Versalift, Challenger, and Skylift branded equipment.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Versalift",
+   "model": "Digger-Derrick",
+   "part": "Vendor Service Contract to Perform Supplemental Service Work and Annual Inspections on Versalift Digger-Derrick Equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "USSI Holdings, Inc. d/b/a Utility Sales and Service",
+   "reason": "USSI Holdings, Inc. d/b/a Utility Sales and Service is the only local factory-authorized service dealer for Versalift, Challenger, and Skylift branded equipment.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 16771,
+  "out": 3223
+ },
+ "model": "claude-sonnet-5"
+}

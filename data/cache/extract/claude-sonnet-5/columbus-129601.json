@@ -11,7 +11,8 @@
    "reason": "Medical Priority Consultants Inc. dba Priority Dispatch is the only known provider of maintenance, support, and licensing of their software.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "911 Communications Center",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 6001,
   "out": 225
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 6249,
+   "out": 274
+  },
+  "stop_reason": "end_turn"
+ }
 }

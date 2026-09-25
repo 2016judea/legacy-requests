@@ -11,7 +11,8 @@
    "reason": "The Energy Resources Department and Procurement Services recommend awarding the contract to the sole source vendor, B&W Distributors (a Mesa business) at $345,000, based on estimated requirements.",
    "equipment_class": "pipe/fitting",
    "installed_location": "Arizona Farms High-Pressure Gas Line Project (Magma system)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 1891,
   "out": 219
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 2139,
+   "out": 499
+  },
+  "stop_reason": "end_turn"
+ }
 }

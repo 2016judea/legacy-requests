@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Photo Safety Enforcement Program equipment (photo enforcement technology) contract",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1800000,
+   "lead_time": null,
+   "sole_source_vendor": "American Traffic Solutions, Inc. dba Verra Mobility",
+   "reason": "The Mesa Police Department and Procurement Services recommend awarding the contract to the sole source vendor, American Traffic Solutions, Inc. dba Verra Mobility",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Citywide",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2587,
+  "out": 449
+ },
+ "model": "claude-sonnet-5"
+}

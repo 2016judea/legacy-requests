@@ -1,0 +1,105 @@
+{
+ "records": [
+  {
+   "manufacturer": "ATEC Water Systems, LLC",
+   "model": "Model 08-60-36",
+   "part": "ATEC Water Filtration System (Iron/Manganese removal filters) with header piping, skids, controls, valves, media",
+   "part_numbers": [
+    "08-60-36",
+    "PFS-CPL03",
+    "PFS-CPL04",
+    "PFS-CAPOS",
+    "PFS-CPL08",
+    "PFS-HHPl 11",
+    "PFS-HHGl 11",
+    "PFS-HHGS11",
+    "PFS-HHCR11",
+    "V-BF4",
+    "UA SS48"
+   ],
+   "quantity": "8 vessels (36-inch diameter)",
+   "price_usd": 206772.13,
+   "lead_time": "17 weeks",
+   "sole_source_vendor": "ATEC Water Systems, LLC",
+   "reason": "ATEC Water Systems, LLC, is the sole manufacturer and exclusive provider of this proprietary filtration system. No other vendor offers a comparable product with the same design specifications and performance characteristics.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Pump Station 345-1, 185 South Burgan Avenue, Fresno County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bermad",
+   "model": "IR-4x4-350-P",
+   "part": "Main operating valve, industrial automatic multi-port diaphragm type for filter system",
+   "part_numbers": [
+    "IR-4x4-350-P",
+    "V-BF4 (Series 350 Backwash Valve)"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Main operating valves shall be Bermad IR-4x4-350-P. Substitutions will not be allowed.",
+   "equipment_class": "valve",
+   "installed_location": "Pump Station 345-1",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Alex-Tronic",
+   "model": "F-12",
+   "part": "Factory-mounted and wired cycle controller for automatic backwash of filter system",
+   "part_numbers": [
+    "F-12"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The controller to be used is an Alex-Tronic F-12, or similar, which requires a 120 VAC connection which provides a local panel indication of backwash status and alarm.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Pump Station 345-1",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Pyrolox Advantage (AS-741M)",
+   "part": "Manganese dioxide filter media (pyrolusite) for iron/manganese removal filters",
+   "part_numbers": [
+    "AS-741M"
+   ],
+   "quantity": "197.82 cubic ft per vessel (approx.)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Alternative media will not be accepted unless the equipment supplier demonstrates with a __-day pilot test that the media will meet the treatment requirements.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Pump Station 345-1",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Michael K. Nunley & Associates, Inc.",
+   "model": null,
+   "part": "Consultant Services Agreement (Second Amendment) for design/engineering of Well 345-1 Treatment System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3600.0,
+   "lead_time": null,
+   "sole_source_vendor": "Michael K. Nunley & Associates, Inc.",
+   "reason": "Approve the Second Amendment to the Consultant Services Agreement with Michael K. Nunley & Associates, Inc.... for the design of the Well 345-1 Treatment System",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Well 345-1 / Pump Station 345-1",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 8,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 56722,
+  "out": 1320
+ },
+ "model": "claude-sonnet-5"
+}

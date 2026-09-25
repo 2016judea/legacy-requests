@@ -1,0 +1,114 @@
+{
+ "records": [
+  {
+   "manufacturer": "Alstom",
+   "model": "Innovia APM 300R",
+   "part": "Purchase of 19 custom manufactured AGTS vehicles (17 paid + 2 free of charge) to replace obsolete vehicles and support system growth",
+   "part_numbers": [],
+   "quantity": "19",
+   "price_usd": 69941000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Alstom Transportation USA Inc",
+   "reason": "to support replacement of existing obsolete vehicles and growth of the Automated Guideway Transit System (AGTS) at Denver International Airport",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Denver International Airport",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Alstom",
+   "model": "INNOVIA APM 300R",
+   "part": "17 INNOVIA APM 300R vehicles at base unit price under Amended Final Offer",
+   "part_numbers": [],
+   "quantity": "17",
+   "price_usd": 64141000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Alstom Transport USA Inc",
+   "reason": "Amended Final Offer for 17 + 2 (free of charge) INNOVIA 300R vehicles",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Denver International Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Alstom",
+   "model": "INNOVIA APM 300R",
+   "part": "2 additional INNOVIA APM 300R vehicles provided at no charge as resolution of liabilities for delayed vehicle delivery under prior contract",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": 0.0,
+   "lead_time": null,
+   "sole_source_vendor": "Alstom Transport USA Inc",
+   "reason": "as the mutually agreed resolution of the liabilities associated with the delayed vehicle delivery under the current CONTRACT NO. 201841190",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Denver International Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "ORS radio equipment",
+   "part": "Obsolete ORS radio equipment/components harvested from decommissioned APM 100 vehicles, refurbished and reused for 15 of 19 APM 300R vehicles",
+   "part_numbers": [],
+   "quantity": "15",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Obsolete ORS radio equipment/components will be harvested from decommissioned APM 100 vehicles and refurbished and reused for the 15 of 19 APM 300R vehicles.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Denver International Airport",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": "CX-100",
+   "part": "Decommissioning of fifteen (15) existing CX-100 vehicles including removal of hazardous materials, stripping parts, transport and disposal",
+   "part_numbers": [],
+   "quantity": "15",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Alstom Transport USA Inc",
+   "reason": "Decommissioning of fifteen (15) existing vehicles, which includes: pulling the vehicles off the system, stripping of certain parts, removal of any hazardous material, loading vehicles onto a trailer, and transporting them",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Denver International Airport",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Capital Spares and Special Tools for new vehicles (to be offered as future Variation Order)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Alstom Transport USA Inc",
+   "reason": "Capital Spares and Special Tools are not included and will be offered as a Variation Order once the spare parts list has been agreed upon.",
+   "equipment_class": "other equipment",
+   "installed_location": "Denver International Airport",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "CITYFLO 550",
+   "part": "Control system that vehicles will operate with",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "will be able to operate with the newly installed CITYFLO 550 control system, but shall be able to operate on any future control upgrade",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Denver International Airport",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 55101,
+  "out": 1507
+ },
+ "model": "claude-sonnet-5"
+}

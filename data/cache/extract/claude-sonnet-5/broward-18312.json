@@ -11,7 +11,8 @@
    "reason": "MWI pumps are proprietary and are not interchangeable with other brands.",
    "equipment_class": "pump",
    "installed_location": "WMD pump stations PS-1, PS-4, and PS-46 along the Hillsboro Canal; planned installation at PS-45",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "MWI",
@@ -24,7 +25,10 @@
    "reason": "MWI Corporation manufactures and provides maintenance and repair services for WMD surface water pumps.",
    "equipment_class": "pump",
    "installed_location": "Water and Wastewater Services",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "SEA 318P25"
+   ]
   },
   {
    "manufacturer": "MWI",
@@ -37,7 +41,10 @@
    "reason": "MWI Corporation manufactures and provides maintenance and repair services for WMD surface water pumps.",
    "equipment_class": "pump",
    "installed_location": "Water and Wastewater Services",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "SEA 324"
+   ]
   },
   {
    "manufacturer": "MWI",
@@ -50,7 +57,8 @@
    "reason": "In the state of Florida, there are no representatives authorized by MWI to provide repair services to MWI pumps; MWI covers the entire state of Florida.",
    "equipment_class": "service/maintenance contract",
    "installed_location": "Water and Wastewater Services",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "MWI Corporation",
@@ -63,7 +71,8 @@
    "reason": "the manufacturer, MWI Corporation dba MWI Pumps, indicated that they were the sole representative for the purchase of MWI Pump products",
    "equipment_class": "service/maintenance contract",
    "installed_location": "Water and Wastewater Services",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -76,5 +85,12 @@
   "in": 79308,
   "out": 3857
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 79556,
+   "out": 2916
+  },
+  "stop_reason": "end_turn"
+ }
 }

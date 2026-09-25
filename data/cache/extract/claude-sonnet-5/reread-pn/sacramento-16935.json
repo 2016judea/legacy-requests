@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "BMW",
+   "model": "Motorcycle",
+   "part": "BMW Motorcycle original equipment manufacturer (OEM) parts and repair services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 150000,
+   "lead_time": null,
+   "sole_source_vendor": "A&S Motorcycle Parts, Inc.",
+   "reason": "Staff conducted an extensive search within the local area and found one authorized service center within a 20-mile radius.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 3358,
+  "out": 278
+ },
+ "model": "claude-sonnet-5"
+}

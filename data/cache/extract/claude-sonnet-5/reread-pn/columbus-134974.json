@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cornerstone OnDemand, Inc.",
+   "model": "Cornerstone Learn Bundle",
+   "part": "Annual maintenance and support of the City's Learning Management System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 259572.62,
+   "lead_time": null,
+   "sole_source_vendor": "Cornerstone OnDemand, Inc.",
+   "reason": "The City's learning management system is a proprietary system from Cornerstone OnDemand, Inc., and as such, the city must purchase annual maintenance services from Cornerstone OnDemand, Inc.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 29772,
+  "out": 778
+ },
+ "model": "claude-sonnet-5"
+}

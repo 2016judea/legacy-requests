@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Idemia Identity & Security USA, LLC",
+   "model": "AFIS",
+   "part": "Continue payments for upgraded Automated Fingerprint Identification System (AFIS) maintenance and technical support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1075767.0,
+   "lead_time": null,
+   "sole_source_vendor": "Idemia Identity & Security USA, LLC.",
+   "reason": "the upgrade to AFIS was conducted in accordance with sole source provisions of Chapter 329 due to the proprietary nature of the technology and prohibitive cost of conversion to a different system and fingerprint database",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 5149,
+  "out": 260
+ },
+ "model": "claude-sonnet-5"
+}

@@ -11,7 +11,8 @@
    "reason": "The software is proprietary and can only be purchased, upgraded, supported, and maintained by the manufacturer, Bentley Systems, Incorporated.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Abbott Laboratories, Inc.",
@@ -24,7 +25,8 @@
    "reason": "the MHD Lab has been utilizing the Abbott Architect i1000 Instrument to provide sexually transmitted infection (STI) testing",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "Milwaukee Health Department Keenan Health Center Laboratory",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Exacq Vision",
@@ -50,7 +52,8 @@
    "reason": "Aspen Aerials, Inc. is the sole service provider for all Aspen Aerials bridge inspection units.",
    "equipment_class": "vehicle/fleet",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -63,5 +66,12 @@
   "in": 21378,
   "out": 3991
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 21626,
+   "out": 9485
+  },
+  "stop_reason": "end_turn"
+ }
 }

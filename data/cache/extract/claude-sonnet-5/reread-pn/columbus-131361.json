@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "CGI Technologies and Solutions, Inc.",
+   "model": "Pragma CAD (OpenGrid Workforce and Field)",
+   "part": "Software maintenance and support services for Pragma CAD mobile dispatching system, plus HERE licenses",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 68972.0,
+   "lead_time": "one year, beginning December 18, 2024 and ending December 17, 2025",
+   "sole_source_vendor": "CGI Technologies and Solutions, Inc.",
+   "reason": "CGI, as owner and manufacturer of the OpenGrid Workforce and Field (PragmaCAD) software is the sole provider for services and maintenance performed in relation to OpenGrid Workforce and Field (PragmaCAD) software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Public Utilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 4795,
+  "out": 314
+ },
+ "model": "claude-sonnet-5"
+}

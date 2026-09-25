@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Caterpillar",
+   "model": null,
+   "part": "Caterpillar replacement parts and equipment services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 5900000,
+   "lead_time": null,
+   "sole_source_vendor": "Quinn Company",
+   "reason": "the County found the Quinn Company to be the only Authorized Caterpillar Distributor Contractor, to provide these goods and services",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 34962,
+  "out": 176
+ },
+ "model": "claude-sonnet-5"
+}

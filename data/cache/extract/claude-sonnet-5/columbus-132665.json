@@ -11,7 +11,8 @@
    "reason": "Schneider Electric Smart Grid Solutions, LLC (Schneider Electric) is the sole owner of the ArcFM Solution software, as well as the sole domestic provider of maintenance and support for that software.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Department of Public Utilities (DPU)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 4263,
   "out": 283
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 4511,
+   "out": 296
+  },
+  "stop_reason": "end_turn"
+ }
 }

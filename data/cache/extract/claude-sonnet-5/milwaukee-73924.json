@@ -24,7 +24,8 @@
    "reason": "Axon Enterprise, Inc. products and services are proprietary and Axon is the only vendor that can provide these services to Milwaukee Police Department.",
    "equipment_class": "other equipment",
    "installed_location": "Milwaukee Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -63,7 +64,8 @@
    "reason": "Axon Enterprise, Inc. products and services are proprietary and Axon is the only vendor that can provide these services to Milwaukee Police Department.",
    "equipment_class": "communications/radio",
    "installed_location": "Milwaukee Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -102,7 +104,8 @@
    "reason": "MPD Criminal Investigations Bureau is requesting to add Interview Room 1 Camera Essential to a \"soft\" interview room where interviews can be held with individuals who are not in custody.",
    "equipment_class": "other equipment",
    "installed_location": "Milwaukee Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -115,5 +118,12 @@
   "in": 8581,
   "out": 3203
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 8829,
+   "out": 5055
+  },
+  "stop_reason": "end_turn"
+ }
 }

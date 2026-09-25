@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sutphen",
+   "model": null,
+   "part": "Sutphen OEM Parts and Services used to repair and maintain City fire trucks",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Heritage Fire Equipment, LLC",
+   "reason": "Heritage Fire Equipment, LLC is the sole source for these parts and services as they are the only local distributor and authorized service provider for this specific manufacturer.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Division of Fleet Management",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 4131,
+  "out": 219
+ },
+ "model": "claude-sonnet-5"
+}

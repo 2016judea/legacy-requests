@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Teleflex",
+   "model": "EZ-IO",
+   "part": "EZ-IO Needle Kits and Related Items",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Teleflex LLC",
+   "reason": "Teleflex LLC is the sole source provider for these items and they are the only local distributor for this specific manufacturer.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Fire",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 3862,
+  "out": 189
+ },
+ "model": "claude-sonnet-5"
+}

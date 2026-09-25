@@ -1,0 +1,100 @@
+{
+ "records": [
+  {
+   "manufacturer": "ESO Solutions, Inc.",
+   "model": "ESO Suite / Fire Records Management System (FRMS)",
+   "part": "Fire Records Management Software (FRMS) licenses, subscriptions, support and maintenance, and optional services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2472000,
+   "lead_time": null,
+   "sole_source_vendor": "ESO Solutions, Inc.",
+   "reason": "On or about March 3, 2024, County identified Contractor as the sole or only reasonable source to provide the Fire RMS.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Broward County Fire Rescue agencies",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ESO Solutions, Inc.",
+   "model": "ESO Fire RMS",
+   "part": "Fire Records Management Software licenses, product licenses (keys), and maintenance/support for 11 existing Fire Rescue agencies",
+   "part_numbers": [],
+   "quantity": "11 agencies",
+   "price_usd": 400000,
+   "lead_time": null,
+   "sole_source_vendor": "ESO Solutions, Inc.",
+   "reason": "ESO is the only company capable of offering the ESO Fire RMS software, product licenses (keys), and maintenance/support for the ESO product",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Broward Sheriff's Office, Dania, Hollywood, Lauderdale By The Sea, Lauderhill, Lighthouse Point, Margate, Oakland Park, Pompano Beach, Pembroke Pines and Tamarac",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ESO Solutions, Inc.",
+   "model": "ESO Fire RMS",
+   "part": "Fire Records Management Software subscription for excluded/future fire rescue agencies (Ft. Lauderdale, Sunrise, North Lauderdale, and others)",
+   "part_numbers": [],
+   "quantity": "8 agencies",
+   "price_usd": 450000,
+   "lead_time": null,
+   "sole_source_vendor": "ESO Solutions, Inc.",
+   "reason": "ORCAT would only be paying to implement ESO for the remaining 3 agencies (Ft. Lauderdale, Sunrise and North Lauderdale)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Ft. Lauderdale, Sunrise, North Lauderdale",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ESO Solutions, Inc.",
+   "model": "ESO Suite",
+   "part": "Optional Services for future feature additions or enhancements to Fire RMS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1622000,
+   "lead_time": null,
+   "sole_source_vendor": "ESO Solutions, Inc.",
+   "reason": "Optional Services were included in the Agreement to accommodate potential future feature additions or enhancements and are also subject to budget availability.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "First Due Size-Up",
+   "part": "Pre-fire planning software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "which such software will facilitate FUR when agencies respond outside of their primary response areas",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Broward County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Existing Fire Records Management System (FRMS)",
+   "part": "Existing Fire Records Management System being replaced",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The existing Fire Records Management System (FRMS) no longer meets the operational requirements of first responders due to its technology and functionality limitations",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Broward County",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 25916,
+  "out": 1348
+ },
+ "model": "claude-sonnet-5"
+}

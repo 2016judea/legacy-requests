@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Emergency Vehicle Preemption (EVP) systems and equipment",
+   "part_numbers": [],
+   "quantity": "approximately 400 signalized intersections",
+   "price_usd": 250000,
+   "lead_time": null,
+   "sole_source_vendor": "A & M Signal, LLC",
+   "reason": "The Transportation Department and Purchasing recommend awarding the contract to the sole source vendor, A & M Signal, LLC",
+   "equipment_class": "other equipment",
+   "installed_location": "Citywide",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2331,
+  "out": 203
+ },
+ "model": "claude-sonnet-5"
+}

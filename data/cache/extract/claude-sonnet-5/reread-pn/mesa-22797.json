@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "UKG",
+   "model": "Kronos",
+   "part": "78 Time Terminals (Replacements) for Various City Departments",
+   "part_numbers": [],
+   "quantity": "78",
+   "price_usd": 280877,
+   "lead_time": null,
+   "sole_source_vendor": "UKG Kronos Systems, LLC",
+   "reason": "The vendor, UKG, has informed the City that the existing terminals are approaching their end-of-support dates, prompting the need for replacement.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Citywide",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2255,
+  "out": 199
+ },
+ "model": "claude-sonnet-5"
+}

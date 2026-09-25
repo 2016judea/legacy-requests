@@ -11,7 +11,8 @@
    "reason": "Schneider Electric Smart Grid Solutions LLC, is the sole provider and sole owner of the Responder software solution",
    "equipment_class": "SCADA/controls/software",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 4051,
   "out": 208
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 4299,
+   "out": 218
+  },
+  "stop_reason": "end_turn"
+ }
 }

@@ -11,7 +11,8 @@
    "reason": "The new contract will allow existing outdated technology to be updated to more dependable equipment.",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "Citywide",
-   "is_obsolete": true
+   "is_obsolete": true,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 2339,
   "out": 191
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 2587,
+   "out": 449
+  },
+  "stop_reason": "end_turn"
+ }
 }

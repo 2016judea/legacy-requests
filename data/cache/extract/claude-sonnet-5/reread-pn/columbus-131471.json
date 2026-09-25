@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Cornerstone OnDemand, Inc.",
+   "model": "Cornerstone Learning Management System",
+   "part": "Annual maintenance and support of the City's Learning Management System software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 245762.7,
+   "lead_time": null,
+   "sole_source_vendor": "Cornerstone OnDemand, Inc.",
+   "reason": "The City's learning management system is a proprietary system from Cornerstone OnDemand, Inc., and as such, the city must purchase annual maintenance services from Cornerstone OnDemand, Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 6060,
+  "out": 241
+ },
+ "model": "claude-sonnet-5"
+}

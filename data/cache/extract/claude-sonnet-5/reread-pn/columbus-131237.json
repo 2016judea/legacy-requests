@@ -1,0 +1,448 @@
+{
+ "records": [
+  {
+   "manufacturer": "Trimble",
+   "model": "X7",
+   "part": "TRIMBLE X7 KIT (BYOD)",
+   "part_numbers": [
+    "X7-100-00-BYOD"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 41039.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": null,
+   "part": "DUAL BATTERY CHARGER WITH POWER SUPPLY",
+   "part_numbers": [
+    "101070-00-01"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 700.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": "T10x",
+   "part": "T10x (2024) Tablet",
+   "part_numbers": [
+    "114050-40-1"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 4599.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": null,
+   "part": "BPACK,LI-ION,INDUS,3S2P,11.4V,8000MAHR",
+   "part_numbers": [
+    "114111"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 405.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": null,
+   "part": "T10 BATTERY CHARGER KIT / SINGLE BATTERY",
+   "part_numbers": [
+    "114113"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 235.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": "T10x",
+   "part": "Trimble T10x (2024) Shoulder Strap",
+   "part_numbers": [
+    "131932"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 99.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": null,
+   "part": "USB C Vehicle Charger",
+   "part_numbers": [
+    "121718-BLK-"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 231.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": "Forensics Capture",
+   "part": "TRIMBLE FORENSICS CAPTURE",
+   "part_numbers": [
+    "FOR-02-TFC"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 2200.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": "Forensics Capture",
+   "part": "Upgrade TF Capture to TF Capture W/ X7 Module data collector software",
+   "part_numbers": [
+    "FOR-CAP-WIN-P-UPG"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 1650.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": "Forensics Suite",
+   "part": "Trimble Forensics Suite (Subscription) (Reveal + TRW Forensics)",
+   "part_numbers": [
+    "FOR-03-0313-NR"
+   ],
+   "quantity": "2 EA",
+   "price_usd": 950.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "MAGNAIL 2 X1/4",
+   "part_numbers": [
+    "242000"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 29.72,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": "S5",
+   "part": "S5 5\" ROBOTIC, DR PLUS, ACTIVE TRACKING",
+   "part_numbers": [
+    "S5552200"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 26340.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": null,
+   "part": "DUAL BATTERY CHARGER WITH POWER SUPPLY",
+   "part_numbers": [
+    "101070-00-01"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 700.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Power Cord Kit - USA, EU, UK, AUS with C7 Connector",
+   "part_numbers": [
+    "78651-SPN"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 55.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": "MultiTrack",
+   "part": "Trimble MultiTrack Target including 7.4",
+   "part_numbers": [
+    "MT1000"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 3190.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": null,
+   "part": "S SERIES ROBOT BATTERY 10.8V 6500 MAH",
+   "part_numbers": [
+    "99511-30"
+   ],
+   "quantity": "2 EA",
+   "price_usd": 712.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": null,
+   "part": "Rod - Trimble standard telescopic rod 2",
+   "part_numbers": [
+    "51003007"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 397.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "BIPOD TRB 1/2-13SS UNIVERSAL",
+   "part_numbers": [
+    "5217-04-YEL"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 184.5,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": "Tri-Max",
+   "part": "Tripod - Dual Clamp Tri-Max with Trimble",
+   "part_numbers": [
+    "90553-TR"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 555.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SitePro",
+   "model": null,
+   "part": "SITEPRO TRIPOD FLOOR GUIDE, LARGE",
+   "part_numbers": [
+    "01-TFG2"
+   ],
+   "quantity": "2 EA",
+   "price_usd": 78.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": "R4SLE",
+   "part": "R4SLE GNSS PACKAGE - FORENSICS",
+   "part_numbers": [
+    "FOR-01-0105"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 7360.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": "TSC5",
+   "part": "Trimble TSC5 controller - WWAN, Worldwide region",
+   "part_numbers": [
+    "TSC5-1-1100-00"
+   ],
+   "quantity": "2 EA",
+   "price_usd": 9030.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": "Forensics Capture",
+   "part": "TRIMBLE FORENSICS CAPTURE",
+   "part_numbers": [
+    "FOR-02-TFC"
+   ],
+   "quantity": "2 EA",
+   "price_usd": 4400.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": "EM120",
+   "part": "EM120 2.4GHZ RADIO",
+   "part_numbers": [
+    "110238-00-1"
+   ],
+   "quantity": "2 EA",
+   "price_usd": 3660.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "communications/radio",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": "TSC5",
+   "part": "TSC5 Pole Mount Bracket",
+   "part_numbers": [
+    "121952-01-GEO"
+   ],
+   "quantity": "2 EA",
+   "price_usd": 160.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Trimble",
+   "model": "TSC5 / TSC7",
+   "part": "TSC5 / TSC7 Quick Release Pole Mount Clamp with Adjustable Arm",
+   "part_numbers": [
+    "121951-01-GEO"
+   ],
+   "quantity": "2 EA",
+   "price_usd": 470.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Digital Storm",
+   "model": "Corsa Pro",
+   "part": "Laser Scanning Processing/Data Storage Bundle",
+   "part_numbers": [
+    "4935258"
+   ],
+   "quantity": "1 EA",
+   "price_usd": 3904.0,
+   "lead_time": null,
+   "sole_source_vendor": "Precision Laser & Instrument",
+   "reason": "there is no other source for obtaining this equipment in this territory than to purchase directly from Precision Laser & Instrument",
+   "equipment_class": "other equipment",
+   "installed_location": "Division of Police Accident Investigation Unit (AIU)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 7827,
+  "out": 8603
+ },
+ "model": "claude-sonnet-5"
+}

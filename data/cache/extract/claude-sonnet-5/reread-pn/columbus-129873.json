@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "The Screen Machine",
+   "model": "612T",
+   "part": "Trommel screen plant to sort/divert litter, organics, #8 limestone, and RAP for recycling initiatives",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 225000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Ohio Machinery Co.",
+   "reason": "Ohio Machinery Co. is the sole Ohio dealer for this specialized equipment that aids in litter reduction and recycling initiatives.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Division of Infrastructure Management, 25th Avenue Facility, Columbus, OH",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 30802,
+  "out": 272
+ },
+ "model": "claude-sonnet-5"
+}

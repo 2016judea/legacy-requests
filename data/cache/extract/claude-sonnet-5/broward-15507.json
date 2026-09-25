@@ -284,7 +284,10 @@
    "reason": "replacing the manufacturer will necessitate re-cabling entire intersections, which will result in an exorbitant expenditure and incur financial hardship to the County",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "signalized intersections throughout Broward County",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "TC650"
+   ]
   },
   {
    "manufacturer": "Teledyne FLIR",
@@ -297,7 +300,8 @@
    "reason": "Flir does not sell products related to intersection control factory direct-only through our vendor/distributor.",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "signalized intersections throughout Broward County",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Teledyne FLIR",
@@ -323,7 +327,8 @@
    "reason": "Flir does not sell products related to intersection control factory direct-only through our vendor/distributor.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "signalized intersections throughout Broward County",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Teledyne FLIR",
@@ -336,7 +341,10 @@
    "reason": "Flir does not sell products related to intersection control factory direct-only through our vendor/distributor.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "signalized intersections throughout Broward County",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "WIRE-VC-RG18/6"
+   ]
   },
   {
    "manufacturer": "Teledyne FLIR",
@@ -349,7 +357,10 @@
    "reason": "replacing the manufacturer will necessitate re-cabling entire intersections, which will result in an exorbitant expenditure and incur financial hardship to the County",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "signalized intersections throughout Broward County",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "2300-240-6"
+   ]
   },
   {
    "manufacturer": "Teledyne FLIR",
@@ -362,7 +373,10 @@
    "reason": "replacing the manufacturer will necessitate re-cabling entire intersections, which will result in an exorbitant expenditure and incur financial hardship to the County",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "signalized intersections throughout Broward County",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "CP882"
+   ]
   },
   {
    "manufacturer": "Teledyne FLIR",
@@ -375,7 +389,10 @@
    "reason": "replacing the manufacturer will necessitate re-cabling entire intersections, which will result in an exorbitant expenditure and incur financial hardship to the County",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "signalized intersections throughout Broward County",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "CP892"
+   ]
   }
  ],
  "info": {
@@ -388,5 +405,12 @@
   "in": 37616,
   "out": 15125
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 37864,
+   "out": 12861
+  },
+  "stop_reason": "end_turn"
+ }
 }

@@ -24,5 +24,12 @@
   "in": 2515,
   "out": 242
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 2763,
+   "out": 252
+  },
+  "stop_reason": "end_turn"
+ }
 }

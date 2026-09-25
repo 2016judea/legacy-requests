@@ -1,0 +1,72 @@
+{
+ "records": [
+  {
+   "manufacturer": "SoundThinking, Inc.",
+   "model": "1-Mile ShotSpotter Unit",
+   "part": "Vendor Service Contract for ShotSpotter System Maintenance and Lease of 1-Mile ShotSpotter Unit",
+   "part_numbers": [],
+   "quantity": "13.0 sq. mi. coverage",
+   "price_usd": 7202094.25,
+   "lead_time": null,
+   "sole_source_vendor": "SoundThinking, Inc.",
+   "reason": "SoundThinking, Inc. (formerly ShotSpotter, Inc.) was the low bidder for competitive Bid 2369 which was Rebid in the year 2010. The system, software and hardware are proprietary, and maintenance and support can only be provided by SoundThinking, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Vendor Service Contract for Maintenance and Support of Integrated Security System (control system, servers, control equipment, microphones, cameras, control panels, intercom controllers, network video recorders, speakers)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 265981.0,
+   "lead_time": null,
+   "sole_source_vendor": "Paul and Tracey Tikalsky dba PAT Sales Company, LLC",
+   "reason": "Paul and Tracey Tikalsky dba PAT Sales Company, LLC has provided support and maintenance to the Milwaukee Police Department's security system at the Police Administration Building, including the jail system. The Contractor has engineered the control system, related servers, control equipment, microphones, cameras, control panels, intercom controllers, network video recorders, and speakers.",
+   "equipment_class": "other equipment",
+   "installed_location": "Police Administration Building",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Medical Priority Consultants, Inc. dba Priority Dispatch Corp.",
+   "model": "ProQA",
+   "part": "Vendor Service Contract for ProQA Licenses, Training, Annual Maintenance, Service and Support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 863224.78,
+   "lead_time": null,
+   "sole_source_vendor": "Medical Priority Consultants, Inc. dba Priority Dispatch Corp.",
+   "reason": "ProQA is proprietary software of Priority Dispatch Corp. and has a contract already in place for the Milwaukee Fire Department and for use by the DEC for annual maintenance support of the software.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "FileDirector, E-Vault & Assureon Storage Software",
+   "part": "Vendor Service Contract for Renewal of FileDirector, E-Vault & Assureon Storage Software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 322646.04,
+   "lead_time": null,
+   "sole_source_vendor": "Heartland Business Systems, LLC",
+   "reason": "Heartland Business Systems, LLC (Heartland) has been providing this software, hardware upgrades, and maintenance services needed for the imaging system equipment since 2018. The software is proprietary to Heartland. They are the only authorized provider of FileDirector software support and hardware in the state of Wisconsin and the exclusive reseller for this equipment and software to the City of Milwaukee.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 20016,
+  "out": 3674
+ },
+ "model": "claude-sonnet-5"
+}

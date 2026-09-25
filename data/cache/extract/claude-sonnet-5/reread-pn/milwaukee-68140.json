@@ -1,0 +1,58 @@
+{
+ "records": [
+  {
+   "manufacturer": "M-B Co., Inc. dba M-B Companies, Inc.",
+   "model": null,
+   "part": "5-Year Service Rebuild for a Long Line Paint Striper",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 189911.24,
+   "lead_time": null,
+   "sole_source_vendor": "M-B Co., Inc. dba M-B Companies, Inc.",
+   "reason": "M-B Companies is the original equipment manufacturer and the sole source of parts and repairs for this proprietary and highly specialized equipment.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "VertiGIS North America, Ltd.",
+   "model": "GeoCortex Essentials",
+   "part": "Vendor Service Contract for GeoCortex Licensing, Maintenance, Training and Support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 112789.0,
+   "lead_time": null,
+   "sole_source_vendor": "VertiGIS North America, Ltd.",
+   "reason": "VertiGIS North America, Ltd. is the sole developer and distributor of GeoCortex Essentials Software. GeoCortex Essentials Software is proprietary and is not available through other software resellers or vendors.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Maintenance and Support of Integrated Security System (control system, servers, control equipment, microphones, cameras, control panels, intercom controllers, network video recorders, and speakers)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 172734.0,
+   "lead_time": null,
+   "sole_source_vendor": "Paul and Tracey Tikalsky dba PAT Sales Company, LLC",
+   "reason": "PAT Sales Company, LLC has provided support and maintenance to the Milwaukee Police Department's security system at the Police Administration Building, including the jail system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Police Administration Building",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 21500,
+  "out": 2863
+ },
+ "model": "claude-sonnet-5"
+}

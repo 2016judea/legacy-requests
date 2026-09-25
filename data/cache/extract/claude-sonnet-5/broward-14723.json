@@ -11,7 +11,8 @@
    "reason": "First Due Size Up is the only company capable of offering the First Due Size Up software, product licenses (keys), and maintenance/support.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Broward County Office of Regional Communications and Technology (ORCAT)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 8605,
   "out": 211
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 8853,
+   "out": 219
+  },
+  "stop_reason": "end_turn"
+ }
 }

@@ -1,0 +1,60 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sitecore",
+   "model": "Sitecore XM Cloud",
+   "part": "Sitecore XM Cloud Digital Experience Platform software, support, subscriptions, and product services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1940000,
+   "lead_time": null,
+   "sole_source_vendor": "Sitecore USA, Inc.",
+   "reason": "this Gartner recommended product remains the only software available to meet the County's current requirements, and the future needs to serve the best interests of the County.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Broward County",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Microsoft",
+   "model": "SharePoint 2019",
+   "part": "On-premises digital content delivery/publishing platform being replaced",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The product shall replace the end of sale/support of current on-premises Microsoft SharePoint 2019 software with an announced end date of July 14, 2026.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Broward County",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Sitecore",
+   "model": "Sitecore XM Cloud",
+   "part": "Software-as-a-service agreement for digital experience platform including CMS, personalization, digital asset management, marketing automation, CDP",
+   "part_numbers": [
+    "PNC2130956A1"
+   ],
+   "quantity": null,
+   "price_usd": 5920000,
+   "lead_time": null,
+   "sole_source_vendor": "Sitecore USA, Inc.",
+   "reason": "Sitecore XM Cloud is the only product reviewed that met all requirements of the Office of Public Communications, Enterprise Technology Services, and the known needs of agency website Authors around the County.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Broward.org and BrowardEmployee.org",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 1
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 13714,
+  "out": 662
+ },
+ "model": "claude-sonnet-5"
+}

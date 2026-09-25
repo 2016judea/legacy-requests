@@ -11,7 +11,8 @@
    "reason": "the system is proprietary to Comprise, continuation of services with the current provider is necessary to maintain system functionality, compatibility, and operational continuity",
    "equipment_class": "other equipment",
    "installed_location": "Department of Public Works-Transportation",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Fusus, Inc.",
@@ -50,7 +51,8 @@
    "reason": "GeneXpert analyzer is proprietary to Cepheid and not able to be performed or purchased by any other vendor.",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "Milwaukee Health Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -63,5 +65,12 @@
   "in": 18053,
   "out": 2354
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 18301,
+   "out": 2542
+  },
+  "stop_reason": "end_turn"
+ }
 }

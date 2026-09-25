@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Genetec, Inc.",
+   "model": "Genetec Advantage",
+   "part": "security camera software maintenance and support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 76092.9,
+   "lead_time": null,
+   "sole_source_vendor": "KNS Services, Inc.",
+   "reason": "Genetec Inc. requires their warranty services to be performed by the dealer of record, KNS Services, Inc. to prevent multiple vendors from getting into the Genetec System and making changes",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Recreation and Parks facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 4088,
+  "out": 219
+ },
+ "model": "claude-sonnet-5"
+}

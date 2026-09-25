@@ -1,0 +1,114 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "OEM vehicle parts and supplies for maintenance and repair of City-owned vehicles and equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 750000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Ford Motor Company",
+   "reason": "Ford Motor Company was awarded a contract via Sourcewell RFP# 080124, which went into effect on January 2, 2025.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "City of Fresno",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Automobile OEM Parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ford Motor Company",
+   "reason": "The only Ford OEM parts authorized by Ford Motor Company for Ford & Lincoln vehicles. These parts are only sold at Ford Dealerships (2,900+ locations nationally) and Ford Authorized Distributors (459 locations nationally)",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "SUV OEM Parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ford Motor Company",
+   "reason": "The only Ford OEM Parts authorized by Ford Motor Company for Ford & Lincoln SUVs to include Police Interceptors purchased by government agencies. These parts are only sold at Ford Dealerships (2,900+) and Ford Authorized Distributors (459 locations).",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": "Transit",
+   "part": "Van OEM Parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ford Motor Company",
+   "reason": "The only Ford OEM Parts authorized by Ford Motor Company for Ford Transit Vans. These parts are only sold at Ford Dealerships (2,900+) and Ford Authorized Distributors (459 locations).",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": "Maverick, Ranger",
+   "part": "Light Truck OEM Parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ford Motor Company",
+   "reason": "The only Ford OEM Parts authorized by Ford Motor Company for Ford light trucks. (Example: Ford Maverick, Ford Ranger) These parts are only sold at Ford Dealerships (2,900+) and Ford Authorized Distributors (459 locations).",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": "F-350, 450, 550, 650, 750",
+   "part": "Class 3-8 Chassis and equipment OEM Parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ford Motor Company",
+   "reason": "The only Ford OEM Parts authorized by Ford Motor Company for Ford F-350, 450, 550, 650, 750 trucks. These parts are only sold at Ford Dealerships (2,900+) and Ford Authorized Distributors (459 locations).",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ford",
+   "model": null,
+   "part": "Bus OEM Parts (Ford Bus Chassis)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ford Motor Company",
+   "reason": "The only Ford OEM Parts authorized by Ford Motor Company for a Ford Bus Chassis. These parts are only sold at Ford Dealerships (2,900+) and Ford Authorized Distributors (459 locations).",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 8,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 82978,
+  "out": 1532
+ },
+ "model": "claude-sonnet-5"
+}

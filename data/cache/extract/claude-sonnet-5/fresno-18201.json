@@ -11,7 +11,8 @@
    "reason": "Axon is the global technology leader in public safety, with unparalleled ability to seamlessly integrate multiple aspects of law enforcement related hardware and software solutions.",
    "equipment_class": "other equipment",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -24,7 +25,8 @@
    "reason": "Taser 10: Manufactured and available for purchase only from Axon Enterprise. Axon is also the sole distributor and retailer of all Taser brand products.",
    "equipment_class": "other equipment",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -76,7 +78,8 @@
    "reason": "Respond Plus: Through integration with the LTE equipped Body 4 camera, dispatchers and/or supervisors will have the ability to live-stream footage from an officer's body camera in real-time.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -89,7 +92,8 @@
    "reason": "Draft One-Narrative Assistant: Utilizing artificial intelligence (AI), audio recording of an officer's body-worn camera footage can be transcribed into a police report, which will be reviewed by the officer before submission.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -102,7 +106,8 @@
    "reason": "Standards would replace two existing software applications currently in use, IA Pro and Blue Team.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -115,7 +120,8 @@
    "reason": "Auto Tagging: Uses information from CAD and RMS to automatically label digital evidence (primarily body-worn camera video) in Axon Evidence.com.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -128,7 +134,8 @@
    "reason": "My90: This software provides the ability to conduct both internal and external surveys designed to measure efficiency in the department.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -141,7 +148,8 @@
    "reason": "Axon Redaction: Software used to identify and redact items from body-worn camera videos, such as selected screens, faces, license plates, and audio as required prior to release.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -154,7 +162,8 @@
    "reason": "Community Request: Allows the agency to create an evidence submission portal for the public to submit digital evidence related to an investigation.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -167,7 +176,8 @@
    "reason": "Performance randomly selects videos for auditing by supervisors on a weekly basis to ensure customer service standards are being met by officers and their actions are in compliance with department policy.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -180,7 +190,8 @@
    "reason": "Transcription: Provides transcription for any digital evidence containing audio files uploaded into Axon Evidence.com.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -193,7 +204,8 @@
    "reason": "Signal Sidearm Technology: A smart sensor, attached to a firearm holster, Axon activates an officer's body-worn camera anytime their firearm is drawn from the holster.",
    "equipment_class": "other equipment",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -206,7 +218,8 @@
    "reason": "Axon Investigate: Allows investigators to utilize Axon technology to playback various file formats natively.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -219,7 +232,8 @@
    "reason": "The department currently has five interview rooms equipped with Axon camera systems. This contract extends the unlimited storage, maintenance and licensing for each interview room camera.",
    "equipment_class": "other equipment",
    "installed_location": "Fresno Police Department interview rooms",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -245,7 +259,8 @@
    "reason": "FUSUS: Provided at no cost, this Real Time Information Center (RTIC) software integrates multiple sources of information to enhance situational awareness.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Axon",
@@ -284,5 +299,12 @@
   "in": 68370,
   "out": 7730
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 68618,
+   "out": 9065
+  },
+  "stop_reason": "end_turn"
+ }
 }

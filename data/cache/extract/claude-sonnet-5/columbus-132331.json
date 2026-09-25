@@ -11,7 +11,8 @@
    "reason": "The Safety Company dba Mtech Company is the sole source for these parts and services as they are the only authorized distributor and service provider for this specific manufacturer.",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "Division of Sewerage and Drainage",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 3057,
   "out": 656
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 3305,
+   "out": 234
+  },
+  "stop_reason": "end_turn"
+ }
 }

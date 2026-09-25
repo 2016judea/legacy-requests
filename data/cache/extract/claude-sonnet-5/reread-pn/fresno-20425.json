@@ -1,0 +1,64 @@
+{
+ "records": [
+  {
+   "manufacturer": "Allen-Bradley",
+   "model": "PF755TL 800HP ND Type 1",
+   "part": "Replacement Variable Frequency Drives for raw sewage pumps (non-regenerative AFE VFD w/3% ILR in N1 enclosure)",
+   "part_numbers": [
+    "92983"
+   ],
+   "quantity": "4EA",
+   "price_usd": 1191850.0,
+   "lead_time": "25 Weeks",
+   "sole_source_vendor": "Rexel USA, Inc.",
+   "reason": "It was found at that time that Rexel is the sole provider of the Allen-Bradley PF755TL 800 HP ND Type 1 Variable Frequency Drive.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Fresno - Clovis Regional Wastewater Reclamation Facility (RWRF), 5607 W Jensen Ave",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allen-Bradley",
+   "model": "PF755T-Roll-Out Cart",
+   "part": "VFD Service Tool (Roll-Out Cart)",
+   "part_numbers": [
+    "92983"
+   ],
+   "quantity": "1EA",
+   "price_usd": 5500.0,
+   "lead_time": "25 Weeks",
+   "sole_source_vendor": "Rexel USA, Inc.",
+   "reason": "It was found at that time that Rexel is the sole provider of the Allen-Bradley PF755TL 800 HP ND Type 1 Variable Frequency Drive.",
+   "equipment_class": "other equipment",
+   "installed_location": "Fresno - Clovis Regional Wastewater Reclamation Facility (RWRF), 5607 W Jensen Ave",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allen-Bradley",
+   "model": "PF755TL 800HP ND Type 1",
+   "part": "1 Year Warranty - Parts & Labor for VFDs",
+   "part_numbers": [
+    "92983"
+   ],
+   "quantity": "1EA",
+   "price_usd": 22800.0,
+   "lead_time": null,
+   "sole_source_vendor": "Rexel USA, Inc.",
+   "reason": "It was found at that time that Rexel is the sole provider of the Allen-Bradley PF755TL 800 HP ND Type 1 Variable Frequency Drive.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Fresno - Clovis Regional Wastewater Reclamation Facility (RWRF), 5607 W Jensen Ave",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 28084,
+  "out": 1615
+ },
+ "model": "claude-sonnet-5"
+}

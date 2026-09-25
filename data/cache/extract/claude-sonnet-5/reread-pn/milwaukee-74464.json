@@ -1,0 +1,44 @@
+{
+ "records": [
+  {
+   "manufacturer": "Standard BioTools Inc.",
+   "model": "BioMark X9",
+   "part": "BioMark X9 High-Throughput Automated Genomic Analyzer and Related Materials and Service",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 418320.18,
+   "lead_time": null,
+   "sole_source_vendor": "Standard BioTools Inc.",
+   "reason": "SBI is the only producer and distributor of the BioMark X9 High-Throughput Automated Genomic Analyzer, as well as the only distributor of interface plates and testing kits.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "MHD Lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "FirstWatch Solutions, Inc. d/b/a FirstWatch",
+   "model": "FirstWatch Dashboard System",
+   "part": "FirstWatch Dashboard System Software Annual Support and Maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 266294.0,
+   "lead_time": null,
+   "sole_source_vendor": "FirstWatch Solutions, Inc. d/b/a FirstWatch",
+   "reason": "Software support and maintenance for the FirstWatch Dashboard System are proprietary and must be provided by FirstWatch Solutions, Inc. d/b/a FirstWatch.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Milwaukee Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 20113,
+  "out": 2464
+ },
+ "model": "claude-sonnet-5"
+}

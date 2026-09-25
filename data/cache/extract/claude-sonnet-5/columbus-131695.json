@@ -24,7 +24,8 @@
    "reason": "This product must be purchased directly by institutions from CentralSquare at the address listed above. There are no agents or dealers authorized to resell this product.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -37,7 +38,8 @@
    "reason": "This product must be purchased directly by institutions from CentralSquare at the address listed above. There are no agents or dealers authorized to resell this product.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -50,7 +52,8 @@
    "reason": "This product must be purchased directly by institutions from CentralSquare at the address listed above. There are no agents or dealers authorized to resell this product.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -63,7 +66,8 @@
    "reason": "This product must be purchased directly by institutions from CentralSquare at the address listed above. There are no agents or dealers authorized to resell this product.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -76,7 +80,8 @@
    "reason": "This product must be purchased directly by institutions from CentralSquare at the address listed above. There are no agents or dealers authorized to resell this product.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -89,7 +94,8 @@
    "reason": "This product must be purchased directly by institutions from CentralSquare at the address listed above. There are no agents or dealers authorized to resell this product.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -102,7 +108,8 @@
    "reason": "This product must be purchased directly by institutions from CentralSquare at the address listed above. There are no agents or dealers authorized to resell this product.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -115,5 +122,12 @@
   "in": 4442,
   "out": 1413
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 4690,
+   "out": 1806
+  },
+  "stop_reason": "end_turn"
+ }
 }

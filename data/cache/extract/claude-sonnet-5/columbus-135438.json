@@ -11,7 +11,8 @@
    "reason": "it has been determined that enfoTech & Consulting, Inc. is the sole owner & provider of iPACS and GovOnline Titles",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Columbus Water & Power",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -24,7 +25,8 @@
    "reason": "enfoTech owns the iPACS and GovOnline Titles and is the only entity that is authorized to license the software systems and to provide technical services.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Columbus Water & Power",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -37,7 +39,8 @@
    "reason": "enfoTech owns the iPACS product Title and is the only entity who is authorized to license the software and provide technical services.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Department of Public Utilities",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -50,5 +53,12 @@
   "in": 8318,
   "out": 897
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 8566,
+   "out": 647
+  },
+  "stop_reason": "end_turn"
+ }
 }

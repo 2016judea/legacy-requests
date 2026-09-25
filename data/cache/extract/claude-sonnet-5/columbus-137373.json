@@ -11,7 +11,8 @@
    "reason": "PowerDMS is the only software license that is approved and sanctioned by CALEA.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Division of Police",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 15690,
   "out": 211
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 15938,
+   "out": 261
+  },
+  "stop_reason": "end_turn"
+ }
 }

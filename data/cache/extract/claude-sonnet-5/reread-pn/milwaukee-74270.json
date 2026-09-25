@@ -1,0 +1,86 @@
+{
+ "records": [
+  {
+   "manufacturer": "Avaya",
+   "model": "Aura Communications Manager Voice System",
+   "part": "Vendor Service Contract for Avaya Equipment and Service Assistance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3331544.98,
+   "lead_time": null,
+   "sole_source_vendor": "ConvergeOne, Inc.",
+   "reason": "Avaya branded equipment and the associated service assistance is proprietary, and it must be purchased and serviced through a licensed secondary partner \u2013 ConvergeOne, Inc.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "READSPEAK 1-year Renewal",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 376.0,
+   "lead_time": null,
+   "sole_source_vendor": "ConvergeOne, Inc.",
+   "reason": "Avaya branded equipment and the associated service assistance is proprietary, and it must be purchased and serviced through a licensed secondary partner \u2013 ConvergeOne, Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "LUMENVOX 3-Year Renewal",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 15675.24,
+   "lead_time": null,
+   "sole_source_vendor": "ConvergeOne, Inc.",
+   "reason": "Avaya branded equipment and the associated service assistance is proprietary, and it must be purchased and serviced through a licensed secondary partner \u2013 ConvergeOne, Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "C1AS Support for Water Department's Custom IVR",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 13800.0,
+   "lead_time": null,
+   "sole_source_vendor": "ConvergeOne, Inc.",
+   "reason": "Avaya branded equipment and the associated service assistance is proprietary, and it must be purchased and serviced through a licensed secondary partner \u2013 ConvergeOne, Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Water Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies Corporation",
+   "model": null,
+   "part": "Preventative Maintenance for Laboratory Equipment",
+   "part_numbers": [],
+   "quantity": "four (4) pieces of lab equipment",
+   "price_usd": 656250.9,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies Corporation",
+   "reason": "This service is required to be able to test clinical patient samples and is mandatory if the instruments are in use.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Milwaukee Health Department Lab",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 16694,
+  "out": 3280
+ },
+ "model": "claude-sonnet-5"
+}

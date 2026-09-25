@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Hosted management software solution for air quality compliance, cross-connection compliance, water compliance, and wastewater compliance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": "NJBSoft, LLC",
+   "reason": "recommend awarding the contract to the single, responsive, and sole source vendor, NJBSoft, LLC",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2493,
+  "out": 195
+ },
+ "model": "claude-sonnet-5"
+}

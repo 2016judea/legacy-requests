@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "NextGen Healthcare, Inc.",
+   "model": "NextGen",
+   "part": "Hosting, support, upgrades, and maintenance of proprietary software for existing electronic medical records system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1250000.0,
+   "lead_time": null,
+   "sole_source_vendor": "NextGen Healthcare, Inc.",
+   "reason": "NextGen Healthcare, Inc., owns the rights to electronic medical records system and is engaged in the business of providing proprietary software, pursuant to N.J.S.A. 40A:11-5(1)(dd)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Department of Health and Community Wellness",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 10996,
+  "out": 260
+ },
+ "model": "claude-sonnet-5"
+}

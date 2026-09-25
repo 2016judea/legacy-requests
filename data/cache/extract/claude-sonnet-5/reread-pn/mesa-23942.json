@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Agilent Technologies, Inc.",
+   "model": null,
+   "part": "Liquid Chromatograph-Tandem Mass Spectrometry Instrument (Replacement) and associated materials and supplies",
+   "part_numbers": [],
+   "quantity": "One",
+   "price_usd": 475000,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies, Inc.",
+   "reason": "reduces reliance on unreliable sole-source consumables",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Forensic Services Toxicology Unit",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 2591,
+  "out": 211
+ },
+ "model": "claude-sonnet-5"
+}

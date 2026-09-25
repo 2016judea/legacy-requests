@@ -1,0 +1,72 @@
+{
+ "records": [
+  {
+   "manufacturer": "Avaya",
+   "model": null,
+   "part": "Vendor Service Contract for Avaya Equipment and Service Assistance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2026061.82,
+   "lead_time": null,
+   "sole_source_vendor": "ConvergeOne, Inc.",
+   "reason": "Avaya branded equipment and the associated service assistance is proprietary, and it must be purchased and serviced through a licensed secondary partner \u2013 ConvergeOne Inc.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Argent Basic Support",
+   "part": "Vendor Service Contract for Argent Basic Support (network scheduling and monitoring software)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 454927.0,
+   "lead_time": null,
+   "sole_source_vendor": "ArgSoft Group, LLC",
+   "reason": "ArgSoft's Argent Basic Support products and services are proprietary and are only available from one source",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Milwaukee Police Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Detroit",
+   "model": null,
+   "part": "Engine Repair, Service, and OEM Parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 100000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Interstate Power Systems, Inc.",
+   "reason": "Interstate Power Systems is the only local vendor that is an authorized dealer and provider for Detroit engines and Allison transmissions.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Milwaukee Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Allison",
+   "model": null,
+   "part": "Transmission Repair, Service, and OEM Parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Interstate Power Systems, Inc.",
+   "reason": "Interstate Power Systems is the only local vendor that is an authorized dealer and provider for Detroit engines and Allison transmissions.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Milwaukee Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 20210,
+  "out": 2760
+ },
+ "model": "claude-sonnet-5"
+}

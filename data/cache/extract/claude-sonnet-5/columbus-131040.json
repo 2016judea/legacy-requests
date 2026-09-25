@@ -11,7 +11,8 @@
    "reason": "Michigan Playgrounds LLC, DBA Midstates Recreation. is the sole local authorized distributor / service provider for Playworld Equipment., manufacturers\u2019 playground equipment.",
    "equipment_class": "other equipment",
    "installed_location": "City parks and recreation centers",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "BCI Burke Co. LLC",
@@ -24,7 +25,8 @@
    "reason": "Snider Recreation Inc. is the sole local authorized distributor / service provider for BCI Burke Company LLC, manufacturers\u2019 playground equipment.",
    "equipment_class": "other equipment",
    "installed_location": "City parks and recreation centers",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Gametime",
@@ -37,7 +39,8 @@
    "reason": "DWA Recreation Inc. is the sole local authorized distributor / service provider for Gametime, manufacturers\u2019 playground equipment.",
    "equipment_class": "other equipment",
    "installed_location": "City parks and recreation centers",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Landscape Structures Inc.",
@@ -50,7 +53,8 @@
    "reason": "Penchura LLC. is the sole local authorized distributor / service provider for Landscape Structures Inc., manufacturers\u2019 playground equipment.",
    "equipment_class": "other equipment",
    "installed_location": "City parks and recreation centers",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -63,5 +67,12 @@
   "in": 5682,
   "out": 786
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 5930,
+   "out": 802
+  },
+  "stop_reason": "end_turn"
+ }
 }

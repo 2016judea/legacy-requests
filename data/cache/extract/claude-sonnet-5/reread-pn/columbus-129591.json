@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": "Flygt",
+   "model": null,
+   "part": "Flygt Pump Parts and Services (parts and services for Flygt pumps and mixers used at wastewater plants)",
+   "part_numbers": [],
+   "quantity": "all items",
+   "price_usd": 1.0,
+   "lead_time": null,
+   "sole_source_vendor": "Xylem Water Solutions U.S.A., Inc.",
+   "reason": "Xylem Water Solutions Inc. is the sole source provider of these goods and services",
+   "equipment_class": "pump",
+   "installed_location": "City's two wastewater treatment plants",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 3727,
+  "out": 207
+ },
+ "model": "claude-sonnet-5"
+}

@@ -11,7 +11,8 @@
    "reason": "the County found the Quinn Company to be the only Authorized Caterpillar Distributor Contractor, to provide these goods and services",
    "equipment_class": "other equipment",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 34714,
   "out": 167
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 34962,
+   "out": 176
+  },
+  "stop_reason": "end_turn"
+ }
 }

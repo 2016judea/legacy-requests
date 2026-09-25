@@ -1,0 +1,44 @@
+{
+ "records": [
+  {
+   "manufacturer": "Right Stuff Software Corporation",
+   "model": "Job Posting",
+   "part": "Annual software maintenance and support for Job Posting Project",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 27000,
+   "lead_time": null,
+   "sole_source_vendor": "Right Stuff Software Corporation",
+   "reason": "There are no resellers, and no other vendors are capable of providing support, updates or maintenance to the code or data of our systems.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Police",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Right Stuff Software Corporation",
+   "model": "FMLA Precinct Manager",
+   "part": "Annual software maintenance and support for FMLA Precinct Manager project",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 27000,
+   "lead_time": null,
+   "sole_source_vendor": "Right Stuff Software Corporation",
+   "reason": "There are no resellers, and no other vendors are capable of providing support, updates or maintenance to the code or data of our systems.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Division of Police",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 4393,
+  "out": 487
+ },
+ "model": "claude-sonnet-5"
+}

@@ -11,7 +11,10 @@
    "reason": "ES&S is the only feasible voting system option available to the County.",
    "equipment_class": "other equipment",
    "installed_location": "Broward County Supervisor of Elections",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "DS300"
+   ]
   },
   {
    "manufacturer": "Election Systems & Software",
@@ -24,7 +27,10 @@
    "reason": "ES&S is the only feasible voting system option available to the County.",
    "equipment_class": "other equipment",
    "installed_location": "Broward County Supervisor of Elections",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "DS300"
+   ]
   },
   {
    "manufacturer": "Election Systems & Software",
@@ -37,7 +43,10 @@
    "reason": "ES&S is the only feasible voting system option available to the County.",
    "equipment_class": "communications/radio",
    "installed_location": "Broward County Supervisor of Elections",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "DS300"
+   ]
   },
   {
    "manufacturer": "Election Systems & Software",
@@ -50,7 +59,10 @@
    "reason": "ES&S is the only feasible voting system option available to the County.",
    "equipment_class": "other equipment",
    "installed_location": "Broward County Supervisor of Elections",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "DS300"
+   ]
   },
   {
    "manufacturer": "Election Systems & Software",
@@ -63,7 +75,10 @@
    "reason": "ES&S is the only feasible voting system option available to the County.",
    "equipment_class": "other equipment",
    "installed_location": "Broward County Supervisor of Elections",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "ExpressVote\u00ae"
+   ]
   },
   {
    "manufacturer": "Election Systems & Software",
@@ -76,7 +91,10 @@
    "reason": "ES&S is the only feasible voting system option available to the County.",
    "equipment_class": "other equipment",
    "installed_location": "Broward County Supervisor of Elections",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "DS950"
+   ]
   },
   {
    "manufacturer": "Election Systems & Software",
@@ -193,5 +211,12 @@
   "in": 52459,
   "out": 2626
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 52707,
+   "out": 6168
+  },
+  "stop_reason": "end_turn"
+ }
 }

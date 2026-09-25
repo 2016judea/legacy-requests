@@ -1,0 +1,33 @@
+{
+ "records": [
+  {
+   "manufacturer": "Puck",
+   "model": "TTR-15P",
+   "part": "TTR-15P Hose Reel Turntable Trailer (Hose Cart) for Emergency Response Water Supply System",
+   "part_numbers": [
+    "61-00213-11",
+    "61-00332-11"
+   ],
+   "quantity": "2",
+   "price_usd": 387335,
+   "lead_time": null,
+   "sole_source_vendor": "Puck LLC",
+   "reason": "Puck LLC is the sole manufacturer and distributor of the TTR-15P Hose Reel Turntable Trailer. No other known vendor produces equipment with comparable design features, operational specifications, or compatibility with AFD's existing hose systems.",
+   "equipment_class": "other equipment",
+   "installed_location": "Alameda Fire Department, Fire Station 5 / Citywide Emergency Response Water Supply System",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 17036,
+  "out": 689
+ },
+ "model": "claude-sonnet-5"
+}

@@ -11,7 +11,8 @@
    "reason": "the only supplier within refueling distance and provides the greatest cost and quality benefit",
    "equipment_class": "other equipment",
    "installed_location": "Fresno Area Express (FAX), SoHyCal Production Facility, 24205 Whitesbridge Ave., Kerman, CA",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "New Flyer of America Inc.",
@@ -37,5 +38,12 @@
   "in": 26667,
   "out": 516
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 26915,
+   "out": 536
+  },
+  "stop_reason": "end_turn"
+ }
 }

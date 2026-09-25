@@ -11,7 +11,8 @@
    "reason": "MacQueen Equipment, LLC is the authorized distributor for Heil Refuse Packer Bodies and Elgin Street Sweepers sales, service, parts, and warranty repairs in Wisconsin.",
    "equipment_class": "vehicle/fleet",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Elgin",
@@ -24,7 +25,8 @@
    "reason": "MacQueen Equipment, LLC is the authorized distributor for Heil Refuse Packer Bodies and Elgin Street Sweepers sales, service, parts, and warranty repairs in Wisconsin.",
    "equipment_class": "vehicle/fleet",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Versalift",
@@ -37,7 +39,8 @@
    "reason": "USSI Holdings, Inc. d/b/a Utility Sales and Service is the only local factory-authorized service dealer for Versalift, Challenger, and Skylift branded equipment.",
    "equipment_class": "vehicle/fleet",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Challenger",
@@ -50,7 +53,8 @@
    "reason": "USSI Holdings, Inc. d/b/a Utility Sales and Service is the only local factory-authorized service dealer for Versalift, Challenger, and Skylift branded equipment.",
    "equipment_class": "vehicle/fleet",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Skylift",
@@ -63,7 +67,8 @@
    "reason": "USSI Holdings, Inc. d/b/a Utility Sales and Service is the only local factory-authorized service dealer for Versalift, Challenger, and Skylift branded equipment.",
    "equipment_class": "vehicle/fleet",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Versalift",
@@ -76,7 +81,8 @@
    "reason": "USSI Holdings, Inc. d/b/a Utility Sales and Service is the only local factory-authorized service dealer for Versalift, Challenger, and Skylift branded equipment.",
    "equipment_class": "vehicle/fleet",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -89,5 +95,12 @@
   "in": 16523,
   "out": 4057
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 16771,
+   "out": 3223
+  },
+  "stop_reason": "end_turn"
+ }
 }

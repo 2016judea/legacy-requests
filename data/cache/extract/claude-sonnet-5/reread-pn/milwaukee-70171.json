@@ -1,0 +1,106 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Vendor Service Contract to Perform Supplemental Service Work on Heil Refuse Packer Bodies and Elgin Street Sweepers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1300000.0,
+   "lead_time": null,
+   "sole_source_vendor": "MacQueen Equipment, LLC",
+   "reason": "MacQueen Equipment, LLC is the authorized distributor for Heil Refuse Packer Bodies and Elgin Street Sweepers sales, service, parts, and warranty repairs in Wisconsin. Most of these parts are patented by the manufacturer. No other sources are available for Heil OEM refuse packer parts in Wisconsin.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Atlas Copco",
+   "model": "ZT15",
+   "part": "Model ZT15: 20 HP Air Cooled Oil Free Rotary Tooth Compressor",
+   "part_numbers": [
+    "ZT15"
+   ],
+   "quantity": "2",
+   "price_usd": 84782.0,
+   "lead_time": null,
+   "sole_source_vendor": "Atlas Copco Compressors, LLC",
+   "reason": "The Atlas Copco compressor being purchased uses rotary tooth technology. Atlas Copco is the only domestic vendor for this type of compressor.",
+   "equipment_class": "other equipment",
+   "installed_location": "Howard Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "GATEWAY4.0",
+   "part": "GATEWAY4.0: Monitoring & Communication with Building System for ZT15's",
+   "part_numbers": [
+    "GATEWAY4.0"
+   ],
+   "quantity": "1",
+   "price_usd": 2112.6,
+   "lead_time": null,
+   "sole_source_vendor": "Atlas Copco Compressors, LLC",
+   "reason": "The Atlas Copco compressor being purchased uses rotary tooth technology. Atlas Copco is the only domestic vendor for this type of compressor.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Howard Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "2 MACHINE CAN KIT: Interconnecting cabling for Gateway between ZT15's",
+   "part_numbers": [
+    "2 MACHINE CAN KIT"
+   ],
+   "quantity": "1",
+   "price_usd": 1911.44,
+   "lead_time": null,
+   "sole_source_vendor": "Atlas Copco Compressors, LLC",
+   "reason": "The Atlas Copco compressor being purchased uses rotary tooth technology. Atlas Copco is the only domestic vendor for this type of compressor.",
+   "equipment_class": "other equipment",
+   "installed_location": "Howard Water Treatment Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rockwell Automation",
+   "model": null,
+   "part": "Vendor Service Contract for Programmable Logic Controller Hardware and Rockwell Support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 750000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Revere Electric Supply Co.",
+   "reason": "Revere Electric Supply Co. is the only local, authorized Rockwell Automation Distributer and the only vendor authorized to provide these services.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Milwaukee Water Works",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Abbott Laboratories, Inc.",
+   "model": "Architect i1000",
+   "part": "Vendor Service Contract for Abbott Architect i1000 Instrument, Reagents, and Services for HIV Type 1 and 2 Combo Testing",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 814114.0,
+   "lead_time": null,
+   "sole_source_vendor": "Abbott Laboratories, Inc.",
+   "reason": "Since the establishment of this contract in 2014, the MHD Lab has been utilizing the Abbott Architect i1000 Instrument to provide sexually transmitted infection (STI) testing \u2013 including, but not limited to, the Human Immunodeficiency Virus (HIV) \u2013for the community through the Keenan Health Center.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Milwaukee Health Department Keenan Health Center Laboratory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 13697,
+  "out": 5425
+ },
+ "model": "claude-sonnet-5"
+}

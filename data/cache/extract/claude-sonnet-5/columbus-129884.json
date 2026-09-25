@@ -11,7 +11,8 @@
    "reason": "due to the nature of the security software and compatibility of existing security equipment, it is in the best interest of the City enter into contract with SGI Matrix in accordance with the sole source procurement provisions of Columbus City Code",
    "equipment_class": "other equipment",
    "installed_location": "various city facilities",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 3252,
   "out": 243
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 3500,
+   "out": 246
+  },
+  "stop_reason": "end_turn"
+ }
 }

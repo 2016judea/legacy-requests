@@ -11,7 +11,8 @@
    "reason": "Toepfer's access, surveillance, and security systems, including the corresponding software, is proprietary. Therefore, maintenance and support for these systems can only be provided by Toepfer.",
    "equipment_class": "service/maintenance contract",
    "installed_location": "Milwaukee Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Intellinetics, Inc.",
@@ -24,7 +25,8 @@
    "reason": "The Intellivue Software is proprietary and can only be purchased, upgraded, supported and maintained by the manufacturer, Intellinetics, Inc.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Milwaukee Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -50,7 +52,8 @@
    "reason": "This service is required to be able to test clinical patient samples and is mandatory as long as the instruments are in use.",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "Milwaukee Health Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -63,5 +66,12 @@
   "in": 17332,
   "out": 3147
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 17580,
+   "out": 3301
+  },
+  "stop_reason": "end_turn"
+ }
 }

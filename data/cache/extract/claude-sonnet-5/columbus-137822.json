@@ -11,7 +11,8 @@
    "reason": "This letter confirms that StepMobile is the sole provider of kiosk solutions designed for use with the Ohio Community Supervision System (OCSS) Case Management System.",
    "equipment_class": "other equipment",
    "installed_location": "Franklin County Municipal Court",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 5383,
   "out": 199
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 5631,
+   "out": 208
+  },
+  "stop_reason": "end_turn"
+ }
 }

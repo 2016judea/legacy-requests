@@ -11,7 +11,8 @@
    "reason": "The current hardware and software for the baggage system is a proprietary item to Brock that cannot be duplicated.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fort Lauderdale-Hollywood International Airport (FLL)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Johnson Controls, Inc.",
@@ -24,7 +25,8 @@
    "reason": "The JCI METASYS Building Automation System is currently installed throughout Fort Lauderdale Hollywood-International Airport (FLL), and uses software that is proprietary to JCI.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Fort Lauderdale-Hollywood International Airport (FLL)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "American Dynamics/Software House",
@@ -37,7 +39,8 @@
    "reason": "MSSI is currently the only authorized single source for product distribution at FLL, for the storage devices and software provided by American Dynamics/Software House.",
    "equipment_class": "other equipment",
    "installed_location": "Fort Lauderdale-Hollywood International Airport (FLL)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -50,7 +53,8 @@
    "reason": "There is currently a vast amount of proprietary software and hardware interwoven into the majority of the fabric here at the Fort Laudedale-Hollywood International Airport.",
    "equipment_class": "other equipment",
    "installed_location": "Fort Lauderdale-Hollywood International Airport (FLL)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -63,5 +67,12 @@
   "in": 59979,
   "out": 4353
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 60227,
+   "out": 3157
+  },
+  "stop_reason": "end_turn"
+ }
 }

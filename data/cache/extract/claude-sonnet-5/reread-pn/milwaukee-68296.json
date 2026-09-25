@@ -1,0 +1,44 @@
+{
+ "records": [
+  {
+   "manufacturer": "FirstWatch Solutions, Inc.",
+   "model": "FirstWatch Dashboard System",
+   "part": "Vendor Service Contract for FirstWatch Dashboard System Software Annual Support and Maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 176294.0,
+   "lead_time": null,
+   "sole_source_vendor": "FirstWatch Solutions, Inc. d/b/a FirstWatch (Carlsbad, CA)",
+   "reason": "Software support and maintenance for the FirstWatch Dashboard System are proprietary and must be provided by FirstWatch Solutions, Inc. d/b/a FirstWatch.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Milwaukee Fire Department",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "AI Tech Holdings, Inc.",
+   "model": "Ascent Platform",
+   "part": "Vendor Service Contract for the Early Adopters Program for the Ascent Platform (indoor tracking and first responder wellness system)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 50000.0,
+   "lead_time": null,
+   "sole_source_vendor": "AI Tech Holdings, Inc. d/b/a Ascent Integrated Tech (Chicago, IL)",
+   "reason": "Ascent Integrated Tracking is the Sole Source Provider for this patented system for indoor tracking location and first responder wellness system.",
+   "equipment_class": "other equipment",
+   "installed_location": "Milwaukee Fire Department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 13627,
+  "out": 1747
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,106 @@
+{
+ "records": [
+  {
+   "manufacturer": "ATEC Water Systems",
+   "model": "ATEC Water Filtration System",
+   "part": "ATEC Water Filtration System for wellhead treatment at Pump Station 347",
+   "part_numbers": [
+    "Model 1+06-60-48"
+   ],
+   "quantity": "8-36\" Dia Vessels",
+   "price_usd": 191016.62,
+   "lead_time": null,
+   "sole_source_vendor": "ATEC Water Systems, LLC",
+   "reason": "ATEC Water Systems, LLC. (ATEC) is the sole supplier of the ATEC Water Filtration System, the City's preferred product in this region",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Pump Station 347, 2220 N. Armstrong Avenue",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ATEC Water Systems",
+   "model": "Pyrolox Advantage",
+   "part": "Filter media - 42\" Pyrolox Media for iron and manganese removal filter vessels",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ATEC Water Systems, LLC",
+   "reason": "The media shall be Pyrolox Advantage.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Pump Station 347",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bermad",
+   "model": "IR-4x4-350-P",
+   "part": "Main operating valve on each filter tank, industrial automatic multi-port diaphragm type",
+   "part_numbers": [
+    "IR-4x4-350-P"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Main operating valves shall be Bermad IR-4x4-350-P. Substitutions will not be allowed.",
+   "equipment_class": "valve",
+   "installed_location": "Pump Station 347",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Alex-Tronic",
+   "model": "F-25",
+   "part": "Factory-mounted and wired cycle controller for automatic backwash control",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The controller to be used is an Alex-Tronic F-25, or similar, which requires a 120 VAC connection",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Pump Station 347",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "3M Corporation",
+   "model": "ScotchKote 134",
+   "part": "Fusion bonded epoxy coating for filter vessel immersion service surfaces and manifold immersion surfaces",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "All filter vessel immersion service surfaces and manifold immersion surfaces shall be coated with 3M Corporation ScotchKote 134, a fusion bonded epoxy coating, certified to ANSI/NSF Standard 61",
+   "equipment_class": "other equipment",
+   "installed_location": "Pump Station 347",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Peter-Paul",
+   "model": "Model 73",
+   "part": "3-Way Solenoid Valves used to control water or air that actuates the 3-Way Backwash Control Valves",
+   "part_numbers": [
+    "Model 73"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Peter-Paul Model 73 3-Way Solenoid Valves are used to control the water or air that actuates the 3-Way Backwash Control Valves.",
+   "equipment_class": "valve",
+   "installed_location": "Pump Station 347",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 1,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 73834,
+  "out": 1333
+ },
+ "model": "claude-sonnet-5"
+}

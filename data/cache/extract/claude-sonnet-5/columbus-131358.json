@@ -141,7 +141,10 @@
    "reason": "The Crime-lite\u00ae AUTO is manufactured by and only available from Foster & Freeman.",
    "equipment_class": "service/maintenance contract",
    "installed_location": "Division of Police Crime Lab",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "QCL/AUTO/ACC/1"
+   ]
   }
  ],
  "info": {
@@ -154,5 +157,12 @@
   "in": 15888,
   "out": 5769
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 16136,
+   "out": 6244
+  },
+  "stop_reason": "end_turn"
+ }
 }

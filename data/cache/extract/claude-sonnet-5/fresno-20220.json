@@ -24,7 +24,8 @@
    "reason": "Beam Global is the sole manufacturer and exclusive provider of the EV ARC charging system.",
    "equipment_class": "other equipment",
    "installed_location": "Municipal Service Center (MSC)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "AssetWorks",
@@ -63,5 +64,12 @@
   "in": 24593,
   "out": 931
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 24841,
+   "out": 1091
+  },
+  "stop_reason": "end_turn"
+ }
 }

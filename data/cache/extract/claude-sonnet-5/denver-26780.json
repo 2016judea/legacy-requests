@@ -11,7 +11,8 @@
    "reason": "the Executive Director of the Office of Emergency Management or his duly authorized representatives, is hereby authorized to purchase or acquire the following capital equipment:",
    "equipment_class": "vehicle/fleet",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -24,7 +25,8 @@
    "reason": "the Executive Director of the Office of Emergency Management or his duly authorized representatives, is hereby authorized to purchase or acquire the following capital equipment:",
    "equipment_class": "other equipment",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -37,7 +39,8 @@
    "reason": "the Executive Director of the Office of Emergency Management or his duly authorized representatives, is hereby authorized to purchase or acquire the following capital equipment:",
    "equipment_class": "instrumentation/calibration",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -50,5 +53,12 @@
   "in": 49301,
   "out": 1233
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 49549,
+   "out": 347
+  },
+  "stop_reason": "end_turn"
+ }
 }

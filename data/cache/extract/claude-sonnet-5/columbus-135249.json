@@ -11,7 +11,8 @@
    "reason": "PRISM software is the only data warehouse platform capable of performing the critical tasks specific to ADS flow meters and rain gauges",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Division of Water Reclamation (DOSD)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "ADS",
@@ -24,7 +25,8 @@
    "reason": "only ADS manufactured sensors, batteries, circuit boards, flow monitoring upgrade parts and upgrade kits can be used in conjunction with existing systems or to upgrade to newer systems",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "Division of Water Reclamation (DOSD)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "ADS",
@@ -37,7 +39,8 @@
    "reason": "only ADS manufactured sensors, batteries, circuit boards, flow monitoring upgrade parts and upgrade kits can be used in conjunction with existing systems or to upgrade to newer systems",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "Division of Water Reclamation (DOSD)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "ADS",
@@ -50,7 +53,8 @@
    "reason": "only ADS manufactured sensors, batteries, circuit boards, flow monitoring upgrade parts and upgrade kits can be used in conjunction with existing systems or to upgrade to newer systems",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "Division of Water Reclamation (DOSD)",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "ADS",
@@ -76,7 +80,8 @@
    "reason": "supports roughly 150 flow meters and 30 rain gauges through an obsolete desktop program that no longer receives vendor support",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Division of Water Reclamation (DOSD)",
-   "is_obsolete": true
+   "is_obsolete": true,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -89,5 +94,12 @@
   "in": 9458,
   "out": 1293
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 9706,
+   "out": 1231
+  },
+  "stop_reason": "end_turn"
+ }
 }

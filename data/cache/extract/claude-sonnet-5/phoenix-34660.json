@@ -11,7 +11,8 @@
    "reason": "One vendor submitted a bid deemed to be responsive to posted specifications and responsible to provide the required goods and services.",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "Citywide",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "GfG",
@@ -37,5 +38,12 @@
   "in": 2214,
   "out": 796
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 2462,
+   "out": 413
+  },
+  "stop_reason": "end_turn"
+ }
 }

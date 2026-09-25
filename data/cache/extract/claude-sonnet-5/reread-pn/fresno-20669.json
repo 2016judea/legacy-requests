@@ -1,0 +1,49 @@
+{
+ "records": [
+  {
+   "manufacturer": "Airbus",
+   "model": "EC120",
+   "part": "Overhauled main rotor gearbox main module (exchange) for Airbus EC120 helicopter N524MW",
+   "part_numbers": [
+    "C632A0201054",
+    "H120MGBC632A0201054EXCHANGEPRICE"
+   ],
+   "quantity": "1",
+   "price_usd": 200000,
+   "lead_time": null,
+   "sole_source_vendor": "Airbus Helicopters, Inc.",
+   "reason": "Airbus Helicopters, Inc. is the only manufacturer of the EC120",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fresno Police Department Skywatch facility",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Airbus",
+   "model": "EC120",
+   "part": "Main rotor gearbox main module exchange (Flat Rate Exchange Price per quote)",
+   "part_numbers": [
+    "C632A0201054"
+   ],
+   "quantity": "1",
+   "price_usd": 181485.37,
+   "lead_time": null,
+   "sole_source_vendor": "Airbus Helicopters, Inc.",
+   "reason": "This is a true flat rate exchange price. No requirement for over and above invoicing with the exception of exclusions identified in the Quoting/Pricing conditions",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Fresno Police Department Skywatch facility",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 8311,
+  "out": 463
+ },
+ "model": "claude-sonnet-5"
+}

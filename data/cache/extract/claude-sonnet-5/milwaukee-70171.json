@@ -11,7 +11,8 @@
    "reason": "MacQueen Equipment, LLC is the authorized distributor for Heil Refuse Packer Bodies and Elgin Street Sweepers sales, service, parts, and warranty repairs in Wisconsin.",
    "equipment_class": "vehicle/fleet",
    "installed_location": null,
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Atlas Copco",
@@ -24,7 +25,10 @@
    "reason": "Atlas Copco is the only domestic vendor for this type of compressor.",
    "equipment_class": "other equipment",
    "installed_location": "Howard Water Treatment Plant",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "ZT15"
+   ]
   },
   {
    "manufacturer": null,
@@ -37,7 +41,10 @@
    "reason": "Atlas Copco is the only domestic vendor for this type of compressor.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Howard Water Treatment Plant",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "GATEWAY4.0"
+   ]
   },
   {
    "manufacturer": null,
@@ -76,7 +83,8 @@
    "reason": "Annually, the MHD Lab utilizes the Abbott Architect i1000 device to provide approximately 3,500 HIV tests.",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "Milwaukee Health Department Keenan Health Center Laboratory",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -89,5 +97,12 @@
   "in": 13449,
   "out": 4941
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 13697,
+   "out": 5425
+  },
+  "stop_reason": "end_turn"
+ }
 }

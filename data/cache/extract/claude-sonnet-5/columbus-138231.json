@@ -11,7 +11,8 @@
    "reason": "Teleflex LLC is the sole source provider for these items and they are the only local distributor for this specific manufacturer.",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "Division of Fire",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 3614,
   "out": 180
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 3862,
+   "out": 189
+  },
+  "stop_reason": "end_turn"
+ }
 }

@@ -11,7 +11,8 @@
    "reason": "the City wishes to utilize State Contracts #T2760 OEM Automotive Parts and Accessories for Light Duty Vehicles, Master Blanket PO #25-FLEET-92268, awarded to Franks Truck Center Inc.",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Department of Water and Sewer Utilities",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -24,5 +25,12 @@
   "in": 4272,
   "out": 671
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 4520,
+   "out": 537
+  },
+  "stop_reason": "end_turn"
+ }
 }

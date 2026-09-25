@@ -1,0 +1,128 @@
+{
+ "records": [
+  {
+   "manufacturer": "Byron Jackson",
+   "model": null,
+   "part": "Replacement pump and motor for Groundwater Well 10, including all parts, freight, equipment, and labor",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 362675,
+   "lead_time": "approximately four months",
+   "sole_source_vendor": "Pump Repair Services Company",
+   "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
+   "equipment_class": "pump",
+   "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Byron Jackson",
+   "model": "14M",
+   "part": "Refurbished submersible motor, 200 HP, 460 volt, type M, NSF-61",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 121815,
+   "lead_time": "16 Weeks",
+   "sole_source_vendor": "Pump Repair Services Company",
+   "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Byron Jackson/Flowserve",
+   "model": "13ETMH/13MOH",
+   "part": "4 stage submersible bowl assembly, 416 SS shaft, C903 tin bronze impellers, 4\" discharge, NSF-61, with non-witness performance test",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 45711,
+   "lead_time": "16 Weeks",
+   "sole_source_vendor": "Pump Repair Services Company",
+   "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
+   "equipment_class": "pump",
+   "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "1/0 motor flat cable factory splice onto 370' of 350 MCM power cable, including a breakout seal boot on submersed end, NSF-61",
+   "part_numbers": [],
+   "quantity": "370 feet",
+   "price_usd": 60715,
+   "lead_time": "16 Weeks",
+   "sole_source_vendor": "Pump Repair Services Company",
+   "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
+   "equipment_class": "other equipment",
+   "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "10\" .279 uncoated NSF-61 wall column pipe",
+   "part_numbers": [],
+   "quantity": "350 feet",
+   "price_usd": 29700,
+   "lead_time": "12 Weeks",
+   "sole_source_vendor": "Pump Repair Services Company",
+   "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "10\" column pipe check valve",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 4175,
+   "lead_time": null,
+   "sole_source_vendor": "Pump Repair Services Company",
+   "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
+   "equipment_class": "valve",
+   "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "3\" Power cable liquid tight SS connector",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 375,
+   "lead_time": null,
+   "sole_source_vendor": "Pump Repair Services Company",
+   "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
+   "equipment_class": "other equipment",
+   "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Lot of SS buckles and bandit",
+   "part_numbers": [],
+   "quantity": "1 lot",
+   "price_usd": 600,
+   "lead_time": null,
+   "sole_source_vendor": "Pump Repair Services Company",
+   "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
+   "equipment_class": "other equipment",
+   "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 9409,
+  "out": 3876
+ },
+ "model": "claude-sonnet-5"
+}

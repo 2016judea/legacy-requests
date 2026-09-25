@@ -11,7 +11,8 @@
    "reason": "SBI is the only producer and distributor of the BioMark X9 High-Throughput Automated Genomic Analyzer, as well as the only distributor of interface plates and testing kits.",
    "equipment_class": "instrumentation/calibration",
    "installed_location": "Milwaukee Health Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "FirstWatch Solutions, Inc.",
@@ -24,7 +25,8 @@
    "reason": "Software support and maintenance for the FirstWatch Dashboard System are proprietary and must be provided by FirstWatch Solutions, Inc. d/b/a FirstWatch.",
    "equipment_class": "SCADA/controls/software",
    "installed_location": "Milwaukee Fire Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "QuickBase, Inc.",
@@ -50,5 +52,12 @@
   "in": 19865,
   "out": 1948
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 20113,
+   "out": 2464
+  },
+  "stop_reason": "end_turn"
+ }
 }

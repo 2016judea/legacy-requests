@@ -11,7 +11,8 @@
    "reason": "The equipment as well as the computer software can only be purchased and serviced through Virtra, Inc. There are no authorized sales or service dealers, and all requests must go directly through Virtra.",
    "equipment_class": "other equipment",
    "installed_location": "Fresno Police Department Regional Training Center",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "VirTra",
@@ -24,7 +25,11 @@
    "reason": "There are no authorized sales or service dealers, and all requests must go directly through Virtra.",
    "equipment_class": "service/maintenance contract",
    "installed_location": "Fresno Police Department Regional Training Center",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "8000816",
+    "SP-V180-A"
+   ]
   },
   {
    "manufacturer": "VirTra",
@@ -37,7 +42,11 @@
    "reason": "There are no authorized sales or service dealers, and all requests must go directly through Virtra.",
    "equipment_class": "service/maintenance contract",
    "installed_location": "Fresno Police Department Regional Training Center",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "8000816",
+    "SP-V180-A"
+   ]
   },
   {
    "manufacturer": "VirTra",
@@ -50,7 +59,11 @@
    "reason": "There are no authorized sales or service dealers, and all requests must go directly through Virtra.",
    "equipment_class": "service/maintenance contract",
    "installed_location": "Fresno Police Department Regional Training Center",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "8000830",
+    "SP-Y4-PLAT"
+   ]
   },
   {
    "manufacturer": "VirTra",
@@ -63,7 +76,11 @@
    "reason": "There are no authorized sales or service dealers, and all requests must go directly through Virtra.",
    "equipment_class": "service/maintenance contract",
    "installed_location": "VirTra Global HQ in Chandler, AZ",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": [
+    "7000001",
+    "V-ATCC-5"
+   ]
   },
   {
    "manufacturer": "Performa, Inc.",
@@ -76,7 +93,8 @@
    "reason": "The Performa Platform is proprietary and is not offered through any other vendors.",
    "equipment_class": "service/maintenance contract",
    "installed_location": "Fresno Police Department",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Performa Labs, Inc.",
@@ -115,5 +133,12 @@
   "in": 71031,
   "out": 3761
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 71279,
+   "out": 5828
+  },
+  "stop_reason": "end_turn"
+ }
 }

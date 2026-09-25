@@ -1,0 +1,86 @@
+{
+ "records": [
+  {
+   "manufacturer": "Korn Ferry (US) Inc.",
+   "model": "Korn Ferry Leadership Architect (KFLA)",
+   "part": "Sole source standardization of Korn Ferry suite of products, tools and intellectual property, including KFLA competency framework SaaS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Korn Ferry (US) Inc.",
+   "reason": "Standardization allows the County to maintain subscription and ensures continued use of Korn Ferry's intellectual property used in the development of job-related competencies, job classification descriptions, recruitment, performance management, and learning and development processes; thus, making it more cost-effective than recreating these functions in another platform.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Korn Ferry (US) Inc.",
+   "model": "Profile Manager with Content Library",
+   "part": "Technology Products Agreement providing Korn Ferry Leadership Architect (KFLA) competency framework and access to KFLA tools and intellectual property, including Digital Profile Manager",
+   "part_numbers": [],
+   "quantity": "10,000 (Maximum Number of County Employees)",
+   "price_usd": 751250.0,
+   "lead_time": null,
+   "sole_source_vendor": "Korn Ferry (US) Inc.",
+   "reason": "The County engaged Korn Ferry and was provided access to Software as a Service (SaaS), called Korn Ferry Profile Manager. The Korn Ferry Profile Manager subscription provides access, export and use intellectual property (IP), including the KFLA competency library.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Korn Ferry (US) Inc.",
+   "model": "Korn Ferry 360",
+   "part": "Assessment product delivery and implementation services under Optional Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Korn Ferry (US) Inc.",
+   "reason": "Standardization allows the County to maintain subscription and ensures continued use of Korn Ferry's intellectual property used in the development of job-related competencies, job classification descriptions, recruitment, performance management, and learning and development processes; thus, making it more cost-effective than recreating these functions in another platform.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Korn Ferry (US) Inc.",
+   "model": "Korn Ferry Assess",
+   "part": "Assessment product (KFPDS, KFLS) delivery and implementation services under Optional Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 440.0,
+   "lead_time": null,
+   "sole_source_vendor": "Korn Ferry (US) Inc.",
+   "reason": "Standardization allows the County to maintain subscription and ensures continued use of Korn Ferry's intellectual property used in the development of job-related competencies, job classification descriptions, recruitment, performance management, and learning and development processes; thus, making it more cost-effective than recreating these functions in another platform.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Korn Ferry (US) Inc.",
+   "model": "Korn Ferry Select",
+   "part": "Assessment product (Entry/Graduate and Managerial/Professional) delivery and implementation services under Optional Services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 65.0,
+   "lead_time": null,
+   "sole_source_vendor": "Korn Ferry (US) Inc.",
+   "reason": "Standardization allows the County to maintain subscription and ensures continued use of Korn Ferry's intellectual property used in the development of job-related competencies, job classification descriptions, recruitment, performance management, and learning and development processes; thus, making it more cost-effective than recreating these functions in another platform.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 16052,
+  "out": 1394
+ },
+ "model": "claude-sonnet-5"
+}

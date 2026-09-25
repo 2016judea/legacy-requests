@@ -1,0 +1,100 @@
+{
+ "records": [
+  {
+   "manufacturer": "Digital Water Solutions Inc.",
+   "model": "hydrant.AI Device - Model 2 - 3 Function",
+   "part": "hydrant.AI Device Retrofit - Dry Barrel - hydrant.AI Hydrant Pressure & Acoustic Unit",
+   "part_numbers": [],
+   "quantity": "5",
+   "price_usd": 46500.0,
+   "lead_time": "60-90 days from receipt of the purchase order",
+   "sole_source_vendor": "Digital Water Solutions Inc.",
+   "reason": "Digital Water Solutions Inc. is the only provider in the Central Ohio area.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Digital Water Solutions Inc.",
+   "model": "hydrant.AI Plus",
+   "part": "hydrant.AI Plus (advanced software services) - advanced leak detection and pressure monitoring software with data management services",
+   "part_numbers": [],
+   "quantity": "5",
+   "price_usd": 5940.0,
+   "lead_time": null,
+   "sole_source_vendor": "Digital Water Solutions Inc.",
+   "reason": "due to the proprietary nature of the hydrant.AI software and equipment, it is in the best interest of the City to enter into contract with Digital Water Solutions Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Digital Water Solutions Inc.",
+   "model": null,
+   "part": "hydrant.AI Device Installation",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": 1800.0,
+   "lead_time": null,
+   "sole_source_vendor": "Digital Water Solutions Inc.",
+   "reason": "Digital Water Solutions Inc. currently is the sole provider of installation, integration, service and support for the hydrant.AI software",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Industrial Battery (20AH)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 975.0,
+   "lead_time": null,
+   "sole_source_vendor": "Digital Water Solutions Inc.",
+   "reason": "Recommended one spare for every 5 units purchased.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Industrial Battery Charger",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 250.0,
+   "lead_time": null,
+   "sole_source_vendor": "Digital Water Solutions Inc.",
+   "reason": "Required for charging and rotating batteries",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Digital Water Solutions Inc.",
+   "model": null,
+   "part": "hydrant.AI Data Management Initial Setup",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 235.0,
+   "lead_time": null,
+   "sole_source_vendor": "Digital Water Solutions Inc.",
+   "reason": "One-time client setup fee.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 6178,
+  "out": 2179
+ },
+ "model": "claude-sonnet-5"
+}

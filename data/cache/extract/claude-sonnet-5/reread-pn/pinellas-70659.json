@@ -1,0 +1,30 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Proprietary corrosion control chemical blend (corrosion inhibitor) for drinking water system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 465000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Condy Holdings LLC d/b/a Carus LLC",
+   "reason": "Because the chemical blend is proprietary, extending the current agreement under the same pricing is the recommended course of action.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Pinellas County Utilities water system",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 5135,
+  "out": 235
+ },
+ "model": "claude-sonnet-5"
+}

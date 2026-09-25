@@ -11,7 +11,8 @@
    "reason": "authorizes local contracting units to purchase goods and services without advertising for bids when the same were purchased under any contract entered into by the State of New Jersey Division of Purchase and Property",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Department of Water and Sewer Utilities and Department of Public Works/Sanitation",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -24,7 +25,8 @@
    "reason": "authorizes local contracting units to purchase goods and services without advertising for bids when the same were purchased under any contract entered into by the State of New Jersey Division of Purchase and Property",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Department of Water and Sewer Utilities and Department of Public Works/Sanitation",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -37,7 +39,8 @@
    "reason": "authorizes local contracting units to purchase goods and services without advertising for bids when the same were purchased under any contract entered into by the State of New Jersey Division of Purchase and Property",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Department of Water and Sewer Utilities and Department of Public Works/Sanitation",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -50,7 +53,8 @@
    "reason": "authorizes local contracting units to purchase goods and services without advertising for bids when the same were purchased under any contract entered into by the State of New Jersey Division of Purchase and Property",
    "equipment_class": "vehicle/fleet",
    "installed_location": "Department of Water and Sewer Utilities and Department of Public Works/Sanitation",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -63,5 +67,12 @@
   "in": 11943,
   "out": 1443
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 12191,
+   "out": 1896
+  },
+  "stop_reason": "end_turn"
+ }
 }

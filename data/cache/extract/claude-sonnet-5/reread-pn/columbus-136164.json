@@ -1,0 +1,37 @@
+{
+ "records": [
+  {
+   "manufacturer": "Motorola Solutions Inc.",
+   "model": "Astro 25",
+   "part": "Maintenance and support for the City's 800MHz radio P-25 digital system (Astro 25 infrastructure)",
+   "part_numbers": [
+    "LSV01S01109A",
+    "SVC02SVC0201A",
+    "SVC02SVC0343A",
+    "SVC02SVC0344A",
+    "SVC02SVC0433A",
+    "SVC04SVC0169A"
+   ],
+   "quantity": null,
+   "price_usd": 1188092.14,
+   "lead_time": null,
+   "sole_source_vendor": "Motorola Solutions Inc.",
+   "reason": "No other vendor has access to Motorola source code and Motorola has not authorized any dealer or other party to obtain such access.",
+   "equipment_class": "communications/radio",
+   "installed_location": "City of Columbus 800MHz tower sites",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "fresh": true,
+ "usage": {
+  "in": 14424,
+  "out": 292
+ },
+ "model": "claude-sonnet-5"
+}

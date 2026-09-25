@@ -11,7 +11,8 @@
    "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
    "equipment_class": "motor/drive",
    "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": "Byron Jackson/Flowserve",
@@ -24,7 +25,8 @@
    "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
    "equipment_class": "pump",
    "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -50,7 +52,8 @@
    "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
    "equipment_class": "pipe/fitting",
    "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -63,7 +66,8 @@
    "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
    "equipment_class": "valve",
    "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -76,7 +80,8 @@
    "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
    "equipment_class": "electrical/switchgear/transformer",
    "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -89,7 +94,8 @@
    "reason": "Pump Repair Services Company is the only authorized and factory-trained dealer for Byron Jackson products in Northern California.",
    "equipment_class": "other equipment",
    "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   },
   {
    "manufacturer": null,
@@ -102,7 +108,8 @@
    "reason": "The new pump will include a modern non-mercury mechanical seal, improving system reliability, reducing maintenance complexity, and eliminating the potential for mercury releases",
    "equipment_class": "pump",
    "installed_location": "Groundwater Well 10, 3640 Forest Avenue",
-   "is_obsolete": false
+   "is_obsolete": false,
+   "part_numbers": []
   }
  ],
  "info": {
@@ -115,5 +122,12 @@
   "in": 9161,
   "out": 3490
  },
- "model": "claude-sonnet-5"
+ "model": "claude-sonnet-5",
+ "reread_pn": {
+  "usage": {
+   "in": 9409,
+   "out": 3876
+  },
+  "stop_reason": "end_turn"
+ }
 }
