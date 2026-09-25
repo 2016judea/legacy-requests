@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tektronix",
+   "model": "MSO24 2-BW-500",
+   "part": "Mixed Signal Oscilloscope, 4 Analog Channels, 10M record length, 500MHz Bandwidth, with Certificate of Traceable Calibration Standard",
+   "part_numbers": [
+    "MSO24 2-BW-500"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": "12 weeks ARO",
+   "sole_source_vendor": "Tevet LLC",
+   "reason": "This acquisition requires the specific Brand-Name Tektronix equipment to ensure strict compatibility with existing test procedures and equipment supporting the BOMBER DATA LAB project.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "BOMBER DATA LAB, Edwards Air Force Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tektronix",
+   "model": "2-SOURCE",
+   "part": "Arbitrary Function Generator (AFG) and Digital Pattern Generator (DPG) License, Node Locked",
+   "part_numbers": [
+    "2-SOURCE"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": "12 weeks ARO",
+   "sole_source_vendor": "Tevet LLC",
+   "reason": "This acquisition requires the specific Brand-Name Tektronix equipment to ensure strict compatibility with existing test procedures and equipment supporting the BOMBER DATA LAB project.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "BOMBER DATA LAB, Edwards Air Force Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tektronix",
+   "model": "2-PC",
+   "part": "Protective case for use with 2 Series Oscilloscopes",
+   "part_numbers": [
+    "2-PC"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": "12 weeks ARO",
+   "sole_source_vendor": "Tevet LLC",
+   "reason": "This acquisition requires the specific Brand-Name Tektronix equipment to ensure strict compatibility with existing test procedures and equipment supporting the BOMBER DATA LAB project.",
+   "equipment_class": "other equipment",
+   "installed_location": "BOMBER DATA LAB, Edwards Air Force Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tektronix",
+   "model": "2-HC",
+   "part": "Hard carrying case for 2 Series Oscilloscopes",
+   "part_numbers": [
+    "2-HC"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": "12 weeks ARO",
+   "sole_source_vendor": "Tevet LLC",
+   "reason": "This acquisition requires the specific Brand-Name Tektronix equipment to ensure strict compatibility with existing test procedures and equipment supporting the BOMBER DATA LAB project.",
+   "equipment_class": "other equipment",
+   "installed_location": "BOMBER DATA LAB, Edwards Air Force Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tektronix",
+   "model": "2-BATPK",
+   "part": "Add-on Battery Pack with 2 battery slots and 1 battery",
+   "part_numbers": [
+    "2-BATPK"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": "12 weeks ARO",
+   "sole_source_vendor": "Tevet LLC",
+   "reason": "This acquisition requires the specific Brand-Name Tektronix equipment to ensure strict compatibility with existing test procedures and equipment supporting the BOMBER DATA LAB project.",
+   "equipment_class": "other equipment",
+   "installed_location": "BOMBER DATA LAB, Edwards Air Force Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tektronix",
+   "model": "P6139B",
+   "part": "Passive Probe, 500 MHz, 10X, BNC",
+   "part_numbers": [
+    "P6139B"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": "12 weeks ARO",
+   "sole_source_vendor": "Tevet LLC",
+   "reason": "This acquisition requires the specific Brand-Name Tektronix equipment to ensure strict compatibility with existing test procedures and equipment supporting the BOMBER DATA LAB project.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "BOMBER DATA LAB, Edwards Air Force Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tektronix",
+   "model": "P5200A",
+   "part": "High Voltage Probe, 50 MHz, 50X/500X, 1.3 kV, Differential, BNC",
+   "part_numbers": [
+    "P5200A"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": "12 weeks ARO",
+   "sole_source_vendor": "Tevet LLC",
+   "reason": "This acquisition requires the specific Brand-Name Tektronix equipment to ensure strict compatibility with existing test procedures and equipment supporting the BOMBER DATA LAB project.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "BOMBER DATA LAB, Edwards Air Force Base",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3852,
+  "out": 2024
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Honeywell International Inc.",
+   "model": null,
+   "part": "Sustainment engineering and program management services of out of production parts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Honeywell International Inc.",
+   "reason": "Honeywell International Inc. is the sole source OEM for the target NSNs and market research has not resulted in the identification of any other source(s) that can provide this requirement.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2576,
+  "out": 473
+ },
+ "model": "claude-sonnet-5"
+}

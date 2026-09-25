@@ -1,0 +1,111 @@
+{
+ "records": [
+  {
+   "manufacturer": "WYE",
+   "model": "52500",
+   "part": "WHITNEY SAFETY PLATFORM WALKER",
+   "part_numbers": [
+    "52500"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Patient Lift Kit Brand Name or Equal",
+   "equipment_class": "other equipment",
+   "installed_location": "Lexington VA Health Care System, Troy Bowling Campus, TOWER BLDG ICU, 1101 Veterans Drive, Lexington KY",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "WYE",
+   "model": "52574A",
+   "part": "GLA PREMIUM BASKET W/ REUSABLE Liner",
+   "part_numbers": [
+    "52574A"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Patient Lift Kit Brand Name or Equal",
+   "equipment_class": "other equipment",
+   "installed_location": "Lexington VA Health Care System, Troy Bowling Campus, TOWER BLDG ICU, 1101 Veterans Drive, Lexington KY",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "WYE",
+   "model": "52588A",
+   "part": "GLA PREMIUM DRAINING TUBING BAR",
+   "part_numbers": [
+    "52588A"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Patient Lift Kit Brand Name or Equal",
+   "equipment_class": "other equipment",
+   "installed_location": "Lexington VA Health Care System, Troy Bowling Campus, TOWER BLDG ICU, 1101 Veterans Drive, Lexington KY",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "WYE",
+   "model": "52610A",
+   "part": "GLA PREMIUM OXYGEN TANK & IV POLE HOLDER",
+   "part_numbers": [
+    "52610A"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Patient Lift Kit Brand Name or Equal",
+   "equipment_class": "other equipment",
+   "installed_location": "Lexington VA Health Care System, Troy Bowling Campus, TOWER BLDG ICU, 1101 Veterans Drive, Lexington KY",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "WYE",
+   "model": "52590A",
+   "part": "GLA PREMIUM IV POLE TOW BAR",
+   "part_numbers": [
+    "52590A"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Patient Lift Kit Brand Name or Equal",
+   "equipment_class": "other equipment",
+   "installed_location": "Lexington VA Health Care System, Troy Bowling Campus, TOWER BLDG ICU, 1101 Veterans Drive, Lexington KY",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "WYE",
+   "model": "52511",
+   "part": "FOOTPLATE WHITNEY",
+   "part_numbers": [
+    "52511"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Patient Lift Kit Brand Name or Equal",
+   "equipment_class": "other equipment",
+   "installed_location": "Lexington VA Health Care System, Troy Bowling Campus, TOWER BLDG ICU, 1101 Veterans Drive, Lexington KY",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5006,
+  "out": 1918
+ },
+ "model": "claude-sonnet-5"
+}

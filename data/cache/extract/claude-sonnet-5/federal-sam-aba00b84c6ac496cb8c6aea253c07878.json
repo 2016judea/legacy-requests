@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "E-6 Portable Automated Test Set (PATS)70-A Fuel Quantity Indicating System (FQIS)",
+   "part": "Custom Build-to-Print Kits for E-6 PATS70-A FQIS, cables to diagnose aircraft components",
+   "part_numbers": [],
+   "quantity": "7",
+   "price_usd": 400000.0,
+   "lead_time": "25 weeks",
+   "sole_source_vendor": "Cherokee Nation Aerospace Defense",
+   "reason": "only the intended source possesses the required technical capability, tooling, and certified quality controls to meet the immediate delivery schedule of the Air Force",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3169,
+  "out": 292
+ },
+ "model": "claude-sonnet-5"
+}

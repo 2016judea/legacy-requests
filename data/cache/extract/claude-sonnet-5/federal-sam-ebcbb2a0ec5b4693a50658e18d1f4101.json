@@ -1,0 +1,239 @@
+{
+ "records": [
+  {
+   "manufacturer": "HAWTHORNE CAT",
+   "model": null,
+   "part": "SSDG - VIBRATION DAMPER (CLIN 0001, WORK ITEM 311-21-001)",
+   "part_numbers": [
+    "7C-2122"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hawthorne Power Systems (Hawthorne CAT)",
+   "reason": "The Government intends to solicit and contract with only one source, Hawthorne Power Systems (Hawthorne CAT), for the parts listed on the Product Description under the authority of FAR 12.102 on a sole source basis.",
+   "equipment_class": "generator",
+   "installed_location": "USS JOHN P. MURTHA (LPD-26)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HAWTHORNE CAT",
+   "model": null,
+   "part": "SSDG - SHUTOFF GROUP, AIR (CLIN 0002, WORK ITEM 311-21-002)",
+   "part_numbers": [
+    "388-7041"
+   ],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hawthorne Power Systems (Hawthorne CAT)",
+   "reason": "The Government intends to solicit and contract with only one source, Hawthorne Power Systems (Hawthorne CAT), for the parts listed on the Product Description under the authority of FAR 12.102 on a sole source basis.",
+   "equipment_class": "generator",
+   "installed_location": "USS JOHN P. MURTHA (LPD-26)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HAWTHORNE CAT",
+   "model": null,
+   "part": "SSDG - GEAR, PUMP DRIVE (CLIN 0003, WORK ITEM 311-21-004)",
+   "part_numbers": [
+    "512-3010"
+   ],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hawthorne Power Systems (Hawthorne CAT)",
+   "reason": "The Government intends to solicit and contract with only one source, Hawthorne Power Systems (Hawthorne CAT), for the parts listed on the Product Description under the authority of FAR 12.102 on a sole source basis.",
+   "equipment_class": "generator",
+   "installed_location": "USS JOHN P. MURTHA (LPD-26)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HAWTHORNE CAT",
+   "model": null,
+   "part": "SSDG - BEARING, CONNECTING ROD (CLIN 0004, WORK ITEM 311-21-006)",
+   "part_numbers": [
+    "192-7870"
+   ],
+   "quantity": "8 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hawthorne Power Systems (Hawthorne CAT)",
+   "reason": "The Government intends to solicit and contract with only one source, Hawthorne Power Systems (Hawthorne CAT), for the parts listed on the Product Description under the authority of FAR 12.102 on a sole source basis.",
+   "equipment_class": "generator",
+   "installed_location": "USS JOHN P. MURTHA (LPD-26)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HAWTHORNE CAT",
+   "model": null,
+   "part": "SSDG - VIBRATION DAMPER (CLIN 0005, WORK ITEM 311-22-001)",
+   "part_numbers": [
+    "7C-2122"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hawthorne Power Systems (Hawthorne CAT)",
+   "reason": "The Government intends to solicit and contract with only one source, Hawthorne Power Systems (Hawthorne CAT), for the parts listed on the Product Description under the authority of FAR 12.102 on a sole source basis.",
+   "equipment_class": "generator",
+   "installed_location": "USS JOHN P. MURTHA (LPD-26)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HAWTHORNE CAT",
+   "model": null,
+   "part": "SSDG - SHUTOFF GROUP, AIR (CLIN 0006, WORK ITEM 311-22-002)",
+   "part_numbers": [
+    "388-7041"
+   ],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hawthorne Power Systems (Hawthorne CAT)",
+   "reason": "The Government intends to solicit and contract with only one source, Hawthorne Power Systems (Hawthorne CAT), for the parts listed on the Product Description under the authority of FAR 12.102 on a sole source basis.",
+   "equipment_class": "generator",
+   "installed_location": "USS JOHN P. MURTHA (LPD-26)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HAWTHORNE CAT",
+   "model": null,
+   "part": "SSDG - GEAR, PUMP DRIVE (CLIN 0007, WORK ITEM 311-22-004)",
+   "part_numbers": [
+    "512-3010"
+   ],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hawthorne Power Systems (Hawthorne CAT)",
+   "reason": "The Government intends to solicit and contract with only one source, Hawthorne Power Systems (Hawthorne CAT), for the parts listed on the Product Description under the authority of FAR 12.102 on a sole source basis.",
+   "equipment_class": "generator",
+   "installed_location": "USS JOHN P. MURTHA (LPD-26)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HAWTHORNE CAT",
+   "model": null,
+   "part": "SSDG - BEARING, CONNECTING ROD (CLIN 0008, WORK ITEM 311-22-006)",
+   "part_numbers": [
+    "192-7870"
+   ],
+   "quantity": "8 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hawthorne Power Systems (Hawthorne CAT)",
+   "reason": "The Government intends to solicit and contract with only one source, Hawthorne Power Systems (Hawthorne CAT), for the parts listed on the Product Description under the authority of FAR 12.102 on a sole source basis.",
+   "equipment_class": "generator",
+   "installed_location": "USS JOHN P. MURTHA (LPD-26)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HAWTHORNE CAT",
+   "model": null,
+   "part": "SSDG - SHIM PACK (CLIN 0009, WORK ITEM 311-22-013)",
+   "part_numbers": [
+    "184-4700"
+   ],
+   "quantity": "4 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hawthorne Power Systems (Hawthorne CAT)",
+   "reason": "The Government intends to solicit and contract with only one source, Hawthorne Power Systems (Hawthorne CAT), for the parts listed on the Product Description under the authority of FAR 12.102 on a sole source basis.",
+   "equipment_class": "generator",
+   "installed_location": "USS JOHN P. MURTHA (LPD-26)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HAWTHORNE CAT",
+   "model": null,
+   "part": "SSDG - SHUTOFF GROUP, AIR (CLIN 0010, WORK ITEM 311-23-002)",
+   "part_numbers": [
+    "388-7041"
+   ],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hawthorne Power Systems (Hawthorne CAT)",
+   "reason": "The Government intends to solicit and contract with only one source, Hawthorne Power Systems (Hawthorne CAT), for the parts listed on the Product Description under the authority of FAR 12.102 on a sole source basis.",
+   "equipment_class": "generator",
+   "installed_location": "USS JOHN P. MURTHA (LPD-26)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HAWTHORNE CAT",
+   "model": null,
+   "part": "SSDG - VIBRATION DAMPER (CLIN 0011, WORK ITEM 311-25-001)",
+   "part_numbers": [
+    "7C-2122"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hawthorne Power Systems (Hawthorne CAT)",
+   "reason": "The Government intends to solicit and contract with only one source, Hawthorne Power Systems (Hawthorne CAT), for the parts listed on the Product Description under the authority of FAR 12.102 on a sole source basis.",
+   "equipment_class": "generator",
+   "installed_location": "USS JOHN P. MURTHA (LPD-26)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HAWTHORNE CAT",
+   "model": null,
+   "part": "SSDG - SHUTOFF GROUP, AIR (CLIN 0012, WORK ITEM 311-25-002)",
+   "part_numbers": [
+    "388-7041"
+   ],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hawthorne Power Systems (Hawthorne CAT)",
+   "reason": "The Government intends to solicit and contract with only one source, Hawthorne Power Systems (Hawthorne CAT), for the parts listed on the Product Description under the authority of FAR 12.102 on a sole source basis.",
+   "equipment_class": "generator",
+   "installed_location": "USS JOHN P. MURTHA (LPD-26)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HAWTHORNE CAT",
+   "model": null,
+   "part": "SSDG - GEAR, PUMP DRIVE (CLIN 0013, WORK ITEM 311-25-004)",
+   "part_numbers": [
+    "512-3010"
+   ],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hawthorne Power Systems (Hawthorne CAT)",
+   "reason": "The Government intends to solicit and contract with only one source, Hawthorne Power Systems (Hawthorne CAT), for the parts listed on the Product Description under the authority of FAR 12.102 on a sole source basis.",
+   "equipment_class": "generator",
+   "installed_location": "USS JOHN P. MURTHA (LPD-26)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "HAWTHORNE CAT",
+   "model": null,
+   "part": "SSDG - BEARING, CONNECTING ROD (CLIN 0014, WORK ITEM 311-25-006)",
+   "part_numbers": [
+    "192-7870"
+   ],
+   "quantity": "8 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hawthorne Power Systems (Hawthorne CAT)",
+   "reason": "The Government intends to solicit and contract with only one source, Hawthorne Power Systems (Hawthorne CAT), for the parts listed on the Product Description under the authority of FAR 12.102 on a sole source basis.",
+   "equipment_class": "generator",
+   "installed_location": "USS JOHN P. MURTHA (LPD-26)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7430,
+  "out": 4918
+ },
+ "model": "claude-sonnet-5"
+}

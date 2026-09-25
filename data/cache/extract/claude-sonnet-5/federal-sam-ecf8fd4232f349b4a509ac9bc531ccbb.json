@@ -1,0 +1,122 @@
+{
+ "records": [
+  {
+   "manufacturer": "Koenig & Bauer",
+   "model": "MAP3246",
+   "part": "Roller, Ceramic, Blank Cylinder - Oscillating Rollers For COPE",
+   "part_numbers": [
+    "MAP3246",
+    "L5573505"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA (KBBS)",
+   "reason": "The Government intends to award a sole source contract utilizing a Justification and Approval in accordance with FAR 13.106-1(b).",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Koenig & Bauer",
+   "model": "MAP5336",
+   "part": "Blade, Carbide, Knives Basic Machine - Cut X blade for IFS",
+   "part_numbers": [
+    "MAP5336",
+    "L3435033",
+    "1000240878"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA (KBBS)",
+   "reason": "The Government intends to award a sole source contract utilizing a Justification and Approval in accordance with FAR 13.106-1(b).",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Koenig & Bauer",
+   "model": "MAP5351",
+   "part": "Holder, Short - Used On Print Unit Upper Guide Rail On LEPE",
+   "part_numbers": [
+    "MAP5351",
+    "L6941261"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA (KBBS)",
+   "reason": "The Government intends to award a sole source contract utilizing a Justification and Approval in accordance with FAR 13.106-1(b).",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Koenig & Bauer",
+   "model": "MAP5700",
+   "part": "Cam, Drive - Used On SOI III Infeed",
+   "part_numbers": [
+    "MAP5700",
+    "M8505250",
+    "1000417253",
+    "M8255540"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA (KBBS)",
+   "reason": "The Government intends to award a sole source contract utilizing a Justification and Approval in accordance with FAR 13.106-1(b).",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Koenig & Bauer",
+   "model": "MAP5427",
+   "part": "Blade, Bottom Mount - Used In COPE",
+   "part_numbers": [
+    "MAP5427",
+    "L7100513",
+    "1002001637"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA (KBBS)",
+   "reason": "The Government intends to award a sole source contract utilizing a Justification and Approval in accordance with FAR 13.106-1(b).",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dunkermotor",
+   "model": "BG62x60 I=5:1",
+   "part": "Motor Assembly - Used on COPE 212 Upgrade Delivery test pile",
+   "part_numbers": [
+    "ELP2414",
+    "BG62x60 I=5:1",
+    "L0848583"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA (KBBS)",
+   "reason": "The Government intends to award a sole source contract utilizing a Justification and Approval in accordance with FAR 13.106-1(b).",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2728,
+  "out": 2296
+ },
+ "model": "claude-sonnet-5"
+}

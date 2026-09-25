@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Cell-IQ Series 5.8 cu.ft. CO2 Laboratory Incubator",
+   "part": "CO2 Laboratory Incubator units",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "LABREPCO LLC",
+   "reason": "only one responsible source and no other supply of service will satisfy agency requirements",
+   "equipment_class": "other equipment",
+   "installed_location": "NIH Clinical Center - Critical Care medicine department",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2456,
+  "out": 458
+ },
+ "model": "claude-sonnet-5"
+}

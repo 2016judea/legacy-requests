@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Raytheon Company",
+   "model": null,
+   "part": "Patriot Missile system spares (17 NSN/Part Numbers)",
+   "part_numbers": [],
+   "quantity": "17 NSN/Part Numbers",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Raytheon Company",
+   "reason": "Only one responsible source, and no other type of supplies or services will satisfy agency requirements",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6701,
+  "out": 357
+ },
+ "model": "claude-sonnet-5"
+}

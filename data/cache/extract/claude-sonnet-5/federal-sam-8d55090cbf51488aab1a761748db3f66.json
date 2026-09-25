@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "First Line Technology, LLC",
+   "model": "Shipboard Decon Kit",
+   "part": "First Line Shipboard Decon Kit, 26-50 PAX",
+   "part_numbers": [
+    "DT-SBDK-50"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "First Line Technology, LLC",
+   "reason": "The specialized product design and pre-packaged features are locked to First Line Technology Part Numbers DT-SBDK-50 and DT-SBDK-CONSUM-50 in strict accordance with the mandatory AEL 2-77MSC8032 technical configuration.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "First Line Technology, LLC",
+   "model": "Shipboard Decon Kit Consumables",
+   "part": "Shipboard Decon Kit Consumables, 50 Personnel",
+   "part_numbers": [
+    "DT-SBDK-CONSUM-50"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "First Line Technology, LLC",
+   "reason": "The specialized product design and pre-packaged features are locked to First Line Technology Part Numbers DT-SBDK-50 and DT-SBDK-CONSUM-50 in strict accordance with the mandatory AEL 2-77MSC8032 technical configuration.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2733,
+  "out": 513
+ },
+ "model": "claude-sonnet-5"
+}

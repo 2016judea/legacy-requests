@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Raytheon",
+   "model": null,
+   "part": "Addition of fifteen (15) National Stock Numbers (NSNs)/Part Numbers (PNs) to the Alpha VI IDR Long-Term Contract supporting the Patriot Missile System",
+   "part_numbers": [],
+   "quantity": "15 NSNs/PNs",
+   "price_usd": null,
+   "lead_time": "30\u201360-day lead time for delivery of part(s) unless otherwise negotiated",
+   "sole_source_vendor": "Raytheon Company",
+   "reason": "This solicitation is issued on a sole-source basis to Raytheon Company (CAGE 05716) pursuant to 10 U.S.C. \u00a7 3204(a)(1) and FAR 6.302-1, as only one responsible source is capable of satisfying the Government\u2019s requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6982,
+  "out": 572
+ },
+ "model": "claude-sonnet-5"
+}

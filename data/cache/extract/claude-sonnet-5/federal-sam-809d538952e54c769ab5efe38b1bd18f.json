@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "IET Labs, Inc.",
+   "model": "HARS-LX-9-0.001",
+   "part": "Decade Resistance Box",
+   "part_numbers": [
+    "HARS-LX-9-0.001"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "IET Labs, Inc.",
+   "reason": "intends to issue a single-source procurement action to IET Labs, Inc., CAGE 62015, under the authority of RFO 12.102(a) to purchase Decade Resistance Box P/N HARS-LX-9-0.001",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Misawa Air Base, Japan",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2383,
+  "out": 249
+ },
+ "model": "claude-sonnet-5"
+}

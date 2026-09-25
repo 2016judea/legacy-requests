@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "F-35 Cockpit Upgrade: Cockpit structure, Cockpit Internals and Communication Displays and Panels",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "exceed 12 months",
+   "sole_source_vendor": "Driven Technologies Inc.",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "IFAST (445TS/EWJN), Edwards AFB",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Aerostronics",
+   "model": "PEDALS",
+   "part": "PEDALS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Driven Technologies Inc.",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "IFAST (445TS/EWJN), Edwards AFB",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "F-35 Panoramic Center Display (PCD)",
+   "part": "Panoramic Cockpit Display, 8x20 Viewing Area, 2560x1024 Image Resolution, 1280x1024 Per Slide",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Driven Technologies Inc.",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "IFAST (445TS/EWJN), Edwards AFB",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "PMIC (Precision Measurement Equipment Laboratory/Instructional cockpit)",
+   "part": "Legacy low-fidelity PVC-pipe mobile demonstrator cockpit to be replaced by high-fidelity representative cockpit",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "is a low-fidelity, highly portable PVC-pipe construction that fails to realistically represent an actual aircraft",
+   "equipment_class": "other equipment",
+   "installed_location": "IFAST (445TS/EWJN)",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4868,
+  "out": 998
+ },
+ "model": "claude-sonnet-5"
+}

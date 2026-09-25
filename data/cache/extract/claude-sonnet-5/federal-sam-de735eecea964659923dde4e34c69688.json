@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Parker Hannifin Corporation",
+   "model": null,
+   "part": "120 NSNs for various platforms/weapon systems (aviation parts) added to OEM Long-Term Contracts",
+   "part_numbers": [],
+   "quantity": "120",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Parker Hannifin Corporation",
+   "reason": "OEM Parker Hannifin Corporation (59211) has been identified as the approved source of supply for the listed items; therefore, the proposed action is intended to be awarded on a sole source basis to the OEM.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3367,
+  "out": 499
+ },
+ "model": "claude-sonnet-5"
+}

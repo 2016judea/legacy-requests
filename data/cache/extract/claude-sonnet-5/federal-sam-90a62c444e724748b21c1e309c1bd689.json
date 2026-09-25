@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Beckman Coulter",
+   "model": "Optima XPN 90",
+   "part": "Ultracentrifuge System Replacement",
+   "part_numbers": [
+    "A94468"
+   ],
+   "quantity": "one (1)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Government Scientific Source, Inc. (GSS)",
+   "reason": "The Beckman Optima XPN 90 is the only current-generation commercial instrument that maintains 100% mechanical and dimensional compatibility with the laboratory's extensive inventory of existing, high-value proprietary Beckman rotors",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Beckman Coulter",
+   "model": null,
+   "part": "Installation Service and basic operator training",
+   "part_numbers": [
+    "C58398"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Government Scientific Source, Inc. (GSS)",
+   "reason": "to include Part No. C58398 Installation Service and basic operator training",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4768,
+  "out": 949
+ },
+ "model": "claude-sonnet-5"
+}

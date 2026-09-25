@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Marco Ophthalmic",
+   "model": "SC-1600",
+   "part": "LCD Acuity Systems",
+   "part_numbers": [],
+   "quantity": "7",
+   "price_usd": null,
+   "lead_time": "30 Days ARO",
+   "sole_source_vendor": "Lombart Brothers, Inc. DBA Marco Lombart",
+   "reason": "the Marco SC-1600 is the only system capable of seamless integration with the department's existing TRS-6100 Automated Refraction Systems",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NMRTC Camp Pendleton Optometry Department: Sequoia Rd., Bldg. H-135, Camp Pendleton, CA 92055",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3904,
+  "out": 259
+ },
+ "model": "claude-sonnet-5"
+}

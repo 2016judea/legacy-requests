@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Monaco Enterprises Incorporated",
+   "model": "D-21",
+   "part": "EM Cluster Technology Upgrade (D-21 system hardware and software)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Monaco Enterprises Incorporated (MEI)",
+   "reason": "Monaco is the sole proprietary manufacturer of the D-21 system hardware and software; utilizing any alternate vendor for this upgrade would immediately void the systems current warranty and manufacturer support under their existing maintenance contract.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "U.S. Army Garrison Fort Knox",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2439,
+  "out": 412
+ },
+ "model": "claude-sonnet-5"
+}

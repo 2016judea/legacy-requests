@@ -1,0 +1,175 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "AIR NOZZLE, SPRAY GUN",
+   "part_numbers": [
+    "4940017177572"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Silver Mountain Holdings LLC",
+   "reason": "This was solicited as other than full and open under Simplified Acquisition Procedures.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "3M COMPANY",
+   "model": null,
+   "part": "Spare part, form/fit/function interchangeable with supported end item",
+   "part_numbers": [
+    "7010398749"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "3M COMPANY",
+   "reason": "the only source(s) known to have the capability of furnishing the required supplies and the only source(s) currently approved by the design control activity",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "3M COMPANY",
+   "model": null,
+   "part": "Spare part, form/fit/function interchangeable with supported end item",
+   "part_numbers": [
+    "16024"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "3M COMPANY",
+   "reason": "the only source(s) known to have the capability of furnishing the required supplies and the only source(s) currently approved by the design control activity",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "3M COMPANY",
+   "model": null,
+   "part": "Spare part, form/fit/function interchangeable with supported end item",
+   "part_numbers": [
+    "7100223430"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "3M COMPANY",
+   "reason": "the only source(s) known to have the capability of furnishing the required supplies and the only source(s) currently approved by the design control activity",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "3M COMPANY",
+   "model": null,
+   "part": "Spare part, form/fit/function interchangeable with supported end item",
+   "part_numbers": [
+    "7100066023"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "3M COMPANY",
+   "reason": "the only source(s) known to have the capability of furnishing the required supplies and the only source(s) currently approved by the design control activity",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "3M COMPANY",
+   "model": null,
+   "part": "Spare part, form/fit/function interchangeable with supported end item",
+   "part_numbers": [
+    "16612"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "3M COMPANY",
+   "reason": "the only source(s) known to have the capability of furnishing the required supplies and the only source(s) currently approved by the design control activity",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "3M COMPANY",
+   "model": null,
+   "part": "Spare part, form/fit/function interchangeable with supported end item",
+   "part_numbers": [
+    "16585"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "3M COMPANY",
+   "reason": "the only source(s) known to have the capability of furnishing the required supplies and the only source(s) currently approved by the design control activity",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "3M COMPANY",
+   "model": null,
+   "part": "Spare part, form/fit/function interchangeable with supported end item",
+   "part_numbers": [
+    "MT20H682FB-09N SV"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "3M COMPANY",
+   "reason": "the only source(s) known to have the capability of furnishing the required supplies and the only source(s) currently approved by the design control activity",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "3M COMPANY",
+   "model": null,
+   "part": "Spare part, form/fit/function interchangeable with supported end item",
+   "part_numbers": [
+    "7100284557"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "3M COMPANY",
+   "reason": "the only source(s) known to have the capability of furnishing the required supplies and the only source(s) currently approved by the design control activity",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "3M COMPANY",
+   "model": null,
+   "part": "Spare part, form/fit/function interchangeable with supported end item",
+   "part_numbers": [
+    "7100205981"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "3M COMPANY",
+   "reason": "the only source(s) known to have the capability of furnishing the required supplies and the only source(s) currently approved by the design control activity",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4634,
+  "out": 4180
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Life Technologies Corporation",
+   "model": "SequalPrep",
+   "part": "SequalPrep normalization plates for DNA sequencing",
+   "part_numbers": [],
+   "quantity": "20 per twelve month period",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies Corporation",
+   "reason": "Life Technologies Corporation being the only vendor NOAA is aware of providing normalization plates producing the extracts within the necessary concentration of DNA quantity necessary for sequencing at the quality levels required by NOAA",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "17109 PT LENA LOOP RD, JUNEAU, AK 99801",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3137,
+  "out": 259
+ },
+ "model": "claude-sonnet-5"
+}

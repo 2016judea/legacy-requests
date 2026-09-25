@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "iPerformX",
+   "model": "F-35 Engine Run Simulator",
+   "part": "High-fidelity F-35 engine run simulator for training on engine start sequences, emergency scenarios, and fault code diagnosis",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "iPerformX",
+   "reason": "iPerformX holds the exclusive distribution rights for the iPerformX F-35 Simulator within the United States. No other authorized resellers or equivalent systems that meet the exact mixed-reality training specifications for this requirement were identified.",
+   "equipment_class": "other equipment",
+   "installed_location": "Eielson AFB, AK",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4760,
+  "out": 256
+ },
+ "model": "claude-sonnet-5"
+}

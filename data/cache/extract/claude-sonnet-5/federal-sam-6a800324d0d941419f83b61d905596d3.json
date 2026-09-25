@@ -1,0 +1,368 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tecmotiv",
+   "model": "AVDS 1790-2CA",
+   "part": "Engine Assy, 1790-2CA, W/Container",
+   "part_numbers": [
+    "360011790",
+    "AVDS 1790-2CA"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "810 days after receipt of order (ARO), 5 units per/mo, after 180 days ARO",
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Hose Assy, Rev A",
+   "part_numbers": [
+    "12271067"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Angle, Fender, Rev D",
+   "part_numbers": [
+    "10911305-1"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Cylinder Assy",
+   "part_numbers": [
+    "12270499"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Angle, Fender",
+   "part_numbers": [
+    "10911305-2"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Fender, Rev E",
+   "part_numbers": [
+    "10873806"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Bracket Angle Right, Rev A",
+   "part_numbers": [
+    "10952211"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Extension, Fender",
+   "part_numbers": [
+    "10940256-1"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Fender, Vehicular Rh, Rev D",
+   "part_numbers": [
+    "10940272-2"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Shock Absorber, Rev K",
+   "part_numbers": [
+    "11645792"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Bracket",
+   "part_numbers": [
+    "11658972"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Extension, Fender",
+   "part_numbers": [
+    "10940256-2"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Fender, Right, Rev B",
+   "part_numbers": [
+    "11676034"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Fender, Rev E",
+   "part_numbers": [
+    "10873807"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Arm Assy",
+   "part_numbers": [
+    "10915603-2"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Fender, Vehicular, Rev J",
+   "part_numbers": [
+    "10940272-1"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Hub, Final Drive, Rev Am",
+   "part_numbers": [
+    "7364134"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Arm Assy, Right, Rev L",
+   "part_numbers": [
+    "10905983-2"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Arm Assy",
+   "part_numbers": [
+    "10915603-1"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Arm Assy, Left, Rev L",
+   "part_numbers": [
+    "10905983-1"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Wheel Solid Rubber, Rev J",
+   "part_numbers": [
+    "7013976"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tecmotiv",
+   "model": null,
+   "part": "Hose, Preformed, Rev E",
+   "part_numbers": [
+    "8762783"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Federal Resources Supply Company, LLC (FRSC)",
+   "reason": "Only the specified brand-name part numbers, exclusively distributed FRSC will meet requirements; no equivalents or alternative products are acceptable.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10914,
+  "out": 5724
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,61 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rugged Controls",
+   "model": "RPC-90x-SA-MEA-REN",
+   "part": "Safe area measurement assemblies with rear enclosures for winch wire tension monitoring",
+   "part_numbers": [
+    "RPC-90x-SA-MEA-REN"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Rugged Controls",
+   "reason": "The Original Equipment Manufacturer; hold proprietary rights to the design and configuration of these winch control displays, no other vendors have the necessary materials to perform the requested actions.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NOAA Ship Nancy Foster",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rugged Controls",
+   "model": "RA-90x-DE-SA-D01",
+   "part": "Modified enclosure customized to support four winch sensors with top-entry cabling",
+   "part_numbers": [
+    "RA-90x-DE-SA-D01"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Rugged Controls",
+   "reason": "The Original Equipment Manufacturer; hold proprietary rights to the design and configuration of these winch control displays, no other vendors have the necessary materials to perform the requested actions.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NOAA Ship Nancy Foster",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Rugged Controls",
+   "model": null,
+   "part": "Vendor labor to configure modifications and prepare assemblies for installation",
+   "part_numbers": [],
+   "quantity": "8 hours",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Rugged Controls",
+   "reason": "The Original Equipment Manufacturer; hold proprietary rights to the design and configuration of these winch control displays, no other vendors have the necessary materials to perform the requested actions.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "NOAA Ship Nancy Foster",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3187,
+  "out": 1261
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Autonomous Flight Safety System (AFSS) Integration",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Aerojet Rocketdyne Coleman Aerospace, Inc. (ARCA)",
+   "reason": "MDA believes that only ARCA is capable of providing the required AFSS integration services and interfaces without substantial duplication of cost that is not expected to be recovered through competition and unacceptable delays, since ARCA owns the MRBM T1/T2 Technical Data Package.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Hypersonic Target Vehicle \ff 2",
+   "part": "Hypersonic Target Vehicle \ff 2 Integration Kits",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Aerojet Rocketdyne Coleman Aerospace, Inc. (ARCA)",
+   "reason": "MDA believes that only ARCA is capable of providing the required services without substantial duplication of cost that is not expected to be recovered through competition and unacceptable delays, since ARCA owns the MRBM T1/T2 Technical Data Package and Interface Control Document.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4768,
+  "out": 1624
+ },
+ "model": "claude-sonnet-5"
+}

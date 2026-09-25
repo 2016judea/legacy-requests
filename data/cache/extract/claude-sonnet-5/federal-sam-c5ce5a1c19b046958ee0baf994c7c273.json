@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Jeppesen ForeFlight",
+   "model": "ForeFlight Dispatch / EPIC INAV / Elite INAV",
+   "part": "Military Flight Dispatch & Integrated Navigation Data (INDS) services for C-37A/B & C-39A aircraft",
+   "part_numbers": [],
+   "quantity": "4 aircraft (C101, C102, C103, C104)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Jeppesen ForeFlight, Inc.",
+   "reason": "Jeppesen ForeFlight is the only provider capable of delivering the required integrated military dispatch and navigation data services compatible with the USCG's Gulfstream C-37A/B & C-39A aircraft and Honeywell avionics suite.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "USCG Air Station Washington, 1 Reagan National Airport, Hangar 6, Washington, DC, 20593",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5219,
+  "out": 345
+ },
+ "model": "claude-sonnet-5"
+}

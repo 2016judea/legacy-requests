@@ -1,0 +1,59 @@
+{
+ "records": [
+  {
+   "manufacturer": "L3Harris",
+   "model": "AN/PRC-163 Falcon IV",
+   "part": "AN/PRC-163 Falcon IV Handheld Radios",
+   "part_numbers": [
+    "AN/PRC-163"
+   ],
+   "quantity": "8",
+   "price_usd": null,
+   "lead_time": "60 days after receipt of order",
+   "sole_source_vendor": "L3Harris Technologies Inc.",
+   "reason": "the AN/PRC-163 Falcon IV is the only handheld radio possessing the built-in capability to meet the strict cryptographic and waveform mandates of AFTTP 3-3",
+   "equipment_class": "communications/radio",
+   "installed_location": "Travis Air Force Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "L3Harris",
+   "model": "AN/PRC-163 Falcon IV",
+   "part": "Batteries for the radios, and backup batteries",
+   "part_numbers": [],
+   "quantity": "16",
+   "price_usd": null,
+   "lead_time": "60 days after receipt of order",
+   "sole_source_vendor": "L3Harris Technologies Inc.",
+   "reason": "Eight (8) batteries for the radios, and eight (8) backup batteries for a total of 16 batteries",
+   "equipment_class": "communications/radio",
+   "installed_location": "Travis Air Force Base",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "L3Harris",
+   "model": "AN/PRC-163 Falcon IV",
+   "part": "Charging stations, ports, and/or cords to charge the batteries",
+   "part_numbers": [],
+   "quantity": "8",
+   "price_usd": null,
+   "lead_time": "60 days after receipt of order",
+   "sole_source_vendor": "L3Harris Technologies Inc.",
+   "reason": "Eight (8) charging stations, ports, and/or cords to charge the batteries",
+   "equipment_class": "communications/radio",
+   "installed_location": "Travis Air Force Base",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4255,
+  "out": 959
+ },
+ "model": "claude-sonnet-5"
+}

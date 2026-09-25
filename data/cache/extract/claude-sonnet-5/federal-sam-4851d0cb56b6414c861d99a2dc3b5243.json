@@ -1,0 +1,89 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "MEC-AZ-20",
+   "part": "Azimuth Antenna Positioner (AAP) / Azimuth Rotary Positioner",
+   "part_numbers": [
+    "MEC-AZ-20"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "90 days after receipt of order",
+   "sole_source_vendor": "NSI-MI TECHNOLOGIES INC.",
+   "reason": "This acquisition is conducted under the authority of FAR 13.106-1(b)(1), Only One Responsible Source.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Tobyhanna Army Depot, Tobyhanna, PA 18466",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "ELE-ARC",
+   "part": "Antenna Range Controller (ARC)",
+   "part_numbers": [
+    "ELE-ARC"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "90 days after receipt of order",
+   "sole_source_vendor": "NSI-MI TECHNOLOGIES INC.",
+   "reason": "This acquisition is conducted under the authority of FAR 13.106-1(b)(1), Only One Responsible Source.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Tobyhanna Army Depot, Tobyhanna, PA 18466",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "All required cabling including, but not limited to, motor cable, power cable, and V35 to ARC cable",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "90 days after receipt of order",
+   "sole_source_vendor": "NSI-MI TECHNOLOGIES INC.",
+   "reason": "This acquisition is conducted under the authority of FAR 13.106-1(b)(1), Only One Responsible Source.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Tobyhanna Army Depot, Tobyhanna, PA 18466",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Radio Frequency (RF) Absorber for RF reflection / scattering mitigation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "90 days after receipt of order",
+   "sole_source_vendor": "NSI-MI TECHNOLOGIES INC.",
+   "reason": "This acquisition is conducted under the authority of FAR 13.106-1(b)(1), Only One Responsible Source.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Tobyhanna Army Depot, Tobyhanna, PA 18466",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "perpetual CNF software licenses",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "NSI-MI TECHNOLOGIES INC.",
+   "reason": "provide the perpetual CNF software licenses and precision calibration services required.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Tobyhanna Army Depot, Tobyhanna, PA 18466",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7065,
+  "out": 2166
+ },
+ "model": "claude-sonnet-5"
+}

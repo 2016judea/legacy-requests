@@ -1,0 +1,59 @@
+{
+ "records": [
+  {
+   "manufacturer": "Elliott Manufacturing",
+   "model": "44BH-2",
+   "part": "Steam Propulsion Plant Elliott Model 44BH-2 Forced Draft Blower (FDB) Rotors",
+   "part_numbers": [
+    "P8405A101"
+   ],
+   "quantity": "6 (2 Yr1, 1 Yr2, 1 Yr3, 1 Yr4, 1 Yr5)",
+   "price_usd": 7743157,
+   "lead_time": null,
+   "sole_source_vendor": "Kampi Component Company, Inc. (KCC)",
+   "reason": "The procurement of these hardware components is deemed available only from the original OEM, Elliott Manufacturing through their distributor, Kampi Component Company (KCC).",
+   "equipment_class": "other equipment",
+   "installed_location": "LHD-1 Class vessels",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Elliott Manufacturing",
+   "model": null,
+   "part": "2SCOG FDB Major Overhaul Kits",
+   "part_numbers": [],
+   "quantity": "5 (1 per year, Years 1-5)",
+   "price_usd": 4079192,
+   "lead_time": null,
+   "sole_source_vendor": "Kampi Component Company, Inc. (KCC)",
+   "reason": "The procurement of these hardware components is deemed available only from the original OEM, Elliott Manufacturing through their distributor, Kampi Component Company (KCC).",
+   "equipment_class": "other equipment",
+   "installed_location": "LHD-1 Class vessels",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Elliott Manufacturing",
+   "model": null,
+   "part": "2SCOG FDB Minor Overhaul Kits",
+   "part_numbers": [],
+   "quantity": "13 (1 Yr1, 3 Yr2, 3 Yr3, 3 Yr4, 3 Yr5)",
+   "price_usd": 6787445,
+   "lead_time": null,
+   "sole_source_vendor": "Kampi Component Company, Inc. (KCC)",
+   "reason": "The procurement of these hardware components is deemed available only from the original OEM, Elliott Manufacturing through their distributor, Kampi Component Company (KCC).",
+   "equipment_class": "other equipment",
+   "installed_location": "LHD-1 Class vessels",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5827,
+  "out": 1605
+ },
+ "model": "claude-sonnet-5"
+}

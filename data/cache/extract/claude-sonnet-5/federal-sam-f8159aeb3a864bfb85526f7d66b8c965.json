@@ -1,0 +1,367 @@
+{
+ "records": [
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "BioProfile FLEX 2",
+   "part": "BioProfile FLEX 2 ESM External Tubing Set",
+   "part_numbers": [
+    "59209"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "BioProfile FLEX 2",
+   "part": "BioProfile FLEX 2 pH/Gas MicroSensor\u2122 Card LV (125 samples or 21 days)",
+   "part_numbers": [
+    "57510"
+   ],
+   "quantity": "10 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "BioProfile FLEX 2",
+   "part": "BioProfile FLEX 2 Chemistry MicroSensor\u2122 Card LV (150 samples or 21 days)",
+   "part_numbers": [
+    "57512"
+   ],
+   "quantity": "10 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "BioProfile FLEX 2",
+   "part": "BioProfile FLEX 2 pH/Gas Reference Sensor",
+   "part_numbers": [
+    "57467"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "BioProfile FLEX 2",
+   "part": "BioProfile FLEX 2 Chemistry Reference Sensor",
+   "part_numbers": [
+    "57466"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "BioProfile FLEX 2",
+   "part": "BioProfile FLEX 2 pH/Gas Calibrator Cartridge MV",
+   "part_numbers": [
+    "58102"
+   ],
+   "quantity": "8 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "BioProfile FLEX 2",
+   "part": "BioProfile FLEX 2 Chemistry Calibrator and Reagent Cartridges MV",
+   "part_numbers": [
+    "58101"
+   ],
+   "quantity": "10 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "BioProfile FLEX 2",
+   "part": "BioProfile FLEX 2 CDV Reagent Cartridges",
+   "part_numbers": [
+    "55297"
+   ],
+   "quantity": "11 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "OSM20",
+   "part": "50 mOsm/kg Calibration Standard 10/box",
+   "part_numbers": [
+    "42437"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "OSM20",
+   "part": "290 mOsm/kg Reference Solution 10/box",
+   "part_numbers": [
+    "42439"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "OSM48",
+   "part": "Micro tubes BioProfile FLEX2 500/box",
+   "part_numbers": [
+    "59859"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "BioProfile FLEX 2",
+   "part": "BioProfile FLEX 2 pH/Gas Auto QC Cartridge",
+   "part_numbers": [
+    "56073"
+   ],
+   "quantity": "5 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "BioProfile FLEX 2",
+   "part": "BioProfile FLEX 2 Chemistry Auto QC Cartridge",
+   "part_numbers": [
+    "57035"
+   ],
+   "quantity": "7 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "BioProfile FLEX 2",
+   "part": "BioProfile FLEX 2 S-Line Probe Assembly",
+   "part_numbers": [
+    "55288"
+   ],
+   "quantity": "2 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "FLEX2",
+   "part": "pH/Gas Shutdown Cartridge",
+   "part_numbers": [
+    "60608"
+   ],
+   "quantity": "2 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "FLEX2",
+   "part": "Chemistry Module Shutdown Cartridge",
+   "part_numbers": [
+    "60610"
+   ],
+   "quantity": "2 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "FLEX2",
+   "part": "CDV Module Shutdown Cartridge",
+   "part_numbers": [
+    "60611"
+   ],
+   "quantity": "2 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "FLEX2",
+   "part": "ESM Shutdown Cartridge",
+   "part_numbers": [
+    "60612"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "BioProfile FLEX2",
+   "part": "BioProfile FLEX2 Flowpath Troubleshooting Kit",
+   "part_numbers": [
+    "66287"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "FLEX2",
+   "part": "CDV Module Advanced Cleaning Solution",
+   "part_numbers": [
+    "63940"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "FLEX2",
+   "part": "pH/Gas Auto QC Shutdown Cartridge",
+   "part_numbers": [
+    "60613"
+   ],
+   "quantity": "2 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nova Biomedical",
+   "model": "BioProfile FLEX 2",
+   "part": "BioProfile FLEX 2 ESM Reagent Cartridge (200 samples)",
+   "part_numbers": [
+    "56227"
+   ],
+   "quantity": "2 each",
+   "price_usd": null,
+   "lead_time": "7 days of Award",
+   "sole_source_vendor": null,
+   "reason": "All parts and consumables supplied must be fully compatible with and functional in the Nova BioProfile FLEX 2 as configured at the FDA facility, without modification to the instrument",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Silver Spring, MD 20903",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8804,
+  "out": 6640
+ },
+ "model": "claude-sonnet-5"
+}

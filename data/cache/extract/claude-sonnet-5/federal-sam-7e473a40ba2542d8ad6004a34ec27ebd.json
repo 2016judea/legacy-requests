@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sequoia Scientific",
+   "model": "hyper-bb",
+   "part": "hyper-spectral scatter instrument for onboard research vessel Lake Guardian",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sequoia Scientific, LLC",
+   "reason": "Sequoia Scientific, LLC is the only commercial manufacturer/supplier of both instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "research vessel Lake Guardian",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sequoia Scientific",
+   "model": "LISST-200X",
+   "part": "submersible particle size analyzer for onboard research vessel Lake Guardian",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sequoia Scientific, LLC",
+   "reason": "Sequoia Scientific, LLC is the only commercial manufacturer/supplier of both instruments.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "research vessel Lake Guardian",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2378,
+  "out": 406
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": "GEMS Sensors",
+   "model": null,
+   "part": "Cable Assm, GEMS PN: 162200-004-002-007-HP",
+   "part_numbers": [
+    "162200-004-002-007-HP"
+   ],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name Mandatory GEMS Sensors Cable Assemblies",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Portsmouth Naval Shipyard",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEMS Sensors",
+   "model": null,
+   "part": "Cable Assm, GEMS PN: 162200-002-002-020-HP",
+   "part_numbers": [
+    "162200-002-002-020-HP"
+   ],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name Mandatory GEMS Sensors Cable Assemblies",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Portsmouth Naval Shipyard",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEMS Sensors",
+   "model": "45485-3-HP",
+   "part": "Cable Assm, GEMS MODEL 45485-3-HP, THERMOPLASTIC",
+   "part_numbers": [
+    "45485-3-HP",
+    "165942"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name Mandatory GEMS Sensors Cable Assemblies",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Portsmouth Naval Shipyard",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEMS Sensors",
+   "model": null,
+   "part": "Cable Assm, GEMS PN: 162200-2-2-6-HP",
+   "part_numbers": [
+    "162200-2-2-6-HP"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name Mandatory GEMS Sensors Cable Assemblies",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Portsmouth Naval Shipyard",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEMS Sensors",
+   "model": null,
+   "part": "Cable Assm, GEMS PN: 37890/A-F4-J, B-T7-J/C-T2-J (NSN: 01-208-1694)",
+   "part_numbers": [
+    "37890/A-F4-J, B-T7-J/C-T2-J"
+   ],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name Mandatory GEMS Sensors Cable Assemblies",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Portsmouth Naval Shipyard",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEMS Sensors",
+   "model": "162200-002-002-007-HP",
+   "part": "Cable Assm, GEMS MODEL 162200-002-002-007-HP, TEMP P/N 09335",
+   "part_numbers": [
+    "162200-002-002-007-HP",
+    "09335"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name Mandatory GEMS Sensors Cable Assemblies",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Portsmouth Naval Shipyard",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10883,
+  "out": 1745
+ },
+ "model": "claude-sonnet-5"
+}

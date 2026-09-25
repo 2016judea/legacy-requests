@@ -1,0 +1,203 @@
+{
+ "records": [
+  {
+   "manufacturer": "Colt's Manufacturing Company, LLC",
+   "model": "M5",
+   "part": "M5 rifles (M-4 platform, 11.5-inch short barrel, .223/5.56mm) for VA Police",
+   "part_numbers": [],
+   "quantity": "26 (4 Central Western Mass, 22 VA Connecticut, 4 Providence RI; TBD additional for Rhode Island without optic)",
+   "price_usd": null,
+   "lead_time": "90 days",
+   "sole_source_vendor": "Colt's Manufacturing Company, LLC.",
+   "reason": "The Department of Veterans Affairs intends to negotiate a requirement for M5 rifles with Colt\u2019s Manufacturing Company, LLC., for the West Haven VA Healthcare System, CT.",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Connecticut, Central Western Mass, and Providence RI (VISN 1)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Radian",
+   "model": "Raptor",
+   "part": "Charging Handle",
+   "part_numbers": [
+    "402828"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "After substantial research and testing, the Office of Security and Law Enforcement (OS&LE) has chosen a weapon with the following specifications",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Connecticut, Central Western Mass, and Providence RI (VISN 1)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Magpul",
+   "model": "MBUS 3",
+   "part": "Front Sight",
+   "part_numbers": [
+    "403790"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "After substantial research and testing, the Office of Security and Law Enforcement (OS&LE) has chosen a weapon with the following specifications",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Connecticut, Central Western Mass, and Providence RI (VISN 1)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Magpul",
+   "model": "MBUS 3",
+   "part": "Rear Sight",
+   "part_numbers": [
+    "403789"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "After substantial research and testing, the Office of Security and Law Enforcement (OS&LE) has chosen a weapon with the following specifications",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Connecticut, Central Western Mass, and Providence RI (VISN 1)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Huxwrx",
+   "model": "OSS",
+   "part": "Flash Hider",
+   "part_numbers": [
+    "403099"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "After substantial research and testing, the Office of Security and Law Enforcement (OS&LE) has chosen a weapon with the following specifications",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Connecticut, Central Western Mass, and Providence RI (VISN 1)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Magpul",
+   "model": "K2",
+   "part": "Pistol Grip",
+   "part_numbers": [
+    "402333"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "After substantial research and testing, the Office of Security and Law Enforcement (OS&LE) has chosen a weapon with the following specifications",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Connecticut, Central Western Mass, and Providence RI (VISN 1)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Magpul",
+   "model": "MS1 QDM",
+   "part": "Sling",
+   "part_numbers": [
+    "MAG939"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "After substantial research and testing, the Office of Security and Law Enforcement (OS&LE) has chosen a weapon with the following specifications",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Connecticut, Central Western Mass, and Providence RI (VISN 1)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Magpul",
+   "model": "PMag",
+   "part": "Magazine, 30 Round \"Windowed\", Includes (3) Magazines",
+   "part_numbers": [
+    "99812"
+   ],
+   "quantity": "(3) Magazines",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "After substantial research and testing, the Office of Security and Law Enforcement (OS&LE) has chosen a weapon with the following specifications",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Connecticut, Central Western Mass, and Providence RI (VISN 1)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Eotech",
+   "model": "EXPS3",
+   "part": "Optic Sight, Black",
+   "part_numbers": [
+    "401181"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "After substantial research and testing, the Office of Security and Law Enforcement (OS&LE) has chosen a weapon with the following specifications",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Connecticut, Central Western Mass, and Providence RI (VISN 1)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Streamlight",
+   "model": "HLX Pro-Tac M-LOK",
+   "part": "Weapon-mounted Light",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "After substantial research and testing, the Office of Security and Law Enforcement (OS&LE) has chosen a weapon with the following specifications",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Connecticut, Central Western Mass, and Providence RI (VISN 1)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Magpul",
+   "model": "STR",
+   "part": "Stock",
+   "part_numbers": [
+    "401346"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "After substantial research and testing, the Office of Security and Law Enforcement (OS&LE) has chosen a weapon with the following specifications",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Connecticut, Central Western Mass, and Providence RI (VISN 1)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Magpul",
+   "model": "Hand Stop Kit",
+   "part": "Hand Stop Kit, Includes: (1) M-LOK Index Panel, (1) M-LOK Rail Cover Type 2",
+   "part_numbers": [
+    "402447"
+   ],
+   "quantity": "(1) M-LOK Index Panel, (1) M-LOK Rail Cover Type 2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "After substantial research and testing, the Office of Security and Law Enforcement (OS&LE) has chosen a weapon with the following specifications",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Connecticut, Central Western Mass, and Providence RI (VISN 1)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6678,
+  "out": 3958
+ },
+ "model": "claude-sonnet-5"
+}

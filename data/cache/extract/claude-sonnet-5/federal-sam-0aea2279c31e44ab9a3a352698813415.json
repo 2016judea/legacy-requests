@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "URW375/URW376",
+   "part": "Compact mini crawler cranes/spider cranes to support CV-22 aircraft maintenance lifting operations",
+   "part_numbers": [],
+   "quantity": "2 (two each)",
+   "price_usd": null,
+   "lead_time": "Within 120 calendar days after receipt of order",
+   "sole_source_vendor": null,
+   "reason": "The brand-name reference is SpyderCrane URW375/URW376 or equal. The brand name is used to describe the configuration, quality, compact transportability, lift performance, controls, safety systems, accessory compatibility, field-operating capability, and supportability required to satisfy the Government's aircraft maintenance mission.",
+   "equipment_class": "other equipment",
+   "installed_location": "614 Liberator Avenue, Building 208, Cannon AFB, NM 88101",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Single-person, boom-tip-mounted work platform",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "All accessories shall be compatible with and approved by the crane's original equipment manufacturer.",
+   "equipment_class": "other equipment",
+   "installed_location": "614 Liberator Avenue, Building 208, Cannon AFB, NM 88101",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Heavy-duty protective crane covers in tan",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Accessory quantities shall be as identified in the solicitation pricing schedule.",
+   "equipment_class": "other equipment",
+   "installed_location": "614 Liberator Avenue, Building 208, Cannon AFB, NM 88101",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "MEL AIR or equivalent",
+   "part": "Non-marking tracks suitable for aircraft maintenance and hangar environments",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "MEL AIR or equivalent non-marking tracks suitable for aircraft maintenance and hangar flooring.",
+   "equipment_class": "other equipment",
+   "installed_location": "614 Liberator Avenue, Building 208, Cannon AFB, NM 88101",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Hydraulic tilt-deck trailer sized and rated for safe transport of the offered crane and accessories",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The hydraulic tilt-deck trailer shall be sized and rated for safe transportation of the offered crane and the associated accessories.",
+   "equipment_class": "other equipment",
+   "installed_location": "614 Liberator Avenue, Building 208, Cannon AFB, NM 88101",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Track mats",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Accessory quantities shall be as identified in the solicitation pricing schedule.",
+   "equipment_class": "other equipment",
+   "installed_location": "614 Liberator Avenue, Building 208, Cannon AFB, NM 88101",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Two-year spare-parts and maintenance-support package",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the two-year spare-parts and maintenance-support package identified in the pricing schedule.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "614 Liberator Avenue, Building 208, Cannon AFB, NM 88101",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12675,
+  "out": 1375
+ },
+ "model": "claude-sonnet-5"
+}

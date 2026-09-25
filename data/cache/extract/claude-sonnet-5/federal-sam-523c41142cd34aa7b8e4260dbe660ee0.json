@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fluorescent cell culture microscope for mycobacteriology research lab",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Alpha & Omega Microscopes",
+   "reason": "only one responsible source and no other supply of service will satisfy agency requirements",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NIH Clinical Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2408,
+  "out": 179
+ },
+ "model": "claude-sonnet-5"
+}

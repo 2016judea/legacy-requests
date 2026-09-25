@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "MACCOR",
+   "model": "4000H-48",
+   "part": "One (1) upgrade to the existing battery testing system (MACCOR 4000H-48), outfitting additional channels and thermocouple inputs to existing cabinet",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "18 weeks",
+   "sole_source_vendor": "MACCOR, Inc.",
+   "reason": "Due to compatibility with the existing system and hardware interfaces the required procurement is only available from the original equipment manufacturer (OEM), MACCOR, Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "U.S. Army Research Laboratory, Zahl Building (Z2A-16), 2800 Powder Mill Road, Adelphi, MD 20783",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7924,
+  "out": 292
+ },
+ "model": "claude-sonnet-5"
+}

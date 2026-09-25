@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Time Manufacturing Co",
+   "model": "Versalift SST-40-EIH",
+   "part": "Insulated end-mounted 40 ft. telescopic aerial platform lift, 45 ft. working height, 27 ft. 9 in. horizontal reach, 50 kV rated liner and cover, integrated and installed on a 2026 Ford F-550 chassis",
+   "part_numbers": [
+    "SST-40-EIH"
+   ],
+   "quantity": "one",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Time Manufacturing Co",
+   "reason": "contractor Time Manufacturing Co, a large business, has an exact, fully compliant unit in stock and available for immediate delivery",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Washington, DC",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2581,
+  "out": 285
+ },
+ "model": "claude-sonnet-5"
+}

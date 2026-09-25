@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "TSI Incorporated",
+   "model": "Quest Edge 8M",
+   "part": "Noise Dosimeters",
+   "part_numbers": [
+    "TSI 5EG8M-BT-D"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "TSI Incorporated",
+   "reason": "The TSI Incorporated Quest Edge 8M Noise Dosimeter and Microphone are the only products for this requirement that have received MSHA approval as intrinsically safe for use in underground coal mines.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "TSI Incorporated",
+   "model": "Quest Edge 8M",
+   "part": "Microphones",
+   "part_numbers": [
+    "MIC-EG8"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "TSI Incorporated",
+   "reason": "The TSI Incorporated Quest Edge 8M Noise Dosimeter and Microphone are the only products for this requirement that have received MSHA approval as intrinsically safe for use in underground coal mines.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2709,
+  "out": 449
+ },
+ "model": "claude-sonnet-5"
+}

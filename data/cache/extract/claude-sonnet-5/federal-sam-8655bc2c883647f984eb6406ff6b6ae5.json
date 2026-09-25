@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Airtec GmbH",
+   "model": "EC Cypress-2",
+   "part": "Military EC Cypress-2 1-Pin Changeable AAD w/LTM",
+   "part_numbers": [],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SSK Military Industries, Inc.",
+   "reason": "Airtec GmbH is the sole manufacturer of the required parachute release system, and its products are distributed exclusively through SSK Military Industries, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": "414th Combat Training Squadron, Nellis AFB, NV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Airtec GmbH",
+   "model": "EC Cypress Data Collector",
+   "part": "Military EC Cypress Data Collector",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SSK Military Industries, Inc.",
+   "reason": "Airtec GmbH is the sole manufacturer of the required parachute release system, and its products are distributed exclusively through SSK Military Industries, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": "414th Combat Training Squadron, Nellis AFB, NV",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Airtec GmbH",
+   "model": "EC Cypress IR Remote",
+   "part": "Military EC Cypress IR Remote",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SSK Military Industries, Inc.",
+   "reason": "Airtec GmbH is the sole manufacturer of the required parachute release system, and its products are distributed exclusively through SSK Military Industries, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": "414th Combat Training Squadron, Nellis AFB, NV",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4884,
+  "out": 941
+ },
+ "model": "claude-sonnet-5"
+}

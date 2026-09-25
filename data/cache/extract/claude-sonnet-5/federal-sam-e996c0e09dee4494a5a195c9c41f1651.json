@@ -1,0 +1,49 @@
+{
+ "records": [
+  {
+   "manufacturer": "MOOG, Incorporated",
+   "model": null,
+   "part": "Re-manufacture of Primary Valve, Linear Direct",
+   "part_numbers": [
+    "1886-280",
+    "4810-01-326-0862"
+   ],
+   "quantity": null,
+   "price_usd": 289440.0,
+   "lead_time": null,
+   "sole_source_vendor": "MOOG, Incorporated",
+   "reason": "MOOG, Incorporated is the Original Equipment Manufacturer (OEM) and possesses the specifications, plans, and drawings relating to the manufacture of these linear valves.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MOOG, Incorporated",
+   "model": null,
+   "part": "Re-manufacture of Secondary Valve, Linear Direct",
+   "part_numbers": [
+    "1886-290",
+    "4810-01-326-0863"
+   ],
+   "quantity": null,
+   "price_usd": 353760.0,
+   "lead_time": null,
+   "sole_source_vendor": "MOOG, Incorporated",
+   "reason": "MOOG, Incorporated is the Original Equipment Manufacturer (OEM) and possesses the specifications, plans, and drawings relating to the manufacture of these linear valves.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5243,
+  "out": 564
+ },
+ "model": "claude-sonnet-5"
+}

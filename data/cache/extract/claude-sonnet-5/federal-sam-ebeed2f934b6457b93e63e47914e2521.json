@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "AN/SPS-49",
+   "part": "REPAIR AND MANUFACTURE OF AN/SPS-49 SOLID STATE HIGH VOLTAGE SWITCH AND BIAS POWER SUPPLY",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 7540136.0,
+   "lead_time": null,
+   "sole_source_vendor": "POLARITY INC.",
+   "reason": "\ufffd SOLE SOURCE \ufffd REPAIR AND MANUFACTURE OF AN/SPS-49 SOLID STATE HIGH VOLTAGE SWITCH AND BIAS POWER SUPPLY",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2068,
+  "out": 849
+ },
+ "model": "claude-sonnet-5"
+}

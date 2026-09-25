@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Anatomage",
+   "model": "Virtual Cadaver Table",
+   "part": "Anatomage Virtual Cadaver Table with shipping crate, warranties, Samsung tablet, protective hardcover with table convertible monitors, and online training",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "30 days",
+   "sole_source_vendor": "Anatomage Inc.",
+   "reason": "Anatomage Inc. is the sole developer, owner, and exclusive licensor of the Anatomage Table software, associated digital anatomy libraries, and system-specific updates.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Anatomage",
+   "model": "Anatomage Tablet",
+   "part": "Anatomage Tablet",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "30 SEP 2026",
+   "sole_source_vendor": "Anatomage Inc.",
+   "reason": "Anatomage is the sole distributer of their products in the United States, there are no authorized resellers per their website.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Anatomage",
+   "model": "Online Training",
+   "part": "Online Training",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "30 SEP 2026",
+   "sole_source_vendor": "Anatomage Inc.",
+   "reason": "No third-party vendors are authorized to provide software renewals, content updates, or technical support.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Anatomage",
+   "model": "AnatomageLessons Promotional (1 Year)",
+   "part": "AnatomageLessons Promotional (1 Year)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "30 SEP 2026",
+   "sole_source_vendor": "Anatomage Inc.",
+   "reason": "Anatomage Inc. is the sole developer, owner, and exclusive licensor of the Anatomage Table software, associated digital anatomy libraries, and system-specific updates.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5493,
+  "out": 799
+ },
+ "model": "claude-sonnet-5"
+}

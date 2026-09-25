@@ -1,0 +1,59 @@
+{
+ "records": [
+  {
+   "manufacturer": "Elliott Manufacturing",
+   "model": "44BH-2",
+   "part": "Forced Draft Blower (FDB) Rotors",
+   "part_numbers": [
+    "P8405A101"
+   ],
+   "quantity": "6",
+   "price_usd": 7743157,
+   "lead_time": null,
+   "sole_source_vendor": "Kampi Component Company, Inc. (KCC)",
+   "reason": "Elliott Manufacturing is the OEM for all of the components listed in Table 1. Elliott Manufacturing owns and utilizes proprietary information and technical data to manufacture the required hardware which has been shock and vibration qualified.",
+   "equipment_class": "pump",
+   "installed_location": "LHD-1 Class Steam Propulsion Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Elliott Manufacturing",
+   "model": "44BH-2",
+   "part": "2SCOG FDB Major Overhaul Kits",
+   "part_numbers": [],
+   "quantity": "5",
+   "price_usd": 4079192,
+   "lead_time": null,
+   "sole_source_vendor": "Kampi Component Company, Inc. (KCC)",
+   "reason": "Elliott Manufacturing owns all propriety drawings to manufacture all of the material listed and the Government has no access to these drawings and manufacturing information.",
+   "equipment_class": "pump",
+   "installed_location": "LHD-1 Class Steam Propulsion Plant",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Elliott Manufacturing",
+   "model": "44BH-2",
+   "part": "2SCOG FDB Minor Overhaul Kits",
+   "part_numbers": [],
+   "quantity": "13",
+   "price_usd": 6787445,
+   "lead_time": null,
+   "sole_source_vendor": "Kampi Component Company, Inc. (KCC)",
+   "reason": "The Government does not have sufficient data rights to allow for competition of these items.",
+   "equipment_class": "pump",
+   "installed_location": "LHD-1 Class Steam Propulsion Plant",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5826,
+  "out": 1052
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sysmex",
+   "model": "CA-660",
+   "part": "Service agreement for coagulation analyzer including analyzer, barcode reader, printer, testing supplies/consumables, reagents, external quality control reagents and tech support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SIEMENS HEALTHCARE DIAGNOSTICS INC",
+   "reason": "Siemens Healthcare Diagnostics Inc. is the exclusive and sole distributer of reagents for the Sysmex CA-660 Coagulation Analyzer for clinical laboratories in the United States.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Crow Service Unit (CSU)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2535,
+  "out": 280
+ },
+ "model": "claude-sonnet-5"
+}

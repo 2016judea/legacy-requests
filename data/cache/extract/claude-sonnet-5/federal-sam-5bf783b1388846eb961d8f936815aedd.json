@@ -1,0 +1,95 @@
+{
+ "records": [
+  {
+   "manufacturer": "DroneShield",
+   "model": "DS-035",
+   "part": "RFPatrol Mk2 Wideband",
+   "part_numbers": [
+    "DS-035"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": "90 Calendar Days",
+   "sole_source_vendor": null,
+   "reason": "DroneShield Brand Name Initial Response Kit (IRK)",
+   "equipment_class": "other equipment",
+   "installed_location": "LAUGHLIN AFB, TX 78843",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "DroneShield",
+   "model": "DS-146",
+   "part": "Magnetic Antenna Kit Wideband (MAK WD)",
+   "part_numbers": [
+    "DS-146"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": "90 Calendar Days",
+   "sole_source_vendor": null,
+   "reason": "DroneShield Brand Name Initial Response Kit (IRK)",
+   "equipment_class": "communications/radio",
+   "installed_location": "LAUGHLIN AFB, TX 78843",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "DroneShield",
+   "model": "DS-121",
+   "part": "CS-Tactical Tablet",
+   "part_numbers": [
+    "DS-121"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": "90 Calendar Days",
+   "sole_source_vendor": null,
+   "reason": "DroneShield Brand Name Initial Response Kit (IRK)",
+   "equipment_class": "other equipment",
+   "installed_location": "LAUGHLIN AFB, TX 78843",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "DroneShield",
+   "model": "DS-121-A",
+   "part": "CS-Tactical Software Configuration",
+   "part_numbers": [
+    "DS-121-A"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": "90 Calendar Days",
+   "sole_source_vendor": null,
+   "reason": "DroneShield Brand Name Initial Response Kit (IRK)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "LAUGHLIN AFB, TX 78843",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "DroneShield",
+   "model": "DS-112-1",
+   "part": "RFAI Annual Subscription for RFPatrol Mk2",
+   "part_numbers": [
+    "DS-112-1"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": "90 Calendar Days",
+   "sole_source_vendor": null,
+   "reason": "DroneShield Brand Name Initial Response Kit (IRK)",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "LAUGHLIN AFB, TX 78843",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7975,
+  "out": 2139
+ },
+ "model": "claude-sonnet-5"
+}

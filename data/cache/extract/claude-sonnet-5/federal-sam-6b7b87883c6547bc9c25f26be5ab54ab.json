@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vision Research Inc.",
+   "model": "Phantom T3610",
+   "part": "PHANTOM T3610, 64GB MONO, F-MOUNT, CINEMAG COMPATIBLE",
+   "part_numbers": [
+    "VRI-T3610-64G-MAG-M"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "20 weeks",
+   "sole_source_vendor": "Vision Research Inc.",
+   "reason": "The proposed contract action is for supplies or services for which the Government is soliciting and negotiating with only one source under the authority of 41 USC 1901.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Army Research Laboratory, Aberdeen Proving Ground MD 21005",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vision Research Inc.",
+   "model": "Phantom T3610",
+   "part": "OPTION, ADD FAST OPTION TO PHANTOM T3610 FOR 190 NS (EXPORT CONTROLLED)",
+   "part_numbers": [
+    "VRI-T3610-FAST"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "20 weeks",
+   "sole_source_vendor": "Vision Research Inc.",
+   "reason": "The proposed contract action is for supplies or services for which the Government is soliciting and negotiating with only one source under the authority of 41 USC 1901.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Army Research Laboratory, Aberdeen Proving Ground MD 21005",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vision Research Inc.",
+   "model": "Phantom T4040",
+   "part": "PHANTOM T4040, 64GB MONO, F-MOUNT",
+   "part_numbers": [
+    "VRI-T4040-64G-M"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "20 weeks",
+   "sole_source_vendor": "Vision Research Inc.",
+   "reason": "The proposed contract action is for supplies or services for which the Government is soliciting and negotiating with only one source under the authority of 41 USC 1901.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Army Research Laboratory, Aberdeen Proving Ground MD 21005",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vision Research Inc.",
+   "model": "Phantom T4040/T2540",
+   "part": "OPTION, ADD FAST OPTION TO T4040 OR T2540 for 250 NS (EXPORT CONTROLLED)",
+   "part_numbers": [
+    "VRI-TXX40-FAST"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "20 weeks",
+   "sole_source_vendor": "Vision Research Inc.",
+   "reason": "The proposed contract action is for supplies or services for which the Government is soliciting and negotiating with only one source under the authority of 41 USC 1901.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Army Research Laboratory, Aberdeen Proving Ground MD 21005",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vision Research Inc.",
+   "model": "T-series camera lens mount",
+   "part": "KIT, LENS MOUNT, CANON EF-MOUNT FOR T-XXX0 CAMERAS (NOT TE2010)",
+   "part_numbers": [
+    "VRI-MNT-TSERIES-EOS"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "20 weeks",
+   "sole_source_vendor": "Vision Research Inc.",
+   "reason": "The proposed contract action is for supplies or services for which the Government is soliciting and negotiating with only one source under the authority of 41 USC 1901.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Army Research Laboratory, Aberdeen Proving Ground MD 21005",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vision Research Inc.",
+   "model": "T-series carry case",
+   "part": "KIT, CASE, CARRY W/ WHEELS AND CUSTOM FOAM FOR T-SERIES, BLACK",
+   "part_numbers": [
+    "VRI-CASE-TSERIES"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "20 weeks",
+   "sole_source_vendor": "Vision Research Inc.",
+   "reason": "The proposed contract action is for supplies or services for which the Government is soliciting and negotiating with only one source under the authority of 41 USC 1901.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Army Research Laboratory, Aberdeen Proving Ground MD 21005",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Vision Research Inc.",
+   "model": "PLNC G11A-R7",
+   "part": "CAMERA CONTROLLER, PLNC G11A-R7 16FHD 32GB 2TB SSD TAA COMPLIANT",
+   "part_numbers": [
+    "VRI-PLNC-HPZB-2TB-TAA"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "20 weeks",
+   "sole_source_vendor": "Vision Research Inc.",
+   "reason": "The proposed contract action is for supplies or services for which the Government is soliciting and negotiating with only one source under the authority of 41 USC 1901.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Army Research Laboratory, Aberdeen Proving Ground MD 21005",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12883,
+  "out": 2713
+ },
+ "model": "claude-sonnet-5"
+}

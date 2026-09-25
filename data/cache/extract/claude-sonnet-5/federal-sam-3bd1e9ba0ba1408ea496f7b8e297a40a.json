@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Signal Hound",
+   "model": "SM435C",
+   "part": "Spectrum Analyzer",
+   "part_numbers": [
+    "SM435C"
+   ],
+   "quantity": "one",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Signal Hound, LLC.",
+   "reason": "Department of the Navy, Naval Information Warfare Center Pacific (NIWC PACIFIC) hereby publicizes its intention to solicit, negotiate and award a commercial, firm-fixed-price purchase order on a non-competitive basis with Signal Hound, LLC.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2702,
+  "out": 239
+ },
+ "model": "claude-sonnet-5"
+}

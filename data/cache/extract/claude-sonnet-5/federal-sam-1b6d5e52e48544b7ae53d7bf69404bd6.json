@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Boeing Company",
+   "model": null,
+   "part": "Housing, Mechanicald applicable to the CH-47 Chinook Helicopter Weapon system",
+   "part_numbers": [
+    "145R2075-16"
+   ],
+   "quantity": "78 each",
+   "price_usd": null,
+   "lead_time": "1,260 Days After Contract Award (DACA) with First Article Testing; 840 DACA without First Article Testing",
+   "sole_source_vendor": "THE BOEING COMPANY, CAGE CODE: 77272",
+   "reason": "having only a limited number of responsible sources",
+   "equipment_class": "other equipment",
+   "installed_location": "Corpus Christi, TX, 78419-5255",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2806,
+  "out": 242
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "30mm Sight Alignment Tool Kit Bullseye Reticle (Boresight)",
+   "part_numbers": [
+    "3-1000BR"
+   ],
+   "quantity": "96",
+   "price_usd": null,
+   "lead_time": "16 Weeks",
+   "sole_source_vendor": "Torrent Photonics",
+   "reason": "The proposed contract action is for the supplies or services for which the Government intends to solicit and negotiate with one source, Torrent Photonics",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10421,
+  "out": 219
+ },
+ "model": "claude-sonnet-5"
+}

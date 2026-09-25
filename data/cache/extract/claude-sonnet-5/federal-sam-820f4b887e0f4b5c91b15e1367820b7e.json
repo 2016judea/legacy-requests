@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Precision resistive voltage dividers with a 0.001 ratio for 500V",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Department of Industry Science and Resources",
+   "reason": "NIST\\u2019s identification of Department of Industry Science and Resources in this Notice does not constitute a binding commitment",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "voltage dividers with a 0.003 ratio for 330 V",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Department of Industry Science and Resources",
+   "reason": "NIST\\u2019s identification of Department of Industry Science and Resources in this Notice does not constitute a binding commitment",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "voltage dividers with a 0.006 ratio for 166 V",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Department of Industry Science and Resources",
+   "reason": "NIST\\u2019s identification of Department of Industry Science and Resources in this Notice does not constitute a binding commitment",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Precision Buffer Amplifiers",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Department of Industry Science and Resources",
+   "reason": "NIST\\u2019s identification of Department of Industry Science and Resources in this Notice does not constitute a binding commitment",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "One computer controlled switch",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Department of Industry Science and Resources",
+   "reason": "NIST\\u2019s identification of Department of Industry Science and Resources in this Notice does not constitute a binding commitment",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4636,
+  "out": 988
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "BAE Systems",
+   "model": "EPAWSS Group B Kit",
+   "part": "Eagle Passive Active Warning Survivability System (EPAWSS) Group B Kits including Line Replaceable Modules (LRMs), expanded expendables capacity and countermeasures capability",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "BAE Systems Information and Electronic Systems Integration Inc.",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2493,
+  "out": 236
+ },
+ "model": "claude-sonnet-5"
+}

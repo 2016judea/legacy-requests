@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Universal Avionics",
+   "model": "Kapture Golden Chassis",
+   "part": "Golden chassis and download equipment for downloading data from Universal Avionics Kapture flight data recorders (FDR) and cockpit voice recorders (CVR)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "APS Aerospace",
+   "reason": "the only manufacturer and provider of the Universal Avionics Kapture Golden Chassis",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3525,
+  "out": 218
+ },
+ "model": "claude-sonnet-5"
+}

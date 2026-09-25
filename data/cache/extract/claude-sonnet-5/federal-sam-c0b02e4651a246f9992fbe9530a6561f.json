@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Carl Zeiss Microscopy LLC",
+   "model": null,
+   "part": "Piezoelectric z-stage upgrade for optical microscope (Zeiss Axio Observer 7)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Carl Zeiss Microscopy LLC",
+   "reason": "The results of that market research revealed that only Carl Zeiss Microscopy LLC (UEI: H41JAKKNEXY1) appears to be capable of meeting NIST\ncbrace requirements.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Microsystems and Nanotechnology Division (MND)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4415,
+  "out": 907
+ },
+ "model": "claude-sonnet-5"
+}

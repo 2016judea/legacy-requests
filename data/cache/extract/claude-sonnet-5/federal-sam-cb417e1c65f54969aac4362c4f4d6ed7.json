@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "BLS-8",
+   "part": "Combustible Gas System Flow Controller for the 8-ft x 8-ft Blast Load Simulator (BLS-8)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stumptown Research & Development LLC",
+   "reason": "as the sole manufacturer and only responsible source that can provide a 8-ft x 8-ft Blast Load Simulator (BLS-8)",
+   "equipment_class": "other equipment",
+   "installed_location": "Structural Mechanics Branch (SMB), Geotechnical and Structures Laboratory (GSL), ERDC",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3157,
+  "out": 252
+ },
+ "model": "claude-sonnet-5"
+}

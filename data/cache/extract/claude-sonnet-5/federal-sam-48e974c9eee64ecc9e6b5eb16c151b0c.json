@@ -1,0 +1,63 @@
+{
+ "records": [
+  {
+   "manufacturer": "Jetstream / Federal Signal",
+   "model": "Power End, 4200, Gen 2, RH, Y",
+   "part": "High Pressure Pump for rubber removal truck",
+   "part_numbers": [
+    "32384"
+   ],
+   "quantity": "1 EACH",
+   "price_usd": null,
+   "lead_time": "currently unknown and may take several years",
+   "sole_source_vendor": "Jetstream / Hog Technologies (Stripe Hog)",
+   "reason": "The product is proprietary to Jetstream / Federal Signal and protected by US patent 6,126,524 and Hog technologies / Federal Signal US patent 7,798,158 B2.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Tuthill",
+   "model": "6\" Blower",
+   "part": "Blower for rubber removal truck",
+   "part_numbers": [
+    "30720"
+   ],
+   "quantity": "1 EACH",
+   "price_usd": null,
+   "lead_time": "currently unknown and may take several years",
+   "sole_source_vendor": "Jetstream / Hog Technologies (Stripe Hog)",
+   "reason": "The product is proprietary to Jetstream / Federal Signal and protected by US patent 6,126,524 and Hog technologies / Federal Signal US patent 7,798,158 B2.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "14MX-36S-37, 2517",
+   "part": "Sprocket for rubber removal truck",
+   "part_numbers": [
+    "60711"
+   ],
+   "quantity": "1 EACH",
+   "price_usd": null,
+   "lead_time": "currently unknown and may take several years",
+   "sole_source_vendor": "Jetstream / Hog Technologies (Stripe Hog)",
+   "reason": "The product is proprietary to Jetstream / Federal Signal and protected by US patent 6,126,524 and Hog technologies / Federal Signal US patent 7,798,158 B2.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3771,
+  "out": 1039
+ },
+ "model": "claude-sonnet-5"
+}

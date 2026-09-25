@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Marotta Controls Inc",
+   "model": null,
+   "part": "Valve Body, used for pressure reducing valve assembly of pneumatic pressure regulating manifold",
+   "part_numbers": [
+    "178654-0011"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Marotta Controls Inc",
+   "reason": "This requirement is sole sourced to Marotta Controls Inc due to the proper fit and function needed for existing equipment that Marotta Controls holds on production and intellectual property. The part number is the only authorized item on the tech manual and is directly replacing existing Marotta Controls equipment.",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8023,
+  "out": 259
+ },
+ "model": "claude-sonnet-5"
+}

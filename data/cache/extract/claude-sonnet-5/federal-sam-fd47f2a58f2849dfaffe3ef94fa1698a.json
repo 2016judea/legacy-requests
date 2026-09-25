@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "90 degree coil arcs for torque motor actuator (ENTR3)",
+   "part_numbers": [],
+   "quantity": "TWO sets",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Akribis Systems",
+   "reason": "NIST has not yet determined its acquisition strategy for this requirement and encourages interested sources to respond to this Notice.",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "matching permanent magnet rings for torque motor actuator (ENTR3)",
+   "part_numbers": [],
+   "quantity": "ONE set",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Akribis Systems",
+   "reason": "NIST has not yet determined its acquisition strategy for this requirement and encourages interested sources to respond to this Notice.",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4127,
+  "out": 391
+ },
+ "model": "claude-sonnet-5"
+}

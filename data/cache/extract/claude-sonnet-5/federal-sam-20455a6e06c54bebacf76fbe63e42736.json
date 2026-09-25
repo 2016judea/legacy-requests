@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "OPEX",
+   "model": "Falcon+",
+   "part": "Falcon+ hardware component upgrade for OPEX mail scanner equipment to ensure IT compliance and Windows 11 compatibility",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 123650.0,
+   "lead_time": null,
+   "sole_source_vendor": "OPEX CORP",
+   "reason": "OPEX is the sole manufacturer and authorized provider of the specific scanner hardware and software used in the MbM operations.",
+   "equipment_class": "other equipment",
+   "installed_location": "Meds by Mail (MbM) Cheyenne, WY and Murfreesboro, TN",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4582,
+  "out": 708
+ },
+ "model": "claude-sonnet-5"
+}

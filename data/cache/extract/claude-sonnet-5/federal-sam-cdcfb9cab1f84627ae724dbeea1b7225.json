@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axon by Dedrone",
+   "model": "RF-560",
+   "part": "Fixed and mobile sensors for Counter-Unmanned Aircraft Systems (C-UAS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Axon Enterprises Inc.",
+   "reason": "The proposed contract action is for supplies or services for which the Government intends to solicit and negotiate with only one source under the authority of FAR 6.302.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "various airports",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2388,
+  "out": 219
+ },
+ "model": "claude-sonnet-5"
+}

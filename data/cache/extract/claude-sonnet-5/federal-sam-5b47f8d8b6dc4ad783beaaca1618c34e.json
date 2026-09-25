@@ -1,0 +1,33 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Thermometer,Self-In",
+   "part_numbers": [
+    "AWM-2900-00",
+    "5-09193",
+    "6685-002439964"
+   ],
+   "quantity": "Min:1161,Max:4707",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Palmer Instruments Inc.",
+   "reason": "Based upon the technical certification on file, technical data is not available and cannot be developed to permit full and open competition. The data presently available reflects the minimum needs of the Government.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7086,
+  "out": 217
+ },
+ "model": "claude-sonnet-5"
+}

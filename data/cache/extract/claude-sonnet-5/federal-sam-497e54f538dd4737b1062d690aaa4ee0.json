@@ -1,0 +1,33 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "Printed Wiring Board",
+   "part_numbers": [
+    "5998-01-728-8090",
+    "13508610",
+    "D16H0963D1"
+   ],
+   "quantity": "60 each (Estimated Annual Demand)",
+   "price_usd": null,
+   "lead_time": "720 days After Contract Award (ACA) without First Article Testing (FAT) and 1500 days ACA with FAT",
+   "sole_source_vendor": "Lockheed Martin Corporation",
+   "reason": "This requirement is sole sourced to Lockheed Martin Corporation (CAGE 64059) in accordance with FAR 6.302-1(a)(2); \"only one responsible source and no other supplies or services will satisfy agency requirements.\"",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Chambersburg, PA, 17201-4150",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8216,
+  "out": 312
+ },
+ "model": "claude-sonnet-5"
+}

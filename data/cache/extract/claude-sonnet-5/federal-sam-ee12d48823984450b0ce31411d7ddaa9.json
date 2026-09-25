@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+   "model": "MK 44",
+   "part": "30mm MK 44 chain-fed guns in varying configurations with associated spare parts and special tools",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 40000000,
+   "lead_time": "roughly one year",
+   "sole_source_vendor": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+   "reason": "NORTHROP GRUMMAN SYSTEMS CORPORATION is the only known source which has the capability to produce the 30mm guns required.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3554,
+  "out": 639
+ },
+ "model": "claude-sonnet-5"
+}

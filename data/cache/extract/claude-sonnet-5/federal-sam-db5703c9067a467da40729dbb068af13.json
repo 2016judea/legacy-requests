@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Deval Life Cycle Support LLC",
+   "model": "AERO-64",
+   "part": "AERO-64 Soft Belt Adapter",
+   "part_numbers": [
+    "1567575"
+   ],
+   "quantity": "28",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Deval Life Cycle Support LLC",
+   "reason": "DeVal Lifecycle Support is the OEM of the items listed in Paragraph 3 of this document. These items are the only adapters certified and approved for use with the support equipment.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8141,
+  "out": 214
+ },
+ "model": "claude-sonnet-5"
+}

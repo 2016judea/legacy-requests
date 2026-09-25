@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "PhotoBio",
+   "model": "PhotoBio CX 2125",
+   "part": "LED greenhouse light fixtures, brand name to PhotoBio CX 2125, 850W, 100-277 V with 10-foot cords and a 5-15P plug",
+   "part_numbers": [
+    "PTB8850LS41"
+   ],
+   "quantity": "58",
+   "price_usd": null,
+   "lead_time": "2 months after award",
+   "sole_source_vendor": null,
+   "reason": "This requirement is for LED greenhouse light fixtures, brand name to PhotoBio CX 2125, 850W, 100-277 V with 10-foot cords and a 5-15P plug.",
+   "equipment_class": "other equipment",
+   "installed_location": "USDA-ARS ETSARC BRL, 1616 Albrecht Blvd N, Fargo ND 58102",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "PhotoBio",
+   "model": "PhotoBio CX 2125",
+   "part": "Optional quantity - LED greenhouse light fixtures, brand name to PhotoBio CX 2125, 850W, 100-277 V",
+   "part_numbers": [
+    "PTB8850LS41"
+   ],
+   "quantity": "58",
+   "price_usd": null,
+   "lead_time": "Within 180 days of award",
+   "sole_source_vendor": null,
+   "reason": "This requirement is for LED greenhouse light fixtures, brand name to PhotoBio CX 2125, 850W, 100-277 V with 10-foot cords and a 5-15P plug.",
+   "equipment_class": "other equipment",
+   "installed_location": "USDA-ARS ETSARC BRL, 1616 Albrecht Blvd N, Fargo ND 58102",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8458,
+  "out": 1021
+ },
+ "model": "claude-sonnet-5"
+}

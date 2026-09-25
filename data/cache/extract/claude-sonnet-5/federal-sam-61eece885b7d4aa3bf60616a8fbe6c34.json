@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tektronix",
+   "model": "MSO46B",
+   "part": "4 Series Mixed Signal Oscilloscope (MSO)",
+   "part_numbers": [
+    "MSO46B - MSO46B 4-BW-500"
+   ],
+   "quantity": "three (3)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "100% SMALL BUSINESS SET-ASIDE BRAND NAME SOLE SOURCE - Tektronix Mixed Signal Oscilloscopes (MSOs) (model number MSO46B - MSO46B 4-BW-500)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "APG, MD 21005",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4448,
+  "out": 257
+ },
+ "model": "claude-sonnet-5"
+}

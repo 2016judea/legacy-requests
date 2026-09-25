@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "HF11 AF F 15",
+   "part": "Fuel Oil Heat Exchanger Flush Kit",
+   "part_numbers": [
+    "HF11 AF F 15"
+   ],
+   "quantity": "one",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Hot Flush LLC",
+   "reason": "units participating in the fuel-oil heat exchanger cleaning program must use the Fuel Oil Heat Exchanger Flush Kit, Part Number: HF11 AF F 15 and coordinate with the F-15 SPO to ensure the equipment is properly configured prior to use on the F-15 weapon system",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2968,
+  "out": 257
+ },
+ "model": "claude-sonnet-5"
+}

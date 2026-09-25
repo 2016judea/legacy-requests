@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Radiation Solutions Inc",
+   "model": "RSX-1",
+   "part": "RSX-1 Sodium Iodide Radiation Detector, 4\" x 4\" x 16\", for directional radiation source identification",
+   "part_numbers": [],
+   "quantity": "one (1)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Radiation Solutions Inc.",
+   "reason": "The specified 4\" x 4\" x 16\" dimensions and the RSX-1 model are the only specifications that will ensure seamless integration with existing equipment.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Wright-Patterson Air Force Base, Ohio",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4184,
+  "out": 277
+ },
+ "model": "claude-sonnet-5"
+}

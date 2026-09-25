@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Popoto",
+   "model": "Dash Acoustic Modem",
+   "part": "Popoto Dash Acoustic Modem",
+   "part_numbers": [
+    "PMM4511-00"
+   ],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Total Small Business Set Aside for Brand Name: (5) Popoto Dash Acoustic Modem and (1) Marine Acoustic Rapid Innovation Architecture License",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Marine Acoustic Rapid Innovation Architecture (MARIA) License",
+   "part": "Marine Acoustic Rapid Innovation Architecture (MARIA) License",
+   "part_numbers": [
+    "SWL-MARIA-00"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Total Small Business Set Aside for Brand Name: (5) Popoto Dash Acoustic Modem and (1) Marine Acoustic Rapid Innovation Architecture License",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7501,
+  "out": 804
+ },
+ "model": "claude-sonnet-5"
+}

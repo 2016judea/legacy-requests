@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Instron",
+   "model": "68TM-5",
+   "part": "Flexible Film Materials Testing System - Brand Name Instron Model 68TM-5 or Equal, including load frame, load weighing system, transducers, electronics, pneumatic air control kit, test frame control, and data acquisition capabilities",
+   "part_numbers": [],
+   "quantity": "One (1)",
+   "price_usd": null,
+   "lead_time": "60 Days After Award",
+   "sole_source_vendor": null,
+   "reason": "Flexible Film Materials Testing System - Brand Name Instron Model 68TM-5 or Equal",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "PA STORED PRODUCT INSECT AND ENGINE, 1515 COLLEGE AVENUE, MANHATTAN KS 66502",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11927,
+  "out": 897
+ },
+ "model": "claude-sonnet-5"
+}

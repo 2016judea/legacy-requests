@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bruker Biospin",
+   "model": "TE104",
+   "part": "Microwave resonator accessory add-on for existing ESR spectrometer (double rectangular cavity, TE104 mode)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Bruker Scientific",
+   "reason": "The only known company able to provide this needed equipment without sacrificing the integrity of the system or requiring substantial efforts to implement is Bruker Biospin.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Bruker Biospin",
+   "model": "ELEXSYS-II E500",
+   "part": "Existing continuous wave X-band electron spin resonance (ESR) spectrometer",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This cavity must be 100% compatible with the existing instruments software and hardware components.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4326,
+  "out": 393
+ },
+ "model": "claude-sonnet-5"
+}

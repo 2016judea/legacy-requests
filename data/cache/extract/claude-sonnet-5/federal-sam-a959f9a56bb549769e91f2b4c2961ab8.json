@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Research Electronics International",
+   "model": "OSCOR Max",
+   "part": "OSCOR Max Spectrum Receiver (handheld spectrum analyzer)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Research Electronics International, LLC",
+   "reason": "The proposed Contractor developed and owns the propriety and patented hardware, software and algorithms that are used in these products and support the services specifically required for this acquisition; thereby the proposed source has the sole unique technical and other resources required for this acquisition.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5446,
+  "out": 242
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Perkin Elmer",
+   "model": "Avio 3000",
+   "part": "Inductively Coupled Plasma Optical Emission Spectrometer (ICP-OES)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "NETL currently utilizes the Perkin Elmer ICP-OES for conducting ongoing analysis research for the NETL Pittsburgh Analytical Lab.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NETL Pittsburgh Analytical Lab",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3605,
+  "out": 228
+ },
+ "model": "claude-sonnet-5"
+}

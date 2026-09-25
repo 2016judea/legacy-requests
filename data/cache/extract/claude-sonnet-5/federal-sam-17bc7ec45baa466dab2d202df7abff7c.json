@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sierra Olympia",
+   "model": "Viento 10",
+   "part": "Thermal camera system for bat roost monitoring, built around the Sierra Olympia Viento 10 with custom IP67-rated housing and interchangeable lenses",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "InterTest, Inc.",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3729,
+  "out": 211
+ },
+ "model": "claude-sonnet-5"
+}

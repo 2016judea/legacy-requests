@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Marvel Aero International",
+   "model": "ABMS-10X",
+   "part": "Aircraft Battery Management System (ABMS) hardware and software upgrade",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Marvel Aero International Inc.",
+   "reason": "This justification is based on the proprietary software architecture, the requirement to interface with existing branded charging hardware, and the severe safety/warranty risks of utilizing uncertified third-party controllers.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "Edwards AFB, CA",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2976,
+  "out": 236
+ },
+ "model": "claude-sonnet-5"
+}

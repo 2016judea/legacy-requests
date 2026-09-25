@@ -1,0 +1,63 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "Patriot missile spare part (CLIN 1001) removed from solicitation",
+   "part_numbers": [
+    "11450637-19"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "SOLE SOURCE LOCKHEED MARTIN",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "Patriot missile spare part (CLIN 1003) removed from solicitation",
+   "part_numbers": [
+    "13507570"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "SOLE SOURCE LOCKHEED MARTIN",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "DISTRIBUTION BOX",
+   "part_numbers": [
+    "13507110"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "SOLE SOURCE LOCKHEED MARTIN",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6898,
+  "out": 1371
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Laser System 1: assembled Mid-Wave Infrared Distributed Feedback (DFB) laser diode (2700 nm \u00b1 10 nm), TEC mount, NTC thermistor, AR-coated window, lens cap, heatsink, connectors",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Nanoplus America, INC.",
+   "reason": "NIST is conducting market research to identify alternative sources... separate and apart from Nanoplus America, INC. WEKFELYJ6BY7",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NIST Chemical Sciences Division (CSD), Material Measurement Laboratory (MML)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Laser System 2: assembled Mid-Wave Infrared Distributed Feedback (DFB) laser diode (3000 nm \u00b1 10 nm), TEC mount, NTC thermistor, AR-coated window, lens cap, heatsink, connectors",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Nanoplus America, INC.",
+   "reason": "NIST is conducting market research to identify alternative sources... separate and apart from Nanoplus America, INC. WEKFELYJ6BY7",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NIST Chemical Sciences Division (CSD), Material Measurement Laboratory (MML)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4546,
+  "out": 1219
+ },
+ "model": "claude-sonnet-5"
+}

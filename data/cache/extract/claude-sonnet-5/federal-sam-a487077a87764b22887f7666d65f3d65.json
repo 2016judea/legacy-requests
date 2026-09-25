@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Research Electronics International, LLC (REI)",
+   "model": "MESA 2.0 DELUXE",
+   "part": "Purchase of REI MESA 2.0 DELUXE",
+   "part_numbers": [
+    "8-00147"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Research Electronics International, LLC (REI)",
+   "reason": "NIWC Pacific hereby publicizes its intention to solicit, negotiate, and award a commercial, Firm-Fixed-Price purchase order on a noncompetitive basis to Research Electronics International, LLC (REI)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2125,
+  "out": 253
+ },
+ "model": "claude-sonnet-5"
+}

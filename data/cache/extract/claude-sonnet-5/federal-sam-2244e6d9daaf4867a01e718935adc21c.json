@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Microchip Technology Inc.",
+   "model": "ATS-6580A",
+   "part": "Master Timing System - Hardened TFlex, M-Code, GPS antenna included, Rubidium Reference, 2 AC power supplies, no output modules, internal flash",
+   "part_numbers": [
+    "ATS-6580A-A2G5R-M00"
+   ],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MICROCHIP TECHNOLOGY INC.",
+   "reason": "NIWC Pacific intends to award a firm fixed price purchase order on a sole source basis to MICROCHIP TECHNOLOGY INC.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2520,
+  "out": 561
+ },
+ "model": "claude-sonnet-5"
+}

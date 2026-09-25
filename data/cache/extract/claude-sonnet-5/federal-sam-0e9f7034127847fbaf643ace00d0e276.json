@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "STIDD SYSTEMS, INC.",
+   "model": null,
+   "part": "CHAIR, PEDESTAL, SHIPBOARD BRIDGE WING",
+   "part_numbers": [
+    "500N-7QR-CDS-2",
+    "2090016062405"
+   ],
+   "quantity": "263",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "STIDD SYSTEMS, INC.",
+   "reason": "Stidd Systems (0W5E3) is the only approved manufacturing sources by the design control activity.",
+   "equipment_class": "other equipment",
+   "installed_location": "TICONDEROGA CLASS CG (47)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5991,
+  "out": 233
+ },
+ "model": "claude-sonnet-5"
+}

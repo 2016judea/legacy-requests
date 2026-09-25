@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "Digi",
+   "model": "SmartSense",
+   "part": "24 Month NIST Certification Buffer Vial - Standard (Temperature Only) with sensor probe",
+   "part_numbers": [
+    "NIST-TMP5PINDIN-BUFF12"
+   ],
+   "quantity": "591.00 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "to procure Brand Name or Equal Commercial Temperature Sensors equivalent to the Digi SmartSense Sensors",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "VA Palo Alto Health Care System",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Digi",
+   "model": "SmartSense",
+   "part": "24 Month NIST Certification - (Temperature & Humidity) with sensor probe",
+   "part_numbers": [
+    "NIST-TMPH5PINDIN"
+   ],
+   "quantity": "348.00 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "to procure Brand Name or Equal Commercial Temperature Sensors equivalent to the Digi SmartSense Sensors",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "VA Palo Alto Health Care System",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Digi",
+   "model": "SmartSense",
+   "part": "24 Month NIST Certification - Premium (Expanded Range Temperature Only) with sensor probe",
+   "part_numbers": [
+    "NIST-TMPEX5PINDIN6-PREM"
+   ],
+   "quantity": "54.00 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "to procure Brand Name or Equal Commercial Temperature Sensors equivalent to the Digi SmartSense Sensors",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "VA Palo Alto Health Care System",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Digi",
+   "model": "SmartSense",
+   "part": "4G LTE Gateway with support for B & Z Sensors (Verizon) (U.S. ONLY)",
+   "part_numbers": [
+    "TM-GW-BZ-VZW-C"
+   ],
+   "quantity": "6.00 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "to procure Brand Name or Equal Commercial Temperature Sensors equivalent to the Digi SmartSense Sensors",
+   "equipment_class": "communications/radio",
+   "installed_location": "VA Palo Alto Health Care System",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6217,
+  "out": 1606
+ },
+ "model": "claude-sonnet-5"
+}

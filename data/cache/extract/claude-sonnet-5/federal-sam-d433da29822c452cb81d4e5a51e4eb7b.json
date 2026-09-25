@@ -1,0 +1,34 @@
+{
+ "records": [
+  {
+   "manufacturer": "Crown",
+   "model": null,
+   "part": "Bench Stock Items, Potentiometer",
+   "part_numbers": [
+    "CR813533",
+    "CRO77084-301-88",
+    "SLA6200",
+    "M1501208513A"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "TEAMGOV, Inc.",
+   "reason": "Acquiring non-Crown replacement parts could cause compatibility issues and would void the warranty of the original equipment manufacturer.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "DCF and Landover Warehouse facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2785,
+  "out": 447
+ },
+ "model": "claude-sonnet-5"
+}

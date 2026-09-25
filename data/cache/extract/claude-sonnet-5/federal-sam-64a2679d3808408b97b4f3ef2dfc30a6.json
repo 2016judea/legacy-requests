@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Toptica Photonics Inc.",
+   "model": "WS6-200 VIS/IR-I",
+   "part": "High-precision WS6-200 VIS/IR-I wavemeter",
+   "part_numbers": [],
+   "quantity": "One (1)",
+   "price_usd": null,
+   "lead_time": "12-14 weeks after contract award (ACA)",
+   "sole_source_vendor": "TOPTICA Photonics, Inc.",
+   "reason": "The proposed contract action is for supplies or services for which the Government is soliciting and negotiating with only one source under the authority of RFO FAR 12.102(a).",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "US ARMY RESEARCH LABORATORY, 2800 POWDER MILL RD ADELPHI MD 20783-1138",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8185,
+  "out": 417
+ },
+ "model": "claude-sonnet-5"
+}

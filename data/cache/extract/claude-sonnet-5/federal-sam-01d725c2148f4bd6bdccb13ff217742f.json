@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Nidek Global",
+   "model": "Marco EPIC 6100 Refraction System",
+   "part": "Automated Refraction System - EPIC 6100 Refraction Workstation",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Marco Lombart",
+   "reason": "The Nidek Global refraction equipment (branded as Marco Lombart EPIC 6100 Refraction Workstation and TRS-6100) is being requested as a sole source purchase due to its required compatibility and integration with the ophthalmology diagnostic equipment currently in use",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nidek Global",
+   "model": "Marco TRS-6100 Automated Refraction System",
+   "part": "Automated Refraction System - TRS-6100",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Marco Lombart",
+   "reason": "The Nidek Global refraction equipment (branded as Marco Lombart EPIC 6100 Refraction Workstation and TRS-6100) is being requested as a sole source purchase due to its required compatibility and integration with the ophthalmology diagnostic equipment currently in use",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Nidek Global",
+   "model": "RT 6100 M Photosphere, Head and Digital Refraction System",
+   "part": "Digital Refraction System integration component",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Marco Lombart",
+   "reason": "designed to integrate directly with the EPIC 6100 workstation and the RT 6100 M Photosphere, Head and Digital Refraction System",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Marco Lombart",
+   "model": "Marco Lombart autorefractors",
+   "part": "Existing autorefractors requiring integration compatibility",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Marco Lombart",
+   "reason": "The department has recently acquired new Marco Lombart autorefractors, which are designed to integrate directly with the EPIC 6100 workstation",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4426,
+  "out": 874
+ },
+ "model": "claude-sonnet-5"
+}

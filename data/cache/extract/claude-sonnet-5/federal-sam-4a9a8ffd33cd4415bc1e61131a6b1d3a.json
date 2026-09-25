@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Keyence Corporation of America",
+   "model": "3-Axis UV Laser Marking System",
+   "part": "3-Axis UV Laser Marking System for cold marking of specimen surfaces",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Keyence Corporation of America",
+   "reason": "Keyence Corporation of America is the only known manufacturer capable of providing a 355 nm UV marking laser with an integrated 3-axis controller capable of automatic non-planar contour detection and a dynamic focus depth of field of at least +/-20 mm",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Forest Products Laboratory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2454,
+  "out": 391
+ },
+ "model": "claude-sonnet-5"
+}

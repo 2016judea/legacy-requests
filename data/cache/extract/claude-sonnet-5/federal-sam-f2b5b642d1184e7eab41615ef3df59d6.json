@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Thomas Electronics",
+   "model": null,
+   "part": "Cathode Ray Tubes that adhere to the existing F3I parent assembly constraints",
+   "part_numbers": [
+    "08M352P43"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Thomas Electronics, Inc.",
+   "reason": "The original equipment manufacturer, Thomas Electronics, retains full intellectual property (IP) rights for the design and manufacturing of Part Number 08M352P43.",
+   "equipment_class": "other equipment",
+   "installed_location": "Seymour Johnson AFB, NC",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2804,
+  "out": 230
+ },
+ "model": "claude-sonnet-5"
+}

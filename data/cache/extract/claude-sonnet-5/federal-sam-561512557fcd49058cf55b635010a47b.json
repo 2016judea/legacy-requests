@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Toptica Photonics",
+   "model": "CTL 1500",
+   "part": "Tunable laser controller for a Toptica Photonics CTL 1500 laser head",
+   "part_numbers": [],
+   "quantity": "One (1)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Toptica Photonics Inc.",
+   "reason": "only one reasonably found source",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3756,
+  "out": 174
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Katanacraft Extreme RIB",
+   "part": "Full replacement of aging foam filled sponsons on NF-2, including procurement and installation",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Wing Inflatable, Inc",
+   "reason": "NOAA's Marine Operations Center, Acquisition Branch, intends to negotiate, on a sole source basis, under authority of FAR 6.103 other than full and open competition; with Wing Inflatable, Inc",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "NOAA Ship Nancy Foster, 1050 Register St, North Charleston, SC 29405",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Northwind Marine Custom RIB",
+   "part": "Full replacement of aging foam filled sponsons on NF-3, including procurement and installation",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Wing Inflatable, Inc",
+   "reason": "NOAA's Marine Operations Center, Acquisition Branch, intends to negotiate, on a sole source basis, under authority of FAR 6.103 other than full and open competition; with Wing Inflatable, Inc",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "NOAA Ship Nancy Foster, 1050 Register St, North Charleston, SC 29405",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3289,
+  "out": 1278
+ },
+ "model": "claude-sonnet-5"
+}

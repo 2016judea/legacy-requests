@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "SSK Military Industries Inc.",
+   "model": "Cypres",
+   "part": "Cypres Automatic Activation Devices (AADs) for military free fall parachute operations",
+   "part_numbers": [
+    "AAD2C1M1535L"
+   ],
+   "quantity": "27",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SSK Military Industries Inc.",
+   "reason": "The required activation devices are only manufactured/distributed by SSK Military Industries Inc (SSK).",
+   "equipment_class": "other equipment",
+   "installed_location": "336 TRSS, Fairchild AFB, WA",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2717,
+  "out": 222
+ },
+ "model": "claude-sonnet-5"
+}

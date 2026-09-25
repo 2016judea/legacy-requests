@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "ESL Power Systems, Inc",
+   "model": "2217-100X",
+   "part": "12-gang load center",
+   "part_numbers": [
+    "2217-100X"
+   ],
+   "quantity": "1 pkg",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ESL Power Systems, Inc",
+   "reason": "ESL POWER SYSTEMS is the manufacture of the existing equipment that the TRF Bangor currently owns and uses.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "TRF Bangor",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ESL Power Systems, Inc",
+   "model": "2266-67X",
+   "part": "440 distribution boxes (welding unit)",
+   "part_numbers": [
+    "2266-67X"
+   ],
+   "quantity": "4 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ESL Power Systems, Inc",
+   "reason": "ESL POWER SYSTEMS is the manufacture of the existing equipment that the TRF Bangor currently owns and uses.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "TRF Bangor",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2990,
+  "out": 409
+ },
+ "model": "claude-sonnet-5"
+}

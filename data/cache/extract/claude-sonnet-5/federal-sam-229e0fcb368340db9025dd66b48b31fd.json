@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "three (3) 10-W continuous-wave pump lasers at 532nm",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Liquid Instruments",
+   "reason": "only Liquid Instruments (UEI: MS6AHD4EF8D7) appears to be capable of meeting NIST\ffs requirements.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Digital measurement and control system",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Liquid Instruments",
+   "reason": "The new instrument must be plug-compatible with the existing Moku:Lab instruments we use for data acquisition and control.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3950,
+  "out": 882
+ },
+ "model": "claude-sonnet-5"
+}

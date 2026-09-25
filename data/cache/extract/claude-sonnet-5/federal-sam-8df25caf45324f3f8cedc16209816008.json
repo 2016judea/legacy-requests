@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Textron Aviation",
+   "model": "King Air B360 / B300CER / 360CER-67A",
+   "part": "New Beechcraft King Air B360 aircraft (twin turbo-prop, multi-role operational aircraft)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Textron Aviation Inc.",
+   "reason": "Textron Aviation Inc. is the original and exclusive manufacturer of the King Air model B300 (marketed as the model 360) aircraft.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6276,
+  "out": 238
+ },
+ "model": "claude-sonnet-5"
+}

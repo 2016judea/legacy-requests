@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Schmidt Technology",
+   "model": null,
+   "part": "Direct Acting Press",
+   "part_numbers": [
+    "23.200-2.600"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Schmidt Technology",
+   "reason": "This is being solicited on a sole source/brand name only basis because BRAND NAME ONLY.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Schmidt Technology",
+   "model": null,
+   "part": "Direct Acting Press",
+   "part_numbers": [
+    "20.100"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Schmidt Technology",
+   "reason": "This is being solicited on a sole source/brand name only basis because BRAND NAME ONLY.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4623,
+  "out": 323
+ },
+ "model": "claude-sonnet-5"
+}

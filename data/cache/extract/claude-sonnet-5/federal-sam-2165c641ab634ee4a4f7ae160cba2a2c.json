@@ -1,0 +1,863 @@
+{
+ "records": [
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "RING,ACTUATING,VANE",
+   "part_numbers": [
+    "6039T22G01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "TIE ROD, COMPRESSOR",
+   "part_numbers": [
+    "5043T04P02"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "ACT RING VANE, STG 2",
+   "part_numbers": [
+    "5044T16G01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "ACTUATING RING, STAGE 1 IGV",
+   "part_numbers": [
+    "5044T14G01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "RING, NOZZLE-STG1",
+   "part_numbers": [
+    "4045T66P01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "SWIRL FRAME, PARTICLE SEPARATOR",
+   "part_numbers": [
+    "6053T29G01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "FRONT FRAME",
+   "part_numbers": [
+    "6039T65G03"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "ROTOR, COMPRESSOR, GA",
+   "part_numbers": [
+    "6032T27P08"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "BLADE-DISK, COMP ROTOR-STG 3&4",
+   "part_numbers": [
+    "6038T08P04"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "BLADE & DISK, COMPRESSOR ROTOR STG 1",
+   "part_numbers": [
+    "6043T56G02"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "DISK, COMPRESSOR",
+   "part_numbers": [
+    "6038T09P04"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "SHROUD, IMPELLER",
+   "part_numbers": [
+    "6055T40P01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "MODULE, ACCESSORY",
+   "part_numbers": [
+    "6071T27G01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-701C",
+   "part": "MODULE COLD SECTION T700-GE-701C",
+   "part_numbers": [
+    "6071T25G01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "GEARBOX, ACCESSORY",
+   "part_numbers": [
+    "6039T19G07"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "HOUSING, C SUMP",
+   "part_numbers": [
+    "6055T21G01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "ROTOR, COMPRESSOR-CENTRIFUGAL, 30 DEG",
+   "part_numbers": [
+    "6055T59P03"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "SEAL,COMPRESS,ROT",
+   "part_numbers": [
+    "6061T53P01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "MIDFRAME",
+   "part_numbers": [
+    "6055T46G08"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "SEAL, AIR, STATIONARY-COMPRESSOR DISCHARGE",
+   "part_numbers": [
+    "6071T19G02"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "PLATE COOLING, TURBINE",
+   "part_numbers": [
+    "6064T09P01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "DISC, TURBINE, AIRCRA",
+   "part_numbers": [
+    "6068T61G04"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "CASE",
+   "part_numbers": [
+    "6055T36G07"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "CASE, DIFFUSER",
+   "part_numbers": [
+    "6071T54G02"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "SPACER, A8IRCRAFT COM",
+   "part_numbers": [
+    "5066T79P01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "CASE,GAS TURBINE EN",
+   "part_numbers": [
+    "6071T76G03"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "NOZZLE DUCT & AIR SEAL-STAGE 3",
+   "part_numbers": [
+    "6058T13G11"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "SHAFT, REAR-COMPRESSOR ROTOR",
+   "part_numbers": [
+    "6080T48P01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "NOZZLE, TURBINE, AIRC",
+   "part_numbers": [
+    "6038T37G07"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "SHAFT, TURBINE GAS GENERATOR",
+   "part_numbers": [
+    "6068T44P02"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "SHAFT ASSY, POWER TURBINE",
+   "part_numbers": [
+    "5125T92G01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "FRAME, EXHAUST",
+   "part_numbers": [
+    "6064T89G05"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "FRAME ASSY, PARTICLE",
+   "part_numbers": [
+    "6039T00G05"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "LINER,COMBUSTION CH",
+   "part_numbers": [
+    "6080T13G08"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "PLATE,COOLING,TURBI",
+   "part_numbers": [
+    "6064T07P06"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "NOZZLE,TURBINE,AIRC",
+   "part_numbers": [
+    "5066T16G25"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "PLATE,COOLING,TURBI",
+   "part_numbers": [
+    "4106T80P01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "SUPPORT,TURBINE SHROUD, STAGE 1 & 2",
+   "part_numbers": [
+    "6068T35G15"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "ROTOR,TURBINE,AIRCR",
+   "part_numbers": [
+    "3048T90G01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "DISK, TURBINE, AIRCRAFT",
+   "part_numbers": [
+    "6038T34P06"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "DISK, TURBINE, AIRCRA",
+   "part_numbers": [
+    "6038T32P02"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "PLATE,COOLING,TURBINE ENGINE",
+   "part_numbers": [
+    "6064T08P03"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "SUPPORT,TURBINE COM",
+   "part_numbers": [
+    "6053T43G06"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "NOZZLE,TURBINE,AIRC",
+   "part_numbers": [
+    "6071T04G32"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "SHAFT,TURBINE,AIRCRAFT",
+   "part_numbers": [
+    "3065T21G04"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "HOUSING,ANTIFRICTION",
+   "part_numbers": [
+    "5083T03G02"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "SHAFT, OUTPUT",
+   "part_numbers": [
+    "5083T56P01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "SEAL,PLAIN",
+   "part_numbers": [
+    "6068T40G03"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "TRANSFER TUBE - COMPRESSOR",
+   "part_numbers": [
+    "4045T09P02"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "HOUSING, GEARBOX, TUR",
+   "part_numbers": [
+    "6038T69G02"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "HOUSING, GEARBOX, TUR",
+   "part_numbers": [
+    "6038T83G02"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "MODULE ASSEMNLY, POWER TURBINE",
+   "part_numbers": [
+    "6071T26G05"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "General Electric Company",
+   "model": "T700-GE-70",
+   "part": "BLISK, COMPRESSOR ROTOR- STAGE 1",
+   "part_numbers": [
+    "5127T42G01"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the materials for a competitive solicitation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5844,
+  "out": 11350
+ },
+ "model": "claude-sonnet-5"
+}

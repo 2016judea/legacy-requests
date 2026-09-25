@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Air Techniques",
+   "model": null,
+   "part": "Dental Vacuum Compressor / Amalgam Separator system with multiple vacuums",
+   "part_numbers": [],
+   "quantity": "1 system (multiple vacuums)",
+   "price_usd": null,
+   "lead_time": "90 days ARO",
+   "sole_source_vendor": "Patterson Dental",
+   "reason": "There are no longer repair parts available for this system.",
+   "equipment_class": "other equipment",
+   "installed_location": "James H. Quillen VAMC, 1 Veterans Way, Mountain Home TN",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6044,
+  "out": 207
+ },
+ "model": "claude-sonnet-5"
+}

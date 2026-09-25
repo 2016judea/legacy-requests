@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Antenna Products Corporation",
+   "model": null,
+   "part": "Antenna Matching Unit",
+   "part_numbers": [
+    "1000-1128-401"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": "Within 180 Days After Receipt of Order (ARO)",
+   "sole_source_vendor": "Antenna Products Corporation",
+   "reason": "Brand-specific Antenna Matching Units (Mfgr Part #: 1000-1128-401, NSN: 5895-01-261-5521) are the only product capable of fulfilling the Government\u2019s need. These specific units are the only units compatible with the existing infrastructure that supports Coast Guard Remote Communications Facilities.",
+   "equipment_class": "communications/radio",
+   "installed_location": "Coast Guard Remote Communications Facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3931,
+  "out": 289
+ },
+ "model": "claude-sonnet-5"
+}

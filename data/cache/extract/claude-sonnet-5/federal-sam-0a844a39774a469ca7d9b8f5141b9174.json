@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Avidity Science",
+   "model": "Edstrom Model BFS-675",
+   "part": "Bottle Filling Station to replace the current Avidity Edstrom Model BFS-675 Bottle Filling Station",
+   "part_numbers": [
+    "BFS-675"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Avidity Science",
+   "reason": "intends to negotiate on a sole source basis for Avidity Science Bottle Filling Station to replace the current Avidity Edstrom Model BFS-675 Bottle Filling Station for Research Services at the Michael E. DeBakey VA Medical Center that is twenty years old and reached the end of its life expectancy",
+   "equipment_class": "other equipment",
+   "installed_location": "Michael E. DeBakey VA Medical Center",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3483,
+  "out": 294
+ },
+ "model": "claude-sonnet-5"
+}

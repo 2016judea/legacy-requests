@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rational",
+   "model": "ICP 6-FULL + 6 FULL E 208V/240V 3 PH C",
+   "part": "Ovens with specialized electrical installation for inpatient feeding operations",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "90 Days ARO",
+   "sole_source_vendor": "Blue Mountain Mechanical, LLC",
+   "reason": "Blue Mountain Mechanical, LLC is the sole source capable of meeting the Government's minimum requirements to provide the requested ovens and certified installation services at Madigan Army Medical Center (MAMC), WA.",
+   "equipment_class": "other equipment",
+   "installed_location": "MADIGAN ARMY MEDICAL CENTER, Joint Base Lewis/McChord, Tacoma, WA",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3926,
+  "out": 296
+ },
+ "model": "claude-sonnet-5"
+}

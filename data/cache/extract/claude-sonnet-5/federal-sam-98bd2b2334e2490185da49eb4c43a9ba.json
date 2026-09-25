@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Aimpoint Inc",
+   "model": "FCS13 RE Fire Control System",
+   "part": "Wired 1-Button Remotes for the FCS13 RE Fire Control System",
+   "part_numbers": [
+    "200587"
+   ],
+   "quantity": "125",
+   "price_usd": null,
+   "lead_time": "12 Weeks",
+   "sole_source_vendor": "Aimpoint Inc",
+   "reason": "Aimpoint Inc of Manassas Virginia, Cage Code 3J629, is the Original Equipment Manufacturer of the FCS-13 RE Fire Control System and ancillary items that are used on or with the FCS-13 RE.",
+   "equipment_class": "other equipment",
+   "installed_location": "NSWC Crane",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8415,
+  "out": 257
+ },
+ "model": "claude-sonnet-5"
+}

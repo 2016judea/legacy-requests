@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "CX4708A/A1C",
+   "part": "Flight Helmet Communications Drop Cord with Dual Microphone switch",
+   "part_numbers": [
+    "CX4708A/A1C",
+    "5995-00-296-8037"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "FlightHelmet.com",
+   "reason": "due to only one source being capable of providing Flight Helmet Communications Drop Cord (NSN: 5995-00-296-8037 PN: CX4708A/A1C)",
+   "equipment_class": "other equipment",
+   "installed_location": "Altus, OK 73523",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2529,
+  "out": 233
+ },
+ "model": "claude-sonnet-5"
+}

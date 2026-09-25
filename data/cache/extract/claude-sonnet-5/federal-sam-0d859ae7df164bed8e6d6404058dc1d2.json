@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Daikin",
+   "model": "REYQ-120AATJB",
+   "part": "Variable Refrigerant Volume Outdoor Units (replacement condensing unit)",
+   "part_numbers": [
+    "REYQ-120AATJB"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Any other models or assumed equivalents may not be proven to be suitable and cause an undo length outage.",
+   "equipment_class": "HVAC",
+   "installed_location": "Tomah VA Medical Center, Facility Services, Building 409, 500 E. Veterans Street, Tomah WI",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5755,
+  "out": 231
+ },
+ "model": "claude-sonnet-5"
+}

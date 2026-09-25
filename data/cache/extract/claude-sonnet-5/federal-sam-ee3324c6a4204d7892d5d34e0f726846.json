@@ -1,0 +1,63 @@
+{
+ "records": [
+  {
+   "manufacturer": "United Electronic Industries",
+   "model": "DNR SoloX / i.MX6 CPU Module",
+   "part": "CAMS Processor Unit (UEI-CAMS Power PC Processor) to retrofit existing UEI CAMS unit",
+   "part_numbers": [
+    "DNR-CPU-3000-13-00-00-40-PA"
+   ],
+   "quantity": "1 EACH",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "United Electronic Industries",
+   "reason": "United Electronic Industries (UEI) is the original equipment manufacturer and the only source for these CAMS Units.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "United Electronic Industries",
+   "model": "Secure Linux Toolkit for ARM-SOLOX CP",
+   "part": "Software subscription for CAMS processor operation and security (unreleased/BETA product)",
+   "part_numbers": [
+    "PAC LINUX TK-SX-SECURE"
+   ],
+   "quantity": "1 EACH",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "United Electronic Industries",
+   "reason": "United Electronic Industries (UEI) is the only company with in-house resident knowledge that has the in-house resident knowledge and rights to provide the UEI-CAMs processor as well as the required software subscriptions for proper operation and security of the CAMS unit.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "United Electronic Industries",
+   "model": "UEI Security Automation Tool Level 1",
+   "part": "Annual subscription license for security automation of CAMS unit (unreleased/BETA product)",
+   "part_numbers": [
+    "UEI-SAT-LVL-1"
+   ],
+   "quantity": "1 EACH",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "United Electronic Industries",
+   "reason": "United Electronic Industries (UEI) is the only company with in-house resident knowledge that has the in-house resident knowledge and rights to provide the UEI-CAMs processor as well as the required software subscriptions for proper operation and security of the CAMS unit.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11083,
+  "out": 782
+ },
+ "model": "claude-sonnet-5"
+}

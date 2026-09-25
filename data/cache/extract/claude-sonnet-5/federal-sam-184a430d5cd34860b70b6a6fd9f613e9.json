@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "PrimeNano Inc.",
+   "model": "ScanWave Pro",
+   "part": "Electronic controller for sMIM module on Vero AFM, including reflectometer, calibration sample, software, documentation, installation, and training",
+   "part_numbers": [],
+   "quantity": "one (1)",
+   "price_usd": null,
+   "lead_time": "60 calendar days after award (delivery); installation/integration and training within 10 calendar days after delivery",
+   "sole_source_vendor": "PrimeNano Inc.",
+   "reason": "PrimeNano Inc. has confirmed that it is the sole manufacturer and supplier of the ScanWave Pro electronic controller and that there are no authorized resellers for this product.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NIST Material Measurement Laboratory (MML)",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3851,
+  "out": 292
+ },
+ "model": "claude-sonnet-5"
+}

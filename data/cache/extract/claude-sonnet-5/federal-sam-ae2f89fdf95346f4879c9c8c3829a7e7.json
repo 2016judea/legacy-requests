@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sierra Peaks",
+   "model": "Filter Insertion System (FIS)",
+   "part": "Alignment Tool",
+   "part_numbers": [],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sierra Peaks",
+   "reason": "Sierra Peaks is the current manufacturer of FIS components; these components are called out in the Technical Orders, Technical Instructions and drawings identifying Sierra Peaks as the manufacturer of choice.",
+   "equipment_class": "other equipment",
+   "installed_location": "WC-135R aircraft",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sierra Peaks",
+   "model": "Filter Insertion System (FIS)",
+   "part": "Drawings (updated and complete drawings from red-line to production)",
+   "part_numbers": [],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sierra Peaks",
+   "reason": "There is no single document that comprehensively details each component of the Filter Insertion System (FIS) or the core elements of the AARE system.",
+   "equipment_class": "other equipment",
+   "installed_location": "WC-135R aircraft",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Sierra Peaks",
+   "model": "Filter Insertion System (FIS)",
+   "part": "Production FIS & Base Assemblies",
+   "part_numbers": [],
+   "quantity": "4 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sierra Peaks",
+   "reason": "Sierra Peaks is the only company with the program history, experience and capabilities that can provide the combined engineering and manufacturing services that are required to meet the US Air Force's objectives for maintenance, support and sustainment of the WC-135 nuclear debris collection system.",
+   "equipment_class": "other equipment",
+   "installed_location": "WC-135R aircraft",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4852,
+  "out": 650
+ },
+ "model": "claude-sonnet-5"
+}

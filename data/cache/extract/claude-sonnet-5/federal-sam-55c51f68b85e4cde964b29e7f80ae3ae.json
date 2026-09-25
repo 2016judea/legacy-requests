@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Raymond",
+   "model": "970-CSR30T 208/420",
+   "part": "USCG 9700 Swing Reach Forklift to include swing reach truck, swing reach mast/body assembly, battery w/ installation, and battery charger",
+   "part_numbers": [
+    "970-CSR30T 208/420"
+   ],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Werres Corporation",
+   "reason": "The specific model Raymond swing reach is the only forklift designed to operate in the SFLC warehouse and the forklift guidance technology used is owned Soley by Werres Corporation.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "U.S. Coast Guard Surface Forces Logistics Center, 2401 Hawkins Point Road, Baltimore, MD, 21226",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6035,
+  "out": 303
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "General Dynamics Mission System",
+   "model": "URC-300",
+   "part": "Brand Name Sole Source procurement of URC-300",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 166197.0,
+   "lead_time": null,
+   "sole_source_vendor": "CARROLL WOODS INC",
+   "reason": "Brand Name Sole Source General Dynamics Mission System URC-300",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1963,
+  "out": 379
+ },
+ "model": "claude-sonnet-5"
+}

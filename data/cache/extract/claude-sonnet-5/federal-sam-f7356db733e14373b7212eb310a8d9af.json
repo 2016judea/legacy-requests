@@ -1,0 +1,91 @@
+{
+ "records": [
+  {
+   "manufacturer": "Medikors",
+   "model": "InAlyzer2 Type M",
+   "part": "InAlyzer2 DEXA Instrument",
+   "part_numbers": [
+    "INZ2-Type M"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The InAlyzer2 DEXA instrument\u2019s performance, reliability, and suitability for pre-clinical research environments have been well established.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Central Arkansas Veterans Healthcare System, 2200 Fort Roots Drive, Bldg 182, North Little Rock, AR 72114-1707",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "EPS-3",
+   "part": "SOMNI EPS-3 Exposure Prevention System (Anesthesia Scavenger)",
+   "part_numbers": [
+    "WG-15001"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "provided by Original Equipment Manufacturer (OEM) certified vendors",
+   "equipment_class": "other equipment",
+   "installed_location": "Central Arkansas Veterans Healthcare System, 2200 Fort Roots Drive, Bldg 182, North Little Rock, AR 72114-1707",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Equaflow DEXA 6 Mouse Manifold",
+   "part": "Equaflow DEXA 6 Mouse Manifold",
+   "part_numbers": [
+    "EM-16242"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "provided by Original Equipment Manufacturer (OEM) certified vendors",
+   "equipment_class": "other equipment",
+   "installed_location": "Central Arkansas Veterans Healthcare System, 2200 Fort Roots Drive, Bldg 182, North Little Rock, AR 72114-1707",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lenovo",
+   "model": null,
+   "part": "Computer (PC) included with InAlyzer2 DEXA system, 4 GB RAM, 1 TB Hard Drive, Intel Processor, 24\u201d Ultra-sharp monitor",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Lenovo PC (Laptop configuration available if specified)",
+   "equipment_class": "other equipment",
+   "installed_location": "Central Arkansas Veterans Healthcare System, 2200 Fort Roots Drive, Bldg 182, North Little Rock, AR 72114-1707",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lunar",
+   "model": "PIXImus",
+   "part": "X-ray densitometer system being replaced",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Currently, the Central Arkansas Veterans Healthcare System (CAVHS) is required to replace its nonfunctioning and obsolete Lunar PIXImus X-ray densitometer system.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Central Arkansas Veterans Healthcare System, 2200 Fort Roots Drive, Bldg 182, North Little Rock, AR 72114-1707",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7132,
+  "out": 2633
+ },
+ "model": "claude-sonnet-5"
+}

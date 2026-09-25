@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Thermo Eberline",
+   "model": "TLD-400",
+   "part": "Thermoluminescent Dosimetry chip - TLD-400 CaF2 Mn Chip 1/8\" x 1/8\" x 0.035\" (3.2 mm x 3.2 mm x 0.89 mm)",
+   "part_numbers": [
+    "SNO48835"
+   ],
+   "quantity": "5,000 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Thermo Eberline, LLC",
+   "reason": "This is being sole sourced due to form fit function proprietary information.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NSWC Crane, 300 Highway 361, Crane, IN 47522-5001",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8556,
+  "out": 271
+ },
+ "model": "claude-sonnet-5"
+}

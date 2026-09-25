@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Stirling Ultracold",
+   "model": "VAULT100",
+   "part": "Ultra-low temperature freezer for preservation of temperature-sensitive biological materials and research samples",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Government Scientific Source Inc.",
+   "reason": "Brand Name Requirement: The Government requires the Stirling Ultracold VAULT100 freezer, available through Government Scientific Source, Inc. (GSS), to meet the laboratory\ns operational, storage, and performance requirements",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2865,
+  "out": 241
+ },
+ "model": "claude-sonnet-5"
+}

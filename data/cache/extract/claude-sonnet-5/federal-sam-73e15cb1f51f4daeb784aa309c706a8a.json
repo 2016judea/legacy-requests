@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Parker",
+   "model": "SE60",
+   "part": "Brand Name Only Parker SE60 Servo Valves",
+   "part_numbers": [
+    "SE60SAAHANA25"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The required valves operate in parallel within the facility's existing control infrastructure. Procuring the identical brand-name model is technically essential to maintain immediate interchangeability and operational usability.",
+   "equipment_class": "valve",
+   "installed_location": "Silver Spring, Maryland",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9730,
+  "out": 209
+ },
+ "model": "claude-sonnet-5"
+}

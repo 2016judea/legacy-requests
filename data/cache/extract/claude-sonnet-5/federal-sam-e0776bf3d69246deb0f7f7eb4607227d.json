@@ -1,0 +1,111 @@
+{
+ "records": [
+  {
+   "manufacturer": "SWAGELOK",
+   "model": null,
+   "part": "SWAGELOK BODY-QUICK CONNECT 0.5 CV 3/8 IN.",
+   "part_numbers": [
+    "SS-QC6-B-600"
+   ],
+   "quantity": "15",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Total Small Business Set Aside for Brand Name of Various Dive Equipment",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SWAGELOK",
+   "model": null,
+   "part": "SWAGELOK STEM, QUICK CONNECT. 1/2, DOUBLE SHUT-OFF",
+   "part_numbers": [
+    "SS-QC8-D-810"
+   ],
+   "quantity": "8",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Total Small Business Set Aside for Brand Name of Various Dive Equipment",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "SWAGELOK",
+   "model": null,
+   "part": "SWAGELOK SS Plug 3/8\"",
+   "part_numbers": [
+    "SS-600-P"
+   ],
+   "quantity": "15",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Total Small Business Set Aside for Brand Name of Various Dive Equipment",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "INTERSPIRO",
+   "model": null,
+   "part": "INTERSPIRO MASK",
+   "part_numbers": [
+    "96319-10"
+   ],
+   "quantity": "20",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Total Small Business Set Aside for Brand Name of Various Dive Equipment",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ROCK-N-SPORTS",
+   "model": null,
+   "part": "ROCK-N-SPORTS HOSE REGULATOR",
+   "part_numbers": [
+    "LPR-30"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Total Small Business Set Aside for Brand Name of Various Dive Equipment",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "OCEAN TECHNOLOGY SYSTEMS",
+   "model": null,
+   "part": "OCEAN TECHNOLOGY SYSTEMS HOSE, SWIVEL",
+   "part_numbers": [
+    "SR-109AGA"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Total Small Business Set Aside for Brand Name of Various Dive Equipment",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7573,
+  "out": 1668
+ },
+ "model": "claude-sonnet-5"
+}

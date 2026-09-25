@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Instron",
+   "model": "34TM-50",
+   "part": "Universal Test Machine for non-metallic material testing and analytical testing",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Instron",
+   "reason": "is uniquely designed for non-metallic material testing and analytical testing with specific features, fixtures and material grips that are paired with the company\u2019s Bluehill Universal Testing Software not offered by similar products from other competitors.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Wildland Fire Chemical Systems Lab",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2619,
+  "out": 229
+ },
+ "model": "claude-sonnet-5"
+}

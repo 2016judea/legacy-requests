@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Guy Insulator",
+   "part_numbers": [
+    "A-ST0123"
+   ],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Austin Insulators, Inc.",
+   "reason": "The Government determined that no other sources of the required supplies exist.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Safety Core Insulator",
+   "part_numbers": [
+    "A-ST8027"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Austin Insulators, Inc.",
+   "reason": "The Government determined that no other sources of the required supplies exist.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2266,
+  "out": 466
+ },
+ "model": "claude-sonnet-5"
+}

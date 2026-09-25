@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "TANK, LUBRICATING",
+   "part_numbers": [
+    "7101M43G05"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "S53 Redaction Sole Source Acquisition.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1993,
+  "out": 143
+ },
+ "model": "claude-sonnet-5"
+}

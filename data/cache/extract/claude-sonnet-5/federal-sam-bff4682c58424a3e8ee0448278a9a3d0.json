@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Opsytec Dr. Gr\u00f6bel GmbH",
+   "model": "BSL-01i ECO+",
+   "part": "laboratory-grade UV-LED Irradiation Chamber with integrated UV-MAT touch irradiation controller, RMD sensor calibrated to 405 nm, PC operating software, and internal sample heating/cooling plate",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Opsytec Dr. Gr\u00f6bel GmbH",
+   "reason": "A comprehensive review of peer-reviewed scientific literature and direct inquiries across established commercial channels (including Fisher Scientific, GSA Advantage!, and alternative equipment developers) confirmed that zero domestic or international alternatives can fulfill these combined parameters.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "USDA ARS Eastern Regional Research Center, 600 E Mermaid Ln, Wyndmoor, PA 19038",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4171,
+  "out": 366
+ },
+ "model": "claude-sonnet-5"
+}

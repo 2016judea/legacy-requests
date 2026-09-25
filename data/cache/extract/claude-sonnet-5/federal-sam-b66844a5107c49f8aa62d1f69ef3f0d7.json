@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Meridian BioScience",
+   "model": "Breath ID",
+   "part": "Replacement Meridian Breath ID unit to replace an existing, malfunctioning unit, plus 4-year extended warranty",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": 21300.0,
+   "lead_time": null,
+   "sole_source_vendor": "Meridian BioScience",
+   "reason": "The Government understands that Merdian BioScience is the owner and developer of the required product currently being utilized by NHGRI per compatibility requirements.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3674,
+  "out": 221
+ },
+ "model": "claude-sonnet-5"
+}

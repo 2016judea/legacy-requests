@@ -77,6 +77,16 @@ static page anyone can search.
   and merges only `part_numbers` (verbatim-checked against the text layer) into the
   cached response; then `extract.py --cached-only`.
 
+- **Federal (platform `federal-sam`).** `scripts/ingest_sam.py` lists a year of SAM.gov notices that are
+  a J&A, or say sole source / single source / brand name in the title: active ones off the keyed
+  Opportunities API (`SAM_API_KEY` in the main checkout's `.env.local`; ~1 call per 1,000 notices),
+  archived ones off SAM.gov's keyless bulk CSV (search drops a notice once it is archived). Descriptions
+  and attachments come from sam.gov's keyless public endpoints, so the key's quota is spent only on the
+  listing. PSC screen to equipment (goods groups 10-99 minus consumables, plus J repair codes), ranked so
+  notices printing a part number reach the model first. 2026-09-25: 14,263 notices, 6,074 equipment,
+  700 extracted ($21.18) -> 1,530 records. Resume more with `scripts/extract.py federal-sam --limit N`,
+  then ALWAYS `scripts/extract.py --cached-only` (a single-slug run rewrites the store with that slug only).
+
 ## Record fields
 
 agency, state, date, manufacturer, model, part_numbers (every catalog/part number printed, verbatim; absent on 336 older rows the 2026-09-25 re-read could not pair, and on older service contracts), part, quantity, price_usd,
@@ -88,7 +98,7 @@ same purchase reported to a committee and then to the board) are collapsed.
 
 ## Not in v1
 
-SAM.gov, state portals beyond FL and MS, eBay (no API key), OEM catalogs, and
+State portals beyond FL and MS, eBay (no API key), OEM catalogs, and
 monitoring/alerts.
 
 ## Licence
@@ -96,8 +106,3 @@ monitoring/alerts.
 Code: MIT. The records are derived from public agency documents; each row
 links to its source.
 
-## SAM ingest: resume here
-
-- Done (2026-09-25): `scripts/ingest_sam.py` listed 14,263 federal sole-source/brand-name/J&A notices for 09/26/2025-09/25/2026 (1,609 active via the keyed search API in 4 calls + 12,654 archived via the keyless bulk CSV), screened 6,074 to equipment by PSC, wrote the top 1,500 to `data/matters/federal-sam.json`; 336 extracted ($10.68) = 1,045 raw rows, 656 with part_numbers. Not yet merged into records.jsonl, site or deploy.
-- Left: extract the rest of the qualifying notices (952 of the 1,500 qualify; ~$14 budget left of $25), then `extract.py --cached-only` (all slugs, so the 5,312 other rows stay), `make site`, `make check`, commit by path, push main, `make deploy` from the main checkout. The keyless caches (data/cache/sam/, 2.2GB bulk) are local to this worktree; a fresh checkout re-downloads them.
-- Resume: `caffeinate -dims .venv/bin/python scripts/extract.py federal-sam --limit 700 > extract_sam.log 2>&1 &` then `.venv/bin/python scripts/extract.py --cached-only`. Rate limit seen: none. 4 keyed calls, HTTP 200, no rate headers; descriptions and attachments come from sam.gov's keyless public endpoints, so the key's quota is spent only on the listing.

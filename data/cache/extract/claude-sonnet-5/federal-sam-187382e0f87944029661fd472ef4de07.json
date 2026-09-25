@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pro Tech",
+   "model": "FT14F",
+   "part": "14 Foot Snow Pusher Fork Tube Attachment, Brand Name or Equal",
+   "part_numbers": [
+    "FT14F"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Must be compatible with Caterpillar Forklifts, Model numbers 03E00340 - Caterpillar/IT28G and 04E00340 - Caterpillar/10 KAT.",
+   "equipment_class": "other equipment",
+   "installed_location": "368TRS at Sheppard AFB, TX",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10625,
+  "out": 233
+ },
+ "model": "claude-sonnet-5"
+}

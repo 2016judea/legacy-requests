@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": "Carl Zeiss Microscopy, LLC",
+   "model": null,
+   "part": "Inverted microscope body with motorized focus drive, nose piece, filter turret, condenser, and X-Y scanning stage",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Carl Zeiss Microscopy, LLC",
+   "reason": "compatible with other existing Zeiss microscopes in the lab",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Carl Zeiss Microscopy, LLC",
+   "model": null,
+   "part": "Microscope Objectives optimized for visible light illumination (2x/2.5x, 5x, 10x, 20x)",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Carl Zeiss Microscopy, LLC",
+   "reason": "compatible with other existing Zeiss microscopes in the lab",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Carl Zeiss Microscopy, LLC",
+   "model": null,
+   "part": "CMOS Camera, >15 Megapixel, C-mount, USB3/PCIe interface, integrated with microscope software",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Carl Zeiss Microscopy, LLC",
+   "reason": "compatible with other existing Zeiss microscopes in the lab",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Carl Zeiss Microscopy, LLC",
+   "model": null,
+   "part": "Multi-channel LED illumination source and filter sets for brightfield and widefield fluorescence imaging (385-735 nm)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Carl Zeiss Microscopy, LLC",
+   "reason": "compatible with other existing Zeiss microscopes in the lab",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Carl Zeiss Microscopy, LLC",
+   "model": null,
+   "part": "Software with graphical user interface to operate microscope, imaging modalities, cameras, and accessories; compatible with Zeiss software",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Carl Zeiss Microscopy, LLC",
+   "reason": "Compatibility of data processing software with Zeiss software microscopes.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Carl Zeiss Microscopy, LLC",
+   "model": null,
+   "part": "Heating/Temperature Control Unit to support mammalian cell cultures at 37\\u00b0C for days and weeks",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Carl Zeiss Microscopy, LLC",
+   "reason": "compatible with other existing Zeiss microscopes in the lab",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Carl Zeiss Microscopy, LLC",
+   "model": null,
+   "part": "CO2 Control Unit to maintain carbon dioxide conditions used in mammalian cell cultures",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Carl Zeiss Microscopy, LLC",
+   "reason": "compatible with other existing Zeiss microscopes in the lab",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Workstation class personal computer with Intel Xeon processor, 32GB RAM, dedicated graphics card, 30\\u201d monitor, 2TB SSD, and control cards to operate microscope hardware",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Carl Zeiss Microscopy, LLC",
+   "reason": "compatible with other existing Zeiss microscopes in the lab",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Carl Zeiss Microscopy, LLC",
+   "model": null,
+   "part": "Interchangeability of parts and software with existing Zeiss microscopes in the lab (hardware/software compatibility)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Carl Zeiss Microscopy, LLC",
+   "reason": "We require that the system described above (automated inverted microscope system) be compatible with other existing Zeiss microscopes in the lab",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6766,
+  "out": 3662
+ },
+ "model": "claude-sonnet-5"
+}

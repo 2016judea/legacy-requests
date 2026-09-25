@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Maury Microwave",
+   "model": "MPA-1G-18G-20",
+   "part": "AMPLIFIER, 1-18GHZ, 20W, PRECISION TYPE N",
+   "part_numbers": [
+    "MPA-1G-18G-20"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "16 weeks after award or sooner",
+   "sole_source_vendor": null,
+   "reason": "These parts are proprietary to Maury Microwave and they are the only parts that have been tested and proved to be Fleet ready.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Newport, RI",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4641,
+  "out": 227
+ },
+ "model": "claude-sonnet-5"
+}

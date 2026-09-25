@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Carestream",
+   "model": "Industrex HPX-1+",
+   "part": "Industrex HPX-1+ digital x-ray scanning systems",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "Delivery is required by January 2027.",
+   "sole_source_vendor": "Carestream Health, Inc",
+   "reason": "Only One Responsible Source and No Other Supplies or Services Will Satisfy Agency Requirements",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "U.S. Army Research Laboratory, Building 321, 6375 Johnson Road, Aberdeen Proving Ground, MD 21005",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Carestream",
+   "model": "Industrex flex HR AP",
+   "part": "Industrex flex HR AP digital imaging plates",
+   "part_numbers": [],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": "Delivery is required by January 2027.",
+   "sole_source_vendor": "Carestream Health, Inc",
+   "reason": "Only One Responsible Source and No Other Supplies or Services Will Satisfy Agency Requirements",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "U.S. Army Research Laboratory, Building 321, 6375 Johnson Road, Aberdeen Proving Ground, MD 21005",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11574,
+  "out": 480
+ },
+ "model": "claude-sonnet-5"
+}

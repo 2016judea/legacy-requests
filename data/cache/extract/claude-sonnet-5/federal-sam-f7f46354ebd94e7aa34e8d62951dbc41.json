@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bio-Rad",
+   "model": "ChemiDoc MP Imaging System",
+   "part": "Bio-Rad ChemiDoc\u2122 MP Imaging System to function with existing Bio-Rad Mini-Protean and Criterion electrophoresis system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Bio-Rad Laboratories, Inc.",
+   "reason": "The Government understands that Bio-Rad Laboratories, Inc. is the owner and developer of the required piece of equipment currently being utilized by NCI per compatibility requirements.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2942,
+  "out": 259
+ },
+ "model": "claude-sonnet-5"
+}

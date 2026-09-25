@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "IPG Photonics Corporation",
+   "model": "YLS-50000",
+   "part": "50kW, CW 1um water-cooled laser system, 150 um fiber core, 25m delivery fiber length, HLC-16 connector; 3-year warranty",
+   "part_numbers": [
+    "YLS-50000"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "16 weeks",
+   "sole_source_vendor": "IPG Photonics Corporation",
+   "reason": "market research has determined that IPG is the only manufacturer capable of meeting the Government's highly specific and critical technical requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "Naval Research Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IPG Photonics Corporation",
+   "model": "CDK4SW20XXH2XAXU",
+   "part": "D85/F200 HLC-16 high power collimator",
+   "part_numbers": [
+    "CDK4SW20XXH2XAXU"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "16 weeks",
+   "sole_source_vendor": "IPG Photonics Corporation",
+   "reason": "market research has determined that IPG is the only manufacturer capable of meeting the Government's highly specific and critical technical requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "Naval Research Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IPG Photonics Corporation",
+   "model": "YLR-8000-SM",
+   "part": "8kW Single-mode CW fiber laser, 3m cable length, HLC-16 connector; 1-year warranty",
+   "part_numbers": [
+    "YLR-8000-SM"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "16 weeks",
+   "sole_source_vendor": "IPG Photonics Corporation",
+   "reason": "market research has determined that IPG is the only manufacturer capable of meeting the Government's highly specific and critical technical requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "Naval Research Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "IPG Photonics Corporation",
+   "model": "CDK5MS20XXH2XAXU",
+   "part": "D60/F200 HLC-16 high power collimator",
+   "part_numbers": [
+    "CDK5MS20XXH2XAXU"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "16 weeks",
+   "sole_source_vendor": "IPG Photonics Corporation",
+   "reason": "market research has determined that IPG is the only manufacturer capable of meeting the Government's highly specific and critical technical requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "Naval Research Laboratory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4460,
+  "out": 1238
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Honeywell",
+   "model": null,
+   "part": "HMU CONTINUITY TEST",
+   "part_numbers": [
+    "LTCT29013-02"
+   ],
+   "quantity": "6 EACH",
+   "price_usd": 133954.56,
+   "lead_time": null,
+   "sole_source_vendor": "Honeywell",
+   "reason": "THIS CONTRACT IS ISSUED WITH FIRM FIXED PRICES RESULTING FROM HONEYWELL QUOTE 99625 REFERENCING CASE 3147110",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2264,
+  "out": 217
+ },
+ "model": "claude-sonnet-5"
+}

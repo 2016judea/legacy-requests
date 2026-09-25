@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "HTLv-23",
+   "part": "Position, Navigation, and Timing (PNT) and reference module, including GNSS capability, 100 MHz references utilizing a low-noise chip-scale atomic clock, compatible with HTLv-23 3U VPX dual transceiver module",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Herrick Technology Laboratories, Inc. (HTL)",
+   "reason": "The Government has determined that no available alternatives exist that meet all minimum salient characteristics.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2406,
+  "out": 247
+ },
+ "model": "claude-sonnet-5"
+}

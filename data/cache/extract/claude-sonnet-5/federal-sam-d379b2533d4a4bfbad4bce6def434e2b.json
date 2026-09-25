@@ -1,0 +1,99 @@
+{
+ "records": [
+  {
+   "manufacturer": "Dematic",
+   "model": "iQ Optimize",
+   "part": "Integrate Dematic iQ Optimize with the new Parcel Robotic System at the tote fill operation of the unloading conveyor in receiving",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Advantaged Solutions, Inc.",
+   "reason": "ASI is currently responsible for developing and deploying the new WES (DiQ Optimize) solution to the EDC and is the sole source for adjustments to that solution until it is turned over to the Government.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "DLA Distribution EDC, New Cumberland, PA",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Modify the Host Interface Specification (HIS) for the WES to interface with the WMS in support of the EDC modernization; incorporate HIS changes into the WES software build",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Advantaged Solutions, Inc.",
+   "reason": "ASI is currently developing the WES solution for the EDC and coordination for integration with the WMS has already been established.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "DLA Distribution EDC, New Cumberland, PA",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Parcel Robotic System",
+   "part": "Integrating the parcel robotic system / robotic arm with equipment already installed by ASI",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Advantaged Solutions, Inc.",
+   "reason": "The robotic arm is being incorporated with equipment already installed by ASI and requires direct interface between the hardware and software.",
+   "equipment_class": "other equipment",
+   "installed_location": "DLA Distribution EDC, New Cumberland, PA",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "AGV pathway and drop station configuration within the ATLS / ALOC pallet build area",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Advantaged Solutions, Inc.",
+   "reason": "ASI simplifies the AGV pathway and drop station configuration within the ATLS / ALOC pallet build area. Reduces the AGV and pathway requirements while providing additional warehouse floor space for manual forklift operations associated with ALOC pallet build processes.",
+   "equipment_class": "other equipment",
+   "installed_location": "DLA Distribution EDC, New Cumberland, PA",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dematic",
+   "model": "Dematic IQ",
+   "part": "The current Dematic IQ system that controls all equipment within the EDC",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Advantaged Solutions, Inc.",
+   "reason": "The current Dematic IQ system that controls all equipment within the EDC is owned and proprietary to Dematic. A third party would not be able to integrate processes into the existing framework, which ultimately would require re-work, additional funding, and would not align to the overall schedule and critical path.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "DLA Distribution EDC, New Cumberland, PA",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Complete CLINs associated with Automated Material Handling Equipment (AMHE) installation and CLINs associated with system and software integration with Government WMS software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Advantaged Solutions, Inc.",
+   "reason": "Reduced operational risk at go-live to have a single integrated system of equipment and software.",
+   "equipment_class": "other equipment",
+   "installed_location": "DLA Distribution EDC, New Cumberland, PA",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10445,
+  "out": 2621
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "L3Harris",
+   "model": "PRC-163",
+   "part": "PRC-163 Radios and related installation equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "L3Harris",
+   "reason": "the 914th Niagara Falls Air Reserve Station Contracting Office intends to make a single source award to L3Harris for PRC-163 Radios and related installation equipment",
+   "equipment_class": "communications/radio",
+   "installed_location": "Niagara Falls Air Reserve Station",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2030,
+  "out": 206
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Monaco Enterprises, Inc.",
+   "model": "D-21",
+   "part": "Replacement CPU equipment with new Windows 11-compatible Monaco CPUs for existing D-21 Emergency Mass Notification and Fire Alarm Reporting System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Monaco Enterprises, Inc.",
+   "reason": "This procurement will be for a proprietary hardware and software technology upgrade to the existing Monaco D-21 Emergency Mass Notification and Fire Alarm Reporting System at Seymour Johnson AFB.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Seymour Johnson AFB, NC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Monaco Enterprises, Inc.",
+   "model": "D-21 Alarm Reporting Software",
+   "part": "Upgrade of proprietary D-21 Alarm Reporting Software to Version 2",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Monaco Enterprises, Inc.",
+   "reason": "upgrading the proprietary D-21 Alarm Reporting Software to Version 2, and providing manufacturer-certified installation, configuration, and operator training.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Seymour Johnson AFB, NC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Monaco Enterprises, Inc.",
+   "model": null,
+   "part": "Manufacturer-certified installation, configuration, and operator training",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Monaco Enterprises, Inc.",
+   "reason": "providing manufacturer-certified installation, configuration, and operator training.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Seymour Johnson AFB, NC",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2747,
+  "out": 702
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Wing Inflatables",
+   "model": null,
+   "part": "Inflatable Boat",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Wing Inflatables, INC.",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Great Plains Fish and Wildlife Conservation Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Yamaha",
+   "model": "432-cc 25-hp outboard motor",
+   "part": "Outboard Motor",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Wing Inflatables, INC.",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "motor/drive",
+   "installed_location": "Great Plains Fish and Wildlife Conservation Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Single axel galvanized boat trailer",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Wing Inflatables, INC.",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Great Plains Fish and Wildlife Conservation Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Launch wheel assembly option",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Wing Inflatables, INC.",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "Great Plains Fish and Wildlife Conservation Office",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "9 gallon fuel bag option",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Wing Inflatables, INC.",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "Great Plains Fish and Wildlife Conservation Office",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4038,
+  "out": 1783
+ },
+ "model": "claude-sonnet-5"
+}

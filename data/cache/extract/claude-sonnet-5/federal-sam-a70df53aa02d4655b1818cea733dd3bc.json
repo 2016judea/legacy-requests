@@ -1,0 +1,181 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "2217-100X",
+   "part": "12-gang load center",
+   "part_numbers": [
+    "2217 -100X E12 -R32/60/100-480-35SNQP/35 SNQP/35GEH4P-SP/SW-221"
+   ],
+   "quantity": "20",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "12-GANG LOAD CENTER (SOLE SOURCE)",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hubbell",
+   "model": "1810-41",
+   "part": "Plug, Hubbell, 3P, 4W, 100A, 480VAC",
+   "part_numbers": [
+    "1810-41",
+    "HBL4100P7W"
+   ],
+   "quantity": "40",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "12-GANG LOAD CENTER (SOLE SOURCE)",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "1800-03P1A",
+   "part": "Plug, 32/480, male plug, 32A, 480V CEE-1",
+   "part_numbers": [
+    "1800-03P1A",
+    "E333MP1A"
+   ],
+   "quantity": "120",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "12-GANG LOAD CENTER (SOLE SOURCE)",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hubbell",
+   "model": "1807-01GN-HBL",
+   "part": "Plug, Female, 1P, 400A, 600V Taper Nose Plug (Green)",
+   "part_numbers": [
+    "1807-01GN-HBL",
+    "HBL400FGN"
+   ],
+   "quantity": "20",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "12-GANG LOAD CENTER (SOLE SOURCE)",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hubbell",
+   "model": "1807-01R-HBL",
+   "part": "Plug, Female, 1P, 400A, 600V Taper Nose Plug (Red)",
+   "part_numbers": [
+    "1807-01R-HBL",
+    "HBL400FR"
+   ],
+   "quantity": "20",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "12-GANG LOAD CENTER (SOLE SOURCE)",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hubbell",
+   "model": "1807-01BK-HBL",
+   "part": "Plug, Female, 1P, 400A, 600V Taper Nose Plug (Black)",
+   "part_numbers": [
+    "1807-01BK-HBL",
+    "HBL400FBK"
+   ],
+   "quantity": "20",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "12-GANG LOAD CENTER (SOLE SOURCE)",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Hubbell",
+   "model": "1807-01W-HBL",
+   "part": "Plug, Female, 1P, 400A, 600V Taper Nose Plug (White)",
+   "part_numbers": [
+    "1807-01W-HBL",
+    "HBL400FW"
+   ],
+   "quantity": "20",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "12-GANG LOAD CENTER (SOLE SOURCE)",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "1800-05P",
+   "part": "Plug, 60/480, male plug, 60A, 480V, Watertight & UL Listed",
+   "part_numbers": [
+    "1800-05P",
+    "E634MP4"
+   ],
+   "quantity": "80",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "12-GANG LOAD CENTER (SOLE SOURCE)",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "440 distribution box (welding units)",
+   "part_numbers": [],
+   "quantity": "12 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "12-GANG LOAD CENTER (SOLE SOURCE)",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "2266-67X",
+   "part": "Welding unit",
+   "part_numbers": [
+    "2266-67X",
+    "E6-R32-480-30-35SNQP-SP-226667X"
+   ],
+   "quantity": "12",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "12-GANG LOAD CENTER (SOLE SOURCE)",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2714,
+  "out": 3725
+ },
+ "model": "claude-sonnet-5"
+}

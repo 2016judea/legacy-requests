@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Soldier Monitoring System (SMS)",
+   "part": "Life cycle management and sustainment of the SMS, including Continuous Technology Refresh, upgrades, and disposal",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Black Ohm",
+   "reason": "under the authority of RFO FAR 6.103-1, Only One Responsible Source and No Other Supplies or Services Will Satisfy Agency Requirements",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Multiple locations including Fort Benning, GA; West Point, NY; Fort Rucker, AL; Fort Sill, OK; Yuma Proving Ground, AZ; Fort Campbell, KY; Fort Bragg/Camp Mackall, NC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Monitoring Station (MS)",
+   "part": "Graphical tracking, device status/alerts, and After-Action Review (AAR) playback station; normally consists of a laptop and a network connection",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Black Ohm",
+   "reason": "under the authority of RFO FAR 6.103-1, Only One Responsible Source and No Other Supplies or Services Will Satisfy Agency Requirements",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Multiple locations including Fort Benning, GA; West Point, NY; Fort Rucker, AL; Fort Sill, OK; Yuma Proving Ground, AZ; Fort Campbell, KY; Fort Bragg/Camp Mackall, NC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Mobile Monitoring Device (MMD)",
+   "part": "Portable dismounted devices to monitor and locate Soldiers in the field; MMD normally consists of a tablet and a network connection",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Black Ohm",
+   "reason": "under the authority of RFO FAR 6.103-1, Only One Responsible Source and No Other Supplies or Services Will Satisfy Agency Requirements",
+   "equipment_class": "other equipment",
+   "installed_location": "Multiple locations including Fort Benning, GA; West Point, NY; Fort Rucker, AL; Fort Sill, OK; Yuma Proving Ground, AZ; Fort Campbell, KY; Fort Bragg/Camp Mackall, NC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Soldier Worn Device (SWD)",
+   "part": "Small, rugged, waterproof GPS-enabled radios utilizing an LTE network with Soldier-initiated SOS capability",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Black Ohm",
+   "reason": "under the authority of RFO FAR 6.103-1, Only One Responsible Source and No Other Supplies or Services Will Satisfy Agency Requirements",
+   "equipment_class": "communications/radio",
+   "installed_location": "Multiple locations including Fort Benning, GA; West Point, NY; Fort Rucker, AL; Fort Sill, OK; Yuma Proving Ground, AZ; Fort Campbell, KY; Fort Bragg/Camp Mackall, NC",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Communication Network and SaaS",
+   "part": "SMS network connecting devices via commercial cellular and LoRa to an AWS-hosted SaaS platform",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Black Ohm",
+   "reason": "under the authority of RFO FAR 6.103-1, Only One Responsible Source and No Other Supplies or Services Will Satisfy Agency Requirements",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Multiple locations including Fort Benning, GA; West Point, NY; Fort Rucker, AL; Fort Sill, OK; Yuma Proving Ground, AZ; Fort Campbell, KY; Fort Bragg/Camp Mackall, NC",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7309,
+  "out": 2551
+ },
+ "model": "claude-sonnet-5"
+}

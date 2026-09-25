@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Chemring Sensors and Electronic Systems, Inc.",
+   "model": "JBTDS",
+   "part": "Full Rate Production of the Joint Biological Tactical Detection System (JBTDS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 48811629.0,
+   "lead_time": "36-month ordering period",
+   "sole_source_vendor": "CHEMRING SENSORS AND ELECTRONIC SYSTEMS, INC.",
+   "reason": "CSES is the only source capable of executing all components of the contract.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2735,
+  "out": 347
+ },
+ "model": "claude-sonnet-5"
+}

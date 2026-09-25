@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "The Timken Corporation",
+   "model": null,
+   "part": "CUP, TAPERED ROLLER BEARING",
+   "part_numbers": [
+    "3110-01-398-0705"
+   ],
+   "quantity": "EAD/MAX 1681",
+   "price_usd": null,
+   "lead_time": "175 days ARO",
+   "sole_source_vendor": "The Timken Corporation",
+   "reason": "CONTROLLED BY: FED Only",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8186,
+  "out": 177
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": "Gamry Instruments, Inc.",
+   "model": null,
+   "part": "Research-Grade Potentiostat/Galvanostat/ZRA Channel",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gamry Instruments, Inc.",
+   "reason": "the Government intends to issue a Sole Source Award to Gamry Instruments, Inc., 734 Louis Dr, Warminster, PA 18974, US, under the authority of Revolutionary FAR Overhaul (RFO) FAR 12.102(a)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Materials Measurement Laboratory, Materials Science and Engineering Division (MSED), Polymers Processing Group",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gamry Instruments, Inc.",
+   "model": null,
+   "part": "High-Current Application Electrochemical Channel",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gamry Instruments, Inc.",
+   "reason": "the Government intends to issue a Sole Source Award to Gamry Instruments, Inc., 734 Louis Dr, Warminster, PA 18974, US, under the authority of Revolutionary FAR Overhaul (RFO) FAR 12.102(a)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Materials Measurement Laboratory, Materials Science and Engineering Division (MSED), Polymers Processing Group",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gamry Instruments, Inc.",
+   "model": "Interface Power Hub (120V)",
+   "part": "Interface Power Hub (120V) - centralized desktop multi-unit docking station and power management infrastructure hub",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gamry Instruments, Inc.",
+   "reason": "the Government intends to issue a Sole Source Award to Gamry Instruments, Inc., 734 Louis Dr, Warminster, PA 18974, US, under the authority of Revolutionary FAR Overhaul (RFO) FAR 12.102(a)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Materials Measurement Laboratory, Materials Science and Engineering Division (MSED), Polymers Processing Group",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gamry Instruments, Inc.",
+   "model": "RxE 10k",
+   "part": "RxE 10k Rotating Electrode - complete laboratory rotator system providing hydrodynamic boundary layer management",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gamry Instruments, Inc.",
+   "reason": "the Government intends to issue a Sole Source Award to Gamry Instruments, Inc., 734 Louis Dr, Warminster, PA 18974, US, under the authority of Revolutionary FAR Overhaul (RFO) FAR 12.102(a)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Materials Measurement Laboratory, Materials Science and Engineering Division (MSED), Polymers Processing Group",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gamry Instruments, Inc.",
+   "model": null,
+   "part": "RDE/RCE Shaft - specialized, dual-purpose drive shaft assembly compatible with the Line Item 0004 rotator",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gamry Instruments, Inc.",
+   "reason": "the Government intends to issue a Sole Source Award to Gamry Instruments, Inc., 734 Louis Dr, Warminster, PA 18974, US, under the authority of Revolutionary FAR Overhaul (RFO) FAR 12.102(a)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Materials Measurement Laboratory, Materials Science and Engineering Division (MSED), Polymers Processing Group",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gamry Instruments, Inc.",
+   "model": null,
+   "part": "Rotating Disk Electrode (RDE) - Glassy Carbon (GC)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gamry Instruments, Inc.",
+   "reason": "the Government intends to issue a Sole Source Award to Gamry Instruments, Inc., 734 Louis Dr, Warminster, PA 18974, US, under the authority of Revolutionary FAR Overhaul (RFO) FAR 12.102(a)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Materials Measurement Laboratory, Materials Science and Engineering Division (MSED), Polymers Processing Group",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gamry Instruments, Inc.",
+   "model": null,
+   "part": "Cell Kit for Rotating Electrode Experiments (Standard)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gamry Instruments, Inc.",
+   "reason": "the Government intends to issue a Sole Source Award to Gamry Instruments, Inc., 734 Louis Dr, Warminster, PA 18974, US, under the authority of Revolutionary FAR Overhaul (RFO) FAR 12.102(a)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Materials Measurement Laboratory, Materials Science and Engineering Division (MSED), Polymers Processing Group",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Gamry Instruments, Inc.",
+   "model": null,
+   "part": "Silver/Silver Chloride Reference Electrode",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gamry Instruments, Inc.",
+   "reason": "the Government intends to issue a Sole Source Award to Gamry Instruments, Inc., 734 Louis Dr, Warminster, PA 18974, US, under the authority of Revolutionary FAR Overhaul (RFO) FAR 12.102(a)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Materials Measurement Laboratory, Materials Science and Engineering Division (MSED), Polymers Processing Group",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4883,
+  "out": 3568
+ },
+ "model": "claude-sonnet-5"
+}

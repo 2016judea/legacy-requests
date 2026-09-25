@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "TLD",
+   "model": "ACU-808",
+   "part": "Replacement refrigeration compressors for TLD ACU-808 aircraft air conditioning unit",
+   "part_numbers": [
+    "1034192"
+   ],
+   "quantity": "two",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kampi Components Co.",
+   "reason": "This is a notice of intent to award a sole source contract under the authority of RFO 6.103-1, in conjunction with RFO Part 12.",
+   "equipment_class": "HVAC",
+   "installed_location": "Ellsworth AFB, SD",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2146,
+  "out": 214
+ },
+ "model": "claude-sonnet-5"
+}

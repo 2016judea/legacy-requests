@@ -1,0 +1,155 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bard",
+   "model": "WA602-C15V",
+   "part": "Existing 4-ton wall-mounted HVAC unit to be decommissioned and replaced",
+   "part_numbers": [
+    "WA602-C15V"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "seven outdated 4-ton Bard units.",
+   "equipment_class": "HVAC",
+   "installed_location": "Electrical Panel Room / Switchgear",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Bard",
+   "model": "WA602-C15V",
+   "part": "Existing 4-ton wall-mounted HVAC unit to be decommissioned and replaced",
+   "part_numbers": [
+    "WA602-C15V"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "seven outdated 4-ton Bard units.",
+   "equipment_class": "HVAC",
+   "installed_location": "Electrical Panel Room / Switchgear",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Bard",
+   "model": "W48A2-C09XPXXXJ",
+   "part": "Existing 4-ton wall-mounted HVAC unit to be decommissioned and replaced",
+   "part_numbers": [
+    "W48A2-C09XPXXXJ"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "seven outdated 4-ton Bard units.",
+   "equipment_class": "HVAC",
+   "installed_location": "Chiller Plant Room",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Bard",
+   "model": "W48A2-C09XPXXXJ",
+   "part": "Existing 4-ton wall-mounted HVAC unit to be decommissioned and replaced",
+   "part_numbers": [
+    "W48A2-C09XPXXXJ"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "seven outdated 4-ton Bard units.",
+   "equipment_class": "HVAC",
+   "installed_location": "Chiller Plant Room",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Bard",
+   "model": "PA13482-C",
+   "part": "Existing 4-ton wall-mounted HVAC unit to be decommissioned and replaced",
+   "part_numbers": [
+    "PA13482-C"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "seven outdated 4-ton Bard units.",
+   "equipment_class": "HVAC",
+   "installed_location": "Chiller Control Room",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Bard",
+   "model": "WA372-C15B",
+   "part": "Existing 4-ton wall-mounted HVAC unit to be decommissioned and replaced",
+   "part_numbers": [
+    "WA372-C15B"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "seven outdated 4-ton Bard units.",
+   "equipment_class": "HVAC",
+   "installed_location": "Critical Support Area",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Bard",
+   "model": "WA701-C15B",
+   "part": "Existing 4-ton wall-mounted HVAC unit to be decommissioned and replaced",
+   "part_numbers": [
+    "WA701-C15B"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "seven outdated 4-ton Bard units.",
+   "equipment_class": "HVAC",
+   "installed_location": "Auxiliary Infrastructure Room",
+   "is_obsolete": true
+  },
+  {
+   "manufacturer": "Bard",
+   "model": null,
+   "part": "Bard 4-Ton Wall-Mounted HVAC Units, brand name only, to replace existing units at Electrical Panel & Switchgear Rooms and Chiller Plant & Control Locations",
+   "part_numbers": [],
+   "quantity": "7",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "4-Ton Bard HVAC Units - Brand Name Only",
+   "equipment_class": "HVAC",
+   "installed_location": "JBSA Fort Sam Houston, TX (B1472)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Decommissioning, Removal, Disposal and Installation of 4-Ton Bard HVAC Units IAW Draft SOW",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Decommissioning, Removal, Disposal and Installation IAW Draft SOW",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "JBSA Fort Sam Houston, TX (B1472)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8030,
+  "out": 2693
+ },
+ "model": "claude-sonnet-5"
+}

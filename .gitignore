@@ -17,4 +17,5 @@ data/cache/primegov/
 data/ingest_*.log
 data/cache/boarddocs/
 .env.local
-data/cache/sam/bulk/
+data/cache/sam/
+data/cache/pdf/sam-*.json

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Monaco Enterprises, Inc.",
+   "model": "Monaco Fire Alarm Reporting System (D-21)",
+   "part": "Technology refresh to Windows 11 for existing Monaco Fire Alarm Reporting System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Monaco Enterprises, Inc.(MEI)",
+   "reason": "These systems are comprised of proprietary software developed and exclusively owned by MEI, and MEI does not authorize third parties to alter or add to its software or equipment.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Little Rock AFB, AR 72099",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2755,
+  "out": 260
+ },
+ "model": "claude-sonnet-5"
+}

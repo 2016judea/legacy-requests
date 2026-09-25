@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Milestone Inc.",
+   "model": "Ethos UP",
+   "part": "Microwave Digestive System (laboratory microwave digestion system)",
+   "part_numbers": [],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": "60 days after award",
+   "sole_source_vendor": "Milestone Inc.",
+   "reason": "The Ethos UP is the only microwave digestion system that meets every one of the USDA-ARS Salinity Laboratory\u2019s technical, operational, and safety requirements in a single integrated platform",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "450 W Big Springs Road, Riverside, CA 92507",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Milestone",
+   "model": "MAXI-44",
+   "part": "Rotor for microwave digestion system, holds 44 x 100 mL vessels",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Milestone Inc.",
+   "reason": "Only the Milestone MAXI-44 rotor canhandle 44-100 mL vessels positioned in a single rotor.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "450 W Big Springs Road, Riverside, CA 92507",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Milestone",
+   "model": null,
+   "part": "High purity digestion vessels, 100 mL, for microwave digestion rotor",
+   "part_numbers": [],
+   "quantity": "44",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Milestone Inc.",
+   "reason": "Include forty-four 100 mL high purity digestion vessels",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "450 W Big Springs Road, Riverside, CA 92507",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Milestone",
+   "model": "Ethos EZ",
+   "part": "Existing microwave digestion system offered as trade-in",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the Ethos EZ is an aging system with essential parts becoming obsolete and serviceability diminishing",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "450 W Big Springs Road, Riverside, CA 92507",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6424,
+  "out": 1701
+ },
+ "model": "claude-sonnet-5"
+}

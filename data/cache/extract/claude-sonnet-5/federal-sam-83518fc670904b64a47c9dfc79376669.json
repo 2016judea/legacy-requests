@@ -1,0 +1,114 @@
+{
+ "records": [
+  {
+   "manufacturer": "GEMS Sensors",
+   "model": null,
+   "part": "Cable Assm",
+   "part_numbers": [
+    "162200-004-002-007-HP"
+   ],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This requirement is brand name mandatory to GEMS Sensors due to requiring specific characteristics and being direct replacement parts for existing GEMS Sensors parts.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Portsmouth Naval Shipyard, Kittery, Maine",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEMS Sensors",
+   "model": null,
+   "part": "Cable Assm",
+   "part_numbers": [
+    "162200-002-002-020-HP"
+   ],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This requirement is brand name mandatory to GEMS Sensors due to requiring specific characteristics and being direct replacement parts for existing GEMS Sensors parts.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Portsmouth Naval Shipyard, Kittery, Maine",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEMS Sensors",
+   "model": "45485-3-HP",
+   "part": "Cable Assm, Thermoplastic",
+   "part_numbers": [
+    "45485-3-HP",
+    "165942"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This requirement is brand name mandatory to GEMS Sensors due to requiring specific characteristics and being direct replacement parts for existing GEMS Sensors parts.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Portsmouth Naval Shipyard, Kittery, Maine",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEMS Sensors",
+   "model": null,
+   "part": "Cable Assm",
+   "part_numbers": [
+    "162200-2-2-6-HP"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This requirement is brand name mandatory to GEMS Sensors due to requiring specific characteristics and being direct replacement parts for existing GEMS Sensors parts.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Portsmouth Naval Shipyard, Kittery, Maine",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEMS Sensors",
+   "model": null,
+   "part": "Cable Assm",
+   "part_numbers": [
+    "37890/A-F4-J, B-T7-J/C-T2-J",
+    "01-208-1694"
+   ],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This requirement is brand name mandatory to GEMS Sensors due to requiring specific characteristics and being direct replacement parts for existing GEMS Sensors parts.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Portsmouth Naval Shipyard, Kittery, Maine",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEMS Sensors",
+   "model": "162200-002-002-007-HP",
+   "part": "Cable Assm",
+   "part_numbers": [
+    "162200-002-002-007-HP",
+    "09335"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This requirement is brand name mandatory to GEMS Sensors due to requiring specific characteristics and being direct replacement parts for existing GEMS Sensors parts.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Portsmouth Naval Shipyard, Kittery, Maine",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10839,
+  "out": 2111
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ornitela",
+   "model": "OrniTrack-6 and OrniTrack-10 or approved equal",
+   "part": "GPS/GSM transmitters for small raptors",
+   "part_numbers": [
+    "OrniTrack-6",
+    "OrniTrack-10"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vertebrate Systems LLC",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4030,
+  "out": 210
+ },
+ "model": "claude-sonnet-5"
+}

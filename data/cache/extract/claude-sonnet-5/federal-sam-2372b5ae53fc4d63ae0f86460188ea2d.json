@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Tobii Technology, Inc.",
+   "model": null,
+   "part": "Sole source equipment/parts per notice attachment (PSC 6540 - Ophthalmic/Optical instruments)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Tobii Technology, Inc.",
+   "reason": "Notice of Intent to Award Sole Source to Tobii Technology, Inc.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 1985,
+  "out": 202
+ },
+ "model": "claude-sonnet-5"
+}

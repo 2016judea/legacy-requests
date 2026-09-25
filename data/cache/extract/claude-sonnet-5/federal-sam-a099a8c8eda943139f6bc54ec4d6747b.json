@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": "AN/AAQ-30",
+   "part": "Engineering Support and Sustainment Supplies/Services for the AN/AAQ-30 series of Target Sight Systems (TSS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 85000000,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin Corporation",
+   "reason": "As the sole designer, developer and manufacturer of the TSS, Lockheed Martin is the only source that currently possesses sufficient requisite knowledge, engineering expertise, aircraft integration information, and technical data required to perform these efforts.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3189,
+  "out": 267
+ },
+ "model": "claude-sonnet-5"
+}

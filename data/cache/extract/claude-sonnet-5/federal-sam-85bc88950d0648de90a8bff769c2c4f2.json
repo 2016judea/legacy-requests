@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Innovasea",
+   "model": "NexTrak R1",
+   "part": "Acoustic telemetry receivers",
+   "part_numbers": [],
+   "quantity": "43",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Innovasea Marine Systems Canada Inc.",
+   "reason": "Innovasea Marine Systems Canada Inc. is, to the knowledge of the USGS, the only source who can provide this proprietary equipment that is compatible with existing systems.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Innovasea",
+   "model": "V16-4x 64 kHz",
+   "part": "Compatible acoustic transmitters",
+   "part_numbers": [],
+   "quantity": "150",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Innovasea Marine Systems Canada Inc.",
+   "reason": "Innovasea Marine Systems Canada Inc. is, to the knowledge of the USGS, the only source who can provide this proprietary equipment that is compatible with existing systems.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3244,
+  "out": 413
+ },
+ "model": "claude-sonnet-5"
+}

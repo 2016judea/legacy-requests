@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Virtual Marine",
+   "model": "Small Boat Trainer (SBT) Desktop Simulator",
+   "part": "Custom-built small boat desktop simulators replicating CG 26' RB-S II, 47' MLB, and 29' RB-S II handling characteristics",
+   "part_numbers": [],
+   "quantity": "35",
+   "price_usd": null,
+   "lead_time": "20 units within 19 weeks, and 15 units within an additional 19 weeks",
+   "sole_source_vendor": "Virtual Marine",
+   "reason": "Virtual Marine is the only manufacturer capable of providing simulators built to Coast Guard specifications, with proprietary Mission Quest software and custom hardware matching current SBTs.",
+   "equipment_class": "other equipment",
+   "installed_location": "USCG TRACEN Yorktown",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2965,
+  "out": 571
+ },
+ "model": "claude-sonnet-5"
+}

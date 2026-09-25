@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "L3Harris Technologies, Inc.",
+   "model": "AN/ALQ-172(V)2",
+   "part": "Redesigned LRU-4 Countermeasures Transmitter (MARS) Line Replaceable Unit for B-52H ECM system",
+   "part_numbers": [
+    "5865-01-533-9874",
+    "5865NCC664879"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "L3Harris Technologies, Inc.",
+   "reason": "L3Harris Technologies Inc. is the only vendor that possesses the knowledge and expertise of the redesigned AN/ALQ-172 Countermeasures System.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6394,
+  "out": 265
+ },
+ "model": "claude-sonnet-5"
+}

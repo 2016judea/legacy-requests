@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Charles River Laboratories",
+   "model": "Endotoxin Detection System (PTS)",
+   "part": "Disposable cartridges unique to the Portable Testing System (PTS) for bacterial endotoxin testing of PET IND products",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 22200,
+   "lead_time": null,
+   "sole_source_vendor": "Charles River Laboratories",
+   "reason": "Because of the proprietary of these cartridges to our PTS units, only one source is solicited.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "PET Radiopharmacy",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2578,
+  "out": 223
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,135 @@
+{
+ "records": [
+  {
+   "manufacturer": "InnovaSea",
+   "model": "V8-4x-A69-2801",
+   "part": "Rounded Cases (Green Crabs)",
+   "part_numbers": [
+    "V8-4x-A69-2801"
+   ],
+   "quantity": "8 Each",
+   "price_usd": null,
+   "lead_time": "6 weeks after order date (due to tag manufacturing time)",
+   "sole_source_vendor": "Innovasea Marine Systems Canada Inc.",
+   "reason": "Innovasea secures its proprietary acoustic telemetry system by using closed, encrypted hardware \"code spaces\" paired with a unique Pulse Position Modulation (PPM) encoding method that restricts signal decoding exclusively to its own receivers.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "InnovaSea",
+   "model": "V8-4x-A69-2801",
+   "part": "External Caps (Reference Tags)",
+   "part_numbers": [
+    "V8-4x-A69-2801"
+   ],
+   "quantity": "170 Each",
+   "price_usd": null,
+   "lead_time": "6 weeks after order date (due to tag manufacturing time)",
+   "sole_source_vendor": "Innovasea Marine Systems Canada Inc.",
+   "reason": "Innovasea secures its proprietary acoustic telemetry system by using closed, encrypted hardware \"code spaces\" paired with a unique Pulse Position Modulation (PPM) encoding method that restricts signal decoding exclusively to its own receivers.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "InnovaSea",
+   "model": null,
+   "part": "Redeployment Parts for Ascent AR/VR2AR",
+   "part_numbers": [],
+   "quantity": "21 Each",
+   "price_usd": null,
+   "lead_time": "6 weeks after order date (due to tag manufacturing time)",
+   "sole_source_vendor": "Innovasea Marine Systems Canada Inc.",
+   "reason": "This equipment is all compatible to our already purchased VR2AR-69kHz receivers",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "InnovaSea",
+   "model": "VR100-300",
+   "part": "VR100 \u2013 Surface Transponder and Manual Tracking Acoustic Receiver",
+   "part_numbers": [
+    "VR100-300"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": "6 weeks after order date (due to tag manufacturing time)",
+   "sole_source_vendor": "Innovasea Marine Systems Canada Inc.",
+   "reason": "Innovasea secures its proprietary acoustic telemetry system by using closed, encrypted hardware \"code spaces\" paired with a unique Pulse Position Modulation (PPM) encoding method that restricts signal decoding exclusively to its own receivers.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "InnovaSea",
+   "model": "VHTx",
+   "part": "VHTx 69kHz Transponding Hydrophone 25 meter waterproof cable for VR100",
+   "part_numbers": [],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": "6 weeks after order date (due to tag manufacturing time)",
+   "sole_source_vendor": "Innovasea Marine Systems Canada Inc.",
+   "reason": "This equipment is all compatible to our already purchased VR2AR-69kHz receivers",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "InnovaSea",
+   "model": "V16-4x-A69-2801",
+   "part": "Rounded Case",
+   "part_numbers": [
+    "V16-4x-A69-2801"
+   ],
+   "quantity": "190 Each",
+   "price_usd": null,
+   "lead_time": "6 weeks after order date (due to tag manufacturing time)",
+   "sole_source_vendor": "Innovasea Marine Systems Canada Inc.",
+   "reason": "Innovasea secures its proprietary acoustic telemetry system by using closed, encrypted hardware \"code spaces\" paired with a unique Pulse Position Modulation (PPM) encoding method that restricts signal decoding exclusively to its own receivers.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "InnovaSea",
+   "model": "NexTrak AR",
+   "part": "NexTrak AR \u2013 Transponding Acoustic Release Receiver with battery",
+   "part_numbers": [],
+   "quantity": "27 Each",
+   "price_usd": null,
+   "lead_time": "6 weeks after order date (due to tag manufacturing time)",
+   "sole_source_vendor": "Innovasea Marine Systems Canada Inc.",
+   "reason": "This equipment is all compatible to our already purchased VR2AR-69kHz receivers",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "InnovaSea",
+   "model": null,
+   "part": "Magnetic Activation Probe for acoustic receivers",
+   "part_numbers": [],
+   "quantity": "3 Each",
+   "price_usd": null,
+   "lead_time": "6 weeks after order date (due to tag manufacturing time)",
+   "sole_source_vendor": "Innovasea Marine Systems Canada Inc.",
+   "reason": "Innovasea secures its proprietary acoustic telemetry system by using closed, encrypted hardware \"code spaces\" paired with a unique Pulse Position Modulation (PPM) encoding method that restricts signal decoding exclusively to its own receivers.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6336,
+  "out": 2565
+ },
+ "model": "claude-sonnet-5"
+}

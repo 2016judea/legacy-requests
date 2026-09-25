@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Customizable FPGA-based instrument with software to realize required technical specifications (FPGA-based GHz Multi-instrument)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Liquid Instruments Inc",
+   "reason": "separate and apart from Liquid Instruments Inc (UEI: MS6AHD4EF8D7)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4756,
+  "out": 521
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,73 @@
+{
+ "records": [
+  {
+   "manufacturer": "One Lambda, Inc.",
+   "model": "HLA PRO Primary",
+   "part": "Automation platform for single antigen Class I and Class II assay, used in VA HLA lab for patient care",
+   "part_numbers": [
+    "HLAPROPR"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "One Lambda, Inc.",
+   "reason": "The reagents that are currently utilized in the Iowa City VA HLA lab are purchased from One Lambda and this HLA-Pro automation is specifically designed to utilize their reagents",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Iowa City VA HLA lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "One Lambda, Inc.",
+   "model": "HLA PRO Accessory Kit",
+   "part": "Accessory kit for the One Lambda HLA-Pro automation platform",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "One Lambda, Inc.",
+   "reason": "One Lambda HLA-Pro automation is specifically designed to use the One Lambda reagents that the VA HLA labs currently utilize for the Class I and Class II antibody assay",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Iowa City VA HLA lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "One Lambda, Inc.",
+   "model": "HLA PRO Starter Kit",
+   "part": "Starter kit for the One Lambda HLA-Pro automation platform",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "One Lambda, Inc.",
+   "reason": "One Lambda HLA-Pro automation is specifically designed to use the One Lambda reagents that the VA HLA labs currently utilize for the Class I and Class II antibody assay",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Iowa City VA HLA lab",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "One Lambda, Inc.",
+   "model": null,
+   "part": "Service contract for installation, testing, and support of One Lambda equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Vendor shall provide and facilitate all parts, manpower, labor, travel, expenses, software, expertise, peripherals, reagents, applications, supervision, training, and peripheries to install on Lambda One and associated equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Iowa City VA Health Care System",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7902,
+  "out": 2230
+ },
+ "model": "claude-sonnet-5"
+}

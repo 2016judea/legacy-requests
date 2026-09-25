@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Primenano, Inc.",
+   "model": "ScanWave Pro",
+   "part": "scanning Microwave Impedance Microscopy (sMIM) electronic controller for Vero AFM",
+   "part_numbers": [],
+   "quantity": "one (1)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Primenano, Inc.",
+   "reason": "separate and apart from Primenano, Inc. (UEI: K2RLBZKD2CX7)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Division 643",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4441,
+  "out": 790
+ },
+ "model": "claude-sonnet-5"
+}

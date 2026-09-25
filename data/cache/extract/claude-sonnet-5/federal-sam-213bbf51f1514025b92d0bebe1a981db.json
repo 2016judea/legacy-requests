@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Dentsplysirona",
+   "model": "Heliodent Plus Wall Version",
+   "part": "Dental X-Ray Units-Heliodent Plus Wall Version, brand name or equal",
+   "part_numbers": [],
+   "quantity": "9.00 EA",
+   "price_usd": null,
+   "lead_time": "30 Days After Receipt of Order (ARO)",
+   "sole_source_vendor": null,
+   "reason": "Dentsplysirona-Dental X-Ray Units-Heliodent Plus Wall Version part numbers below, are reference only and that equivalency is determined solely by salients.",
+   "equipment_class": "other equipment",
+   "installed_location": "Central Arkansas Veterans Healthcare Sys, 2200 Fort Roots Drive, Bldg 182, Little Rock, AR 72114",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dentsplysirona",
+   "model": null,
+   "part": "HD Adapter Plate Kit",
+   "part_numbers": [],
+   "quantity": "9.00 EA",
+   "price_usd": null,
+   "lead_time": "30 Days After Receipt of Order (ARO)",
+   "sole_source_vendor": null,
+   "reason": "HD ADAPTER PLATE KIT /per the SOW key functional salient charateristics.",
+   "equipment_class": "other equipment",
+   "installed_location": "Central Arkansas Veterans Healthcare Sys, 2200 Fort Roots Drive, Bldg 182, Little Rock, AR 72114",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Dentsplysirona",
+   "model": null,
+   "part": "HD Rectangular Plate",
+   "part_numbers": [],
+   "quantity": "9.00 EA",
+   "price_usd": null,
+   "lead_time": "30 Days After Receipt of Order (ARO)",
+   "sole_source_vendor": null,
+   "reason": "HD RECTANGULAR PLATE / per the SOW key functional salient charateristics.",
+   "equipment_class": "other equipment",
+   "installed_location": "Central Arkansas Veterans Healthcare Sys, 2200 Fort Roots Drive, Bldg 182, Little Rock, AR 72114",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8293,
+  "out": 1757
+ },
+ "model": "claude-sonnet-5"
+}

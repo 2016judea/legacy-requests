@@ -1,0 +1,59 @@
+{
+ "records": [
+  {
+   "manufacturer": "Purifics",
+   "model": "Photo-Cat\u00ae AOP+",
+   "part": "Photocatalytic reactor system (advanced oxidation) to destroy nitrate esters and organics in recirculating process-water for annealing air pollution control system",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "10 months",
+   "sole_source_vendor": "Purifics, Inc.",
+   "reason": "Purifics has a deep knowledge and expertise of our system and its requirement as they were the company that designed and built the legacy pollution control system.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "NSWC Indian Head Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Purifics",
+   "model": "CUF\u00ae (Ceramic Ultra-Filtration unit)",
+   "part": "Ceramic Ultra-Filtration unit within the Photo-Cat AOP+ reactor for maintaining catalyst concentration",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Purifics, Inc.",
+   "reason": "The proprietary Purifics Photo-Cat\u00ae AOP+ reactor system includes a patented Ceramic Ultra-Filtration (CUF\u00ae) unit. This filtration is important for keeping the proper catalyst concentration within the reactor system flow passages.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "NSWC Indian Head Division",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Veolia",
+   "model": "LT4-2",
+   "part": "Reverse osmosis system to remove dissolved salts from potable water utility make-up water source",
+   "part_numbers": [
+    "LT4-2"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "10 months",
+   "sole_source_vendor": null,
+   "reason": "Each reverse osmosis system will be a Veolia LT4-2 model capable of producing 2.00-GPM of RO water from 2.67-GPM of potable water or an off-the-shelf equivalent capability system as determined by the NSWC IHD",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "NSWC Indian Head Division",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4389,
+  "out": 1565
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Armament Control Unit (ACU) inspection, evaluation, and repair",
+   "part_numbers": [
+    "13225434"
+   ],
+   "quantity": "12 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "On-Point Defense Technologies LLC",
+   "reason": "This item is restricted to: On-Point Defense Technologies LLC, Cage Code: 6MD81.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Upgraded Armament Control Unit (UACU) inspection, evaluation, and repair",
+   "part_numbers": [
+    "13745403"
+   ],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "On-Point Defense Technologies LLC",
+   "reason": "This item is restricted to: On-Point Defense Technologies LLC, Cage Code: 6MD81.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2755,
+  "out": 419
+ },
+ "model": "claude-sonnet-5"
+}

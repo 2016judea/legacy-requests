@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Skurka Aerospace Inc.",
+   "model": null,
+   "part": "AC Synchronous Motor (Spin Motor) for AN/SPN-46",
+   "part_numbers": [
+    "K976-49944"
+   ],
+   "quantity": "6 Each",
+   "price_usd": null,
+   "lead_time": "18 Month",
+   "sole_source_vendor": "Skurka Aerospace Inc.",
+   "reason": "intends to purchase on a firm fixed-price basis and to solicit and negotiate the proposed purchase order on sole source basis with Skurka Aerospace Inc.",
+   "equipment_class": "motor/drive",
+   "installed_location": "NAVAL AIR WARFARE CTR AIRCRAFT DIV, 17134 WEBSTER FIELD ROAD, ST INIGOES MD 20684",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8186,
+  "out": 284
+ },
+ "model": "claude-sonnet-5"
+}

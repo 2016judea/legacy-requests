@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vactor",
+   "model": "Vac Truck",
+   "part": "BRAND NAME OR EQUAL Vactor Vac Truck with 3 cu.yd debris body capacity on Vactor Supplied Chassis Single Axle 2027 Freightliner M2 106 300 HP",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME OR EQUAL Vector Vacuum Truck for the Black Hills VA.",
+   "equipment_class": "other equipment",
+   "installed_location": "Black Hills VA Health Care System, Fort Meade Campus, 113 Comanche Road, Fort Meade SD",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7527,
+  "out": 265
+ },
+ "model": "claude-sonnet-5"
+}

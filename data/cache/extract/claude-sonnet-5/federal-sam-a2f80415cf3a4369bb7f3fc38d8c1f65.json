@@ -1,0 +1,303 @@
+{
+ "records": [
+  {
+   "manufacturer": "Miller",
+   "model": "ProHeat 35",
+   "part": "ProHeat 35 Power Source, 460-575V Induction Heating System",
+   "part_numbers": [
+    "907689"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "8 weeks",
+   "sole_source_vendor": null,
+   "reason": "No other manufacturer produces a portable, liquid-cooled, 35 kW induction heating system with integrated multi-channel thermocouple temperature control.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bonneville Lock & Dam",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Miller",
+   "model": "ProHeat 35",
+   "part": "Package, Induction Cooler w/Coolant (For 907689 Only)",
+   "part_numbers": [
+    "951686"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "8 weeks",
+   "sole_source_vendor": null,
+   "reason": "No other manufacturer produces a portable, liquid-cooled, 35 kW induction heating system with integrated multi-channel thermocouple temperature control.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bonneville Lock & Dam",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Miller",
+   "model": "ProHeat 35",
+   "part": "Running Gear, ProHeat 35",
+   "part_numbers": [
+    "195436"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "8 weeks",
+   "sole_source_vendor": null,
+   "reason": "No other manufacturer produces a portable, liquid-cooled, 35 kW induction heating system with integrated multi-channel thermocouple temperature control.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bonneville Lock & Dam",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Miller",
+   "model": "ProHeat 35",
+   "part": "25 Foot Output Cable, Liquid Cooled, ProHeat",
+   "part_numbers": [
+    "195402"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "8 weeks",
+   "sole_source_vendor": null,
+   "reason": "No other manufacturer produces a portable, liquid-cooled, 35 kW induction heating system with integrated multi-channel thermocouple temperature control.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bonneville Lock & Dam",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Miller",
+   "model": "ProHeat 35",
+   "part": "Liquid Cooled Heating Cable, 50 Foot, ProHeat",
+   "part_numbers": [
+    "300046"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "8 weeks",
+   "sole_source_vendor": null,
+   "reason": "No other manufacturer produces a portable, liquid-cooled, 35 kW induction heating system with integrated multi-channel thermocouple temperature control.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bonneville Lock & Dam",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Miller",
+   "model": "ProHeat 35",
+   "part": "Heating Cable Preheat Cover, 50 Foot",
+   "part_numbers": [
+    "204614"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "8 weeks",
+   "sole_source_vendor": null,
+   "reason": "No other manufacturer produces a portable, liquid-cooled, 35 kW induction heating system with integrated multi-channel thermocouple temperature control.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bonneville Lock & Dam",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Miller",
+   "model": "ProHeat 35",
+   "part": "Cable, Extension, 25' Type K, Armored",
+   "part_numbers": [
+    "200201"
+   ],
+   "quantity": "2 each",
+   "price_usd": null,
+   "lead_time": "8 weeks",
+   "sole_source_vendor": null,
+   "reason": "No other manufacturer produces a portable, liquid-cooled, 35 kW induction heating system with integrated multi-channel thermocouple temperature control.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bonneville Lock & Dam",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Miller",
+   "model": "ProHeat 35",
+   "part": "Temperature Sensor",
+   "part_numbers": [
+    "200202"
+   ],
+   "quantity": "2 each",
+   "price_usd": null,
+   "lead_time": "8 weeks",
+   "sole_source_vendor": null,
+   "reason": "No other manufacturer produces a portable, liquid-cooled, 35 kW induction heating system with integrated multi-channel thermocouple temperature control.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Bonneville Lock & Dam",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Miller",
+   "model": "ProHeat 35",
+   "part": "Insulation, Preheat, Woven Silica w/coil loops (1/2\" x 15\" x 120\")",
+   "part_numbers": [
+    "301334"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "8 weeks",
+   "sole_source_vendor": null,
+   "reason": "No other manufacturer produces a portable, liquid-cooled, 35 kW induction heating system with integrated multi-channel thermocouple temperature control.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bonneville Lock & Dam",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Miller",
+   "model": "ProHeat 35",
+   "part": "10 Foot Output Cable, Liquid Cooled, ProHeat",
+   "part_numbers": [
+    "300180"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "8 weeks",
+   "sole_source_vendor": null,
+   "reason": "No other manufacturer produces a portable, liquid-cooled, 35 kW induction heating system with integrated multi-channel thermocouple temperature control.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bonneville Lock & Dam",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Miller",
+   "model": "ProHeat 35",
+   "part": "50 Foot Output Cable, Liquid Cooled, ProHeat",
+   "part_numbers": [
+    "195403"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "8 weeks",
+   "sole_source_vendor": null,
+   "reason": "No other manufacturer produces a portable, liquid-cooled, 35 kW induction heating system with integrated multi-channel thermocouple temperature control.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bonneville Lock & Dam",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Miller",
+   "model": "ProHeat 35",
+   "part": "Liquid Cooled Heating Cable, 80 Foot, ProHeat",
+   "part_numbers": [
+    "300047"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "8 weeks",
+   "sole_source_vendor": null,
+   "reason": "No other manufacturer produces a portable, liquid-cooled, 35 kW induction heating system with integrated multi-channel thermocouple temperature control.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bonneville Lock & Dam",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Miller",
+   "model": "ProHeat 35",
+   "part": "Heating Cable Preheat Cover, 80 Foot",
+   "part_numbers": [
+    "204620"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "8 weeks",
+   "sole_source_vendor": null,
+   "reason": "No other manufacturer produces a portable, liquid-cooled, 35 kW induction heating system with integrated multi-channel thermocouple temperature control.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bonneville Lock & Dam",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Miller",
+   "model": "ProHeat 35",
+   "part": "Liquid Cooled Heating Cable, 140 Foot, ProHeat",
+   "part_numbers": [
+    "300049"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "8 weeks",
+   "sole_source_vendor": null,
+   "reason": "No other manufacturer produces a portable, liquid-cooled, 35 kW induction heating system with integrated multi-channel thermocouple temperature control.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bonneville Lock & Dam",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Miller",
+   "model": "ProHeat 35",
+   "part": "Insulation, Preheat, Woven Silica (1/2\" x 6\" x 120\")",
+   "part_numbers": [
+    "204669"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "8 weeks",
+   "sole_source_vendor": null,
+   "reason": "No other manufacturer produces a portable, liquid-cooled, 35 kW induction heating system with integrated multi-channel thermocouple temperature control.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bonneville Lock & Dam",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Miller",
+   "model": "ProHeat 35",
+   "part": "Insulation, Preheat, Woven Silica (1/2\" x 12\" x 120\")",
+   "part_numbers": [
+    "211474"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "8 weeks",
+   "sole_source_vendor": null,
+   "reason": "No other manufacturer produces a portable, liquid-cooled, 35 kW induction heating system with integrated multi-channel thermocouple temperature control.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bonneville Lock & Dam",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Miller",
+   "model": "ProHeat 35",
+   "part": "Replacement Couplers, 6 pack",
+   "part_numbers": [
+    "401651"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "8 weeks",
+   "sole_source_vendor": null,
+   "reason": "No other manufacturer produces a portable, liquid-cooled, 35 kW induction heating system with integrated multi-channel thermocouple temperature control.",
+   "equipment_class": "other equipment",
+   "installed_location": "Bonneville Lock & Dam",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Miller",
+   "model": "ProHeat 35",
+   "part": "Onsite Training - One day at Bonneville Lock & Dam",
+   "part_numbers": [
+    "290165"
+   ],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": "8 weeks",
+   "sole_source_vendor": null,
+   "reason": "No other manufacturer produces a portable, liquid-cooled, 35 kW induction heating system with integrated multi-channel thermocouple temperature control.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Bonneville Lock & Dam",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7561,
+  "out": 4549
+ },
+ "model": "claude-sonnet-5"
+}

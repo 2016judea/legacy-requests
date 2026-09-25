@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lennox",
+   "model": "EL240KCSDT-1Y",
+   "part": "LENNOX 20T CONDENSING UNIT TO REPLACE THE ONCOLOGY HVAC UNIT",
+   "part_numbers": [
+    "EL240KCSDT-1Y"
+   ],
+   "quantity": "1.00 EA",
+   "price_usd": null,
+   "lead_time": "60 days",
+   "sole_source_vendor": null,
+   "reason": "BRAND NAME ONLY. OEM LETTER FROM THE MANUFACTURER IS REQUIRED. IF NO OEM LETTER VENDOR WILL BE CONSIDERED NON-RESPONSIVE.",
+   "equipment_class": "HVAC",
+   "installed_location": "Louis A. Johnson VA Medical Center / Clarksburg VA Medical Center, Oncology HVAC unit",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9297,
+  "out": 305
+ },
+ "model": "claude-sonnet-5"
+}

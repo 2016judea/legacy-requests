@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ball-Coleman",
+   "model": "Seed Counter",
+   "part": "High-Volume Seed Counter, image-based, high-accuracy, for corn seed batch processing",
+   "part_numbers": [],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Only the Ball-Coleman Seed Counter meets the ARS technical requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Data Technologies",
+   "model": "S-25",
+   "part": "Alternative seed counter evaluated and excluded",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "it was excluded due to foreign manufacture, limited specification transparency, and insufficient performance capabilities",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9592,
+  "out": 338
+ },
+ "model": "claude-sonnet-5"
+}

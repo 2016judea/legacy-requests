@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Rapid Seal SE640",
+   "part": "Blood Tube Rapid Seal heat sealers for sealing blood tubing attached to Amicus kits after platelet collections",
+   "part_numbers": [
+    "SE640"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Dove Medical Supply LLC",
+   "reason": "The heat sealers are needed to continue safely sealing blood tubing attached to the Amicus kits after platelet collections. This will replace heat sealers that are no longer in service.",
+   "equipment_class": "other equipment",
+   "installed_location": "NIH Clinical Center",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2354,
+  "out": 590
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,122 @@
+{
+ "records": [
+  {
+   "manufacturer": "Keysight Technologies, Inc.",
+   "model": "UXR0404BP",
+   "part": "Infiniium UXR Real-Time Oscilloscope, 40 GHz, 1mm, 256 GSa/s, 4Ch, with 1-year warranty, including SSD, memory, bandwidth extension, and optimization module",
+   "part_numbers": [
+    "UXR0404BP",
+    "UXR0001-801",
+    "UXR0001-02G",
+    "UXR0000-605",
+    "N2125A"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": "17 weeks",
+   "sole_source_vendor": null,
+   "reason": "Keysight equipment is the only equipment identified that can meet the Government\u2019s requirements for a multi-channel, W band, low signal noise oscilloscope with measurement capabilities.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "U.S. Naval Research Laboratory, 4555 Overlook Avenue, S.W., Code 5710, Washington, DC 20375",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies, Inc.",
+   "model": "N2201A",
+   "part": "Additional removable SSD for Infiniium UXR B-Series Oscilloscopes",
+   "part_numbers": [
+    "N2201A",
+    "N2201A-001"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": "17 weeks",
+   "sole_source_vendor": null,
+   "reason": "Keysight equipment is the only equipment identified that can meet the Government\u2019s requirements for a multi-channel, W band, low signal noise oscilloscope with measurement capabilities.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "U.S. Naval Research Laboratory, 4555 Overlook Avenue, S.W., Code 5710, Washington, DC 20375",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies, Inc.",
+   "model": "D9010BSEO",
+   "part": "Infiniium Offline - Base Software, USB portable perpetual license, with 12 months KeysightCare software support subscription and USB licensing dongle",
+   "part_numbers": [
+    "D9010BSEO",
+    "SW1000-SUP-01",
+    "SW1000-D10"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": "5 weeks",
+   "sole_source_vendor": null,
+   "reason": "Keysight\u2019s custom software package allows NRL engineers to work off of an existing successful software base layer.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "U.S. Naval Research Laboratory, 4555 Overlook Avenue, S.W., Code 5710, Washington, DC 20375",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies, Inc.",
+   "model": "N2163A",
+   "part": "mmWave Wideband Analysis Acceleration and Extension Upgrade, License certificate, with Hardware Accelerated DDC for UXR-Series and BW upgrade",
+   "part_numbers": [
+    "N2163A",
+    "N2163A-601",
+    "N2163A-602"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": "17 weeks",
+   "sole_source_vendor": null,
+   "reason": "Keysight is the only vendor in the market that currently manufactures an oscilloscope with multichannel and W band capabilities due to their custom ASICs and FPGAs along with their custom software packages.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "U.S. Naval Research Laboratory, 4555 Overlook Avenue, S.W., Code 5710, Washington, DC 20375",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies, Inc.",
+   "model": "89601BHQC",
+   "part": "Pulse analysis software, Node-locked perpetual license, with 12 months Node-locked KeysightCare software support subscription",
+   "part_numbers": [
+    "89601BHQC",
+    "SW1000-SUP-01"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": "5 weeks",
+   "sole_source_vendor": null,
+   "reason": "Any other non-OEM software package would require re-development of code or code integration, effectively duplicating the initial software development phase, resulting in substantial duplication of costs and significant unplanned labor costs and schedule overruns",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "U.S. Naval Research Laboratory, 4555 Overlook Avenue, S.W., Code 5710, Washington, DC 20375",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Keysight Technologies, Inc.",
+   "model": "89601201C",
+   "part": "Advanced vector signal analysis software, all-inclusive, Node-locked perpetual license, with 12 months Node-locked KeysightCare software support subscription",
+   "part_numbers": [
+    "89601201C",
+    "SW1000-SUP-01"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": "5 weeks",
+   "sole_source_vendor": null,
+   "reason": "This procurement also includes Vector Signal Analysis supporting base software, which seamlessly integrates with the UXR-Series oscilloscope, and a calibration module for W band.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "U.S. Naval Research Laboratory, 4555 Overlook Avenue, S.W., Code 5710, Washington, DC 20375",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11070,
+  "out": 2983
+ },
+ "model": "claude-sonnet-5"
+}

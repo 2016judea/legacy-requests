@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Bouldin & Lawson, LLC",
+   "model": "Mobile Ordnance Deformer",
+   "part": "Mobile Ordnance Deformer to safely, rapidly, and physically deform expended small-arms range residue and spent ammunition cartridges",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Bouldin & Lawson, LLC",
+   "reason": "Bouldin & Lawson, LLC is the sole manufacturer and proprietary source of the Mobile Ordnance Deformer.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4700,
+  "out": 237
+ },
+ "model": "claude-sonnet-5"
+}

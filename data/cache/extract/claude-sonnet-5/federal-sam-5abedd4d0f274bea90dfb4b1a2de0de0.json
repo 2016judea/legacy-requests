@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "FLEXMAP 3D",
+   "part": "FLEXMAP 3D instrument with xPONENT 4.3 Software (includes Analyzer, XYP plate handler, PC with xPONENT 4.3/Windows 10, monitor, keyboard/mouse, cables, off plate reagent area, AMP 96 & 384 well heater block)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Millipore Sigma",
+   "reason": "Notice of Intent to Sole Source - Millipore Sigma",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "FLEXMAP 3D",
+   "part": "2-day training with a specialist, including assay and instrument training as well as troubleshooting guidelines; assay specific technical support as well as Luminex instrumentation support",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Millipore Sigma",
+   "reason": "Notice of Intent to Sole Source - Millipore Sigma",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2162,
+  "out": 1700
+ },
+ "model": "claude-sonnet-5"
+}

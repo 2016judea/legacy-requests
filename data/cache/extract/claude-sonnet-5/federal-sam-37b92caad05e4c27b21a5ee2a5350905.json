@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "10-W continuous-wave pump lasers at 532nm",
+   "part_numbers": [],
+   "quantity": "three (3)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Newport Corp.",
+   "reason": "The results of that market research revealed that only Newport Corp (UEI: JH1RHJ5R7TT1) appears to be capable of meeting NIST\ts requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Platforms to match the pump lasers' beam height to the input beam heights of the two Spectra-Physics Tsunami lasers and one Coherent Mira laser",
+   "part_numbers": [],
+   "quantity": "Two",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Newport Corp.",
+   "reason": "The results of that market research revealed that only Newport Corp (UEI: JH1RHJ5R7TT1) appears to be capable of meeting NIST\ts requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3885,
+  "out": 1414
+ },
+ "model": "claude-sonnet-5"
+}

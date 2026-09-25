@@ -1,0 +1,63 @@
+{
+ "records": [
+  {
+   "manufacturer": "Microchip Technology Inc.",
+   "model": null,
+   "part": "Mask Generation NRE",
+   "part_numbers": [
+    "FNDMASKGENFEE"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MICROCHIP TECHNOLOGY INC.",
+   "reason": "intends to award a firm fixed price purchase order on a sole source basis to MICROCHIP TECHNOLOGY INC.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Microchip Technology Inc.",
+   "model": null,
+   "part": "Engineering NRE - 2 Implant Module Development",
+   "part_numbers": [
+    "FNDENGNREItem"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MICROCHIP TECHNOLOGY INC.",
+   "reason": "intends to award a firm fixed price purchase order on a sole source basis to MICROCHIP TECHNOLOGY INC.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Microchip Technology Inc.",
+   "model": null,
+   "part": "Lot Charge - Wafer Fabrication",
+   "part_numbers": [
+    "FNDWFABENGLOT"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "MICROCHIP TECHNOLOGY INC.",
+   "reason": "intends to award a firm fixed price purchase order on a sole source basis to MICROCHIP TECHNOLOGY INC.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2482,
+  "out": 1030
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Automated Logic Corporation (ALC)",
+   "model": "WebCTRL",
+   "part": "Direct Digital Controllers utilizing WebCTRL and EIKON software (including SiteBuilder and ViewBuilder) for configuration/programming and connection to EMCS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Maximize utilization of existing government-licensed software to configure and program the controllers.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "various government installations located in the Hampton Roads area, Virginia",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Johnson Controls International PLC (JCI)",
+   "model": "Metasys",
+   "part": "Direct Digital Controllers utilizing Metasys software (including System Configuration Tool and Controller Configuration Tool) for configuration/programming and connection to EMCS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Maximize utilization of existing government-licensed software to configure and program the controllers.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "various government installations located in the Hampton Roads area, Virginia",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens Inc.",
+   "model": "Desigo",
+   "part": "Direct Digital Controllers utilizing Desigo software (including ABT Site Engineering and Commissioning Tool) for configuration/programming and connection to EMCS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Maximize utilization of existing government-licensed software to configure and program the controllers.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "various government installations located in the Hampton Roads area, Virginia",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Siemens Inc.",
+   "model": "Apogee",
+   "part": "Direct Digital Controllers utilizing government-licensed Siemens Apogee Building Automation System software for configuration/programming and connection to EMCS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Maximize utilization of existing government-licensed software to configure and program the controllers.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "various government installations located in the Hampton Roads area, Virginia",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4508,
+  "out": 1252
+ },
+ "model": "claude-sonnet-5"
+}

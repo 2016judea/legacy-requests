@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Delta Scientific Corporation",
+   "model": "MPAI-A4300RM34A",
+   "part": "Actuator for HD300EM Barrier system (Slocumb Gate), 230 VOLT, must be calibrated correctly to deploy and retract",
+   "part_numbers": [
+    "MPAI-A4300RM34A"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Delta Scientific Corporation",
+   "reason": "There are no other sources that can calibrate the actuator to correctly deploy, and retract.",
+   "equipment_class": "other equipment",
+   "installed_location": "Seymour Johnson AFB, NC (Slocumb Gate)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3079,
+  "out": 251
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,159 @@
+{
+ "records": [
+  {
+   "manufacturer": "Syntech",
+   "model": "IDAC-2 BT",
+   "part": "2-Channel BT Acquisition Controller, Type IDAC-2 BT incl. SW",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "30 Days After Receipt Of Order",
+   "sole_source_vendor": null,
+   "reason": "All items must have clear traceability to the Original Equipment Manufacturer (OEM), Brand name brand for continuity of research and data integrity.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "10300 Baltimore Avenue, Bldg 004, Rm 012, Beltsville, MD 20705",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Syntech",
+   "model": "IDAC-4",
+   "part": "4-Channel USB Acquisition Controller, Type, IDAC-4 incl. SW",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "30 Days After Receipt Of Order",
+   "sole_source_vendor": null,
+   "reason": "All items must have clear traceability to the Original Equipment Manufacturer (OEM), Brand name brand for continuity of research and data integrity.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "10300 Baltimore Avenue, Bldg 004, Rm 012, Beltsville, MD 20705",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Syntech",
+   "model": "PRG-3",
+   "part": "COMBI - EAG Probe PRG-3",
+   "part_numbers": [
+    "PRG-3"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Must be compatible with the Syntech Combi-EAG Probe PRG-3",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "10300 Baltimore Avenue, Bldg 004, Rm 012, Beltsville, MD 20705",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Electrode gel, Tube",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Must be compatible with the Syntech Combi-EAG Probe PRG-3",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "10300 Baltimore Avenue, Bldg 004, Rm 012, Beltsville, MD 20705",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Glass mixing tube, bended",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This tube for delivering sample to the instrument must be compatible with the Syntech system and all other items on this list.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "10300 Baltimore Avenue, Bldg 004, Rm 012, Beltsville, MD 20705",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "PRS-1",
+   "part": "Universal Single-Ended Probe, Type PRS-1 (Brand name or Equal)",
+   "part_numbers": [
+    "PRS-1"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "All items must have clear traceability to the Original Equipment Manufacturer (OEM), Brand name brand for continuity of research and data integrity.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "10300 Baltimore Avenue, Bldg 004, Rm 012, Beltsville, MD 20705",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Tungsten Electrode Etching Device (Brand name or Equal)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "All items must have clear traceability to the Original Equipment Manufacturer (OEM), Brand name brand for continuity of research and data integrity.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "10300 Baltimore Avenue, Bldg 004, Rm 012, Beltsville, MD 20705",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Electrode holder for glass pipette electrodes / pc. (Brand name or Equal)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "All items must have clear traceability to the Original Equipment Manufacturer (OEM), Brand name brand for continuity of research and data integrity.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "10300 Baltimore Avenue, Bldg 004, Rm 012, Beltsville, MD 20705",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Electrode holders for tungsten / pc. (Brand name or Equal)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "All items must have clear traceability to the Original Equipment Manufacturer (OEM), Brand name brand for continuity of research and data integrity.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "10300 Baltimore Avenue, Bldg 004, Rm 012, Beltsville, MD 20705",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Indiff electrode holder (Brand name or Equal)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "All items must have clear traceability to the Original Equipment Manufacturer (OEM), Brand name brand for continuity of research and data integrity.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "10300 Baltimore Avenue, Bldg 004, Rm 012, Beltsville, MD 20705",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 10540,
+  "out": 3164
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ivoclar Vivadent",
+   "model": "PrograMill PM7",
+   "part": "PrograMill PM7 Dental Milling System - installation, delivery, and preventative/corrective maintenance",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ivoclar Vivadent, Incorporated",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "U.S. Army Dental Laboratory, Eisenhower Army Medical Center, 300 E Hospital Rd Bldg, 322, Fort Gordon, Georgia",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ivoclar Vivadent",
+   "model": "PrograMill Suction Unit",
+   "part": "PrograMill Suction Unit included in scope of delivery of the dental milling system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ivoclar Vivadent, Incorporated",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "U.S. Army Dental Laboratory, Eisenhower Army Medical Center, 300 E Hospital Rd Bldg, 322, Fort Gordon, Georgia",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ivoclar Vivadent",
+   "model": "CAM software",
+   "part": "CAM software included in scope of delivery of the dental milling system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ivoclar Vivadent, Incorporated",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "U.S. Army Dental Laboratory, Eisenhower Army Medical Center, 300 E Hospital Rd Bldg, 322, Fort Gordon, Georgia",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "PC/Monitor included in scope of delivery of the dental milling system",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Ivoclar Vivadent, Incorporated",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "U.S. Army Dental Laboratory, Eisenhower Army Medical Center, 300 E Hospital Rd Bldg, 322, Fort Gordon, Georgia",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4814,
+  "out": 1509
+ },
+ "model": "claude-sonnet-5"
+}

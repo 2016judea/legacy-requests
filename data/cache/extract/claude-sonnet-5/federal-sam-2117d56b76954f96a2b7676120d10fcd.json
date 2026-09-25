@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "General Dynamics Mission Systems",
+   "model": "KG-204",
+   "part": "KG-204, KG-204 Repairs, and Extended Warranty",
+   "part_numbers": [
+    "KG-204"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "General Dynamics Mission Systems INC",
+   "reason": "This is being solicited on a sole source/brand name only basis because Items Peculiar to One Manufacturer.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 13184,
+  "out": 198
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Luxium Solutions, LLC",
+   "model": null,
+   "part": "23x23 S 70 /1 /Enhanced LaBr lanthanum bromide (LaBr) crystal assemblies",
+   "part_numbers": [
+    "2-4-8132 ind F"
+   ],
+   "quantity": "34 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Luxium Solutions, LLC",
+   "reason": "The Government intends to negotiate solely with Luxium Solutions, LLC. under the authority of 41 U.S.C. 1901 as implemented by FAR (Overhaul) 12.102.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2705,
+  "out": 253
+ },
+ "model": "claude-sonnet-5"
+}

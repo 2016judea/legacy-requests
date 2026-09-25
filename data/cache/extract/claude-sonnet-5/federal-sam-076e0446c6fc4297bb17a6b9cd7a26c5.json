@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Security cart needed for security staff operations at USCG Base Seattle",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "JRH LLC",
+   "reason": "Only One Responsible Source and No Other Supplies or Services Will Satisfy Agency Requirements",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "USCG Base Seattle",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2519,
+  "out": 180
+ },
+ "model": "claude-sonnet-5"
+}

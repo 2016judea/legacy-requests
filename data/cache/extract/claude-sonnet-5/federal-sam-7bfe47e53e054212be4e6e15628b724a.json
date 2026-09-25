@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Smart Shooter Inc",
+   "model": "SMASH 2000L",
+   "part": "Enhanced FCS for M4",
+   "part_numbers": [],
+   "quantity": "20",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Smart Shooter Inc",
+   "reason": "This requirement will be sole sourced to Smart Shooter Inc",
+   "equipment_class": "other equipment",
+   "installed_location": "Cannon AFB",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smart Shooter Inc",
+   "model": "SMASH 2000L",
+   "part": "12-Month Set of Spares for O/L Maintenance based on 10 systems per set",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Smart Shooter Inc",
+   "reason": "This requirement will be sole sourced to Smart Shooter Inc",
+   "equipment_class": "other equipment",
+   "installed_location": "Cannon AFB",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2009,
+  "out": 350
+ },
+ "model": "claude-sonnet-5"
+}

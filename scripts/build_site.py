@@ -247,7 +247,7 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
 </tr></thead><tbody id="rows"></tbody></table>
 <button class="more" id="more" hidden>Show more</button>
 </main>
-<footer>Built from the Legistar public API (sole-source, single-source, proprietary and obsolete-equipment matters introduced since 2024-01-01) and the state sole-source notice boards of Florida (Vendor Bid System, since 2022) and Mississippi, extracted with Claude, never typed by hand. "Who has one" listings come from public surplus auctions and surplus dealers, searched for each record's manufacturer and part number, and count only when both agree; a listing can end or sell after the date it was seen. A field is blank when the agency's document did not state it. Regenerated {date.today().isoformat()}.</footer>
+<footer>Built from the Legistar public API (sole-source, single-source, proprietary and obsolete-equipment matters introduced since 2024-01-01) and the state sole-source notice boards of Florida (Vendor Bid System, since 2022) and Mississippi, and federal sole-source, brand-name and J&amp;A notices on SAM.gov (posted since 2025-09-26), extracted with Claude, never typed by hand. "Who has one" listings come from public surplus auctions and surplus dealers, searched for each record's manufacturer and part number, and count only when both agree; a listing can end or sell after the date it was seen. A field is blank when the agency's document did not state it. Regenerated {date.today().isoformat()}.</footer>
 <script id="data" type="application/json">{data}</script>
 <script>
 let R=JSON.parse(document.getElementById('data').textContent),full=false;

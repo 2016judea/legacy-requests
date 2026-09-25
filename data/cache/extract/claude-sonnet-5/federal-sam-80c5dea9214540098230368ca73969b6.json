@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "LOKRING",
+   "model": null,
+   "part": "Fittings from LOKRING Technology - pressure-safe end fittings without welding, o-rings, gaskets, or flanged connections",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "LOKRING fittings are a proprietary product, there is no other manufacturer of this tooling.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": "Puget Sound Naval Shipyard",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3852,
+  "out": 202
+ },
+ "model": "claude-sonnet-5"
+}

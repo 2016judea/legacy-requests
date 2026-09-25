@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": "SpyderCrane",
+   "model": "URW375/URW376",
+   "part": "Compact mini crawler crane (spider crane) for CV-22 aircraft maintenance lifting operations",
+   "part_numbers": [],
+   "quantity": "Two (2) each",
+   "price_usd": null,
+   "lead_time": "Within 120 calendar days after receipt of order.",
+   "sole_source_vendor": null,
+   "reason": "The brand-name reference is SpyderCrane URW375/URW376 or equal.",
+   "equipment_class": "other equipment",
+   "installed_location": "614 Liberator Avenue, Building 208, Cannon AFB, NM 88101",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Single-person, boom-tip-mounted work platform",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Single-person, boom-tip-mounted work platform;",
+   "equipment_class": "other equipment",
+   "installed_location": "Cannon AFB, NM",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Heavy-duty protective crane covers in tan",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Heavy-duty protective crane covers in tan;",
+   "equipment_class": "other equipment",
+   "installed_location": "Cannon AFB, NM",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MEL AIR",
+   "model": null,
+   "part": "Non-marking tracks suitable for aircraft maintenance and hangar environments",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "MEL AIR or equivalent non-marking tracks suitable for aircraft maintenance and hangar flooring.",
+   "equipment_class": "other equipment",
+   "installed_location": "Cannon AFB, NM",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Hydraulic tilt-deck trailer sized and rated for safe transport of the offered crane",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Hydraulic tilt-deck trailer sized and rated for safe transport of the offered crane and accessories, with required tie-down points and loading components.",
+   "equipment_class": "other equipment",
+   "installed_location": "Cannon AFB, NM",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Track mats",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Track mats.",
+   "equipment_class": "other equipment",
+   "installed_location": "Cannon AFB, NM",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Two-year spare-parts and maintenance-support package",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "the two-year spare-parts and maintenance-support package identified in the pricing schedule.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Cannon AFB, NM",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12744,
+  "out": 1962
+ },
+ "model": "claude-sonnet-5"
+}

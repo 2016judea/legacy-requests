@@ -1,0 +1,51 @@
+{
+ "records": [
+  {
+   "manufacturer": "Koenig & Bauer Banknote Solutions SA",
+   "model": null,
+   "part": "FILTER PAD 2 MICRONS PART NO. RICABT212433. REPAIR PART FOR THE PLATE LINE",
+   "part_numbers": [
+    "2M033033",
+    "RICABT212433"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA",
+   "reason": "The Government intends to award a sole-source contract in accordance with FAR 13.106-1(b), soliciting from a single source",
+   "equipment_class": "other equipment",
+   "installed_location": "BEP Plate Line",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Koenig & Bauer Banknote Solutions SA",
+   "model": null,
+   "part": "BUSHING ECCENTRIC GS-52 FOR I-10 PRESS PRINTING UNIT DWG NO L6292360 PART NO L6270921. SP DWG NO L6292360-112 DLRG ID NO L6270921",
+   "part_numbers": [
+    "2M031028",
+    "L6292360",
+    "L6270921",
+    "L6292360-112"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA",
+   "reason": "The Government intends to award a sole-source contract in accordance with FAR 13.106-1(b), soliciting from a single source",
+   "equipment_class": "other equipment",
+   "installed_location": "I-10 Press Printing Unit",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3620,
+  "out": 877
+ },
+ "model": "claude-sonnet-5"
+}

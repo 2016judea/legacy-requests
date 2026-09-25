@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Renk America, LLC",
+   "model": null,
+   "part": "Interface Unit, Input-Output",
+   "part_numbers": [
+    "12446418"
+   ],
+   "quantity": "153 each base, 100% option, total 306 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Renk America, LLC",
+   "reason": "The Renk America\u2019s Interface Assembly is used in the Transmission Electronic Control System with Electronic Brake Coolant and Third Range Time Delay Valve.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "L3 Technologies",
+   "model": null,
+   "part": "Interface Unit, Input-Output",
+   "part_numbers": [
+    "12446418"
+   ],
+   "quantity": "81 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "L3 Technologies, Inc.",
+   "reason": "This item has been sole sourced to L3 Technologies, Inc. L3 has fully developed, tested this item for the USG and is the approved manufacturer.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5540,
+  "out": 405
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Nanalysis",
+   "model": "AUTOsample-100",
+   "part": "Autosampler for use with existing Nanalysis 100 MHz benchtop NMR system",
+   "part_numbers": [],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The autosampler shall be compatible with and capable of full integration with the existing Government-owned Nanalysis 100-PRO benchtop NMR system (magnet), Serial Number C109122022.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "FDA/CDER/OPQR, 645 Newstead Ave., St Louis, MO 63110",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6354,
+  "out": 597
+ },
+ "model": "claude-sonnet-5"
+}

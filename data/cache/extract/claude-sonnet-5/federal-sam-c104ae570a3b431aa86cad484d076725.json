@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "RTB-6A-22x72",
+   "part": "Replacement tube bundle for BEP DCF Sub-Basement heat exchanger",
+   "part_numbers": [
+    "RTB-6A-22x72"
+   ],
+   "quantity": "one",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mainstream, Fluid and Air, LLC",
+   "reason": "The BEP heat exchanger, which transfers thermal energy and supports the HVAC system's ability to provide heating and cooling to BEP manufacturing directorates and offices, has stopped working effectively due to damaged tubing.",
+   "equipment_class": "HVAC",
+   "installed_location": "Washington, DC facility",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "HXR-6A-20x116-04-AA",
+   "part": "Shell-and-tube heat exchanger for BEP 9th Floor",
+   "part_numbers": [
+    "HXR-6A-20x116-04-AA"
+   ],
+   "quantity": "one",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Mainstream, Fluid and Air, LLC",
+   "reason": "During a recent inspection, a major leak was identified that must be addressed urgently.",
+   "equipment_class": "HVAC",
+   "installed_location": "Washington, DC facility",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2498,
+  "out": 561
+ },
+ "model": "claude-sonnet-5"
+}

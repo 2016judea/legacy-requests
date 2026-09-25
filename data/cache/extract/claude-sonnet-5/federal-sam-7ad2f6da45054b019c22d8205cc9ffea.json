@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Quantum Design, Inc.",
+   "model": "MPMS3 SQUID VSM",
+   "part": "Replacement Probe for the Superconducting Quantum Interference Device Vibrating Sample Magnetometer (SQUID VSM)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Quantum Design, Inc.",
+   "reason": "The results of that market research revealed that only Quantum Design, Inc. (UEI: JEATS22MKKM6) appears to be capable of meeting NIST\\u2019s requirements.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "National Institute for Standards and Technology (NIST), Materials Science and Engineering Division (MSED)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4741,
+  "out": 284
+ },
+ "model": "claude-sonnet-5"
+}

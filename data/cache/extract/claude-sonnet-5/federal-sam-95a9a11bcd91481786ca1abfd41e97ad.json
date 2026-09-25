@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Jeppesen ForeFlight",
+   "model": "ForeFlight MFB One",
+   "part": "Aviation software licenses (MFB One, Heavy Tail Dispatch, Runway Analysis) for C-37A/B & C-39A aircraft flight dispatch and navigation data services",
+   "part_numbers": [],
+   "quantity": "13 application licenses; Heavy Tail Dispatch and Runway Analysis for 4 aircraft (C101, C102, C103, C104)",
+   "price_usd": 34964.76,
+   "lead_time": null,
+   "sole_source_vendor": "Jeppesen ForeFlight, Inc.",
+   "reason": "Jeppesen ForeFlight is the only provider capable of delivering the required aviation software licenses and support compatible with the USCG's Gulfstream C-37A/B & C-39A aircraft and Honeywell avionics suite.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "USCG Air Station Washington, 1 Reagan National Airport, Hangar 6, Washington, DC 20593",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7246,
+  "out": 375
+ },
+ "model": "claude-sonnet-5"
+}

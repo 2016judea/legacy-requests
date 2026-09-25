@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Chemring Sensors and Electronic Systems, Inc.",
+   "model": "JBTDS (Joint Biological Tactical Detection System)",
+   "part": "Full Rate Production (FRP) of the Joint Biological Tactical Detection System, IDIQ contract for production, QA, testing, configuration management, logistics support and TDP delivery",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 48811629.0,
+   "lead_time": "36-month ordering period",
+   "sole_source_vendor": "Chemring Sensors and Electronic Systems, Inc.",
+   "reason": "CSES is the only source capable of executing all components of the contract.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Chemring Sensors and Electronic Systems, Inc.",
+   "model": "Detector/Collector (D/C)",
+   "part": "houses the detection subsystem and aerosol collector; uses laser induced fluorescence to detect suspicious particulate matter and initiates aerosol sample collection",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Chemring Sensors and Electronic Systems, Inc.",
+   "reason": "CSES is the only source capable of executing all components of the contract.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Chemring Sensors and Electronic Systems, Inc.",
+   "model": "Identifier and Data Station (DS)",
+   "part": "provides remote command, control and communications for a D/C array; consolidates and displays alarms and interfaces with Joint Warning and Reporting Network and CSC2 systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Chemring Sensors and Electronic Systems, Inc.",
+   "reason": "CSES is the only source capable of executing all components of the contract.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Chemring Sensors and Electronic Systems, Inc.",
+   "model": "Consumable Sets",
+   "part": "Single use components\u2014filters, reagents, identification strips and sample vials required for each collection and identification cycle",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Chemring Sensors and Electronic Systems, Inc.",
+   "reason": "CSES is the only source capable of executing all components of the contract.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6952,
+  "out": 1689
+ },
+ "model": "claude-sonnet-5"
+}

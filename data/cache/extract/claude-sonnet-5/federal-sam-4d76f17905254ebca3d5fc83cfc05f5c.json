@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Daedalus Innovations",
+   "model": "Overburden Rock Core Cell Kit",
+   "part": "Overburden Rock Core Cell Kit to assure satisfactory operation of the existing NETL owned GeoSpec 12/53 NMR Rock Core Analyzer",
+   "part_numbers": [
+    "DBCH-10K-150C-4932279-1"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Daedalus Innovations",
+   "reason": "Daedalus Innovations is the only known source that can be used with NETL\ninion's existing GeoSpec 12/53 NMR Rock Core Analyzer.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "National Energy Technology Laboratory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2541,
+  "out": 282
+ },
+ "model": "claude-sonnet-5"
+}

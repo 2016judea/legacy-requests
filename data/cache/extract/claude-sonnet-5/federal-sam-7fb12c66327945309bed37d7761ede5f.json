@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ruckus",
+   "model": "RCS7450",
+   "part": "Power Supply Assembly, 250W AC Power Supply, COTS repackaged, IEC Connector, Araldite Staking",
+   "part_numbers": [
+    "PSA-00659-03"
+   ],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Crystal Group",
+   "reason": "The Government intends to purchase on a firm fixed-price basis, and to solicit and negotiate the proposed purchase order on a sole source basis Crystal Group for items as listed",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "AN/SYY-1",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8080,
+  "out": 244
+ },
+ "model": "claude-sonnet-5"
+}

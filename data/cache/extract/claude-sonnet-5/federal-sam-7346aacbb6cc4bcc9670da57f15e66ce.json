@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Biolog",
+   "model": "Integrated Dual-Mode Microbial Phenotypic Analysis System",
+   "part": "Integrated Dual-Mode Microbial Phenotypic Analysis System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Biolog Inc.",
+   "reason": "Biolog is the only manufacturer of the Integrated Dual-Mode Microbial Phenotypic Analysis System that is uniquely capable of integrating with the FDA's existing maintaining compatibility with phenotypic microarray plates and validated workflows.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3266,
+  "out": 259
+ },
+ "model": "claude-sonnet-5"
+}

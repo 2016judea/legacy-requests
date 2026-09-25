@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Boston Micromachines Corporation",
+   "model": null,
+   "part": "Micro-Electromechanical Systems (MEMS) Deformable Mirror (DM), 137-actuator",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "14 weeks or less",
+   "sole_source_vendor": "Boston Micromachines Corporation",
+   "reason": "Boston Micromachines Corporation is the only vendor capable of providing the required 137-actuator Micro-Electromechanical Systems (MEMS) Deformable Mirror (DM) to support research and development of new Electro-Optical/Infrared (EO/IR) sensing capabilities for hypersonics at the KHILS Laboratory.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "KHILS Laboratory, Eglin Air Force Base, Florida",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4149,
+  "out": 321
+ },
+ "model": "claude-sonnet-5"
+}

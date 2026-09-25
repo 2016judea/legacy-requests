@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "Baker Company Inc",
+   "model": "BiochemGard-4'",
+   "part": "BiochemGard - 4' w/ ducted, UV light, hydraulic lift/stand, and service fixtures",
+   "part_numbers": [
+    "BCG401"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Baker Company Inc",
+   "reason": "Per FAR 8.406(a)(1) Limiting Sources Brandname, only one source is capable of providing.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Baker Company Inc",
+   "model": "BiochemGard-6'",
+   "part": "BiochemGard - 6' w/ ducted, UV light, hydraulic lift/stand, and service fixtures",
+   "part_numbers": [
+    "BCG601"
+   ],
+   "quantity": "7 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Baker Company Inc",
+   "reason": "Per FAR 8.406(a)(1) Limiting Sources Brandname, only one source is capable of providing.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Baker Company Inc",
+   "model": "SterilGard E3 - 4'",
+   "part": "SterilGard E3 - 4' w/ ducted, UV light, hydraulic lift/stand, and service fixtures",
+   "part_numbers": [
+    "404"
+   ],
+   "quantity": "4 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Baker Company Inc",
+   "reason": "Per FAR 8.406(a)(1) Limiting Sources Brandname, only one source is capable of providing.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Baker Company Inc",
+   "model": "SterilGard E3 - 6'",
+   "part": "SterilGard E3 - 6' w/ ducted, UV light, hydraulic lift/stand, and service fixtures",
+   "part_numbers": [
+    "604"
+   ],
+   "quantity": "11 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Baker Company Inc",
+   "reason": "Per FAR 8.406(a)(1) Limiting Sources Brandname, only one source is capable of providing.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2588,
+  "out": 1071
+ },
+ "model": "claude-sonnet-5"
+}

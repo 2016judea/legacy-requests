@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Direct replacement firemain valves as installed on the USS Bulkeley (DDG 84)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "J.A. Moody, LLC",
+   "reason": "hereby publicizes its intention to solicit, negotiate, and award a Commercial, Firm-Fixed-Price purchase order on a noncompetitive basis to J.A. Moody, LLC",
+   "equipment_class": "valve",
+   "installed_location": "USS Bulkeley (DDG 84)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2474,
+  "out": 225
+ },
+ "model": "claude-sonnet-5"
+}

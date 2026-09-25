@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "WATERJET MACHINING CENTER",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "DLA WEAPONS SUPPORT PUGET SOUND/TRF BANGOR intends to issue a sole source solicitation for a Firm-Fixed-Price Contract for qty of 1 - WATERJET MACHINING CENTER.",
+   "equipment_class": "other equipment",
+   "installed_location": "Silverdale, WA",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2264,
+  "out": 422
+ },
+ "model": "claude-sonnet-5"
+}

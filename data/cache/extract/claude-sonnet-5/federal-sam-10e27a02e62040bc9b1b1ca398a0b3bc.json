@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "AAR Mobility Systems",
+   "model": "ISU-96RC",
+   "part": "AAR Mobility Systems Green ISU-96RC Refrigerated Container",
+   "part_numbers": [
+    "50148001"
+   ],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": "180 Days ARO",
+   "sole_source_vendor": "AAR Manufacturing Inc.",
+   "reason": "The Utah Air National Guard (UTANG) intends to negotiate on a Sole Source basis with AAR Manufacturing Inc. for a mobile refrigeration unit ISU-96RC.",
+   "equipment_class": "other equipment",
+   "installed_location": "151 Force Support Squadron (FSS), Utah Air National Guard, Roland R. Wright ANG Base, Salt Lake City, Utah",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4755,
+  "out": 289
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "SaltRiver",
+   "model": "SaltRiver 23",
+   "part": "2027 SaltRiver 23 shallow-draft operations boat",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Gulfshore Manufacturing, Inc - DBA: Young Boats, Inc.",
+   "reason": "Gulfshore Manufacturing, Inc - DBA: Young Boats, Inc. is the only responsible source capable of providing the required supplies/services.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Lower Suwannee National Wildlife Refuge",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2994,
+  "out": 265
+ },
+ "model": "claude-sonnet-5"
+}

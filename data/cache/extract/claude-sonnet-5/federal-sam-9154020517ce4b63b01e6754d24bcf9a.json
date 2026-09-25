@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Fairbanks Morse Defense",
+   "model": null,
+   "part": "MPDE Assembly Cooling Drain Tubes (long lead time material)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Fairbanks Morse Defense",
+   "reason": "The Government intends to solicit and contract with only one source, Fairbanks Morse Defense for the parts listed on the Product Description under the authority of RFO FAR 6.103-1 and 12.102 on a sole source basis.",
+   "equipment_class": "other equipment",
+   "installed_location": "Naval Base San Diego",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5501,
+  "out": 236
+ },
+ "model": "claude-sonnet-5"
+}

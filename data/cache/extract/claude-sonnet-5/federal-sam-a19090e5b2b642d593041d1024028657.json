@@ -1,0 +1,63 @@
+{
+ "records": [
+  {
+   "manufacturer": "GelSight",
+   "model": "GelSight Mobile Series 2 0.5X Shock-protected System",
+   "part": "GelSight Mobile Device (Shock-protected version) with Calibration Kit, Cleaning Kit, Pelican Hard Case, USB to Series 2 Cable",
+   "part_numbers": [
+    "CAL-G520",
+    "BGA D10S20",
+    "GSS-CAL-00014"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GelSight",
+   "reason": "Market research was not able to identify any other sources capable of providing these assets resulting in the Single Source determination.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Misawa Airbase",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GelSight",
+   "model": "GSMobile",
+   "part": "PRO - Perpetual Software License (Proprietary GSMobile software)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GelSight",
+   "reason": "Market research was not able to identify any other sources capable of providing these assets resulting in the Single Source determination.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Misawa Airbase",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GelSight",
+   "model": "GelSight Mobile Series 2",
+   "part": "Low Friction TPE Gel Cartridges (10-pk)",
+   "part_numbers": [
+    "MB012"
+   ],
+   "quantity": "10-pk",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GelSight",
+   "reason": "Market research was not able to identify any other sources capable of providing these assets resulting in the Single Source determination.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Misawa Airbase",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2484,
+  "out": 909
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Boeing Company",
+   "model": "CH-47 Chinook Helicopter Weapon System",
+   "part": "One-Time Buy (OTB) of NSN 1680-001-585-6354 for CH-47 Chinook Helicopter Weapon System",
+   "part_numbers": [
+    "1680-001-585-6354"
+   ],
+   "quantity": "60 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "The Boeing Company (CAGE: 77272)",
+   "reason": "OEM Boeing Company CH-47 Chinook Helicopter Weapon System, Sole Source One-Time Buy (OTB)",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2965,
+  "out": 753
+ },
+ "model": "claude-sonnet-5"
+}

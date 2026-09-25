@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "General Electric Aerospace",
+   "model": "25 Hour Enhanced Airborne Flight Recorder (EAFR) Golden Chassis",
+   "part": "25 Hour Enhanced Airborne Flight Recorder (EAFR) Golden Chassis and associated download equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "General Electric Aerospace (GE)",
+   "reason": "The GE product is proprietary and is not sold through any third-party resellers nor is it available for purchase through any government-wide acquisition vehicles. No other commercially available products are available currently that provide the same functionality.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3558,
+  "out": 272
+ },
+ "model": "claude-sonnet-5"
+}

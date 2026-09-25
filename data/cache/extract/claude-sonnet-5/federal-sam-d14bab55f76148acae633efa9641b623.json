@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "AMD",
+   "model": "Zynq UltraScale+ RFSoC ZCU111 Evaluation Kit",
+   "part": "FPGA evaluation board for quantum network testbed to measure and forward detection events with low latency",
+   "part_numbers": [
+    "EK-U1-ZCU111-G"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "3 months after receipt of order",
+   "sole_source_vendor": null,
+   "reason": "This is a brand name request, as ITL requires this specific evaluation board to be compatible with software that has already been written and developed by our PML colleagues.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NIST ITL's quantum network testbed",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9918,
+  "out": 254
+ },
+ "model": "claude-sonnet-5"
+}

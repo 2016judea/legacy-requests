@@ -1,0 +1,79 @@
+{
+ "records": [
+  {
+   "manufacturer": "R3 Printing",
+   "model": "R3-Ultra",
+   "part": "Industrial 3D printer designed for advanced research and manufacturing applications",
+   "part_numbers": [
+    "R3PTR-0201-U"
+   ],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This is a Brand Name or Equal Requirement.",
+   "equipment_class": "other equipment",
+   "installed_location": "NIOSH Morgantown, 1000 Frederick Lane, Morgantown, West Virginia 26505-2845",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "R3 Printing",
+   "model": "R3-Ultra",
+   "part": "R3 Printer Spare Nozzle 0.8mm or Compatible Spare Nozzle Meeting the Printer Manufacturer's Specifications",
+   "part_numbers": [
+    "R3PTR_NZ_HTHFOBX_0.8mm"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This is a Brand Name or Equal Requirement.",
+   "equipment_class": "other equipment",
+   "installed_location": "NIOSH Morgantown, 1000 Frederick Lane, Morgantown, West Virginia 26505-2845",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "R3 Printing",
+   "model": "R3-Ultra",
+   "part": "R3 Printer Spare Nozzle 0.6mm or Compatible Spare Nozzle Meeting the Printer Manufacturer's Specifications",
+   "part_numbers": [
+    "R3PTR_NZ_HTHFOBX_0.6mm"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This is a Brand Name or Equal Requirement.",
+   "equipment_class": "other equipment",
+   "installed_location": "NIOSH Morgantown, 1000 Frederick Lane, Morgantown, West Virginia 26505-2845",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "R3 Printing",
+   "model": "R3-Ultra",
+   "part": "R3 Printer Spare Build Plate or Compatible Build Plate Meeting the Printer Manufacturer's Specifications",
+   "part_numbers": [
+    "R3PTR_BP_0201_MHAC"
+   ],
+   "quantity": "2 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This is a Brand Name or Equal Requirement.",
+   "equipment_class": "other equipment",
+   "installed_location": "NIOSH Morgantown, 1000 Frederick Lane, Morgantown, West Virginia 26505-2845",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7639,
+  "out": 1519
+ },
+ "model": "claude-sonnet-5"
+}

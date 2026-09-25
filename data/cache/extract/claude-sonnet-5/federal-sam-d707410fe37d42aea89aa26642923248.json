@@ -1,0 +1,85 @@
+{
+ "records": [
+  {
+   "manufacturer": "Beckman Coulter",
+   "model": null,
+   "part": "Instrumentation, reagents, supplies and services to perform Clinical Laboratory Chemistry, Immunochemistry, Chemiluminescent and Hematology Testing on an automation line with auto-verification",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Beckman Coulter, LLC",
+   "reason": "This sole source contract will be solicited and negotiated with Beckman Coulter, LLC under the authority of FAR 13.106-1 \u2013 Single Source Justification.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Wilkes-Barre VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Remisol Advance",
+   "part": "Auto verification software requiring maintaining and adding rules for the current instruments and new instruments added to the automation line",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Must support the current auto verification software in use at the WBVAMC which requires maintaining and adding rules for both the Remisol Advance software and Data Innovations Instrument Manager wrapper rules for the current instruments.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Wilkes-Barre VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Data Innovations",
+   "model": "Instrument Manager",
+   "part": "Middleware wrapper rules support for current and new instruments on the automation line, including support to write new rules and troubleshoot issues",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "There must be Data Innovations support included to assist in writing new rules for newly added instrumentation and for troubleshooting any issues that may occur that could break current rules.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Wilkes-Barre VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Automated refrigerated stockyard/automation line holding at least 10000 samples with large input module and automated specimen retrieval",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "It must contain an automated refrigerated stockyard that holds at least 10000 samples.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Wilkes-Barre VA Medical Center",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Primary chemistry and immunochemistry analyzers (2 primary analyzers for Chemistry and 2 primary analyzers for Immunochemistry)",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "2 primary analyzers for Chemistry and 2 primary analyzers for Immunochemistry.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Wilkes-Barre VA Medical Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6500,
+  "out": 1105
+ },
+ "model": "claude-sonnet-5"
+}

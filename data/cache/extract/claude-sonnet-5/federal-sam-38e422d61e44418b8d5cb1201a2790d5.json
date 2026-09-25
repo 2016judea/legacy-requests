@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "The Boeing Company",
+   "model": "AH-64E Apache",
+   "part": "Procurement of up to twelve (12) AH-64E Apache Attack Helicopter aircraft, including remanufacture and obsolescence mitigation for critical electronic components",
+   "part_numbers": [],
+   "quantity": "up to 12",
+   "price_usd": null,
+   "lead_time": "53-month effort",
+   "sole_source_vendor": "The Boeing Company",
+   "reason": "The Boeing Company is the sole designer, developer, manufacturer, and system integrator of the AH-64 Apache aircraft.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Management and mitigation of obsolescence for critical electronic components, including redesign and qualification efforts",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "The Boeing Company",
+   "reason": "The technical scope includes the remanufacture of up to 12 Apache aircraft, and management and mitigation of obsolescence for critical electronic components, including redesign and qualification efforts.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2981,
+  "out": 433
+ },
+ "model": "claude-sonnet-5"
+}

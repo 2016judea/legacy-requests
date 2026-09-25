@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "QST Lab",
+   "model": "TCS 2.2",
+   "part": "Thermal Stimulator System and Associated Components",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "QST Lab",
+   "reason": "THIS IS A PRE-SOLICITATION NON-COMPETITIVE (NOTICE OF INTENT) SYNOPSIS TO AWARD A CONTRACT OR PURCHASE ORDER WITHOUT PROVIDING FOR FULL OR OPEN COMPETITION (INCLUDING BRAND-NAME)",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3548,
+  "out": 262
+ },
+ "model": "claude-sonnet-5"
+}

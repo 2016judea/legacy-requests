@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "URW375/URW376",
+   "part": "Compact mini crawler cranes/spider cranes for CV-22 aircraft maintenance lifting operations",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "120 calendar days",
+   "sole_source_vendor": null,
+   "reason": "The brand-name reference is SpyderCrane URW375/URW376 or equal. The brand name is used to describe the configuration, quality, compact transportability, lift performance, controls, safety systems, accessory compatibility, field-operating capability, and supportability required to satisfy the Government's aircraft maintenance mission.",
+   "equipment_class": "other equipment",
+   "installed_location": "614 Liberator Avenue, Building 208, Cannon AFB, NM 88101",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Single-person, boom-tip-mounted work platform",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "All accessories shall be compatible with and approved by the crane original equipment manufacturer and shall not invalidate or reduce crane certification, safety rating, rated lifting capability, or warranty coverage.",
+   "equipment_class": "other equipment",
+   "installed_location": "Cannon AFB, NM",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Heavy-duty protective crane covers in tan",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "All accessories shall be compatible with and approved by the crane original equipment manufacturer and shall not invalidate or reduce crane certification, safety rating, rated lifting capability, or warranty coverage.",
+   "equipment_class": "other equipment",
+   "installed_location": "Cannon AFB, NM",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "MEL AIR",
+   "model": null,
+   "part": "Non-marking tracks suitable for aircraft maintenance and hangar environments",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "MEL AIR or equivalent non-marking tracks suitable for aircraft maintenance and hangar flooring.",
+   "equipment_class": "other equipment",
+   "installed_location": "Cannon AFB, NM",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Hydraulic tilt-deck trailer",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The hydraulic tilt-deck trailer shall be sized and rated for safe transportation of the offered crane and the associated accessories.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Cannon AFB, NM",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Track mats",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The trailer shall include all necessary tie-down points, ramps or hydraulic loading components, and track mats identified in the pricing schedule.",
+   "equipment_class": "other equipment",
+   "installed_location": "Cannon AFB, NM",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "URW375/URW376",
+   "part": "Two-year spare-parts and maintenance-support package",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "Two-year",
+   "sole_source_vendor": null,
+   "reason": "The contractor shall provide replacement/repair parts availability, technical-support contact information, maintenance/service support, operating and maintenance manuals, safety documentation, illustrated parts information, and the two-year spare-parts and maintenance-support package identified in the pricing schedule.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Cannon AFB, NM",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12675,
+  "out": 1429
+ },
+ "model": "claude-sonnet-5"
+}

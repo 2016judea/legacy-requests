@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Panel, Fault-Functio",
+   "part_numbers": [
+    "70902-01110-049"
+   ],
+   "quantity": "67 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Sikorsky Aircraft Corporation",
+   "reason": "Available from only one or limited number of sources.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3517,
+  "out": 310
+ },
+ "model": "claude-sonnet-5"
+}

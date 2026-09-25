@@ -1,0 +1,33 @@
+{
+ "records": [
+  {
+   "manufacturer": "Mission Systems Davenport, Inc.",
+   "model": null,
+   "part": "Repair services for KC-135 Inflight Refueling Shroud",
+   "part_numbers": [
+    "1680-01-441-6921",
+    "1680-01-441-6921FL",
+    "400671-4"
+   ],
+   "quantity": "10ea per option year",
+   "price_usd": 723833,
+   "lead_time": null,
+   "sole_source_vendor": "Mission Systems Davenport, Inc.",
+   "reason": "This item is repaired directly by the Original Equipment manufacturer (OEM) Mission Systems Inc. who is the only company with the special tooling/equipment, personnel and technical data to satisfy the USAF's needs.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6738,
+  "out": 262
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ingersoll Rand",
+   "model": "2000E25-P",
+   "part": "Brand Name Ingersoll Rand Air Compressor - purchase and installation of two 25HP Reciprocating Air Compressors, 120-Gallon Tank",
+   "part_numbers": [
+    "2000E25-P"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This requirement is a Brand Name procurement of two Ingersoll Rand replacement air compressors used in performing aircraft maintenance in Hangar 514 and Hangar 518.",
+   "equipment_class": "other equipment",
+   "installed_location": "Hangar 514 and Hangar 518",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 13454,
+  "out": 264
+ },
+ "model": "claude-sonnet-5"
+}

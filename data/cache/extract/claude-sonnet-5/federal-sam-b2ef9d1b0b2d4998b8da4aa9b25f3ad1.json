@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Sexton Corporation",
+   "model": null,
+   "part": "Underwater stereo camera units for use on bottom trawl survey",
+   "part_numbers": [],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "The Sexton Corporation",
+   "reason": "Sexton underwater cameras utilize an open-source image acquisition protocol which is compatible with existing data analysis software in use by AFSC research teams.",
+   "equipment_class": "other equipment",
+   "installed_location": "Alaska Fisheries Science Center",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4055,
+  "out": 204
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Novacene Photonics Limited",
+   "model": "Equinox18W",
+   "part": "Equinox18W, 532nm, Low-Noise, Single-Frequency, Continuous-Wave, Diode-Pumped Solid-State Laser",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "20 weeks",
+   "sole_source_vendor": "Novacene Photonics Limited",
+   "reason": "Novacene is the sole authorized service provider for legacy M Squared laser systems.",
+   "equipment_class": "other equipment",
+   "installed_location": "U.S. Army Research Laboratory, 2800 Powder Mill Road, Adelphi, MD 20783",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Novacene Photonics Limited",
+   "model": "Variable Pump Pick Off Module for SolsTiS",
+   "part": "Variable Pump Pick Off Module for SolsTiS - Provides access to Equinox output when Equinox is used to pump a SolsTiS",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "20 weeks",
+   "sole_source_vendor": "Novacene Photonics Limited",
+   "reason": "Novacene is the sole authorized service provider for legacy M Squared laser systems.",
+   "equipment_class": "other equipment",
+   "installed_location": "U.S. Army Research Laboratory, 2800 Powder Mill Road, Adelphi, MD 20783",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Novacene Photonics Limited",
+   "model": null,
+   "part": "Integration Kit - Includes required integration components for Equinox pump laser and VPPO",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "20 weeks",
+   "sole_source_vendor": "Novacene Photonics Limited",
+   "reason": "Novacene is the sole authorized service provider for legacy M Squared laser systems.",
+   "equipment_class": "other equipment",
+   "installed_location": "U.S. Army Research Laboratory, 2800 Powder Mill Road, Adelphi, MD 20783",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Onsite Engineer Visit - 3-day onsite engineer visit to integrate Equinox, VPPO and recommission EMM1950 and ECD-X modules",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "20 weeks",
+   "sole_source_vendor": "Novacene Photonics Limited",
+   "reason": "Novacene is the sole authorized service provider for legacy M Squared laser systems.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "U.S. Army Research Laboratory, 2800 Powder Mill Road, Adelphi, MD 20783",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7289,
+  "out": 2325
+ },
+ "model": "claude-sonnet-5"
+}

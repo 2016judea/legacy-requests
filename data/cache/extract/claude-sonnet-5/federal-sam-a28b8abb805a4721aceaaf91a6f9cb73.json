@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Azure Biosystems, Inc.",
+   "model": "Azure 300",
+   "part": "Gel/Membrane Digital Imager and Analysis System, with color trans-white light table bundle, image analysis software, and shipping",
+   "part_numbers": [
+    "AZI300-01"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "within 90 days of award",
+   "sole_source_vendor": "Azure Biosystems, Inc.",
+   "reason": "Market research indicates that Azure Biosystems is the only known manufacturer capable of providing a digital imager that meets all agency baseline specifications",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "USDA, ARS, NADC, 1920 Dayton AVE, BLDG 24, P. O. BOX 70, AMES, IA 50010",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3657,
+  "out": 291
+ },
+ "model": "claude-sonnet-5"
+}

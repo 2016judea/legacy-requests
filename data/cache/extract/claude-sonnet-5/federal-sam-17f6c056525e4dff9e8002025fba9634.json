@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Thoren",
+   "model": "Maxi-Miser Caging System",
+   "part": "Brand Name or Equal - Thoren Maxi-Miser Research Animal Caging System",
+   "part_numbers": [
+    "9-126-9-14-1-4-5TMGB"
+   ],
+   "quantity": "1.00 EA",
+   "price_usd": null,
+   "lead_time": "60 DAY ARO",
+   "sole_source_vendor": null,
+   "reason": "You also must be an Authorized Distributor for Thoren OR an Authorized Distributor for the manufacture of an equal product if not the manufacture.",
+   "equipment_class": "other equipment",
+   "installed_location": "Iowa City VA Health Care System, 601 Highway 6 West, Iowa City, IA 52246",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8129,
+  "out": 264
+ },
+ "model": "claude-sonnet-5"
+}

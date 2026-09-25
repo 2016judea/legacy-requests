@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Fire Station Alerting System (FSA) equipment and associated materials",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Westnet, LLC",
+   "reason": "The Government intends to negotiate solely with BNC Corp. under the authority of 41 U.S.C. 1901 as implemented by FAR (Overhaul) 12.102.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2699,
+  "out": 282
+ },
+ "model": "claude-sonnet-5"
+}

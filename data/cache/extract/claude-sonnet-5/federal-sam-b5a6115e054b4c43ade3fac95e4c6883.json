@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Klein Marine Systems, Inc.",
+   "model": "Klein 5900 v1 and v2 side scan sonar system",
+   "part": "Armored side scan sonar cable, 0.40-inch BHD, 350 meters",
+   "part_numbers": [
+    "14104200-350M"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Klein Marine Systems, Inc.",
+   "reason": "The Government is not aware of any other source reasonably available that can provide the required cable and termination kit at the level of compatibility and performance required for the existing Klein 5900 v1 and v2 side scan sonar system.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NOAA Ship THOMAS JEFFERSON",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Klein Marine Systems, Inc.",
+   "model": "Klein 5900 v1 and v2 side scan sonar system",
+   "part": "Cable termination kit, BHD armored coax 0.40-inch",
+   "part_numbers": [
+    "14102947"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Klein Marine Systems, Inc.",
+   "reason": "The Government is not aware of any other source reasonably available that can provide the required cable and termination kit at the level of compatibility and performance required for the existing Klein 5900 v1 and v2 side scan sonar system.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NOAA Ship THOMAS JEFFERSON",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3300,
+  "out": 582
+ },
+ "model": "claude-sonnet-5"
+}

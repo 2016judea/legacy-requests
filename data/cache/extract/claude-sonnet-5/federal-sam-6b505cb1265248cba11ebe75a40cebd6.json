@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Plates Ctip Polymer Size-A Format Ao (Extra Large Panel)",
+   "part_numbers": [
+    "2EG01287"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA (KBBS)",
+   "reason": "The Government intends to award a sole source contract utilizing a Justification and Approval in accordance with FAR 13.106-1(b).",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2437,
+  "out": 209
+ },
+ "model": "claude-sonnet-5"
+}

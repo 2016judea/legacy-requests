@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Milpower Source",
+   "model": null,
+   "part": "UPS Battery Pack",
+   "part_numbers": [
+    "M356380"
+   ],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "HYTECH ASSOCIATES, INC.",
+   "reason": "NIWC Pacific intends to award a firm fixed price purchase order on a sole source basis to HYTECH ASSOCIATES, INC.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2366,
+  "out": 197
+ },
+ "model": "claude-sonnet-5"
+}

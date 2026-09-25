@@ -1,0 +1,129 @@
+{
+ "records": [
+  {
+   "manufacturer": "GEOTEK Ltd.",
+   "model": "MSCL-S",
+   "part": "Multi-Sensor Core Logger (MSCL) Acquisition PC (Windows 11)",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GEOTEK Ltd.",
+   "reason": "the parts for upgrades must be obtained from GEOTEK Ltd. for compatibility and warranty purposes",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NETL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEOTEK Ltd.",
+   "model": "MSCL-S (MS2C)",
+   "part": "Additional magnetic susceptibility loop sensor for MSCL-S",
+   "part_numbers": [
+    "MS2C"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GEOTEK Ltd.",
+   "reason": "the parts for upgrades must be obtained from GEOTEK Ltd. for compatibility and warranty purposes",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NETL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEOTEK Ltd.",
+   "model": "MSCL-S",
+   "part": "MSCL Electronics",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GEOTEK Ltd.",
+   "reason": "the parts for upgrades must be obtained from GEOTEK Ltd. for compatibility and warranty purposes",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NETL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEOTEK Ltd.",
+   "model": "ARC",
+   "part": "Pair of ARC P-wave Transducers for whole plastic-lined unconsolidated sediment cores",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GEOTEK Ltd.",
+   "reason": "the parts for upgrades must be obtained from GEOTEK Ltd. for compatibility and warranty purposes",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NETL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEOTEK Ltd.",
+   "model": null,
+   "part": "Core Boats for Rock Core Logging PQ and HQ (1 each)",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GEOTEK Ltd.",
+   "reason": "the parts for upgrades must be obtained from GEOTEK Ltd. for compatibility and warranty purposes",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NETL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEOTEK Ltd.",
+   "model": "MSCL-S / MSCL-SXZ",
+   "part": "Gamma Density Measurement System - Cs-137 Source for MSCL-S and MSCL-SXZ",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GEOTEK Ltd.",
+   "reason": "the parts for upgrades must be obtained from GEOTEK Ltd. for compatibility and warranty purposes",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NETL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEOTEK Ltd.",
+   "model": "MKII / MSCL-S / MSCL-SXZ",
+   "part": "Gamma Density Measurement System (MKII) - Detector for MSCL-S and MSCL-SXZ",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GEOTEK Ltd.",
+   "reason": "the parts for upgrades must be obtained from GEOTEK Ltd. for compatibility and warranty purposes",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NETL",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "GEOTEK Ltd.",
+   "model": "MSCL-S",
+   "part": "Installation and Training: Geotek will provide 1 installation engineer who will come to site for 3 working days",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "GEOTEK Ltd.",
+   "reason": "these upgrades require integration with GEOTEK proprietary hardware and software. No other vendors have access to this proprietary technology or the source code required to interface new components with the legacy system.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "NETL",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2956,
+  "out": 2067
+ },
+ "model": "claude-sonnet-5"
+}

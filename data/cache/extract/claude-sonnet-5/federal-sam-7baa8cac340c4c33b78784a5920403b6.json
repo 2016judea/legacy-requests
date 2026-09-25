@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Northrop Grumman Systems Corporation",
+   "model": null,
+   "part": "30mm chain-fed automatic guns in varying configurations with associated spare parts and special tools, and 30mm gun specific engineering services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 150000000,
+   "lead_time": null,
+   "sole_source_vendor": "Northrop Grumman Systems Corporation",
+   "reason": "This action is being sole sourced because NORTHROP GRUMMAN SYSTEMS CORPORATION is the only known source which has the capability to produce the 30mm guns needed.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3416,
+  "out": 240
+ },
+ "model": "claude-sonnet-5"
+}

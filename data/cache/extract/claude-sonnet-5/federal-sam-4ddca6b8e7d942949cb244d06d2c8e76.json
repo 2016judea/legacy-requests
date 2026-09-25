@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Toptica Photonics Inc",
+   "model": "TOPO (Tunable Optical Parametric Oscillator) with DLC pro",
+   "part": "Tunable Optical Parametric Oscillator (TOPO) with all-digital control electronics (DLC pro), High power (HP) variant and parts",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Toptica Photonics Inc",
+   "reason": "The name of the company the Government intends to award a contract to is Toptica Photonics Inc (CAGE: 3DFK4) located at 1120 Pittsford Victor Rd, Pittsford, NY 14534.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "White Sands Missile Range, NM 88002",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9377,
+  "out": 293
+ },
+ "model": "claude-sonnet-5"
+}

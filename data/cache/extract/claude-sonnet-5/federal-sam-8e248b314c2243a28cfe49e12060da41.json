@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "MTS 3060A",
+   "part": "F-16 SmartCan",
+   "part_numbers": [
+    "MTS 3060A"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "only one source being capable of providing the supplies or services required at the level of quality required because the supplies or services are unique or highly specialized",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2596,
+  "out": 169
+ },
+ "model": "claude-sonnet-5"
+}

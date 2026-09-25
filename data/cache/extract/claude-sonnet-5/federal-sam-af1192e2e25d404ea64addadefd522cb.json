@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Combination 360 seam gauge system (Hardware + Core Operating SW) capable of measuring seam thickness and countersink depth of metal food containers",
+   "part_numbers": [],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The Government will consider equipment that meets these requirements and provides comparable brand name functionality.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "U.S. Food and Drug Administration Laboratory, 6502 S. Archer Road, Bedford Park, IL 60501",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "On-site Installation of the 360-degree combination seam gauge system",
+   "part_numbers": [],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Deliver and install the system at the designated FDA laboratory",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "U.S. Food and Drug Administration Laboratory, 6502 S. Archer Road, Bedford Park, IL 60501",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Operator & Maintenance Training for the seam gauge system",
+   "part_numbers": [],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Provide on-site training for Government personnel on system operation, maintenance, and basic troubleshooting",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "U.S. Food and Drug Administration Laboratory, 6502 S. Archer Road, Bedford Park, IL 60501",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Standard 12-Month Warranty (Parts & Labor) Included for the seam gauge system",
+   "part_numbers": [],
+   "quantity": "1 each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "A minimum one (1) year manufacturer warranty covering parts, labor, and travel",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "U.S. Food and Drug Administration Laboratory, 6502 S. Archer Road, Bedford Park, IL 60501",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8796,
+  "out": 2461
+ },
+ "model": "claude-sonnet-5"
+}

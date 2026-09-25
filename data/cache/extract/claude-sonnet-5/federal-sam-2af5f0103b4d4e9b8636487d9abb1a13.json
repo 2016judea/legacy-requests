@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "EC Cypres-2 1-Pin Changeable- w/LTM",
+   "part": "Military CYPRES (Cybernetic Parachute Release System) Automatic Activation Device",
+   "part_numbers": [],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "only one source being capable of providing the supplies or services required at the level of quality required because the supplies or services are unique or highly specialized",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "EC Cypres Data Collector",
+   "part": "Military EC Cypres Data Collector for Automatic Activation Device system",
+   "part_numbers": [],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "only one source being capable of providing the supplies or services required at the level of quality required because the supplies or services are unique or highly specialized",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "EC Cypres IR Remote",
+   "part": "Military EC Cypres IR Remote for Automatic Activation Device system",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "only one source being capable of providing the supplies or services required at the level of quality required because the supplies or services are unique or highly specialized",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2592,
+  "out": 699
+ },
+ "model": "claude-sonnet-5"
+}

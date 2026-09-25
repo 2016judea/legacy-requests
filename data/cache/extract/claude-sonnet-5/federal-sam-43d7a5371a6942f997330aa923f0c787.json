@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "ScanWave Pro",
+   "part": "Scanning Microwave Impedance Microscopy (sMIM) electronic controller to integrate with Government-owned Vero AFM via ScanWave 2.0 Probe Interface module",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Primenano, Inc.",
+   "reason": "if there are alternative sources that are capable and interested in competing to fill this requirement, separate and apart from Primenano, Inc. (UEI: K2RLBZKD2CX7) then NIST will consider conducting a competitive acquisition",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4441,
+  "out": 312
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "L3Harris",
+   "model": "AN/PRC-160(V)1",
+   "part": "Manpack Radio, HF/VHF, 4G ALE, NSA crypto-modernization compliant",
+   "part_numbers": [
+    "AN/PRC-160(V)1"
+   ],
+   "quantity": "8",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "L3Harris Technologies, Inc.",
+   "reason": "L3Harris Technologies, Inc is the only company that provides the required items to support the agency needs.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "L3Harris",
+   "model": "AN/PRC-117G(V)1(C)",
+   "part": "Manpack Radio covering VHF/UHF/SATCOM with MUOS and ANW2 support",
+   "part_numbers": [
+    "AN/PRC-117G(V)1(C)"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "L3Harris Technologies, Inc.",
+   "reason": "the L3Harris AN/PRC-117G(V)1(C)s is the only product available that covers a required frequency range (512-2000)MHz that covers VHF, UHF, and SATCOM as well as support for Mobile User Objective System (MUOS) and Adaptive Networking Wideband Waveform (ANW2).",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5633,
+  "out": 503
+ },
+ "model": "claude-sonnet-5"
+}

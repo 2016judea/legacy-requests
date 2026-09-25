@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Vence",
+   "model": "Base Station, Solar, 24V, US (Self-Install and Assisted-Install Models)",
+   "part": "Proprietary Vence Solar 24V US Base Stations for Virtual Fence containment of livestock",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Vence Corp",
+   "reason": "Vence is the sole proprietor of the closed-source software required to communicate with and control the active livestock collar fleet deployed across the region. Alternative hardware cannot run this software.",
+   "equipment_class": "other equipment",
+   "installed_location": "western states Forest Service districts",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2807,
+  "out": 243
+ },
+ "model": "claude-sonnet-5"
+}

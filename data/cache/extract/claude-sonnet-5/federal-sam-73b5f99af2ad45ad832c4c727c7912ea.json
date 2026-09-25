@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Detroit Diesel",
+   "model": "8V92",
+   "part": "Mechanical engine and radiator repair for P-23 Crash Fire Truck",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "377 Civil Engineering Squadron's (CES)/ Fire Department (FD) requires a mechanical engine- Detroit Diesel- 8V92 engine and radiator repair for P-23 Crash Fire Truck 96L00042.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "Kirtland Air Force Base (KAFB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2417,
+  "out": 244
+ },
+ "model": "claude-sonnet-5"
+}

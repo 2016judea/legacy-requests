@@ -1,0 +1,103 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "MEC-AZ-20",
+   "part": "Azimuth Antenna Positioner (Azimuth Rotary Positioner) for Cylindrical Near-Field measurement system",
+   "part_numbers": [
+    "MEC-AZ-20"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "90 days after receipt of order",
+   "sole_source_vendor": "NSI-MI TECHNOLOGIES INC.",
+   "reason": "This acquisiiton is conducted under the authority of FAR 6.302-1, Only One Responsible Source.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Tobyhanna Army Depot, Tobyhanna, PA 18466",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "ELE-ARC",
+   "part": "Antenna Range Controllers",
+   "part_numbers": [
+    "ELE-ARC"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "90 days after receipt of order",
+   "sole_source_vendor": "NSI-MI TECHNOLOGIES INC.",
+   "reason": "This acquisiiton is conducted under the authority of FAR 6.302-1, Only One Responsible Source.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Tobyhanna Army Depot, Tobyhanna, PA 18466",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Equipment controller (workstation) for CNF measurement system",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "90 days after receipt of order",
+   "sole_source_vendor": "NSI-MI TECHNOLOGIES INC.",
+   "reason": "This acquisiiton is conducted under the authority of FAR 6.302-1, Only One Responsible Source.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Tobyhanna Army Depot, Tobyhanna, PA 18466",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Sets of required cabling including motor cables, power cables, and V35 to ARC cables",
+   "part_numbers": [],
+   "quantity": "2 sets",
+   "price_usd": null,
+   "lead_time": "90 days after receipt of order",
+   "sole_source_vendor": "NSI-MI TECHNOLOGIES INC.",
+   "reason": "This acquisiiton is conducted under the authority of FAR 6.302-1, Only One Responsible Source.",
+   "equipment_class": "other equipment",
+   "installed_location": "Tobyhanna Army Depot, Tobyhanna, PA 18466",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Modular/mobile RF absorber paneling and absorber structure for fixture/rotary positioner reflection mitigation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "90 days after receipt of order",
+   "sole_source_vendor": "NSI-MI TECHNOLOGIES INC.",
+   "reason": "This acquisiiton is conducted under the authority of FAR 6.302-1, Only One Responsible Source.",
+   "equipment_class": "other equipment",
+   "installed_location": "Tobyhanna Army Depot, Tobyhanna, PA 18466",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Perpetual, lifetime license for the Cylindrical Near-Field (CNF) measurement software, including license keys and hardware dongles",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "NSI-MI TECHNOLOGIES INC.",
+   "reason": "This acquisiiton is conducted under the authority of FAR 6.302-1, Only One Responsible Source.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Tobyhanna Army Depot, Tobyhanna, PA 18466",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6548,
+  "out": 2413
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Teledyne Instruments",
+   "model": null,
+   "part": "Thermistor Connectors",
+   "part_numbers": [
+    "6029575-201"
+   ],
+   "quantity": "30 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Teledyne Instruments, INC",
+   "reason": "This is being sole sourced because only Teledyne has met this requirement and are currently qualified to build the connectors.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8398,
+  "out": 179
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,127 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ciao Wireless",
+   "model": null,
+   "part": "Power Amplifier",
+   "part_numbers": [
+    "CA818-465E"
+   ],
+   "quantity": "6 (Base Year), 10 (Option Year 1), 12 (Option Year 2)",
+   "price_usd": null,
+   "lead_time": "120 after date of contract (ADC) or sooner",
+   "sole_source_vendor": "Ciao Wireless Inc.",
+   "reason": "Ciao Wireless is the only qualified source capable of producing these components to meet all the functional and performance parameters required within the Government\\u2019s infrastructure.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ciao Wireless",
+   "model": null,
+   "part": "Power Amplifier",
+   "part_numbers": [
+    "CA18-347E"
+   ],
+   "quantity": "6 (Base Year), 10 (Option Year 1), 12 (Option Year 2)",
+   "price_usd": null,
+   "lead_time": "120 after date of contract (ADC) or sooner",
+   "sole_source_vendor": "Ciao Wireless Inc.",
+   "reason": "Ciao Wireless is the only qualified source capable of producing these components to meet all the functional and performance parameters required within the Government\\u2019s infrastructure.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ciao Wireless",
+   "model": null,
+   "part": "Power Amplifier",
+   "part_numbers": [
+    "CA818-459E"
+   ],
+   "quantity": "5 (Base Year), 5 (Option Year 1), 5 (Option Year 2)",
+   "price_usd": null,
+   "lead_time": "120 after date of contract (ADC) or sooner",
+   "sole_source_vendor": "Ciao Wireless Inc.",
+   "reason": "Ciao Wireless is the only qualified source capable of producing these components to meet all the functional and performance parameters required within the Government\\u2019s infrastructure.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ciao Wireless",
+   "model": null,
+   "part": "Power Amplifier",
+   "part_numbers": [
+    "CA18-344E"
+   ],
+   "quantity": "5 (Base Year), 5 (Option Year 1), 5 (Option Year 2)",
+   "price_usd": null,
+   "lead_time": "120 after date of contract (ADC) or sooner",
+   "sole_source_vendor": "Ciao Wireless Inc.",
+   "reason": "Ciao Wireless is the only qualified source capable of producing these components to meet all the functional and performance parameters required within the Government\\u2019s infrastructure.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ciao Wireless",
+   "model": null,
+   "part": "Power Amplifier",
+   "part_numbers": [
+    "CA18-445E2"
+   ],
+   "quantity": "2 (Base Year), 5 (Option Year 1), 10 (Option Year 2)",
+   "price_usd": null,
+   "lead_time": "120 after date of contract (ADC) or sooner",
+   "sole_source_vendor": "Ciao Wireless Inc.",
+   "reason": "Ciao Wireless is the only qualified source capable of producing these components to meet all the functional and performance parameters required within the Government\\u2019s infrastructure.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ciao Wireless",
+   "model": null,
+   "part": "Power Amplifier",
+   "part_numbers": [
+    "CA818-565E2"
+   ],
+   "quantity": "2 (Base Year), 5 (Option Year 1), 10 (Option Year 2)",
+   "price_usd": null,
+   "lead_time": "120 after date of contract (ADC) or sooner",
+   "sole_source_vendor": "Ciao Wireless Inc.",
+   "reason": "Ciao Wireless is the only qualified source capable of producing these components to meet all the functional and performance parameters required within the Government\\u2019s infrastructure.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Ciao Wireless",
+   "model": null,
+   "part": "Power Amplifier",
+   "part_numbers": [
+    "CLA218-643"
+   ],
+   "quantity": "5 (Base Year), 8 (Option Year 1), 10 (Option Year 2)",
+   "price_usd": null,
+   "lead_time": "120 after date of contract (ADC) or sooner",
+   "sole_source_vendor": "Ciao Wireless Inc.",
+   "reason": "Ciao Wireless is the only qualified source capable of producing these components to meet all the functional and performance parameters required within the Government\\u2019s infrastructure.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5010,
+  "out": 2901
+ },
+ "model": "claude-sonnet-5"
+}

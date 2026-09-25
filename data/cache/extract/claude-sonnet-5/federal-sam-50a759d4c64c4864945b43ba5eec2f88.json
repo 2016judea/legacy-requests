@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "3D DIC System (Cameras, Controller, Software, and Workstation)",
+   "part_numbers": [],
+   "quantity": "1 System",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Park Seungbae",
+   "reason": "only one can provide a commercial system providing integrated environmental chambers and a projector system necessary for in-situ 3D measurements required to study warpage and strain during long-term aging",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Gaithersburg, Maryland campus",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Mid-size Environmental Chamber",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Park Seungbae",
+   "reason": "only one can provide a commercial system providing integrated environmental chambers and a projector system necessary for in-situ 3D measurements required to study warpage and strain during long-term aging",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Gaithersburg, Maryland campus",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Small-Size Environmental Chamber",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Park Seungbae",
+   "reason": "only one can provide a commercial system providing integrated environmental chambers and a projector system necessary for in-situ 3D measurements required to study warpage and strain during long-term aging",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Gaithersburg, Maryland campus",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4095,
+  "out": 872
+ },
+ "model": "claude-sonnet-5"
+}

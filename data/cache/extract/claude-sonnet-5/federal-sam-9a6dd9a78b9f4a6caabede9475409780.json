@@ -1,0 +1,61 @@
+{
+ "records": [
+  {
+   "manufacturer": "Raytheon",
+   "model": null,
+   "part": "LRU-8 Electrical Limiter (BIT Limiter) for AN/ALQ-172 Phased Array Antenna System",
+   "part_numbers": [
+    "G234624-1"
+   ],
+   "quantity": "133",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Raytheon Company",
+   "reason": "This agency's minimum needs can only be satisfied by the unique supplies available from Raytheon as identified on the design requirements and Source Control Drawings (SCD).",
+   "equipment_class": "other equipment",
+   "installed_location": "B-52H Aircraft",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Raytheon",
+   "model": null,
+   "part": "LRU-8 Frequency (Down) Converter for AN/ALQ-172 Phased Array Antenna System",
+   "part_numbers": [
+    "G234623-1"
+   ],
+   "quantity": "69",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Raytheon Company",
+   "reason": "This agency's minimum needs can only be satisfied by the unique supplies available from Raytheon as identified on the design requirements and Source Control Drawings (SCD).",
+   "equipment_class": "other equipment",
+   "installed_location": "B-52H Aircraft",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Raytheon",
+   "model": null,
+   "part": "LRU-7 Countermeasures Converter Power Supply for AN/ALQ-172 ECM System",
+   "part_numbers": [],
+   "quantity": "40",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Raytheon Company",
+   "reason": "This agency's minimum needs can only be satisfied by the unique supplies available from Raytheon as identified on the design requirements and Source Control Drawings (SCD).",
+   "equipment_class": "other equipment",
+   "installed_location": "B-52H Aircraft",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6365,
+  "out": 1308
+ },
+ "model": "claude-sonnet-5"
+}

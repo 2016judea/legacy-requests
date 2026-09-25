@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Oil and Sample Kit",
+   "part_numbers": [
+    "1650-017187973"
+   ],
+   "quantity": "EAD:756; 5-Year Qty:3,780",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Spectro Scientific Inc",
+   "reason": "AMC3. Acquire, for the second or subsequent time, directly from the manufacturer.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7448,
+  "out": 181
+ },
+ "model": "claude-sonnet-5"
+}

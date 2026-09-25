@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Foss Therapy Services, Inc.",
+   "model": "484F-C",
+   "part": "Cobalt-60 reload (turn-key source reload) of Foss Therapy Model 484F-C Cobalt-60 Irradiator",
+   "part_numbers": [],
+   "quantity": "approximately 20,000 Curies of Cobalt-60",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foss Therapy Services, Inc.",
+   "reason": "Foss Therapy Services Inc. manufactured and installed the irradiator and they are the only company qualified to perform the reload. Foss Therapy is the only company that performs this service on this model of machine.",
+   "equipment_class": "other equipment",
+   "installed_location": "Phoenix Rearing Facility (PRF), Phoenix, Arizona",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Foss Therapy Services, Inc.",
+   "model": "484F-C",
+   "part": "Preventive maintenance of operational and safety systems, interlock testing, and verification on Foss Therapy Model 484F-C Cobalt-60 Irradiator",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Foss Therapy Services, Inc.",
+   "reason": "Foss Therapy is the original manufacturer and the only entity authorized by both the Nuclear Regulatory Commission (NRC) and the California Radiologic Health Branch (CRHB) to work on the shielding and source\u2011related components of this irradiator model.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Phoenix Rearing Facility (PRF), Phoenix, Arizona",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8614,
+  "out": 1706
+ },
+ "model": "claude-sonnet-5"
+}

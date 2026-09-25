@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "PBXN-5",
+   "part": "Explosive, Plastic-Bonded, Pressed (PBXN-5) energetic",
+   "part_numbers": [],
+   "quantity": "166 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "BAE Systems Ordnance, Inc.",
+   "reason": "the Government intends to solicit and negotiate with one source, BAE Systems Ordnance, Inc. under the authority of FAR 13.101(b)",
+   "equipment_class": "other equipment",
+   "installed_location": "NSWC CRANE, 300 HIGHWAY 361, CRANE, IN 47522-5001",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7728,
+  "out": 243
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "AB SCIEX LLC",
+   "model": null,
+   "part": "purchase of the items listed in the attached Notice of Intent - Final document",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "AB SCIEX LLC",
+   "reason": "The Government intends to negotiate solely with AB SCIEX LLC under the authority of 10 USC 4023.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2549,
+  "out": 665
+ },
+ "model": "claude-sonnet-5"
+}

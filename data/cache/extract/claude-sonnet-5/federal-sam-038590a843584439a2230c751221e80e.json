@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "NADA Scientific",
+   "model": "N98-ND9130",
+   "part": "Automotive Air Conditioning System Trainer",
+   "part_numbers": [
+    "N98-ND9130"
+   ],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "NADA SCIENTIFIC LIMITED",
+   "reason": "no other vendor can supply the NADA Scientific Automotive Air Conditioning System Trainer for CM \"C\" School for Automotive Air Conditioning",
+   "equipment_class": "other equipment",
+   "installed_location": "Naval Construction Training Center (NCTC), Port Hueneme, California",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3702,
+  "out": 236
+ },
+ "model": "claude-sonnet-5"
+}

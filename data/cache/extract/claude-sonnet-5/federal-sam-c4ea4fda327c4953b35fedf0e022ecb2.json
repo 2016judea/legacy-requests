@@ -1,0 +1,111 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "MK-82 Rate Integrating Gyroscope (Long Life Gyroscope / Peanut Gyro)",
+   "part": "New manufacture of the MK-82 Rate Integrating Gyroscope IAW SOW 3.2 (USN)",
+   "part_numbers": [
+    "7517308",
+    "MIL-G-81168/5B"
+   ],
+   "quantity": "94 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "NSWC Crane is soliciting with intent to award a Firm-Fixed-Price (FFP), Indefinite-Delivery, Indefinite-Quantity (IDIQ) contract...on an Other Than Full and Open Competition basis",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "MK-82 Guided Missile Director / MK-99 Fire Control System",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "MK-82 Rate Integrating Gyroscope (Long Life Gyroscope / Peanut Gyro)",
+   "part": "New manufacture of the MK-82 Rate Integrating Gyroscope IAW SOW 3.2 (FMS)",
+   "part_numbers": [
+    "7517308",
+    "MIL-G-81168/5B"
+   ],
+   "quantity": "6 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "NSWC Crane is soliciting with intent to award a Firm-Fixed-Price (FFP), Indefinite-Delivery, Indefinite-Quantity (IDIQ) contract...on an Other Than Full and Open Competition basis",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "MK-82 Guided Missile Director / MK-99 Fire Control System",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "MK-82 Rate Integrating Gyroscope (Long Life Gyroscope / Peanut Gyro)",
+   "part": "Refurbishment of the MK-82 Rate Integrating Gyroscope IAW SOW 3.3 (USN)",
+   "part_numbers": [
+    "7517308",
+    "MIL-G-81168/5B"
+   ],
+   "quantity": "621 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "NSWC Crane is soliciting with intent to award a Firm-Fixed-Price (FFP), Indefinite-Delivery, Indefinite-Quantity (IDIQ) contract...on an Other Than Full and Open Competition basis",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "MK-82 Guided Missile Director / MK-99 Fire Control System",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "MK-82 Rate Integrating Gyroscope (Long Life Gyroscope / Peanut Gyro)",
+   "part": "Refurbishment of the MK-82 Rate Integrating Gyroscope IAW SOW 3.3 (FMS)",
+   "part_numbers": [
+    "7517308",
+    "MIL-G-81168/5B"
+   ],
+   "quantity": "40 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "NSWC Crane is soliciting with intent to award a Firm-Fixed-Price (FFP), Indefinite-Delivery, Indefinite-Quantity (IDIQ) contract...on an Other Than Full and Open Competition basis",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "MK-82 Guided Missile Director / MK-99 Fire Control System",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "MK-82 Rate Integrating Gyroscope (Long Life Gyroscope / Peanut Gyro)",
+   "part": "FMS shipping CLIN used with each FMS CLIN for cost of shipping",
+   "part_numbers": [],
+   "quantity": "46 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "NSWC Crane is soliciting with intent to award a Firm-Fixed-Price (FFP), Indefinite-Delivery, Indefinite-Quantity (IDIQ) contract...on an Other Than Full and Open Competition basis",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "MK-82 Guided Missile Director / MK-99 Fire Control System",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "MK-82 Rate Integrating Gyroscope (Long Life Gyroscope / Peanut Gyro)",
+   "part": "Technical Data Requirements for CLIN(s) 0001 thru 0005 IAW CDRL(s) A001 thru A003",
+   "part_numbers": [],
+   "quantity": "1 Each",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Not Separately Priced.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "MK-82 Guided Missile Director / MK-99 Fire Control System",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9634,
+  "out": 1730
+ },
+ "model": "claude-sonnet-5"
+}

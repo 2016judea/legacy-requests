@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "TR-343",
+   "part": "TR-343 Transducer Ceramic Stack Assemblies (CSA), component of TR-343 Transducer system, AN/SQS-53C Hull-Mounted Sonar Array, AN/SQQ-89(V) ASW System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 9900000,
+   "lead_time": null,
+   "sole_source_vendor": "SyQwest, LLC",
+   "reason": "The requirement is being solicited on a sole source basis because award to another vendor would result in unacceptable duplication of costs and delays.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3045,
+  "out": 246
+ },
+ "model": "claude-sonnet-5"
+}

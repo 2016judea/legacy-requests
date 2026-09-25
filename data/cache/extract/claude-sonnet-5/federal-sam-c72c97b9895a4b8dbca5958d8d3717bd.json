@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Raytheon",
+   "model": null,
+   "part": "F-16 Electrical Component, Circuit Card Assemblies",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Raytheon",
+   "reason": "it has been verified that Raytheon is the only current manufacturer and sustainer for these NSNs.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7456,
+  "out": 177
+ },
+ "model": "claude-sonnet-5"
+}

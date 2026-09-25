@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Capewell Aerial Systems LLC",
+   "model": null,
+   "part": "Crewmember's Aircraft Safety Belt",
+   "part_numbers": [
+    "MS16070-21M1"
+   ],
+   "quantity": "182",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Capewell Aerial Systems LLC",
+   "reason": "Per NAVAIR 13-1-6.5, Capewell Aerial Systems LLC is the sole authorized manufacturer with no distributors for the Crewmember\u2019s Safety belt Part Number MS16070-21M1.",
+   "equipment_class": "other equipment",
+   "installed_location": "MALS-16 then distributed to MAG-16 Squadron",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4920,
+  "out": 254
+ },
+ "model": "claude-sonnet-5"
+}

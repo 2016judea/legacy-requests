@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "General Dynamics Mission Systems",
+   "model": "FX-1GSM",
+   "part": "Single Mode Pluggable Optics",
+   "part_numbers": [
+    "FX-1GSM"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "General Dynamics Mission Systems, Inc.",
+   "reason": "it has been deemed that only one source is available to meet this specific requirement",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2301,
+  "out": 183
+ },
+ "model": "claude-sonnet-5"
+}

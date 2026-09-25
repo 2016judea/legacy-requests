@@ -1,0 +1,237 @@
+{
+ "records": [
+  {
+   "manufacturer": "Opto 22",
+   "model": null,
+   "part": "groov I/O module",
+   "part_numbers": [
+    "GRV-IDC-24"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Engineering analysis determined that the Opto 22 platform is required to maintain compatibility with the existing GDACS environment and avoid substantial redesign, software redevelopment, retraining, cybersecurity documentation updates, and associated duplication of costs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Black Canyon",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Opto 22",
+   "model": "groov EPIC",
+   "part": "groov EPIC controller/processor",
+   "part_numbers": [
+    "GRV-EPIC-PR1"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Engineering analysis determined that the Opto 22 platform is required to maintain compatibility with the existing GDACS environment and avoid substantial redesign, software redevelopment, retraining, cybersecurity documentation updates, and associated duplication of costs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Black Canyon",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Opto 22",
+   "model": "groov EPIC",
+   "part": "groov EPIC controller/processor",
+   "part_numbers": [
+    "GRV-EPIC-PR2"
+   ],
+   "quantity": "7",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Engineering analysis determined that the Opto 22 platform is required to maintain compatibility with the existing GDACS environment and avoid substantial redesign, software redevelopment, retraining, cybersecurity documentation updates, and associated duplication of costs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Black Canyon",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Opto 22",
+   "model": "groov EPIC",
+   "part": "groov EPIC DC power supply",
+   "part_numbers": [
+    "GRV-EPIC-PSDC"
+   ],
+   "quantity": "5",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Engineering analysis determined that the Opto 22 platform is required to maintain compatibility with the existing GDACS environment and avoid substantial redesign, software redevelopment, retraining, cybersecurity documentation updates, and associated duplication of costs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Black Canyon",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Opto 22",
+   "model": null,
+   "part": "groov communication/serial module",
+   "part_numbers": [
+    "GRV-CSERI-4"
+   ],
+   "quantity": "8",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Engineering analysis determined that the Opto 22 platform is required to maintain compatibility with the existing GDACS environment and avoid substantial redesign, software redevelopment, retraining, cybersecurity documentation updates, and associated duplication of costs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Black Canyon",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Opto 22",
+   "model": null,
+   "part": "groov I/O module",
+   "part_numbers": [
+    "GRV-IAC-24"
+   ],
+   "quantity": "28",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Engineering analysis determined that the Opto 22 platform is required to maintain compatibility with the existing GDACS environment and avoid substantial redesign, software redevelopment, retraining, cybersecurity documentation updates, and associated duplication of costs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Black Canyon",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Opto 22",
+   "model": null,
+   "part": "groov I/O module",
+   "part_numbers": [
+    "GRV-IMAI-8"
+   ],
+   "quantity": "22",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Engineering analysis determined that the Opto 22 platform is required to maintain compatibility with the existing GDACS environment and avoid substantial redesign, software redevelopment, retraining, cybersecurity documentation updates, and associated duplication of costs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Black Canyon",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Opto 22",
+   "model": null,
+   "part": "groov I/O module",
+   "part_numbers": [
+    "GRV-ODCSRC-24"
+   ],
+   "quantity": "8",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Engineering analysis determined that the Opto 22 platform is required to maintain compatibility with the existing GDACS environment and avoid substantial redesign, software redevelopment, retraining, cybersecurity documentation updates, and associated duplication of costs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Black Canyon",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Opto 22",
+   "model": "groov EPIC",
+   "part": "groov EPIC chassis",
+   "part_numbers": [
+    "GRV-EPIC-CHS16"
+   ],
+   "quantity": "6",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Engineering analysis determined that the Opto 22 platform is required to maintain compatibility with the existing GDACS environment and avoid substantial redesign, software redevelopment, retraining, cybersecurity documentation updates, and associated duplication of costs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Black Canyon",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Opto 22",
+   "model": null,
+   "part": "groov I/O module",
+   "part_numbers": [
+    "GRV-ITMI-8"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Engineering analysis determined that the Opto 22 platform is required to maintain compatibility with the existing GDACS environment and avoid substantial redesign, software redevelopment, retraining, cybersecurity documentation updates, and associated duplication of costs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Black Canyon",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Opto 22",
+   "model": null,
+   "part": "groov I/O module",
+   "part_numbers": [
+    "GRV-IDCI-12"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Engineering analysis determined that the Opto 22 platform is required to maintain compatibility with the existing GDACS environment and avoid substantial redesign, software redevelopment, retraining, cybersecurity documentation updates, and associated duplication of costs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Black Canyon",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Opto 22",
+   "model": "groov EPIC",
+   "part": "groov EPIC chassis",
+   "part_numbers": [
+    "GRV-EPIC-CHS0"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Engineering analysis determined that the Opto 22 platform is required to maintain compatibility with the existing GDACS environment and avoid substantial redesign, software redevelopment, retraining, cybersecurity documentation updates, and associated duplication of costs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Black Canyon",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "CODESYS runtime and Modbus licensing license",
+   "part_numbers": [],
+   "quantity": "10",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Engineering analysis determined that the Opto 22 platform is required to maintain compatibility with the existing GDACS environment and avoid substantial redesign, software redevelopment, retraining, cybersecurity documentation updates, and associated duplication of costs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Black Canyon",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Opto 22",
+   "model": "groov EPIC",
+   "part": "groov EPIC AC power supply",
+   "part_numbers": [
+    "GRV-EPIC-PSAC"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Engineering analysis determined that the Opto 22 platform is required to maintain compatibility with the existing GDACS environment and avoid substantial redesign, software redevelopment, retraining, cybersecurity documentation updates, and associated duplication of costs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Black Canyon",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2461,
+  "out": 3951
+ },
+ "model": "claude-sonnet-5"
+}

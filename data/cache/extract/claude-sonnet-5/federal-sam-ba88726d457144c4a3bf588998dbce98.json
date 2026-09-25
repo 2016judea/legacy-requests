@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Radome equipment/parts (PSC 5985) procured via non-competitive purchase order",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Pacific Radomes, Inc.",
+   "reason": "Department of the Navy, Naval Information Warfare Center Pacific (NIWC PACIFIC) hereby publicizes its intention to solicit, negotiate and award a commercial, firm-fixed-price purchase order on a non-competitive basis with Pacific Radomes, Inc.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2633,
+  "out": 476
+ },
+ "model": "claude-sonnet-5"
+}

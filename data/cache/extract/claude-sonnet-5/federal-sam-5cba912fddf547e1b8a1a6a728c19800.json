@@ -1,0 +1,47 @@
+{
+ "records": [
+  {
+   "manufacturer": "Koenig & Bauer",
+   "model": "ELP3586",
+   "part": "Light, Bar, IR2, Lamp, 48V IR. For SOI III Only. KBA Proprietary Part.",
+   "part_numbers": [
+    "1002452268"
+   ],
+   "quantity": "10 EA",
+   "price_usd": null,
+   "lead_time": "120 days after contract award",
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "WESTERN CURRENCY FACILITY, 9000 BLUE MOUND ROAD, FORT WORTH, TEXAS",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Koenig & Bauer",
+   "model": "ELP3587",
+   "part": "Light, Bar, IR1, Lamp, 48V IR. For SOI III Only. KBA Proprietary Part.",
+   "part_numbers": [
+    "1002452296"
+   ],
+   "quantity": "10 EA",
+   "price_usd": null,
+   "lead_time": "120 days after contract award",
+   "sole_source_vendor": "Koenig & Bauer Banknote Solutions SA",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "WESTERN CURRENCY FACILITY, 9000 BLUE MOUND ROAD, FORT WORTH, TEXAS",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5023,
+  "out": 608
+ },
+ "model": "claude-sonnet-5"
+}

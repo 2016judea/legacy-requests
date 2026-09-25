@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Champion Aerospace",
+   "model": "28VS50Y-30",
+   "part": "Aviation Power Converters for F-16 FINS project (direct drop-in replacement for inactive military power supply)",
+   "part_numbers": [
+    "28VS50Y-30"
+   ],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "S3 Aerodefense",
+   "reason": "Market research dictates this is the only known commercial unit providing the exact Form, Fit, and Function (F3) equivalent",
+   "equipment_class": "other equipment",
+   "installed_location": "F-16 avionics bay",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3007,
+  "out": 235
+ },
+ "model": "claude-sonnet-5"
+}

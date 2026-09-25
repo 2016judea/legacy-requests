@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Helmer",
+   "model": "iPR245-GX i.Series",
+   "part": "Pharmacy Refrigerator, 44.9 cu ft (Brand Name or Equal)",
+   "part_numbers": [
+    "iPR245-GX"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "SOURCES SOUGHT NOTICE BRAND NAME OR EQUAL - Helmer iPR245-GX i.Series\u00ae Pharmacy Refrigerator, 44.9 cu ft. for VA Manila Outpatient Clinic",
+   "equipment_class": "other equipment",
+   "installed_location": "Manila Outpatient Clinic",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6989,
+  "out": 257
+ },
+ "model": "claude-sonnet-5"
+}

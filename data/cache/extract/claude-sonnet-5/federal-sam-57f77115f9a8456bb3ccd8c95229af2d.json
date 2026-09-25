@@ -1,0 +1,251 @@
+{
+ "records": [
+  {
+   "manufacturer": "Complete Parachute Solutions, Inc",
+   "model": "SABRE 3 170",
+   "part": "SABRE 3 170 parachute canopy",
+   "part_numbers": [
+    "SABRE 3 170"
+   ],
+   "quantity": "2 ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Complete Parachute Solutions, Inc",
+   "reason": "only one company manufactures the approved items, the requirement is intended to be Sole Sourced to COMPLETE PARACHUTE SOLUTIONS, INC",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Complete Parachute Solutions, Inc",
+   "model": "SABRE 3 190",
+   "part": "SABRE 3 190 parachute canopy",
+   "part_numbers": [
+    "SABRE 3 190"
+   ],
+   "quantity": "4 ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Complete Parachute Solutions, Inc",
+   "reason": "only one company manufactures the approved items, the requirement is intended to be Sole Sourced to COMPLETE PARACHUTE SOLUTIONS, INC",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Complete Parachute Solutions, Inc",
+   "model": "SABRE 3 210",
+   "part": "SABRE 3 210 parachute canopy",
+   "part_numbers": [
+    "SABRE 3 210"
+   ],
+   "quantity": "6 ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Complete Parachute Solutions, Inc",
+   "reason": "only one company manufactures the approved items, the requirement is intended to be Sole Sourced to COMPLETE PARACHUTE SOLUTIONS, INC",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Complete Parachute Solutions, Inc",
+   "model": "SABRE 3 230",
+   "part": "SABRE 3 230 parachute canopy",
+   "part_numbers": [
+    "SABRE 3 230"
+   ],
+   "quantity": "3 ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Complete Parachute Solutions, Inc",
+   "reason": "only one company manufactures the approved items, the requirement is intended to be Sole Sourced to COMPLETE PARACHUTE SOLUTIONS, INC",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Complete Parachute Solutions, Inc",
+   "model": "PD176",
+   "part": "PD176 7 CELL RESERVE CANOPY",
+   "part_numbers": [
+    "PD176"
+   ],
+   "quantity": "2 ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Complete Parachute Solutions, Inc",
+   "reason": "only one company manufactures the approved items, the requirement is intended to be Sole Sourced to COMPLETE PARACHUTE SOLUTIONS, INC",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Complete Parachute Solutions, Inc",
+   "model": "PD193",
+   "part": "PD193 7 CELL RESERVE CANOPY",
+   "part_numbers": [
+    "PD193"
+   ],
+   "quantity": "4 ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Complete Parachute Solutions, Inc",
+   "reason": "only one company manufactures the approved items, the requirement is intended to be Sole Sourced to COMPLETE PARACHUTE SOLUTIONS, INC",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Complete Parachute Solutions, Inc",
+   "model": "PD218",
+   "part": "PD218 7 CELL RESERVE CANOPY",
+   "part_numbers": [
+    "PD218"
+   ],
+   "quantity": "6 ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Complete Parachute Solutions, Inc",
+   "reason": "only one company manufactures the approved items, the requirement is intended to be Sole Sourced to COMPLETE PARACHUTE SOLUTIONS, INC",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Complete Parachute Solutions, Inc",
+   "model": "PD235",
+   "part": "PD235 7 CELL RESERVE CANOPY",
+   "part_numbers": [
+    "PD235"
+   ],
+   "quantity": "3 ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Complete Parachute Solutions, Inc",
+   "reason": "only one company manufactures the approved items, the requirement is intended to be Sole Sourced to COMPLETE PARACHUTE SOLUTIONS, INC",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "CYPRES 2",
+   "part": "CHANGEABLE MODE CYPRES 2 1-PIN automatic activation device",
+   "part_numbers": [
+    "CYPRES 2 1-PIN"
+   ],
+   "quantity": "15 ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Complete Parachute Solutions, Inc",
+   "reason": "only one company manufactures the approved items, the requirement is intended to be Sole Sourced to COMPLETE PARACHUTE SOLUTIONS, INC",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Complete Parachute Solutions, Inc",
+   "model": "VECTOR 3",
+   "part": "VECTOR 3 W/OPTIONS parachute harness/container system",
+   "part_numbers": [
+    "VECTOR 3"
+   ],
+   "quantity": "15 ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Complete Parachute Solutions, Inc",
+   "reason": "These parachute systems are manufactured and sold by Complete Parachute Solutions, INC (CPS)",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Complete Parachute Solutions, Inc",
+   "model": null,
+   "part": "FULL RIGGING, ASSEMBLY AND PACK service",
+   "part_numbers": [],
+   "quantity": "15 ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Complete Parachute Solutions, Inc",
+   "reason": "only one company manufactures the approved items, the requirement is intended to be Sole Sourced to COMPLETE PARACHUTE SOLUTIONS, INC",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Complete Parachute Solutions, Inc",
+   "model": "TP-460 M3",
+   "part": "TP-460 M3 9 CELL MAIN CANOPY",
+   "part_numbers": [
+    "TP-460 M3"
+   ],
+   "quantity": "3 ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Complete Parachute Solutions, Inc",
+   "reason": "These parachute systems are manufactured and sold by Complete Parachute Solutions, INC (CPS)",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Complete Parachute Solutions, Inc",
+   "model": "EZ-425 (VS-425)",
+   "part": "EZ-425 (VS-425) CONTROL LINE",
+   "part_numbers": [
+    "EZ-425 (VS-425)"
+   ],
+   "quantity": "1 ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Complete Parachute Solutions, Inc",
+   "reason": "only one company manufactures the approved items, the requirement is intended to be Sole Sourced to COMPLETE PARACHUTE SOLUTIONS, INC",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Complete Parachute Solutions, Inc",
+   "model": "TP-460",
+   "part": "SET TP-460 COMPLETE LINE SET",
+   "part_numbers": [
+    "TP-460"
+   ],
+   "quantity": "1 ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Complete Parachute Solutions, Inc",
+   "reason": "only one company manufactures the approved items, the requirement is intended to be Sole Sourced to COMPLETE PARACHUTE SOLUTIONS, INC",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Complete Parachute Solutions, Inc",
+   "model": "VECTOR 3",
+   "part": "CLOSING LOOP-VECTOR 3 MAIN",
+   "part_numbers": [],
+   "quantity": "50 ea",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Complete Parachute Solutions, Inc",
+   "reason": "only one company manufactures the approved items, the requirement is intended to be Sole Sourced to COMPLETE PARACHUTE SOLUTIONS, INC",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3390,
+  "out": 3982
+ },
+ "model": "claude-sonnet-5"
+}

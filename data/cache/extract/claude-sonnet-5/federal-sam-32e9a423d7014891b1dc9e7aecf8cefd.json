@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Rexroth, Inc",
+   "model": null,
+   "part": "Pump, Axial Piston - Open, Inspect, Report and Possible Overhaul",
+   "part_numbers": [
+    "R902439677"
+   ],
+   "quantity": "06",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand name, Substitute parts or part numbers are NOT acceptable The USCG does not own the rights to the proprietary data.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5279,
+  "out": 190
+ },
+ "model": "claude-sonnet-5"
+}

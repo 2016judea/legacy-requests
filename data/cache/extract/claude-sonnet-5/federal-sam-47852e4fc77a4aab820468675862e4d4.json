@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Straval Machine Co Inc",
+   "model": null,
+   "part": "3000 psi relief valves",
+   "part_numbers": [],
+   "quantity": "three (3)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Straval Machine Co Inc",
+   "reason": "The solicitation will be issued as a single source to Straval Machine CO INC",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Straval Machine Co Inc",
+   "model": null,
+   "part": "3000 psi basket strainers",
+   "part_numbers": [],
+   "quantity": "three (3)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Straval Machine Co Inc",
+   "reason": "The solicitation will be issued as a single source to Straval Machine CO INC",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Straval Machine Co Inc",
+   "model": null,
+   "part": "6000 psi check valves",
+   "part_numbers": [],
+   "quantity": "three (3)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Straval Machine Co Inc",
+   "reason": "The solicitation will be issued as a single source to Straval Machine CO INC",
+   "equipment_class": "valve",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2651,
+  "out": 772
+ },
+ "model": "claude-sonnet-5"
+}

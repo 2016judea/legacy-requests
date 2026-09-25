@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Broderson Manufacturing Corp",
+   "model": "IC-100-B",
+   "part": "One (1) Broderson Ten (10) U.S. Ton Diesel-Powered Industrial Carry Deck Crane",
+   "part_numbers": [
+    "IC-100-B"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Broderson Manufacturing Corp",
+   "reason": "Broderson Manufacturing Corp is the only manufacturer that produces a crane meeting the Government\u2019s specific operational and safety requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5695,
+  "out": 231
+ },
+ "model": "claude-sonnet-5"
+}

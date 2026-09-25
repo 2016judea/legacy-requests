@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "ALKAN",
+   "model": "BRU-65",
+   "part": "BRU-65/A Ejector Rack Assembly and components (supplies and engineering services) for MH-60(S) helicopter platform",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 2000000,
+   "lead_time": null,
+   "sole_source_vendor": "ALKAN",
+   "reason": "As the Original Equipment Manufacturer (OEM) for the BRU-65 Ejector Racks and components, ALKAN was awarded sole source contracts N00164-08-D-JN26 and N00164-13-D-JN26, and is the only source capable that possess the necessary Level III Technical Data Package (TDP)",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4502,
+  "out": 271
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,63 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "Distribution Box",
+   "part_numbers": [
+    "13507110"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "THIS REQUIREMENT IS SOLE SOURCED TO LOCKHEED MARTIN, CAGE 64059. IAW 10 U.S.C.3204(A)(1) FAR 6.302-1. ONLY ONE RESPONSIBLE SOURCE, AND NO OTHER TYPE OF SUPPLIES OR SERVICES WILL SATISFY AGENCY REQUIREMENTS.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "Patriot missile spare part (removed CLIN 1001)",
+   "part_numbers": [
+    "11450637-19"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "THIS REQUIREMENT IS SOLE SOURCED TO LOCKHEED MARTIN, CAGE 64059. IAW 10 U.S.C.3204(A)(1) FAR 6.302-1. ONLY ONE RESPONSIBLE SOURCE, AND NO OTHER TYPE OF SUPPLIES OR SERVICES WILL SATISFY AGENCY REQUIREMENTS.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "Patriot missile spare part (removed CLIN 1003)",
+   "part_numbers": [
+    "13507570"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "THIS REQUIREMENT IS SOLE SOURCED TO LOCKHEED MARTIN, CAGE 64059. IAW 10 U.S.C.3204(A)(1) FAR 6.302-1. ONLY ONE RESPONSIBLE SOURCE, AND NO OTHER TYPE OF SUPPLIES OR SERVICES WILL SATISFY AGENCY REQUIREMENTS.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 12035,
+  "out": 852
+ },
+ "model": "claude-sonnet-5"
+}

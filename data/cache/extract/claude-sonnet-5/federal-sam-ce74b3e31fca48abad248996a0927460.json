@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "MVE",
+   "model": "1536P-190F-CDC",
+   "part": "Freezers (CDC-specific version configured with specialized CDC programming), including accessories and validation",
+   "part_numbers": [
+    "1536P-190F-CDC"
+   ],
+   "quantity": "two",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Select Gases",
+   "reason": "The freezers are the CDC-specific version configured with the specialized CDC programming required for compatibility with CDC monitoring software, including accessories and validation.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2343,
+  "out": 213
+ },
+ "model": "claude-sonnet-5"
+}

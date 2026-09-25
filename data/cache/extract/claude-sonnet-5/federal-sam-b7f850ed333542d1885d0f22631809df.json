@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "L3Harris Technologies, Inc.",
+   "model": "AN/PRC-163",
+   "part": "Multi-Channel Handheld Radio System and required accessories",
+   "part_numbers": [],
+   "quantity": "4",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "L3HARRIS TECHNOLOGIES, INC.",
+   "reason": "Only One Responsible Source and No Other Supplies or Services Will Satisfy Agency Requirements.",
+   "equipment_class": "communications/radio",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2554,
+  "out": 203
+ },
+ "model": "claude-sonnet-5"
+}

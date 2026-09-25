@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "BR Surgical",
+   "model": "Optomic ENT Exam Chair",
+   "part": "Exam Chair, brand name or equal, used during Dix Hallpike Testing and Epley Maneuver Treatment",
+   "part_numbers": [
+    "BR900-75009S-BK"
+   ],
+   "quantity": "3",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Utilized during Dix Hallpike Testing and Epley Maneuver Treatment for examination, evaluation, diagnosis and treatment of BPPV and other conditions.",
+   "equipment_class": "other equipment",
+   "installed_location": "White City VA Medical Center BLDG 225A Warehouse 8495 Crater Lake Hwy. White City, OR 97503",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7716,
+  "out": 276
+ },
+ "model": "claude-sonnet-5"
+}

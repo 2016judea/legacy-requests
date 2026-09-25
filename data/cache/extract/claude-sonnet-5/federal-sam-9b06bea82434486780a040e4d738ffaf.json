@@ -1,0 +1,63 @@
+{
+ "records": [
+  {
+   "manufacturer": "Northrop Grumman",
+   "model": null,
+   "part": "Phase Shifter Driver Boards",
+   "part_numbers": [
+    "247815"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "23 months",
+   "sole_source_vendor": "Northrop Grumman",
+   "reason": "Northrup Grumman is the original equipment manufacturer and only known source for manufacture of P/Ns 247819, 247815, or 6867277-1for the AN/SPQ-9B.",
+   "equipment_class": "other equipment",
+   "installed_location": "AN/SPQ-9B Radar Antenna",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Northrop Grumman",
+   "model": null,
+   "part": "Array Logic Boards",
+   "part_numbers": [
+    "247819"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "23 months",
+   "sole_source_vendor": "Northrop Grumman",
+   "reason": "Northrup Grumman is the original equipment manufacturer and only known source for manufacture of P/Ns 247819, 247815, or 6867277-1for the AN/SPQ-9B.",
+   "equipment_class": "other equipment",
+   "installed_location": "AN/SPQ-9B Radar Antenna",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Northrop Grumman",
+   "model": null,
+   "part": "Transmit/Receive Limiter",
+   "part_numbers": [
+    "6867277-1"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "30 months",
+   "sole_source_vendor": "Northrop Grumman",
+   "reason": "Northrup Grumman is the original equipment manufacturer and only known source for manufacture of P/Ns 247819, 247815, or 6867277-1for the AN/SPQ-9B.",
+   "equipment_class": "other equipment",
+   "installed_location": "AN/SPQ-9B Radar Antenna",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4859,
+  "out": 630
+ },
+ "model": "claude-sonnet-5"
+}

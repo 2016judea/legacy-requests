@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Santec",
+   "model": "TSL-775",
+   "part": "wavelength-tunable laser source",
+   "part_numbers": [
+    "TSL-775"
+   ],
+   "quantity": "One (1)",
+   "price_usd": null,
+   "lead_time": "13-15 weeks after contract award",
+   "sole_source_vendor": "Santec USA Corporation",
+   "reason": "The proposed contract action is for supplies or services for which the Government is soliciting and negotiating with only one source under the authority of RFO FAR 12.102(a).",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "US ARMY RESEARCH LABORATORY, 2800 POWDER MILL RD ADELPHI MD 20783-1138",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8159,
+  "out": 510
+ },
+ "model": "claude-sonnet-5"
+}

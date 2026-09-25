@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Y-Cord adapters (headset adapter for F-35 pilots/aircrew)",
+   "part_numbers": [
+    "5995-01-692-4005"
+   ],
+   "quantity": "24",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Kaney Aerospace, Inc.",
+   "reason": "Market research demonstrated that this vendor is the sole provider of F-35 Y-Cables approved for use on the F-35 JSF. The T.O. specifivcally calls for this P/N and no suitable subs.",
+   "equipment_class": "other equipment",
+   "installed_location": "Misawa AB, Japan",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2822,
+  "out": 237
+ },
+ "model": "claude-sonnet-5"
+}

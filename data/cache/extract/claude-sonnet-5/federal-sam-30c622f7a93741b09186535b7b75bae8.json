@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Freefly",
+   "model": "Astro Max",
+   "part": "Astro Max drone platform (2) and accessories",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Freefly",
+   "reason": "To procure a US-made drone platform, the Freefly Astro.",
+   "equipment_class": "other equipment",
+   "installed_location": "NOAA Great Lakes Environmental Research Laboratory (GLERL), 4840 S. State Rd., Ann Arbor, MI 48108-9719",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Freefly",
+   "model": "SL8-Air",
+   "part": "Smart batteries for Astro drone platform",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Freefly",
+   "reason": "In addition to the Astro we will be procuring the associated SL8-Air smart batteries and charger.",
+   "equipment_class": "other equipment",
+   "installed_location": "NOAA Great Lakes Environmental Research Laboratory (GLERL), 4840 S. State Rd., Ann Arbor, MI 48108-9719",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Freefly",
+   "model": null,
+   "part": "Charger for SL8-Air smart batteries",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Freefly",
+   "reason": "In addition to the Astro we will be procuring the associated SL8-Air smart batteries and charger.",
+   "equipment_class": "other equipment",
+   "installed_location": "NOAA Great Lakes Environmental Research Laboratory (GLERL), 4840 S. State Rd., Ann Arbor, MI 48108-9719",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 9137,
+  "out": 1254
+ },
+ "model": "claude-sonnet-5"
+}

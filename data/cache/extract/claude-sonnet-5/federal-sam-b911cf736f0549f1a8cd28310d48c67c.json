@@ -1,0 +1,45 @@
+{
+ "records": [
+  {
+   "manufacturer": "QIAGEN",
+   "model": "QIAcube Connect",
+   "part": "QIAcube Connect RNA/DNA Extraction System",
+   "part_numbers": [
+    "SYS-FUL-1"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Franklin Young International, Incorporated",
+   "reason": "Market research did not identify any alternative product that satisfies the Government\\u2019s minimum requirements.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Newborn Screening and Molecular Biology Branch, Division of Laboratory Sciences (DLS), Centers for Disease Control and Prevention",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "QIAGEN",
+   "model": "QIAcube Connect",
+   "part": "QIAcube Connect IQ/OQ Services, including installation, operator training, warranty, and Installation Qualification/Operational Qualification (IQ/OQ) services",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Franklin Young International, Incorporated",
+   "reason": "Market research did not identify any alternative product that satisfies the Government\\u2019s minimum requirements.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Newborn Screening and Molecular Biology Branch, Division of Laboratory Sciences (DLS), Centers for Disease Control and Prevention",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2906,
+  "out": 886
+ },
+ "model": "claude-sonnet-5"
+}

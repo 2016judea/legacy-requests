@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "L3Harris Technologies",
+   "model": "F-PANO",
+   "part": "Panoramic Night Vision Device \u2013 Fused (F-PANO) Night Vision Goggles (NVGS)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "L3Harris Technologies, Inc.",
+   "reason": "L3Harris Technologies is the sole developer and manufacturer of the F-PANO NVGs and is the only vendor capable of providing the proper support for the referenced equipment to ensure optimal performance throughout the life of the product.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2861,
+  "out": 244
+ },
+ "model": "claude-sonnet-5"
+}

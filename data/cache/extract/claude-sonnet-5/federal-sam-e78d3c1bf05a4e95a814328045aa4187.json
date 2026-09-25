@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Wheel, Landing Gear, for Apache AH-64 Model D/E",
+   "part_numbers": [
+    "1630012905740"
+   ],
+   "quantity": "740",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The data needed to produce the Wheel Landing Gear is proprietary and the Government does not have unrestricted rights to this data sufficient to compete this requirement.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5845,
+  "out": 191
+ },
+ "model": "claude-sonnet-5"
+}

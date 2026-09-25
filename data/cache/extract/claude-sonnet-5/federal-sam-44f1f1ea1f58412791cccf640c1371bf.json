@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens",
+   "model": "Rapidpoint 500e",
+   "part": "Service and maintenance agreement plus reagents for blood gas analyzer",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 84329.6,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Healthcare",
+   "reason": "SIEMENS MANUFACTURES THE ANALYZER; ALL SUPPLIES ARE ANALYZER SPECIFIC AND CAN NOT BE INTERCHAGNED WITH ANOTHER VENDOR, ALL SERVICE ON THE ANALYZER MUST BE COMPLETED BY A SIEMENS REPRESENTATIVE",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Red Lake Hospital, Red Lake MN",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8140,
+  "out": 306
+ },
+ "model": "claude-sonnet-5"
+}

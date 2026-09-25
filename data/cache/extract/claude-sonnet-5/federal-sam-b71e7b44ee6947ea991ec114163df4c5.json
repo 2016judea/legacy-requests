@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "LE409-0252-0901",
+   "part": "B1-B radio Cable Assembly",
+   "part_numbers": [
+    "LE409-0252-0901",
+    "5995-01-184-0074"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "DAVINCI AIRCRAFT, INC.",
+   "reason": "currently Flight Safety has only approved acquisition outside DLA supply chains to purchase the requested part from the aforementioned company",
+   "equipment_class": "communications/radio",
+   "installed_location": "Ellsworth AFB, SD",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2152,
+  "out": 218
+ },
+ "model": "claude-sonnet-5"
+}

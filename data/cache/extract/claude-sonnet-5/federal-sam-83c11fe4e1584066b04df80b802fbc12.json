@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "APC",
+   "model": "Symmetra LX Battery Module",
+   "part": "UPS BATTERY: APC SYMMETRA LX BATTERY MODULE; VRLA, 120V DC, 9AH, 1080 VAH",
+   "part_numbers": [
+    "SYBT5"
+   ],
+   "quantity": "22 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "The requested (22) APC UPS Part #SYBT5 batteries are specific to the UPS that is installed within the ESE-1... These batteries are specifically designed by the manufacturer of the UPS to be a direct replacement and cannot be substituted.",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "ESE-1",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4165,
+  "out": 283
+ },
+ "model": "claude-sonnet-5"
+}

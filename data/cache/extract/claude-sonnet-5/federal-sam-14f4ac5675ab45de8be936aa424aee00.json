@@ -1,0 +1,32 @@
+{
+ "records": [
+  {
+   "manufacturer": "Neuver Maritime Inc.",
+   "model": "Styremotor HS 700-04",
+   "part": "Steering Actuator Rotors in long-term reusable shipping and storage containers, ready-for-issue replacements for USCGC Healy",
+   "part_numbers": [
+    "P80069",
+    "2030-01-F24-7004"
+   ],
+   "quantity": "Two (2)",
+   "price_usd": 313280.86,
+   "lead_time": "180 days",
+   "sole_source_vendor": "Neuver Maritime Inc.",
+   "reason": "Neuver Maritime Inc. is the OEM and holds proprietary rights to the Steering Actuator Rotors. No other vendors are licensed or authorized to manufacture these parts",
+   "equipment_class": "other equipment",
+   "installed_location": "USCGC Healy (420' WAGB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7290,
+  "out": 283
+ },
+ "model": "claude-sonnet-5"
+}

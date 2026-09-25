@@ -1,0 +1,45 @@
+{
+ "records": [
+  {
+   "manufacturer": "Astrophysics, Inc.",
+   "model": "XIS-6545DV",
+   "part": "X-ray screening system for carry-on and medium-sized luggage",
+   "part_numbers": [
+    "XIS-6545DV"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Astrophysics, Inc.",
+   "reason": "Astrophysics\u2019 Model XIS 6545DV, represents the only model with the minimum performance, safety, operational standards, and dimensions to meet the Government\u2019s requirements.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Naval Station Guantanamo Bay (NSGB)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Entry and exit roller tables (0.5m entry and 0.5m exit)",
+   "part_numbers": [],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Astrophysics, Inc.",
+   "reason": "Astrophysics\u2019 Model XIS 6545DV, represents the only model with the minimum performance, safety, operational standards, and dimensions to meet the Government\u2019s requirements.",
+   "equipment_class": "other equipment",
+   "installed_location": "Naval Station Guantanamo Bay (NSGB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5926,
+  "out": 455
+ },
+ "model": "claude-sonnet-5"
+}

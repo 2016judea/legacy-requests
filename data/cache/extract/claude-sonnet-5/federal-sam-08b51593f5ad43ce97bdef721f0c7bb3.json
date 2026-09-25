@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Verder Scientific Inc.",
+   "model": "Cryo Mill",
+   "part": "Cryo Mill cryogenic grinder instrument capable of grinding polymers into micro/nanoplastics to a size less than 1000 nanometers",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Verder Scientific Inc.",
+   "reason": "The Cryo Mill is the only cryogenic grinder that the government has determined can meet the government\ns specifications.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Environmental Protection Agency, 27 Tarzwell Drive, Narragansett, RI. 02882",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3043,
+  "out": 260
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,61 @@
+{
+ "records": [
+  {
+   "manufacturer": "Liebert",
+   "model": "PFH014CPLN",
+   "part": "Prop Air Cooled Condensing Unit P: 208/230V - 1Ph - 60Hz Brand Name or equal",
+   "part_numbers": [
+    "PFH014CPLN"
+   ],
+   "quantity": "3 EA",
+   "price_usd": null,
+   "lead_time": "60 Days After Award",
+   "sole_source_vendor": null,
+   "reason": "Must be of similar specifications of the current model PFH014A-PL7 and be able to replace it",
+   "equipment_class": "HVAC",
+   "installed_location": "SEA Sugarcane Research, Houma, LA",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Liebert",
+   "model": "PFH014A-PL7",
+   "part": "Current existing condensing unit to be removed and disposed of",
+   "part_numbers": [
+    "PFH014A-PL7"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Must be of similar specifications of the current model PFH014A-PL7 and be able to replace it",
+   "equipment_class": "HVAC",
+   "installed_location": "SEA Sugarcane Research, Houma, LA",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Installation - remove current system, dispose of current system, install Three Prop Air Cooled Condensing Units",
+   "part_numbers": [],
+   "quantity": "1 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Must remove current system - Must dispose of current system - Must install Three Prop Air Cooled Condensing Units",
+   "equipment_class": "HVAC",
+   "installed_location": "SEA Sugarcane Research, Houma, LA",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18490,
+  "out": 597
+ },
+ "model": "claude-sonnet-5"
+}

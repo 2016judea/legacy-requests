@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Howell Laboratories, Inc.",
+   "model": "5642-G511 Rev K",
+   "part": "Air Control Panels for AN/SPN-50",
+   "part_numbers": [
+    "5642-G511 Rev K"
+   ],
+   "quantity": "5 Each",
+   "price_usd": null,
+   "lead_time": "76 Weeks",
+   "sole_source_vendor": "Howell Laboratories, Inc.",
+   "reason": "The Government intends to purchase on a firm fixed-price basis, and to solicit and negotiate the proposed purchase order on a sole source basis with Howell Laboratories, Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": "NAVAL AIR WARFARE CTR AIRCRAFT DIV, ST INIGOES MD 20684",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7897,
+  "out": 274
+ },
+ "model": "claude-sonnet-5"
+}

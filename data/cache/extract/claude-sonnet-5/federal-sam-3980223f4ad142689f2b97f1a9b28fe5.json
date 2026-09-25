@@ -1,0 +1,95 @@
+{
+ "records": [
+  {
+   "manufacturer": "DroneShield",
+   "model": "RFPatrol Mk2 Wideband",
+   "part": "DS-035 RFPatrol Mk2 Wideband, component of Immediate Response Kit (IRK)",
+   "part_numbers": [
+    "DS-035"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "90 Calendar Days",
+   "sole_source_vendor": null,
+   "reason": "Kit, DroneShield brand name Immediate Response (IRK).",
+   "equipment_class": "other equipment",
+   "installed_location": "LAUGHLIN AFB, TX",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "DroneShield",
+   "model": "Magnetic Antenna Kit Wideband (MAK WD)",
+   "part": "DS-146 Magnetic Antenna Kit Wideband (MAK WD), component of Immediate Response Kit (IRK)",
+   "part_numbers": [
+    "DS-146"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "90 Calendar Days",
+   "sole_source_vendor": null,
+   "reason": "Kit, DroneShield brand name Immediate Response (IRK).",
+   "equipment_class": "other equipment",
+   "installed_location": "LAUGHLIN AFB, TX",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "DroneShield",
+   "model": "CS-Tactical Tablet",
+   "part": "DS-121 CS-Tactical Tablet, component of Immediate Response Kit (IRK)",
+   "part_numbers": [
+    "DS-121"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "90 Calendar Days",
+   "sole_source_vendor": null,
+   "reason": "Kit, DroneShield brand name Immediate Response (IRK).",
+   "equipment_class": "other equipment",
+   "installed_location": "LAUGHLIN AFB, TX",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "DroneShield",
+   "model": "CS-Tactical Software Configuration",
+   "part": "DS-121-A CS-Tactical Software Configuration, component of Immediate Response Kit (IRK)",
+   "part_numbers": [
+    "DS-121-A"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "90 Calendar Days",
+   "sole_source_vendor": null,
+   "reason": "Kit, DroneShield brand name Immediate Response (IRK).",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "LAUGHLIN AFB, TX",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "DroneShield",
+   "model": "RFAI Annual Subscription for RFPatrol Mk2",
+   "part": "DS-112-1 RFAI Annual Subscription for RFPatrol Mk2, component of Immediate Response Kit (IRK)",
+   "part_numbers": [
+    "DS-112-1"
+   ],
+   "quantity": "2",
+   "price_usd": null,
+   "lead_time": "90 Calendar Days",
+   "sole_source_vendor": null,
+   "reason": "Kit, DroneShield brand name Immediate Response (IRK).",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "LAUGHLIN AFB, TX",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7975,
+  "out": 1813
+ },
+ "model": "claude-sonnet-5"
+}

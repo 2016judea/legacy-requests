@@ -1,0 +1,95 @@
+{
+ "records": [
+  {
+   "manufacturer": "National Instruments",
+   "model": "PXIe-6509",
+   "part": "96-CH 5V/TTL/CMOS (24MA) Digital I/O Module",
+   "part_numbers": [
+    "787358-01"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This is an All-or-None, Brand Name Only procurement.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "National Instruments",
+   "model": "PXIe-2748",
+   "part": "3 GHz 16x1 Multiplexer",
+   "part_numbers": [
+    "780587-48"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This is an All-or-None, Brand Name Only procurement.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "National Instruments",
+   "model": "PXIe-5433",
+   "part": "PXI Waveform Generator, 80 MHz, 16 bits, 800 MS/s, 1 Channels, 512 MB",
+   "part_numbers": [
+    "785117-01"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This is an All-or-None, Brand Name Only procurement.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "National Instruments",
+   "model": "PXI-2569",
+   "part": "PXI Relay Module, SPST (open), 100-Channel, 100 V, 1 A",
+   "part_numbers": [
+    "778572-69"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This is an All-or-None, Brand Name Only procurement.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "National Instruments",
+   "model": "PXIe-2524",
+   "part": "2 A, Multi-bank Multiplexer (16 banks of 8x1, 1-wire)",
+   "part_numbers": [
+    "780587-24"
+   ],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "This is an All-or-None, Brand Name Only procurement.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "National Instruments PXIe-1084 PXI Express test rack",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 11736,
+  "out": 903
+ },
+ "model": "claude-sonnet-5"
+}
