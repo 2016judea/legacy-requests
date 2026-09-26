@@ -23,6 +23,9 @@ static page anyone can search.
 
 - `clients.json` lists the Legistar clients that answer on the public API
   (`https://webapi.legistar.com/v1/<client>/matters`). Add a slug to add a city.
+  `scripts/probe_legistar.py` finds more: it asks the API about a candidate list and
+  prints the slugs that answer with 2024+ matters (crt.sh cannot enumerate them; one
+  wildcard cert covers every client). 2026-09-25: 338 probed, 32 added, 100 clients.
 - `scripts/ingest_granicus.py` walks each `granicus.json` site's public meeting list
   (`<host>.granicus.com/ViewPublisher.php`), opens every agenda since 2024, and keeps
   the items whose staff report or packet pages use sole-source language. Agendas a
