@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Zoll",
+   "model": null,
+   "part": "Cardiac and medical equipment, accessories, services, and software for ambulance transportation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Zoll",
+   "reason": "REQUEST FOR SINGLE SOURCE PROCUREMENTS OF ZOLL AND STRYKER CARDIAC AND MEDICAL EQUIPMENT, ACCESSORIES, SERVICES, AND SOFTWARE FOR AMBULANCE TRANSPORTATION",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": null,
+   "part": "Cardiac and medical equipment, accessories, services, and software for ambulance transportation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker",
+   "reason": "REQUEST FOR SINGLE SOURCE PROCUREMENTS OF ZOLL AND STRYKER CARDIAC AND MEDICAL EQUIPMENT, ACCESSORIES, SERVICES, AND SOFTWARE FOR AMBULANCE TRANSPORTATION",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2036,
+  "out": 561
+ },
+ "model": "claude-sonnet-5"
+}

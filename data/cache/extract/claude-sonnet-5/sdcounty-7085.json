@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "FirstWatch Solutions Inc.",
+   "model": null,
+   "part": "FirstWatch data integration and analysis platform/service for 911 EMS call center surveillance data",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 200000,
+   "lead_time": null,
+   "sole_source_vendor": "FirstWatch Solutions Inc.",
+   "reason": "Under Board Policy A-87 D6, FirstWatch is the only provider with the access and ability to provide all aspects of the data analysis that County Fire needs.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "San Diego County (all four 911 dispatch centers)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 17010,
+  "out": 239
+ },
+ "model": "claude-sonnet-5"
+}

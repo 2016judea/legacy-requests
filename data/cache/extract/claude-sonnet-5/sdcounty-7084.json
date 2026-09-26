@@ -1,0 +1,113 @@
+{
+ "records": [
+  {
+   "manufacturer": "ZOLL",
+   "model": null,
+   "part": "ZOLL cardiac monitors",
+   "part_numbers": [],
+   "quantity": "135",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ZOLL Medical Corporation",
+   "reason": "Staff cannot easily move from one product to another when they are designed with different components or software, which could jeopardize the safety of the public when responding to an emergency.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "SDCFPD ambulances and first responder engines",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ZOLL",
+   "model": null,
+   "part": "ZOLL automated external defibrillators",
+   "part_numbers": [],
+   "quantity": "132",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ZOLL Medical Corporation",
+   "reason": "Staff cannot easily move from one product to another when they are designed with different components or software, which could jeopardize the safety of the public when responding to an emergency.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "SDCFPD ambulances and first responder engines",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "ZOLL",
+   "model": null,
+   "part": "ZOLL cardiac equipment, related accessories, repair and servicing, warranty services, and software for operating the equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "ZOLL Medical Corporation",
+   "reason": "the SDCFPD holds warranties and service agreements with the existing providers that would become obsolete without maintaining current contracts",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "SDCFPD ambulances and first responder engines",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": null,
+   "part": "Stryker power gurneys",
+   "part_numbers": [],
+   "quantity": "87",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker",
+   "reason": "Staff cannot easily move from one product to another when they are designed with different components or software, which could jeopardize the safety of the public when responding to an emergency.",
+   "equipment_class": "other equipment",
+   "installed_location": "SDCFPD ambulances and first responder engines",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": null,
+   "part": "Stryker stair chairs",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker",
+   "reason": "Staff cannot easily move from one product to another when they are designed with different components or software, which could jeopardize the safety of the public when responding to an emergency.",
+   "equipment_class": "other equipment",
+   "installed_location": "SDCFPD ambulances and first responder engines",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": null,
+   "part": "Stryker Power-Loads",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker",
+   "reason": "Staff cannot easily move from one product to another when they are designed with different components or software, which could jeopardize the safety of the public when responding to an emergency.",
+   "equipment_class": "other equipment",
+   "installed_location": "SDCFPD ambulances and first responder engines",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Stryker",
+   "model": null,
+   "part": "Stryker medical equipment, gurneys, related accessories, repair and servicing of the equipment, and warranty services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Stryker",
+   "reason": "the SDCFPD holds warranties and service agreements with the existing providers that would become obsolete without maintaining current contracts",
+   "equipment_class": "other equipment",
+   "installed_location": "SDCFPD ambulances and first responder engines",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 16804,
+  "out": 1474
+ },
+ "model": "claude-sonnet-5"
+}

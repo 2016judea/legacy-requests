@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Hamilton Company",
+   "model": "Microlab Series",
+   "part": "Manufacturer-specific specialized instrumentation, maintenance, consumables, and supplies for automated liquid handling",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": "Hamilton Company",
+   "reason": "Hamilton Company is the only company that manufactures and sells this instrument and must be purchased through them.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Public Health Laboratory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 3,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 21950,
+  "out": 217
+ },
+ "model": "claude-sonnet-5"
+}

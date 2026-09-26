@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Axiallon Software, Inc.",
+   "model": "Probation Case Management System (PCMS)",
+   "part": "Single source renewal of contract for maintenance, support, and enhancements of Probation Case Management System software",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1270000,
+   "lead_time": null,
+   "sole_source_vendor": "Axiallon Software, Inc.",
+   "reason": "Probation has determined a categorial exemption from the Competitive Procurement Policy...and found Axiallon Software, Inc. as the only service provider who can provide the required services.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 3,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 18711,
+  "out": 236
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Diasorin Molecular LLC",
+   "model": "Liaison series",
+   "part": "Manufacturer-specific specialized instrumentation, maintenance, consumables, reagents, and supplies for public health laboratory testing (e.g., QuantiFERON-TB Gold Plus assay)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 140000,
+   "lead_time": null,
+   "sole_source_vendor": "Diasorin Molecular LLC",
+   "reason": "the Diasorin Liaison instrumentation cannot be sold by anyone other than the manufacturer, Diasorin Molecular LLC and qualifies for a single source contract pursuant to Board Policy A-87",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Public Health Laboratory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 19205,
+  "out": 657
+ },
+ "model": "claude-sonnet-5"
+}

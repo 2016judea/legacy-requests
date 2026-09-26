@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "Qiagen Incorporated",
+   "model": null,
+   "part": "DNA analysis supplies (consumables) for Crime Lab DNA analysis equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1000000,
+   "lead_time": null,
+   "sole_source_vendor": "Qiagen Incorporated",
+   "reason": "Qiagen Corporation and Life Technologies manufacture and exclusively distribute the equipment used by he Crime Laboratory for DNA analysis. They are also the sole manufacturers and providers of the consumable supplies",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "County of San Diego Sheriff's Regional Crime Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Life Technologies",
+   "model": null,
+   "part": "DNA analysis supplies (consumables) for Crime Lab DNA analysis equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 1625000,
+   "lead_time": null,
+   "sole_source_vendor": "Life Technologies",
+   "reason": "Qiagen Corporation and Life Technologies manufacture and exclusively distribute the equipment used by he Crime Laboratory for DNA analysis. They are also the sole manufacturers and providers of the consumable supplies",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "County of San Diego Sheriff's Regional Crime Laboratory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 3,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 17048,
+  "out": 497
+ },
+ "model": "claude-sonnet-5"
+}

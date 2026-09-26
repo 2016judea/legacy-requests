@@ -1,0 +1,43 @@
+{
+ "records": [
+  {
+   "manufacturer": "GERSTEL",
+   "model": "MultiPurpose Sampler (MPS) robotic smart series autosampler",
+   "part": "Procurement of two GERSTEL MultiPurpose Sampler robotic (MPS Robotic) smart series autosampler for use with Agilent 8890 GC-MS systems",
+   "part_numbers": [],
+   "quantity": "two",
+   "price_usd": 552359,
+   "lead_time": null,
+   "sole_source_vendor": "GERSTEL",
+   "reason": "GERSTEL is the only vendor that can configure and deliver such a system encompassing the necessary analytical sample preparation and introduction capabilities with complete software control of the GERSTEL and Agilent components.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Diego County Sheriff's Department Regional Crime Laboratory",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Agilent",
+   "model": "8890",
+   "part": "Procurement of one Agilent 8890 Gas Chromatography-Mass Spectrometry (GC-MS) system",
+   "part_numbers": [],
+   "quantity": "one",
+   "price_usd": 153414,
+   "lead_time": null,
+   "sole_source_vendor": "Agilent Technologies",
+   "reason": "two of the three instruments are no longer supported under the manufacturer\\u2019s maintenance contracts, as they are from the early 2000\\u2019s and have since been replaced with newer models",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "San Diego County Sheriff's Department Regional Crime Laboratory",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 16717,
+  "out": 1387
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Silvus Technologies, Inc.",
+   "model": null,
+   "part": "Portable Silvus Technologies, Inc. Radio System, to include Silvus radios, original equipment manufacturer parts, repairs, services, installation, accessories, supplies, and extended warranty",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 352380,
+   "lead_time": null,
+   "sole_source_vendor": "Silvus Technologies, Inc.",
+   "reason": "Silvus Technologies, Inc. radios use advanced radio technology and a unique wireless communication network not compatible with other radios due to proprietary software that does not allow cross communication.",
+   "equipment_class": "communications/radio",
+   "installed_location": "San Diego County (Sheriff's Special Enforcement Detail)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 4,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 15816,
+  "out": 278
+ },
+ "model": "claude-sonnet-5"
+}

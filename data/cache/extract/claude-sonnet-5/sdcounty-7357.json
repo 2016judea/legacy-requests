@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Verisk Analytics Inc.",
+   "model": "Anti-Fraud One - Government (AF1-Gov)",
+   "part": "Software license, with access to the ISO ClaimSearch proprietary database, and user training for investigations of insurance fraud",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 405000,
+   "lead_time": null,
+   "sole_source_vendor": "Verisk Analytics Inc.",
+   "reason": "a unique combination not available from other sources where competition is also precluded because of the existence of proprietary information, pursuant to Board Policy A-87, Competitive Procurement: A-87 (D.3) and (D.1)",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 16737,
+  "out": 262
+ },
+ "model": "claude-sonnet-5"
+}

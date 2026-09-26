@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "NarcX Solutions",
+   "part": "On-site narcotics destruction services utilizing NarcX Solutions products",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 300000,
+   "lead_time": null,
+   "sole_source_vendor": "GAIACA Waste Revitalization",
+   "reason": "GAIACA is the only company in California registered with the DEA as a Reverse-Distributor with physical on-site narcotics destruction capabilities utilizing NarcX Solutions products.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 3,
+  "pdfs_scanned": 2,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 17303,
+  "out": 231
+ },
+ "model": "claude-sonnet-5"
+}
