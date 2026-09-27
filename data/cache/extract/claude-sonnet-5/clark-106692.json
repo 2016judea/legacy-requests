@@ -1,0 +1,141 @@
+{
+ "records": [
+  {
+   "manufacturer": "Floway",
+   "model": null,
+   "part": "Floway vertical turbine pumps and other various manufacturer authorized pumps, parts, and products",
+   "part_numbers": [],
+   "quantity": "as needed",
+   "price_usd": 200000,
+   "lead_time": "5 \u2013 15 Calendar days (Maximum 120 calendar days)",
+   "sole_source_vendor": "Phoenix Pumps, Inc.",
+   "reason": "Staff confirmed that Phoenix Pumps, Inc. is the authorized sole source distributor of Floway and other various manufacturer authorized pumps, parts, and products.",
+   "equipment_class": "pump",
+   "installed_location": "West Campus Effluent Reuse Water (ERW) Pump Station and Temporary Storage Ponds",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Grundfos",
+   "model": null,
+   "part": "Submersible Pump",
+   "part_numbers": [
+    "05019203"
+   ],
+   "quantity": "1 Each",
+   "price_usd": 1663.45,
+   "lead_time": "5 \u2013 15 Calendar days (Maximum 120 calendar days)",
+   "sole_source_vendor": "Phoenix Pumps, Inc.",
+   "reason": "Staff confirmed that Phoenix Pumps, Inc. is the authorized sole source distributor of Floway and other various manufacturer authorized pumps, parts, and products.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Grundfos",
+   "model": null,
+   "part": "Motor",
+   "part_numbers": [
+    "96465574"
+   ],
+   "quantity": "1 Each",
+   "price_usd": 824.6,
+   "lead_time": "5 \u2013 15 Calendar days (Maximum 120 calendar days)",
+   "sole_source_vendor": "Phoenix Pumps, Inc.",
+   "reason": "Staff confirmed that Phoenix Pumps, Inc. is the authorized sole source distributor of Floway and other various manufacturer authorized pumps, parts, and products.",
+   "equipment_class": "motor/drive",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Grundfos",
+   "model": null,
+   "part": "NPT PE",
+   "part_numbers": [
+    "5010003"
+   ],
+   "quantity": "1 Each",
+   "price_usd": 947.15,
+   "lead_time": "5 \u2013 15 Calendar days (Maximum 120 calendar days)",
+   "sole_source_vendor": "Phoenix Pumps, Inc.",
+   "reason": "Staff confirmed that Phoenix Pumps, Inc. is the authorized sole source distributor of Floway and other various manufacturer authorized pumps, parts, and products.",
+   "equipment_class": "pipe/fitting",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Chesterton",
+   "model": null,
+   "part": "Seal",
+   "part_numbers": [
+    "2089777"
+   ],
+   "quantity": "1 Each",
+   "price_usd": 2770.2,
+   "lead_time": "5 \u2013 15 Calendar days (Maximum 120 calendar days)",
+   "sole_source_vendor": "Phoenix Pumps, Inc.",
+   "reason": "Staff confirmed that Phoenix Pumps, Inc. is the authorized sole source distributor of Floway and other various manufacturer authorized pumps, parts, and products.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Chesterton",
+   "model": null,
+   "part": "Seal",
+   "part_numbers": [
+    "2089755"
+   ],
+   "quantity": "1 Each",
+   "price_usd": 2106.15,
+   "lead_time": "5 \u2013 15 Calendar days (Maximum 120 calendar days)",
+   "sole_source_vendor": "Phoenix Pumps, Inc.",
+   "reason": "Staff confirmed that Phoenix Pumps, Inc. is the authorized sole source distributor of Floway and other various manufacturer authorized pumps, parts, and products.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Chesterton",
+   "model": null,
+   "part": "Seal",
+   "part_numbers": [
+    "2089765"
+   ],
+   "quantity": "1 Each",
+   "price_usd": 2475.7,
+   "lead_time": "5 \u2013 15 Calendar days (Maximum 120 calendar days)",
+   "sole_source_vendor": "Phoenix Pumps, Inc.",
+   "reason": "Staff confirmed that Phoenix Pumps, Inc. is the authorized sole source distributor of Floway and other various manufacturer authorized pumps, parts, and products.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Chesterton",
+   "model": null,
+   "part": "Seal",
+   "part_numbers": [
+    "2089399"
+   ],
+   "quantity": "1 Each",
+   "price_usd": 4905.8,
+   "lead_time": "5 \u2013 15 Calendar days (Maximum 120 calendar days)",
+   "sole_source_vendor": "Phoenix Pumps, Inc.",
+   "reason": "Staff confirmed that Phoenix Pumps, Inc. is the authorized sole source distributor of Floway and other various manufacturer authorized pumps, parts, and products.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 36752,
+  "out": 6942
+ },
+ "model": "claude-sonnet-5"
+}

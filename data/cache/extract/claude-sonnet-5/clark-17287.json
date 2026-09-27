@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Veolia",
+   "model": null,
+   "part": "Bar Screens, Replacement Parts, Equipment, and Technical Services on an as needed basis",
+   "part_numbers": [],
+   "quantity": "4 bar screen units",
+   "price_usd": 580000,
+   "lead_time": null,
+   "sole_source_vendor": "Veolia WTS Services USA, Inc.",
+   "reason": "Staff confirmed that Veolia is the exclusive provider of its products and services, serving as the sole source provider for bar screens, replacement parts, equipment, and technical support.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Clark County Water Reclamation District",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 1
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3989,
+  "out": 252
+ },
+ "model": "claude-sonnet-5"
+}

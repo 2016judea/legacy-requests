@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Manufacturer Authorized Equipment, Parts, and Technical Support for pumping operations",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "DXP Enterprises, Inc. dba Cortech Engineering, LLC, a DXP Company",
+   "reason": "the parts and equipment can only be purchased from a sole source distributor and the equipment is compatible with existing equipment",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Manufacturer Authorized Equipment, Parts, and Technical Support for solids separation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "DXP Enterprises, Inc. dba Cortech Engineering, LLC, a DXP Company",
+   "reason": "the parts and equipment can only be purchased from a sole source distributor and the equipment is compatible with existing equipment",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Manufacturer Authorized Equipment, Parts, and Technical Support for ozone disinfection",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "DXP Enterprises, Inc. dba Cortech Engineering, LLC, a DXP Company",
+   "reason": "the parts and equipment can only be purchased from a sole source distributor and the equipment is compatible with existing equipment",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 1
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4057,
+  "out": 876
+ },
+ "model": "claude-sonnet-5"
+}

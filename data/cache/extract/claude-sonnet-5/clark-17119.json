@@ -1,0 +1,423 @@
+{
+ "records": [
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Filter Assembly",
+   "part_numbers": [
+    "1L485"
+   ],
+   "quantity": "Each",
+   "price_usd": 245.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Filter Element Kit",
+   "part_numbers": [
+    "1L485A"
+   ],
+   "quantity": "Each",
+   "price_usd": 47.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Immersion Probes",
+   "part_numbers": [
+    "60C96"
+   ],
+   "quantity": "Each",
+   "price_usd": 1905.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Seal Housing \u2013 Upper, D-Shaft",
+   "part_numbers": [
+    "60C97"
+   ],
+   "quantity": "Each",
+   "price_usd": 1905.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Seal Housing \u2013 Lower, D-Shaft",
+   "part_numbers": [
+    "60A87"
+   ],
+   "quantity": "Each",
+   "price_usd": 18.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Impeller Bolt D-Shaft",
+   "part_numbers": [
+    "60A12"
+   ],
+   "quantity": "Each",
+   "price_usd": 16.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Impeller Washer D-Shaft",
+   "part_numbers": [
+    "60A86"
+   ],
+   "quantity": "Each",
+   "price_usd": 209.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Impeller Washer B-Shaft",
+   "part_numbers": [
+    "60A20"
+   ],
+   "quantity": "Each",
+   "price_usd": 43.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Seal Housing Quad Ring D-Shaft",
+   "part_numbers": [
+    "60A112"
+   ],
+   "quantity": "Each",
+   "price_usd": 8.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Seal Housing Quad Ring B-Shaft",
+   "part_numbers": [
+    "60A110"
+   ],
+   "quantity": "Each",
+   "price_usd": 20.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Inner O-Ring for 60C112",
+   "part_numbers": [
+    "11L207A"
+   ],
+   "quantity": "Each",
+   "price_usd": 3.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Outer O-Ring for 60C112",
+   "part_numbers": [
+    "11L207B"
+   ],
+   "quantity": "Each",
+   "price_usd": 3.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Volute Gasket 18-7/8\"",
+   "part_numbers": [
+    "60A107B"
+   ],
+   "quantity": "Each",
+   "price_usd": 62.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Volute Gasket 16\" O.D.",
+   "part_numbers": [
+    "60A106B"
+   ],
+   "quantity": "Each",
+   "price_usd": 74.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Volute Gasket 10-7/8\" O.D.",
+   "part_numbers": [
+    "60A26"
+   ],
+   "quantity": "Each",
+   "price_usd": 52.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Mechanical Seal Kit \u2013 Double, D-Shaft, Balanced (Less Sleeve)",
+   "part_numbers": [
+    "H60A137"
+   ],
+   "quantity": "Each",
+   "price_usd": 1913.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Mechanical Seal Kit \u2013 Double, D-Shaft",
+   "part_numbers": [
+    "H60A121"
+   ],
+   "quantity": "Each",
+   "price_usd": 1066.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Mechanical Seal Kit \u2013 Double, B-Shaft",
+   "part_numbers": [
+    "H60A119"
+   ],
+   "quantity": "Each",
+   "price_usd": 528.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Impeller \u2013 4D5, CCW, 16\u201d (For 12-7116-W)",
+   "part_numbers": [
+    "60D235-160-SDB"
+   ],
+   "quantity": "Each",
+   "price_usd": 11284.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Impeller \u2013 4B2a*1, CW, 8-1/8\u201d (For 10-7192, Trimmed for original pumping conditions of 180 GPM @ 65\u2019 TDH)",
+   "part_numbers": [
+    "60B269A-81-SDB"
+   ],
+   "quantity": "Each",
+   "price_usd": 3588.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Impeller \u2013 4B2a*1, CCW, 8-1/8\u201d (For 10-7192, Trimmed for original pumping conditions of 180 GPM @ 65\u2019 TDH)",
+   "part_numbers": [
+    "60B269B-81-SDB"
+   ],
+   "quantity": "Each",
+   "price_usd": 3588.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Impeller \u2013 8D4C, CCW, 14-3/4\u201d, w/ Wear Ring",
+   "part_numbers": [
+    "60D189-146WR-SDB"
+   ],
+   "quantity": "Each",
+   "price_usd": 17042.0,
+   "lead_time": "TBD \u2013 LEAD TIME IS DEPENDENT ON THE SPECIFIC PARTS ORDERED",
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "pump",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Standard Rate: Factory Vibration Testing, Off-Site, includes Certificate of Vibration Testing and necessary test report (add to pump price)",
+   "part_numbers": [],
+   "quantity": "Per Pump",
+   "price_usd": 2381.0,
+   "lead_time": null,
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Standard Rate: Factory Certified Pump Testing, Off-Site: includes Certificate of Pump Testing (add to pump price)",
+   "part_numbers": [],
+   "quantity": "Per Pump",
+   "price_usd": 4737.0,
+   "lead_time": null,
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Standard Rate: Factory Impeller Dynamic Balancing, Off-Site, includes necessary test report (add to pump price)",
+   "part_numbers": [],
+   "quantity": "Per Pump",
+   "price_usd": 573.0,
+   "lead_time": null,
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "Staff confirmed that Charles P. Crowley Company is the exclusive authorized distributor of Smith & Loveless pumps and compatible parts for the District's existing equipment.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Smith & Loveless",
+   "model": null,
+   "part": "Smith & Loveless Pumps, Parts, and Technical Support (blanket agreement, purchase orders issued on an as needed basis)",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 75000.0,
+   "lead_time": null,
+   "sole_source_vendor": "Charles P. Crowley Company",
+   "reason": "the competitive bidding process is not required because the parts and equipment can only be purchased from a sole source distributor, and the equipment is compatible with existing equipment",
+   "equipment_class": "pump",
+   "installed_location": "The District's treatment facilities",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 37092,
+  "out": 8085
+ },
+ "model": "claude-sonnet-5"
+}
