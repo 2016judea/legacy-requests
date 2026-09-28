@@ -19,3 +19,7 @@ data/cache/boarddocs/
 .env.local
 data/cache/sam/
 data/cache/pdf/sam-*.json
+
+# private: outreach ledger and agent worktrees never ship
+outreach/
+.claude/
