@@ -1,0 +1,69 @@
+{
+ "records": [
+  {
+   "manufacturer": "Wynn",
+   "model": "Type C Triple Bladed, Straight-Line, Heavy Duty, Marine Window Wiper",
+   "part": "MARINE WINDOW WIPER, CENTER",
+   "part_numbers": [
+    "IM-FRC-1588-3-SH-D10-115-(S430-A600-B650A)",
+    "IM-FRC-469-600",
+    "IM-FRC-553-650"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Marine Window Wipers for USCGC Richard Snyder (BRAND NAME ONLY)",
+   "equipment_class": "other equipment",
+   "installed_location": "USCGC Richard Snyder",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Wynn",
+   "model": "Type C Dual Bladed, Straight-Line, Heavy Duty, Marine Window Wiper",
+   "part": "MARINE WINDOW WIPER, STARBOARD",
+   "part_numbers": [
+    "IM-FRC-1588-2-SH-D6-115-(S430-A600-B650A)",
+    "IM-FRC-469-600",
+    "IM-FRC-553-650"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Marine Window Wipers for USCGC Richard Snyder (BRAND NAME ONLY)",
+   "equipment_class": "other equipment",
+   "installed_location": "USCGC Richard Snyder",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Wynn",
+   "model": "Type C Dual Bladed, Straight-Line, Heavy Duty, Marine Window Wiper",
+   "part": "MARINE WINDOW WIPER, PORT",
+   "part_numbers": [
+    "IM-FRC-1588-2-OH-D6-115-(S430-A600-B650A)",
+    "IM-FRC-469-600",
+    "IM-FRC-553-650"
+   ],
+   "quantity": "2 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Marine Window Wipers for USCGC Richard Snyder (BRAND NAME ONLY)",
+   "equipment_class": "other equipment",
+   "installed_location": "USCGC Richard Snyder",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5301,
+  "out": 1173
+ },
+ "model": "claude-sonnet-5"
+}

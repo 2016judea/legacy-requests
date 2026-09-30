@@ -1,0 +1,319 @@
+{
+ "records": [
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": null,
+   "part": "Fuel/Energy Surcharge - Fixed surcharge applied per service visit",
+   "part_numbers": [
+    "W3TSP3006"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "being the sole supplier of requested service to the VA Hospital and Health Care Center",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Richmond Veterans Affairs Medical Center (VAMC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": null,
+   "part": "PM Contract Recurring (Parts & Labor) - recurring annual preventive maintenance for the DI system",
+   "part_numbers": [
+    "W3TSP3011"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "being the sole supplier of requested service to the VA Hospital and Health Care Center",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Richmond Veterans Affairs Medical Center (VAMC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": null,
+   "part": "Conductivity Readings & Record Data - contractor performs conductivity testing of DI water output",
+   "part_numbers": [
+    "W3TSP4346"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "being the sole supplier of requested service to the VA Hospital and Health Care Center",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Richmond Veterans Affairs Medical Center (VAMC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": null,
+   "part": "Adjust Flows and/or Pressures - technician adjusts internal system flows and pressures",
+   "part_numbers": [
+    "W3TSP4408"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "being the sole supplier of requested service to the VA Hospital and Health Care Center",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Richmond Veterans Affairs Medical Center (VAMC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": null,
+   "part": "Inspect Pumps - inspection and verification of pump condition and operation",
+   "part_numbers": [
+    "W3TSP4417"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "being the sole supplier of requested service to the VA Hospital and Health Care Center",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Richmond Veterans Affairs Medical Center (VAMC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": null,
+   "part": "SDI Test and Record Data - Silt Density Index (SDI) testing performed regularly",
+   "part_numbers": [
+    "W3TSP4418"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "being the sole supplier of requested service to the VA Hospital and Health Care Center",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Richmond Veterans Affairs Medical Center (VAMC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": null,
+   "part": "Perform & Replace Prefilter Maintenance per PMI - replacement of prefilters according to manufacturer PMI schedule",
+   "part_numbers": [
+    "W3TSP4601"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "being the sole supplier of requested service to the VA Hospital and Health Care Center",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Richmond Veterans Affairs Medical Center (VAMC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": null,
+   "part": "Clean or Sanitize Distribution Loop - full loop cleaning and sanitization using approved disinfectant processes",
+   "part_numbers": [
+    "W3TSP4708"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "being the sole supplier of requested service to the VA Hospital and Health Care Center",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Richmond Veterans Affairs Medical Center (VAMC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": null,
+   "part": "20\" 5\u00b5m MB CDF PP Plyfm Cartridge - 20-inch depth filter cartridge, 5-micron nominal rating",
+   "part_numbers": [
+    "W2T159701"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "being the sole supplier of requested service to the VA Hospital and Health Care Center",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Richmond Veterans Affairs Medical Center (VAMC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": null,
+   "part": "UV Lamp (24W, 254nm, Single-End, 4-Pin) - ultraviolet germicidal lamp for microbial reduction",
+   "part_numbers": [
+    "W2T850795"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "Single end, 4 pin configuration compatible with Evoqua UV housing.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Richmond Veterans Affairs Medical Center (VAMC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": "QS535",
+   "part": "Quartz Sleeve QS535 - quartz protective sleeve for UV lamp insertion",
+   "part_numbers": [
+    "W2T850799"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "being the sole supplier of requested service to the VA Hospital and Health Care Center",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Richmond Veterans Affairs Medical Center (VAMC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": null,
+   "part": "O Ring, LF UV System - OEM O ring seal designed for UV system housing",
+   "part_numbers": [
+    "W2T850802"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "being the sole supplier of requested service to the VA Hospital and Health Care Center",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Richmond Veterans Affairs Medical Center (VAMC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": null,
+   "part": "Washer, LF UV Systems - OEM washer component for UV lamp housing assembly",
+   "part_numbers": [
+    "W2T850803"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "being the sole supplier of requested service to the VA Hospital and Health Care Center",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Richmond Veterans Affairs Medical Center (VAMC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": null,
+   "part": "20\" 0.2\u00b5m PLT CDF ABS PS1 SIL Cartridge - absolute-rated cartridge for final particulate and microbial filtration",
+   "part_numbers": [
+    "W2T918450"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "being the sole supplier of requested service to the VA Hospital and Health Care Center",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Richmond Veterans Affairs Medical Center (VAMC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": null,
+   "part": "NIL-8 Test Strip (PAA), 50/Test Tube - test strips for peracetic acid concentration monitoring",
+   "part_numbers": [
+    "W2T934633"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "being the sole supplier of requested service to the VA Hospital and Health Care Center",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Richmond Veterans Affairs Medical Center (VAMC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": null,
+   "part": "NIL-8 Test Strip (H2O2), 50/Test Tube - hydrogen peroxide concentration test strips",
+   "part_numbers": [
+    "W2T934634"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "being the sole supplier of requested service to the VA Hospital and Health Care Center",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Richmond Veterans Affairs Medical Center (VAMC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": null,
+   "part": "NIL-8 Sanitizer (1.5 Gallons) - sanitizing agent used for loop disinfection",
+   "part_numbers": [
+    "W2T936744"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "Compatible with Evoqua systems and lab water distribution materials.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Richmond Veterans Affairs Medical Center (VAMC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": null,
+   "part": "SDI Mixbed 3.6 CF FBGLS STD Pot - mixed-bed deionization tank removing ionic contaminants",
+   "part_numbers": [
+    "W5TDIMB10360FSP"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "being the sole supplier of requested service to the VA Hospital and Health Care Center",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Richmond Veterans Affairs Medical Center (VAMC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Evoqua Water Technologies",
+   "model": null,
+   "part": "SDI React Carbon 3.6 CF FBGLS STD Pot - activated carbon tank removing chlorine/chloramine and organics",
+   "part_numbers": [
+    "W5TDIRAC0360FSP"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Evoqua Water Technologies",
+   "reason": "being the sole supplier of requested service to the VA Hospital and Health Care Center",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "Richmond Veterans Affairs Medical Center (VAMC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 6831,
+  "out": 5798
+ },
+ "model": "claude-sonnet-5"
+}

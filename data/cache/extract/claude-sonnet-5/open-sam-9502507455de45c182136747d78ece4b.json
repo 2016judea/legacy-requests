@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Wisconsin Oven",
+   "model": "Batch-8/16/8-E10/RM",
+   "part": "Brand Name or Equal Electrically Heated Batch Walk-In Series Oven with installation and training",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "soliciting information from potential sources for a acquisition requirement of a Brand Name or Equal to Wisconsin Oven Electrically Heated Batch Walk-In Series Oven",
+   "equipment_class": "other equipment",
+   "installed_location": "NASA Marshall Space Flight Center (MSFC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Watlow",
+   "model": "F4T",
+   "part": "Oven control system, PID control, FM approved high limit, IEC starters",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Watlow F4T or equivalent, PID control, FM approved high limit, IEC starters, fused circuits, blower interlocks, main power disconnect",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "NASA Marshall Space Flight Center (MSFC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Customized filament winding cart that fits the inside of the oven",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Customized filament winding cart that fits the inside of the oven",
+   "equipment_class": "other equipment",
+   "installed_location": "NASA Marshall Space Flight Center (MSFC)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Custom filament winding 3-inch rotational chuck",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Customs filament winding 3-inch rotational chuck",
+   "equipment_class": "other equipment",
+   "installed_location": "NASA Marshall Space Flight Center (MSFC)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4054,
+  "out": 750
+ },
+ "model": "claude-sonnet-5"
+}

@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Dassault Systemes",
+   "model": "ABAQUS",
+   "part": "License for updated ABAQUS finite element software and technical support services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Dassault Systemes Government Solutions Corp",
+   "reason": "Abaqus stands out as the sole software that meets our full requirements and can effectively solve sophisticated problems encompassing all these factors concurrently.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "NIOSH/HELD/PERB, Morgantown WV",
+   "is_obsolete": true
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4211,
+  "out": 227
+ },
+ "model": "claude-sonnet-5"
+}

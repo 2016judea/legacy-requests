@@ -90,6 +90,16 @@ static page anyone can search.
   700 extracted ($21.18) -> 1,530 records. Resume more with `scripts/extract.py federal-sam --limit N`,
   then ALWAYS `scripts/extract.py --cached-only` (a single-slug run rewrites the store with that slug only).
 
+- **Open notices (`make open`, page `/open`).** `scripts/ingest_sam_open.py` catches federal sole-source
+  purchases BEFORE they happen: Special Notices ("intent to sole source"), Presolicitations, Sources Sought
+  and brand-name solicitations whose response deadline is still ahead (keyed search with `rdlfrom`, 4 calls a
+  day). Extracted with `extract.py`'s schema and cache (slug `open-sam`, never written into records.jsonl),
+  then matched to supply listings (the join's rule), to the dealers' sitemaps by printed part number, and to
+  the makers each dealer carries. Writes `data/open_notices.jsonl`; `build_site.py` renders `site/open/`.
+  Contracting-officer contact goes to `outreach/open_contacts.jsonl` (gitignored), never the page.
+  2026-09-30: 79 notices listed, 14 buying a physical part, 5 print a part number, 5 name a maker a dealer
+  lists, 2 both, 0 on a dealer's shelf by exact part number. $0.69 of extraction.
+
 ## Record fields
 
 agency, state, date, manufacturer, model, part_numbers (every catalog/part number printed, verbatim; absent on 336 older rows the 2026-09-25 re-read could not pair, and on older service contracts), part, quantity, price_usd,

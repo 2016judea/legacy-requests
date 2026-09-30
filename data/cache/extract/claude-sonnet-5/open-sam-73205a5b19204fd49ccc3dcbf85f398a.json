@@ -1,0 +1,57 @@
+{
+ "records": [
+  {
+   "manufacturer": "Biomerieux",
+   "model": "BacT Alert Virtuo",
+   "part": "Microbial Detection System capable of culturing blood and sterile body fluid specimens, incubating/monitoring 400+ culture bottles simultaneously",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "90 Days After Receipt of Order",
+   "sole_source_vendor": "Biomerieux, Inc.",
+   "reason": "Because this requirement relies on strict compatibility with existing proprietary laboratory supplies and market research indicates no reasonable expectation of receiving quotes from two or more small businesses for an equivalent integrated system",
+   "equipment_class": "other equipment",
+   "installed_location": "NMC San Diego, Microbiology Department, Bldg 1, 3rd floor, 34800 Bob Wilson Dr, San Diego, CA 92134",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Biomerieux",
+   "model": null,
+   "part": "MW 1 Installation Interface able to interface MHS Genesis with a valid ATO",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": "90 Days After Receipt of Order",
+   "sole_source_vendor": "Biomerieux, Inc.",
+   "reason": "Because this requirement relies on strict compatibility with existing proprietary laboratory supplies and market research indicates no reasonable expectation of receiving quotes from two or more small businesses for an equivalent integrated system",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "NMC San Diego, Microbiology Department, Bldg 1, 3rd floor, 34800 Bob Wilson Dr, San Diego, CA 92134",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Biomerieux",
+   "model": "BTA Virtuo 428",
+   "part": "Enhanced Warranty providing 12 months coverage with on-site technical support within 24 to 48 hours and remote engineering support",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Biomerieux, Inc.",
+   "reason": "Because this requirement relies on strict compatibility with existing proprietary laboratory supplies and market research indicates no reasonable expectation of receiving quotes from two or more small businesses for an equivalent integrated system",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "NMC San Diego, Microbiology Department, Bldg 1, 3rd floor, 34800 Bob Wilson Dr, San Diego, CA 92134",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5240,
+  "out": 1462
+ },
+ "model": "claude-sonnet-5"
+}

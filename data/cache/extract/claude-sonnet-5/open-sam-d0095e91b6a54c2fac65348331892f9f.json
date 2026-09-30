@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "S&P Global",
+   "model": "Capital IQ",
+   "part": "Brand-name subscription to the Capital IQ financial database, including data licenses and API access",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": 3591617.59,
+   "lead_time": null,
+   "sole_source_vendor": "S&P Global Market Intelligence",
+   "reason": "the Capital IQ data licenses and API access are sold only through S&P Global Market Intelligence. The contractor does not authorize resellers, distributors, or third parties to license or deliver this product.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 15690,
+  "out": 233
+ },
+ "model": "claude-sonnet-5"
+}

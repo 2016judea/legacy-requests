@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "design, build, test, and delivery of one new special purpose, split-hull, trailing suction shallow draft hopper dredge to replace the Dredge Currituck",
+   "part_numbers": [],
+   "quantity": "one",
+   "price_usd": null,
+   "lead_time": "16-month duration period",
+   "sole_source_vendor": "Conrad Shipyard, LLC",
+   "reason": "Conrad has comprehensive knowledge of the critical and complex components of the DREDGE MURDEN, including ownership of elements of the technical design package.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4010,
+  "out": 625
+ },
+ "model": "claude-sonnet-5"
+}

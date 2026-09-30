@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "HUGS Patient Security System",
+   "part": "Maintenance and support services including repair services for HUGS Patient Security System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Northeast Protections Partners, Inc. (NEPPS)",
+   "reason": "The intended brand is Northeast Protections Partners, Inc. (NEPPS).",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": "Navy Medicine Readiness and Training Command (NMRTC) Portsmouth, Virginia",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3319,
+  "out": 225
+ },
+ "model": "claude-sonnet-5"
+}

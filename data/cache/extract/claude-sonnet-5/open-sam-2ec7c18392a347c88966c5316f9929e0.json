@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Envirosight",
+   "model": null,
+   "part": "Envirosight equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "SANSOM Equipment Company",
+   "reason": "intends to issue a commercial supply purchase order pursuant to the authority of FAR 6.302-1 on a sole source basis to SANSOM Equipment Company",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2743,
+  "out": 493
+ },
+ "model": "claude-sonnet-5"
+}

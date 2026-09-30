@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Siemens Healthcare Diagnostics, Inc.",
+   "model": null,
+   "part": "FDA approved specimen validity and Fentanyl reagents, including nitrite and creatinine assays",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Siemens Healthcare Diagnostics, Inc.",
+   "reason": "Only one responsible source and no other supplies will satisfy agency requirements",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Minneapolis VA Health Care System",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3075,
+  "out": 218
+ },
+ "model": "claude-sonnet-5"
+}

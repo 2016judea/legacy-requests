@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Ecoaims Oy",
+   "model": "CBR500",
+   "part": "Biathlon Laser Rifle Training System - Camera Rifle Set with fully integrated target",
+   "part_numbers": [
+    "K-1298-XX-XX-CBR"
+   ],
+   "quantity": "Up to Six (6) complete sets",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Robert Rosser",
+   "reason": "The Vermont Army National Guard Biathlon Team requires high-precision, lead-free, and safe electronic training systems to conduct biathlon training and operational marksmanship development.",
+   "equipment_class": "other equipment",
+   "installed_location": "Camp Johnson, Colchester, Vermont",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3147,
+  "out": 256
+ },
+ "model": "claude-sonnet-5"
+}

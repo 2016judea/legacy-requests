@@ -1,0 +1,55 @@
+{
+ "records": [
+  {
+   "manufacturer": "Elbit America, Inc.",
+   "model": null,
+   "part": "Repair of twenty-five (25) NSNs (Display Units, Processors, Digital Video Recorders, Circuit Card Assemblies - LRUs/SRUs) for F-16 and A-10 avionics",
+   "part_numbers": [
+    "1260-01-517-4127WF",
+    "1260-01-543-9004FJ",
+    "1260-01-629-8084WF",
+    "1280-01-517-2720WF",
+    "1280-01-600-0813WF",
+    "1280-01-600-0988WF",
+    "1290-01-523-9628WF",
+    "1290-01-592-8404WF",
+    "5836-01-520-4682WF",
+    "5836-01-622-0444WF",
+    "5836-01-615-3136",
+    "5836-01-620-7418",
+    "5975-01-576-1361WF",
+    "5998-01-577-5206WF",
+    "5975-01-624-8392WF",
+    "5998-01-559-1236WF",
+    "5998-01-559-1237WF",
+    "5998-01-559-1240WF",
+    "5998-01-559-1241WF",
+    "5998-01-559-3113WF",
+    "5998-01-592-8704WF",
+    "5998-01-616-4384",
+    "7025-01-509-3748",
+    "7025-01-516-1147WF",
+    "5998-01-623-8811"
+   ],
+   "quantity": "25 NSNs",
+   "price_usd": 98076893.4,
+   "lead_time": "10-year period of performance, including a five-year base period and five one-year options",
+   "sole_source_vendor": "Elbit America, Inc.",
+   "reason": "Elbit America, Inc. is the Original Equipment Manufacturer (OEM) and retains exclusive ownership of the proprietary technical data, manufacturing drawings, specialized diagnostic software, and Special Test Equipment (STE) required to perform these repairs.",
+   "equipment_class": "service/maintenance contract",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2888,
+  "out": 1080
+ },
+ "model": "claude-sonnet-5"
+}

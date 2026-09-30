@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Pulsetech",
+   "model": null,
+   "part": "commercial battery chargers, maintainers, testers, and accessories supporting numerous Military aircraft and vehicles",
+   "part_numbers": [],
+   "quantity": "36 National Stock Numbers (NSNs)",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Pulsetech (00NQ8)",
+   "reason": "This acquisition is for supplies for which the Government does not possess complete unrestrictive technical data under the authority of 10 U.S.C. 3204(a)(1).",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2537,
+  "out": 230
+ },
+ "model": "claude-sonnet-5"
+}

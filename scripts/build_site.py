@@ -155,6 +155,8 @@ def render(recs: list[dict]) -> str:
     sup_names = ", ".join(names[:-1]) + (" and " if len(names) > 1 else "") + (names[-1] if names else "")
     sup_lede = (f' <b>{n_sup:,} can be bought right now</b>: {n_list:,} matching listing{"s" if n_list != 1 else ""} on {sup_names}.'
                 if n_sup else "")
+    n_open = len(load_open())
+    open_lede = f' <a href="/open"><b>{n_open} federal sole-source notices are still open</b> for a supplier to answer &rarr;</a>' if n_open else ""
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -228,7 +230,7 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
 <body>
 <header>
 <h1>{TITLE}</h1>
-<p class="lede"><b>{n_hw:,} pieces of physical equipment</b> that <b>{len(agencies)} public agencies</b> could buy from only one supplier, {span(dates)}. Each row quotes the agency's own reason and links to the source document.{sup_lede}</p>
+<p class="lede"><b>{n_hw:,} pieces of physical equipment</b> that <b>{len(agencies)} public agencies</b> could buy from only one supplier, {span(dates)}. Each row quotes the agency's own reason and links to the source document.{sup_lede}{open_lede}</p>
 <div class="controls">
   <input id="q" type="search" placeholder="Search manufacturer, model, part, vendor, agency…" autocomplete="off" autofocus>
   <select id="mfr"><option value="">All manufacturers</option></select>
@@ -315,12 +317,136 @@ loadAll();
 """
 
 
+# ---------------------------------------------------------------- /open: notices still taking responses
+
+def load_open() -> list[dict]:
+    """data/open_notices.jsonl, written by scripts/ingest_sam_open.py (make open). No contracting-officer contact:
+    that file never carries it, and the page links to the notice, which does."""
+    f = ROOT / "data" / "open_notices.jsonl"
+    return [json.loads(l) for l in f.read_text().splitlines() if l.strip()] if f.exists() else []
+
+
+def _esc(v) -> str:
+    return (str(v if v is not None else "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;"))
+
+
+def _dealer_chip(d: dict) -> str:
+    why = {"catalog": "has this part number", "brand": f"carries {d.get('brand')}",
+           "listings": f"{d.get('n')} listings of this maker"}[d["why"]]
+    inner = f"<b>{_esc(d['name'])}</b> <small>{_esc(why)}</small>"
+    return f'<a class="dl" href="{_esc(d["url"])}">{inner}</a>' if d.get("url") else f'<span class="dl">{inner}</span>'
+
+
+def _part_li(pt: dict) -> str:
+    head = " ".join(_esc(x) for x in (pt.get("manufacturer"), pt.get("model")) if x) or "Maker not named"
+    pns = "".join(f"<code>{_esc(x)}</code>" for x in pt.get("part_numbers") or [])
+    qty = f' <small>qty {_esc(pt["quantity"])}</small>' if pt.get("quantity") else ""
+    dealers = {d["slug"]: d for d in pt.get("dealers") or []}
+    sup = "".join(f'<a class="dl" href="{_esc(l["url"])}"><b>{_esc(SOURCE_NAMES.get(l["source"], l["source"]))}</b> <small>listing</small></a>'
+                  for l in pt.get("supply") or [])
+    chips = sup + "".join(_dealer_chip(d) for d in dealers.values())
+    return (f'<li><div class="pm">{head}{qty}</div><div class="pp">{_esc(pt.get("part"))}</div>'
+            + (f'<div class="pns">{pns}</div>' if pns else "")
+            + (f'<div class="dls">{chips}</div>' if chips else "") + "</li>")
+
+
+def render_open(rows: list[dict]) -> str:
+    n_pn = sum(r["has_part_number"] for r in rows)
+    n_dl = sum(r["has_dealer"] for r in rows)
+    cards = []
+    for r in rows:
+        tags = "".join(f'<span class="tag {c}">{t}</span>' for c, t, on in
+                       (("pn", "part number printed", r["has_part_number"]), ("dlr", "dealer candidate", r["has_dealer"])) if on)
+        cards.append(
+            f'<article data-pn="{int(r["has_part_number"])}" data-dl="{int(r["has_dealer"])}" data-end="{_esc(r["deadline"])}">'
+            f'<div class="due"><span class="cd"></span> <small>responses due {_esc(r["deadline_date"])}</small></div>'
+            f'<h2><a href="{_esc(r["sam_url"])}">{_esc(r["title"])}</a></h2>'
+            f'<div class="who">{_esc(r["agency"])}{" · " + _esc(r["office"]) if r.get("office") and r["office"] != r["agency"] else ""} · {_esc(r["type"])}'
+            f'{" · " + _esc(r["solicitation"]) if r.get("solicitation") else ""}</div>{tags and f"<div>{tags}</div>"}'
+            f'<ul>{"".join(_part_li(p) for p in r["parts"][:3])}</ul>'
+            + (f'<details><summary>{len(r["parts"]) - 3} more parts</summary><ul>{"".join(_part_li(p) for p in r["parts"][3:])}</ul></details>'
+               if len(r["parts"]) > 3 else "")
+            + f'<a class="go" href="{_esc(r["sam_url"])}">Respond through the notice on SAM.gov &rarr;</a></article>')
+    return f"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Open sole-source notices</title>
+<meta name="description" content="{len(rows)} federal notices of intent to sole-source a physical part that are still taking responses, soonest deadline first.">
+<style>
+:root{{--ink:#141414;--muted:#6b6b6b;--line:#e3e0da;--bg:#faf9f6;--card:#fff;--accent:#b4451d;--accent-bg:#fbeee6;--ok:#1d6b3a;--ok-bg:#e7f3ea}}
+*{{box-sizing:border-box}}
+body{{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}}
+header,main,footer{{max-width:860px;margin:0 auto;padding:0 16px}}
+header{{padding-top:24px}}
+.back{{font-size:13px;color:var(--muted)}}
+h1{{font-size:clamp(22px,4.5vw,32px);line-height:1.15;margin:8px 0;letter-spacing:-.01em}}
+.lede{{color:var(--muted);margin:0 0 14px;max-width:62ch}}
+.lede b{{color:var(--ink)}}
+label.tog{{display:inline-flex;gap:6px;align-items:center;padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);cursor:pointer;margin:0 6px 8px 0;font-size:14px}}
+article{{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin:12px 0}}
+article[hidden]{{display:none}}
+.due{{font-weight:700;color:var(--accent)}}
+.due small{{font-weight:400;color:var(--muted)}}
+.closed .due{{color:var(--muted)}}
+h2{{font-size:17px;line-height:1.3;margin:4px 0}}
+h2 a{{color:var(--ink);text-decoration:none}}
+.who{{color:var(--muted);font-size:13px;overflow-wrap:anywhere}}
+.tag{{display:inline-block;font-size:11px;font-weight:600;padding:2px 7px;border-radius:6px;margin:6px 6px 0 0}}
+.tag.pn{{background:var(--accent-bg);color:var(--accent)}}
+.tag.dlr{{background:var(--ok-bg);color:var(--ok)}}
+ul{{list-style:none;margin:10px 0 0;padding:0}}
+li{{border-top:1px dashed var(--line);padding:8px 0}}
+.pm{{font-weight:600}}
+.pm small{{font-weight:400;color:var(--muted)}}
+.pp{{color:var(--muted);font-size:14px}}
+.pns code{{display:inline-block;font-size:12px;background:#f3f1ec;border-radius:5px;padding:1px 6px;margin:4px 4px 0 0;overflow-wrap:anywhere;max-width:100%}}
+.dls{{margin-top:6px}}
+.dl{{display:inline-block;font-size:13px;background:var(--ok-bg);color:var(--ok);border-radius:6px;padding:2px 8px;margin:2px 4px 0 0;text-decoration:none}}
+.dl small{{color:var(--ink);opacity:.7}}
+details summary{{cursor:pointer;color:var(--accent);font-size:14px;padding:6px 0}}
+.go{{display:inline-block;margin-top:10px;font-weight:600;color:var(--accent)}}
+.empty{{padding:30px 0;color:var(--muted)}}
+footer{{color:var(--muted);font-size:13px;padding-bottom:40px}}
+</style>
+</head>
+<body>
+<header>
+<a class="back" href="/">&larr; The Google of obsolete infrastructure parts</a>
+<h1>Sole-source notices you can still answer</h1>
+<p class="lede"><b>{len(rows)} federal buyers</b> have said only one supplier can sell them a physical part, and are still taking responses. <b>{n_pn}</b> print the part number; <b>{n_dl}</b> name a maker a surplus dealer lists. Soonest deadline first.</p>
+<label class="tog"><input type="checkbox" id="pn"> Part number printed</label><label class="tog"><input type="checkbox" id="dl"> Dealer candidate</label>
+</header>
+<main>
+{"".join(cards) or '<p class="empty">No open notices today.</p>'}
+<p class="empty" id="none" hidden>Nothing matches both filters.</p>
+</main>
+<footer>SAM.gov notices of intent to sole source, presolicitations, sources sought and brand-name solicitations whose title says sole source, single source, brand name or intent, with a response deadline still ahead, read {date.today().isoformat()} and extracted with Claude. The contracting officer and the way to respond are on each notice. A dealer candidate means the dealer's own catalog lists that maker or that part number; it is not a quote. Regenerated daily by <code>make open</code>.</footer>
+<script>
+const now=Date.now();
+function left(ms){{const h=Math.floor(ms/36e5);return h<48?h+' hours left':Math.floor(h/24)+' days left'}}
+document.querySelectorAll('article').forEach(a=>{{const t=Date.parse(a.dataset.end),c=a.querySelector('.cd');
+  if(isNaN(t)){{c.textContent='Open'}}else if(t<now){{c.textContent='Closed';a.classList.add('closed')}}else c.textContent=left(t-now)}});
+const pn=document.getElementById('pn'),dl=document.getElementById('dl');
+function draw(){{let n=0;document.querySelectorAll('article').forEach(a=>{{const h=(pn.checked&&a.dataset.pn!=='1')||(dl.checked&&a.dataset.dl!=='1');a.hidden=h;n+=!h}});document.getElementById('none').hidden=n>0}}
+pn.onchange=dl.onchange=draw;
+</script>
+</body>
+</html>
+"""
+
+
 def main():
     recs = load()
     SITE.mkdir(exist_ok=True)
     (SITE / "index.html").write_text(render(recs))
     (SITE / "data.json").write_text(json.dumps(slim(recs), separators=(",", ":")))
     (SITE / "records.json").write_text(json.dumps(recs, separators=(",", ":")))
+    opens = load_open()
+    (SITE / "open").mkdir(exist_ok=True)
+    (SITE / "open" / "index.html").write_text(render_open(opens))
+    print(f"site/open/index.html: {len(opens)} open notices")
     core = {"pump", "valve", "motor/drive", "electrical/switchgear/transformer", "generator"}
     print(f"site/index.html: {len(recs)} records, {len({r['agency'] for r in recs})} agencies, "
           f"{sum(r['is_physical'] for r in recs)} physical, "

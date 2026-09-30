@@ -1,5 +1,5 @@
 PY=.venv/bin/python
-.PHONY: ingest ingest-granicus ingest-civicclerk ingest-primegov ingest-boarddocs extract site deploy all supply join check
+.PHONY: open ingest ingest-granicus ingest-civicclerk ingest-primegov ingest-boarddocs extract site deploy all supply join check
 
 .venv:
 	uv venv .venv && VIRTUAL_ENV= uv pip install --python .venv/bin/python -r requirements.txt
@@ -20,6 +20,10 @@ ingest-boarddocs: ## sole-source agenda items + PDFs off BoardDocs sites in boar
 
 extract:     ## Claude turns each matter into records -> data/records.db + records.jsonl
 	$(PY) scripts/extract.py
+
+open:        ## federal sole-source notices still taking responses -> data/open_notices.jsonl, then the site (~$0.03 per new notice)
+	caffeinate -dims $(PY) scripts/ingest_sam_open.py
+	$(PY) scripts/build_site.py
 
 site:        ## regenerate site/index.html from data/records.jsonl
 	$(PY) scripts/build_site.py

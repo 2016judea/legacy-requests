@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Beckman Coulter, Inc.",
+   "model": null,
+   "part": "Fully automated Chemistry/Immunochemistry analyzer system, associated reagents, calibrator material, middleware, and service",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": "90 days after contract approval",
+   "sole_source_vendor": "Beckman Coulter, Inc.",
+   "reason": "The Contracting Officer has determined that only one source is reasonably available: Beckman Coulter, Inc.",
+   "equipment_class": "treatment process (membrane/centrifuge/UV/chemical feed)",
+   "installed_location": "88th Medical Group Clinical Laboratory, Wright Patterson Air Force Base (WPAFB)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "ATO-approved middleware to interface Chemistry, Immunochemistry, and Hematology instrumentation with MHS GENESIS/Cerner Millenium LIS",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Beckman Coulter, Inc.",
+   "reason": "failure to meet the compatibility requirement with middleware interfacing with the analyzers",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "88th Medical Group Clinical Laboratory, Wright Patterson Air Force Base (WPAFB)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Type II reagent grade water system with self-contained waste capability, installed and maintained by Contractor",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Beckman Coulter, Inc.",
+   "reason": "The Contractor must provide a water system that they install and maintain.",
+   "equipment_class": "other equipment",
+   "installed_location": "88th Medical Group Clinical Laboratory, Wright Patterson Air Force Base (WPAFB)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "UPS for each analyzer capable of completing testing in progress and protecting against electrical fluctuations",
+   "part_numbers": [],
+   "quantity": "1 per analyzer",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Beckman Coulter, Inc.",
+   "reason": "Contractor will provide a UPS for each analyzer capable to complete testing in progress and protect against electrical fluctuations.",
+   "equipment_class": "other equipment",
+   "installed_location": "88th Medical Group Clinical Laboratory, Wright Patterson Air Force Base (WPAFB)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 7146,
+  "out": 926
+ },
+ "model": "claude-sonnet-5"
+}

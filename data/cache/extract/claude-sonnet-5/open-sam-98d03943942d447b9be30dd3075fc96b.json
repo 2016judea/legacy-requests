@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Automated Logic Corporation",
+   "model": "Building Management System (BMS)",
+   "part": "Annual Building Automation System (BAS) preventative maintenance and support services",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Logical Control Solutions (LCS)",
+   "reason": "the sole source vendor is the factory certified Automated Logic Corporation Field Office serving the area of the western New York region.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Canandaigua VA Medical Center (VAMC), 400 Fort Hill Ave, Canandaigua, NY 14424-1159",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 2,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 4469,
+  "out": 251
+ },
+ "model": "claude-sonnet-5"
+}

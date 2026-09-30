@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Raytheon",
+   "model": "PATRIOT (Phased Array Tracking Radar for Intercept on Target)",
+   "part": "Upgrades for the Qatar FMS PATRIOT Weapons System hardware, software, spares, and documentation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Raytheon",
+   "reason": "The data needed to acquire these parts competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications",
+   "equipment_class": "other equipment",
+   "installed_location": "Qatar",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2900,
+  "out": 229
+ },
+ "model": "claude-sonnet-5"
+}

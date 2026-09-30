@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": "Champion",
+   "model": "Challenger 25",
+   "part": "2025 Champion Challenger 25' Custom ADA Compliant Shuttle Bus",
+   "part_numbers": [],
+   "quantity": "1",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Model 1 Commercial Vehicles, Inc.",
+   "reason": "Model 1 is the only responsible source capable of providing the exact manufacturer specified configuration required.",
+   "equipment_class": "vehicle/fleet",
+   "installed_location": "VA Maine Healthcare System Togus",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3403,
+  "out": 220
+ },
+ "model": "claude-sonnet-5"
+}

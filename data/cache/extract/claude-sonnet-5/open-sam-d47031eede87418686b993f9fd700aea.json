@@ -1,0 +1,31 @@
+{
+ "records": [
+  {
+   "manufacturer": "Lockheed Martin",
+   "model": null,
+   "part": "Cable Assembly applicable to the Patriot Missile Weapon System",
+   "part_numbers": [
+    "13508085-4"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Lockheed Martin",
+   "reason": "3C: MUST BE ACQUIRED, DIRECTLY FROM THE ACTUAL MANUFACTURER. THIS PART REQUIRES ENGINEERING SOURCE APPROVAL BY THE DESIGN CONTROL ACTIVITY IN ORDER TO MAINTAIN THE QUALITY OF THE PART.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 5147,
+  "out": 273
+ },
+ "model": "claude-sonnet-5"
+}

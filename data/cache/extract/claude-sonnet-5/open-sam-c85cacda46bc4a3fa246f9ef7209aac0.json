@@ -1,0 +1,48 @@
+{
+ "records": [
+  {
+   "manufacturer": "Zeiser Inc.",
+   "model": "Zeiser K10 Model Numbering Block (11 Digit)",
+   "part": "Pawl Set Complete Retaining spare part for New Cope Press",
+   "part_numbers": [
+    "2M030742"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Zeiser Inc.",
+   "reason": "Currently, Zeiser Inc. is the only known company with exclusive rights to produce the spare parts required for the BEP printing equipment identified above.",
+   "equipment_class": "other equipment",
+   "installed_location": "Western Currency Facility (WCF) and Eastern Currency Facility (ECF)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Atlantic Zeiser",
+   "model": null,
+   "part": "Board, Trackingframe spare part",
+   "part_numbers": [
+    "ELP1414",
+    "HEAB01000048"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Zeiser Inc.",
+   "reason": "Currently, Zeiser Inc. is the only known company with exclusive rights to produce the spare parts required for the BEP printing equipment identified above.",
+   "equipment_class": "other equipment",
+   "installed_location": "Western Currency Facility (WCF) and Eastern Currency Facility (ECF)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 3949,
+  "out": 849
+ },
+ "model": "claude-sonnet-5"
+}

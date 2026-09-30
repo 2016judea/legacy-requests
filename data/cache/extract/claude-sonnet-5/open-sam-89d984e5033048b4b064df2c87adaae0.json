@@ -1,0 +1,29 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": "Horizontal Electromagnetic Pulse System (HEMPS)",
+   "part": "Upgrade of the horizontal polarized High Altitude Electromagnetic Pulse System to meet new MIL-STD testing environment requirements",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Fisica Applied Technologies, Inc. (CAGE: 1TS25)",
+   "reason": "Only one responsible source and no other supplies or services will satisfy agency requirements.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "Patuxent Naval Air Station and White Sands Missile Range",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2701,
+  "out": 536
+ },
+ "model": "claude-sonnet-5"
+}

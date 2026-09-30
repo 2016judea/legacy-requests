@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": "Research Electronics International, LLC (REI)",
+   "model": null,
+   "part": "Field-deployable Technical Surveillance Countermeasures (TSCM) equipment",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Research Electronics International, LLC (REI)",
+   "reason": "USSOCOM requires specialized, field-deployable Technical Surveillance Countermeasures (TSCM)... to support operational force protection, secure compartmented information facility (SCIF) sweeps, and counter-surveillance mission sets.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Research Electronics International, LLC (REI)",
+   "model": null,
+   "part": "Acoustic speech masking systems",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Research Electronics International, LLC (REI)",
+   "reason": "USSOCOM requires specialized... acoustic speech masking systems... to support operational force protection, secure compartmented information facility (SCIF) sweeps, and counter-surveillance mission sets.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Research Electronics International, LLC (REI)",
+   "model": null,
+   "part": "Radio-frequency (RF) spectrum analysis instrumentation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Research Electronics International, LLC (REI)",
+   "reason": "USSOCOM requires specialized... radio-frequency (RF) spectrum analysis... to support operational force protection, secure compartmented information facility (SCIF) sweeps, and counter-surveillance mission sets.",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": null,
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Research Electronics International, LLC (REI)",
+   "model": null,
+   "part": "Physical search instrumentation",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "Research Electronics International, LLC (REI)",
+   "reason": "USSOCOM requires specialized... physical search instrumentation to support operational force protection, secure compartmented information facility (SCIF) sweeps, and counter-surveillance mission sets.",
+   "equipment_class": "other equipment",
+   "installed_location": null,
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2635,
+  "out": 1849
+ },
+ "model": "claude-sonnet-5"
+}

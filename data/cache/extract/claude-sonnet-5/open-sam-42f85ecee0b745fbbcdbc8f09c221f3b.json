@@ -1,0 +1,71 @@
+{
+ "records": [
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "High-definition cameras for Security Management System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "M.C. Dean, Inc.",
+   "reason": "The required components and service for integration in the current proprietary intrusion detection system are provided by M.C. Dean Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": "Joint Base Andrews",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "PIV-class card readers for Security Management System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "M.C. Dean, Inc.",
+   "reason": "The required components and service for integration in the current proprietary intrusion detection system are provided by M.C. Dean Inc.",
+   "equipment_class": "other equipment",
+   "installed_location": "Joint Base Andrews",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Servers for Security Management System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "M.C. Dean, Inc.",
+   "reason": "The required components and service for integration in the current proprietary intrusion detection system are provided by M.C. Dean Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Joint Base Andrews",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Server Software and Licenses for Security Management System",
+   "part_numbers": [],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": "M.C. Dean, Inc.",
+   "reason": "The required components and service for integration in the current proprietary intrusion detection system are provided by M.C. Dean Inc.",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "Joint Base Andrews",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 0,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 2637,
+  "out": 1240
+ },
+ "model": "claude-sonnet-5"
+}

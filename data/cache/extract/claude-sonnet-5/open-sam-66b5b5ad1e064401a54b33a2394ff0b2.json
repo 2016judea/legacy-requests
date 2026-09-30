@@ -1,0 +1,205 @@
+{
+ "records": [
+  {
+   "manufacturer": "Copan",
+   "model": "WASP",
+   "part": "Copan WASP Basic System w/start-up kit",
+   "part_numbers": [
+    "419650"
+   ],
+   "quantity": "1.00 EA",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name or Equal - MUST complete the following IF \"EQUAL\"",
+   "equipment_class": "instrumentation/calibration",
+   "installed_location": "VA Palo Alto Health Care System (VAPAHCS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Copan",
+   "model": "WASP Software",
+   "part": "WASP Software",
+   "part_numbers": [
+    "419657"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name or Equal - MUST complete the following IF \"EQUAL\"",
+   "equipment_class": "SCADA/controls/software",
+   "installed_location": "VA Palo Alto Health Care System (VAPAHCS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Copan",
+   "model": "WASP HEPA filter",
+   "part": "WASP HEPA filter",
+   "part_numbers": [
+    "419652"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name or Equal - MUST complete the following IF \"EQUAL\"",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Palo Alto Health Care System (VAPAHCS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Copan",
+   "model": "WASP Sort Out Carousel",
+   "part": "WASP Sort Out Carousel",
+   "part_numbers": [
+    "419651"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name or Equal - MUST complete the following IF \"EQUAL\"",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Palo Alto Health Care System (VAPAHCS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Copan",
+   "model": "WASP Bi-directional Interface",
+   "part": "WASP Bi-directional Interface",
+   "part_numbers": [
+    "419653"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name or Equal - MUST complete the following IF \"EQUAL\"",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Palo Alto Health Care System (VAPAHCS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Copan",
+   "model": "Automatic Loop Change Module",
+   "part": "Automatic Loop Change Module",
+   "part_numbers": [
+    "419654"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name or Equal - MUST complete the following IF \"EQUAL\"",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Palo Alto Health Care System (VAPAHCS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": "Copan",
+   "model": "Complete Double Loop System",
+   "part": "Complete Double Loop System",
+   "part_numbers": [
+    "419621"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name or Equal - MUST complete the following IF \"EQUAL\"",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Palo Alto Health Care System (VAPAHCS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Urine Turning Table",
+   "part": "Urine Turning Table",
+   "part_numbers": [
+    "WO086-03-1900C"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name or Equal - MUST complete the following IF \"EQUAL\"",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Palo Alto Health Care System (VAPAHCS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Gram Slide Prep Module-Laser Etch",
+   "part": "Gram Slide Prep Module-Laser Etch",
+   "part_numbers": [
+    "WO086-40N"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name or Equal - MUST complete the following IF \"EQUAL\"",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Palo Alto Health Care System (VAPAHCS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "Plate Bottom Labeling Option",
+   "part": "Plate Bottom Labeling Option",
+   "part_numbers": [
+    "WO086-003-1800"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name or Equal - MUST complete the following IF \"EQUAL\"",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Palo Alto Health Care System (VAPAHCS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": "UPS Unit 3KVA for WASP Pallets",
+   "part": "UPS Unit 3KVA for WASP Pallets",
+   "part_numbers": [
+    "42030-180R"
+   ],
+   "quantity": null,
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name or Equal - MUST complete the following IF \"EQUAL\"",
+   "equipment_class": "electrical/switchgear/transformer",
+   "installed_location": "VA Palo Alto Health Care System (VAPAHCS)",
+   "is_obsolete": false
+  },
+  {
+   "manufacturer": null,
+   "model": null,
+   "part": "Additional set of 8 pallets for containers other than Copan 12x80 or 16c100 tubes",
+   "part_numbers": [],
+   "quantity": "8",
+   "price_usd": null,
+   "lead_time": null,
+   "sole_source_vendor": null,
+   "reason": "Brand Name or Equal - MUST complete the following IF \"EQUAL\"",
+   "equipment_class": "other equipment",
+   "installed_location": "VA Palo Alto Health Care System (VAPAHCS)",
+   "is_obsolete": false
+  }
+ ],
+ "info": {
+  "pdfs_text": 1,
+  "pdfs_scanned": 0,
+  "pdfs_skipped": 0
+ },
+ "stop_reason": "end_turn",
+ "usage": {
+  "in": 8205,
+  "out": 4698
+ },
+ "model": "claude-sonnet-5"
+}
