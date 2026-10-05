@@ -210,7 +210,8 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
   header{{padding-top:18px}}
   .lede{{font-size:14px;margin-bottom:12px}}
   .controls{{gap:6px}}
-  select{{flex:1 1 40%;min-width:0;padding:8px 10px;font-size:14px}}
+  /* 16px floor on the phone: iOS Safari zooms in on a focused control under 16px and never zooms back (mobile-ui-audit, 2026-10-04) */
+  select{{flex:1 1 40%;min-width:0;padding:8px 10px;font-size:16px}}
   label.tog{{flex:1 1 45%;justify-content:center;padding:8px;font-size:13px;white-space:normal;text-align:center}}
   .chips{{flex-wrap:nowrap;overflow-x:auto;margin:8px -16px 0;padding:0 16px 6px;scrollbar-width:none}}
   .chips::-webkit-scrollbar{{display:none}}
