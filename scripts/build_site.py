@@ -12,13 +12,14 @@ for a phone. 2026-09-25.
 """
 import json
 import re
-from collections import Counter
+from collections import Counter, defaultdict
 from datetime import date
 from pathlib import Path
+from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / "site"
-TITLE = "The Google of obsolete infrastructure parts"
+TITLE = "The Google of Obsolete Part Numbers"
 
 FIELDS = ["part_numbers", "id", "manufacturer", "model", "part", "quantity", "price_usd", "lead_time", "sole_source_vendor", "reason",
           "equipment_class", "installed_location", "is_obsolete", "agency", "state", "date", "source_url", "legistar_url", "title"]
@@ -136,6 +137,187 @@ def default_view(recs: list[dict]) -> list[dict]:
     return sorted(phys, key=lambda r: (r["price_usd"] is None, -(r["price_usd"] or 0)))
 
 
+# ---------------------------------------------------------------- the story above the index
+# The page tells the problem, not a service (Aidan, 2026-10-06): governments keep
+# asking for the same specific parts, and whoever fills the order hunts the open
+# market by hand. Every number below is counted here, from the data files.
+
+# His own words, verbatim from the brief of 2026-10-06. Never edit this string.
+ORIGIN = ("This started when I was looking at government RFPs. I saw a frequency of calls for things like water pumps and "
+          "electrical transformers. Specific part numbers. So I sought out suppliers who had won these sorts of contracts in "
+          "the past (public record). What I learned is that they often use eBay and large auction sites to source the "
+          "equipment. Takes long hours of scouring the internet to find the thing the government proposal is calling for. "
+          "AI is very good at that.")
+
+# The infrastructure half of the physical rows. Lab instruments (Qiagen, Illumina)
+# repeat too, but they are not the pumps-and-transformers story.
+INFRA = {"pump", "valve", "motor/drive", "electrical/switchgear/transformer", "generator", "HVAC", "pipe/fitting",
+         "treatment process (membrane/centrifuge/UV/chemical feed)"}
+CLASS_WORD = {"pump": "pumps", "valve": "valves", "motor/drive": "motors and drives",
+              "electrical/switchgear/transformer": "switchgear and transformers", "generator": "generators",
+              "HVAC": "heating and cooling", "pipe/fitting": "pipe and fittings",
+              "treatment process (membrane/centrifuge/UV/chemical feed)": "water treatment"}
+SUFFIX = re.compile(r"[,.]?\s+\b(inc|incorporated|llc|corp|corporation|company|co|ltd)\b\.?$", re.I)
+
+
+def _make_key(s: str) -> str:
+    s = re.sub(r"[^a-z0-9 &]", " ", (s or "").lower())
+    s = re.sub(r"\b(inc|incorporated|llc|corp|corporation|company|co|usa|us|ltd|industry|industries)\b", " ", s)
+    return " ".join(s.split())
+
+
+_HAY: dict[int, str] = {}
+
+
+def _hay(r: dict) -> str:
+    """The page's search haystack, field for field (const hay in render's script). Kept identical so that a
+    number in the story is exactly what the visitor sees after tapping it."""
+    if id(r) not in _HAY:  # a side table, so records.json never carries the haystack
+        pns = r["part_numbers"] or []
+        _HAY[id(r)] = " ".join(str(x or "") for x in [r["manufacturer"], r["model"], " ".join(map(str, pns)),
+                           " ".join(re.sub(r"[^a-zA-Z0-9]", "", str(p)) for p in pns), r["part"], r["sole_source_vendor"],
+                           r["agency"], r["state"], r["reason"], r["installed_location"], r["equipment_class"]]).lower()
+    return _HAY[id(r)]
+
+
+def search(recs: list[dict], q: str, agency: str = "") -> list[dict]:
+    terms = q.lower().split()
+    hit = lambda h, t: t in h or (len(t) > 3 and re.sub(r"[^a-z0-9]", "", t) in h)
+    return [r for r in recs if (not agency or r["agency"] == agency) and all(hit(_hay(r), t) for t in terms)]
+
+
+def _asks(rs: list[dict]) -> dict:
+    dates = sorted(r["date"] for r in rs if r["date"])
+    return {"asks": len({r["source_url"] for r in rs}), "agencies": len({r["agency"] for r in rs}),
+            "first": dates[0] if dates else "", "last": dates[-1] if dates else ""}
+
+
+def top_makes(recs: list[dict], n: int = 8) -> list[dict]:
+    """Makes of infrastructure parts asked for by the most agencies. An ask is one filing (one source document)."""
+    g = defaultdict(list)
+    for r in recs:
+        if r["is_physical"] and r["equipment_class"] in INFRA and r["manufacturer"]:
+            g[_make_key(r["manufacturer"])].append(r)
+    # Pick candidates by how many agencies filed for the make in these classes; then count each the way the
+    # page counts its search. Ranking on the search count instead lets "GE" (a substring of everything) win.
+    cands = sorted(g.items(), key=lambda kv: (-len({r["agency"] for r in kv[1]}), -len(kv[1])))[:n * 2]
+    out = []
+    for k, rs in cands:
+        name = Counter(r["manufacturer"] for r in rs).most_common(1)[0][0]
+        while SUFFIX.search(name):
+            name = SUFFIX.sub("", name)
+        dates = sorted(r["date"] for r in rs if r["date"])
+        st = _asks(search(recs, k))  # counted the way the page counts the search the row links to
+        out.append({"name": name, "q": k, **st, "since": st["first"][:4],
+                    "what": CLASS_WORD[Counter(r["equipment_class"] for r in rs).most_common(1)[0][0]]})
+    out.sort(key=lambda m: (-m["agencies"], -m["asks"], m["name"]))
+    return out[:n]
+
+
+def asked_again(recs: list[dict], n: int = 6) -> list[dict]:
+    """The same buyer filing for the same part number more than once, longest gap first.
+    One row per buyer and set of filings, so a 12-line radar order is one ask, not twelve."""
+    norm = lambda s: re.sub(r"[^A-Z0-9]", "", s.upper())
+    by = defaultdict(list)
+    for r in recs:
+        if (not r["is_physical"] or r["equipment_class"] not in INFRA | {"instrumentation/calibration"}
+                or re.search(r"\b(lease|assay|reagent|kits?)\b", r["part"] or "", re.I)):
+            continue
+        for p in {norm(x) for x in r["part_numbers"] or [] if x}:
+            if len(p) >= 4:
+                by[(r["agency"], p)].append(r)
+    groups = {}
+    for (agency, p), rs in by.items():
+        srcs = frozenset(r["source_url"] for r in rs)
+        dates = sorted(r["date"] for r in rs if r["date"])
+        if len(srcs) < 2 or len(dates) < 2 or (date.fromisoformat(dates[-1]) - date.fromisoformat(dates[0])).days < 90:
+            continue  # two filings in one month is one purchase in two steps, not an ask that came back
+        g = groups.setdefault((agency, srcs), {"agency": agency, "state": rs[0]["state"], "times": len(srcs),
+                                                "first": dates[0], "last": dates[-1], "rec": rs[0], "pns": []})
+        g["pns"].append(next(x for x in rs[0]["part_numbers"] if norm(x) == p))
+    out, seen = [], set()  # one row per buyer and maker: Edinburg's meter sizes are one story
+    for g in sorted(groups.values(), key=lambda g: (-g["times"], (date.fromisoformat(g["first"]) - date.fromisoformat(g["last"])).days)):
+        k = (g["agency"], _make_key(g["rec"]["manufacturer"] or ""))
+        if k not in seen:
+            seen.add(k)
+            st = _asks(search(recs, g["pns"][0], g["agency"]))  # what the linked search shows
+            g.update(times=st["asks"], first=st["first"], last=st["last"])
+            out.append(g)
+    return sorted(out, key=lambda g: (date.fromisoformat(g["first"]) - date.fromisoformat(g["last"])).days)[:n]
+
+
+def load_hunts() -> list[dict]:
+    """data/hunts/hunts_*.jsonl: part numbers looked for by hand on eBay, dealers and auction sites, 2026-10-04.
+    A row hunted in both batches counts once."""
+    rows = {}
+    for f in sorted((ROOT / "data" / "hunts").glob("hunts_*.jsonl")):
+        for l in f.read_text().splitlines():
+            if l.strip():
+                r = json.loads(l)
+                rows[(r["record_id"], r["part_number_searched"])] = r
+    return [r for r in rows.values() if r["outcome"] != "not_searched"]
+
+
+def hunt_pairs(hunts: list[dict], n: int = 5) -> list[dict]:
+    """Exact hits with a per-unit price on both sides, biggest gap first. A listing that is only a component of
+    what the agency bought, or sold for parts, is not the same thing and is left out."""
+    ok = [h for h in hunts if h["outcome"] == "found_exact" and h["listed_price_usd"] and h["sole_source_unit_price_usd"]
+          and h["listing_url"] and re.fullmatch(r"\d+(\.0+)?(\s*(ea|each))?", str(h["sole_source_quantity"] or "").strip(), re.I)
+          and not re.search(r"component only|for.parts|no unit price", f'{h["price_note"]} {h["condition"]}', re.I)]
+    return sorted(ok, key=lambda h: h["listed_price_usd"] - h["sole_source_unit_price_usd"])[:n]
+
+
+def _clip(t: str, n: int = 70) -> str:
+    return t if len(t) <= n else t[:n].rsplit(" ", 1)[0].rstrip(",;:-") + "…"
+
+
+def _money(v) -> str:
+    return f"${round(v):,}"
+
+
+def story(recs: list[dict]) -> str:
+    makes, again, hunts = top_makes(recs), asked_again(recs), load_hunts()
+    pairs = hunt_pairs(hunts)
+    n_exact = sum(h["outcome"] == "found_exact" for h in hunts)
+    n_none = sum(h["outcome"] == "not_found" for h in hunts)
+    today = date.today().isoformat()
+    still = sorted((o for o in load_open() if o["deadline_date"] >= today), key=lambda o: o["posted"])
+
+    mk = "".join(f'<li><a href="?q={quote(m["q"])}#index"><b>{_esc(m["name"])}</b> <span>{_esc(m["what"])}</span>'
+                 f'<em>{m["asks"]} asks · {m["agencies"]} agencies · since {m["since"]}</em></a></li>' for m in makes)
+    ag = "".join(
+        f'<li><a href="?q={quote(g["pns"][0])}&amp;agency={quote(g["agency"])}#index"><code>{_esc(g["pns"][0])}</code>'
+        f'{f" <small>+{len(g["pns"]) - 1} more</small>" if len(g["pns"]) > 1 else ""} '
+        f'<b>{_esc(g["rec"]["manufacturer"] or "")}</b> <span>{_esc(_clip(g["rec"]["part"] or ""))}</span>'
+        f'<em>{_esc(g["agency"])}, {_esc(g["state"])} · asked {g["times"]} times · {g["first"][:7]} to {g["last"][:7]}</em></a></li>'
+        for g in again)
+    pr = "".join(
+        f'<li><code>{_esc(h["part_number_searched"])}</code> <b>{_esc(h["manufacturer"])}</b>'
+        f'<em>{_esc(h["agency"])} paid {_money(h["sole_source_unit_price_usd"])} each.</em>'
+        f'<a href="{_esc(h["listing_url"])}" target="_blank" rel="noopener">Listed for {_money(h["listed_price_usd"])} '
+        f'{"on eBay" if (h["source_found"] or "").startswith("ebay") else "at a dealer"}'
+        f'{" · " + _esc(re.match(r"[\w-]+", h["condition"]).group()) if h["condition"] else ""} &rarr;</a></li>' for h in pairs)
+    op = "".join(
+        f'<li><a href="{_esc(o["sam_url"])}" target="_blank" rel="noopener"><b>{_esc(o["title"])}</b>'
+        f'<em>{_esc(o["agency"])} · posted {o["posted"]} · open until {o["deadline_date"]}</em></a></li>' for o in still[:5])
+    return f"""<section class="s"><h2>The same makes. Over and over.</h2>
+<p class="sub">Pumps, transformers, generators. Each one asked for by city after city.</p>
+<ol class="list">{mk}</ol></section>
+<section class="s"><h2>Asked again. And again.</h2>
+<p class="sub">Same buyer. Same part number. Months or years apart. A part that keeps coming back is a part nobody makes anymore.</p>
+<ol class="list">{ag}</ol></section>
+<section class="s"><h2>It's out there. It just takes hours to find.</h2>
+<p class="big"><b>{len(hunts)}</b> of these part numbers, hunted by hand on eBay, dealers and auction sites.</p>
+<div class="stats"><div><b>{n_exact}</b><span>exact part number, for sale</span></div><div><b>{n_none}</b><span>nowhere to be found</span></div></div>
+<p class="sub">Some of what turned up:</p>
+<ol class="list pairs">{pr}</ol>
+<blockquote>{_esc(ORIGIN)}<cite>Aidan</cite></blockquote></section>
+{f'''<section class="s"><h2>Still asking, right now.</h2>
+<p class="sub">Federal notices still taking answers. Open longest first.</p>
+<ol class="list">{op}</ol><a class="all" href="/open">All {len(still)} open notices &rarr;</a></section>''' if still else ""}
+"""
+
+
 def render(recs: list[dict]) -> str:
     agencies = sorted({r["agency"] for r in recs})
     n_hw = sum(1 for r in recs if r["is_physical"])
@@ -163,17 +345,46 @@ def render(recs: list[dict]) -> str:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{TITLE}</title>
-<meta name="description" content="{len(recs):,} sole-source equipment purchases by {len(agencies)} public agencies since 2024: manufacturer, model, price, and the stated reason no one else could supply it, each linked to the source document.">
+<meta name="description" content="Governments keep asking for the same specific part numbers: pumps, transformers, generators. {len(recs):,} asks by {len(agencies)} public agencies, each linked to the source document.">
 <style>
 :root{{--ink:#141414;--muted:#6b6b6b;--line:#e3e0da;--bg:#faf9f6;--card:#fff;--accent:#b4451d;--accent-bg:#fbeee6}}
 *{{box-sizing:border-box}}
 body{{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}}
-header{{padding:28px 16px 12px;max-width:1280px;margin:0 auto}}
-h1{{font-size:clamp(22px,4.5vw,34px);line-height:1.15;margin:0 0 8px;letter-spacing:-.01em}}
-.lede{{color:var(--muted);margin:0 0 18px;max-width:62ch}}
-.lede b{{color:var(--ink)}}
+.hero{{padding:40px 16px 28px;max-width:760px;margin:0 auto}}
+.brand{{font-size:13px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--accent);margin-bottom:18px}}
+h1{{font-size:clamp(30px,6.5vw,48px);line-height:1.08;margin:0 0 14px;letter-spacing:-.02em}}
+.lede{{color:var(--muted);font-size:18px;margin:0 0 22px;max-width:52ch}}
+.hint{{color:var(--muted);font-size:14px;margin:10px 0 0}}
+input[type=search]{{display:block;width:100%;font:inherit;font-size:18px;padding:14px 16px;border:2px solid var(--ink);border-radius:12px;background:var(--card);min-width:0}}
+body.searching #story,body.searching main>h2,body.searching main>.sub,body.searching .controls,body.searching .chips{{display:none}}
+body.searching main{{border-top:0;padding-top:0}}
+body.searching .hero{{padding-bottom:8px}}
+.s{{max-width:760px;margin:0 auto;padding:36px 16px;border-top:1px solid var(--line)}}
+h2{{font-size:clamp(22px,4.5vw,30px);line-height:1.15;margin:0 0 6px;letter-spacing:-.01em}}
+.sub{{color:var(--muted);margin:0 0 16px;max-width:60ch}}
+.list{{list-style:none;margin:0;padding:0}}
+.list li{{border-top:1px solid var(--line)}}
+.list li:first-child{{border-top:0}}
+.list a{{display:block;padding:12px 0;color:var(--ink);text-decoration:none}}
+.list li>code:first-child{{margin-top:12px}}
+.list b{{font-weight:650}}
+.list span{{color:var(--muted)}}
+.list em{{display:block;font-style:normal;font-size:14px;color:var(--muted);margin-top:2px}}
+.list code{{font:600 13px ui-monospace,SFMono-Regular,Menlo,monospace;background:var(--accent-bg);color:var(--accent);border-radius:5px;padding:1px 6px;margin-right:6px;overflow-wrap:anywhere}}
+.list small{{color:var(--muted);margin-right:6px}}
+.pairs li{{padding:12px 0}}
+.pairs a{{display:inline-block;padding:4px 0 0;color:var(--accent);font-weight:600}}
+.big{{font-size:18px;margin:0 0 14px}}
+.stats{{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:0 0 22px}}
+.stats div{{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px}}
+.stats b{{display:block;font-size:34px;line-height:1;letter-spacing:-.02em}}
+.stats span{{color:var(--muted);font-size:14px}}
+blockquote{{margin:26px 0 0;padding:0 0 0 16px;border-left:3px solid var(--accent);font-size:17px;line-height:1.5}}
+cite{{display:block;font-style:normal;color:var(--muted);font-size:14px;margin-top:8px}}
+cite::before{{content:"— "}}
+.all{{display:inline-block;margin-top:12px;font-weight:600}}
+main h2{{margin-top:6px}}
 .controls{{display:flex;flex-wrap:wrap;gap:8px;align-items:center}}
-input[type=search]{{flex:1 1 260px;font:inherit;font-size:17px;padding:11px 14px;border:1px solid var(--line);border-radius:10px;background:var(--card);min-width:0}}
 input[type=search]:focus{{outline:2px solid var(--accent);outline-offset:1px}}
 select{{font:inherit;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);max-width:100%}}
 label.tog{{display:inline-flex;gap:6px;align-items:center;padding:9px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);cursor:pointer;white-space:nowrap}}
@@ -181,7 +392,7 @@ label.tog{{display:inline-flex;gap:6px;align-items:center;padding:9px 12px;borde
 .chip{{font:inherit;font-size:13px;padding:6px 10px;border-radius:999px;border:1px solid var(--line);background:var(--card);cursor:pointer;color:var(--ink)}}
 .chip[aria-pressed=true]{{background:var(--ink);color:#fff;border-color:var(--ink)}}
 .count{{color:var(--muted);font-size:13px;margin:14px 0 6px}}
-main{{max-width:1280px;margin:0 auto;padding:0 16px 60px}}
+main{{max-width:1280px;margin:0 auto;padding:36px 16px 60px;border-top:1px solid var(--line)}}
 table{{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}}
 th{{text-align:left;font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);padding:10px 12px;border-bottom:1px solid var(--line);background:#f3f1ec;cursor:pointer;user-select:none;white-space:nowrap}}
 th.num,td.num{{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}}
@@ -207,8 +418,9 @@ a{{color:var(--accent)}}
 .empty{{padding:40px 16px;text-align:center;color:var(--muted)}}
 footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);font-size:13px}}
 @media (max-width:900px){{
-  header{{padding-top:18px}}
-  .lede{{font-size:14px;margin-bottom:12px}}
+  .hero{{padding-top:22px}}
+  .brand{{margin-bottom:12px}}
+  .lede{{font-size:17px;margin-bottom:18px}}
   .controls{{gap:6px}}
   /* 16px floor on the phone: iOS Safari zooms in on a focused control under 16px and never zooms back (mobile-ui-audit, 2026-10-04) */
   select{{flex:1 1 40%;min-width:0;padding:8px 10px;font-size:16px}}
@@ -229,20 +441,25 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
 </style>
 </head>
 <body>
-<header>
-<h1>{TITLE}</h1>
-<p class="lede"><b>{n_hw:,} pieces of physical equipment</b> that <b>{len(agencies)} public agencies</b> could buy from only one supplier, {span(dates)}. Each row quotes the agency's own reason and links to the source document.{sup_lede}{open_lede}</p>
+<header class="hero">
+<div class="brand">{TITLE}</div>
+<h1>Governments keep asking for the same parts.</h1>
+<p class="lede">Specific part numbers. Water pumps. Transformers. The people who fill those orders spend long hours on eBay and auction sites, hunting for them.</p>
+<input id="q" type="search" placeholder="Look up a part number, make or model" autocomplete="off" enterkeyhint="search" aria-label="Look up a part number, make or model">
+<p class="hint">Try <a href="?q=flygt#index">Flygt</a> · <a href="?q=transformer#index">transformer</a> · <a href="?q=obsolete#index">obsolete</a></p>
+</header>
+<div id="story">{story(recs)}</div>
+<main id="index">
+<h2>Every ask.</h2>
+<p class="sub">{n_hw:,} physical parts. {len(agencies)} public agencies. {span(dates)}. Each one links to the agency's own document.</p>
 <div class="controls">
-  <input id="q" type="search" placeholder="Search manufacturer, model, part, vendor, agency…" autocomplete="off" autofocus>
-  <select id="mfr"><option value="">All manufacturers</option></select>
-  <select id="agency"><option value="">All agencies</option>{''.join(f'<option>{a}</option>' for a in agencies)}</select>
-  <label class="tog"><input type="checkbox" id="obs"> Obsolete / discontinued only</label>
-  {'<label class="tog"><input type="checkbox" id="sup"> For sale now only</label>' if n_sup else '<input type="checkbox" id="sup" hidden>'}
-  <label class="tog"><input type="checkbox" id="soft"> Include software, licences &amp; service contracts</label>
+  <select id="mfr" aria-label="Manufacturer"><option value="">All manufacturers</option></select>
+  <select id="agency" aria-label="Agency"><option value="">All agencies</option>{''.join(f'<option>{a}</option>' for a in agencies)}</select>
+  <label class="tog"><input type="checkbox" id="obs"> Obsolete only</label>
+  {'<label class="tog"><input type="checkbox" id="sup"> For sale now</label>' if n_sup else '<input type="checkbox" id="sup" hidden>'}
+  <label class="tog"><input type="checkbox" id="soft"> Add software &amp; services</label>
 </div>
 <div class="chips" id="chips">{''.join(f'<button class="chip" data-c="{c}" aria-pressed="false">{SHORT.get(c, c)}</button>' for c in classes)}</div>
-</header>
-<main>
 <div class="count" id="count"></div>
 <table id="t"><thead><tr>
 <th data-k="manufacturer">Manufacturer / model</th><th data-k="part">Part</th><th data-k="agency">Agency</th>
@@ -262,7 +479,7 @@ const SOFT=new Set({json.dumps(SOFT)});
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}}[c]));
 const money=v=>v==null?'':'$'+Math.round(v).toLocaleString();
 let cls=new Set(),sortK='price_usd',sortD=-1,page=1;const PAGE={PAGE};
-const hay=r=>r._h=[r.manufacturer,r.model,(r.part_numbers||[]).join(' '),r.part,r.sole_source_vendor,r.agency,r.state,r.reason,r.installed_location,r.equipment_class].join(' ').toLowerCase();
+const hay=r=>r._h=[r.manufacturer,r.model,(r.part_numbers||[]).join(' '),(r.part_numbers||[]).map(p=>String(p).replace(/[^a-z0-9]/gi,'')).join(' '),r.part,r.sole_source_vendor,r.agency,r.state,r.reason,r.installed_location,r.equipment_class].join(' ').toLowerCase();
 R.forEach(hay);
 // the inline rows are only the default view; every record arrives in data.json right after first paint
 const isDefault=()=>!q.value.trim()&&!mfr.value&&!ag.value&&!obs.checked&&!sup.checked&&!soft.checked&&!cls.size&&sortK==='price_usd'&&sortD===-1;
@@ -278,7 +495,7 @@ function loadAll(){{
 }}
 function filtered(){{
   const terms=q.value.toLowerCase().split(/\\s+/).filter(Boolean);
-  return R.filter(r=>(!mfr.value||r.manufacturer===mfr.value)&&(!ag.value||r.agency===ag.value)&&(!obs.checked||r.is_obsolete)&&(!sup.checked||r.supply.length)&&(cls.size?cls.has(r.equipment_class):(soft.checked||r.is_physical))&&terms.every(t=>r._h.includes(t)))
+  return R.filter(r=>(!mfr.value||r.manufacturer===mfr.value)&&(!ag.value||r.agency===ag.value)&&(!obs.checked||r.is_obsolete)&&(!sup.checked||r.supply.length)&&(cls.size?cls.has(r.equipment_class):(soft.checked||r.is_physical||terms.length))&&terms.every(t=>r._h.includes(t)||(t.length>3&&r._h.includes(t.replace(/[^a-z0-9]/g,'')))))
     .sort((a,b)=>{{const x=a[sortK],y=b[sortK];if(x==null&&y==null)return 0;if(x==null)return 1;if(y==null)return -1;return (x>y?1:x<y?-1:0)*sortD}});
 }}
 function row(r){{
@@ -289,11 +506,13 @@ function row(r){{
 }}
 function draw(reset){{
   if(reset)page=1;
+  document.body.classList.toggle('searching',!!q.value.trim());
   const f=filtered(),show=f.slice(0,page*PAGE);
   rows.innerHTML=show.map(row).join('')||(full?`<tr><td colspan="8" class="empty">Nothing matches. Try fewer words.</td></tr>`:'');
   if(full){{
     const sum=f.reduce((s,r)=>s+(r.price_usd||0),0);
-    count.textContent=`${{f.length.toLocaleString()}} of ${{R.length.toLocaleString()}} records${{sum?` · ${{money(sum)}} stated`:''}}`;
+    if(q.value.trim()){{const n=new Set(f.map(r=>r.source_url)).size,ags=new Set(f.map(r=>r.agency)),ds=f.map(r=>r.date).filter(Boolean).sort();count.textContent=f.length?`${{n.toLocaleString()}} ask${{n===1?'':'s'}} · ${{ags.size}} agenc${{ags.size===1?'y':'ies'}} · ${{ds.length?(ds[0].slice(0,7)===ds[ds.length-1].slice(0,7)?ds[0].slice(0,7):ds[0].slice(0,7)+' to '+ds[ds.length-1].slice(0,7)):''}}`:'';}}
+    else count.textContent=`${{f.length.toLocaleString()}} of ${{R.length.toLocaleString()}} records${{sum?` · ${{money(sum)}} stated`:''}}`;
     more.hidden=show.length>=f.length;
   }}else{{
     count.textContent=isDefault()?`${{META.n_default.toLocaleString()}} of ${{META.total.toLocaleString()}} records · ${{money(META.sum_default)}} stated`:`Searching all ${{META.total.toLocaleString()}} records…`;
@@ -352,6 +571,9 @@ def _part_li(pt: dict) -> str:
 
 
 def render_open(rows: list[dict]) -> str:
+    # Still open first, and among those the one open longest: a notice that stays up is a part nobody can find.
+    today = date.today().isoformat()
+    rows = sorted(rows, key=lambda r: (r["deadline_date"] < today, r["posted"]))
     n_pn = sum(r["has_part_number"] for r in rows)
     n_dl = sum(r["has_dealer"] for r in rows)
     cards = []
@@ -414,9 +636,9 @@ footer{{color:var(--muted);font-size:13px;padding-bottom:40px}}
 </head>
 <body>
 <header>
-<a class="back" href="/">&larr; The Google of obsolete infrastructure parts</a>
+<a class="back" href="/">&larr; {TITLE}</a>
 <h1>Sole-source notices you can still answer</h1>
-<p class="lede"><b>{len(rows)} federal buyers</b> have said only one supplier can sell them a physical part, and are still taking responses. <b>{n_pn}</b> print the part number; <b>{n_dl}</b> name a maker a surplus dealer lists. Soonest deadline first.</p>
+<p class="lede"><b>{len(rows)} federal buyers</b> have said only one supplier can sell them a physical part, and are still taking responses. <b>{n_pn}</b> print the part number; <b>{n_dl}</b> name a maker a surplus dealer lists. Open longest first.</p>
 <label class="tog"><input type="checkbox" id="pn"> Part number printed</label><label class="tog"><input type="checkbox" id="dl"> Dealer candidate</label>
 </header>
 <main>
