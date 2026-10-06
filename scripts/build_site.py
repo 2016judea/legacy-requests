@@ -452,7 +452,7 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
 <header class="hero">
 <div class="brand">{TITLE}</div>
 <h1>Governments keep asking for what nobody makes anymore.</h1>
-<p class="lede">Specific part numbers. Service on systems past their end of life. The people who fill those orders spend long hours on eBay and auction sites, hunting for them.</p>
+<p class="lede">Specific part numbers. Service on systems past their end of life.</p>
 <input id="q" type="search" placeholder="Look up a part number, make or model" autocomplete="off" enterkeyhint="search" aria-label="Look up a part number, make or model">
 <p class="hint">Try <a href="?q=flygt#index">Flygt</a> · <a href="?q=motorola#index">Motorola</a> · <a href="?q=obsolete#index">obsolete</a></p>
 </header>
