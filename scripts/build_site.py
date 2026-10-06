@@ -433,7 +433,7 @@ h2{{font-size:clamp(22px,4.5vw,30px);line-height:1.15;margin:0 0 6px;letter-spac
 main h2{{margin-top:6px}}
 .controls{{display:flex;flex-wrap:wrap;gap:8px;align-items:center}}
 input[type=search]:focus{{outline:2px solid var(--accent);outline-offset:1px}}
-select{{font:inherit;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);max-width:100%}}
+select{{font:inherit;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);max-width:100%;width:340px}}
 label.tog{{display:inline-flex;gap:6px;align-items:center;padding:9px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);cursor:pointer;white-space:nowrap}}
 .chips{{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}}
 .chip{{font:inherit;font-size:13px;padding:6px 10px;border-radius:999px;border:1px solid var(--line);background:var(--card);cursor:pointer;color:var(--ink)}}
@@ -451,7 +451,7 @@ tr:last-child td{{border-bottom:0}}
 .mm{{font-weight:600}}
 .mm small{{display:block;font-weight:400;color:var(--muted)}}
 .reason{{color:var(--muted);font-style:italic;max-width:46ch}}
-.ob{{display:inline-block;font-size:11px;font-weight:600;padding:2px 7px;border-radius:6px;background:var(--accent-bg);color:var(--accent);margin-left:6px;vertical-align:middle;letter-spacing:.02em}}
+.ob{{display:inline-block;font-size:12px;font-weight:600;padding:2px 7px;border-radius:6px;background:var(--accent-bg);color:var(--accent);margin-left:6px;vertical-align:middle;letter-spacing:.02em}}
 a{{color:var(--accent)}}
 .src{{white-space:nowrap}}
 .sup{{margin-top:6px;font-size:13px}}
@@ -466,7 +466,7 @@ a{{color:var(--accent)}}
 .find.has summary{{background:#1d6b3a}}
 .find[open] summary{{margin-bottom:4px}}
 .fs{{margin:8px 0 0}}
-.fs b{{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:600;margin-bottom:2px}}
+.fs b{{display:block;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:600;margin-bottom:2px}}
 .fs ul{{margin:0 0 4px;padding:0;list-style:none}}
 .fs li{{padding:4px 0;border-top:1px dashed var(--line);overflow-wrap:anywhere}}
 .fs li small{{color:var(--muted)}}
@@ -500,6 +500,22 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
   td.num{{text-align:left}}
   td[data-l]::before{{content:attr(data-l) " ";color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.04em}}
   .reason{{max-width:none;margin-top:4px}}
+  /* a thumb, not a cursor: 44px targets on the phone (Apple HIG; mobile-ui-audit 2026-10-06) */
+  input[type=search]{{font-size:16px;padding:14px 14px}}
+  select{{width:auto;min-height:44px}}
+  label.tog{{min-height:44px;font-size:15px}}
+  label.tog input{{width:20px;height:20px;margin:0}}
+  .chip{{min-height:44px;padding:8px 14px;font-size:14px}}
+  .hint a{{display:inline-block;padding:12px 4px;margin:-12px 0}}
+  .all{{display:inline-flex;align-items:center;min-height:44px}}
+  .pairs a{{display:inline-flex;align-items:center;min-height:44px;padding:0}}
+  .find summary{{min-height:44px}}
+  .lk{{gap:8px}}
+  .lk a{{display:inline-flex;align-items:center;min-height:44px;padding:8px 14px;font-size:14px}}
+  .sup li a,.fs li a{{display:inline-block;padding:6px 0}}
+  td.src{{padding-top:4px}}
+  td.src a{{display:inline-flex;align-items:center;min-height:44px}}
+  .more{{width:100%;min-height:48px}}
 }}
 </style>
 </head>
@@ -714,7 +730,7 @@ article[hidden]{{display:none}}
 h2{{font-size:17px;line-height:1.3;margin:4px 0}}
 h2 a{{color:var(--ink);text-decoration:none}}
 .who{{color:var(--muted);font-size:13px;overflow-wrap:anywhere}}
-.tag{{display:inline-block;font-size:11px;font-weight:600;padding:2px 7px;border-radius:6px;margin:6px 6px 0 0}}
+.tag{{display:inline-block;font-size:12px;font-weight:600;padding:2px 7px;border-radius:6px;margin:6px 6px 0 0}}
 .tag.pn{{background:var(--accent-bg);color:var(--accent)}}
 .tag.dlr{{background:var(--ok-bg);color:var(--ok)}}
 ul{{list-style:none;margin:10px 0 0;padding:0}}
@@ -730,6 +746,17 @@ details summary{{cursor:pointer;color:var(--accent);font-size:14px;padding:6px 0
 .go{{display:inline-block;margin-top:10px;font-weight:600;color:var(--accent)}}
 .empty{{padding:30px 0;color:var(--muted)}}
 footer{{color:var(--muted);font-size:13px;padding-bottom:40px}}
+small{{font-size:12px}}
+@media (max-width:900px){{
+  /* 44px targets on the phone (mobile-ui-audit 2026-10-06) */
+  .back{{display:inline-flex;align-items:center;min-height:44px}}
+  label.tog{{min-height:44px;font-size:15px}}
+  label.tog input{{width:20px;height:20px;margin:0}}
+  h2 a{{display:block;padding:8px 0}}
+  .dl{{padding:8px 10px;margin:4px 4px 0 0}}
+  details summary{{display:flex;align-items:center;min-height:44px}}
+  .go{{display:flex;align-items:center;justify-content:center;min-height:48px;border:1px solid var(--accent);border-radius:10px;text-decoration:none;text-align:center;padding:8px 12px}}
+}}
 </style>
 </head>
 <body>
@@ -746,7 +773,7 @@ footer{{color:var(--muted);font-size:13px;padding-bottom:40px}}
 <footer>SAM.gov notices of intent to sole source, presolicitations, sources sought and brand-name solicitations whose title says sole source, single source, brand name or intent, with a response deadline still ahead, read {date.today().isoformat()} and extracted with Claude. The contracting officer and the way to respond are on each notice. A dealer candidate means the dealer's own catalog lists that maker or that part number; it is not a quote. Regenerated daily by <code>make open</code>.</footer>
 <script>
 const now=Date.now();
-function left(ms){{const h=Math.floor(ms/36e5);return h<48?h+' hours left':Math.floor(h/24)+' days left'}}
+function left(ms){{const h=Math.floor(ms/36e5);return h<48?h+(h===1?' hour left':' hours left'):Math.floor(h/24)+' days left'}}
 document.querySelectorAll('article').forEach(a=>{{const t=Date.parse(a.dataset.end),c=a.querySelector('.cd');
   if(isNaN(t)){{c.textContent='Open'}}else if(t<now){{c.textContent='Closed';a.classList.add('closed')}}else c.textContent=left(t-now)}});
 const pn=document.getElementById('pn'),dl=document.getElementById('dl');
