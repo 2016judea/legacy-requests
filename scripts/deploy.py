@@ -44,8 +44,10 @@ def main():
     link = json.loads((SITE / ".vercel" / "project.json").read_text())
     team, project = link["orgId"], link["projectName"]
 
+    # per-recipient gift pages (scripts/build_gifts.py); globbed so a deploy never drops one
+    names = FILES + sorted(str(p.relative_to(SITE)) for p in SITE.glob("for/*/index.html"))
     files = []
-    for name in FILES:
+    for name in names:
         path = SITE / name
         if not path.exists():
             continue
