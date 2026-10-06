@@ -117,6 +117,12 @@ HARDWARE = ["pump", "valve", "motor/drive", "electrical/switchgear/transformer",
             "treatment process (membrane/centrifuge/UV/chemical feed)", "instrumentation/calibration", "communications/radio",
             "vehicle/fleet", "other equipment"]
 SOFT = ["SCADA/controls/software", "service/maintenance contract"]
+# The four chips the index opens with (Aidan, 2026-10-06): the name's three kinds of
+# legacy ask, plus the asks whose own document says obsolete. Every class lands in one.
+GROUP = {c: "equipment" for c in HARDWARE}
+GROUP.update({"SCADA/controls/software": "technology", "communications/radio": "technology",
+              "service/maintenance contract": "service"})
+GROUPS = [("equipment", "Equipment"), ("technology", "Technology"), ("service", "Service")]
 
 
 PAGE = 100
@@ -457,11 +463,11 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
 <div class="controls">
   <select id="mfr" aria-label="Manufacturer"><option value="">All manufacturers</option></select>
   <select id="agency" aria-label="Agency"><option value="">All agencies</option>{''.join(f'<option>{a}</option>' for a in agencies)}</select>
-  <label class="tog"><input type="checkbox" id="obs"> Obsolete only</label>
+  <input type="checkbox" id="obs" hidden>
   {'<label class="tog"><input type="checkbox" id="sup"> For sale now</label>' if n_sup else '<input type="checkbox" id="sup" hidden>'}
   <input type="checkbox" id="soft" hidden>
 </div>
-<div class="chips" id="chips">{''.join(f'<button class="chip" data-c="{c}" aria-pressed="false">{SHORT.get(c, c)}</button>' for c in classes)}</div>
+<div class="chips" id="chips">{''.join(f'<button class="chip" data-c="{g}" aria-pressed="false">{label} {sum(GROUP.get(r["equipment_class"]) == g for r in recs):,}</button>' for g, label in GROUPS)}<button class="chip" id="obschip" aria-pressed="false">Obsolete {sum(bool(r["is_obsolete"]) for r in recs):,}</button></div>
 <div class="count" id="count"></div>
 <table id="t"><thead><tr>
 <th data-k="manufacturer">Manufacturer / model</th><th data-k="part">Part</th><th data-k="agency">Agency</th>
@@ -480,7 +486,7 @@ const SRC={json.dumps(SOURCE_NAMES)};
 const SOFT=new Set({json.dumps(SOFT)});
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}}[c]));
 const money=v=>v==null?'':'$'+Math.round(v).toLocaleString();
-let cls=new Set(),sortK='price_usd',sortD=-1,page=1;const PAGE={PAGE};
+const G={json.dumps(GROUP)};let cls=new Set(),sortK='price_usd',sortD=-1,page=1;const PAGE={PAGE};
 const hay=r=>r._h=[r.manufacturer,r.model,(r.part_numbers||[]).join(' '),(r.part_numbers||[]).map(p=>String(p).replace(/[^a-z0-9]/gi,'')).join(' '),r.part,r.sole_source_vendor,r.agency,r.state,r.reason,r.installed_location,r.equipment_class].join(' ').toLowerCase();
 R.forEach(hay);
 // the inline rows are only the default view; every record arrives in data.json right after first paint
@@ -497,7 +503,7 @@ function loadAll(){{
 }}
 function filtered(){{
   const terms=q.value.toLowerCase().split(/\\s+/).filter(Boolean);
-  return R.filter(r=>(!mfr.value||r.manufacturer===mfr.value)&&(!ag.value||r.agency===ag.value)&&(!obs.checked||r.is_obsolete)&&(!sup.checked||r.supply.length)&&(!cls.size||cls.has(r.equipment_class))&&terms.every(t=>r._h.includes(t)||(t.length>3&&r._h.includes(t.replace(/[^a-z0-9]/g,'')))))
+  return R.filter(r=>(!mfr.value||r.manufacturer===mfr.value)&&(!ag.value||r.agency===ag.value)&&(!obs.checked||r.is_obsolete)&&(!sup.checked||r.supply.length)&&(!cls.size||cls.has(G[r.equipment_class]))&&terms.every(t=>r._h.includes(t)||(t.length>3&&r._h.includes(t.replace(/[^a-z0-9]/g,'')))))
     .sort((a,b)=>{{const x=a[sortK],y=b[sortK];if(x==null&&y==null)return 0;if(x==null)return 1;if(y==null)return -1;return (x>y?1:x<y?-1:0)*sortD}});
 }}
 function row(r){{
@@ -525,11 +531,12 @@ function draw(reset){{
   history.replaceState(null,'',u);
 }}
 [q,mfr,ag,obs,soft,sup].forEach(el=>el.addEventListener('input',()=>draw(true)));
-document.querySelectorAll('.chip').forEach(b=>b.addEventListener('click',()=>{{const c=b.dataset.c;cls.has(c)?cls.delete(c):cls.add(c);b.setAttribute('aria-pressed',cls.has(c));draw(true)}}));
+document.querySelectorAll('.chip[data-c]').forEach(b=>b.addEventListener('click',()=>{{const c=b.dataset.c;cls.has(c)?cls.delete(c):cls.add(c);b.setAttribute('aria-pressed',cls.has(c));draw(true)}}));
+$('#obschip').addEventListener('click',()=>{{obs.checked=!obs.checked;$('#obschip').setAttribute('aria-pressed',obs.checked);draw(true)}});
 document.querySelectorAll('th[data-k]').forEach(th=>th.addEventListener('click',()=>{{const k=th.dataset.k;if(sortK===k)sortD=-sortD;else{{sortK=k;sortD=k==='price_usd'||k==='date'?-1:1}}draw(true)}}));
 more.addEventListener('click',()=>{{page++;draw(false)}});
 // restore state from the URL
-const p=new URL(location).searchParams;q.value=p.get('q')||'';mfr.value=p.get('mfr')||'';ag.value=p.get('agency')||'';obs.checked=p.get('obs')==='1';sup.checked=p.get('sale')==='1';
+const p=new URL(location).searchParams;q.value=p.get('q')||'';mfr.value=p.get('mfr')||'';ag.value=p.get('agency')||'';obs.checked=p.get('obs')==='1';$('#obschip').setAttribute('aria-pressed',obs.checked);sup.checked=p.get('sale')==='1';
 (p.get('class')||'').split('|').filter(Boolean).forEach(c=>{{cls.add(c);const b=document.querySelector(`.chip[data-c="${{c}}"]`);if(b)b.setAttribute('aria-pressed','true')}});
 draw(true);
 loadAll();
