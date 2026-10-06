@@ -325,6 +325,8 @@ def main():
             murl = m.get("url") or m.get("legistar_url") or ""
             atts = m.get("attachments") or []
             src = (atts[0].get("url") if atts else None) or murl
+            if "X-Amz-Expires" in src and murl:
+                src = murl  # a presigned S3 link dies in an hour; the Granicus download URL mints a fresh one
             for i, r in enumerate(out["records"]):
                 r = dict(r)
                 r.update({"id": f"{slug}-{m['matter_id']}-{i}", "agency": m.get("agency") or meta["agency"], "state": m.get("state") or meta["state"], "client": slug,
