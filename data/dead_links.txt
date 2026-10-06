@@ -1,0 +1,23 @@
+# Listing URLs checked 2026-10-06 in a real browser and found dead: 404, ended, sold out,
+# no longer available, out of stock, or behind a login. A page must never link these as
+# "for sale". Re-check before removing a line. One URL per line; '#' starts a comment.
+https://www.ebay.com/itm/114841622422
+https://www.ebay.com/itm/234640890805
+https://www.ebay.com/itm/267000995129
+https://www.ebay.com/itm/157544345864
+https://www.ebay.com/itm/227171441166
+https://www.ebay.com/itm/404738927106
+https://www.ebay.com/i/143323602617
+https://www.ebay.com/itm/157257200371
+https://www.ebay.com/itm/146179220512
+https://www.ebay.com/itm/314379021572
+https://firepenny.com/Kussmaul_Auto_Charge_1200_Remote_Display_p/km-091-187-12-remote.htm
+https://store.orbitalconnect.com/safran-securesync-2400-network-time-server/
+https://theantennafarm.com/catalog/pctel-maxrad-mfbw7463-7028
+https://www.completetractor.com/beacon-for-arrowhead-6262a-ecco-6220a-6260a-tractors-ecc-6
+https://www.radioparts.com/motorola-solutions/motorola-nntn9216a
+https://www.itosolutions.net/Digi-TX54-Wi-Fi-5-IEEE-802-11ac-4-SIM-Cellular-p/tx54-a246.ht
+https://www.anglianpumping.com/product/pumps/submersible-pumps-pumps/flygt/np-3171-mt-18-5kw-3-standard-impeller-432-434/
+https://www.publicsurplus.com/sms/auction/view?auc=4090122
+https://www.publicsurplus.com/sms/auction/view?auc=4090134
+https://pfcestore.com/product/grundfos-dda-7-5-16-pumps-with-stainlesssteel-ptfe-3/
