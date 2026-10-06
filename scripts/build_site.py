@@ -19,7 +19,7 @@ from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / "site"
-TITLE = "Discontinued Equipment"
+TITLE = "Legacy Requests"
 
 FIELDS = ["part_numbers", "id", "manufacturer", "model", "part", "quantity", "price_usd", "lead_time", "sole_source_vendor", "reason",
           "equipment_class", "installed_location", "is_obsolete", "agency", "state", "date", "source_url", "legistar_url", "title"]
@@ -131,10 +131,9 @@ def slim(recs: list[dict]) -> list[dict]:
 
 
 def default_view(recs: list[dict]) -> list[dict]:
-    """The rows the page shows before anyone touches it: physical, price descending, nulls last.
+    """The rows the page shows before anyone touches it: every ask, price descending, nulls last.
     sorted() is stable, like the browser's Array.sort, so ties keep file order in both."""
-    phys = [r for r in recs if r["is_physical"]]
-    return sorted(phys, key=lambda r: (r["price_usd"] is None, -(r["price_usd"] or 0)))
+    return sorted(recs, key=lambda r: (r["price_usd"] is None, -(r["price_usd"] or 0)))
 
 
 # ---------------------------------------------------------------- the story above the index
@@ -151,13 +150,15 @@ ORIGIN = ("This started when I was looking at government RFPs. I saw a frequency
 
 # Every physical class. Pumps and transformers are the essay's example for the
 # reader, not the scope (Aidan, 2026-10-06), so no class is favoured here.
-INFRA = set(HARDWARE)
+# Software and service asks belong too: the name is Legacy Requests (Aidan, 2026-10-06).
+INFRA = set(HARDWARE) | set(SOFT)
 CLASS_WORD = {"pump": "pumps", "valve": "valves", "motor/drive": "motors and drives",
               "electrical/switchgear/transformer": "switchgear and transformers", "generator": "generators",
               "HVAC": "heating and cooling", "pipe/fitting": "pipe and fittings",
               "treatment process (membrane/centrifuge/UV/chemical feed)": "water treatment",
               "instrumentation/calibration": "instruments", "communications/radio": "radios",
-              "vehicle/fleet": "vehicles", "other equipment": "equipment"}
+              "vehicle/fleet": "vehicles", "other equipment": "equipment",
+              "SCADA/controls/software": "software and controls", "service/maintenance contract": "service contracts"}
 SUFFIX = re.compile(r"[,.]?\s+\b(inc|incorporated|llc|corp|corporation|company|co|ltd)\b\.?$", re.I)
 
 
@@ -194,10 +195,10 @@ def _asks(rs: list[dict]) -> dict:
 
 
 def top_makes(recs: list[dict], n: int = 8) -> list[dict]:
-    """Makes of physical parts asked for by the most agencies. An ask is one filing (one source document)."""
+    """Makes asked for by the most agencies. An ask is one filing (one source document)."""
     g = defaultdict(list)
     for r in recs:
-        if r["is_physical"] and r["equipment_class"] in INFRA and r["manufacturer"]:
+        if r["equipment_class"] in INFRA and r["manufacturer"]:
             g[_make_key(r["manufacturer"])].append(r)
     # Pick candidates by how many agencies filed for the make in these classes; then count each the way the
     # page counts its search. Ranking on the search count instead lets "GE" (a substring of everything) win.
@@ -221,7 +222,7 @@ def asked_again(recs: list[dict], n: int = 6) -> list[dict]:
     norm = lambda s: re.sub(r"[^A-Z0-9]", "", s.upper())
     by = defaultdict(list)
     for r in recs:
-        if (not r["is_physical"] or r["equipment_class"] not in INFRA
+        if (r["equipment_class"] not in INFRA
                 or re.search(r"\b(lease|assay|reagent|kits?)\b", r["part"] or "", re.I)):
             continue
         for p in {norm(x) for x in r["part_numbers"] or [] if x}:
@@ -302,7 +303,7 @@ def story(recs: list[dict]) -> str:
         f'<li><a href="{_esc(o["sam_url"])}" target="_blank" rel="noopener"><b>{_esc(o["title"])}</b>'
         f'<em>{_esc(o["agency"])} · posted {o["posted"]} · open until {o["deadline_date"]}</em></a></li>' for o in still[:5])
     return f"""<section class="s"><h2>The same makes. Over and over.</h2>
-<p class="sub">Every kind of equipment. Each make asked for by agency after agency.</p>
+<p class="sub">Equipment, software, service. Each make asked for by agency after agency.</p>
 <ol class="list">{mk}</ol></section>
 <section class="s"><h2>Asked again. And again.</h2>
 <p class="sub">Same buyer. Same part number. Months or years apart. A part that keeps coming back is a part nobody makes anymore.</p>
@@ -346,7 +347,7 @@ def render(recs: list[dict]) -> str:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{TITLE}</title>
-<meta name="description" content="Governments keep asking for the same specific part numbers. {len(recs):,} asks by {len(agencies)} public agencies, each linked to the source document.">
+<meta name="description" content="Governments keep asking for equipment, software and service nobody makes anymore. {len(recs):,} asks by {len(agencies)} public agencies, each linked to the source document.">
 <style>
 :root{{--ink:#141414;--muted:#6b6b6b;--line:#e3e0da;--bg:#faf9f6;--card:#fff;--accent:#b4451d;--accent-bg:#fbeee6}}
 *{{box-sizing:border-box}}
@@ -444,21 +445,21 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
 <body>
 <header class="hero">
 <div class="brand">{TITLE}</div>
-<h1>Governments keep asking for the same parts.</h1>
-<p class="lede">Specific part numbers. The people who fill those orders spend long hours on eBay and auction sites, hunting for them.</p>
+<h1>Governments keep asking for what nobody makes anymore.</h1>
+<p class="lede">Specific part numbers. Service on systems past their end of life. The people who fill those orders spend long hours on eBay and auction sites, hunting for them.</p>
 <input id="q" type="search" placeholder="Look up a part number, make or model" autocomplete="off" enterkeyhint="search" aria-label="Look up a part number, make or model">
 <p class="hint">Try <a href="?q=flygt#index">Flygt</a> · <a href="?q=motorola#index">Motorola</a> · <a href="?q=obsolete#index">obsolete</a></p>
 </header>
 <div id="story">{story(recs)}</div>
 <main id="index">
 <h2>Every ask.</h2>
-<p class="sub">{n_hw:,} physical parts. {len(agencies)} public agencies. {span(dates)}. Each one links to the agency's own document.</p>
+<p class="sub">{len(recs):,} asks for equipment, software and service. {len(agencies)} public agencies. {span(dates)}. Each one links to the agency's own document.</p>
 <div class="controls">
   <select id="mfr" aria-label="Manufacturer"><option value="">All manufacturers</option></select>
   <select id="agency" aria-label="Agency"><option value="">All agencies</option>{''.join(f'<option>{a}</option>' for a in agencies)}</select>
   <label class="tog"><input type="checkbox" id="obs"> Obsolete only</label>
   {'<label class="tog"><input type="checkbox" id="sup"> For sale now</label>' if n_sup else '<input type="checkbox" id="sup" hidden>'}
-  <label class="tog"><input type="checkbox" id="soft"> Add software &amp; services</label>
+  <input type="checkbox" id="soft" hidden>
 </div>
 <div class="chips" id="chips">{''.join(f'<button class="chip" data-c="{c}" aria-pressed="false">{SHORT.get(c, c)}</button>' for c in classes)}</div>
 <div class="count" id="count"></div>
@@ -496,7 +497,7 @@ function loadAll(){{
 }}
 function filtered(){{
   const terms=q.value.toLowerCase().split(/\\s+/).filter(Boolean);
-  return R.filter(r=>(!mfr.value||r.manufacturer===mfr.value)&&(!ag.value||r.agency===ag.value)&&(!obs.checked||r.is_obsolete)&&(!sup.checked||r.supply.length)&&(cls.size?cls.has(r.equipment_class):(soft.checked||r.is_physical||terms.length))&&terms.every(t=>r._h.includes(t)||(t.length>3&&r._h.includes(t.replace(/[^a-z0-9]/g,'')))))
+  return R.filter(r=>(!mfr.value||r.manufacturer===mfr.value)&&(!ag.value||r.agency===ag.value)&&(!obs.checked||r.is_obsolete)&&(!sup.checked||r.supply.length)&&(!cls.size||cls.has(r.equipment_class))&&terms.every(t=>r._h.includes(t)||(t.length>3&&r._h.includes(t.replace(/[^a-z0-9]/g,'')))))
     .sort((a,b)=>{{const x=a[sortK],y=b[sortK];if(x==null&&y==null)return 0;if(x==null)return 1;if(y==null)return -1;return (x>y?1:x<y?-1:0)*sortD}});
 }}
 function row(r){{
