@@ -308,18 +308,14 @@ def story(recs: list[dict]) -> str:
     op = "".join(
         f'<li><a href="{_esc(o["sam_url"])}" target="_blank" rel="noopener"><b>{_esc(o["title"])}</b>'
         f'<em>{_esc(o["agency"])} · posted {o["posted"]} · open until {o["deadline_date"]}</em></a></li>' for o in still[:5])
-    return f"""<section class="s"><h2>The same makes. Over and over.</h2>
+    return f"""<!-- The hunt ("It's out there. It just takes hours to find.") is the SUPPLY product's story, not this one's (Aidan, 2026-10-06). -->
+<section class="s"><h2>The same makes. Over and over.</h2>
 <p class="sub">Equipment, software, service. Each make asked for by agency after agency.</p>
 <ol class="list">{mk}</ol></section>
 <section class="s"><h2>Asked again. And again.</h2>
 <p class="sub">Same buyer. Same part number. Months or years apart. A part that keeps coming back is a part nobody makes anymore.</p>
 <ol class="list">{ag}</ol></section>
-<section class="s"><h2>It's out there. It just takes hours to find.</h2>
-<p class="big"><b>{len(hunts)}</b> of these part numbers, hunted by hand on eBay, dealers and auction sites.</p>
-<div class="stats"><div><b>{n_exact}</b><span>exact part number, for sale</span></div><div><b>{n_none}</b><span>nowhere to be found</span></div></div>
-<p class="sub">Some of what turned up:</p>
-<ol class="list pairs">{pr}</ol>
-<blockquote>{_esc(ORIGIN)}<cite>Aidan</cite></blockquote></section>
+<section class="s"><blockquote>{_esc(ORIGIN)}<cite>Aidan</cite></blockquote></section>
 {f'''<section class="s"><h2>Still asking, right now.</h2>
 <p class="sub">Federal notices still taking answers. Open longest first.</p>
 <ol class="list">{op}</ol><a class="all" href="/open">All {len(still)} open notices &rarr;</a></section>''' if still else ""}
