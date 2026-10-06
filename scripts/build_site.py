@@ -502,9 +502,10 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
   .reason{{max-width:none;margin-top:4px}}
   /* a thumb, not a cursor: 44px targets on the phone (Apple HIG; mobile-ui-audit 2026-10-06) */
   input[type=search]{{font-size:16px;padding:14px 14px}}
-  select{{width:auto;min-height:44px}}
+  /* iOS Safari ignores height on a native select: drop its chrome and draw the chevron */
+  select{{width:auto;min-height:44px;-webkit-appearance:none;appearance:none;padding-right:30px;color:var(--ink);background:var(--card) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='%236b6b6b' stroke-width='2'/%3E%3C/svg%3E") no-repeat right 12px center}}
   label.tog{{min-height:44px;font-size:15px}}
-  label.tog input{{width:20px;height:20px;margin:0}}
+  label.tog input{{width:24px;height:24px;margin:0}}
   .chip{{min-height:44px;padding:8px 14px;font-size:14px}}
   .hint a{{display:inline-block;padding:12px 4px;margin:-12px 0}}
   .all{{display:inline-flex;align-items:center;min-height:44px}}
@@ -751,7 +752,7 @@ small{{font-size:12px}}
   /* 44px targets on the phone (mobile-ui-audit 2026-10-06) */
   .back{{display:inline-flex;align-items:center;min-height:44px}}
   label.tog{{min-height:44px;font-size:15px}}
-  label.tog input{{width:20px;height:20px;margin:0}}
+  label.tog input{{width:24px;height:24px;margin:0}}
   h2 a{{display:block;padding:8px 0}}
   .dl{{padding:8px 10px;margin:4px 4px 0 0}}
   details summary{{display:flex;align-items:center;min-height:44px}}
