@@ -460,10 +460,10 @@ a{{color:var(--accent)}}
 .sup ul{{margin:6px 0 0;padding:0;list-style:none}}
 .sup li{{padding:4px 0;border-top:1px dashed var(--line)}}
 .sup li small{{color:var(--muted)}}
-.find{{margin-top:6px;font-size:13px}}
-.find summary{{display:inline-block;cursor:pointer;font-weight:600;color:var(--ink);background:#f0ede7;border-radius:6px;padding:2px 8px;list-style:none}}
+.find{{margin-top:10px;font-size:14px}}
+.find summary{{display:inline-flex;align-items:center;min-height:40px;cursor:pointer;font-weight:700;font-size:15px;color:#fff;background:var(--accent);border-radius:999px;padding:8px 16px;list-style:none}}
 .find summary::-webkit-details-marker{{display:none}}
-.find.has summary{{color:#1d6b3a;background:#e7f3ea}}
+.find.has summary{{background:#1d6b3a}}
 .find[open] summary{{margin-bottom:4px}}
 .fs{{margin:8px 0 0}}
 .fs b{{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:600;margin-bottom:2px}}
@@ -586,7 +586,7 @@ function find(r){{
   const buy=k?`<div class="fs"><b>For sale${{n?'':': search the exact number'}}</b>${{sale}}<div class="lk">${{buyLinks(k)}}</div></div>`:(n?`<div class="fs"><b>For sale</b>${{sale}}</div>`:'');
   const man=`<div class="fs"><b>Service manual</b><div class="lk">${{manLinks(k||mm,m)}}</div></div>`;
   const fix=m?`<div class="fs"><b>Who can service it</b><div class="lk">${{fixLinks(m,mm,KIND[r.equipment_class])}}</div></div>`:'';
-  return `<details class="find${{n?' has':''}}"><summary>${{n?`For sale: ${{n}} · find it`:'Find it'}}</summary>${{buy}}${{man}}${{fix}}</details>`;
+  return `<details class="find${{n?' has':''}}"><summary>${{n?`For sale now (${{n}}) · find it &rarr;`:'Find it: for sale, manual, repair &rarr;'}}</summary>${{buy}}${{man}}${{fix}}</details>`;
 }}
 function everywhere(){{
   const v=q.value.trim(),box=$('#everywhere');
