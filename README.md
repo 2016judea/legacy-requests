@@ -1,4 +1,4 @@
-# The Google of Obsolete Part Numbers
+# Discontinued Equipment
 
 A searchable index of the equipment public agencies could buy from only one
 supplier — the manufacturer, the model, what they paid, how long they waited,
