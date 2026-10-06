@@ -149,14 +149,15 @@ ORIGIN = ("This started when I was looking at government RFPs. I saw a frequency
           "equipment. Takes long hours of scouring the internet to find the thing the government proposal is calling for. "
           "AI is very good at that.")
 
-# The infrastructure half of the physical rows. Lab instruments (Qiagen, Illumina)
-# repeat too, but they are not the pumps-and-transformers story.
-INFRA = {"pump", "valve", "motor/drive", "electrical/switchgear/transformer", "generator", "HVAC", "pipe/fitting",
-         "treatment process (membrane/centrifuge/UV/chemical feed)"}
+# Every physical class. Pumps and transformers are the essay's example for the
+# reader, not the scope (Aidan, 2026-10-06), so no class is favoured here.
+INFRA = set(HARDWARE)
 CLASS_WORD = {"pump": "pumps", "valve": "valves", "motor/drive": "motors and drives",
               "electrical/switchgear/transformer": "switchgear and transformers", "generator": "generators",
               "HVAC": "heating and cooling", "pipe/fitting": "pipe and fittings",
-              "treatment process (membrane/centrifuge/UV/chemical feed)": "water treatment"}
+              "treatment process (membrane/centrifuge/UV/chemical feed)": "water treatment",
+              "instrumentation/calibration": "instruments", "communications/radio": "radios",
+              "vehicle/fleet": "vehicles", "other equipment": "equipment"}
 SUFFIX = re.compile(r"[,.]?\s+\b(inc|incorporated|llc|corp|corporation|company|co|ltd)\b\.?$", re.I)
 
 
@@ -193,7 +194,7 @@ def _asks(rs: list[dict]) -> dict:
 
 
 def top_makes(recs: list[dict], n: int = 8) -> list[dict]:
-    """Makes of infrastructure parts asked for by the most agencies. An ask is one filing (one source document)."""
+    """Makes of physical parts asked for by the most agencies. An ask is one filing (one source document)."""
     g = defaultdict(list)
     for r in recs:
         if r["is_physical"] and r["equipment_class"] in INFRA and r["manufacturer"]:
@@ -220,7 +221,7 @@ def asked_again(recs: list[dict], n: int = 6) -> list[dict]:
     norm = lambda s: re.sub(r"[^A-Z0-9]", "", s.upper())
     by = defaultdict(list)
     for r in recs:
-        if (not r["is_physical"] or r["equipment_class"] not in INFRA | {"instrumentation/calibration"}
+        if (not r["is_physical"] or r["equipment_class"] not in INFRA
                 or re.search(r"\b(lease|assay|reagent|kits?)\b", r["part"] or "", re.I)):
             continue
         for p in {norm(x) for x in r["part_numbers"] or [] if x}:
@@ -301,7 +302,7 @@ def story(recs: list[dict]) -> str:
         f'<li><a href="{_esc(o["sam_url"])}" target="_blank" rel="noopener"><b>{_esc(o["title"])}</b>'
         f'<em>{_esc(o["agency"])} · posted {o["posted"]} · open until {o["deadline_date"]}</em></a></li>' for o in still[:5])
     return f"""<section class="s"><h2>The same makes. Over and over.</h2>
-<p class="sub">Pumps, transformers, generators. Each one asked for by city after city.</p>
+<p class="sub">Every kind of equipment. Each make asked for by agency after agency.</p>
 <ol class="list">{mk}</ol></section>
 <section class="s"><h2>Asked again. And again.</h2>
 <p class="sub">Same buyer. Same part number. Months or years apart. A part that keeps coming back is a part nobody makes anymore.</p>
@@ -345,7 +346,7 @@ def render(recs: list[dict]) -> str:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{TITLE}</title>
-<meta name="description" content="Governments keep asking for the same specific part numbers: pumps, transformers, generators. {len(recs):,} asks by {len(agencies)} public agencies, each linked to the source document.">
+<meta name="description" content="Governments keep asking for the same specific part numbers. {len(recs):,} asks by {len(agencies)} public agencies, each linked to the source document.">
 <style>
 :root{{--ink:#141414;--muted:#6b6b6b;--line:#e3e0da;--bg:#faf9f6;--card:#fff;--accent:#b4451d;--accent-bg:#fbeee6}}
 *{{box-sizing:border-box}}
@@ -444,9 +445,9 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
 <header class="hero">
 <div class="brand">{TITLE}</div>
 <h1>Governments keep asking for the same parts.</h1>
-<p class="lede">Specific part numbers. Water pumps. Transformers. The people who fill those orders spend long hours on eBay and auction sites, hunting for them.</p>
+<p class="lede">Specific part numbers. The people who fill those orders spend long hours on eBay and auction sites, hunting for them.</p>
 <input id="q" type="search" placeholder="Look up a part number, make or model" autocomplete="off" enterkeyhint="search" aria-label="Look up a part number, make or model">
-<p class="hint">Try <a href="?q=flygt#index">Flygt</a> · <a href="?q=transformer#index">transformer</a> · <a href="?q=obsolete#index">obsolete</a></p>
+<p class="hint">Try <a href="?q=flygt#index">Flygt</a> · <a href="?q=motorola#index">Motorola</a> · <a href="?q=obsolete#index">obsolete</a></p>
 </header>
 <div id="story">{story(recs)}</div>
 <main id="index">
