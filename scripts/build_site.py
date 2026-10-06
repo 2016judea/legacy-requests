@@ -73,7 +73,7 @@ def is_physical(r: dict) -> bool:
     return len(set(m.lower() for m in WEAK_HARDWARE.findall(text))) >= 2
 
 
-SUPPLY_FIELDS = ["source", "title", "price", "currency", "url", "seen_at", "location"]
+SUPPLY_FIELDS = ["source", "title", "price", "currency", "url", "seen_at", "location", "condition"]
 SOURCE_NAMES = {"govdeals": "GovDeals", "publicsurplus": "PublicSurplus", "radwell": "Radwell", "mroelectric": "MRO Electric",
                 "kempston": "Kempston Controls", "artisantg": "Artisan Technology Group", "bidonequipment": "Bid on Equipment",
                 "eltra": "Eltra Trade", "aotewell": "Aotewell",
@@ -85,15 +85,65 @@ def load_supply() -> dict:
     f = ROOT / "data" / "supply" / "matches.json"
     if not f.exists():
         return {}
-    return {rid: [{k: l.get(k) for k in SUPPLY_FIELDS} for l in ls] for rid, ls in json.loads(f.read_text()).items()}
+    return {rid: [{k: l.get(k) for k in SUPPLY_FIELDS} for l in ls if is_url(l.get("url"))]
+            for rid, ls in json.loads(f.read_text()).items()}
+
+
+URL = re.compile(r"https?://[A-Za-z0-9-]+(\.[A-Za-z0-9-]+)+(:\d+)?(/\S*)?")
+
+
+def _dead() -> set:
+    """data/dead_links.txt: listing pages checked in a real browser and found ended, 404, sold out or login-walled."""
+    f = ROOT / "data" / "dead_links.txt"
+    return {l.strip() for l in f.read_text().splitlines() if l.strip() and not l.startswith("#")} if f.exists() else set()
+
+
+DEAD = _dead()
+
+
+def is_url(u) -> bool:
+    """http(s), a host with a dot, no spaces, and not known dead. Anything else renders as no link at all
+    (Aidan, 2026-10-06: "please ensure all links/sources work")."""
+    u = str(u or "").strip()
+    return bool(URL.fullmatch(u)) and u not in DEAD
+
+
+def load_hunt_supply() -> dict:
+    """Hand hunts (data/hunts/, 2026-10-04) that found THIS record's exact part number for sale, as supply rows.
+
+    Only `found_exact` with a listing page counts. `partial` and `found_model` never do: a different suffix or
+    revision is a different part, and a false "who has one" costs a buyer a wasted call. A state or GSA contract
+    price sheet (a PDF) proves a price, not that anyone has one to sell, so it is left out too."""
+    out = defaultdict(list)
+    for f in sorted((ROOT / "data" / "hunts").glob("hunts_*.jsonl")):
+        for l in f.read_text().splitlines():
+            if not l.strip():
+                continue
+            h = json.loads(l)
+            url = str(h.get("listing_url") or "").strip()
+            if h.get("outcome") != "found_exact" or not is_url(url):
+                continue  # a note pasted into the URL field is not a link (2026-10-06)
+            if re.search(r"\.pdf($|\?)", url, re.I):
+                continue
+            host = re.sub(r"^www\.", "", re.sub(r"^https?://([^/]+).*", r"\1", url))
+            out[h["record_id"]].append({
+                "source": "eBay" if "ebay." in host else host,
+                "title": f'{h["manufacturer"]} {h["part_number_searched"]}'.strip(),
+                "price": h.get("listed_price_usd"), "currency": "USD", "url": url, "seen_at": "2026-10-04",
+                "location": None, "condition": (h.get("condition") or "").split(" (")[0] or None})
+    return out
 
 
 def load():
     recs = [json.loads(l) for l in (ROOT / "data" / "records.jsonl").read_text().splitlines() if l.strip()]
     out = [{k: r.get(k) for k in FIELDS} for r in recs]
-    supply = load_supply()
+    supply, hunted = load_supply(), load_hunt_supply()
     for r in out:
-        r["supply"] = supply.get(r["id"], [])
+        seen, r["supply"] = set(), []
+        for l in supply.get(r["id"], []) + hunted.get(r["id"], []):
+            if l["url"] not in seen:
+                seen.add(l["url"])
+                r["supply"].append(l)
         if r["price_usd"] is not None and r["price_usd"] < PLACEHOLDER_PRICE:
             r["price_usd"] = None
         r["is_physical"] = is_physical(r)
@@ -146,13 +196,6 @@ def default_view(recs: list[dict]) -> list[dict]:
 # The page tells the problem, not a service (Aidan, 2026-10-06): governments keep
 # asking for the same specific parts, and whoever fills the order hunts the open
 # market by hand. Every number below is counted here, from the data files.
-
-# His own words, verbatim from the brief of 2026-10-06. Never edit this string.
-ORIGIN = ("This started when I was looking at government RFPs. I saw a frequency of calls for things like water pumps and "
-          "electrical transformers. Specific part numbers. So I sought out suppliers who had won these sorts of contracts in "
-          "the past (public record). What I learned is that they often use eBay and large auction sites to source the "
-          "equipment. Takes long hours of scouring the internet to find the thing the government proposal is calling for. "
-          "AI is very good at that.")
 
 # Every physical class. Pumps and transformers are the essay's example for the
 # reader, not the scope (Aidan, 2026-10-06), so no class is favoured here.
@@ -270,7 +313,7 @@ def hunt_pairs(hunts: list[dict], n: int = 5) -> list[dict]:
     """Exact hits with a per-unit price on both sides, biggest gap first. A listing that is only a component of
     what the agency bought, or sold for parts, is not the same thing and is left out."""
     ok = [h for h in hunts if h["outcome"] == "found_exact" and h["listed_price_usd"] and h["sole_source_unit_price_usd"]
-          and h["listing_url"] and re.fullmatch(r"\d+(\.0+)?(\s*(ea|each))?", str(h["sole_source_quantity"] or "").strip(), re.I)
+          and is_url(h["listing_url"]) and re.fullmatch(r"\d+(\.0+)?(\s*(ea|each))?", str(h["sole_source_quantity"] or "").strip(), re.I)
           and not re.search(r"component only|for.parts|no unit price", f'{h["price_note"]} {h["condition"]}', re.I)]
     return sorted(ok, key=lambda h: h["listed_price_usd"] - h["sole_source_unit_price_usd"])[:n]
 
@@ -308,14 +351,17 @@ def story(recs: list[dict]) -> str:
     op = "".join(
         f'<li><a href="{_esc(o["sam_url"])}" target="_blank" rel="noopener"><b>{_esc(o["title"])}</b>'
         f'<em>{_esc(o["agency"])} · posted {o["posted"]} · open until {o["deadline_date"]}</em></a></li>' for o in still[:5])
-    return f"""<!-- The hunt ("It's out there. It just takes hours to find.") is the SUPPLY product's story, not this one's (Aidan, 2026-10-06). -->
-<section class="s"><h2>The same makes. Over and over.</h2>
+    return f"""<section class="s"><h2>The same makes. Over and over.</h2>
 <p class="sub">Equipment, software, service. Each make asked for by agency after agency.</p>
 <ol class="list">{mk}</ol></section>
 <section class="s"><h2>Asked again. And again.</h2>
 <p class="sub">Same buyer. Same part number. Months or years apart. A part that keeps coming back is a part nobody makes anymore.</p>
 <ol class="list">{ag}</ol></section>
-<section class="s"><blockquote>{_esc(ORIGIN)}<cite>Aidan</cite></blockquote></section>
+<section class="s"><h2>It's out there. It just takes hours to find.</h2>
+<p class="big"><b>{len(hunts)}</b> of these part numbers, hunted by hand on eBay, dealers and auction sites.</p>
+<div class="stats"><div><b>{n_exact}</b><span>exact part number, for sale</span></div><div><b>{n_none}</b><span>nowhere to be found</span></div></div>
+<p class="sub">Some of what turned up:</p>
+<ol class="list pairs">{pr}</ol></section>
 {f'''<section class="s"><h2>Still asking, right now.</h2>
 <p class="sub">Federal notices still taking answers. Open longest first.</p>
 <ol class="list">{op}</ol><a class="all" href="/open">All {len(still)} open notices &rarr;</a></section>''' if still else ""}
@@ -383,9 +429,6 @@ h2{{font-size:clamp(22px,4.5vw,30px);line-height:1.15;margin:0 0 6px;letter-spac
 .stats div{{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px}}
 .stats b{{display:block;font-size:34px;line-height:1;letter-spacing:-.02em}}
 .stats span{{color:var(--muted);font-size:14px}}
-blockquote{{margin:26px 0 0;padding:0 0 0 16px;border-left:3px solid var(--accent);font-size:17px;line-height:1.5}}
-cite{{display:block;font-style:normal;color:var(--muted);font-size:14px;margin-top:8px}}
-cite::before{{content:"— "}}
 .all{{display:inline-block;margin-top:12px;font-weight:600}}
 main h2{{margin-top:6px}}
 .controls{{display:flex;flex-wrap:wrap;gap:8px;align-items:center}}
@@ -417,6 +460,22 @@ a{{color:var(--accent)}}
 .sup ul{{margin:6px 0 0;padding:0;list-style:none}}
 .sup li{{padding:4px 0;border-top:1px dashed var(--line)}}
 .sup li small{{color:var(--muted)}}
+.find{{margin-top:6px;font-size:13px}}
+.find summary{{display:inline-block;cursor:pointer;font-weight:600;color:var(--ink);background:#f0ede7;border-radius:6px;padding:2px 8px;list-style:none}}
+.find summary::-webkit-details-marker{{display:none}}
+.find.has summary{{color:#1d6b3a;background:#e7f3ea}}
+.find[open] summary{{margin-bottom:4px}}
+.fs{{margin:8px 0 0}}
+.fs b{{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:600;margin-bottom:2px}}
+.fs ul{{margin:0 0 4px;padding:0;list-style:none}}
+.fs li{{padding:4px 0;border-top:1px dashed var(--line);overflow-wrap:anywhere}}
+.fs li small{{color:var(--muted)}}
+.lk{{display:flex;flex-wrap:wrap;gap:6px}}
+.lk a{{display:inline-block;font-size:13px;padding:6px 10px;border:1px solid var(--line);border-radius:999px;background:var(--card);text-decoration:none;color:var(--accent);white-space:normal;max-width:100%}}
+.fs .nb{{font-size:12px;color:var(--muted);margin:2px 0 0}}
+#everywhere{{margin:14px 0 0;font-size:13px;color:var(--muted)}}
+#everywhere[hidden]{{display:none}}
+#everywhere .lk{{margin-top:6px}}
 .more{{display:block;margin:18px auto;font:inherit;padding:10px 18px;border-radius:10px;border:1px solid var(--line);background:var(--card);cursor:pointer}}
 .more[hidden]{{display:none}}
 .empty{{padding:40px 16px;text-align:center;color:var(--muted)}}
@@ -469,6 +528,7 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
 <th data-k="manufacturer">Manufacturer / model</th><th data-k="part">Part</th><th data-k="agency">Agency</th>
 <th class="num" data-k="price_usd">Price</th><th data-k="lead_time">Lead time</th><th data-k="reason">Their reason</th><th data-k="date">Date</th><th>Source</th>
 </tr></thead><tbody id="rows"></tbody></table>
+<div id="everywhere" hidden></div>
 <button class="more" id="more" hidden>Show more</button>
 </main>
 <footer>Built from the Legistar public API (sole-source, single-source, proprietary and obsolete-equipment matters introduced since 2024-01-01) and the state sole-source notice boards of Florida (Vendor Bid System, since 2022) and Mississippi, and federal sole-source, brand-name and J&amp;A notices on SAM.gov (posted since 2025-09-26), extracted with Claude, never typed by hand. "Who has one" listings come from public surplus auctions and surplus dealers, searched for each record's manufacturer and part number, and count only when both agree; a listing can end or sell after the date it was seen. A field is blank when the agency's document did not state it. Regenerated {date.today().isoformat()}.</footer>
@@ -502,15 +562,48 @@ function filtered(){{
   return R.filter(r=>(!mfr.value||r.manufacturer===mfr.value)&&(!ag.value||r.agency===ag.value)&&(!obs.checked||r.is_obsolete)&&(!sup.checked||r.supply.length)&&(!cls.size||cls.has(G[r.equipment_class]))&&terms.every(t=>r._h.includes(t)||(t.length>3&&r._h.includes(t.replace(/[^a-z0-9]/g,'')))))
     .sort((a,b)=>{{const x=a[sortK],y=b[sortK];if(x==null&&y==null)return 0;if(x==null)return 1;if(y==null)return -1;return (x>y?1:x<y?-1:0)*sortD}});
 }}
+// The supply answer for one ask: (1) where that exact part is for sale, (2) the service manual, (3) an outfit
+// that services it. A "for sale" line is only ever a cached listing that matched maker AND exact part number
+// (join_supply.py, or a hand hunt that found the exact number). Everything else is a search link that carries the
+// exact string, never an invented result.
+// Each search pattern was opened once on 2026-10-06 and landed on a real results page (eBay, GovDeals, PublicSurplus,
+// Google, Google Maps). PLCCenter now 301s to Radwell's homepage and Radwell's search is Cloudflare-walled to every
+// check we can run, so neither is linked: an unverified link is worse than none.
+const e=encodeURIComponent,gg=x=>'https://www.google.com/search?q='+e(x);
+const lk=(n,u)=>`<a href="${{esc(u)}}" target="_blank" rel="noopener">${{esc(n)}}</a>`;
+const PN=r=>(r.part_numbers||[]).map(String).find(p=>p.replace(/[^a-z0-9]/gi,'').length>=4&&/\\d/.test(p));
+const KIND={{'pump':'pump','valve':'valve','motor/drive':'motor','electrical/switchgear/transformer':'electrical','generator':'generator','HVAC':'HVAC','instrumentation/calibration':'instrument','communications/radio':'radio','SCADA/controls/software':'controls','treatment process (membrane/centrifuge/UV/chemical feed)':'water treatment equipment','vehicle/fleet':'fleet'}};
+const buyLinks=k=>[lk('eBay','https://www.ebay.com/sch/i.html?_nkw='+e('"'+k+'"')),lk('GovDeals','https://www.govdeals.com/en/search/filters?kWord='+e(k)),lk('PublicSurplus','https://www.publicsurplus.com/sms/all/browse/search?posting=y&keyWord='+e(k))].join('');
+const manLinks=(k,m)=>[lk('ManualsLib',gg('site:manualslib.com "'+k+'"')),lk('PDF manual',gg((m&&m!==k?'"'+m+'" ':'')+'"'+k+'" manual filetype:pdf'))].join('');
+const fixLinks=(m,mm,kind)=>[lk('Service shops near me','https://www.google.com/maps/search/'+e(m+' '+(kind||'')+' repair service')),lk('Who services it',gg('"'+mm+'" repair OR service OR rebuild -manual'))].join('');
+function find(r){{
+  // a maker as people search it: "Innomotics, LLC (Siemens AG subsidiary)" -> "Innomotics"
+  const m=(r.manufacturer||'').replace(/\\(.*?\\)/g,' ').replace(/[,.]?\\s+(inc|incorporated|llc|corp|corporation|company|co|ltd)\\b\\.?/gi,' ').replace(/\\s+/g,' ').trim(),md=(r.model||'').trim(),pn=PN(r);
+  const k=pn||(/\\d/.test(md)?md:''),mm=[m,md&&md!==m?md:''].filter(Boolean).join(' ');
+  if(!k&&!m)return '';
+  const n=r.supply.length;
+  const sale=n?`<ul>${{r.supply.map(l=>`<li><a href="${{esc(l.url)}}" target="_blank" rel="noopener">${{esc(l.title)}}</a><br><small>${{esc(SRC[l.source]||l.source)}} · ${{l.price!=null?money(l.price):'no price shown'}}${{l.condition?' · '+esc(l.condition):''}}${{l.location?' · '+esc(l.location):''}} · seen ${{esc(l.seen_at)}}</small></li>`).join('')}}</ul>`:'';
+  const buy=k?`<div class="fs"><b>For sale${{n?'':': search the exact number'}}</b>${{sale}}<div class="lk">${{buyLinks(k)}}</div></div>`:(n?`<div class="fs"><b>For sale</b>${{sale}}</div>`:'');
+  const man=`<div class="fs"><b>Service manual</b><div class="lk">${{manLinks(k||mm,m)}}</div></div>`;
+  const fix=m?`<div class="fs"><b>Who can service it</b><div class="lk">${{fixLinks(m,mm,KIND[r.equipment_class])}}</div></div>`:'';
+  return `<details class="find${{n?' has':''}}"><summary>${{n?`For sale: ${{n}} · find it`:'Find it'}}</summary>${{buy}}${{man}}${{fix}}</details>`;
+}}
+function everywhere(){{
+  const v=q.value.trim(),box=$('#everywhere');
+  if(v.length<3){{box.hidden=true;return}}
+  box.hidden=false;
+  box.innerHTML=`Look for “${{esc(v)}}” everywhere:<div class="lk">${{buyLinks(v)}}${{manLinks(v,'')}}${{lk('Repair shops',gg('"'+v+'" repair OR service OR rebuild'))}}</div>`;
+}}
 function row(r){{
   const mm=r.manufacturer||r.model?`<span class="mm">${{esc(r.manufacturer||'—')}}${{r.is_obsolete?'<span class="ob">OBSOLETE</span>':''}}<small>${{esc(r.model||'')}}</small></span>`:`<span class="mm" style="color:var(--muted)">not stated${{r.is_obsolete?'<span class="ob">OBSOLETE</span>':''}}</span>`;
   const vendor=r.sole_source_vendor&&(r.sole_source_vendor||'').toLowerCase()!==(r.manufacturer||'').toLowerCase()?`<small style="color:var(--muted)">via ${{esc(r.sole_source_vendor)}}</small>`:'';
-  const s=r.supply.length?`<details class="sup"><summary>Who has one: ${{r.supply.length}} for sale</summary><ul>${{r.supply.map(l=>`<li><a href="${{esc(l.url)}}" target="_blank" rel="noopener">${{esc(l.title)}}</a><br><small>${{esc(SRC[l.source]||l.source)}} · ${{l.price!=null?money(l.price):'no price shown'}}${{l.location?' · '+esc(l.location):''}} · seen ${{esc(l.seen_at)}}</small></li>`).join('')}}</ul></details>`:'';
+  const s=find(r);
   return `<tr><td>${{mm}}</td><td class="pt" data-l="Part">${{esc(r.part)}}${{r.quantity?` <small style="color:var(--muted)">× ${{esc(r.quantity)}}</small>`:''}}<br>${{vendor}}${{s}}</td><td class="ag" data-l="Agency">${{esc(r.agency)}}, ${{esc(r.state)}}</td><td class="num${{r.price_usd==null?' e':''}}" data-l="Price">${{money(r.price_usd)}}</td><td class="${{r.lead_time?'':'e'}}" data-l="Lead time">${{esc(r.lead_time||'')}}</td><td><div class="reason">“${{esc(r.reason)}}”</div></td><td class="dt" data-l="Date">${{esc(r.date)}}</td><td class="src"><a href="${{esc(r.source_url)}}" target="_blank" rel="noopener">${{/\\.pdf/i.test(r.source_url)?'source PDF':'source notice'}}</a></td></tr>`;
 }}
 function draw(reset){{
   if(reset)page=1;
   document.body.classList.toggle('searching',!!q.value.trim());
+  everywhere();
   const f=filtered(),show=f.slice(0,page*PAGE);
   rows.innerHTML=show.map(row).join('')||(full?`<tr><td colspan="8" class="empty">Nothing matches. Try fewer words.</td></tr>`:'');
   if(full){{

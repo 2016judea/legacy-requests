@@ -21,3 +21,8 @@ https://www.anglianpumping.com/product/pumps/submersible-pumps-pumps/flygt/np-31
 https://www.publicsurplus.com/sms/auction/view?auc=4090122
 https://www.publicsurplus.com/sms/auction/view?auc=4090134
 https://pfcestore.com/product/grundfos-dda-7-5-16-pumps-with-stainlesssteel-ptfe-3/
+# Added 2026-10-06 by the supply build's browser check: listing gone (eBay redirects to a catalogue page),
+# a parked domain, and a redirect to an unrelated shop.
+https://www.ebay.com/itm/117306092320
+https://derotic-shop.com/products/whelen-600-series-rota-beam-super-led-model-6rbr-surface-mount
+https://marinesurveyingsupplies.com/product/leica-gr50-highline-gnss-reference-server/
