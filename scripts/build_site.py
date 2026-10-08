@@ -17,6 +17,9 @@ from datetime import date
 from pathlib import Path
 from urllib.parse import quote
 
+VA_TAG = ('<script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments)};</script>'
+          '<script defer src="/_vercel/insights/script.js"></script>')  # Vercel Web Analytics, every page
+
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / "site"
 TITLE = "Legacy Requests"
@@ -519,6 +522,7 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
   .more{{width:100%;min-height:48px}}
 }}
 </style>
+{VA_TAG}
 </head>
 <body>
 <header class="hero">
@@ -759,6 +763,7 @@ small{{font-size:12px}}
   .go{{display:flex;align-items:center;justify-content:center;min-height:48px;border:1px solid var(--accent);border-radius:10px;text-decoration:none;text-align:center;padding:8px 12px}}
 }}
 </style>
+{VA_TAG}
 </head>
 <body>
 <header>

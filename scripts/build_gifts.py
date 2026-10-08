@@ -29,6 +29,12 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from build_site import SOFTWARE_WORDS  # noqa: E402  same rule the site uses for "physical"
 
+VA_TAG = ('<script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments)};</script>'
+          '<script defer src="/_vercel/insights/script.js"></script>')  # Vercel Web Analytics, every page
+# Gift pages also carry the persistent reader id + touch events: a copy of
+# bricks/scripts/outreach/reader_events.js (refresh from there, don't fork it).
+VA_TAG += "<script>" + (Path(__file__).with_name("reader_events.js")).read_text().strip() + "</script>"
+
 SITE = ROOT / "site"
 OUT = SITE / "for"
 BASE = "https://legacy-requests.vercel.app"
@@ -149,6 +155,7 @@ def page(title, body):
 <meta name="robots" content="noindex">
 <title>{esc(title)}</title>
 <style>{CSS}</style>
+{VA_TAG}
 </head>
 <body><div class="w">
 {body}
