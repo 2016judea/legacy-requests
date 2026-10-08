@@ -24,3 +24,10 @@ data/cache/pdf/sam-*.json
 outreach/
 .claude/
 data/cache/dibbs/
+
+# bulk scrape caches and logs (regenerable; too large for git)
+data/cache/probe/
+data/cache/supply/craigslist/
+data/cache/supply/kempston/
+data/supply/craigslist.jsonl
+data/*.log

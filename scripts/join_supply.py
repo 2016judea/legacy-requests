@@ -48,7 +48,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SUPPLY = ROOT / "data" / "supply"
-FIELDS = ["source", "title", "manufacturer", "model", "part_number", "price", "currency", "url", "seen_at", "location"]
+FIELDS = ["source", "title", "manufacturer", "model", "part_number", "price", "currency", "url", "seen_at", "location",
+          # optional, 2026-10-01, for /worth: a listing photo, the date it was posted, the site's own category slug
+          "image", "posted", "category"]
 REQUIRED = {"source", "title", "url", "seen_at"}
 
 # Words that name no one: dropped before comparing manufacturers.
