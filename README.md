@@ -1,5 +1,7 @@
 # Legacy Requests
 
+**Live:** https://legacy-requests.vercel.app
+
 A searchable index of the equipment public agencies could buy from only one
 supplier — the manufacturer, the model, what they paid, how long they waited,
 and the agency's own words on why nobody else could sell it to them.
