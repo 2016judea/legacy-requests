@@ -31,6 +31,8 @@ from build_site import SOFTWARE_WORDS  # noqa: E402  same rule the site uses for
 
 VA_TAG = ('<script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments)};</script>'
           '<script defer src="/_vercel/insights/script.js"></script>')  # Vercel Web Analytics, every page
+# The shared PostHog block (?me=1 opt-out, no headless capture): ~/.claude/skills/site-analytics/posthog_inject.py --print.
+VA_TAG = Path(__file__).with_name("posthog.html").read_text() + VA_TAG
 # Gift pages also carry the persistent reader id + touch events: a copy of
 # bricks/scripts/outreach/reader_events.js (refresh from there, don't fork it).
 VA_TAG += "<script>" + (Path(__file__).with_name("reader_events.js")).read_text().strip() + "</script>"

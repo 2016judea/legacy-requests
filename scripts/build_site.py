@@ -19,6 +19,8 @@ from urllib.parse import quote
 
 VA_TAG = ('<script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments)};</script>'
           '<script defer src="/_vercel/insights/script.js"></script>')  # Vercel Web Analytics, every page
+# The shared PostHog block (?me=1 opt-out, no headless capture): ~/.claude/skills/site-analytics/posthog_inject.py --print.
+VA_TAG = Path(__file__).with_name("posthog.html").read_text() + VA_TAG
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / "site"

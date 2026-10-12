@@ -19,17 +19,13 @@
     if (ready) { try { posthog.capture(name, props, beacon ? { transport: 'sendBeacon' } : undefined); } catch (e) {} }
     else q.push([name, props]);
   }
-  var s = document.createElement('script');
-  s.async = true;
-  s.src = 'https://us-assets.i.posthog.com/static/array.js';
-  s.onload = function () {
-    posthog.init(KEY, { api_host: 'https://us.i.posthog.com', person_profiles: 'identified_only',
-                        persistence: 'localStorage+cookie' });
-    posthog.register({ site: location.hostname, path: location.pathname });
+  /* The shared bm-posthog snippet in <head> owns loading, the ?me=1 opt-out and the
+     webdriver guard (2026-10-12). Defer to it; never load a second, unguarded copy. */
+  if (window.posthog && window.posthog.__SV) {
+    posthog.register({ path: location.pathname });
     ready = true;
     while (q.length) { var e = q.shift(); posthog.capture(e[0], e[1]); }
-  };
-  document.head.appendChild(s);
+  }
 
   function label(el) {
     return cut(el.getAttribute('aria-label') || el.name || el.id || el.getAttribute('placeholder') || 'control');
