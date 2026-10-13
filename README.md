@@ -2,16 +2,28 @@
 
 **Live:** https://legacy-requests.vercel.app
 
-A searchable index of the equipment public agencies could buy from only one
-supplier — the manufacturer, the model, what they paid, how long they waited,
-and the agency's own words on why nobody else could sell it to them.
+> Obsolete Equipment and Parts. Models demand from government RFPs. And supply from 3P vendors on places like ebay and online auction houses.
 
-Cities and utilities must justify every purchase that skips competitive
-bidding. Those justifications ("sole source", "single source", "proprietary",
-"obsolete", "no longer manufactured") are public, filed as council agenda
-items, and they name the part. This repo pulls them off the Legistar public
-API, turns each one into a structured record with Claude, and publishes a
-static page anyone can search.
+— Aidan, [Business Prototypes](https://randomaidan.substack.com/p/business-prototypes), 2026-10-12
+
+**Demand.** Cities, utilities, states and federal buyers must justify every purchase that
+skips competitive bidding. Those justifications ("sole source", "single source",
+"proprietary", "obsolete", "no longer manufactured") are public, filed as council agenda
+items, state notice boards and SAM.gov notices, and they name the part. This repo pulls them
+off Legistar, Granicus, BoardDocs, CivicClerk, PrimeGov, Florida's and Mississippi's boards
+and SAM.gov, turns each into a structured record with Claude (manufacturer, model, part
+numbers, price, lead time, the agency's own words on why nobody else could sell it), and
+publishes a static page anyone can search.
+
+**Supply.** Each ask is matched, by manufacturer and exact part number, to listings from
+third-party sellers: online auction houses (GovDeals, PublicSurplus, Bid-on-Equipment),
+surplus dealers (Eltra and the dealer sitemaps), Craigslist, and eBay plus ~50 dealer shops
+found by hand hunts (2026-10-04). A matched ask shows "For sale now" with the listing; every
+ask carries a "Find it" button with eBay, GovDeals and PublicSurplus searches for its part
+number, the service manual, and a repair outfit. Measured 2026-10-13 off `site/data.json`:
+69 of 6,904 asks show a listing (10 on eBay, 2 each at Bid-on-Equipment and Eltra, the rest
+at dealer shops); the GovDeals, PublicSurplus and Craigslist pulls matched none by exact part
+number.
 
 ## How it works
 
@@ -113,8 +125,19 @@ same purchase reported to a committee and then to the board) are collapsed.
 
 ## Not in v1
 
-State portals beyond FL and MS, eBay (no API key), OEM catalogs, and
-monitoring/alerts.
+State portals beyond FL and MS, OEM catalogs, and monitoring/alerts.
+
+## Next build
+
+- **eBay as a live feed.** `scripts/supply_ebay.py` is written against the Browse API but
+  writes nothing until `EBAY_CLIENT_ID`/`EBAY_CLIENT_SECRET` exist; the developer-account
+  registration ends on an hCaptcha that is Aidan's click (2026-10-01). Today eBay reaches the
+  page only through the 2026-10-04 hand hunts and the per-ask search link.
+- **Fresh supply.** The auction-house and dealer pulls (`make supply`) last ran 2026-09-25 and
+  Craigslist 2026-10-01; listings age out. A scheduled `make supply && make site && make deploy`
+  keeps "For sale now" true.
+- **More auction houses.** GovDeals, PublicSurplus and Bid-on-Equipment are in; Municibid,
+  IronPlanet/Ritchie and HiBid are the next open catalogs to read.
 
 ## Licence
 

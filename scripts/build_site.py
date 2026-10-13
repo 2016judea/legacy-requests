@@ -400,7 +400,7 @@ def render(recs: list[dict]) -> str:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{TITLE}</title>
-<meta name="description" content="Governments keep asking for equipment, software and service nobody makes anymore. {len(recs):,} asks by {len(agencies)} public agencies, each linked to the source document.">
+<meta name="description" content="Obsolete Equipment and Parts. Models demand from government RFPs. And supply from 3P vendors on places like ebay and online auction houses.">
 <style>
 :root{{--ink:#141414;--muted:#6b6b6b;--line:#e3e0da;--bg:#faf9f6;--card:#fff;--accent:#b4451d;--accent-bg:#fbeee6}}
 *{{box-sizing:border-box}}
@@ -530,7 +530,7 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
 <header class="hero">
 <div class="brand">{TITLE}</div>
 <h1>Governments keep asking for what nobody makes anymore.</h1>
-<p class="lede">Specific part numbers. Service on systems past their end of life.</p>
+<p class="lede">Models demand from government RFPs. And supply from 3P vendors on places like ebay and online auction houses.</p>
 <input id="q" type="search" placeholder="Look up a part number, make or model" autocomplete="off" enterkeyhint="search" aria-label="Look up a part number, make or model">
 <p class="hint">Try <a href="?q=flygt#index">Flygt</a> · <a href="?q=motorola#index">Motorola</a> · <a href="?q=obsolete#index">obsolete</a></p>
 </header>
