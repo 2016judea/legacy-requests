@@ -25,6 +25,21 @@ number, the service manual, and a repair outfit. Measured 2026-10-13 off `site/d
 at dealer shops); the GovDeals, PublicSurplus and Craigslist pulls matched none by exact part
 number.
 
+**Before the RFP: legacy dates** ([/dates](https://legacy-requests.vercel.app/dates), 2026-10-13).
+A water utility's Chief of Operations told us: "If we know that the OEM has a legacy date, we
+buy items in advance." So demand starts at the maker's notice, months before any agency files.
+`/dates` lists those notices for the drives, PLCs, I/O, HMIs and analyzers water agencies run,
+soonest order-by date first, each with the replacement the maker names, and joins each one to
+the agencies whose own filings name that product family. Rockwell rows come from Rockwell's
+public lifecycle search (`scripts/eol_rockwell.py`); Siemens, Schneider, ABB, Hach and Yaskawa
+rows are hand-read notices whose quote is checked against the fetched page before it ships
+(`data/eol/notices_manual.json`). Model and reality check: `DATA_MODEL.md`. Distribution and
+sales rules: `GO_TO_MARKET.md`.
+
+    .venv/bin/python scripts/eol_rockwell.py "1747" "20A" ...   # Rockwell lifecycle by catalog prefix -> data/eol/rockwell/ (cached)
+    .venv/bin/python scripts/eol_installs.py                     # agencies whose filings name a family -> data/eol/installs.json
+    make site                                                    # also builds site/dates/index.html
+
 ## How it works
 
     make ingest    # Legistar API -> data/cache/ (JSON + PDFs; never re-downloaded)

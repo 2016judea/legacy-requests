@@ -1,0 +1,62 @@
+PR O DU C T L IF E C Y C LE S T AT EM EN T
+ACS550, ACH550 and ACQ550
+General purpose drive ACS550, HVAC drive ACH550 and water and
+waste water drive ACQ550
+The ABB life cycle management model is designed to manage an orderly transition to new
+replacement products or to choose from various lifetime extending services. At the same time the
+model ensures access to continuing support for our customers
+Active
+Classic
+Full range of life cycle services and support
+Limited
+Obsolete
+Limited range of life cycle
+services and support
+Replacement and
+end-of-life services
+Current life cycle status
+ACS550/ACH550/ACQ550 product series are in the
+Limited life cycle phase since 1.1.2024, according to the
+ABB life cycle model outlined above.
+Life cycle plan
+It is planned to keep the product series in the Limited
+phase until the end of 2024, after which it will be
+transferred to the Obsolete phase.
+Product availability in Classic phase
+Europe, Asia, Middle East, Africa, and Americas:
+The product is no longer available.
+China:
+Please, contact your ABB representative for availability.
+Recommended actions
+It is recommended to replace the
+ACS550/ACH550/ACQ550 with a latest generation
+product family.
+Product types concerned
+ACS550-01/-02
+ACH550-01/-02
+ACH550-UH/-xBxR/-PxR/-VxR
+ACQ550-Ux/-CC/-Px
+ACS550-Ux/-CC/-Px
+ACx550 ETO*
+*ETO = Engineered to Order
+Note: x designates a wildcard and covers all offered variants
+Please contact your local ABB for migration to latest
+generation equivalent products.
+Further information
+For more information on drives life cycle management
+and available services contact your local ABB
+organization or at www.abb.com/drives.
+DOCUMENT ID
+REV
+DATE
+SECURITY LEVEL
+LANG
+PAGE
+4FPS10001174825
+D
+1.1.2024
+External
+EN
+2/2
+(C) Copyright 2024 ABB, all rights reserved
+

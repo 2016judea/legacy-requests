@@ -1,0 +1,79 @@
+CN Information
+Change Notice Information Announcement
+Customer Care Center: 1(888)778-2733 or email: ccc@schneider-electric.com
+RED Flag Notice
+Time to End of Commercialization: 7 Months
+Note: The red flag notification signals an obsolescence, withdrawal or discontinuation of a product.
+Product
+Name(s):
+Product Line
+Description:
+Altivar ATV61
+Variable Frequency Drive 230V and 460V ranges
+Customer
+Support No.
+Document
+Issued:
+1(847) 441-2540
+4/4/2016
+Description of Change:
+Schneider Electric launched the Altivar 61 and Altivar 71 variable frequency drives in 2005, setting new
+industry standards for motor control performance, ease of use, and operational reliability. In 2016, the
+remaining variable frequency drives will be released for the Altivar Process Family. Each Altivar Process
+model has built on the established performance set by those drives more than 10 years ago, creating new
+benchmarks for information management, energy efficiency monitoring, and process optimization.
+Altivar Process drives have taken over the advanced high-performance drive role in the Schneider Electric
+product range and now, the End of Commercialization process has been initiated for the Altivar 61 and Altivar
+71 ranges. Schneider Electric will maintain full support of these products up to the End of Commercialization
+date and seven years beyond. This ensures that users will continue to benefit from the reliable performance to
+these drives until the end of their operational lives and we assist in their migration to our more advanced
+Altivar Process drive range.
+Altivar 61 drives will be available through normal order channels until December 31, 2016.
+Note that this End of Commercialization announcement only applies to the 230 and 460 volt versions of those
+drives. For support or questions regarding assistance with application discussions please contact your local
+Schneider Drives PAE.
+Inventory Disposition and Return Policy:
+Use to depletion. Standard warranty applies. Ineligible for Stock Rotations. All sales are final.
+Product Photos
+Current Product: ATV61
+Office Location Code RAL160004CNInfo ( C102-2B)
+New Product: ATV630
+Doc# 0100HO1003R10/13
+Page 1 of 2
+CN Information
+Change Notice Information Announcement
+Customer Care Center: 1(888)778-2733 or email: ccc@schneider-electric.com
+Last Buy:
+(Or Until Inventory Depletion)
+Critical Dates
+Product Support
+Ends:
+Availability Date
+of New Product:
+End of
+Commercialization
+12/31/2016
+12/31/2017
+05/31/2014
+12/31/2016
+Definition of Dates:
+Last buy shall be the last date that we will accept a PO. This date shall take into account the lead time to build the
+product as well as current inventory levels.
+b. Product support shall be 1 yr beyond end of commercialization or last buy whichever the latter.
+c. Availability date of new product is when the new products are expected to be orderable.
+d. End of commercialization if made to stock; this date will be before the last buy date (taking into account the build
+/ shipping lead time as well as current inventory levels). If made to order; this date will equal the last buy date.
+Note: Our factories have limited capacities for products going obsolete. Product availability will be set on a first
+come first serve basis.
+a.
+Transition Tools:
+Altivar ATV61 to 630 conversion tool.pdf
+ATV Process Migration Information.pdf
+Flyers:
+Altivar 600 Series for W/WW.pdf
+Altivar 600-900 series for MMM.pdf
+Altivar 600-900 series for Oil-Gas.pdf
+Office Location Code RAL160004CNInfo ( C102-2B)
+Doc# 0100HO1003R10/13
+Page 2 of 2
+

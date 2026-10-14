@@ -1,0 +1,70 @@
+Frequently Asked Questions: CL17sc
+Why did Hach develop a replacement for the CL17?
+A. We wanted to take one of the most well-respected chlorine analyzers in the world and make it more user-friendly than ever
+before. We also wanted to give it more capabilities to deliver value in today’s data-driven world. The CL17sc delivers on these
+features while preserving the same trusted reliability and accuracy of Hach®’s CL17.
+Q: Can I still buy a CL17?
+A: The CL17 will remain available for sale for a period of six months after the release of the CL17sc. Buyers of a legacy CL17 during
+this time period have no need to worry about their investment, as Hach will support the CL17 with parts and service for a
+minimum of five years.
+Q: I recently purchased a CL17—how long will Hach stand behind this product?
+A: If you recently purchased a CL17, rest assured that you’re in good hands. Hach is committed to supporting the CL17 with parts
+and service for a minimum of five years after the transition to the CL17sc. You’ve made a great investment and Hach will be there
+to see that you get the most out of the life of your new CL17.
+Q: I have a Hach Service Plan with my current CL17—can it be transferred when I upgrade to the CL17sc?
+A: Yes, Hach Service will facilitate a seamless transfer of your existing CL17 Service Plan when you upgrade to the CL17sc.
+Q: Does the CL17sc require an SC controller?
+A: Yes, the CL17sc requires an SC controller to operate. The CL17sc can be managed from all Hach SC controllers as well as the
+5500sc AMC analyzer.
+Q: What improvements does the CL17sc deliver over the CL17?
+A: The CL17sc delivers many improvements over the CL17:
+Routine maintenance made easy:
+• Completely redesigned tubing and pump system dramatically reduces time spent on routine maintenance.
+• Step-by-step, on-screen instructions for all routine maintenance activities means novice and expert users will know that they
+performed a task correctly without missing any key steps.
+Comprehensive diagnostics:
+• A built-in flow meter provides real-time flow readings (mL / min) on screen, addressing the most common troubleshooting
+issue with process analyzers.
+• On-screen diagnostics menu provides quick identification of warnings and errors. No more guessing what’s wrong.
+• A three-color status light gives immediate feedback—even from across the room—on the instrument’s operating status.
+• Three measurement cycle lights show which stage of the measurement the analyzer is performing at all times. No more
+wondering whether the analyzer is flushing the sample, mixing reagents, or taking a measurement.
+• A colorimeter window allows for additional visual verification that the instrument is working as intended.
+Expanded connectivity:
+• The CL17sc comes ready to be used with Hach’s innovative Claros Mobile Sensor Management, which allows users to view
+measurement data and instrument status anytime, anywhere, on any web-enabled device.
+• The CL17sc now connects to Hach’s family of SC controllers, providing capabilities for internal data logging, external analog
+and digital communication alternatives, and multi-parameter instrument flexibility.
+Improved performance:
+• The CL17sc measures from 0.03 to 10 mg/L free or total chlorine, doubling the range of the CL17.
+Q: Is the CL17sc introducing a new methodology / technology?
+A: No, the CL17sc uses the same proven DPD colorimetric method for measuring residual chlorine as the CL17.
+Q: Does the CL17sc use the same reagents as the CL17?
+A: Yes, the CL17sc uses the same reagents (same part numbers) as the CL17.
+Q: Does the CL17sc comply with the same approved regulatory method as the CL17?
+A: Yes, the CL17sc complies with US EPA 40 CFR 141.74.
+Q: Is the CL17sc Claros™ enabled?
+A: Yes, the CL17sc comes ready to be used with Hach’s innovative Claros Mobile Sensor Management, which allows users to view
+measurement data and instrument status anytime, anywhere, on any web-enabled device. Alerts for upcoming maintenance and
+issues requiring immediate attention are all in the palm of your hand. Detailed, step-by-step illustrated instructions for routine
+maintenance tasks also allow users to feel confident they’ve performed maintenance correctly. Be sure to choose a Claros enabled
+controller when you purchase your new CL17sc.
+Q: Will the CL17sc fit where my current CL17 is mounted?
+A: Yes, although the CL17sc has a smaller footprint than the CL17, it is designed to fit the same top or bottom mounting holes as
+the CL17. Keep in mind that you’ll also need a Hach SC controller mounted nearby.
+Q: I see that there are two installation kits for the CL17sc—which one is best for me?
+A: Users can select one of two installation kits at the time of purchase, both of which are designed to manage sample pressure to
+the analyzer:
+Standpipe installation kit: Works well in all conditions. The standpipe has no moving parts, making it very reliable. This installation
+kit requires two feet of space above the top of the analyzer, so keep that in mind as you think about your installation space.
+Pressure regulator installation kit: Works well in all conditions except for when sample pressure is consistently at the low end of
+the analyzer’s specifications. This installation kit is compact, so it may be the best choice when there is not enough space above
+the analyzer for a standpipe installation kit.
+Q: What Hach Service Plans are available with the CL17sc?
+A: We have a full offering of Service Plans available for the CL17sc. Please visit Hach.com/service or check out our service offering
+here.
+Q: How do I order a CL17sc?
+DOC063.xx.30598
+A: You can puchase one here. Or you can purchase through these additional channels: contact your local sales manager, send an
+email to orders@hach.com, or call us at the number listed on your local hach.com page.
+

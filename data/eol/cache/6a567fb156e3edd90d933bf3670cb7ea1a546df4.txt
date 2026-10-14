@@ -1,0 +1,235 @@
+ 
+ Safe migration of the automation systems | Siemens 
+ Skip to main content 
+ Home 
+ Content 
+ Automation systems 
+ Safe migration of automation systems 
+ How can we support the automation system migration process? 
+ Contact us 
+ The migration of industrial automation systems is not only about replacing outdated hardware, but above all about strategically unlocking the potential of data and increasing the company’s operational resilience.
+ Migration What do we gain from migration? 
+ Increased efficiency and cost reduction
+ Modern automation systems deliver higher performance, improved reliability and less production downtime. Migration cuts maintenance costs, simplifies infrastructure management, and enables advanced diagnostics and optimization.
+ Higher cybersecurity standards
+ Legacy systems are the primary targets of cyberattacks. Migration provides access to preventive and adaptive cybersecurity, including data encryption and advanced threat detection mechanisms.
+ Integration with modern technologies (IT/OT)
+ The possibility of implementing new technologies such as AI, supporting decision-making on the shop floor. Edge and cloud computing: modern systems enable data processing closer to the source (edge), reducing latency.
+ Sustainability and environmental protection
+ Modernization enables the measurement and optimization of energy consumption and carbon footprint, which is essential for maintaining competitiveness. Extending lifecycle of existing assets through modernization (retrofitting).
+ Availability of spare parts and support
+ Maintaining systems from the 1980s or 1990s is becoming increasingly difficult and costly due to the lack of spare parts and diminishing manufacturer support. Migration to modern platforms ensures operational stability.
+ Select the system you want to migrate 
+ SIMATIC S7-1200 G1 Controllers → S7-1200 G2 Controllers 
+ SIMATIC S7-1200 – end of lifecycle for the first generation and the recommended solution for the future 
+ Siemens announces that the first generation of SIMATIC S7-1200 controllers (G1) will begin its gradual phase-out process as of November 1, 2026.
+ More on Support Industry 
+ At the same time, the successor controller, SIMATIC S7-1200 G2 , has been introduced to the portfolio – a modern generation of controllers designed to meet the future requirements of industrial automation.
+ Learn about SIMATIC S7‑1200 G2 
+ Key dates – SIMATIC S7-1200 (G1) 
+ 01.11.2026 
+ – official announcement of product phase-out
+ Until 31.10.2027 – possibility to order G1 as a new device
+ Until approx. 2036 – planned availability of modules as spare parts
+ ➡ Customers can safely plan the completion of current projects and the maintenance of existing installations.
+ SIMATIC S7-1200 G2 – recommended solution for new projects 
+ SIMATIC S7-1200 G2 is the natural successor to G1, offering tangible business and technical benefits:
+✅ Higher performance and scalability – shorter cycle times, greater application capabilities
+✅ Modern machine safety – optimized Safety portfolio compliant with current standards
+✅ Enhanced Motion Control functions (previously unavailable in S7-1200) – improved precision and application dynamics
+✅ Ready for digitalization – greater data transparency, support for digitalization and resource efficiency
+✅ Industrial-grade cybersecurity – compliance with IEC 62443-4-2
+✅ Full integration with TIA Portal – engineering continuity and faster project deployment
+ Migration Guide 
+ Why choose S7-1200 G2 today? 
+ long-term investment protection
+ access to modern features required by end customers
+ no risk of designing on a platform being phased out
+ easier compliance with IT/OT and security audit requirements
+ increased competitiveness of machines and production lines
+ Siemens support 
+ Siemens Support Siemens offers:
+ guidance in selecting the right G2 CPUs and modules,
+ support for migration from G1 to G2,
+ technical and commercial assistance during the quotation and project implementation phases.
+ Technical help in Polish
+ Larn more about S7-1200 G2 
+ SITRAIN Freemium 
+ Free access area on the official SITRAIN access training platform. An industrial learning platform for self-paced upskilling in the operation, programming, and maintenance of automation systems and devices.
+ SITRAIN Freemium 
+ SiePortal
+ Ready-to-use application examples
+ More than 80 ready-to-use application examples for the S7-1200 G2, including complete documentation.
+ More on SiePortal 
+ Radar Produktów 
+ Find your product at a local distributor, check the inventory availability of authorized distributors.
+ Radar 
+ Publications about the S7-1200 G2 
+ Technical publications, guides, and documentation in Polish 
+ SIMATIC S7-1200 G2 Migration Tool 
+ The Migration Tool is a TIA Portal add-on that includes a migration assessment module and an application that automatically performs the migration process. By launching the add-on, users can automatically transfer existing program components to the new S7-1200 G2 system.
+ Link 
+ Copilot said: SIMATIC S7-300 Controllers → S7-1500 Controllers 
+ SIMATIC S7-300 together with the ET 200M I/O system was discontinued on October 1, 2025 (product phase-out status PM410 – Product Removed from Portfolio). The successor to this discontinued product family is the SIMATIC S7-1500 system, together with the SIMATIC ET 200MP and ET 200SP distributed I/O modules, the SIMATIC S7-400 system, and the SIMATIC ET 200SP HA distributed I/O system (Process Automation).Further details can be found in the announcement on the global support website: “Information about the product phase-out of S7-300 / ET 200M components” 
+ See full announcement 
+ After this date, S7-300 system components can only be purchased as spare parts or returned for repair. We reserve the right to supply certain components exclusively on an exchange basis for defective parts. Please note that components can only be ordered in the standard quantities applicable to spare parts. The supply of components for the expansion of existing installations or for the construction of new systems is not possible.
+ For this reason, migration of existing systems to the recommended solutions based on the newer SIMATIC S7-1500 product family is strongly recommended. The PM490 status, which represents the end of production and sales of the S7-300 system , is scheduled for October 1, 2033 . If a specific quantity of such components is required beyond the PM490 phase, it is generally possible to enter into an individual long-term agreement in advance. In such cases, technical support, repair services, and parts availability can only be guaranteed under the terms of a separate individual agreement.
+ Signal Adapters 
+ Signal adapters for I/O modules of legacy systems enable fast and reliable migration to the latest technology standards. Benefits of using signal adapters: 
+ Hardware engineering costs are kept low, as only the controller needs to be replaced. All existing field wiring remains in place.
+ No revisions to electrical schematics are required; signal lists are automatically updated by the engineering software.
+ Production downtime is significantly reduced.
+ This approach not only saves time and money but also substantially minimizes the risk of errors.
+ Interface Module Adapter 
+ Migration Guide: SIMATIC S7-300/400 to SIMATIC S7-1500 
+ This migration guide provides recommendations and guidance for users who are currently operating SIMATIC S7-300/400 systems and are planning to migrate to the new generation of SIMATIC S7-1500 controllers. It outlines key considerations, migration strategies, and best practices to support a smooth and efficient transition to the latest automation platform.
+ View the Migration Guide 
+ Safety Program Migration to TIA Portal 
+ This step-by-step guide helps you migrate your safety program from STEP 7 V5.6 to STEP 7 V15.1 .
+ View the Guide 
+ Documentation for the S7-1500 System and the ET 200MP Distributed I/O System 
+ Documentation for the SIMATIC S7-1500 automation system and the SIMATIC ET 200MP distributed I/O system.
+ Go to Documentation 
+ TIA Portal Migration Tool 
+ In many cases, the project you want to migrate is not located on the same programming device or computer where TIA Portal is installed. Therefore, the original project must first be converted into a compatible format for migration. This tool enables you to prepare a file that can be imported into the latest version of TIA Portal , based on the original source project.
+ TIA Portal Migration Tool 
+ Migration – Key Documents and Useful Links 
+ Successful migration to new automation systems requires the right knowledge and resources. Siemens supports you with a wide range of tools and documentation to help ensure a smooth and efficient migration process.
+ Go to Documentation 
+ TIA Portal – Key Documents and Useful Links 
+ This page provides an overview of the most important documents and links related to TIA Portal . Both new and experienced users can find essential information, resources, and guidance to help them work efficiently with TIA Portal.
+ Go to Documentation 
+ SIMATIC Comfort HMI Panels → Unified Comfort HMI Panels 
+ As of January 2026, a phase-out process for Comfort Panels has been announced. They will remain available for purchase as new devices until the end of December 2027.
+ Check availability 
+ For several years, the innovative WinCC Unified visualization system family has been under development, including the Unified Comfort panel equivalents. As the architectures of the two systems differ, direct migration of visualizations between them is not possible. To simplify this process as much as possible, Siemens has developed dedicated engineering tools to support migration.These tools can also be used to migrate from HMI Basic 2nd generation to Unified Basic, as well as from WinCC Runtime Advanced to WinCC Runtime Unified.
+ Modernization Guide 
+ In the modernization guide, you will find information on how to properly approach upgrading your visualization system to Unified. The step-by-step guide highlights the differences between the old and the new system, shows where to start, and which tools to use to make the process as effective as possible.
+ Learn more 
+ Modernization Checker 
+ A tool for analyzing HMI Comfort, Basic 2nd generation, or WinCC Advanced projects. After generating a report, you will learn which functions will require a different approach in the Unified system, along with references to documentation explaining how to handle them. The report will also identify areas that cannot currently be directly transferred. Additionally, it includes a checklist to help track progress during the modernization process.
+ Learn more 
+ Data2Unified 
+ As visualizations in Basic 2nd generation, Comfort, and WinCC Advanced systems are based on a different architecture than WinCC Unified, direct copying of objects between these systems is not possible. This transfer is enabled by the Data2Unified tool, built on TIA Portal Openness. Use it to transfer most data, objects, screens, and their properties to the Unified system.
+ Learn more 
+ Webinar “Modernization to Unified” 
+ Find out what tools are available in the webinar we have prepared for you:
+ Learn more 
+ SITRAIN Access 
+ Before starting the modernization process, begin by learning the WinCC Unified system through free courses available on the SITRAIN Access platform. You will also find a course dedicated to using modernization tools.
+ Learn more 
+ SINAMICS V90 Drives → SINAMICS S200 Drives 
+ SINAMICS V90 replaced by SINAMICS S200 
+ SINAMICS V90 Is Being Discontinued. Meet Its Successor – SINAMICS S200
+ Starting October 1, 2026, Siemens will begin the phase-out process of the SINAMICS V90 servo drive system in regions outside China. This solution, which has been widely used for years in applications requiring precise positioning and reliable motion control, will gradually be replaced by the modern SINAMICS S200 servo drive system.SINAMICS S200 represents the next generation of standard Siemens servo drives. The system consists of the SINAMICS S200 drive, SIMOTICS S-1FL2 motors, and MOTION-CONNECT 350 / 380 cables. For new applications and planned machine upgrades, we recommend considering SINAMICS S200 already at the project concept stage.
+ PLM Status
+ Successor 
+ Recommendation 
+ P.M400 – Product Discontinuation Announcement: October 1, 2025
+ P.M410 – Product Cancellation: October 1, 2026
+ SINAMICS S200 + SIMOTICS S-1FL2 + MOTION-CONNECT 350 / 380
+ Plan all new projects and modernization activities using SINAMICS S200.
+ Why SINAMICS S200?
+ SINAMICS S200 has been designed as a standard single-axis AC/AC servo drive system for motion control applications. Compared to SINAMICS V90, it offers a more modern architecture, higher dynamics, easier commissioning, and greater readiness for digitalization.
+ Higher dynamics and precision: Faster control loop cycles and PROFINET RT/IRT communication down to 250 µs in PN variants.
+ TIA Portal integration: Commissioning and diagnostics via Startdrive, plus convenient operation through the integrated web server.
+ Simplified selection and commissioning: One Button Tuning, automatic drive identification, and an electronic motor nameplate.
+ Compact design: Reduced installation space requirements and easier cabinet layout.
+ Safety Integrated: STO (Safe Torque Off) certified up to SIL3 for standard safety applications.
+ System-wide integration: Drive, motor, cables, and engineering tools form a consistent and straightforward migration solution. 
+ What Does the Phase-Out of SINAMICS V90 Mean for Users?
+ Products from the SINAMICS V90 family will gradually move through the subsequent stages of the Siemens Product Lifecycle Management (PLM) process.
+ For existing installations, users should verify spare parts availability, article number status, and service plans through the latest information available in Siemens Industry Online Support and SiePortal.
+ For new applications and planned modernization projects, migration to SINAMICS S200 is recommended.
+ Migration planning should begin early, as the replacement selection process should take into account power rating, supply voltage, communication version, motor inertia, cable configuration, brake requirements, and specific application demands.
+ Area
+ SINAMICS V90
+ SINAMICS S200
+ Portfolio Position 
+ Basic servo drive system
+ Next-generation standard servo drive system
+ System 
+ SINAMICS V90 + SIMOTICS S-1FL6 + MOTION-CONNECT 300
+ SINAMICS S200 + SIMOTICS S-1FL2 + MOTION-CONNECT 350 / 380
+ Power Range 
+ 200 V: up to 2 kW; 400 V: 0.4–7 kW
+ 200 V: up to 1 kW; 400 V: 0.2–7 kW
+ Communication 
+ PROFINET RT/IRT up to 2 ms or PTI
+ PROFINET RT/IRT up to 250 µs or PTI
+ Commissioning 
+ V-Assistant / HSP for PN version
+ Startdrive in TIA Portal + Web Server
+ Tuning 
+ One Button Tuning and real-time auto tuning
+ One Button Tuning, real-time auto tuning, automatic motor identification
+ Safety 
+ STO via terminal, SIL2
+ STO via terminal, SIL3
+ System Components 
+ S-1FL6 motors, MC300 cables
+ S-1FL2 motors, MC350 / MC380 cables
+ Application Focus 
+ Simple positioning applications and standard servo tasks
+ New standard servo applications, retrofits, and migration projects from V90
+ Migration: What Should Be Prepared Before Selecting a Replacement?
+ When replacing SINAMICS V90 with SINAMICS S200, it is advisable to collect the key application data in advance. This helps avoid incorrect sizing and reduces the time required to prepare a technical proposal.
+ MLFB numbers of the existing drive, motor, and cables.
+ Supply voltage and axis power rating
+ Communication version: PROFINET or Pulse Train Input (PTI).
+ Required motor type and inertia class: low, medium, or high inertia.
+ Requirements for brake, cables, cable lengths, and installation conditions.
+ TIA Portal / Startdrive version used in the engineering environment.
+ Application requirements: positioning, speed, torque, vertical axis operation, measurement functions, homing, and safety requirements.
+ Migration Support Tools
+ Tool
+ Purpose
+ MLFB Migration Tool in Siemens Product Configurator
+ Helps identify recommended successor products for SINAMICS V90 drives and SIMOTICS S-1FL6 motors. The integrated comparison table makes it easier to evaluate key technical differences.
+ TIA Migration Tool
+ Intended to support the migration of existing SINAMICS V90 V-Assistant projects to SINAMICS S200 in TIA Portal, helping reduce the effort and time required to move to the new platform.
+ SIOS / SiePortal Documentation
+ Source of up-to-date PLM status information, article numbers, operating instructions, successor tables, and technical data.
+ Need Assistance with Migration? 
+ Contact your local Siemens representative or technical support team. We can help select the right SINAMICS S200 replacement, verify application data, configure the drive in TIA Portal, and prepare a smooth migration and modernization plan.
+ Informacja SIOS: Product Phase-out announcement dla SINAMICS V90
+ More 
+ SiePortal– SINAMICS S200
+ More on SiePortal 
+ Systems SIMOTION -> SIMATIC S7-1500T 
+ The Future of Motion Control Begins Today
+ The SIMATIC S7-1500T combines PLC, Motion Control, Safety, Diagnostics, and HMI functions in a single engineering environment, the TIA Portal. This is a natural modernization path for SIMOTION-based machines.
+ For over 20 years, SIMOTION has been one of the most advanced and respected Motion Control systems on the market. Thanks to the tight integration of PLC, drive, and motion functions, it has enabled the implementation of thousands of demanding machine applications worldwide.
+ Currently, Siemens is consistently developing a strategy based on SIMATIC S7-1500T technology controllers, which adopt and even extend Motion Control functionality, providing greater flexibility and full integration in the TIA Portal environment.
+ Why Migrate from SIMOTION?
+ Single Engineering Environment
+ T-CPU controllers utilize the TIA Portal platform, integrating in a single project:
+• PLC,
+• Motion Control functions,
+• SINAMICS drives,
+• Safety Integrated safety systems,
+• Diagnostics,
+• HMI, and SCADA.
+ This provides users with a single, consistent design environment that shortens machine commissioning, maintenance, and expansion times.
+ Modern Hardware Architecture
+SIMATIC S7-1500T controllers provide high computing power, short cycle times, support for multiple synchronous axes, advanced kinematic functions, and readiness for future industrial communication.
+ Simplified Maintenance
+Control platform standardization reduces the number of spare parts, programming tools, and training, as well as reduces the risk associated with the availability of legacy components.
+ The Most Important Benefit
+Migration doesn't have to mean a revolution in the machine. A well-prepared plan allows you to maintain proven technological assumptions while simultaneously migrating the application to a current and evolving automation platform.
+ What can be migrated?
+Most SIMOTION-based applications can be ported to the T-CPU, including:
+✓ Single axes
+✓ Electronic gears
+✓ Electronic cams
+✓ Axis synchronization
+✓ Positioning
+✓ Flying Saw applications
+✓ Rotary Knife applications
+✓ Pick & Place systems
+✓ Multi-axis servo systems
+✓ Machine kinematics control
+ SCALANCE industrial network components 
+ SCALANCE Industrial Network Components Siemens industrial networks form the foundation of modern automation infrastructure, ensuring reliable, efficient, and secure communication between devices, machines, and IT/OT systems. Due to the evolution of the SCALANCE portfolio, some older devices have been retired or are being phased out. Siemens recommends migrating to the latest SCALANCE platforms, which offer higher performance, greater integration capabilities, and advanced cybersecurity features.
+ SCALANCE industrial network components 
+ 京ICP备06054295号 京公网安备 11010502040638号 

@@ -1,0 +1,69 @@
+ 
+ What to know about navigating the end of RSLogix 5 | Rockwell Automation | US 
+ Loading
+ Blog
+ Recent Activity Recent Activity 
+ -->
+ What to know about navigating the end of RSLogix 5
+ Review what the final lifecycle phase of RSLogix 5 programming software means for your operations and how to prepare for the future.
+ Share This:
+ LinkedIn LinkedIn 
+ X X 
+ Facebook Facebook 
+ Print Print 
+ Email Email 
+ For nearly four decades, the Allen-Bradley® PLC-5® and its programming software RSLogix™ 5 have been the cornerstone for industrial automation. While paving the way for future PLC and software development that we see today, the longevity speaks to its reliability and robustness of the platform. However, as technology evolves, we must continue to evolve along with it to achieve modern business and expectations. RSLogix 5 will reach its final lifecycle phase on December 31, 2025. 
+ Let's highlight what this means for your operations and how to prepare for the future. 
+ What This Means for Your Business 
+ If you're currently using RSLogix 5, here are the key points to understand: 
+ On December 31, 2025, new RSLogix 5 activations will no longer be available for purchase. 
+ The software has already reached End of Life status, meaning no more anomaly corrections or functional improvements 
+ RSLogix 5 will continue to be supported through Rockwell Automation technical support 
+ What do you Need to do to Prepare 
+ Consider the following whether you are looking to maintain your install base, support your customers, or modernize your platform. 
+ Assess your software licenses. Take inventory of your current RSLogix 5 licenses and evaluate if they’re sufficient to maintain your system. 
+ Have a support plan. Identify a plan for technical support by Rockwell Automation and/or your local service partners. 
+ Evaluate your business objectives. Use this lifecycle change to evaluate your automation strategy, including meeting your company’s technology policies or modernizing to achieve a competitive advantage. 
+ Looking Forward to the Logix platform 
+ As the final chapter closes on sales of one of the most popular PLC systems in history, there is much to look forward to with innovations from ControlLogix®, programming software Studio 5000 Logix Designer® and FactoryTalk® Design Studio™ . A new ControlLogix controller is set to release this year with integrated safety for all controllers and enhanced system performance and capacity. The controller programming software suite continues to add functionality to deliver an end-to-end design experience to meet modern business needs and users. With expanding device and code libraries, generative AI code development, and automated testing capabilities, the controller design software continues to evolve to allow efficient application design to improve time to market and reduce downtime. These continued functional and feature improvements to the Logix platform deliver to support the modern PLC user as we look to the future of industrial automation. 
+ Published January 28, 2025
+ Topics:
+ Accelerate Digital Transformation 
+ Industrial Automation & Control 
+ Programmable Controllers 
+ FactoryTalk Design Studio 
+ Studio 5000 
+ Alexandra Lim
+ Control Design Software Marketing Manager
+ Alexandra Lim is the Product Marketing Manager for PLC design software solutions. With her career spanning developing customer-centric marketing strategies, launching software products, and implementing software solutions at customer sites, she is passionate about translating complex industrial automation concepts into valuable customer solutions. Her technical background spans industrial cybersecurity, network architecture, and Rockwell Automation manufacturing software, giving her unique insight into the challenges and opportunities facing modern manufacturing.
+ Subscribe to Rockwell Automation
+ Receive the latest news, thought leadership and information directly to your inbox.
+ Subscribe now
+ You may also be interested in 
+ Loading
+ Loading
+ Loading
+ Loading
+ Chevron Left Chevron Left 
+ Rockwell Automation Home 
+ Chevron Left Chevron Left 
+ Com... 
+ Chevron Left Chevron Left 
+ News 
+ Chevron Left Chevron Left 
+ Blogs 
+ Chevron Left Chevron Left 
+ What to know about navigating the end of RSLogix 5 
+ ✕ 
+ Please update your cookie preferences to continue.
+ This feature requires cookies to enhance your experience. Please update your preferences to allow for these cookies:
+ Social Media Cookies
+ Functional Cookies
+ Performance Cookies
+ Marketing Cookies
+ All Cookies
+ You can update your preferences at any time. For more information please see our {0}
+ Privacy Policy 
+ Cancel 
+ Go to Cookie Settings 
+ Close Close 

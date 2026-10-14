@@ -1,0 +1,70 @@
+Rockwell Automation announces the PowerFlex 700S AC Drive will be discontinued and no longer
+available for sale as of June 30, 2023.
+To support your transition, we recommend migrating to the PowerFlex 750 family of AC Drives. The
+PowerFlex 750 family offers:
+• Flexible, high-performance motor control to handle a wide range of motor control applications,
+even the most demanding
+• Real-time operational intelligence to reduce unplanned downtime
+• Automated commissioning optimization to reduce or eliminate start up and periodic drive tuning
+while minimizing the stress and strain on mechanical components
+• Expanded safety, security, and environmental options for increased protection of people and
+equipment
+Here are the products that are affected:
+Catalog
+Number
+20D *
+Description
+PowerFlex 700S
+AC Drives
+Discontinued
+Date(1)
+June 2023
+Recommended Replacement
+PowerFlex 755 AC Drives
+(available now)
+Catalog numbers: 20G1*
+Replacement
+Category(2)
+Engineered
+Replacement
+PowerFlex 755TS AC Drives
+(available 2022)
+Catalog numbers: 20G2*
+Please note products may sell out prior to the discontinuation date listed above. We recommend you
+place all last-time buy orders as far in advance of the discontinued date as possible by contacting your
+local Allen-Bradley distributor or Rockwell Automation sales engineer.
+Product stocking varies globally region-to-region. Some regions may have product available for sale up
+to one year after a product discontinuation date. To check product availability in your region, contact
+your local Allen-Bradley distributor or Rockwell Automation sales engineer.
+Rockwell Automation plans to provide repair services and technical support for these products for as
+long as practical. If you are interested in using some of these services, please contact our technical
+support at http://www.rockwellautomation.com/global/support/overview.page. Note that most services
+are chargeable and may require a technical support contract.
+Migration Solutions
+Rockwell Automation can help you identify your options for leveraging your existing automation
+investment across the enterprise and throughout the lifecycle. Use our Product Lifecycle Status search
+tool to find specific lifecycle information by catalog number.
+expanding human possibility
+FULL ADDRESS IN ALL CAPS ON ONE OR TWO LINES
+As always, we will make every attempt to satisfy your needs. Please feel free to contact me with any
+concerns or transition issues.
+Nancy Rivard
+Global Product Manager
+narivard@ra.rockwell.com
+Notes:
+(1) Discontinued date may be subject to change.
+(2) Definition of replacement categories:
+Direct Replacement: a product that can be used in place of an earlier product without any
+user modifications or adjustments. A direct replacement provides backward compatible form, fit
+and function by emulating the earlier product.
+Functional Replacement: a product or family that can be used to replace an earlier product or
+family and emulates the old one with minimal changes to an existing application. A functional
+replacement means that there is a form, fit or function change, but that it is backward
+compatible.
+Engineered Replacement: a product or family that can be used to migrate an earlier product
+or family and requires engineering changes to existing applications. An engineered
+replacement means that there is a form, fit or function change of the application that is not
+backward compatible and that does not emulate the earlier product.
+expanding human possibility
+FULL ADDRESS IN ALL CAPS ON ONE OR TWO LINES
+

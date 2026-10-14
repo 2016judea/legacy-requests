@@ -1,0 +1,305 @@
+Migration solutions
+SLC™ 500 to CompactLogix™ 5380 control system
+Optimize productivity and minimize risk with modern technology
+To stay ahead of the changing market demands, it is crucial to have migration solutions that
+can help lower the risk of maintaining legacy equipment and achieve increased productivity.
+Maximize your competitive advantage by collaborating with a partner who has the product,
+service and industry knowledge to develop your upgrade strategy.
+SLC™ 500 controllers and SLC™ I/O
+Rockwell Automation and our partners will develop a modernization strategy with you to fit
+your application needs and long-term goals. You can migrate all at once or in phases, at the
+pace that is comfortable for you and to fit your budget. This will allow you to migrate with
+ease from SLC™ 500 to CompactLogix™ 5380 control system.
+Product lifecycle
+Use the Product Lifecycle Status search tool on the web to find specific lifecycle information by catalog number.
+ACTIVE
+ACTIVE MATURE
+END OF LIFE
+ACTIVE: Most current offering within a product category.
+ACTIVE MATURE: Product is fully supported, but a new product or family exists. Gain value by migrating.
+END OF LIFE: Discontinued date announced — actively execute migrations and last time buys. Product generally
+orderable until the discontinued date1.
+DISCONTINUED: Product no longer manufactured or procured2. Repair/exchange services may be available.
+1
+2
+Outages on specific items may occur prior to the Discontinued date.
+Limited stock may be available in run-out mode, regionally.
+Compact GuardLogix® 5380
+SIL 3 controller
+DISCONTINUED
+CompactLogix™ 5380 controller and
+Compact 5000™ I/O system
+Compact GuardLogix® 5380
+SIL 2 controller
+Why upgrade or migrate?
+Modern technology helps you stay ahead with better performance and greater efficiency in a
+global market
+1492 I/O wiring and conversion system
+1492 I/O conversion modules:
+Compact 5000™ I/O interface
+CompactLogix™ 5380 controller
+Compact 5000™ I/O
+modules
+The SLC™ 500 control system migration is part of the proactive modernization plan we have for you.
+Modernizing your legacy automation system helps you achieve better system performance, capacity,
+productivity, and security to meet the growing demands of smart machines and equipment for manufacturing.
+Upper mounting
+plate
+Plan now to lower the risk of maintaining legacy equipment and achieve increased productivity with SLC 500
+to CompactLogix™ 5380 control system migration. It is an opportunity to meet more application requirements
+with standard and safety options from CompactLogix 5380 and Compact GuardLogix® 5380 controllers
+respectively.
+Existing SLC™ I/O
+(Bulletin 1746)
+field wiring
+1492 I/O conversion modules:
+SLC™ I/O (Bulletin 1746)
+interface
+Note: Conversion module cables
+shown are longer than actual length
+Advantages
+Get more with CompactLogix 5380 control system
+• Gain additional flexibility with integrated motion on EtherNet/IP™ up to 32 axes
+• Improve performance with high-speed I/O, motion control and Device Level Ring (DLR) and Linear topologies
+with dual gigabit (Gb) embedded Ethernet ports
+• Increase security with controller-based change detection, logging and encrypted firmware
+• Maximize returns on existing assets through improved control and access to real-time diagnostics
+• Reduce commissioning time and optimize productivity with one common development environment, Studio
+5000 Logix Designer® application
+Lower mounting plate
+Migrate with ease
+• Lower overall conversion time and effort
+- Reduce time to rewrite controller program with
+code conversion tools
+- Convert I/O and maintain existing field wiring
+connections
+• Reduce troubleshooting at startup
+- Zero wiring errors
+• Save installation time
+- No drilling required as conversion chassis utilizes
+existing mounting holes
+Develop a modernization plan
+Evaluate your options for a proactive lifecycle plan:
+Modernization services from Rockwell Automation
+Reduce lifecycle risks before, during and after the migration process with modernization solutions that
+are tailored to your specific needs. Our modernization services and support help to minimize downtime,
+maximize operational success and lessen the risk of maintaining legacy equipment. From project
+management to startup, we will help define and implement an effective modernization strategy for your
+facility.
+Recognized system integrator or solution provider
+Our PartnerNetwork™ program provides an integrated team of engineering specialists and suppliers that are
+leaders in the automation and manufacturing industry who have experience delivering products or services
+that are designed to work with Rockwell Automation®
+solutions.
+Do It Yourself
+If you prefer to migrate from SLC™ 500 to CompactLogix™
+5380 control system without assistance, Rockwell Automation
+provides many tools and resources to help you plan and
+migrate with as little disruption as possible.
+Lifecycles Services
+by ROCKWELL AUTOMATION
+Tools to plan and execute your migration
+Rockwell Automation provides migration tools for hardware selection and conversion, and code conversion, that eliminate the need to modify any field device
+wiring. All tools are available regardless of who performs the migration: Rockwell Automation, System Integrator, or Do It Yourself.
+Installed Base Evaluation
+RSLogix 5000 or Studio 5000 project migrator
+An Installed Base Evaluation™ (IBE®) service provides a thorough analysis of your critical plant
+assets and their condition. This site-delivered service provides detailed reports by site, area, line,
+machine and panel.
+The Project Migrator tool allows you to save time and engineering resources when
+converting your SLC™ 500 application code. After exporting your RSLogix 500® project file,
+you can use the embedded conversion utilities to import your code into RSLogix 5000® or
+Studio 5000 Logix Designer® application.
+Integrated Architecture Builder
+The Integrated Architecture® Builder (IAB)
+tool is a graphical, user-friendly software
+tool that allows you to define and configure
+CompactLogix™ 5380 control system
+architecture automatically, including a
+detailed bill of materials (BOM) based on
+your current SLC™ control system.
+Popular configuration drawings for CompactLogix 5380 controllers
+Use these system configuration drawings to build a scalable Integrated Architecture® system for
+your industrial application and understand the basic performance, capacity and configurations
+that the controllers can use.
+ProposalWorks proposal builder
+This tool helps you create bill of materials, RFQs and proposals for your automation projects
+directly from your computer. The tool has more than 1,500 wizards and an easy-to-use search
+capability to find the right products to meet your application requirements.
+SLC EtherNet/IP communication module
+The SLC EtherNet/IP™ communication module (1747-AENTR) enables
+communication and data transfer between a CompactLogix 5380
+controller and remote I/O via Ethernet communications. Using the
+1747-AENTR module in a phased modernization allows the existing
+remote I/O network to remain in place. This also allows the new
+application to be tested before switchover and to switch back to the
+old application easily.
+Compact 5000 I/O serial module
+The Compact 5000™ I/O serial module (5069-SERIAL) enables the communication
+between a controller and I/O on a serial network. It can function as a local I/O or
+remote I/O module over an EtherNet/IP network.
+1492 I/O wiring and conversion system
+The 1492 I/O conversion system provides a fast and efficient method for converting SLC
+I/O to Compact 5000 I/O. The I/O conversion is accomplished without removing any field
+wires from the existing control cabinet, eliminating the risk of wiring errors.
+Getting started: Analyzing your automation system
+With industry knowledge and worldwide services support, Rockwell Automation will partner with you to ensure a smooth transition from your SLC™ 500 to
+CompactLogix™ 5380 control system.
+STEP 1: Document existing system layout and define future system requirements
+STEP 2: Plan migration
+Begin your migration planning by documenting your existing system as a reference point.
+This will enable you to consider the available options and find a solution that best meets your
+existing and future requirements.
+Once you have your overall migration approach, use Integrated Architecture® Builder (IAB)
+tool to help plan the details. The SLC migration wizard embedded in IAB will guide you
+through the system configuration process. You can decide which are the components to
+reuse or replace. If you choose to reuse the SLC I/O, IAB will verify module support and power
+supply loading and help you lay out the new EtherNet/IP network. The 1492 I/O conversion
+system in IAB helps to minimize the risk of wiring errors by preserving existing field wiring
+connection during I/O conversion.
+PanelView™ Standard graphic terminal
+SLC™ 500 control system
+Serial
+SLC™ remote I/O rack
+Moving forward: Executing your project
+Whether you choose to migrate all at once or in phases, we have the tools and experience to guide you through the transition. Our approach to modular
+automation coupled with backward compatibility allows you to maintain productivity as you upgrade portions of your automation system.
+PHASE 1: Application code conversion
+PHASE 2: Replace the SLC controller and/or module
+Save time and engineering resources when converting your SLC™ 500 application code by
+using the embedded conversion utilities in RSLogix 5000® or Studio 5000 Logix Designer®
+application. Converting your PanelView™ Standard application to a PanelView Plus 7
+application is as simple as importing the existing project into FactoryTalk® View Machine
+Edition software.
+Mount and wire the CompactLogix™ 5380 system and replace the SLC first slot module
+(SLC processor or communication module) with the SLC EtherNet/IP™ communication
+module (1747-AENTR). Using this module helps you retain your existing SLC I/O and preserve
+existing field wiring, while allowing your SLC I/O chassis to be controlled from your new
+CompactLogix controller. This approach simplifies the migration process, reduces risks
+associated with rewiring the I/O and saves valuable time, which allows you to get your
+application into production quickly.
+Tools: RSLogix 5000/Studio 5000 Logix Designer application, FactoryTalk® View Studio software
+Tools: SLC EtherNet/IP communication module user manual (1747-UM076), CompactLogix 5380 and Compact GuardLogix 5380
+controllers user manual (5069-UM001)
+Advantages of application code:
+• Converts code using automated code
+conversion
+• Leverages powerful constructs and
+features to improve the application
+Advantages of Human Machine Interface
+(HMI) application:
+• No further modification will be required,
+most of the time
+• Utility generates conversion log, which
+identifies features that are not supported
+by the selected new hardware
+• Enhanced features and graphics
+• Better integration with controllers
+PanelView™ Plus 7 graphic terminal
+CompactLogix™ 5380 controller
+Advantages:
+• Maintain existing field wiring
+EtherNet/IP™
+• Ability to revert to SLC I/O,
+if needed
+SLC™ I/O with 1747-AENTR module
+SLC™ I/O with 1747-AENTR module
+Moving forward: Executing your project
+PHASE 3: Replace other system hardware and review investment
+PHASE 4: I/O replacement
+If your control system has legacy or competitive variable speed drives, motion
+control, sensors, or motor control centers, Rockwell Automation can help migrate
+those products as well. We have a worldwide service group that can do the
+migration work, assist and train operators or provide the maintenance services
+once the migration is complete. We can also review your network needs and asset
+management for your entire facility.
+In the final phase of the migration process, the 1492 I/O conversion system is used to replace
+SLC™ 500 with CompactLogix™ 5380 control system. Because I/O replacement represents a
+large investment, we provide an approach that is right for your schedule and budget. The 1492
+I/O conversion system allows I/O conversion from SLC™ I/O to the Compact 5000™ I/O without
+removing existing field wiring connections. This helps to reduce conversion time, labor costs
+and reduce potential downtime risk that could result from wiring mistakes during the migration.
+Planning your migration is more manageable as the I/O can be swapped one rack at a time or all at
+once. In either case, you can run both new and old I/O architectures simultaneously. Additionally,
+I/O cross-reference documentation assures correctness and provides historical backup for future
+troubleshooting or diagnostics.
+Tools: Popular configuration drawings for CompactLogix 5380 controllers
+Tools: 1492 I/O wiring and conversion system, ProposalWorks™ proposal builder
+CompactLogix™ 5380 controller
+PanelView™ Plus 7 graphic terminal
+Stratix® 8000 switch
+CompactLogix™ 5380 controller
+EtherNet/IP™
+EtherNet/IP™
+PanelView™ Plus 7
+graphic terminal
+PanelView™ Plus 7
+graphic terminal
+PanelView™ Plus 7
+graphic terminal
+Compact 5000™
+remote I/O rack with
+1492 I/O wiring and
+conversion system
+Kinetix® 5500
+servo drive
+SLC™ remote I/O
+rack
+Stratix® 8000 switch
+PanelView™ Plus 7 graphic terminal
+SLC™ remote I/O
+rack
+PowerFlex® 525 AC drive
+Kinetix® 5500
+servo drive
+PanelView™ Plus 7
+graphic terminal
+Compact 5000™
+remote I/O rack with
+1492 I/O wiring and
+conversion system
+PowerFlex® 525 AC drive
+Modernization and conversion services
+In any phase of your conversion project, Rockwell Automation can provide you with
+technical, industry and project management expertise to help make a migration project
+easier. We will help you design a plan to account for your short- and long-term goals. You
+will be assigned a primary engineer as your primary communications contact, who will be
+responsible for coordinating and scheduling implementation activities and resources.
+Application modernization services
+Using custom-developed proprietary software applications designed to convert legacy
+control, visualization and variable-frequency drive platforms, our engineers will complete
+and test the conversion process to confirm operability of the new control system and
+hardware.
+Using standardized checklists and processes, our primary engineer will review to confirm the
+project scope, validate risks, review testing and acceptance criteria, and gather the required
+information and software to convert existing screens and application code.
+Deliverables include:
+• Correct and convert any instruction and/or addressing errors to the new processor family
+• Multilingual database conversion offered
+Deliverables include:
+• Bill of materials
+• Conversion acceptance criteria
+• Project schedule and timeline
+• Required information sent to conversion engineer team
+To request a migration quote, please contact your local authorized Allen-Bradley
+distributor or Rockwell Automation sales office.
+If you need additional help, Rockwell Automation can provide:
+• Application level phone support during the startup and debugging phase of the project
+• Consultation on system re-engineering, operator interface, architecture and
+communication strategies, training, and on-site startup
+Startup and acceptance
+Before installation, comprehensive functional testing will be performed, which includes preloading of all applicable software and firmware. Once installation is complete, our engineer,
+working closely with your plant staff, will conduct an operational compliance review.
+Comprehensive system documentation will be provided upon project acceptance.
+Deliverables include:
+• Operational test performed and validated by customer
+• Necessary documentation, including product sheets and software files
+• Customer acceptance
+• Optional: Red-lined or updated drawings
+®
+Allen-Bradley, Compact 5000, CompactLogix, expanding human possibility, FactoryTalk, GuardLogix, Installed Base Evaluation, IBE, Integrated Architecture, Kinetix, PanelView, PartnerNetwork, PowerFlex, ProposalWorks,
+Rockwell Automation, RSLogix 500, RSLogix 5000, SLC, SLC 500, Studio 5000 Logix Designer, Stratix and TechConnect are trademarks of Rockwell Automation, Inc.
+EtherNet/IP is a trademark of ODVA, Inc. Trademarks not belonging to Rockwell Automation are property of their respective companies.
+Publication MIGRAT-PP004C-EN-E - August 2020 | Supersedes Publication MIGRAT-PP004B-EN-E – February 2019
+Copyright © 2020 Rockwell Automation, Inc. All Rights Reserved.
+

@@ -331,7 +331,23 @@ def _money(v) -> str:
     return f"${round(v):,}"
 
 
-def story(recs: list[dict]) -> str:
+def legacy_section(rows: list[dict]) -> str:
+    """The step before the RFP: the OEM's own order-by date (scripts/build_dates.py, /dates)."""
+    eol = [r for r in rows if r["status"] == "eol"]
+    if not eol:
+        return ""
+    li = "".join(
+        f'<li><a href="/dates?q={quote(r["catalogs"][0] if r["catalogs"] else r["label"])}"><b>{_esc(r["label"])}</b> '
+        f'<span>{_esc(r["oem"])}</span><em>order by {date.fromisoformat(r["legacy_date"]).strftime("%b %-d, %Y")} · {r["days_left"]} days left'
+        f'{" · " + str(len(r["installs"])) + (" agency" if len(r["installs"]) == 1 else " agencies") + " on record running it" if r["installs"] else ""}</em></a></li>'
+        for r in eol[:4])
+    return f"""<section class="s"><h2>Before the RFP: the legacy date.</h2>
+<p class="sub">The maker sets a last day to order it new. Utilities that know the date buy ahead. These are open now.</p>
+<ol class="list">{li}</ol><a class="all" href="/dates">All {len(eol)} last-time buys, with the maker's own notice &rarr;</a></section>
+"""
+
+
+def story(recs: list[dict], legacy: list[dict] | None = None) -> str:
     makes, again, hunts = top_makes(recs), asked_again(recs), load_hunts()
     pairs = hunt_pairs(hunts)
     n_exact = sum(h["outcome"] == "found_exact" for h in hunts)
@@ -356,7 +372,7 @@ def story(recs: list[dict]) -> str:
     op = "".join(
         f'<li><a href="{_esc(o["sam_url"])}" target="_blank" rel="noopener"><b>{_esc(o["title"])}</b>'
         f'<em>{_esc(o["agency"])} · posted {o["posted"]} · open until {o["deadline_date"]}</em></a></li>' for o in still[:5])
-    return f"""<section class="s"><h2>The same makes. Over and over.</h2>
+    return legacy_section(legacy or []) + f"""<section class="s"><h2>The same makes. Over and over.</h2>
 <p class="sub">Equipment, software, service. Each make asked for by agency after agency.</p>
 <ol class="list">{mk}</ol></section>
 <section class="s"><h2>Asked again. And again.</h2>
@@ -373,7 +389,7 @@ def story(recs: list[dict]) -> str:
 """
 
 
-def render(recs: list[dict]) -> str:
+def render(recs: list[dict], legacy: list[dict] | None = None) -> str:
     agencies = sorted({r["agency"] for r in recs})
     n_hw = sum(1 for r in recs if r["is_physical"])
     n_soft = len(recs) - n_hw
@@ -534,7 +550,7 @@ footer{{max-width:1280px;margin:0 auto;padding:0 16px 40px;color:var(--muted);fo
 <input id="q" type="search" placeholder="Look up a part number, make or model" autocomplete="off" enterkeyhint="search" aria-label="Look up a part number, make or model">
 <p class="hint">Try <a href="?q=flygt#index">Flygt</a> · <a href="?q=motorola#index">Motorola</a> · <a href="?q=obsolete#index">obsolete</a></p>
 </header>
-<div id="story">{story(recs)}</div>
+<div id="story">{story(recs, legacy)}</div>
 <main id="index">
 <h2>Every ask.</h2>
 <p class="sub">{len(recs):,} asks for equipment, software and service. {len(agencies)} public agencies. {span(dates)}. Each one links to the agency's own document.</p>
@@ -796,7 +812,9 @@ pn.onchange=dl.onchange=draw;
 def main():
     recs = load()
     SITE.mkdir(exist_ok=True)
-    (SITE / "index.html").write_text(render(recs))
+    import build_dates
+    legacy = build_dates.main(VA_TAG, TITLE)
+    (SITE / "index.html").write_text(render(recs, legacy))
     (SITE / "data.json").write_text(json.dumps(slim(recs), separators=(",", ":")))
     (SITE / "records.json").write_text(json.dumps(recs, separators=(",", ":")))
     opens = load_open()

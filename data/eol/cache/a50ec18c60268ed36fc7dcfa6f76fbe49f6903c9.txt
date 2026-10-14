@@ -1,0 +1,271 @@
+Migration Solutions
+PowerFlex® 700 AC Drive (250-700 Hp) to PowerFlex 755 AC Drive
+Why Upgrade or Migrate
+While the PowerFlex 700 AC drives
+high power product line extension
+(250…700 Hp, 160…500 kW) was a
+a valuable part of our portfolio for
+many years, these ratings in the
+PowerFlex 700 drive family are no
+longer available for sale. They were
+discontinued as of April 2017.
+Now is the time to migrate to the
+PowerFlex 755 AC drives. As the latest
+PowerFlex offering in this power range,
+PowerFlex 755 AC drives offer many
+new features designed to help improve
+your operations.
+PowerFlex 755 AC Drives
+Features and Benefits
+PowerFlex 700 AC Drive Frame 7
+250 Hp/160...180 kW
+(DISCONTINUED)
+• More selection for control,
+communications, safety and
+supporting hardware options than
+any other drives in their class
+• A slot-based hardware architecture
+provides flexibility to select up to
+five option cards to suit your
+application requirements
+• Built-in EtherNet/IP port allows you to
+configure, control and easily manage
+drive data over EtherNet/IP networks
+• Safety solutions help to protect
+personnel and equipment
+• Predictive diagnostics and built-in
+protection features help reduce
+unplanned downtime and guard
+your investment
+• Premier Integration into the
+Logix environment for simplified
+and enhanced configuration,
+programming, commissioning,
+diagnostics and maintenance
+• Automatic Device Configuration
+(ADC) – Logix controllers can detect
+a replaced drive and automatically
+download all configuration parameters
+without manual intervention to help
+reduce downtime
+ACTIVE*
+PowerFlex 755 AC Drive Frame 7
+250...400 Hp/160...270 kW
+ACTIVE MATURE*
+END OF LIFE*
+DISCONTINUED*
+Identify, Mitigate and Help Eliminate
+the Risks of Automation Obsolescence
+Rockwell Automation understands that your drives are a critical asset in
+your automation system, and we support that by providing you with the
+latest technology to maximize your investment. New technologies can
+improve and extend the operation of existing equipment and provide
+an immediate boost to productivity. By migrating from your legacy
+PowerFlex 700 AC drive to a new PowerFlex 755 AC drive, you can help
+to decrease downtime, increase speed to market and optimize operations
+well into the future.
+We will help you to meet this demand to innovate by proactively
+planning and managing your transition every step of the way to help
+you get the highest possible return on your automation investment.
+*ACTIVE: Most current offering within a product category.
+ACTIVE MATURE: Product is fully supported, but a newer product or family exists. Gain value by migrating.
+END OF LIFE: Discontinued date announced – actively execute migrations and last time buys. Product generally orderable until the
+discontinued date.1
+DISCONTINUED: New product no longer manufactured or procured.2 Repair/exchange services may be available.
+1 - Outages on specific items may occur prior to the Discontinued date. 2 - Limited stock may be available in run-out mode, regionally.
+Migration Services
+By migrating to the Integrated Architecture® system, you can optimize your plant and supply chain by connecting people
+and assets. Rockwell Automation will help you develop a long-term migration roadmap that fits your needs. Whether
+it’s a complete turnkey solution that includes assessment through acceptance, or simply providing you with the tools
+to do it yourself, we will support you every step of the way and help you get the highest possible return on your
+automation investment.
+To help reduce your risk, choose from the following options for your end of life or discontinued products:
+1. Migration Project – Migrate your discontinued product now, using the recommended replacement products.
+Rockwell Automation can perform the migration for you, or provide you with tools to do it yourself. To request a
+migration quote, please contact your local authorized Allen-Bradley distributor or Rockwell Automation sales office.
+2. Migration Contract – This option allows you to migrate on your own schedule and in line with your budget limitations
+by paying a monthly fee instead of an upfront cost.
+Mitigate Your Risk
+If migration is not an option in the near future, you have several options to help mitigate your risk.
+1. Last Time Buy – Perform a one-time, last time buy for required product quantity that will support your existing
+installed base.
+2. Lifecycle Extension Agreement – This support agreement is a packaged service “bridge” that helps minimize
+the risk associated with continued operation of older or discontinued automation until you are prepared to migrate.
+The agreement can be customized to meet your needs,
+with potential service options such as:
+Legacy
+On-Site
+Support
+Remote
+Parts
+• Installed Base Evaluation™ – We identify your
+Support
+automation obsolescence risk on site and the lifecycle
+Last Time
+Extended
+Buy
+Warranty
+analysis helps you make data-driven decisions
+Contract
+• Last Time Buy Contract – A commitment
+Embedded
+Reserved
+to purchase a specified quantity of parts.
+Lifcycle
+Repair
+Engineer
+Rockwell Automation will maintain this
+Lifecycle
+inventory and you can access it upon demand.
+Extension
+Installed
+Agreement
+Migration
+• Reserved Repair – We provide guaranteed
+Base
+Contract
+Evaluation™
+access to a repair of your discontinued products.
+• Legacy TechConnectSM Support – Remote
+technical support focused on discontinued
+A Lifecycle Extension Agreement may include these options, designed to help minimize the risk
+products that are no longer supported through
+of operating discontinued Rockwell Automation hardware as you migrate to newer technology.
+the standard hardware remote support.
+3. Remanufacturing – The goal of Rockwell Automation is to support products for at least five years from the date
+they are removed from general sale, although availability of components may dictate unexpected discontinuation of
+remanufacturing services.
+Migration Services
+Lifecycle Extension Agreement
+Benefits
+Benefits
+• Decrease planned and unplanned
+downtime events and duration
+• Reduce the financial consequences of
+extended downtime associated with
+operating legacy or discontinued
+automation equipment
+• Improve process availability,
+production capacity and
+product quality
+• Increase speed to market
+• Reduce your maintenance costs
+and efforts
+• Increase data availability and security
+• Buy added time for migration
+planning and budgeting
+• Support your facility without
+increasing assets (no added
+carrying costs)
+What’s Included When You
+Work with Rockwell Automation
+on Your Migration
+• The latest Rockwell Automation
+PowerFlex drive technology
+• All additional peripherals required
+• On-site commissioning
+PowerFlex 700 AC Drive Compared to PowerFlex 755 AC Drive
+PowerFlex 700*
+PowerFlex 755
+200 . . . 240V
+380 . . . 480V
+500 . . . 600V
+690V
+0.37...75 kW / 0.5...100 Hp
+0.37... 500 kW / 0.5...700 Hp
+0.75...110 kW / 1.0...150 Hp
+45...132 kW / 50...150 Hp
+0.37…132 kW / 0.5…200 Hp
+Motor Control
+• V/Hz control
+• Sensorless vector control
+• Vector control w/FORCE Technology
+with and without an encoder
+• Adjustable voltage control
+• V/Hz control
+• Sensorless vector control
+• Vector control w/FORCE Technology
+with and without an encoder
+• Permanent magnet motor control (surface and interior)
+Enclosure Types
+• IP00, NEMA Open / Flange
+• NEMA Type 1
+• IP20, NEMA / UL Type Open
+• IP00, NEMA / UL Type Open
+• IP20, NEMA / UL Type 1
+• Flange mount back (up to Frame 7):
+IP66, NEMA / UL Type 4X
+• IP54, NEMA / UL Type 12
+Standards and
+Certifications
+For a current list of standards, see Product Certification List at www.ab.com
+Logix Integration
+Safety Options
+Communications
+0.75...1400 kW / 1.0... 2000 Hp
+1.0...1500 Hp
+7.5...1500 kW
+• Studio 5000 Logix Designer® – add-on profiles
+• Studio 5000 Logix Designer – add-on profiles
+• Studio 5000 Logix Designer Motion Instructions –
+Integrated Motion on EtherNet/IP eases drive
+configuration and control by using profiles and
+instruction sets embedded in the Studio 5000
+Logix Designer® application
+N/A
+• Safe Torque Off – networked or hardwired solution,
+both certified at SIL 3, PLe, Cat 3
+• Safe Speed Monitor – SIL 3, PLe, Cat 4
+Option modules available for:
+• EtherNet/IP
+• ControlNet
+• DeviceNet
+• Additional modules to support variety
+of industrial networks
+Built-in EtherNet/IP port standard.
+Option modules available for:
+• Dual port EtherNet/IP
+• ControlNet
+• DeviceNet
+• Additional modules to support variety
+of industrial networks
+• 6 digital (24V DC OR 115V AC) inputs
+• 2 (bipolar voltage or current) analog inputs
+I/O
+• 1 PTC input
+• 2 (bipolar voltage or current) analog output
+• 1 digital input standard
+• Option cards for additional I/O
+• 3 relay outputs: 1 form A, 1 form B, 1 form C
+Motor Types
+• Induction motors
+Positioning
+• Indexing
+• Position / speed profiling
+Feedback
+• Incremental
+Application Sets
+• Lifting: TorqProve™
+• Oil well: pump jack and pump off
+*Only frames sizes 7-10 (250-700 Hp).
+• Induction motors
+• Permanent magnet motors (surface and interior)
+• Indexing
+• Electronic gearing
+• PCaming
+• Position / speed profiling
+• Incremental
+• EnDat, Hiperface, SSI and BiSS
+• Lifting: TorqProve
+• Oil well: pump jack and pump off
+• Fibers: P-Jump and traverse
+For More Information
+To better understand your options, contact your local authorized Allen-Bradley distributor or Rockwell Automation
+sales office or visit: rok.auto/modernization.
+Allen-Bradley, Installed Base Evaluation, Integrated Architecture, Listen. Think. Solve., PowerFlex, Rockwell Software, Studio 5000 Logix Designer, TechConnect, TorqProve and Rockwell Automation are
+trademarks of Rockwell Automation, Inc. Trademarks not belonging to Rockwell Automation are property of their respective companies.
+Publication MIGRAT-PP014B-EN-P – February 2019 
+Supersedes Publication MIGRAT-PP014A-EN-P – September 2015
+Supersedes Publication XXX-XXXXXX-XX-X – Month 201X
+Copyright © 2019 Rockwell Automation, Inc. All Rights Reserved. Printed in USA.
+

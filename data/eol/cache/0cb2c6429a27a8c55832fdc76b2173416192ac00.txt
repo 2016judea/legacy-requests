@@ -1,0 +1,4 @@
+[read rendered via firecrawl 2026-10-13; the page refuses curl]
+Obsolescence: non_Unity Momentum and Quantum CPUs
+Schneider Electric announces the End of Commercialization on Non-Unity Modicon Momentum and Quantum CPUs to be obsolete May 31, 2015. After this 2015 date, the identified CPUs will no longer be sold as new products. However, service by replacement or repair will be available for eight years post this date (2023).
+Published on:8/1/2017 Last Modified on:10/1/2026

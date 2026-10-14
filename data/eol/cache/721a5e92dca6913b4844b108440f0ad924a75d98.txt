@@ -1,0 +1,967 @@
+PanelView Plus 6
+(End of Life)1
+PanelView Plus 6 Compact
+(End of Life)1
+
+2
+
+
+3
+
+
+
+—
+
+
+
+—
+
+
+
+
+—
+
+—
+
+
+—
+
+
+
+—
+
+
+
+
+—
+—
+PanelView 5510
+PanelView 5310
+PanelView™ Plus 7 Performance
+PanelView Plus 7 Standard
+MobileView™
+PanelView 800
+CompactLogix® 5370 and ControlLogix® 5570 Controllers
+(Studio 5000®, v27+)
+(Studio 5000, v27+)
+
+
+
+CompactLogix 5380 and ControlLogix 5580 Controllers
+(Studio 5000, v29+)
+(Studio 5000, v29+)
+
+
+CompactLogix 5480 Controllers
+(Studio 5000, v31+)
+(Studio 5000, v31+)
+
+
+PLC-5®/SLC™/MicroLogix™ Controllers-Ethernet
+—
+—
+
+
+PLC-5/SLC/MicroLogix Controllers —Serial (DF1)
+—
+—
+PLC-5/SLC Controllers - DH+ /ControlNet
+—
+—
+
+—
+
+—
+Micro800™ Controllers
+—
+—
+Third-Party Controllers
+Development Environment
+—
+—
+
+
+
+
+
+—
+—
+7, 7W, 9W, 10, 12W, 15, 19
+
+—
+—
+6, 7W, 9W, 10, 12W
+Screen Count/Controllers/Alarms
+500/4/16,0004
+100/1/4000
+High-performance Features
+High Speed on Screen Buttons
+
+
+—
+—
+—
+—
+—
+—
+Scalable Vector Graphics
+
+
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+PanelView™ Operator Interface
+Portfolio Features Comparison
+Connectivity
+™
+®
+Studio 5000 View Designer® Software
+FactoryTalk® View Machine Edition (ME) Software
+Connected Components Workbench™ Software
+Screen Size (Rounded Inches)
+
+
+—
+—
+—
+3.2, 4, 5.x, 6.x, 7, 8.x, 9.x, 10.x, 11.x, 12.x
+5.1, 6.x, 7.x, 8.x, 9.x, 10.x, 11.x, 12.x
+—
+4W, 6, 7, 9W, 10, 12W, 15
+3.2, 4, 5.x, 6.x, 7, 8.x, 9.x, 10.x, 11.x, 12.x
+—
+10W
+No limit
+(based on memory and CPU)
+—
+7, 9W, 10, 12W, 15, 19
+No limit
+(based on memory and CPU)
+100/1/5005
+—
+3.2, 4, 5.x, 6.x, 7, 8.x, 9.x, 10.x, 11.x, 12.x
+7, 8.x, 9.x, 10.x, 11.x, 12.x, 13.x, 20.x
+—
+4,7,10
+4, 6, 7, 10, 12, 15
+No limit
+6
+50/4/500
+(based on memory and CPU)
+—
+5.1, 7, 8.x, 9.x, 10.x, 11.x, 12.x
+—
+4, 6, 10
+25/1/200
+Property Binding
+
+
+—
+Automatic Rescaling
+
+
+—
+—
+—
+—
+—
+—
+
+
+—
+—
+—
+—
+—
+—
+
+ (Hard)
+
+
+ (Soft)
+
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+
+
+—
+—
+—
+—
+—
+—
+Automatic Display of Logix-based Alarms
+—
+
+—
+
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+Logix Tag-based Alarms
+
+
+—
+—
+—
+—
+—
+—
+DataLogging
+HMI-based Datalog with CSV Export
+
+
+
+
+
+
+
+
+Graphics
+High Resolution and Wide Screens
+
+
+
+
+
+
+—
+—
+Custom Graphic Reuse
+
+
+Vector Graphics
+
+
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+Display Import/Export
+
+
+
+
+
+—
+
+
+Faceplates
+
+
+
+
+
+
+
+Display Reuse with Parameters
+
+
+
+
+
+
+—
+
+
+Animation
+
+—
+
+—
+
+
+—
+
+—
+—
+
+—
+
+—
+Alignment Guides
+Events and Commands
+Navigation Button with on Screen Pop-up Menu
+Predefined Controller/Network/Terminal Status Screens
+Smart Runtime Error Notifications
+Alarms
+HMI-based Alarms
+Portrait/Landscape Display Mode
+
+
+PanelView Plus 7 Standard
+MobileView
+PanelView 800
+PanelView Plus 6
+(End of Life)1
+PanelView Plus 6 Compact
+(End of Life)1
+
+
+
+
+
+
+
+
+
+
+
+
+—
+—
+FactoryTalk ViewPoint
+FactoryTalk ViewPoint
+
+
+ (Not applicable to CompactLogix
+controller)
+
+
+
+
+—
+
+
+—
+
+
+—
+—
+—
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+
+
+—
+
+Series A; 2x USB 2.0 (Type A)
+Series B: 1 USB 2.0 (Type A),
+1 USB 3.0 (Type A)
+1x USB 2.0 (Type A),
+1x USB 2.0 (Type B)
+1x USB 2.0 (Type A)
+1x USB 2.0 (Type A)
+
+4” & 6”: 1x USB 2.0 (Type A),
+1x USB 2.0 (Type B), 7”, 10”, 12”, 15”:
+2x USB 2.0 (Type A), 1x USB 2.0
+(Type B)
+4” & 6”: 1x USB 2.0 (Type A),
+1x USB 2.0 (Type B), 10”: 2x USB 2.0
+(Type A), 1x USB 2.0 (Type B)
+
+
+
+
+
+PanelView 5510
+PanelView 5310
+PanelView Plus 7 Performance
+
+—
+
+—
+—
+—
+FactoryTalk ViewPoint
+
+
+FactoryTalk® ViewPoint
+Future
+
+V10 or later
+V10 or later
+
+
+ Can be installed
+Remote Desktop Client
+—
+—
+
+
+VNC Client
+—
+—
+
+
+
+ Can be installed
+—
+
+Optional
+ActiveX Controls
+
+—
+—
+Enhanced Write Filter
+—
+—
+
+—
+Emulator
+
+
+PanelView™ Operator Interface
+Portfolio Features Comparison
+Multi-language Support
+Language Switching
+Localized Keyboard
+Remote Access
+Web HMI Server (Remote Viewing/Control)
+VNC Server
+FTP and SFTP File Transfers
+Other
+Device Level Ring
+USB Input
+2x USB 2.0 (Type A),
+1x USB 2.0 (Type A),
+1x USB 2.0 (Type B)—for future use 1x USB 2.0 (Type B)—for future use
+Backup/Restore/Cloning
+ Load project and firmware from  Load firmware and project from  Load firmware and project from
+removable media
+removable media
+removable media (Series B)
+Linux (closed to users)
+Linux (closed to users)
+Series A: Windows® CE 6.07
+Series B: Windows 10 IoT Core
+Windows CE 6.0(7)
+Windows Embedded Standard 7 SP1
+Windows CE 6.0(7)
+Windows CE 6.0(7)
+Windows CE 6.0(7)
+Desktop
+None
+None
+Series A: Secured Desktop Access
+Series B: N/A
+Secured Desktop Access
+None
+None
+Secured Desktop Access
+Secured Desktop Access
+SD Card
+
+
+
+
+ (internalonly)
+
+
+
+DC
+DC
+Series A; AC or DC
+Series B: DC
+DC
+DC
+DC
+AC or DC
+DC
+Logix based
+Logix based
+
+
+
+
+—
+
+
+
+
+—
+
+—
+
+
+
+
+
+
+
+ (Not applicable to CompactLogix
+controller)
+
+
+
+—
+
+
+
+
+
+FactoryTalk Software Users
+
+—
+
+
+
+Microsoft® Active Directory Users
+
+
+
+
+
+Auto Logoff
+
+
+
+
+Tags
+Logix Tag Extended Properties
+
+
+—
+HMI Tags
+
+—
+
+—
+Trending
+Real-time Trending
+
+Historical Trending
+
+Operating System
+Power
+8
+Recipes
+Recipe Manager
+Macros
+Reporting
+Email
+Security
+Local Users
+®
+Direct Reference Tags
+
+—
+
+
+
+
+
+—
+
+
+
+—
+—
+—
+—
+—
+
+
+
+
+
+
+
+
+Micro800 only
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+—
+
+
+PanelView 5510
+PanelView 5310
+PanelView Plus 7 Performance
+PanelView Plus 7 Standard
+MobileView
+PanelView 800
+PanelView Plus 6
+(End of Life)1
+PanelView Plus 6 Compact
+(End of Life)1
+Troubleshooting
+Smart Runtime Error Notifications
+
+
+—
+—
+—
+—
+—
+—
+Device Diagnostic Screens (PLC and HMI)
+
+
+Faceplates + ActiveX control
+Faceplates + ActiveX control
+Faceplates + ActiveX control
+—
+Faceplates + ActiveX control
+Faceplates + ActiveX control
+Automatic Diagnostics
+
+
+—
+—
+—
+—
+—
+—
+
+
+
+—
+—
+—
+—
+
+—
+—
+
+Optional
+
+—
+PowerPoint
+—
+—
+
+—
+—
+—
+—
+Optional
+—
+Word
+Web Browser
+—
+
+—
+—
+
+
+
+—
+—
+—
+—
+—
+Optional
+Optional
+—
+—
+Media Player
+Using web browser
+—
+
+—
+—
+Optional
+—
+Certifications
+Major Certifications
+cULus, CE, KCC, RCM, RoHS, EAC
+cULus, CE, KCC, RCM, RoHS, EAC
+cULus, CE, KCC, RCM, RoHS
+cULus, CE, RCM, RoHS
+cULus, CE, KCC, RCM, RoHS
+cULus, CE, KCC, RCM, RoHS
+cULus, CE, KCC, RCM, RoHS
+Hazardous Locations
+Class I Div 2
+—
+Class I Div 2
+cULus, CE, KCC, RCM, RoHS, EAC
+IECEx, CCCEx, Class 1 Div 2,
+ATEX Zone 2, 22
+—
+—
+Class 1 Div 2
+Class 1 Div 2
+INMETRO
+—
+—
+—
+—
+—
+—
+—
+Marine Certification
+Modified Terminals
+
+—
+—
+—
+—
+
+
+—
+Touch Models
+7 in., 9 in. (wide), 10 in.,
+12 in. (wide), 15 in., 19 in.
+Touch/Keypad Model
+15 in.
+—
+—
+—
+7 in., 12 in.
+—
+PanelView™ Operator Interface
+Portfolio Features Comparison
+Viewers
+PDF
+Excel
+®
+
+
+—
+Conformal Coating
+ All sizes
+ All sizes
+High Bright Display
+—
+—
+—
+—
+—
+—
+12 in.
+—
+On-Machine
+—
+—
+12W ArmorView Graphic Terminal
+—
+—
+—
+—
+—
+Stainless Steel
+9W, 10W, 12W, 15W
+—
+9W, 12W; Brandless
+—
+—
+—
+—
+—
+™
+™
+Illuminated E-stop
+—
+—
+—
+—
+Gen 2 Only
+—
+—
+—
+Configurable Junction Box ID
+—
+—
+—
+—
+Gen 2 Only
+—
+—
+—
+LED backlit LCD,
+24-bit 16.7M colors,
+widescreen options
+LED backlit LCD,
+24-bit 16.7M colors,
+widescreen options
+LED backlit LCD,
+262K colors,
+widescreen options
+LED backlit LCD,
+262K colors,
+widescreen options
+LED backlit LCD,
+262K colors
+LED backlit LCD,
+65K colors,
+widescreen options
+LED backlit LCD,
+262K colors,
+grayscale options
+LED backlit LCD,
+262K colors,
+grayscale options
+Touchscreen
+Keypad/touchscreen
+Touchscreen
+Touchscreen
+Keypad/touchscreen
+Touchscreen
+Function keys/touch
+Touch
+Touchscreen
+Touchscreen + 4 keys
+Keypad
+Touchscreen
+Keypad/touchscreen
+Keypad
+Touchscreen
+Keypad/touchscreen
+Display
+InputType
+Communication
+EtherNet/IP with DLR support
+™
+EtherNet/IP
+EtherNet/IP with DLR support.
+Kepware® Server available
+to support third-party Ethernet
+protocols.
+EtherNet/IP with optional DLR
+support. Kepware Server available
+to support third-party Ethernet
+protocols.
+EtherNet/IP
+EtherNet/IP, DF1, and DH-485
+Third-party communications:
+Modbus ASCII, Modbus RTU
+(Master and Slave/Unsolicited),
+and Modbus TCP.
+EtherNet/IP, DF1 (RS-232), and
+DH-485 (RS-232). Optional
+communication modules for 7-inch
+EtherNet/IP, DF1 (RS-232), and
+and larger sizes to support DH+, DH-485 (RS-232). Kepware Server
+DH-485 (RS-485), and ControlNet.
+available to support third-party
+Kepware Server available to
+Ethernet and RS-232 protocols
+support third-party Ethernet
+(Modbus TCP/RTU).
+and RS-232 protocols
+(Modbus TCP/RTU).
+PanelView 5510
+PanelView 5310
+PanelView Plus 7 Performance
+PanelView Plus 7 Standard
+PanelView 800
+PanelView Plus 6
+(End of Life)1
+PanelView Plus 6 Compact
+(End of Life)1
+256 MB RAM and 256 MB storage
+400 and 600 only–
+256 MB RAM/512 MB nonvolatile
+memory
+(approx. 73 MB free user memory)
+700 to 1500–
+512 MB RAM/512 MB nonvolatile
+memory
+(approx. 79 MB free user memory)
+400 and 600 only–
+256 MB RAM/512 MB non volatile
+memory
+(approx. 73 MB free user memory)
+1000only–
+512 MB RAM/512 MB nonvolatile
+memory
+(approx. 79 MB free user memory)
+MobileView
+PanelView™ Operator Interface
+Portfolio Features Comparison
+Memory and System Storage
+1 GB RAM and 1 GB user storage
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+1 GB RAM and 1 GB user storage
+Series A: 512 MB RAM and approx.
+80 MB user storage
+Series B; 4 GB RAM and approx. 2 GB
+user storage
+512 MB RAM and approx. 80 MB
+user storage
+4 GB DRAM/32 GB Flash
+All versions of the PanelView Plus 6 terminals will be discontinued by the end of calendar year 2022.
+Only applies to CompactLogix 5370, excluding L37 and L38.
+PanelView 800 supports CompactLogix 5380 (5069-L306xxx) controllers.
+The PanelView 5510 can support up to 4000 Logix tag-based alarms or up to 1000 Logix instruction-based alarm per controller. Use Studio 5000 Logix Designer® application v32 or later for Logix tag-based alarms.
+FactoryTalk View Machine Edition v11 or newer.
+PanelView 800 supports up to 1000 alarm trigger conditions.
+Windows CE 6.0 operating system supports these features: FTP Server, VNC client/server, PDF reader, Active X controls, third-party device support.
+The ArmorView Plus 7 product is available only with the DC version of the PanelView Plus 7 Performance terminal.
+Rockwell Automation recognizes that some of the terms that are currently used in our industry and in this publication are not in alignment with the
+movement toward inclusive language in technology. We are proactively collaborating with industry peers to find alternatives to such terms and making
+changes to our products and content. Please excuse the use of such terms in our content while we implement these changes.
+Connect with us.
+Allen-Bradley, ArmorView, CompactLogix, Connected Components Workbench, ControlLogix, DH+, expanding human possibility, FactoryTalk, FactoryTalk View Machine Edition, FactoryTalk ViewPoint, Micro800, MicroLogix,
+MobileView, On-Machine, PLC-5, PanelView, PanelView Plus, Rockwell Automation, SLC, Studio 5000, Studio 5000 Logix Designer, Studio 5000 View Designer, and TechConnect are trademarks of Rockwell Automation, Inc.
+Excel, Microsoft, and Windows are trademarks of Microsoft Corporation.
+ControlNet and EtherNet/IP is a trademark of ODVA, Inc.
+Kepware is a trademark of PTC.
+Trademarks not belonging to Rockwell Automation are property of their respective companies.
+Rockwell Automation maintains current product environmental compliance information on its website at rok.auto/pec.
+Rockwell Otomasyon Ticaret A.Ş. Kar Plaza İş Merkezi E Blok Kat:6 34752, İçerenköy, İstanbul, Tel: +90 (216) 5698400 EEE Yönetmeliğine Uygundur
+Publication 2711P-SP011L-EN-P - November 2025 | Supersedes Publication 2711P-SP011K-EN-P - March 2025
+Copyright © 2025 Rockwell Automation, Inc. All Rights Reserved. Printed in USA.
+

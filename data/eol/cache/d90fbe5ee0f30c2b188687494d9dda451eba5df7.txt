@@ -1,0 +1,8 @@
+[read rendered via firecrawl 2026-10-13; the page refuses curl]
+What product line replaces the ATV61 drives, now that they are obsolete?
+Cause: Altivar 61 drives are no longer available
+Resolution: The ATV61 has been phased out of production in the US in 2016, and customers need to replace them with a current product.
+For more advanced or complicated applications the appropriate replacement for the ATV61 will be the Altivar 600 Product line in most cases.
+ATV630... (IP21) replaces the ATV61H... (open style)
+ATV650... (IP55) replaces the ATV61W... (Type 12)
+Published on:3/23/2017 Last Modified on:7/8/2026

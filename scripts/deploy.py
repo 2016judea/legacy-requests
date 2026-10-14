@@ -20,7 +20,7 @@ import urllib.request
 from pathlib import Path
 
 SITE = Path(__file__).resolve().parent.parent / "site"
-FILES = ["index.html", "data.json", "records.json", "vercel.json", "open/index.html"]
+FILES = ["index.html", "data.json", "records.json", "vercel.json", "open/index.html", "dates/index.html"]
 POLL_SECONDS = 3
 POLL_LIMIT = 60
 

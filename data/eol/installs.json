@@ -1,0 +1,527 @@
+[
+ {
+  "agency": "City of Ann Arbor",
+  "state": "MI",
+  "family": "ab-compactlogix",
+  "filings": 1,
+  "cites": [
+   {
+    "url": "https://a2gov.legistar1.com/a2gov/attachments/0eeeba77-4525-42e9-9865-8fe0741f13dc.pdf",
+    "date": "2025-05-05",
+    "title": "Resolution to Increase Sole Source Purchasing Authority with Veolia Water Technologies - Treatment Solutions USA, Inc. (formerly SUEZ Treatment Solutions, Inc.) for Power Supply Units ($953,000.00 inc",
+    "quote": "\uf0b7 CompactLogix, Series 5380 \uf0b7 5069-L340ER o PLC I/O Structure \uf0a7 Allen-Bradley \uf0b7 CompactLogix, Serie 5090 o DI: 5069-IA16 o DO: 5069-OB16 o AI: 5069-IF8 o AO: 5069-OF4 o Opera",
+    "state": "MI"
+   }
+  ]
+ },
+ {
+  "agency": "City of Fort Lauderdale",
+  "state": "FL",
+  "family": "ab-compactlogix",
+  "filings": 1,
+  "cites": [
+   {
+    "url": "https://legistar.granicus.com/FortLauderdale/attachments/92264422-9782-4a3f-b7a5-f090ad235756.pdf",
+    "date": "2024-11-06",
+    "title": "Motion Approving an Agreement for the Rehabilitation of Pump Stations B-4 and A-20 - Southern Underground Industries, Inc. - $8,739,415 - (Commission Districts 1 and 2)",
+    "quote": "provided by Allen Bradley compactlogix series Programmable Logic Controllers (PLC) as specified in the Bill of Materials in the contract drawings. Cellular Radio providing communication between PLC",
+    "state": "FL"
+   }
+  ]
+ },
+ {
+  "agency": "City of Visalia",
+  "state": "CA",
+  "family": "ab-compactlogix",
+  "filings": 3,
+  "cites": [
+   {
+    "url": "https://visalia.legistar.com/LegislationDetail.aspx?ID=8621&GUID=0C1ACE57-6C4B-496B-B98F-D2313412A6B4",
+    "date": "2026-07-07",
+    "title": "Approve a sole source purchase of a turbo blower - Approve a purchase order to APGN Inc. dba APG-Neuros in the amount of $285,843.25 for the purchase of one high-speed turbo blower for the Visalia Wat",
+    "quote": "The blower package includes a permanent magnet synchronous motor, air bearings, variable speed drive, Allen-Bradley CompactLogix PLC-based controls, remote monitoring capability, instrumentation, filtration, and a sound enclosure",
+    "state": "CA"
+   },
+   {
+    "url": "https://visalia.legistar1.com/visalia/attachments/d5698793-d7f3-4c56-a570-ba1803ba9d62.pdf",
+    "date": "2026-07-07",
+    "title": "Approve a sole source purchase of a turbo blower - Approve a purchase order to APGN Inc. dba APG-Neuros in the amount of $285,843.25 for the purchase of one high-speed turbo blower for the Visalia Wat",
+    "quote": "Local Control Panel for Control and Monitoring with Allen Bradley - Compact Logix L320 PLC 4",
+    "state": "CA"
+   },
+   {
+    "url": "https://visalia.legistar1.com/visalia/attachments/b3aa6a47-e6dc-48bb-870d-a6a189748ee8.pdf",
+    "date": "2025-10-20",
+    "title": "Award the Purchase and Installation of Cellular Radios - Authorize the City Manager to award the sole source purchase and installation of 13 cellular radios at the City\u2019s sanitary sewer lift stations",
+    "quote": "Telstar will provide, install, and configure nine (9) new 5069 CompactLogix PLC\u2019s and nine (9) new 1769 Ethernet Communication modules to upgrade the stations with obsolete hardware. a",
+    "state": "CA"
+   }
+  ]
+ },
+ {
+  "agency": "Lexington-Fayette Urban County Government",
+  "state": "KY",
+  "family": "ab-compactlogix",
+  "filings": 1,
+  "cites": [
+   {
+    "url": "https://legistar1.granicus.com/Lexington/attachments/f03de3bd-a322-4039-85fe-b6a63274bb3d.pdf",
+    "date": "2024-08-09",
+    "title": "A Resolution authorizing and directing the Mayor, on behalf of the Urban County Government, to execute the Engineering Services Agreement (awarded pursuant to RFP No. 38-2024) with Hazen and Sawyer PS",
+    "quote": "process control system utilizes CompactLogix PLCs and Eastern Regional WWTP | GRW Engineers, Inc. cellular communications for remote monitoring",
+    "state": "KY"
+   }
+  ]
+ },
+ {
+  "agency": "Port of Long Beach",
+  "state": "CA",
+  "family": "ab-compactlogix",
+  "filings": 1,
+  "cites": [
+   {
+    "url": "https://polb.legistar.com/LegislationDetail.aspx?ID=11283&GUID=E0DED677-120A-4467-9C8A-009AAFA89C7B",
+    "date": "2026-05-14",
+    "title": "Advertise for Bids to prequalified contractors for the North Yard Utilities and Pier B Street Widening project under Specification HD-S3180, subject to approval as to form by the City Attorney; find t",
+    "quote": "* Allen-Bradley CompactLogix Processor",
+    "state": "CA"
+   }
+  ]
+ },
+ {
+  "agency": "Lexington-Fayette Urban County Government",
+  "state": "KY",
+  "family": "ab-controllogix",
+  "filings": 1,
+  "cites": [
+   {
+    "url": "https://legistar1.granicus.com/Lexington/attachments/f03de3bd-a322-4039-85fe-b6a63274bb3d.pdf",
+    "date": "2024-08-09",
+    "title": "A Resolution authorizing and directing the Mayor, on behalf of the Urban County Government, to execute the Engineering Services Agreement (awarded pursuant to RFP No. 38-2024) with Hazen and Sawyer PS",
+    "quote": "also involves collaboration on the design of the plant- redundant ControlLogix PLCs with device level ring to wide control system architecture",
+    "state": "KY"
+   }
+  ]
+ },
+ {
+  "agency": "City of Hollywood",
+  "state": "FL",
+  "family": "ab-devicenet",
+  "filings": 1,
+  "cites": [
+   {
+    "url": "https://legistar.granicus.com/hollywoodfl/attachments/0400ad1b-6fb7-409e-b7f5-ed27fda8c585.pdf",
+    "date": "2024-09-26",
+    "title": "A Resolution Of The City Commission Of The City Of Hollywood, Florida, Approving And Authorizing The Appropriate City Officials To Execute Change Order No. 5 With Cardinal Contractors, Inc. To Extend",
+    "quote": "supply, to provide DeviceNet communications",
+    "state": "FL"
+   }
+  ]
+ },
+ {
+  "agency": "Inland Empire Utilities Agency",
+  "state": "CA",
+  "family": "ab-devicenet",
+  "filings": 2,
+  "cites": [
+   {
+    "url": "https://d2kbkoa27fdvtw.cloudfront.net/ieua/30eb9258d5565206299e10fba854508e0.pdf",
+    "date": "2024-09-18",
+    "title": "AWARD CONSTRUCTION CONTRACT FOR RP-1 DEVICENET REPLACEMENT",
+    "quote": "AWARD CONSTRUCTION CONTRACT FOR RP-1 DEVICENET REPLACEMENT Staff recommends that the Board: Approve Master Services Contracts",
+    "state": "CA"
+   },
+   {
+    "url": "https://d2kbkoa27fdvtw.cloudfront.net/ieua/7753a185b82b6ff78a3aa1b365b737440.pdf",
+    "date": "2024-05-15",
+    "title": "AMEND CONSULTANT CONTRACT FOR RECYCLED WATER SCADA MIGRATION PROJECT",
+    "quote": "e",
+    "state": "CA"
+   }
+  ]
+ },
+ {
+  "agency": "Lexington-Fayette Urban County Government",
+  "state": "KY",
+  "family": "ab-devicenet",
+  "filings": 3,
+  "cites": [
+   {
+    "url": "https://legistar1.granicus.com/Lexington/attachments/3d5489a9-4737-436b-8528-74912d572d62.pdf",
+    "date": "2026-02-05",
+    "title": "(1)\tAccepting and approving the following bids and establishing price contracts for the following Departments or Divisions as to the specifications and amount set forth in the terms of the respective",
+    "quote": "DeviceNet Specification: A DeviceNet device shall Compliant comply with CAN based protocol and shall provide the Yes No following features: X \u2022 DeviceNet uses a Trunk /",
+    "state": "KY"
+   },
+   {
+    "url": "https://legistar1.granicus.com/Lexington/attachments/a95db078-8113-43eb-ab20-181b08070f5e.pdf",
+    "date": "2025-04-09",
+    "title": "(1)\tAccepting and approving the following bids and establishing price contracts for the following depts. or divs. as to the specifications and amount set forth in the terms of the respective bids:\r\n(a",
+    "quote": "Ethernet and Devicenet Cables 1",
+    "state": "KY"
+   },
+   {
+    "url": "https://legistar1.granicus.com/Lexington/attachments/76a0ad51-29aa-41cc-9dd9-5c74c967caf3.pdf",
+    "date": "2025-04-09",
+    "title": "(1)\tAccepting and approving the following bids and establishing price contracts for the following depts. or divs. as to the specifications and amount set forth in the terms of the respective bids:\r\n(a",
+    "quote": "Ethernet and Devicenet Cables 1",
+    "state": "KY"
+   }
+  ]
+ },
+ {
+  "agency": "City of Ann Arbor",
+  "state": "MI",
+  "family": "ab-panelview",
+  "filings": 1,
+  "cites": [
+   {
+    "url": "https://a2gov.legistar1.com/a2gov/attachments/0eeeba77-4525-42e9-9865-8fe0741f13dc.pdf",
+    "date": "2025-05-05",
+    "title": "Resolution to Increase Sole Source Purchasing Authority with Veolia Water Technologies - Treatment Solutions USA, Inc. (formerly SUEZ Treatment Solutions, Inc.) for Power Supply Units ($953,000.00 inc",
+    "quote": "o Operator interface, 12\u201d unit (PanelView Plus 7 Performance, Allen-Bradley o Communication will be Ethernet-based, utilising Ethernet/IP (Allen-Bradley) as the system-wide communication protocol, and",
+    "state": "MI"
+   }
+  ]
+ },
+ {
+  "agency": "City of Fullerton",
+  "state": "CA",
+  "family": "ab-panelview",
+  "filings": 1,
+  "cites": [
+   {
+    "url": "https://fullerton.legistar1.com/fullerton/attachments/334da75c-19d0-4521-9385-595411142cbb.pdf",
+    "date": "2025-06-19",
+    "title": "$151,584 CONTRACT WITH WEST YOST FOR KIMBERLY WELL 2 WATER PFAS TREATMENT PLANT SCADA INTEGRATION",
+    "quote": "Studio Machine Edition software that is compatible with the Panelview Plus OIT. \uf0b7 Development of HMI and OIT screens will be based on the final control strategy. \uf0b7 All HMI screen development prior to Site Acceptance Testing and C",
+    "state": "CA"
+   }
+  ]
+ },
+ {
+  "agency": "City of Ann Arbor",
+  "state": "MI",
+  "family": "ab-pf70-700",
+  "filings": 1,
+  "cites": [
+   {
+    "url": "https://a2gov.legistar1.com/a2gov/attachments/e5e9cec2-8517-4645-963e-d5a32d0b057b.pdf",
+    "date": "2025-04-21",
+    "title": "Resolution to Approve a Sole Source Purchase Order with Andritz Separation Inc. for the Purchase, Programming and Installation of Three Variable Frequency Drives for Centrifuges at the Water Resource",
+    "quote": "The Centrifuge VFD\u2019s used were the AB Powerflex 700 series with 18 pulse front end and DC buss connected scroll VFD",
+    "state": "MI"
+   }
+  ]
+ },
+ {
+  "agency": "City of Green Bay",
+  "state": null,
+  "family": "ge-ifix",
+  "filings": 2,
+  "cites": [
+   {
+    "url": "https://greenbaywi.portal.civicclerk.com/event/9709/files/attachment/49232",
+    "date": "2026-06-02",
+    "title": "To approve request by the Department of Public Works to approve the award of Sewers Lift Station SCADA Upgrade design to Strand Associates, Inc. in the amount of $106,000.00.",
+    "quote": "We have some experience with General Electric (GE) iFix and other graphics software packages",
+    "state": null
+   },
+   {
+    "url": "https://greenbaywi.portal.civicclerk.com/event/9682/files/attachment/49198",
+    "date": "2026-05-27",
+    "title": "Consideration with possible action on a request by the Department of Public Works to approve the award of Sewers Lift Station SCADA Upgrade design to Strand Associates, Inc. in the amount of $106,000.",
+    "quote": "We have some experience with General Electric (GE) iFix and other graphics software packages",
+    "state": null
+   }
+  ]
+ },
+ {
+  "agency": "City of Sugar Land",
+  "state": "TX",
+  "family": "ge-ifix",
+  "filings": 2,
+  "cites": [
+   {
+    "url": "https://sugarlandtx.portal.civicclerk.com/event/16/files/attachment/5812",
+    "date": "2026-05-05",
+    "title": "SCADA Annual Preventive Maintenance Program",
+    "quote": "system from GE iFix to Inductive Automation Ignition",
+    "state": "TX"
+   },
+   {
+    "url": "https://sugarlandtx.portal.civicclerk.com/event/16/overview",
+    "date": "2026-05-05",
+    "title": "SCADA Annual Preventive Maintenance Program",
+    "quote": "nductive Automation Ignition Upgrade of groundwater system SCADA system from GE iFix to Inductive Automation Ignition Provide Project Engineer resource(s) to upgra",
+    "state": "TX"
+   }
+  ]
+ },
+ {
+  "agency": "Lexington-Fayette Urban County Government",
+  "state": "KY",
+  "family": "hach-1720e",
+  "filings": 1,
+  "cites": [
+   {
+    "url": "https://legistar1.granicus.com/Lexington/attachments/654392ad-0abf-451a-bb7e-f6e76a35074b.pdf",
+    "date": "2024-05-31",
+    "title": "A Resolution authorizing the Div. of Community Corrections to purchase a full body security screening system from Romaine Companies, a sole source provider, and authorizing the Mayor, on behalf of the",
+    "quote": "1720 E",
+    "state": "KY"
+   }
+  ]
+ },
+ {
+  "agency": "Placer County Water Agency",
+  "state": null,
+  "family": "hach-1720e",
+  "filings": 1,
+  "cites": [
+   {
+    "url": "https://pcwa.granicus.com/DocumentViewer.php?file=pcwa_ff10ae77f05b845e7e25d9568b262efe.pdf&view=1#page=35",
+    "date": "2025-01-16",
+    "title": "Board of Directors p.35-49: those items that have become obsolete, broken, or surplus, and are no longer",
+    "quote": "TURBIDIMETERS 25 HACH 1720E OBSOLETE",
+    "state": null
+   }
+  ]
+ },
+ {
+  "agency": "Broward County",
+  "state": "FL",
+  "family": "hach-cl17",
+  "filings": 1,
+  "cites": [
+   {
+    "url": "https://broward.legistar1.com/broward/attachments/3550effa-94c8-4d4c-b982-973d2cd94486.pdf",
+    "date": "2024-03-22",
+    "title": "MOTION TO APPROVE sole source, sole brand, standardization of Hach Company (Hach) to provide Hach Brand Products, Repairs, and Maintenance Services for critical water treatment for Water and Wastewate",
+    "quote": "Hach\u00ae CL 17 and CLX Online Chlorine Analyzers, and have been proven accurate in side by side studies",
+    "state": "FL"
+   }
+  ]
+ },
+ {
+  "agency": "Placer County Water Agency",
+  "state": null,
+  "family": "hach-cl17",
+  "filings": 1,
+  "cites": [
+   {
+    "url": "https://pcwa.granicus.com/DocumentViewer.php?file=pcwa_a721b50dd949f34dc228aa1cb58fa0b1.pdf&view=1#page=1",
+    "date": "2024-03-21",
+    "title": "Board of Directors p.1-20: Items listed below include award of bid proposals, new contracts, sole source contracts and",
+    "quote": "HACH CL17 MICROBRD W/ROM 1 WTP INT 00039 OBSOLETE",
+    "state": null
+   }
+  ]
+ },
+ {
+  "agency": "City of Fort Lauderdale",
+  "state": "FL",
+  "family": "mot-moscad",
+  "filings": 2,
+  "cites": [
+   {
+    "url": "https://legistar.granicus.com/FortLauderdale/attachments/f8d72b15-32e6-4810-a723-119dcecc082d.pdf",
+    "date": "2025-09-05",
+    "title": "Motion Approving an Agreement for the Proprietary Purchase of Annual Maintenance and Support for the Motorola 800 MHz P25 Trunked Radio System Equipment, Systems Upgrade Agreement, P1-CAD Interface, C",
+    "quote": "\u25cf NFM/NFM XC/MOSCAD RTU",
+    "state": "FL"
+   },
+   {
+    "url": "https://legistar.granicus.com/FortLauderdale/attachments/0468d2e4-817c-40d4-98ad-cc22a432ce43.pdf",
+    "date": "2024-09-03",
+    "title": "Motion Approving an Agreement for the Proprietary Purchase of Annual Maintenance and Support for the Motorola 800 MHz P25 Trunked Radio System Equipment, Two-way Subscriber Radios, SUA, P1-CAD Interfa",
+    "quote": "\u25cf NFM/NFM XC/MOSCAD RTU",
+    "state": "FL"
+   }
+  ]
+ },
+ {
+  "agency": "Lee County",
+  "state": "FL",
+  "family": "se-clearscada",
+  "filings": 2,
+  "cites": [
+   {
+    "url": "https://leecofl.portal.civicclerk.com/event/33/files/attachment/2186",
+    "date": "2025-04-15",
+    "title": "Approve Single Source Purchase for SCADA Pack Telemetry and GeoScada Software",
+    "quote": "OD5360148700503460 LCU - Water Prod., Olga 400466 POWER RICH SYSTEMS LLC CLEAR SCADA SOFTWARE SUPPORT 11/20/2023 328.57 24333042 10199 10/3/2023 03020316 11/22/2023 PRODUCTS & SVC - SCADA SYSTEM OD5360248700503460 LCU - Water Distribution 40046",
+    "state": "FL"
+   },
+   {
+    "url": "https://leecofl.portal.civicclerk.com/event/33/overview",
+    "date": "2025-04-15",
+    "title": "Approve Single Source Purchase for SCADA Pack Telemetry and GeoScada Software",
+    "quote": "Schneider Electric ClearSCADA CLEAR SCADA SOFTWARE SUPPORT for multiple Lee County Utilities sites Power RIC",
+    "state": "FL"
+   }
+  ]
+ },
+ {
+  "agency": "Port of Long Beach",
+  "state": "CA",
+  "family": "si-hydroranger",
+  "filings": 1,
+  "cites": [
+   {
+    "url": "https://polb.legistar.com/LegislationDetail.aspx?ID=11283&GUID=E0DED677-120A-4467-9C8A-009AAFA89C7B",
+    "date": "2026-05-14",
+    "title": "Advertise for Bids to prequalified contractors for the North Yard Utilities and Pier B Street Widening project under Specification HD-S3180, subject to approval as to form by the City Attorney; find t",
+    "quote": "* Siemens HydroRanger",
+    "state": "CA"
+   }
+  ]
+ },
+ {
+  "agency": "City of Green Bay",
+  "state": null,
+  "family": "ww-intouch",
+  "filings": 2,
+  "cites": [
+   {
+    "url": "https://greenbaywi.portal.civicclerk.com/event/9709/files/attachment/49232",
+    "date": "2026-06-02",
+    "title": "To approve request by the Department of Public Works to approve the award of Sewers Lift Station SCADA Upgrade design to Strand Associates, Inc. in the amount of $106,000.00.",
+    "quote": "computers and graphics were developed using Wonderware InTouch",
+    "state": null
+   },
+   {
+    "url": "https://greenbaywi.portal.civicclerk.com/event/9682/files/attachment/49198",
+    "date": "2026-05-27",
+    "title": "Consideration with possible action on a request by the Department of Public Works to approve the award of Sewers Lift Station SCADA Upgrade design to Strand Associates, Inc. in the amount of $106,000.",
+    "quote": "computers and graphics were developed using Wonderware InTouch",
+    "state": null
+   }
+  ]
+ },
+ {
+  "agency": "City of Hollywood",
+  "state": "FL",
+  "family": "ww-intouch",
+  "filings": 1,
+  "cites": [
+   {
+    "url": "https://legistar.granicus.com/hollywoodfl/attachments/0400ad1b-6fb7-409e-b7f5-ed27fda8c585.pdf",
+    "date": "2024-09-26",
+    "title": "A Resolution Of The City Commission Of The City Of Hollywood, Florida, Approving And Authorizing The Appropriate City Officials To Execute Change Order No. 5 With Cardinal Contractors, Inc. To Extend",
+    "quote": "Wonderware software license, preconfigured with the following displays: a",
+    "state": "FL"
+   }
+  ]
+ },
+ {
+  "agency": "City of Stockton",
+  "state": "CA",
+  "family": "ww-intouch",
+  "filings": 1,
+  "cites": [
+   {
+    "url": "https://stockton.legistar.com/LegislationDetail.aspx?ID=16722&GUID=E8B0F281-9AAD-4787-A4DF-43CB991453D1",
+    "date": "2026-07-30",
+    "title": "ADOPT A RESOLUTION TO AUTHORIZE A THREE-YEAR SOLE SOURCE AGREEMENT WITH INSOURCE SOFTWARE SOLUTIONS, INC. FOR AVEVA SOFTWARE SUBSCRIPTION, MAINTENANCE, AND SUPPORT SERVICES FOR THE MUNICIPAL UTILITIES",
+    "quote": "For more than 25 years MUD utilized Wonderware software to operate and monitor critical water, wastewater, storm water, and pumping facilities",
+    "state": "CA"
+   }
+  ]
+ },
+ {
+  "agency": "City of Sugar Land",
+  "state": "TX",
+  "family": "ww-intouch",
+  "filings": 2,
+  "cites": [
+   {
+    "url": "https://sugarlandtx.portal.civicclerk.com/event/16/files/attachment/5812",
+    "date": "2026-05-05",
+    "title": "SCADA Annual Preventive Maintenance Program",
+    "quote": "SCADA system from Wonderware InTouch to Inductive Automation Ignition",
+    "state": "TX"
+   },
+   {
+    "url": "https://sugarlandtx.portal.civicclerk.com/event/16/overview",
+    "date": "2026-05-05",
+    "title": "SCADA Annual Preventive Maintenance Program",
+    "quote": "ve Automation Ignition Upgrade of wastewater treatment plants SCADA system from Wonderware InTouch to Inductive Automation Ignition Provide Project Engineer resource(s)",
+    "state": "TX"
+   }
+  ]
+ },
+ {
+  "agency": "City of Visalia",
+  "state": "CA",
+  "family": "ww-intouch",
+  "filings": 1,
+  "cites": [
+   {
+    "url": "https://visalia.legistar.com/LegislationDetail.aspx?ID=8163&GUID=22761758-6010-4768-8C21-9845D7386ED4",
+    "date": "2025-10-20",
+    "title": "Award the Purchase and Installation of Cellular Radios - Authorize the City Manager to award the sole source purchase and installation of 13 cellular radios at the City\u2019s sanitary sewer lift stations",
+    "quote": "The proposed cellular radio installation requires integration with the City's proprietary SCADA system architecture, including Wonderware and Telstar-configured programmable logic controllers (PLCs)",
+    "state": "CA"
+   }
+  ]
+ },
+ {
+  "agency": "Lexington-Fayette Urban County Government",
+  "state": "KY",
+  "family": "ww-intouch",
+  "filings": 5,
+  "cites": [
+   {
+    "url": "https://legistar1.granicus.com/Lexington/attachments/26028fde-59f6-43c4-b5b3-49143c8e556a.pdf",
+    "date": "2026-08-18",
+    "title": "A Resolution authorizing the Div. of Water Quality to purchase service and field support at West Hickman WWTP from Siemens Industry, Inc., a sole source provider, and authorizing the Mayor, on behalf",
+    "quote": "Relays, wonderware box PCs, installation and Sole Source Request for the Purchase of: ____________________________________ updating of switch gear equipment for 12kV and 5kV syst",
+    "state": "KY"
+   },
+   {
+    "url": "https://legistar1.granicus.com/Lexington/attachments/2bc997fa-a590-4e69-a6b2-2fac7052ec1e.pdf",
+    "date": "2025-10-30",
+    "title": "A Resolution authorizing the Div. of Water Quality, on behalf of the Urban County Government, to purchase Supervisory Control and Data Acquisition (SCADA) Citect/Historian Support Services for the Tow",
+    "quote": "Quote Number: 251024CRB Wonderware/Citect Customer First Renewal \u2013 Lexington-Fayette UCG Town Branch WWTP Jennifer, I am pleased to submit this quote in reference to the Wonderware Customer Firs",
+    "state": "KY"
+   },
+   {
+    "url": "https://legistar1.granicus.com/Lexington/attachments/cb65b59e-9264-43eb-a46b-7225f1d87996.pdf",
+    "date": "2025-10-30",
+    "title": "A Resolution authorizing the Div. of Water Quality, on behalf of the Urban County Government, to purchase Supervisory Control and Data Acquisition (SCADA) Citect/Historian Support Services for the Tow",
+    "quote": "Quote Number: 251024 Wonderware/Citect Customer First Renewal \u2013 Lexington-Fayette UCG Jennifer, I am pleased to submit this quote in reference to the Wonderware Customer First and Citect Prog",
+    "state": "KY"
+   }
+  ]
+ },
+ {
+  "agency": "Orange County Sanitation District",
+  "state": "CA",
+  "family": "ww-intouch",
+  "filings": 12,
+  "cites": [
+   {
+    "url": "https://ocsd.legistar.com/LegislationDetail.aspx?ID=6865&GUID=D2C60EC3-D7FC-4C9D-BFEC-010162C9A5C9",
+    "date": "2026-02-12",
+    "title": "GENERAL MANAGER APPROVED PURCHASES AND ADDITIONS TO THE PRE-APPROVED OEM SOLE SOURCE LIST",
+    "quote": "Blanket PO for Cen-Gen WonderWare Annual Maintenance Board Approved OEM Sole Source List M.O",
+    "state": "CA"
+   },
+   {
+    "url": "https://ocsd.legistar1.com/ocsd/attachments/fab14bec-379d-4613-a874-87a6e155d089.pdf",
+    "date": "2026-02-12",
+    "title": "GENERAL MANAGER APPROVED PURCHASES AND ADDITIONS TO THE PRE-APPROVED OEM SOLE SOURCE LIST",
+    "quote": "AVEVA SELECT $107,110.00 Administrative Blanket PO for Cen-Gen WonderWare CALIFORNIA Services Annual Maintenance Board Approved OEM Sole Source List M.O. 08/28/2019, Item No",
+    "state": "CA"
+   },
+   {
+    "url": "https://ocsd.legistar.com/LegislationDetail.aspx?ID=6848&GUID=24470D17-4696-4310-872E-660434CABDD7",
+    "date": "2026-01-28",
+    "title": "GENERAL MANAGER APPROVED PURCHASES AND ADDITIONS TO THE PRE-APPROVED OEM SOLE SOURCE LIST",
+    "quote": "Blanket PO for Cen-Gen WonderWare Annual Maintenance Board Approved OEM Sole Source List M.O",
+    "state": "CA"
+   }
+  ]
+ }
+]

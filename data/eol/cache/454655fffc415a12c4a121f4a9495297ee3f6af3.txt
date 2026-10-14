@@ -1,0 +1,7 @@
+[read rendered via firecrawl 2026-10-13; the page refuses curl]
+Entry type:Product note Entry ID:109809890, Entry date:01/20/2026
+Information about the product phase-out of S7-300 / ET 200M components
+For the SIMATIC S7-300 system and the ET 200M I/O system, the PM400 milestone (product phase-out announcement) is set for October 1, 2023. Discontinuation (PM410) is effective as of October 1, 2025.
+The product discontinuation (see PM490) is not planned before expiration of a 10-year period following PM400
+Until the PM410 milestone is reached, the components are still available as new parts. Afterwards, they will only be available as spare parts or can be returned for repair.
+Please note that from the PM410 milestone onwards, the components can only be purchased in a quantity that is customary for spare parts. Plant expansions or even new investments can then no longer be afforded. Therefore, please switch to one of the successor systems ET 200MP, ET 200SP or ET 200SP HA now.

@@ -31,3 +31,6 @@ data/cache/supply/craigslist/
 data/cache/supply/kempston/
 data/supply/craigslist.jsonl
 data/*.log
+
+# legacy dates: pdftotext fill-in of the gitignored PDFs (regenerable)
+data/eol/text/

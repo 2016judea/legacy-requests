@@ -1,0 +1,598 @@
+Smart manufacturing
+Meeting the
+growing demand
+The Modernization of PLC-5 Controllers and 1771 I/O to ControlLogix
+BEGIN
+Achieving an integrated plant-wide
+architecture that enables a
+Connected Enterprise
+Active: most current offering
+The solid design of the PLC-5® programmable logic controller
+made it a valuable part of our portfolio for more than 30 years. With
+its discontinuance in June 2017, it’s time to modernize your control
+system to the Allen-Bradley® ControlLogix® platform.
+within a product category.
+Active mature: Product is fully
+This high-performance platform allows you to converge your production
+disciplines (discrete, motion, process and safety), including extreme
+environments and high availability applications, into an integrated plant-wide
+architecture that enables you to achieve a Connected Enterprise. Information
+shared between Information Technology (IT) and Operations Technology (OT)
+across a secure network enables:
+supported but a newer product family
+exists. Gain value by migrating.
+End of life: Discontinued date
+greater production visibility, for quicker response to
+customer demand
+announced — execute migration
+projects and last time buys. Product
+generally orderable until the
+discontinued date.
+higher profit margins through improved inventory management,
+cycle times and quality control
+Discontinued: New product
+no longer manufactured or procured.
+Repair/exchange services may be
+available.
+improved capacity and asset utilization, leading to greater
+Overall Equipment Effectiveness (OEE)
+regulatory compliance and reduced exposure to security risks
+Why Modernization
+PG 3
+Let’s Get Started
+PG 4
+Available Tools
+PG 6
+Project Execution
+PG 7
+Case Study
+PG 12
+Next Steps
+PG 13
+2
+Grater equipment utilization
+More production, flexibility
+and scalability
+Reduced maintenance and
+energy costs
+Reduced operations costs
+Higher performance
+Reduced risk
+What do you
+stand to gain?
+Access to plant-wide
+information
+Reduced spares for obsolete
+equipment
+Modernizing to the ControlLogix platform can help
+you meet your long-term business goals. Rockwell
+Automation is the right partner to help you do this. We
+have the products, tools and resources to help you outline
+and implement a plan that fits your application needs,
+budget and long-term goals. Whether you choose to
+modernize all at once or in phases, we have everything
+from self-service tools, to hardware and software
+conversion utilities, to a wide range of modernization
+services to help guide you through the transition.
+Increased competitive
+advantage
+Why Modernization
+PG 3
+Let’s Get Started
+PG 4
+Available Tools
+PG 6
+Increased integration for
+plant-wide control
+Increased ability to meet
+global standards
+Project Execution
+PG 7
+Case Study
+PG 12
+Next Steps
+PG 13
+3
+Let’s get
+started
+We recommend beginning with a lifecycle
+analysis of your production equipment and
+spares inventory. A thorough review of this
+information will help you prioritize your
+modernization needs and goals. You can do this
+yourself or partner with Rockwell Automation to
+assess your installed base and identify any risks.
+Knowing the current lifecycle status of your
+existing control and information equipment
+makes it easier to plan the transition to leadingedge technologies. Our online Product Lifecycle
+Status tool can help you determine the lifecycle
+data of your existing equipment
+Our Installed Base Evaluation™ (IBE® service)
+provides a thorough lifecycle analysis of your
+critical plant assets and their condition. This sitedelivered service provides detailed reports by site,
+area, line, machine and panel. Learn more about
+the Installed Base Evaluation and digitally enabled
+asset management through My Equipment.
+Why Modernization
+PG 3
+Let’s Get Started
+PG 4
+Available Tools
+PG 6
+As you plan your PLC-5 modernization, contact
+your local authorized Allen-Bradley distributor
+or Rockwell Automation sales office to learn of
+your options to help mitigate the growing risk of
+operating obsolete equipment. Such options include
+modernization and remanufacturing services.
+Project Execution
+PG 7
+Case Study
+PG 12
+Next Steps
+PG 13
+4
+WHAT ARE YOUR OPTIONS?
+When planning your modernization, you can evaluate options to develop a proactive
+lifecycle plan, including our unique phased approach.
+From complete, custom turnkey solutions to providing you with the tools to do it yourself,
+we will help you get the highest possible return on your automation investment.
+Modernization resources available from Rockwell Automation
+• Our LifecycleIQ™ Services provide modernization and migration engineering support to help you realize the
+benefits of the ControlLogix system and a modern control architecture.
+• Our factory-trained field service professionals are experienced and prepared to provide on-site assessments,
+modernization planning, and start-up and commissioning of your modernized control architecture.
+• From project management to start-up, we will help define and implement an effective modernization
+strategy for your facility that can help optimize your operations.
+• Learn more about our Modernization Services.
+If you prefer to modernize from PLC-5 controller and 1771 I/O to ControlLogix system without assistance,
+Rockwell Automation provides several tools free of charge to help you plan and modernize with as little
+disruption as possible.
+Why Modernization
+PG 3
+Let’s Get Started
+PG 4
+Available Tools
+PG 6
+Project Execution
+PG 7
+Case Study
+PG 12
+Next Steps
+PG 13
+5
+Tools to plan and execute the migration
+Rockwell Automation provides migration tools for hardware
+selection, code conversion and hardware conversion that
+practically eliminate the need to modify any field device wiring.
+These are available free of charge and include the following —
+click the headings to learn more about each tool.
+RSLogix Project Migrator
+The RSLogix™ Project Migrator tool is a standalone software tool for
+converting an RSLogix 5 or 500 project export file for import into the Studio
+5000 Logix Designer® application. By launching the RSLogix Project Migrator
+tool you are only steps away from converting your application.
+Product Lifecycle Status
+Controller and I/O
+Wiring Conversion Systems
+Integrated Architecture Builder
+Network Interface Modules
+The online Product Lifecycle Status tool can help you determine the lifecycle
+of your existing equipment and identify the most contemporary Rockwell
+Automation products, bringing you advancements in performance, flexibility
+and security. Having this knowledge makes it easier to plan and manage the
+transition from legacy or obsolete equipment to leading-edge technologies.
+The Integrated Architecture Builder (IAB) is a graphical, user-friendly software
+tool that allows you to automatically define and configure a contemporary
+ControlLogix based architecture including a detailed bill of materials based
+on your current PLC-5 based control system. Simply enter the legacy PLC-5
+based bill of materials into the tool and it automatically generates the new
+system bill of materials.
+I/O conversion modules provide a fast and efficient method for converting from
+legacy I/O to contemporary I/O. The I/O conversion is accomplished without
+removing any field wires from the existing Bulletin 1771 Swing Arm, virtually
+eliminating the risk of wiring errors. The existing Bulletin 1771 Swing Arms fit
+directly onto the edge connector of the Bulletin 1492 Conversion Modules.
+The 1756-RIO (Remote I/O Network) Module enables communication and
+data transfer between a ControlLogix controller and other devices on your
+existing RIO network. It can be used to upgrade an existing PLC-5, PLC-3® or
+SLC™ system to a ControlLogix system. The advantages of using the 1756-RIO
+Module in a phased modernization include allowing the existing Remote I/O
+network to remain in place — allowing the new application to be tested before
+switch over — and to switch back to the old application in minutes.
+All tools, phases and migration packages are available regardless of who performs the migration:
+Rockwell Automation | A System Integrator | You Do-It-Yourself
+Why Modernization
+PG 3
+Let’s Get Started
+PG 4
+Available Tools
+PG 6
+Project Execution
+PG 7
+Case Study
+PG 12
+Next Steps
+PG 13
+6
+Moving forward: executing your project
+Whether you choose to migrate all at
+once or in phases, we have the tools
+and experience to guide you through
+the transition.
+Our approach to modular automation
+coupled with backward compatibility
+allows you to maintain productivity as
+you upgrade portions of your
+automation system. Migrate in
+phases at a pace that’s right for you.
+Using the I/O Wiring Conversion System can save you
+hours and eliminate the risk of costly rewiring mistakes.
+01
+02
+1771 I/O chassis
+05
+Let’s Get Started
+PG 4
+Available Tools
+PG 6
+Remove the 1771
+swing-arms from the
+1771 modules.
+06
+Install conversion
+modules into the
+base plate.
+Why Modernization
+PG 3
+03
+Project Execution
+PG 7
+04
+Remove the 1771
+chassis from the
+cabinet.
+Install the I/O
+conversion base plate
+in the control panel.
+Attach conversion
+base plate.
+07
+Insert the 1771 swingarm with attached
+field wires to the
+conversion module.
+Case Study
+PG 12
+08
+Attach the Bulletin
+1492 conversion
+interface cable
+to the conversion
+module and 1756 I/O
+module.
+Next Steps
+PG 13
+Converted system
+7
+PHASE 1
+Application Code
+Conversion
+Phase 1 often begins by converting PLC-5 processor
+code to Logix code. Our free logic and tag database
+conversion utility, RSLogix Project Migrator, will
+help you quickly upgrade your processor code
+allowing you to take full advantage of the AllenBradley Logix family of Programmable Automation
+Controllers (PAC). Once the converted code has
+been downloaded to the Logix PAC, the new 1756RIO Remote I/O module can be used as the network
+interface to the 1771 I/O over the existing Remote I/O
+network.
+Legacy HMI
+Legacy PLC Controller Rack
+Phase 1 tools: Logic Code Conversion Services and
+1756-RIO Module
+Legacy PLC Remote I/O
+BENEFITS
+•
+Develop and confirm your modernization plan
+•
+Test application code before implementation
+•
+Convert 80-100% of code using automated
+code conversion (may need to manually convert
+messages, special instructions, such as PID, and
+potential timing/scan differences)
+•
+Take advantage of powerful constructs and
+features (like structures and integrated motion)
+that you can leverage to improve the application
+Solutions to meet
+steel
+needs
+Why Modernization
+PG
+PG23
+The connected
+Increase
+Knowledge driven
+Modernize and
+steel plant
+operations Project Execution
+empower your
+Let’s Get StartedoperationalAvailable Tools
+PG 5 PG 4
+efficiency PG 6
+PG 14
+workforce
+PG 7
+PG 9
+PG 19
+Design, build and
+Caseupgrade
+Study with
+Next Steps
+PG 12confidence
+PG 13
+PG 22
+Legacy PLC Remote I/O
+8
+PHASE 2
+Replace PLC-5
+Controllers
+Phase 2 involves replacing the existing PLC-5
+controller(s), while continuing to use the 1771
+Remote I/O. This is also called a Rack Zero
+Migration. Replace the PLC-5 controller with the
+Logix PAC and the 1756-RIO module. The same 1756RIO module used in Phase I is now configured to
+perform as the master instead of the monitor. The
+Logix PAC can now control any I/O that resides in the
+local and distributed 1771 chassis.
+Legacy HMI
+ControlLogix
+Phase 2 tools: 1756-RIO module
+BENEFITS:
+•
+Maintain existing field wiring
+•
+Minimize commissioning time and effort
+•
+Ability to return to PLC-5 control, if needed
+Solutions to meet
+steel
+needs
+Why Modernization
+PG
+PG23
+The connected
+Increase
+Knowledge driven
+Modernize and
+steel plant
+operations Project Execution
+empower your
+Let’s Get StartedoperationalAvailable Tools
+PG 5 PG 4
+efficiency PG 6
+PG 14
+workforce
+PG 7
+PG 9
+PG 19
+Design, build and
+Caseupgrade
+Study with
+Next Steps
+PG 12confidence
+PG 13
+PG 22
+9
+PHASE 3
+HMI/EOI Migration
+PanelView Plus/FactoryTalk View
+During this phase of the migration, existing HMIs
+or EOIs can be replaced with FactoryTalk® View
+products using an Application Conversion Program
+(ACP). ACPs not only make operator interface
+conversion much more cost effective, but give you
+greater flexibility regarding the final product. This
+means that you can account for how operators use
+your equipment and design interfaces that help
+maximize their productivity. In the end, this will
+allow you to give your operators the tools they need
+to get quality product to your customers.
+ControlLogix
+Rockwell Automation currently offers free
+conversion from WonderWare and Intellution iFIX
+HMI interfaces. Click here to learn more.
+Phase 3 tools: HMI Application Conversion
+Utility (ACU)
+BENEFITS:
+•
+80% of the time no further modification is
+required
+•
+Utility generates conversion log identifying
+features not supported by new hardware selected
+•
+Option to take advantage of enhanced features
+and graphics
+•
+Better integration with controllers
+Solutions to meet
+steel
+needs
+Why Modernization
+PG
+PG23
+The connected
+Increase
+Knowledge driven
+Modernize and
+steel plant
+operations Project Execution
+empower your
+Let’s Get StartedoperationalAvailable Tools
+PG 5 PG 4
+efficiency PG 6
+PG 14
+workforce
+PG 7
+PG 9
+PG 19
+Design, build and
+Caseupgrade
+Study with
+Next Steps
+PG 12confidence
+PG 13
+PG 22
+10
+PHASE 4
+I/O Replacement
+PanelView Plus/FactoryTalk View
+In the final phase of the migration process, the I/O
+Wiring Conversion System is used to replace the 1771
+I/O with the ControlLogix I/O. Because I/O replacement
+represents a large investment, we provide an approach
+that’s right for your schedule and budget.
+ControlLogix
+The I/O Wiring Conversion System provides a method
+to connect the existing 1771 I/O wiring to the 1756
+I/O modules without disturbing the field wiring
+connections, dramatically reducing labor time and
+eliminating the potential for downtime that could
+result from wiring mistakes during the migration.
+Planning your migration is more manageable as I/O
+can be swapped one rack at a time or all at once based
+on your schedule and budget. In either case, you can
+run both new and old I/O networks simultaneously.
+Additionally, I/O cross reference documentation
+assures correctness and provides historical back-up
+for future troubleshooting or diagnostics.
+1756 I/O with ControlLogix Swing-Arm Interface
+Phase 4 tools: I/O Wiring Conversion System and
+ProposalWorks Selection Software
+BENEFITS:
+•
+Maintain existing field wiring
+•
+Minimize commissioning time and effort
+•
+Cross reference documentation to assure correct
+selection and historical back-up for future
+troubleshooting and/or diagnostics and graphics
+Solutions to meet
+steel
+needs
+Why Modernization
+PG
+PG23
+The connected
+Increase
+Knowledge driven
+Modernize and
+steel plant
+operations Project Execution
+empower your
+Let’s Get StartedoperationalAvailable Tools
+PG 5 PG 4
+efficiency PG 6
+PG 14
+workforce
+PG 7
+PG 9
+PG 19
+Design, build and
+Caseupgrade
+Study with
+Next Steps
+PG 12confidence
+PG 13
+PG 22
+11
+“These new products allow
+CASE STUDY
+us to shrink our equipment
+footprint, move equipment
+around and cut installation
+and maintenance costs.
+Proven results
+“
+CommScope, a leading cable manufacturer, needed to find a cost-effective
+way to modernize their production line and incorporate new equipment. When
+Rockwell Automation first began working with CommScope, the facility was
+controlled only by Allen-Bradley PLC-5 controllers and 1771 I/O. After the
+migration, the facility uses ControlLogix PACs, 1756 chassis I/O and FLEX™ I/O
+on EtherNet/IP™.
+King Lewis control engineering supervisor at CommScope
+“I didn’t know how long this transition would take when we first started the
+project, but going from mechanical drawings to product in just four months
+with only a few days of downtime was faster than I thought it could be
+done,” said King Lewis, control engineering supervisor at CommScope. “The
+Rockwell Automation migration tools obviously helped make the process
+relatively fast and painless.”
+To stay competitive, CommScope needed the ability to produce multiple
+types of cables. This required precision and flexibility as lines change over
+frequently. Lewis said, “Our sister plants and competitors overseas can run
+single cables for a long period of time at low costs to the customer. We have
+to keep our plant up to date, so we can push product through more quickly
+and maintain the best quality. This system migration not only allowed us to
+produce a new cable, saving more than $6 million in shipping costs annually,
+but it also improves production on the other five to ten types of cable we make
+on this same line.”
+“Using EtherNet/IP means we don’t have to deal with gateways and can more
+easily share information throughout the company. We’ve removed push
+buttons and added functionality. And all the migration support and tools from
+Rockwell Automation reduced the risk of our transition,” Lewis said.
+Why Modernization
+PG 3
+Let’s Get Started
+PG 4
+Available Tools
+PG 6
+Project Execution
+PG 7
+Case Study
+PG 12
+Next Steps
+PG 13
+12
+Are you ready?
+To request a migration quote, please contact
+your local authorized Allen-Bradley distributor or
+Rockwell Automation sales representative.
+Learn more about PLC-5 migration and watch an informational webinar.
+Expanding human possibility is a registered trademark of Rockwell Automation. Alphabetically list all Rockwell Automation trademarks used in the publication.
+Allen-Bradley, expanding
+human possibility,
+ControlLogix, FactoryTalk,
+Installed
+Base Evaluation,
+Services,
+PLC-3, PLC-5, RSLogix,
+Positioning
+should be approximately
+0.3” (7.62mm)Flex,
+fromIBE,
+above
+list of locations
+and fromLifecycleIQ
+below publication
+number.
+SLC, Studio 5000 LogixFont:
+Designer
+Rockwell Regular,
+Automation
+trademarks of
+Rockwell Automation, Inc.
+Barlowand
+Condensed,
+8 pt.,are
+80% black,
+centered.
+Trademarks not belonging to Rockwell Automation are property of their respective companies.
+Publication ENCOMP-QR004I-EN-P - Month 20XX | Supersedes Publication ENCOMP-QR004H-EN-P - Month 20XX
+Publication MIGRAT-PP003E-EN-E – September 2021 | Supersedes Publication MIGRAT-PP003D-EN-E – January 2016
+Copyright © 2020 Rockwell Automation, Inc. All Rights Reserved. Printed in USA.
+Copyright © 2021 Rockwell Automation, Inc. All Rights Reserved.
+BACK
+
