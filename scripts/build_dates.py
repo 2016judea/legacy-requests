@@ -159,7 +159,7 @@ def fmt(d: str) -> str:
 
 def head(r: dict) -> str:
     if r["status"] == "eol":
-        return f'Order by {fmt(r["legacy_date"])} <small>{r["days_left"]:,} days left</small>'
+        return f'Order by {fmt(r["legacy_date"])} <small data-d="{r["legacy_date"]}">{r["days_left"]:,} days left</small>'
     if r["status"] == "discontinued":
         return f'Stopped selling {fmt(r["legacy_date"])}' if r["legacy_date"] else "No longer sold new"
     return "Successor named"
@@ -297,6 +297,8 @@ function draw(){{const t=q.value.trim().toLowerCase().split(/\\s+/).filter(Boole
   cnt.innerHTML=(t.length||f)?`${{n}} of ${{arts.length}} notices <button id="all">Show all</button>`:`${{arts.length}} notices, soonest order-by date first`;
   const b=document.getElementById('all');if(b)b.onclick=()=>{{q.value='';f='';document.querySelectorAll('.chip').forEach(c=>c.setAttribute('aria-pressed','false'));draw()}};}}
 q.addEventListener('input',draw);
+// days left counted in the reader's browser, so the static page never goes stale
+document.querySelectorAll('[data-d]').forEach(e=>{{const d=Math.ceil((Date.parse(e.dataset.d+'T23:59:59')-Date.now())/864e5);e.textContent=d>0?d.toLocaleString()+(d===1?' day left':' days left'):'closed'}});
 document.querySelectorAll('.chip').forEach(c=>c.onclick=()=>{{const on=c.getAttribute('aria-pressed')!=='true';document.querySelectorAll('.chip').forEach(x=>x.setAttribute('aria-pressed','false'));c.setAttribute('aria-pressed',on);f=on?c.dataset.f:'';draw()}});
 draw();
 </script>
