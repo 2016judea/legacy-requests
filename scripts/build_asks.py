@@ -23,7 +23,7 @@ import re
 import sys
 import urllib.parse
 from collections import Counter, defaultdict
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -234,8 +234,11 @@ def main():
                 print(f"  ! {rc['token']} {rc['org']}: its ask is no longer open; page not built", file=sys.stderr)
                 continue
             line = [m for m in rc.get("lines", []) if m]
-            others = [r for r in rows if r["id"] not in set(rc["ask_ids"]) and set(r["makers"]) & set(line)][:5]
-            n_line = sum(1 for r in rows if set(r["makers"]) & set(line))
+            # Others on the page must still be open when the email lands (sends run a few days after a build).
+            late = (date.today() + timedelta(days=7)).isoformat()
+            pool = [r for r in rows if r["id"] not in set(rc["ask_ids"]) and set(r["makers"]) & set(line) and r["due"] >= late]
+            others = sorted(pool, key=lambda r: (-(r["last_paid"] or 0) * (r["qty"] or 0)))[:5]
+            n_line = len(pool)
             d = SITE / "for" / rc["token"]
             d.mkdir(parents=True, exist_ok=True)
             (d / "index.html").write_text(render_asks.for_page(meta, rc, own, [redact(r) for r in others], n_line))

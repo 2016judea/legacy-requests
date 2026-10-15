@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>For Pilot Mall: open asks</title>
+<meta name="description" content="Open government requests for quotes that match your part.">
+<meta name="robots" content="noindex">
+<style>
+:root{--ink:#141414;--muted:#6b6b6b;--line:#e3e0da;--bg:#faf9f6;--card:#fff;--accent:#b4451d;--accent-bg:#fbeee6;--ok:#1d6b3a;--ok-bg:#e7f3ea;--lock:#efece6}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.w{max-width:760px;margin:0 auto;padding:0 16px}
+.back{display:inline-flex;align-items:center;min-height:44px;font-size:14px;color:var(--muted)}
+h1{font-size:clamp(28px,6.4vw,44px);line-height:1.08;margin:6px 0 12px;letter-spacing:-.02em}
+.lede{color:var(--muted);font-size:18px;margin:0 0 18px;max-width:54ch}
+.lede b{color:var(--ink)}
+input[type=search]{display:block;width:100%;font:inherit;font-size:18px;padding:14px 16px;border:2px solid var(--ink);border-radius:12px;background:var(--card);min-width:0}
+input[type=search]:focus{outline:2px solid var(--accent);outline-offset:1px}
+.hint{color:var(--muted);font-size:14px;margin:8px 0 0}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0 0}
+.chip{font:inherit;font-size:14px;min-height:40px;padding:6px 12px;border-radius:999px;border:1px solid var(--line);background:var(--card);cursor:pointer;color:var(--ink)}
+.count{margin:22px 0 8px;font-size:15px;color:var(--muted)}
+.count b{color:var(--ink)}
+.ask{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin:10px 0}
+.ask .pt{font-weight:650;font-size:17px}
+.ask .mk{color:var(--muted);font-size:14px;margin-top:2px;overflow-wrap:anywhere}
+.ask code{font:600 13px ui-monospace,SFMono-Regular,Menlo,monospace;background:var(--accent-bg);color:var(--accent);border-radius:5px;padding:1px 6px;overflow-wrap:anywhere}
+.ask .kv{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px 14px;margin-top:10px;font-size:14px}
+.ask .kv div span{display:block;color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.04em}
+.ask .kv b{font-weight:600;overflow-wrap:anywhere}
+.ask .paid b{color:var(--accent)}
+.lockd{margin-top:10px;display:flex;flex-wrap:wrap;gap:6px}
+.lockd span{font-size:13px;background:var(--lock);color:var(--muted);border-radius:6px;padding:3px 8px}
+.lockd span::before{content:"\1F512\FE0E ";font-size:11px}
+.sale{display:inline-block;margin-top:8px;font-size:13px;font-weight:600;color:var(--ok);background:var(--ok-bg);border-radius:6px;padding:2px 8px;text-decoration:none}
+.go{display:inline-flex;align-items:center;min-height:44px;margin-top:4px;font-weight:600;color:var(--accent)}
+.mine{border:2px solid var(--accent)}
+.mine .tag{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--accent);margin-bottom:4px}
+.rec{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 16px;margin:0 0 6px}
+.rec span{display:block;color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.04em}
+.rec a{font-weight:600;overflow-wrap:anywhere}
+h2{font-size:clamp(21px,4.4vw,28px);line-height:1.15;margin:30px 0 6px;letter-spacing:-.01em}
+.sub{color:var(--muted);margin:0 0 10px}
+.pay{margin:26px 0 8px;border-radius:14px;background:var(--ink);color:var(--bg);padding:22px 18px 20px}
+.pay h2{margin:0 0 6px;font-size:clamp(22px,5vw,30px);color:var(--bg)}
+.pay p{margin:0 0 14px;opacity:.8}
+.pay-act{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.pay-btn{font:600 16px/1.25 inherit;font-family:inherit;padding:15px 20px;border-radius:10px;border:1.5px solid var(--bg);background:var(--bg);color:var(--ink);cursor:pointer;min-height:54px;flex:1 1 220px}
+.pay-btn.alt{background:transparent;color:var(--bg);flex:1 1 220px}
+.pay-btn[disabled]{opacity:.6}
+.pwf{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+.pwf input{flex:1 1 200px;min-width:0;font:500 16px ui-monospace,Menlo,monospace;letter-spacing:.08em;text-transform:uppercase;padding:12px;border-radius:9px;border:1px solid #777;background:#222;color:#fff}
+.pwf button{font:600 16px inherit;font-family:inherit;min-height:48px;padding:11px 18px;border-radius:9px;border:1px solid var(--bg);background:transparent;color:var(--bg);cursor:pointer}
+.pwerr{flex-basis:100%;margin:4px 0 0;color:#ffb39a;font-size:14px;min-height:0}
+.pay-co{margin-top:16px;border-radius:12px;overflow:hidden;background:#fff}
+.pay-co:empty{display:none}
+.paidbox{margin:20px 0;border:1px solid var(--line);background:var(--card);border-radius:14px;padding:18px}
+.paidbox .pwf input{background:var(--bg);color:var(--ink);border-color:var(--line)}
+.paidbox .pwf button{color:var(--ink);border-color:var(--ink)}
+.paidbox .pwerr{color:var(--accent)}
+.unl{display:inline-block;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;color:var(--ok);background:var(--ok-bg);border-radius:6px;padding:2px 8px;margin-right:6px}
+.dl{display:inline-flex;align-items:center;min-height:44px;font-weight:600;color:var(--accent);background:none;border:0;font:inherit;font-weight:600;cursor:pointer;padding:0}
+footer{color:var(--muted);font-size:13px;padding:30px 0 50px}
+.sr{position:absolute;left:-9999px}
+@media (min-width:900px){.w{max-width:860px}.pay{padding:30px 36px}}
+</style>
+<!-- bm-posthog:begin v2 — shared across every Vercel prototype; source ~/.claude/skills/site-analytics/posthog_snippet.html. ?me=1 opts this browser out on this site (?me=0 undoes); ?me=1&next=host1,host2 walks the opt-out across sites; headless (navigator.webdriver) never loads it. -->
+<script>
+(function(w,d){var S="legacy-requests",K="bm_me",me=false,u,p,n;
+try{u=new URLSearchParams(location.search);p=u.get("me");n=u.get("next");}catch(e){}
+try{if(p==="1"){localStorage.setItem(K,"1");}else if(p==="0"){localStorage.removeItem(K);}}catch(e){}
+if(p==="1"){d.cookie=K+"=1; path=/; max-age=63072000; SameSite=Lax";}else if(p==="0"){d.cookie=K+"=; path=/; max-age=0; SameSite=Lax";}
+try{me=localStorage.getItem(K)==="1";}catch(e){}
+if(!me&&/(?:^|; )bm_me=1/.test(d.cookie))me=true;
+if(p==="1"&&n){var h=n.split(","),f=h.shift();if(/^[a-z0-9.-]+$/.test(f)&&(f.slice(-11)===".vercel.app"||f==="brickandmortar.dev"||f==="readglean.com")){location.replace("https://"+f+"/?me=1"+(h.length?"&next="+h.join(","):""));}}
+if(navigator.webdriver===true)return;
+!function(t,e){var o,n,p,r;e.__SV||(w.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init capture register register_once unregister identify setPersonProperties reset get_distinct_id get_session_id alias set_config startSessionRecording stopSessionRecording opt_in_capturing opt_out_capturing has_opted_in_capturing has_opted_out_capturing clear_opt_in_out_capturing captureException getFeatureFlag isFeatureEnabled onFeatureFlags".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(d,w.posthog||[]);
+posthog.init("phc_yFgRGppL6H7DvhgZTQKbHdrY5oqnpLT482rrNYtLqnAx",{api_host:"https://us.i.posthog.com",person_profiles:"identified_only",persistence:"localStorage+cookie",opt_out_capturing_by_default:me});
+if(me){posthog.opt_out_capturing();}else{if(p==="0")posthog.opt_in_capturing();posthog.register({site:S});}
+})(window,document);
+</script>
+<!-- bm-posthog:end -->
+<script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments)};</script><script defer src="/_vercel/insights/script.js"></script>
+</head>
+<body><div class="w">
+<a class="back" href="/asks/">&larr; Open asks</a>
+<h1>DLA is asking for AVIATOR.</h1>
+<p class="lede">376 wanted, quotes due Oct 26. Last time they paid $222 each. You list it.</p>
+<div class="rec"><span>Your listing</span><a href="https://pilotmall.com/products/surefire-aviator-dual-output-multi-spectrum-led" target="_blank" rel="noopener">SureFire Aviator dual-output page</a></div>
+<div id="own"></div>
+<h2>1 more open asks name Surefire.</h2>
+<p class="sub">Here they are. Due dates and buyers are in the full list.</p>
+<article class="ask"><div class="pt">Flashlight</div><div class="mk"><code>XVL2-TN</code> SUREFIRE, LLC · 2 part numbers accepted</div><div class="kv"><div><span>Qty</span><b>3 EA</b></div><div><span>Buyer</span><b>Defense Logistics Agency</b></div><div class="paid"><span>Paid last time</span><b>$1,187 each</b> <small>2026-05</small></div></div><div class="lockd"><span>Due date</span><span>Buyer name, email, phone</span><span>RFQ number</span></div></article>
+
+<section class="paidbox" id="paid" hidden aria-live="polite"><h2 id="paidH" style="margin-top:0">Confirming your payment…</h2><p id="paidP" class="sub"></p>
+<form class="pwf" hidden><label class="sr" for="pw2">Password</label><input id="pw2" autocomplete="off" autocapitalize="characters" spellcheck="false" placeholder="XXXX-XXXX-XXXX"><button>Open the full list</button><p class="pwerr" role="alert"></p></form></section>
+<section class="pay" id="pay">
+<h2>All 19,673 open asks, $85 once.</h2>
+<p>Every part number they will accept, the date quotes are due, and the buyer's name, email and phone. Your password comes by email.</p>
+<div class="pay-act"><button type="button" class="pay-btn" id="buy">Get the full list, $85</button>
+<button type="button" class="pay-btn alt" id="havepw" aria-expanded="false">Already paid? Enter your password</button></div>
+<form class="pwf" id="pwf" hidden><label class="sr" for="pw1">Password</label><input id="pw1" autocomplete="off" autocapitalize="characters" spellcheck="false" placeholder="XXXX-XXXX-XXXX"><button>Open the full list</button><p class="pwerr" role="alert"></p></form>
+<div class="pay-co" id="checkout"></div>
+</section>
+
+<footer>Read from the Defense Logistics Agency's bid board (DIBBS) and each RFQ on 2026-10-15. Legacy Requests, by Brick &amp; Mortar · <a href="https://randomaidan.substack.com/p/business-prototypes">why this exists</a></footer>
+</div>
+<script>
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"})[c]);
+function track(name,data){data=data||{};try{window.va("event",{name,data})}catch(e){}try{window.posthog&&posthog.capture&&posthog.capture(name,data)}catch(e){}}
+const money=v=>v==null?"":(v>=100?"$"+Math.round(v).toLocaleString():"$"+v.toFixed(2));
+const day=s=>s?new Date(s+"T12:00").toLocaleDateString("en-US",{month:"short",day:"numeric"}):"";
+const left=s=>{if(!s)return"";const d=Math.round((new Date(s+"T23:59")-Date.now())/864e5);return d<=0?"due today":d===1?"1 day left":d+" days left"};
+const PK="pk_live_51TUvvcBzD4mN8eOD28H6oQkFwFHwF1SLtWxN1vHRmnSxntWFefgd33mEIVmjv8ekxWgkZft3OpPlzmVXMIeHPBwj003998hjTf";
+const store={get:()=>{try{return localStorage.getItem("lr_pw")}catch(e){return null}},set:v=>{try{v?localStorage.setItem("lr_pw",v):localStorage.removeItem("lr_pw")}catch(e){}}};
+const BAD="That password didn't match. Check the email from Brick & Mortar, or reply to it for help.";
+function lockedRow(r){
+ const pn=r.pn?`<code>${esc(r.pn)}</code> `:"";
+ return `<article class="ask"><div class="pt">${esc(r.part||"Part")}</div><div class="mk">${pn}${esc(r.maker||"")}${r.n_approved>1?` · ${r.n_approved} part numbers accepted`:""}</div>
+ <div class="kv"><div><span>Qty</span><b>${esc(r.qty??"")} ${esc(r.unit||"")}</b></div><div><span>Buyer</span><b>${esc(r.agency)}</b></div>${r.last_paid?`<div class="paid"><span>Paid last time</span><b>${money(r.last_paid)} each</b> <small>${esc((r.last_paid_date||"").slice(0,7))}</small></div>`:""}</div>
+ ${r.for_sale?`<span class="sale">For sale now on ${r.for_sale} listing${r.for_sale>1?"s":""}</span>`:""}
+ <div class="lockd"><span>Due date</span><span>Buyer name, email, phone</span><span>RFQ number</span></div></article>`}
+function fullRow(r,mine){
+ const a=r.approved||[];const pns=a.map(x=>`<code>${esc(x.pn||"")}</code> ${esc(x.maker||x.cage||"")}`).join("<br>");
+ const sale=(r.for_sale||[]).slice(0,3).map(s=>`<a class="sale" href="${esc(s.url)}" target="_blank" rel="noopener">For sale: ${esc(s.seller)}${s.price?" "+money(s.price):""}</a>`).join(" ");
+ const who=r.buyer_name?`${esc(r.buyer_name)}${r.buyer_email?`<br><a href="mailto:${esc(r.buyer_email)}">${esc(r.buyer_email)}</a>`:""}${r.buyer_phone?`<br><a href="tel:${esc(r.buyer_phone)}">${esc(r.buyer_phone)}</a>`:""}`:(r.source==="SAM.gov"?"On the notice":"On the RFQ");
+ return `<article class="ask${mine?" mine":""}">${mine?`<div class="tag">Your part</div>`:""}<div class="pt">${esc(r.part||"Part")}</div><div class="mk">${pns}</div>
+ <div class="kv"><div><span>Quotes due</span><b>${day(r.due)}</b> <small>${left(r.due)}</small></div><div><span>Qty</span><b>${esc(r.qty??"")} ${esc(r.unit||"")}</b></div>
+ <div><span>Buyer</span><b>${who}</b></div><div><span>Office</span><b>${esc(r.office||r.agency)}</b></div>
+ ${r.last_paid?`<div class="paid"><span>Paid last time</span><b>${money(r.last_paid)} each</b> <small>${esc((r.last_paid_date||"").slice(0,7))}${r.last_qty?` · qty ${r.last_qty}`:""}</small></div>`:""}
+ <div><span>${esc(r.source)}</span><b>${esc(r.solicitation)}</b>${r.nsn?`<br><small>NSN ${esc(r.nsn)}</small>`:""}</div></div>
+ ${sale}<div><a class="go" href="${esc(r.rfq_url)}" target="_blank" rel="noopener">Open the RFQ &rarr;</a></div></article>`}
+$("#havepw").onclick=()=>{const f=$("#pwf"),on=f.hidden;f.hidden=!on;$("#havepw").setAttribute("aria-expanded",on);$("#checkout").hidden=on;if(on){f.querySelector("input").focus();track("password_open",{})}};
+let CO=null;
+const loadStripe=()=>window.Stripe?Promise.resolve():new Promise((ok,no)=>{const sc=document.createElement("script");sc.src="https://js.stripe.com/dahlia/stripe.js";sc.onload=ok;sc.onerror=no;document.head.appendChild(sc)});
+$("#buy").onclick=async()=>{
+ const b=$("#buy");$("#pwf").hidden=true;$("#havepw").setAttribute("aria-expanded","false");$("#checkout").hidden=false;
+ track("checkout_open",{from:FROM});
+ if(CO){$("#checkout").scrollIntoView({behavior:"smooth",block:"start"});return}
+ b.disabled=true;const t=b.textContent;b.textContent="Loading secure checkout…";
+ try{
+  await loadStripe();const st=Stripe(PK);
+  const opts={fetchClientSecret:()=>fetch("/api/checkout",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({from:FROM})}).then(r=>r.json()).then(j=>{if(!j.clientSecret)throw new Error(j.error||"Checkout could not start.");return j.clientSecret})};
+  CO=await (st.createEmbeddedCheckoutPage?st.createEmbeddedCheckoutPage(opts):st.initEmbeddedCheckout(opts));
+  CO.mount("#checkout");setTimeout(()=>$("#checkout").scrollIntoView({behavior:"smooth",block:"start"}),300);
+ }catch(x){CO=null;$("#pwf").hidden=false;$("#pwf .pwerr").textContent="Checkout didn't load. Refresh the page and try again, or email aidan@brickandmortar.dev.";}
+ finally{b.disabled=false;b.textContent=t}
+};
+async function getFull(pw){
+ const r=await fetch("/api/data",{headers:{"x-password":pw}});
+ if(!r.ok){const j=await r.json().catch(()=>({}));throw new Error(r.status==401?BAD:(j.error||BAD))}
+ const d=await r.json();store.set(pw);track("unlock",{kind:r.headers.get("X-Access")||"",from:FROM});return d}
+document.querySelectorAll("form.pwf").forEach(f=>f.addEventListener("submit",async e=>{
+ e.preventDefault();const inp=f.querySelector("input"),err=f.querySelector(".pwerr"),b=f.querySelector("button");
+ const v=inp.value.trim();if(!v){err.textContent="Enter the password from your email.";return}
+ b.disabled=true;err.textContent="";const t=b.textContent;b.textContent="Opening…";
+ try{onFull(await getFull(v));scrollTo({top:0,behavior:"smooth"})}catch(x){err.textContent=x.message}finally{b.disabled=false;b.textContent=t}
+}));
+
+const FROM="7eb4dfe7";
+track("preview_open",{from:FROM,token:FROM});
+const OWN=[{"id":"SPE8E727T0142:6230015317033","source":"DLA DIBBS","solicitation":"SPE8E727T0142","nsn":"6230015317033","part":"Flashlight","approved":[{"cage":"0BJZ8","pn":"AVIATOR-RD","maker":"SUREFIRE, LLC"}],"qty":376,"unit":"EA","issued":"2026-10-14","due":"2026-10-26","agency":"Defense Logistics Agency","office":"DLA TROOP SUPPORT \u00b7 CONSTRUCTION & EQUIPMENT (LGHTNG I)","buyer_name":null,"buyer_email":"kelly.mitchell@dla.mil","buyer_phone":null,"last_paid":222.06,"last_paid_date":"2026-07-10","last_qty":1300.0,"awards_on_file":20,"took_surplus":false,"rfq_url":"https://dibbs2.bsm.dla.mil/Downloads/RFQ/2/SPE8E727T0142.PDF","pdf_read":true,"makers":["SUREFIRE"]}];
+$("#own").innerHTML=OWN.map(r=>fullRow(r,true)).join("");
+function onFull(d){location.href="/asks/"}
+</script>
+</body></html>

@@ -254,6 +254,12 @@ def locked_row(r: dict) -> str:
 def for_page(meta: dict, rc: dict, own: list[dict], others: list[dict], n_line: int) -> str:
     n, price = meta["n"], meta["price_usd"]
     line = ", ".join(m.title() for m in rc.get("lines", [])[:3])
+    o = own[0]
+    pn = rc.get("pn") or next((a["pn"] for a in o["approved"] if a.get("pn")), "this part")
+    rc.setdefault("headline", f"{o['agency'] if o['source'] == 'SAM.gov' else 'DLA'} is asking for {pn}.")
+    paid = f" Last time they paid {money(o['last_paid'])} each." if o.get("last_paid") else ""
+    u = "" if (o.get("unit") or "EA") == "EA" else " " + o["unit"].lower()
+    rc.setdefault("lede", f"{o['qty']:,}{u} wanted, quotes due {nice_date(o['due'])}.{paid} You list it." if o.get("qty") else f"Quotes due {nice_date(o['due'])}.{paid} You list it.")
     own_json = json.dumps(own, separators=(",", ":")).replace("</", "<\\/")
     js = JS_COMMON.replace("__PK__", json.dumps(PK)) + f"""
 const FROM={json.dumps(rc['token'])};
@@ -271,9 +277,9 @@ function onFull(d){{location.href="/asks/"}}
 <p class="lede">{esc(rc['lede'])}</p>
 {rec}
 <div id="own"></div>
-<h2>{n_line:,} more open asks name {esc(line)}.</h2>
-<p class="sub">A few of them. Due dates and buyers are in the full list.</p>
-{"".join(locked_row(r) for r in others)}
+{f"""<h2>{n_line:,} more open asks name {esc(line)}.</h2>
+<p class="sub">{'A few of them' if n_line > len(others) else 'Here they are'}. Due dates and buyers are in the full list.</p>
+{"".join(locked_row(r) for r in others)}""" if others else ""}
 {PAY.replace('{n}', f'{n:,}').replace('{price}', str(price))}
 <footer>Read from the Defense Logistics Agency's bid board (DIBBS) and each RFQ on {meta['built']}. Legacy Requests, by Brick &amp; Mortar · <a href="https://randomaidan.substack.com/p/business-prototypes">why this exists</a></footer>
 </div>

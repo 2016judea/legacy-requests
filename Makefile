@@ -1,5 +1,5 @@
 PY=.venv/bin/python
-.PHONY: open ingest ingest-granicus ingest-civicclerk ingest-primegov ingest-boarddocs extract site deploy all supply join check
+.PHONY: asks open ingest ingest-granicus ingest-civicclerk ingest-primegov ingest-boarddocs extract site deploy all supply join check
 
 .venv:
 	uv venv .venv && VIRTUAL_ENV= uv pip install --python .venv/bin/python -r requirements.txt
@@ -42,3 +42,8 @@ deploy: site ## push site/ to Vercel production (REST API; the CLI returns BLOCK
 	$(PY) scripts/deploy.py
 
 all: ingest extract site
+
+asks:        ## open DLA RFQs: fetch new RFQ PDFs (cached, ~25 min/day of new ones) -> private/bundle + site/asks + site/for, then deploy
+	for i in 0 1 2; do caffeinate -dims $(PY) scripts/fetch_open_rfqs.py --shard $$i/3 & done; wait
+	$(PY) scripts/build_asks.py
+	$(PY) scripts/build_site.py
