@@ -40,6 +40,54 @@ sales rules: `GO_TO_MARKET.md`.
     .venv/bin/python scripts/eol_installs.py                     # agencies whose filings name a family -> data/eol/installs.json
     make site                                                    # also builds site/dates/index.html
 
+## Open asks: the paid list
+
+[/asks](https://legacy-requests.vercel.app/asks/) (2026-10-15) is every government request for a
+part that is still taking quotes: today ~19.7k open DLA DIBBS RFQ lines plus the SAM.gov sole-source
+notices still open. Each row carries the part numbers the buyer will accept, quantity, the due date,
+the buyer's name, email and phone, and what DLA paid last time (the RFQ's own procurement history).
+
+**Free:** the count, a search by maker or part number that answers with how many open asks match
+and three of them with the part, maker, PN, qty and last price paid. **Paid:** every row, with due
+date, buyer contact, RFQ and stock number, and a CSV. A seller's `/for/<token>/` page shows their
+own listing next to the open ask it answers, in full, plus a few locked rows in their line.
+
+    caffeinate -dims .venv/bin/python scripts/fetch_open_rfqs.py --shard 0/3   # (x3) RFQ PDFs -> data/cache/dibbs/pdf (cached)
+    .venv/bin/python scripts/build_asks.py     # private/bundle/rows.json.gz + site/asks/ + site/for/<token>/
+    .venv/bin/python scripts/build_site.py     # home page links /asks with the live count
+    VERCEL_TOKEN=... .venv/bin/python scripts/deploy.py
+
+## The paywall
+
+Copied from `~/Desktop/msp-house-index`. `site/` ships only counts (`site/asks/meta.json`) and
+redacted samples; the full set is `private/bundle/rows.json.gz` (gitignored), uploaded by
+`scripts/deploy.py` as `api/_full/`, which only `/api/data` and `/api/check` read.
+
+| route | does |
+|---|---|
+| `POST /api/checkout` | Stripe embedded Checkout at the fixed price; mints the buyer's password (nonce + HMAC under `ACCESS_SECRET`) into the session metadata and the invoice footer; `metadata.from` = the page (or `/for/` token) it started on |
+| `POST /api/stripe-webhook` | `checkout.session.completed`: emails the password (Mailgun), once per session, plus a sale notice to Aidan |
+| `GET /api/session-status` | the return page: paid or not; sends the password if the webhook has not |
+| `GET /api/data` | password in `x-password`: every open ask, full |
+| `GET /api/check?q=` | free: match count + three redacted rows |
+
+Vercel env: `STRIPE_SECRET_KEY`, `STRIPE_WEBHOOK_SECRET` (endpoint `we_1UQrxOBzD4mN8eODPwBcjDGj`),
+`ACCESS_SECRET` (also in `./.env`), `MAILGUN_API_KEY`, `MAILGUN_DOMAIN`, `MAILGUN_FROM`. A lost
+password: `python scripts/fulfil.py <session_id>`; every sale: `--recent`; a free copy:
+`python scripts/issue_password.py "comp:<label>"`. Funnel events (Vercel + PostHog):
+`preview_open`, `search`, `checkout_open`, `paid`, `unlock`, `download`.
+
+The full open-asks set has never been committed. (The council history on `/` was always public and
+stays free.)
+
+## Price
+
+**$85, once.** A hypothesis under test, set 2026-10-15, not a fact. Arithmetic: across the open
+asks that carry a last award, the median order (quantity asked × unit price DLA paid last time) is
+$5,695 (n=1,003, 2026-10-15); a reseller's gross margin on a won order taken as 15% is $854; a
+tenth of one won order is ~$85. The Twin Cities index at $100 drew 10 checkouts and 0 payments
+10/11–10/12, so the number is what this round tests.
+
 ## How it works
 
     make ingest    # Legistar API -> data/cache/ (JSON + PDFs; never re-downloaded)

@@ -34,3 +34,6 @@ data/*.log
 
 # legacy dates: pdftotext fill-in of the gitignored PDFs (regenerable)
 data/eol/text/
+
+# paid set: served only by /api/data, never committed (2026-10-15)
+private/

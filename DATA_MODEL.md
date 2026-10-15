@@ -51,3 +51,56 @@ Joins to Notice by make/model; it is the *after* to the Notice's *before*.
 know what they run. The Install side is thin but real and every row is cited, so it
 ships as "agencies on record running this", never as a count of the market. No field
 was dropped to make the model fit.
+
+---
+
+# Data model — Open asks (the paid list)
+
+Written 2026-10-15, from the need alone, before the data was checked (BUSINESS.md rule 5).
+
+**The need.** A surplus dealer, an eBay industrial seller or a repair shop holds a part.
+Somewhere a government buyer is asking for that exact part *right now*, with a date the
+quote is due. The dealer wants every open ask in their line, early enough to quote, with
+the person to call, and what the buyer paid last time so they know if their price clears.
+
+## Ideal model
+
+### Ask — one open government request for a part
+| field | question it answers |
+|---|---|
+| `solicitation`, `source` | Which RFQ is it, on which board (DLA DIBBS, SAM.gov)? |
+| `agency`, `office` | Who is buying? |
+| `part`, `nsn` | What are they asking for, in their words and stock number? |
+| `approved` [ `maker`, `cage`, `pn` ] | Whose part number will they accept? (joins to the dealer's listing) |
+| `qty`, `unit` | How many? |
+| `issued`, `due` | Is it still open, and by what date must the quote be in? |
+| `buyer_name`, `buyer_email`, `buyer_phone` | Whom do I call? |
+| `last_paid`, `last_paid_date`, `last_qty` | What did they pay last time, so does my price clear? |
+| `surplus_ok` | Will they take surplus / not-new stock? |
+| `rfq_url` | Where is the RFQ itself? Every row cites it. |
+| `for_sale` [ `seller`, `url`, `price` ] | Is it already listed somewhere (our supply join)? |
+
+### Seller — the dealer, shop or eBay seller we write to
+| field | question it answers |
+|---|---|
+| `name`, `org`, `email`, `email_source` | Who, and where did their address come from? |
+| `segment` | Dealer / eBay seller / repair shop |
+| `lines` | Which makers do they stock or fix? (joins to Ask.approved.maker) |
+| `their_record`, `record_url` | Their own listing or catalog page that matches an Ask |
+
+**Joins.** Seller.their_record.pn ↔ Ask.approved.pn (exact, separators dropped, maker word
+must agree: `scripts/join_supply.py`). Seller.lines ↔ Ask.approved.maker.
+
+## Reality check (2026-10-15)
+
+| field | source | fillable? |
+|---|---|---|
+| solicitation, nsn, part, qty, unit, issued, due | DIBBS bulk `in<YYMMDD>.txt` | **Yes.** 19,659 open lines today across 23 issue days. |
+| approved cage + pn | DIBBS `bq<YYMMDD>.zip` → `as*.txt` | **Yes**, 14,208 of 19,659 lines carry one. |
+| approved maker name, buyer name/email/phone, last_paid, surplus_ok | the RFQ PDF, one per solicitation | **Yes, slowly**: ~18.7k PDFs, ~4 h at a polite rate (`scripts/fetch_open_rfqs.py`). |
+| SAM.gov open sole-source notices | `data/open_notices.jsonl` | **Thin**: 3 open today. Kept, not the bulk. |
+| for_sale | our supply join | **Thin but real**: tens of exact matches, not hundreds. |
+| Seller.lines, their_record | dealer sitemaps, eBay item pages, shop catalogs | **Yes, by hand per seller.** |
+
+**Call.** The model fills. DIBBS is the bulk of open demand; council sole-source filings
+(the 6,904 rows on `/`) are history, not open asks, and stay free on `/`.

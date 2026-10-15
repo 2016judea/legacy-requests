@@ -9,6 +9,11 @@ the team scope (pro, unblocked), the target (a staging CLI deploy blocked too),
 and .env.local in the payload (a .vercelignore did not change it).
 
 Needs VERCEL_TOKEN in the environment. Reads the project from .vercel/project.json.
+
+Every file under site/ ships (dotfiles and the stopped /worth build excepted), plus
+private/bundle/ (the paid open-asks set, scripts/build_asks.py) as api/_full/, which only
+/api/data and /api/check read; site/vercel.json bundles it with them and redirects any
+public request for it. 2026-10-15: globbed, because a hand list silently dropped new pages.
 """
 import hashlib
 import json
@@ -20,7 +25,8 @@ import urllib.request
 from pathlib import Path
 
 SITE = Path(__file__).resolve().parent.parent / "site"
-FILES = ["index.html", "data.json", "records.json", "vercel.json", "open/index.html", "dates/index.html"]
+BUNDLE = Path(__file__).resolve().parent.parent / "private" / "bundle"
+SKIP_DIRS = {"worth", "_full"}
 POLL_SECONDS = 3
 POLL_LIMIT = 60
 
@@ -44,13 +50,14 @@ def main():
     link = json.loads((SITE / ".vercel" / "project.json").read_text())
     team, project = link["orgId"], link["projectName"]
 
-    # per-recipient gift pages (scripts/build_gifts.py); globbed so a deploy never drops one
-    names = FILES + sorted(str(p.relative_to(SITE)) for p in SITE.glob("for/*/index.html"))
+    if not (BUNDLE / "rows.json.gz").exists():
+        sys.exit("private/bundle/rows.json.gz missing: run scripts/build_asks.py (the paywall serves it)")
+    pairs = [(p, str(p.relative_to(SITE))) for p in sorted(SITE.rglob("*"))
+             if p.is_file() and not any(x.startswith(".") for x in p.relative_to(SITE).parts)
+             and not (set(p.relative_to(SITE).parts) & SKIP_DIRS)]
+    pairs += [(p, "api/_full/" + str(p.relative_to(BUNDLE))) for p in sorted(BUNDLE.rglob("*")) if p.is_file()]
     files = []
-    for name in names:
-        path = SITE / name
-        if not path.exists():
-            continue
+    for path, name in pairs:
         body = path.read_bytes()
         sha = hashlib.sha1(body).hexdigest()
         code, out = request(
@@ -66,7 +73,7 @@ def main():
     payload = json.dumps({
         "name": project, "project": project, "target": "production",
         "files": files,
-        "projectSettings": {"framework": None, "outputDirectory": "."},
+        "projectSettings": {"framework": None, "buildCommand": "echo build", "outputDirectory": ".", "installCommand": "echo skip"},
     }).encode()
     code, out = request(
         f"https://api.vercel.com/v13/deployments?teamId={team}&skipAutoDetectionConfirmation=1",

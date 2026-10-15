@@ -1,1 +1,4 @@
-{ "$schema": "https://openapi.vercel.sh/vercel.json", "framework": null, "outputDirectory": ".", "cleanUrls": true }
+{ "$schema": "https://openapi.vercel.sh/vercel.json", "framework": null, "buildCommand": "echo build", "outputDirectory": ".", "cleanUrls": true,
+  "functions": { "api/data.js": { "includeFiles": "api/_full/**", "memory": 1024 }, "api/check.js": { "includeFiles": "api/_full/**", "memory": 1024 } },
+  "headers": [ { "source": "/asks/(.*)", "headers": [ { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" } ] } ],
+  "redirects": [ { "source": "/api/_full/:path*", "destination": "/asks/", "permanent": false } ] }

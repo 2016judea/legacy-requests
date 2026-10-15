@@ -372,7 +372,13 @@ def story(recs: list[dict], legacy: list[dict] | None = None) -> str:
     op = "".join(
         f'<li><a href="{_esc(o["sam_url"])}" target="_blank" rel="noopener"><b>{_esc(o["title"])}</b>'
         f'<em>{_esc(o["agency"])} · posted {o["posted"]} · open until {o["deadline_date"]}</em></a></li>' for o in still[:5])
-    return legacy_section(legacy or []) + f"""<section class="s"><h2>The same makes. Over and over.</h2>
+    am = SITE / "asks" / "meta.json"  # scripts/build_asks.py: the paid open-asks list (2026-10-15)
+    asks = json.loads(am.read_text()) if am.exists() else None
+    asks_sec = (f"""<section class="s"><h2>Asking right now.</h2>
+<p class="big"><b>{asks['n']:,}</b> government requests for parts are open today, each naming the part numbers they will accept.</p>
+<a class="all" href="/asks/">Search them by maker or part number &rarr;</a></section>
+""" if asks else "")
+    return asks_sec + legacy_section(legacy or []) + f"""<section class="s"><h2>The same makes. Over and over.</h2>
 <p class="sub">Equipment, software, service. Each make asked for by agency after agency.</p>
 <ol class="list">{mk}</ol></section>
 <section class="s"><h2>Asked again. And again.</h2>
@@ -410,6 +416,7 @@ def render(recs: list[dict], legacy: list[dict] | None = None) -> str:
                 if n_sup else "")
     n_open = len(load_open())
     open_lede = f' <a href="/open"><b>{n_open} federal sole-source notices are still open</b> for a supplier to answer &rarr;</a>' if n_open else ""
+
     return f"""<!doctype html>
 <html lang="en">
 <head>
