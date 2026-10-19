@@ -83,16 +83,24 @@ def main():
     parts = [q for q in queries() if re.search(r"\d", q)]
     out: dict[str, dict] = {}
     for n, q in enumerate(parts, 1):
-        try:
-            body, seen = cache.get("GET", SEARCH, params={"q": q, "limit": 200}, headers={"Authorization": f"Bearer {token}",
-                                                                                           "X-EBAY-C-MARKETPLACE-ID": "EBAY_US"})
-        except Exception as e:
-            print(f"  {q!r}: {e}", file=sys.stderr)
-            continue
-        for it in (json.loads(body).get("itemSummaries") or []):
-            l = listing(it, seen)
-            if l and l["url"] not in out:
-                out[l["url"]] = l
+        # Browse caps a page at 200 and the offset window at 10,000; `total` says how many match.
+        offset = 0
+        while True:
+            try:
+                body, seen = cache.get("GET", SEARCH, params={"q": q, "limit": 200, "offset": offset},
+                                       headers={"Authorization": f"Bearer {token}", "X-EBAY-C-MARKETPLACE-ID": "EBAY_US"})
+            except Exception as e:
+                print(f"  {q!r}: {e}", file=sys.stderr)
+                break
+            d = json.loads(body)
+            items = d.get("itemSummaries") or []
+            for it in items:
+                l = listing(it, seen)
+                if l and l["url"] not in out:
+                    out[l["url"]] = l
+            offset += len(items)
+            if not items or offset >= min(int(d.get("total") or 0), 10_000):
+                break
         if n % 100 == 0:
             print(f"  {n}/{len(parts)} queries, {len(out)} listings", flush=True)
     rows = write_listings("ebay", list(out.values()))
