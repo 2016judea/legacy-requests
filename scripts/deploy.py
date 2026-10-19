@@ -42,6 +42,28 @@ def request(url, token, data=None, headers=None):
         return e.code, json.loads(e.read() or b"{}")
 
 
+# Only public/ is static (vercel.json outputDirectory). Until 2026-10-19 every file sat at the
+# deployment root with outputDirectory ".", so api/_full/rows.json.gz was a static URL and the
+# /api/_full/ redirect matched the raw path only: /api/%5Ffull/rows.json.gz, /api/_full%2F...,
+# /api/_full/rows.json.gz/ and /%61pi/_full/... each served the paid set (curl, 1.5 MB, 200).
+# Static files now upload under public/; api/ and a root copy of what the functions require()
+# (asks/meta.json for checkout) stay outside it, where nothing serves them.
+def upload_names(rel):
+    if rel.parts[0] == "api" or str(rel) == "vercel.json":
+        return [str(rel)]
+    return ["public/" + str(rel), str(rel)]
+
+
+def collect():
+    pairs = []
+    for p in sorted(SITE.rglob("*")):
+        rel = p.relative_to(SITE)
+        if p.is_file() and not any(x.startswith(".") for x in rel.parts) and not (set(rel.parts) & SKIP_DIRS):
+            pairs += [(p, name) for name in upload_names(rel)]
+    pairs += [(p, "api/_full/" + str(p.relative_to(BUNDLE))) for p in sorted(BUNDLE.rglob("*")) if p.is_file()]
+    return pairs
+
+
 def main():
     token = os.environ.get("VERCEL_TOKEN")
     if not token:
@@ -52,10 +74,7 @@ def main():
 
     if not (BUNDLE / "rows.json.gz").exists():
         sys.exit("private/bundle/rows.json.gz missing: run scripts/build_asks.py (the paywall serves it)")
-    pairs = [(p, str(p.relative_to(SITE))) for p in sorted(SITE.rglob("*"))
-             if p.is_file() and not any(x.startswith(".") for x in p.relative_to(SITE).parts)
-             and not (set(p.relative_to(SITE).parts) & SKIP_DIRS)]
-    pairs += [(p, "api/_full/" + str(p.relative_to(BUNDLE))) for p in sorted(BUNDLE.rglob("*")) if p.is_file()]
+    pairs = collect()
     files = []
     for path, name in pairs:
         body = path.read_bytes()
@@ -73,7 +92,7 @@ def main():
     payload = json.dumps({
         "name": project, "project": project, "target": "production",
         "files": files,
-        "projectSettings": {"framework": None, "buildCommand": "echo build", "outputDirectory": ".", "installCommand": "echo skip"},
+        "projectSettings": {"framework": None, "buildCommand": "echo build", "outputDirectory": "public", "installCommand": "echo skip"},
     }).encode()
     code, out = request(
         f"https://api.vercel.com/v13/deployments?teamId={team}&skipAutoDetectionConfirmation=1",
