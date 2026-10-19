@@ -1,5 +1,5 @@
 PY=.venv/bin/python
-.PHONY: asks open ingest ingest-granicus ingest-civicclerk ingest-primegov ingest-boarddocs extract site deploy all supply join check
+.PHONY: test asks open ingest ingest-granicus ingest-civicclerk ingest-primegov ingest-boarddocs extract site deploy all supply join check
 
 .venv:
 	uv venv .venv && VIRTUAL_ENV= uv pip install --python .venv/bin/python -r requirements.txt
@@ -34,6 +34,9 @@ supply:      ## pull surplus listings for index makes/models -> data/supply/<sou
 
 join:        ## match every data/supply/*.jsonl to records -> data/supply/matches.json
 	$(PY) scripts/join_supply.py
+
+test:        ## pytest over scripts/ (tests/; no network, no keys)
+	$(PY) -m pytest tests -q
 
 check:       ## prove the supply join (fixed cases + live counts)
 	$(PY) scripts/check_supply.py

@@ -53,7 +53,17 @@ DUE = re.compile(r"BEFORE CLOSE OF BUSINESS \(Date\).*?\n\s*(\d{4} [A-Z]{3} \d{1
 
 def phone(s: str) -> str:
     d = re.sub(r"\D", "", s or "")
+    if not d.strip("0"):  # "000-000-0000" and the nine-zero "000000000" the RFQ prints for no phone
+        return ""
     return f"{d[:3]}-{d[3:6]}-{d[6:10]}" if len(d) == 10 else (s or "").strip()
+
+
+def qty_num(v):
+    """SAM.gov quantity is free text ("1.00 EA", "36 National Stock Numbers (NSNs)"): the leading number, or None."""
+    if isinstance(v, (int, float)):
+        return int(v)
+    m = re.match(r"\s*(\d[\d,]*)", str(v or ""))
+    return int(m.group(1).replace(",", "")) if m else None
 
 
 def read_pdf(sol: str) -> dict | None:
@@ -63,9 +73,7 @@ def read_pdf(sol: str) -> dict | None:
     t = f.read_text(errors="replace")
     out = {"sources": {}, "history": [], "buyer": None, "email": None, "tel": None, "office": None}
     if m := BUYER.search(t):
-        out["buyer"], out["tel"] = m.group(1).strip(), phone(m.group(3))
-        if out["tel"] in ("000-000-0000",):
-            out["tel"] = None
+        out["buyer"], out["tel"] = m.group(1).strip(), phone(m.group(3)) or None
     if m := EMAIL.search(t):
         out["email"] = m.group(1).strip().rstrip(".,;")
     lines = t.splitlines()
@@ -86,12 +94,17 @@ def read_pdf(sol: str) -> dict | None:
 
 def dibbs_rows() -> list[dict]:
     today = date.today().isoformat()
-    rows, approved = [], defaultdict(list)
-    for d in D.issue_days(40):
+    latest, approved = {}, defaultdict(list)
+    # One RFQ line is one purchase request (solicitation + NSN + PR). A re-issue prints the same
+    # line again in a later daily file with a new return-by date, so the latest issue day wins:
+    # summing the files counted 4,793 of 52,616 lines twice (measured 2026-10-18).
+    for d in D.issue_days(40):  # ascending, so a later day overwrites
         r, srcs = D.load_day(d)
-        rows += [x for x in r if x["return_by"] and x["return_by"] >= today]
+        for x in r:
+            latest[(x["solicitation"], x["nsn"], x["pr"])] = x
         for nsn, pairs in srcs.items():
             approved[nsn] += [p for p in pairs if p not in approved[nsn]]
+    rows = [x for x in latest.values() if x["return_by"] and x["return_by"] >= today]
     out = []
     for r in rows:
         sol = r["solicitation"]
@@ -133,7 +146,7 @@ def sam_rows() -> list[dict]:
                 "id": f"{n['notice_id']}:{i}", "source": "SAM.gov", "solicitation": n.get("solicitation") or n["notice_id"],
                 "nsn": None, "part": p.get("part"),
                 "approved": [{"cage": None, "pn": pn, "maker": p.get("manufacturer")} for pn in (p.get("part_numbers") or [None])],
-                "qty": p.get("quantity"), "unit": None, "issued": n["posted"], "due": n["deadline_date"],
+                "qty": qty_num(p.get("quantity")), "unit": None, "issued": n["posted"], "due": n["deadline_date"],
                 "agency": n["agency"], "office": n.get("office"),
                 "buyer_name": None, "buyer_email": None, "buyer_phone": None,  # on the notice; the file never carries it
                 "last_paid": None, "last_paid_date": None, "last_qty": None, "awards_on_file": 0, "took_surplus": None,
