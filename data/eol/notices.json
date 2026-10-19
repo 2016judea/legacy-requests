@@ -35,7 +35,7 @@
   "installs": [],
   "asks": 0,
   "ask_q": "FLEX I/O",
-  "days_left": 16
+  "days_left": 12
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -356,7 +356,7 @@
   ],
   "asks": 0,
   "ask_q": "PowerFlex 70",
-  "days_left": 47
+  "days_left": 43
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -479,7 +479,7 @@
   ],
   "asks": 1,
   "ask_q": "CompactLogix",
-  "days_left": 77
+  "days_left": 73
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -544,7 +544,7 @@
   ],
   "asks": 0,
   "ask_q": "ControlLogix",
-  "days_left": 77
+  "days_left": 73
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -1141,7 +1141,7 @@
   ],
   "asks": 2,
   "ask_q": "DeviceNet cable and media",
-  "days_left": 107
+  "days_left": 103
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -1166,7 +1166,7 @@
   "installs": [],
   "asks": 0,
   "ask_q": "SLC 500",
-  "days_left": 123
+  "days_left": 119
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -1196,7 +1196,7 @@
   "installs": [],
   "asks": 0,
   "ask_q": "FLEX I/O",
-  "days_left": 136
+  "days_left": 132
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -1843,7 +1843,7 @@
   ],
   "asks": 0,
   "ask_q": "PowerFlex 70",
-  "days_left": 227
+  "days_left": 223
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -2418,7 +2418,7 @@
   ],
   "asks": 0,
   "ask_q": "PowerFlex 70",
-  "days_left": 259
+  "days_left": 255
  },
  {
   "oem": "Siemens",
@@ -2435,11 +2435,11 @@
   "catalogs": [],
   "what": [],
   "source": "Siemens notice",
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-19",
   "installs": [],
   "asks": 0,
   "ask_q": "SIMATIC S7-1200",
-  "days_left": 381
+  "days_left": 377
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -2484,7 +2484,7 @@
   ],
   "asks": 0,
   "ask_q": "ControlLogix",
-  "days_left": 442
+  "days_left": 438
  },
  {
   "oem": "Siemens",
@@ -2501,11 +2501,11 @@
   "catalogs": [],
   "what": [],
   "source": "Siemens notice",
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-19",
   "installs": [],
   "asks": 0,
   "ask_q": "SIMATIC Comfort Panels",
-  "days_left": 442
+  "days_left": 438
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -2564,7 +2564,7 @@
   ],
   "asks": 0,
   "ask_q": "PowerFlex 70",
-  "days_left": 624
+  "days_left": 620
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -2607,7 +2607,7 @@
   ],
   "asks": 0,
   "ask_q": "ControlLogix",
-  "days_left": 673
+  "days_left": 669
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -2634,7 +2634,7 @@
   "installs": [],
   "asks": 0,
   "ask_q": "FLEX I/O",
-  "days_left": 716
+  "days_left": 712
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -2659,7 +2659,7 @@
   "installs": [],
   "asks": 0,
   "ask_q": "FLEX I/O",
-  "days_left": -14
+  "days_left": -18
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -2782,7 +2782,7 @@
   ],
   "asks": 1,
   "ask_q": "CompactLogix",
-  "days_left": -15
+  "days_left": -19
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -2844,7 +2844,7 @@
   ],
   "asks": 0,
   "ask_q": "PanelView",
-  "days_left": -15
+  "days_left": -19
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -2869,7 +2869,7 @@
   "installs": [],
   "asks": 0,
   "ask_q": "FLEX I/O",
-  "days_left": -43
+  "days_left": -47
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -2894,7 +2894,7 @@
   "installs": [],
   "asks": 0,
   "ask_q": "FLEX I/O",
-  "days_left": -48
+  "days_left": -52
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -2919,7 +2919,7 @@
   "installs": [],
   "asks": 0,
   "ask_q": "SMC Flex",
-  "days_left": -86
+  "days_left": -90
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -2971,7 +2971,7 @@
   "installs": [],
   "asks": 0,
   "ask_q": "SMC Flex",
-  "days_left": -287
+  "days_left": -291
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -3087,7 +3087,7 @@
   ],
   "asks": 1,
   "ask_q": "CompactLogix",
-  "days_left": -288
+  "days_left": -292
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -3130,7 +3130,7 @@
   ],
   "asks": 0,
   "ask_q": "ControlLogix",
-  "days_left": -288
+  "days_left": -292
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -3170,7 +3170,7 @@
   "installs": [],
   "asks": 0,
   "ask_q": "SMC Flex",
-  "days_left": -288
+  "days_left": -292
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -3199,7 +3199,7 @@
   "installs": [],
   "asks": 0,
   "ask_q": "PLC-5",
-  "days_left": -288
+  "days_left": -292
  },
  {
   "oem": "Rockwell Software",
@@ -3216,11 +3216,11 @@
   "catalogs": [],
   "what": [],
   "source": "Rockwell Software notice",
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-19",
   "installs": [],
   "asks": 0,
   "ask_q": "RSLogix 5",
-  "days_left": -288
+  "days_left": -292
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -3368,7 +3368,7 @@
   ],
   "asks": 0,
   "ask_q": "PowerFlex 70",
-  "days_left": -348
+  "days_left": -352
  },
  {
   "oem": "Siemens",
@@ -3385,11 +3385,11 @@
   "catalogs": [],
   "what": [],
   "source": "Siemens notice",
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-19",
   "installs": [],
   "asks": 0,
   "ask_q": "SIMATIC S7-300",
-  "days_left": -379
+  "days_left": -383
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -3463,7 +3463,7 @@
   ],
   "asks": 0,
   "ask_q": "PanelView",
-  "days_left": -437
+  "days_left": -441
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -3521,7 +3521,7 @@
   ],
   "asks": 0,
   "ask_q": "PanelView",
-  "days_left": -437
+  "days_left": -441
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -3580,7 +3580,7 @@
   "installs": [],
   "asks": 0,
   "ask_q": "PowerFlex 4",
-  "days_left": -472
+  "days_left": -476
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -3639,7 +3639,7 @@
   "installs": [],
   "asks": 0,
   "ask_q": "PowerFlex 4",
-  "days_left": -472
+  "days_left": -476
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -3670,7 +3670,7 @@
   "installs": [],
   "asks": 0,
   "ask_q": "1336 PLUS",
-  "days_left": -533
+  "days_left": -537
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -3711,7 +3711,7 @@
   ],
   "asks": 0,
   "ask_q": "ControlLogix",
-  "days_left": -570
+  "days_left": -574
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -3752,7 +3752,7 @@
   ],
   "asks": 0,
   "ask_q": "ControlLogix",
-  "days_left": -574
+  "days_left": -578
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -3777,7 +3777,7 @@
   "installs": [],
   "asks": 0,
   "ask_q": "SLC 500",
-  "days_left": -588
+  "days_left": -592
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -3826,7 +3826,7 @@
   ],
   "asks": 0,
   "ask_q": "ControlLogix",
-  "days_left": -653
+  "days_left": -657
  },
  {
   "oem": "ABB",
@@ -3843,11 +3843,11 @@
   "catalogs": [],
   "what": [],
   "source": "ABB notice",
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-19",
   "installs": [],
   "asks": 0,
   "ask_q": "ACS550",
-  "days_left": -653
+  "days_left": -657
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -3922,7 +3922,7 @@
   ],
   "asks": 0,
   "ask_q": "PanelView",
-  "days_left": -654
+  "days_left": -658
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -3987,7 +3987,7 @@
   ],
   "asks": 0,
   "ask_q": "PanelView",
-  "days_left": -654
+  "days_left": -658
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -4014,7 +4014,7 @@
   "installs": [],
   "asks": 0,
   "ask_q": "SMC Flex",
-  "days_left": -654
+  "days_left": -658
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -4055,7 +4055,7 @@
   ],
   "asks": 0,
   "ask_q": "PowerFlex 70",
-  "days_left": -664
+  "days_left": -668
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -4072,7 +4072,7 @@
   "catalogs": [],
   "what": [],
   "source": "Rockwell / Allen-Bradley notice",
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-19",
   "installs": [
    {
     "agency": "City of Ann Arbor",
@@ -4092,7 +4092,7 @@
   ],
   "asks": 0,
   "ask_q": "PowerFlex 70",
-  "days_left": -1203
+  "days_left": -1207
  },
  {
   "oem": "Rockwell / Allen-Bradley",
@@ -4109,11 +4109,11 @@
   "catalogs": [],
   "what": [],
   "source": "Rockwell / Allen-Bradley notice",
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-19",
   "installs": [],
   "asks": 0,
   "ask_q": "PLC-5",
-  "days_left": -3394
+  "days_left": -3398
  },
  {
   "oem": "Schneider Electric",
@@ -4130,11 +4130,11 @@
   "catalogs": [],
   "what": [],
   "source": "Schneider Electric notice",
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-19",
   "installs": [],
   "asks": 0,
   "ask_q": "Altivar 61",
-  "days_left": -3575
+  "days_left": -3579
  },
  {
   "oem": "Schneider Electric",
@@ -4151,11 +4151,11 @@
   "catalogs": [],
   "what": [],
   "source": "Schneider Electric notice",
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-19",
   "installs": [],
   "asks": 0,
   "ask_q": "Modicon Quantum",
-  "days_left": -4155
+  "days_left": -4159
  },
  {
   "oem": "Hach",
@@ -4172,7 +4172,7 @@
   "catalogs": [],
   "what": [],
   "source": "Hach notice",
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-19",
   "installs": [
    {
     "agency": "Broward County",
@@ -4224,7 +4224,7 @@
   "catalogs": [],
   "what": [],
   "source": "Yaskawa notice",
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-19",
   "installs": [],
   "asks": 0,
   "ask_q": "P7",
@@ -4245,7 +4245,7 @@
   "catalogs": [],
   "what": [],
   "source": "Hach notice",
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-19",
   "installs": [
    {
     "agency": "Lexington-Fayette Urban County Government",
